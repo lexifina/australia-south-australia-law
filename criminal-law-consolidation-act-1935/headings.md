@@ -21,6 +21,7 @@ Division 16—Abduction of children
 Division 17—Abortion
 Division 18—Concealment of birth
 Part 4—Offences with respect to property
+Part 4A—Computer offences
 Part 5—Offences of dishonesty
 Division 1—Preliminary
 Division 2—Theft
