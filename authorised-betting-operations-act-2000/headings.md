@@ -3,7 +3,7 @@ Part 2—Major betting operations licence
 Division 1—Grant, renewal and conditions of licence
 Division 2—Agreements with licensee
 Division 3—Dealings with licence or licensed business
-Division 4—Approval of directors and executive officers
+Division 4—Approval of designated persons
 Division 5—Applications and criteria for determination of applications
 Division 6—Investigations by Authority
 Division 7—Accounts and audit
