@@ -68,7 +68,7 @@ Division 7—Saving and transitional provisions
 Division 8—Pleas and proceedings on trial
 Division 9—Proceedings against corporations
 Division 10—Verdicts and abolition of forfeiture etc
-Division 11—Costs, witness fees and compensation
+Division 11—Witness fees and expenses
 Division 12—Orders relating to firearms and other offensive weapons
 Division 13—Abolition of presumption of marital coercion
 Division 14—Provision as to persons convicted of offence
