@@ -1,0 +1,13 @@
+Part 1—Preliminary
+Part 2—Administration
+Division 1—General
+Division 2—Inspectors
+Division 3—South Australian Aboriginal Heritage Fund
+Part 3—Protection and preservation of Aboriginal heritage
+Division 1—Discovery of, and search for, Aboriginal sites, objects and remains
+Division 2—Protection of Aboriginal sites, objects and remains
+Division 3—Control of sale of, and other dealings with, Aboriginal objects
+Division 4—Acquisition and custody of Aboriginal sites, objects and records
+Division 5—Protection of traditions
+Division 6—Aboriginal heritage agreements
+Part 4—Miscellaneous
