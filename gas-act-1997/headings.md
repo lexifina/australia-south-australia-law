@@ -8,6 +8,8 @@ Division A1—Declaration as regulated industry
 Division 1—Licensing of gas entities
 Division 2—Price regulation
 Division 3—Standard terms and conditions for retailing of gas
+Division 3A—Standing contracts and default contracts
+Division 3B—Retailer of last resort scheme
 Division 4—Protection of property in gas infrastructure
 Division 5—Temporary gas rationing
 Division 6—Suspension or cancellation of licences
