@@ -1,0 +1,19 @@
+South Australia
+Thomas Hutchinson Trust and related Trusts (Winding Up) Act 1995
+An Act to provide for the sale of the Hutchinson Hospital premises in Gawler and the winding up of the Thomas Hutchinson Trust and certain other trusts; and for other related purposes.
+Preamble
+1 By a will dated 16 October 1896, Thomas Hutchinson (the testator), who died on 29 August 1901 established a trust (the Hutchinson Trust) under which certain property in the town of Gawler in this State was to be used as a hospital and the income from the testator's residuary estate was to be applied for the purposes of that hospital.
+2 A hospital named the "Hutchinson Hospital" was duly established in or about 1911 in East Terrace, Gawler by the then trustees, and the hospital, which continued to operate at that site until the end of October 1994, became an incorporated hospital under the South Australian Health Commission Act 1976 in 1982.
+3 In September 1994 the name of the Hutchinson Hospital was changed to "Gawler Health Service Incorporated".
+4 In October 1994 the board of the Gawler Health Service relocated its operations to the new public hospital premises built in Gawler by the South Australian Health Commission (the Commission) and, in view of this, the trustees of the Hutchinson Trust have closed down the East Terrace premises owned by the Trust.
+5 The trustees of the Hutchinson Trust believe that it would be in accordance with the intentions of the testator (the terms of the will contemplate benefiting any other public hospital that might in the future be established in or near Gawler) if the premises of the former Hutchinson Hospital (apart from the former Director of Nursing's residence) were to be sold, the other trust assets (all monetary investments) realised and the net proceeds of sale and realisation (after clearing all the Trust's debts and expenses) paid to the Commission to offset the cost of building and equipping the new public hospital premises.
+6 The trustees and the board of the Gawler Health Service have agreed that the former Director of Nursing's residence should be transferred (at no consideration) to the Gawler Health Service.
+7 The following further trusts were established:
+(a) by a will dated 31 March 1915, John Potts, who died on 14 June 1915, established a trust (the Potts Trust) the income of which was to be divided equally between the Hutchinson Hospital and the Children's Hospital at North Adelaide (now the Women's and Children's Hospital);
+(b) by a will dated 20 March 1930, James Commons, who died on 10 February 1937, established a trust (the Commons Trust) the income of which was to be paid to the Hutchinson Hospital;
+(c) by a will dated 4 August 1936, John Alfred Dingle, who died on 15 April 1944, established a trust the income of which was to be paid to the Hutchinson Hospital for the benefit of destitute patients;
+(d) by a will dated 4 December 1944, Lydia Helps, who died on 24 January 1952, established a trust (the Helps Trust) the income of which was to be paid to the Hutchinson Hospital;
+(e) by a will dated 6 August 1945, Ann Magarey, who died on 21 February 1947, established a trust (the Magarey Trust) the income of which was to be divided equally between the Hutchinson Hospital and the Children's Hospital at North Adelaide (now the Women's and Children's Hospital).
+8 The trustees of the trusts referred to in clause 7 believe that it is the appropriate time to wind up those trusts and to pay the net proceeds to the Gawler Health Service and, as the case may require, the Women's and Children's Hospital.
+9 The purpose of this Act is therefore to implement the wishes of the trustees of the various trusts referred to in the preceding clauses and to make appropriate provision for any testamentary dispositions that may now or in the future be in favour of the Hutchinson Hospital at Gawler.
+The Parliament of South Australia enacts as follows:
