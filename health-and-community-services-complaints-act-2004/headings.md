@@ -5,7 +5,7 @@ Division 2—Functions and powers
 Division 3—Committees
 Division 4—Appointment of conciliators and professional mentors
 Division 5—Other matters
-Part 3—Charter of Health and Community Service Rights
+Part 3—Charter of Health and Community Services Rights
 Part 4—Complaints
 Division 1—Making a complaint
 Division 2—Assessment
