@@ -1,0 +1,7 @@
+Schedule 2—Appointment and selection of assessors for Magistrates Court or District Court proceedings under Part 5
+(1) The Minister must establish a panel of persons with expertise in building work who may sit with the Magistrates Court or District Court (Civil Division) as assessors in proceedings under Part 5.
+(2) A member of the panel is to be appointed by the Minister for a term of office not exceeding three years and on conditions determined by the Minister and specified in the instrument of appointment.
+(3) A member of the panel is, on the expiration of a term of office, eligible for reappointment.
+(4) Subject to subclause (5), if assessors are to sit with the Magistrates Court or District Court (Civil Division) in proceedings under Part 5, a judicial officer of the Court must select two members from the panel to sit with the Court in the proceedings.
+(5) A member of the panel who has a personal or a direct or indirect pecuniary interest in a matter before the Magistrates Court or District Court (Civil Division) is disqualified from participating in the hearing of the matter.
+(6) If an assessor dies or is for any reason unable to continue with any proceedings, the Magistrates Court or District Court (Civil Division) constituted of the judicial officer who is presiding at the proceedings and the other assessor may, if the judicial officer so determines, continue and complete the proceedings.
