@@ -1,0 +1,11 @@
+Part 1—Preliminary
+Part 2—State Emergency Management Committee
+Part 3—The State Co-ordinator
+Part 4—The management of emergencies
+Division 1—Co-ordinating agency
+Division 2—Control agency
+Division 3—Declaration of emergencies
+Division 4—Powers that may be exercised in relation to declared emergencies
+Division 5—Recovery operations
+Part 5—Offences
+Part 6—Miscellaneous
