@@ -13,6 +13,7 @@ Division 8—Female genital mutilation
 Division 9—Assaults
 Division 10—Threatening another person with firearm
 Division 11—Rape and other sexual offences
+Division 11A—Child pornography and related offences
 Division 12—Commercial sexual services and related offences
 Division 13—Miscellaneous sexual offences
 Division 14—Procedure in sexual offences
