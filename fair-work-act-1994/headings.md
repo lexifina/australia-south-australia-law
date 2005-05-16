@@ -9,7 +9,6 @@ Division 4—Judicial office
 Division 5—Constitution of Court
 Part 3—The Industrial Relations Commission of South Australia
 Division 1—Establishment of the Commission
-Division 2—Divisions of the Commission
 Division 3—Jurisdiction of the Commission
 Division 4—Composition of the Commission
 Division 5—The Commissioners
@@ -19,6 +18,7 @@ Part 4—Provisions of common application to the Court and the Commission
 Division 1—The Industrial Registrar and other officers
 Division 2—Disclosure of interest
 Division 3—Protection for officers
+Division 3A—Completion of part-heard matters
 Division 4—Annual report
 Part 5—Industrial Relations Advisory Committee
 Division 1—The Committee and its functions
@@ -29,10 +29,18 @@ Division 1—The office of the Employee Ombudsman
 Division 2—Inspectors
 Chapter 3—Employment
 Part 1—General conditions of employment
+Division 1—Basic contractual features
+Division 2—Contracts to be construed subject to relevant minimum standards
 Part 2—Regulation of industrial matters by enterprise agreements
 Part 3—Regulation of industrial matters by award
 Division 1—Awards generally
+Division 1A—Special provision relating to child labour
+Division 1B—Special provision relating to trial work
 Division 2—Review of awards
+Part 3A—Outworkers
+Division 1—Preliminary
+Division 2—Code of practice
+Division 3—Recovery of unpaid remuneration
 Part 4—General principles affecting determination of working conditions
 Part 5—Enforcement of obligations arising from employment
 Division 1—Records to be kept by employers
@@ -40,7 +48,6 @@ Division 2—Powers of inspectors
 Part 6—Unfair dismissal
 Division 1—Preliminary
 Division 2—Application for relief
-Division 3—Conciliation conference
 Division 4—Determination of application
 Division 5—Miscellaneous
 Part 7—Exemption from employment conditions
@@ -70,6 +77,7 @@ Division 1—Conduct of proceedings
 Division 2—Representation
 Division 3—Intervention
 Division 4—General principles about exercise of jurisdiction
+Division 4A—Conciliation conferences
 Division 5—Evidentiary powers
 Division 6—Miscellaneous procedural rules
 Division 7—Contempts
