@@ -21,5 +21,5 @@ Part 7—Funding the operation and maintenance of the Scheme
 Division 1—Funding the Scheme
 Division 2—Recovery of money from owners and occupiers
 Part 8—Wells
-Part 9—Operation of the Water Resources Act 1997 in the Scheme Area
+Part 9—Operation of Chapter 7 of the Natural Resources Management Act 2004 in the Scheme Area
 Part 10—Miscellaneous
