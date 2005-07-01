@@ -1,7 +1,8 @@
 Part 1—Preliminary
 Part 2—Objects of Act
-Part 3—Authority, conference and Fund
+Part 3—Administering agencies, conferences and the Fund
 Division 1—Environment Protection Authority
+Division 1A—Administering agencies
 Division 2—Round-table conference
 Division 3—Environment Protection Fund
 Part 4—General environmental duty
