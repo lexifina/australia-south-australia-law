@@ -1,4 +1,4 @@
 South Australia
-Heritage Act 1993
-An Act to conserve places of heritage value; and for other purposes.
+Heritage Places Act 1993
+An Act to make provision for the identification, recording and conservation of places and objects of non-Aboriginal heritage significance; to establish the South Australian Heritage Council; and for other purposes.
 The Parliament of South Australia enacts as follows:
