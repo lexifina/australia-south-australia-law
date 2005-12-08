@@ -3,6 +3,7 @@ Part 2—Administration
 Division 1—The Commissioner
 Division 2—Inspectors
 Division 3—The Authority
+Division 4—Criminal intelligence
 Part 3—Licences
 Division 1—Classes of licence
 Division 2—Special provisions relating to gaming machine licences
