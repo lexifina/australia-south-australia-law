@@ -1,5 +1,4 @@
 Part 1—Preliminary
-Part 2—Defamation
 Part 3—Liability for animals
 Part 4—Occupiers liability
 Part 5—Wrongful acts or neglect causing death
