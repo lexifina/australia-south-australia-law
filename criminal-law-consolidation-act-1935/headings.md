@@ -9,10 +9,10 @@ Division 3—Miscellaneous
 Division 4—Unlawful threats
 Division 5—Stalking
 Division 6—Death and injury arising from reckless driving etc
-Division 7—Acts causing or intended to cause danger to life or bodily harm etc
+Division 7—Assault
+Division 7A—Causing physical or mental harm
 Division 8—Female genital mutilation
-Division 9—Assaults
-Division 10—Threatening another person with firearm
+Division 9—Kidnapping and unlawful child removal
 Division 11—Rape and other sexual offences
 Division 11A—Child pornography and related offences
 Division 12—Commercial sexual services and related offences
