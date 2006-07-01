@@ -8,7 +8,7 @@ The conditions to which a gaming machine licence will be subject are as follows:
 (e) that the licensee will not conduct the gaming operations within a gaming area unless the layout of the gaming machines within the area is in accordance with the layout approved by the Commissioner; and
 (f) that the licensee will not make any structural or other alterations within a gaming area on the licensed premises except with the approval of the Commissioner; and
 (g) that the licensee will not conduct the gaming operations outside the hours specified in the licence; and
-(j) that the licensee will not engage any person other than the holder of the gaming machine service licence to install, service or repair a gaming machine, gaming machine component or gaming equipment; and
+(j) that the licensee will not engage any person other than the holder of a gaming machine service licence to install, service or repair a gaming machine, gaming machine component or gaming equipment; and
 (k) that the licensee will not commence to conduct gaming operations pursuant to the licence until—
 (i) he or she has entered into an arrangement, the terms of which have been approved by the Commissioner, for the monitoring by computer of the operation of all gaming machines on the licensed premises and that arrangement has been implemented; and
 (ii) each gaming machine has been inspected and sealed by an inspector; and
