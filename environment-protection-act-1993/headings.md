@@ -28,7 +28,7 @@ Division 1—Authorised officers and their powers
 Division 2—Environment protection orders
 Division 3—Power to require or obtain information
 Division 4—Action to deal with environmental harm
-Part 11—Civil remedies
+Part 11—Civil remedies and penalties
 Part 12—Emergency authorisations
 Part 13—Appeals to Court
 Part 14—Public register
