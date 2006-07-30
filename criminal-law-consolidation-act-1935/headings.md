@@ -8,7 +8,7 @@ Division 2—Defence of life and property
 Division 3—Miscellaneous
 Division 4—Unlawful threats
 Division 5—Stalking
-Division 6—Death and injury arising from reckless driving etc
+Division 6—Serious vehicle and vessel offences
 Division 7—Assault
 Division 7A—Causing physical or mental harm
 Division 8—Female genital mutilation
