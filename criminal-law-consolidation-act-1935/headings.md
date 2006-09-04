@@ -76,7 +76,7 @@ Division 12—Orders relating to firearms and other offensive weapons
 Division 13—Abolition of presumption of marital coercion
 Division 14—Provision as to persons convicted of offence
 Division 15—Overlapping offences
-Part 11—Cases stated and appeals
+Part 11—Appellate proceedings
 Division 1—Preliminary
 Division 2—Reference of questions of law
 Division 3—Appeals
