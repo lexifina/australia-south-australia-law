@@ -11,6 +11,7 @@ Division 5—Stalking
 Division 6—Serious vehicle and vessel offences
 Division 7—Assault
 Division 7A—Causing physical or mental harm
+Division 7B—Throwing objects at vehicles
 Division 8—Female genital mutilation
 Division 9—Kidnapping and unlawful child removal
 Division 11—Rape and other sexual offences
