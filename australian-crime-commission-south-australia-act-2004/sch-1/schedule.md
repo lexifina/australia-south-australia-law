@@ -1,2 +1,2 @@
-Schedule 1—Related amendments, repeal and transitional provision
-Part 1—Preliminary
+Schedule 1—Transitional provision
+Part 7—Transitional provisions
