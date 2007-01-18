@@ -1,2 +1,2 @@
-Schedule 6—Related amendments, repeals and transitional provisions
-Part 1—Preliminary
+Schedule 6—Transitional provisions
+Part 11—Transitional provisions
