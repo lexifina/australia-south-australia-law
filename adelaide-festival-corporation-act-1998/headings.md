@@ -6,4 +6,5 @@ Division 1—Board
 Division 2—Ministerial control
 Division 3—Committees and delegations
 Division 4—Financial matters and annual reports
+Division 5—Staffing arrangements
 Part 5—Miscellaneous
