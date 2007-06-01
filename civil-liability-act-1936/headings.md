@@ -16,7 +16,7 @@ Division 1—Rights as between employer and employee
 Division 2—Remedies against certain shipowners
 Division 3—Damage by aircraft
 Division 4—Abolition of rule of common employment
-Division 5—Actions in tort relating to husband and wife
+Division 5—Actions in tort relating to spouses and domestic partners
 Division 6—Limitation on the award of damages for the costs of raising a child
 Division 7—Abolition of actions of seduction, enticement and harbouring
 Division 8—Unreasonable delay in resolution of claim
