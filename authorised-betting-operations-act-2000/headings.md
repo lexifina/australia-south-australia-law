@@ -9,6 +9,7 @@ Division 6—Investigations by Authority
 Division 7—Accounts and audit
 Division 8—Payment of duty
 Division 9—General power of direction
+Division 10—Recovery of administration costs
 Part 3—Licensing of other betting operations
 Division 1—Licences
 Division 2—Liability to pay duty

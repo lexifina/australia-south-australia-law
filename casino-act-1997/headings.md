@@ -29,6 +29,7 @@ Division 9—Consultation with licensee
 Part 5—Financial matters
 Division 1—Accounts and audit
 Division 2—Casino duty
+Division 3—Recovery of administration costs
 Part 6—Supervision
 Division 1—Commissioner's supervisory responsibility
 Division 2—Power to obtain information
