@@ -29,6 +29,8 @@ Subdivision 5—Miscellaneous
 Division 2—Orders made by Minister
 Division 3—Court orders
 Division 4—Demerit points scheme
+Note—
+Sections 103—109 had not come into operation at the date of the publication of this version.
 Division 5—Miscellaneous
 Part 9—Review and appeals
 Division 1—Internal review
