@@ -31,10 +31,11 @@ Division 3—State Crewing Committee
 Division 4—Procedures and powers of Committee
 Part 7—Certificates of competency
 Part 8—Hire of vessels
-Part 9—Registration and certificates of surveys
+Part 9—Registration, certificates of survey, loadline certificates and Australian Builders Plates
 Division 1—Registration of vessels
 Division 2—Certificates of survey
 Division 3—Loadline certificates
+Division 4—Australian Builders Plates
 Part 10—Safety
 Division 1—Safety generally
 Division 2—Survey
