@@ -11,5 +11,4 @@ Division 5—Powers of court in relation to domestic building work
 Division 6—Harsh and unconscionable terms
 Division 7—Participation of assessors in proceedings
 Division 8—Magistrates Court and substantial monetary claims
-Part 6—Advisory panel
 Part 7—Miscellaneous
