@@ -21,7 +21,6 @@ Part 7—Voluntary audits and environment performance agreements
 Part 8—Special environment protection provisions
 Division 1—Water quality in water protection areas
 Division 2—Beverage containers
-Division 3—Ozone protection
 Part 9—General offences
 Part 10—Enforcement
 Division 1—Authorised officers and their powers
