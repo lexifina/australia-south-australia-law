@@ -29,7 +29,7 @@ Division 3—Power to require or obtain information
 Division 4—Action to deal with environmental harm
 Part 10A—Special provisions and enforcement powers for site contamination
 Note—
-Divisions 1—4 had not come into operation at the date of the publication of this version.
+Divisions 1—3 had not come into operation at the date of the publication of this version.
 Division 1—Interpretation and application
 Division 2—Appropriate persons to be issued with orders and liability for site contamination
 Division 3—Orders and other action to deal with site contamination
