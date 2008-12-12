@@ -1,0 +1,2 @@
+A1—Short title
+This Act may be cited as the Sale of Goods Act 1895.
