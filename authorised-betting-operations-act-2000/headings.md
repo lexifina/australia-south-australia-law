@@ -10,12 +10,15 @@ Division 7—Accounts and audit
 Division 8—Payment of duty
 Division 9—General power of direction
 Division 10—Recovery of administration costs
-Part 3—Licensing of other betting operations
+Part 3—Bookmaker's and other licences
 Division 1—Licences
 Division 2—Liability to pay duty
+Part 3A—Authorisation of interstate betting operators
 Part 4—Regulation of betting operations
-Division 1—Betting operations other than bookmaking
+Division 1—Major betting operations and on-course totalisator betting operations
 Division 2—Bookmaking operations
+Division 3—Interstate betting operations
+Division 4—Betting operations relating to racing
 Part 5—Enforcement
 Division 1—Commissioner's supervisory responsibility
 Division 2—Power to obtain information
