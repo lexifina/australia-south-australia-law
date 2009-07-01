@@ -1,7 +1,6 @@
 Part 1—Preliminary
 Part 2—Administration
 Division 1—Essential Services Commission
-Division 2—Electricity Supply Industry Planning Council
 Division 3—Technical Regulator
 Division 4—Advisory committees
 Part 3—Electricity supply industry
