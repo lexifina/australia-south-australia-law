@@ -1,45 +1,48 @@
 Part 1—Preliminary
-Part 2—Commissioner and the Tribunal
-Division 1—The Commissioner
-Division 2—The Equal Opportunity Tribunal
-Division 3—The Registrar
-Part 3—Prohibition of discrimination on the ground of sex, sexuality, marital status or pregnancy
-Division 1—Discrimination to which this Part applies
-Division 2—Discrimination in employment
+Part 2—Commissioner and Tribunal
+Division 1—Commissioner
+Division 2—Equal Opportunity Tribunal
+Division 3—Registrar
+Part 3—Prohibition of discrimination on ground of sex, chosen gender or sexuality
+Division 1—Discrimination to which Part 3 applies
+Division 2—Discrimination against workers
+Division 3—Discrimination by other bodies
+Division 4—Discrimination in education
+Division 5—Discrimination in relation to land, goods, services and accommodation
+Division 7—General exemptions from Part 3
+Part 4—Prohibition of discrimination on ground of race
+Division 1—Discrimination to which Part 4 applies
+Division 2—Discrimination against workers
 Division 3—Discrimination by other bodies
 Division 4—Discrimination in education
 Division 5—Discrimination in relation to land, goods, services and accommodation
 Division 6—Discrimination in relation to superannuation
-Note—
-Division 6 had not come into operation at the date of the publication of this version.
-Division 7—General exemptions from this Part
-Part 4—Prohibition of discrimination on the ground of race
-Division 1—Discrimination to which this Part applies
-Division 2—Discrimination in employment
+Division 7—General exemptions from Part 4
+Part 5—Prohibition of discrimination on ground of disability
+Division 1—Discrimination to which Part 5 applies
+Division 2—Discrimination against workers
 Division 3—Discrimination by other bodies
 Division 4—Discrimination in education
 Division 5—Discrimination in relation to land, goods, services and accommodation
 Division 6—Discrimination in relation to superannuation
-Division 7—General exemptions from this Part
-Part 5—Prohibition of discrimination on the ground of impairment
-Division 1—Discrimination to which this Part applies
-Division 2—Discrimination in employment
+Division 7—General exemptions from Part 5
+Part 5A—Prohibition of discrimination on ground of age
+Division 1—Discrimination to which Part 5A applies
+Division 2—Discrimination against workers
 Division 3—Discrimination by other bodies
 Division 4—Discrimination in education
 Division 5—Discrimination in relation to land, goods, services and accommodation
-Division 6—Discrimination in relation to superannuation
-Division 7—General exemptions from this Part
-Part 5A—Prohibition of discrimination of the ground of age
-Division 1—Discrimination to which this Part applies
-Division 2—Discrimination in employment
+Division 6—General exemptions from Part 5A
+Part 5B—Prohibition of discrimination on other grounds
+Division 1—Discrimination to which Part 5B applies
+Division 2—Discrimination against workers
 Division 3—Discrimination by other bodies
 Division 4—Discrimination in education
 Division 5—Discrimination in relation to land, goods, services and accommodation
-Division 6—General exemptions from this Part
-Division 7—Discrimination under statute
+Division 6—General exemptions from Part 5B
 Part 6—Other unlawful acts
 Part 7—Grant of exemptions
-Part 8—Enforcement of this Act
-Division 1—Complaints and inquiries
-Division 2—Appeals
+Part 8—Enforcement
+Division 1—Proceedings before Commissioner and Tribunal
+Division 2—Review and appeal
 Part 9—Miscellaneous
