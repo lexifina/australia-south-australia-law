@@ -24,7 +24,7 @@ Schedule 5—Regulations
 (i) the determination of complaints against members of SASES units;
 (ii) the disciplining, in appropriate cases, of members of SASES units.
 7 Any matter relevant to—
-(a) the prevention, control, suppression, containment, mitigation or extinction of fire; or
+(a) the prevention, control, suppression, containment, mitigation or extinction of fire, including so as to regulate or prohibit any activity, practice or act, or the use of any plant, equipment, apparatus or device (either absolutely or in prescribed circumstances and including so as to provide for the imposition of any conditions or requirements); or
 (b) the prevention or mitigation of, or the means of dealing with, other emergencies; or
 (c) the safety of life or property in the event of a fire or other emergency.
 8 Any matter relevant to the operation, maintenance or inspection of equipment by a body within the emergency services sector, the members of such a body, or councils.
@@ -33,6 +33,7 @@ Schedule 5—Regulations
 11 The procedures associated with any process under this Act, including the service of any notice or other document.
 12 The design or use of any uniform, badge or insignia.
 13 The holding of coronial inquests at the request of the Commission or an emergency services organisation in prescribed cases.
-14 Fixing expiation fees, not exceeding $500, for alleged offences against the regulations.
+14 Fixing expiation fees, not exceeding $500, for alleged offences against the Act or regulations.
 15 Evidence in proceedings for an offence against the regulations.
-16 The imposition of penalties, not exceeding $5 000, for a contravention of, or failure to comply with, a regulation.
+16 The imposition of penalties, not exceeding $10 000, for a contravention of, or failure to comply with, a regulation.
+17 The making of provisions of a saving or transitional nature consequent on the amendment of this Act by any other Act.
