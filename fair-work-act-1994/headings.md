@@ -91,5 +91,5 @@ Division 1—General principles
 Division 2—Beginning proceedings
 Division 3—Settlement of industrial disputes
 Division 4—Appeals and references
-Part 4—Co-operative arrangements
+Part 4—Cooperative arrangements
 Chapter 6—Miscellaneous

@@ -21,7 +21,7 @@ Article 3
 2. The methods to be followed in this appraisal may be decided upon by the authorities responsible for the determination of rates of remuneration, or, where such rates are determined by collective agreements, by the parties thereto.
 3. Differential rates between workers which correspond, without regard to sex, to differences, as determined by such objective appraisal, in the work to be performed shall not be considered as being contrary to the principle of equal remuneration for men and women workers for work of equal value.
 Article 4
-Each member shall co-operate as appropriate with the employers' and workers' organisations concerned for the purpose of giving effect to the provisions of this Convention.
+Each member shall cooperate as appropriate with the employers' and workers' organisations concerned for the purpose of giving effect to the provisions of this Convention.
 Article 5
 The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 Article 6
