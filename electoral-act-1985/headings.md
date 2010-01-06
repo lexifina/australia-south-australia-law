@@ -19,7 +19,8 @@ Division 6—Joint Commonwealth-State arrangements
 Part 5—Enrolment
 Division 1—Entitlement to enrolment
 Division 2—Claims for enrolment
-Division 3—Transfer of enrolment etc
+Division 2A—Itinerant persons
+Division 3—Compulsory enrolment and transfer
 Division 4—Objections
 Part 6—Registration of political parties
 Part 7—Writs for elections
