@@ -1,1 +1,1 @@
-Schedule 4—Public accountability of the Board
+Schedule 4—Public accountability of Board

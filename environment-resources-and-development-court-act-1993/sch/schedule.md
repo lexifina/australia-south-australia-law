@@ -2,7 +2,7 @@ Schedule—Commissioners
 1 (1) A commissioner will be appointed either on a full-time or part-time basis.
 (2) Subject to this section, a commissioner holds office on terms and conditions determined by the Governor.
 (3) The following provisions apply in respect of full-time or permanent part-time commissioner:
-(a) the commissioner is not subject to Part 3 of the Government Management and Employment Act 1985, but the rights of the commissioner to long service leave, recreation leave, sick leave and other forms of leave will be determined in accordance with the provisions of that Act and the regulations under that Act; and
+(a) the commissioner is not a Public Service employee, but will have rights to long service leave, recreation leave, sick leave and other forms of leave as if the commissioner were a Public Service employee; and
 (b) the commissioner may retire at or after the age of 55 years and must retire on attaining the age of 65 years; and
 (c) the commissioner may, after retiring, complete the hearing and determination of an appeal or matter part heard by the commissioner at the time of his or her retirement (and will, for that purpose, be taken to continue as a commissioner); and
 (d) the commissioner is an employee within the meaning of the Superannuation Act 1974; and
