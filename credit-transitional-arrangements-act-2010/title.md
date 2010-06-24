@@ -1,0 +1,4 @@
+South Australia
+Credit (Transitional Arrangements) Act 2010
+An Act to enact ancillary provisions, including transitional provisions, relating to the enactment by the Parliament of the Commonwealth of legislation relating to the provision of credit and certain other financial transactions under its legislative powers, including powers with respect to matters referred to that Parliament for the purposes of section 51(xxxvii) of the Constitution of the Commonwealth; to amend the Bills of Sale Act 1886, the Criminal Law (Clamping, Impounding and Forfeiture of Vehicles) Act 2007, the Second-hand Vehicle Dealers Act 1995, the Security and Investigation Agents Act 1995, and the Stamp Duties Act 1923; and to repeal the Consumer Credit (South Australia) Act 1995 and the Credit Administration Act 1995.
+The Parliament of South Australia enacts as follows:
