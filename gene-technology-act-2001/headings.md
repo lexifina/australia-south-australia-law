@@ -19,6 +19,11 @@ Division 5—Decision on licence etc
 Division 6—Conditions of licences
 Division 7—Suspension, cancellation and variation of licences
 Division 8—Annual charge
+Part 5A—Emergency dealing determinations
+Division 1—Simplified outline
+Division 2—Making of emergency dealing determination
+Division 3—Effect and conditions of emergency dealing determination
+Division 4—Variation, suspension and revocation of emergency dealing determination
 Part 6—Regulation of notifiable low risk dealings and dealings on the GMO Register
 Division 1—Simplified outline
 Division 2—Notifiable low risk dealings
@@ -27,11 +32,10 @@ Part 7—Certification and accreditation
 Division 1—Simplified outline
 Division 2—Certification
 Division 3—Accredited organisations
-Part 8—The Gene Technology Technical Advisory Committee, the Gene Technology Community Consultative Committee and the Gene Technology Ethics Committee
+Part 8—The Gene Technology Technical Advisory Committee and the Gene Technology Ethics and Community Consultative Committee
 Division 1—Simplified outline
 Division 2—The Gene Technology Technical Advisory Committee
-Division 3—The Gene Technology Community Consultative Committee
-Division 4—The Gene Technology Ethics Committee
+Division 3—The Gene Technology Ethics and Community Consultative Committee
 Part 9—Administration
 Division 1—Simplified outline
 Division 2—Appointment and conditions of Regulator
