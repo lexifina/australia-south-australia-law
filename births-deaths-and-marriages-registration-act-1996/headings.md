@@ -9,6 +9,7 @@ Division 2—Registration of births
 Division 3—Alteration of details of birth registration
 Division 4—Court orders relating to registration of birth
 Division 5—Child's name
+Division 6—Surrogacy orders
 Part 4—Change of name
 Part 5—Registration of marriages
 Part 6—Registration of deaths
