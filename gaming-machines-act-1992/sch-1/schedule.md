@@ -11,8 +11,8 @@ The conditions to which a gaming machine licence will be subject are as follows:
 (j) that the licensee will not engage any person other than the holder of a gaming machine service licence to install, service or repair a gaming machine, gaming machine component or gaming equipment; and
 (k) that the licensee will not commence to conduct gaming operations pursuant to the licence until—
 (i) he or she has entered into an arrangement, the terms of which have been approved by the Commissioner, for the monitoring by computer of the operation of all gaming machines on the licensed premises and that arrangement has been implemented; and
-(ii) each gaming machine has been inspected and sealed by an inspector; and
-(iii) such of the gaming equipment on the premises as the Commissioner may direct has been inspected and sealed by an inspector; and
+(ii) each gaming machine has been inspected and sealed by an authorised officer or approved gaming machine technician; and
+(iii) such of the gaming equipment on the premises as the Commissioner may direct has been inspected and sealed by an authorised officer; and
 (l) that the licensee will not purchase for use, or use, in gaming machines any tokens other than approved gaming tokens that bear unique identification approved by the Commissioner; and
 (m) that the licensee will not purchase gaming tokens from a person other than an approved manufacturer of gaming tokens; and
 (n) that the licensee will not permit a gaming machine to be operated unless the machine, or the approved game played on the machine, returns winnings to players at a rate that is not less than—
