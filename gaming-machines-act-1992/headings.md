@@ -7,12 +7,12 @@ Division 4—Criminal intelligence
 Part 3—Licences
 Division 1—Classes of licence
 Division 2—Special provisions relating to gaming machine licences
-Division 3—Applications for licences
+Division 3—Applications, criteria and licence conditions
 Division 3A—Gaming machine entitlements
 Division 4—Transfer of licences
 Division 4A—Devolution of licensee's rights
 Division 5—Objections and intervention
-Division 6—Suspension, revocation and surrender of licences
+Division 6—Suspension, revocation and surrender of licences and certificates
 Division 7—Disciplinary action against licensees
 Part 4—Approvals
 Part 4A—Special provisions relating to licensed dealers

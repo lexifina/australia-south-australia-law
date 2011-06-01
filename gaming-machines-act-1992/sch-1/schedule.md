@@ -19,19 +19,4 @@ The conditions to which a gaming machine licence will be subject are as follows:
 (i) in the case of a machine or game installed before the commencement of this paragraph—85 per cent;
 (ii) in the case of a machine or game installed after that commencement—87.5 per cent,
 of the total amount of all bets made on the machine; and
-(na) that the licensee—
-(i) must adopt a code of practice on advertising approved by the Authority; and
-(ii) must ensure that advertising by the licensee conforms with the code of practice approved under this paragraph; and
-(nb) that the licensee—
-(i) must adopt a code of practice approved by the Authority dealing with—
-(A) the display of signs, and the provision of information at the licensed premises relating to responsible gambling and the availability of services to address problems associated with gambling; and
-(AB) a program for early intervention in problem gambling designed to promote—
-(a) early identification of persons engaging in problem gambling, including through active observation of the attendance patterns, behaviour and statements of gamblers; and
-(b) the provision of information relating to responsible gambling and the availability of services to address problems associated with gambling to persons so identified; and
-(c) the use of the barring procedures under this Act in relation to persons so identified; and
-(d) the referral of persons so identified to the Department within the meaning of the Problem Gambling Family Protection Orders Act 2004; and
-(B) the provision of training to staff relating to the early intervention program and generally to responsible gambling on gaming machines and the services available to address problems associated with gambling; and
-(C) any other matters designed to reduce the incidence of problem gambling determined by the Authority; and
-(ii) must ensure that operations under the gaming machine licence conform with the code of practice approved under this paragraph; and
-(nc) that the licensee must ensure that any alterations required to be made to a code of practice by the Authority pursuant to the Act are duly made; and
 (o) such other conditions (if any) as the Commissioner thinks fit and specifies in the licence.
