@@ -1,5 +1,10 @@
 Part 1—Preliminary
 Part 2—Controlled Substances Advisory Council
+Part 2A—Application in South Australia of Commonwealth therapeutic goods laws
+Division 1—Applied provisions
+Division 2—Functions and powers under applied provisions
+Division 3—Offences against applied provisions
+Division 4—Reviews and appeals
 Part 3—Controlled substances
 Part 4—General offences
 Part 5—Offences relating to controlled drugs, precursors and plants
