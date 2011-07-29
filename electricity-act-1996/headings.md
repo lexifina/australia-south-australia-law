@@ -10,7 +10,7 @@ Division 2—System controller
 Division 2A—Price regulation
 Division 3—Standard terms and conditions for sale or supply
 Division 3AA—Special provisions relating to small customers
-Division 3AB—Feed-in mechanisms
+Division 3AB—Feed‑in mechanisms
 Division 3A—Protection of property in infrastructure
 Division 4—Suspension or cancellation of licences
 Division 5—Commission's powers to take over operations
