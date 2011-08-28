@@ -13,7 +13,7 @@ Division 2—Commercial offences
 Subdivision 1—Trafficking in controlled drugs
 Subdivision 2—Manufacture of controlled drugs
 Subdivision 3—Cultivation and sale of controlled plants
-Subdivision 4—Sale of equipment for use in connection with consumption of controlled drugs
+Subdivision 4—Sale of equipment etc
 Division 3—Offences involving children and school zones
 Division 4—Other offences
 Division 5—General provisions relating to offences
