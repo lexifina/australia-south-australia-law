@@ -17,6 +17,7 @@ Subdivision 1—Vehicle or driver licensing laws
 Subdivision 2—Drink or drug‑driving laws
 Subdivision 3—Vehicle impounding laws
 Subdivision 4—Miscellaneous matters
+Division 2A—Restraining orders laws
 Division 3—Offence
 Part 4—Police officers of another participating jurisdiction exercising powers in State
 Division 1—Powers generally
