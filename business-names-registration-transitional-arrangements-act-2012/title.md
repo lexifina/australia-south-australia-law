@@ -1,0 +1,4 @@
+South Australia
+Business Names Registration (Transitional Arrangements) Act 2012
+An Act to enact ancillary provisions, including transitional provisions, relating to the enactment by the Parliament of the Commonwealth of legislation relating to the registration of business names under its legislative powers, including powers with respect to matters referred to that Parliament for the purposes of section 51(xxxvii) of the Constitution of the Commonwealth; to amend the Bank Merger (BankSA and Advance Bank) Act 1996, the Bank Merger (National/BNZ) Act 1997, the Bank Mergers (South Australia) Act 1997, the Building Work Contractors Act 1995, the Motor Vehicles Act 1959, the Partnership Act 1891, the Plumbers, Gas Fitters and Electricians Act 1995, the Security and Investigation Agents Act 1995 and the Travel Agents Act 1986; and to repeal the Business Names Act 1996.
+The Parliament of South Australia enacts as follows:
