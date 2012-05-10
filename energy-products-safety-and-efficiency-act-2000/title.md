@@ -1,4 +1,4 @@
 South Australia
-Electrical Products Act 2000
-An Act to make provisions relating to the safety, performance, energy efficiency and labelling of electrical products; to repeal the Electrical Products Act 1988; and for other purposes.
+Energy Products (Safety and Efficiency) Act 2000
+An Act to make provisions relating to the safety, performance, energy efficiency and labelling of products powered by electricity, gas or some other energy source; and for other purposes.
 The Parliament of South Australia enacts as follows:

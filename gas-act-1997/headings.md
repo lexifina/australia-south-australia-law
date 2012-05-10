@@ -20,8 +20,6 @@ Division 2—Powers and duties relating to gas infrastructure
 Division 3—Powers relating to gas installations
 Division 4—Powers and duties in emergencies
 Part 5—Safety and technical issues
-Division 1—Gas infrastructure, gas installations and gas fitting work
-Division 2—Gas appliances
 Part 6—Enforcement
 Division A1—Warning notices and assurances
 Division A2—Injunctions
