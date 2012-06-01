@@ -3,6 +3,7 @@ Part 2—Witnesses
 Part 3—Miscellaneous rules of evidence
 Division 1—Miscellaneous rules of evidence in general cases
 Division 2—Miscellaneous rules of evidence in sexual cases
+Division 3—Admissibility of evidence showing discreditable conduct or disposition
 Part 4—Public Acts and documents
 Part 5—Banking records
 Part 6—Telegraphic messages
