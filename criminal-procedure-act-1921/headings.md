@@ -4,6 +4,7 @@ Part 4—Summary jurisdiction
 Division 2—Complaint and subsequent proceedings
 Division 3—The hearing
 Division 4—Judgment
+Division 5—Non‑association and place restriction orders
 Division 7—Restraining orders
 Part 5—Indictable offences
 Division 1—Charges of indictable offences
