@@ -1,5 +1,5 @@
 Part 1—Preliminary
-Part 2—First home owner grant
+Part 2—Grants
 Division 1—Entitlement to grant
 Division 2—Eligibility criteria (applicants)
 Division 3—Eligible transactions
