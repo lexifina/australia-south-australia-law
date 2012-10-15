@@ -1,7 +1,7 @@
 Part 1—Preliminary
 Part 1A—Territorial application of the criminal law
 Part 2—Treason
-Part 3—Offences against the person
+Part 3—Offences against the person etc
 Division 1—Homicide
 Division 1A—Criminal neglect
 Division 2—Defence of life and property
@@ -11,6 +11,7 @@ Division 5—Stalking
 Division 6—Serious vehicle and vessel offences
 Division 7—Assault
 Division 7A—Causing physical or mental harm
+Division 7AB—Special firearm offences
 Division 7B—Throwing objects at vehicles
 Division 7C—Food and beverage spiking
 Division 8—Female genital mutilation
