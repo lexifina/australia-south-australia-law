@@ -23,4 +23,11 @@ Division 4—Prisoners at large
 Part 6—Parole
 Division 1—The Parole Board
 Division 3—Release on parole
+Part 7—Prisoner compensation quarantine funds
+Division 1—Preliminary
+Division 2—Award of damages to prisoners
+Division 3—Payment of money to prisoner compensation quarantine fund
+Division 4—Notice of prisoner compensation quarantine fund
+Division 5—Payments out of prisoner compensation quarantine fund
+Division 6—Miscellaneous
 Part 8—Miscellaneous
