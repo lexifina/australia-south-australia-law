@@ -17,6 +17,7 @@ Division 4—Grant, renewal, conditions and transfer of environmental authorisat
 Division 5—Special conditions
 Division 6—Suspension, cancellation and surrender of environmental authorisations
 Division 7—Criteria for decisions of Authority in relation to development applications
+Part 6A—Sustainability licence endorsements
 Part 7—Voluntary audits and environment performance agreements
 Part 8—Special environment protection provisions
 Division 1—Water quality in water protection areas
