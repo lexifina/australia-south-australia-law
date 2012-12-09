@@ -19,4 +19,8 @@ The conditions to which a gaming machine licence will be subject are as follows:
 (i) in the case of a machine or game installed before the commencement of this paragraph—85 per cent;
 (ii) in the case of a machine or game installed after that commencement—87.5 per cent,
 of the total amount of all bets made on the machine; and
+(nd) that the licensee will not conduct the gaming operations on the licensed premises between the hours of 2 am and 8 am unless—
+(i) a gaming machine manager or gaming machine employee who has completed advanced problem gambling intervention training is present in the gaming area at all times; and
+(ii) arrangements are in place under which the gaming machine manager or gaming machine employee may immediately refer a person identified as engaging in problem gambling to a service to address the problem; and
+(iii) measures are in place that prevent machines designed to change a monetary note into coins and located on the licensed premises from being operated between the hours of 2 am and 8 am; and
 (o) such other conditions (if any) as the Commissioner thinks fit and specifies in the licence.
