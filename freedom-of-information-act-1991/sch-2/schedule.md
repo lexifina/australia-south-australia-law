@@ -9,7 +9,7 @@ The following are exempt agencies:
 (i) the Attorney-General, in respect of functions related to the enforcement of the criminal law;
 (j) the Parole Board;
 (k) the Solicitor-General, the Crown Solicitor, the Director of Public Prosecutions and the Commissioner for Victims' Rights;
-(l) the Ombudsman and the Police Complaints Authority;
+(l) the Ombudsman and the Police Ombudsman;
 (m) the Public Trustee, in respect of functions exercised as executor, administrator or trustee;
 (n) the South Australian Government Financing Authority, the Local Government Financing Authority and the South Australian Superannuation Fund Investment Trust;
 (o) a Minister of the Crown in respect of the administration of the former South Australian Development Fund or the Industry Investment Attraction Fund (or a fund substituted for the Industry Investment Attraction Fund);
