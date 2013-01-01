@@ -1,13 +1,16 @@
 Schedule 1A—Optional coverage
-Award—General Application
-Fibrous Plasterers (Factory) Award
-Award—Limited Application
-The National Joinery and Building Trades Product Award 1993, but only in relation to the following classifications and only in the terrazzo or concrete casting industries:
-Carpenter
-Joiner
-Carpenter and Joiner
-Tradesperson
-Machinist
-Terrazzo Assistant
-Factory Hand
-Adult Trainee—Terrazzo Worker first six months.
+Award
+The Building and Construction General On‑site Award 2010, but only in relation to the following classifications and only in the terrazzo or concrete casting industries:
+(a) Carpenter;
+(b) Joiner;
+(c) Tradesperson (precast concrete manufacture);
+(d) Machinist (precast concrete manufacture);
+(e) Terrazzo Assistant;
+(f) General Hand;
+(g) Adult trainee terrazzo worker.
+The Manufacturing and Associated Industries and Occupations Award 2010, but only in relation to workers employed in the preparation or manufacture of any of the following:
+(a) fibrous plaster;
+(b) architectural ornaments made of fibrous plaster, plaster or cement;
+(c) plaster tiles or sheets (whether containing fibre or not);
+(d) architectural models;
+(e) material for suspended ceilings.
