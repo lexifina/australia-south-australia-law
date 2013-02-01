@@ -5,12 +5,14 @@ Division 3—Technical Regulator
 Division 4—Advisory committees
 Part 3—Electricity supply industry
 Division A1—Declaration as regulated industry
+Division A2—Application of provisions
 Division 1—Licensing of electricity entities
 Division 2—System controller
 Division 2A—Price regulation
 Division 3—Standard terms and conditions for sale or supply
 Division 3AA—Special provisions relating to small customers
 Division 3AB—Feed‑in mechanisms
+Division 3AC—Contestable services
 Division 3A—Protection of property in infrastructure
 Division 4—Suspension or cancellation of licences
 Division 5—Commission's powers to take over operations
@@ -29,6 +31,7 @@ Subdivision 4—Resolution of disputes under schemes
 Division 3—Miscellaneous
 Part 5A—Undergrounding of powerlines
 Part 6—Safety and technical issues
+Part 6A—Regulation of NERL retailers
 Part 7—Enforcement
 Division A1—Warning notices and assurances
 Division A2—Injunctions
