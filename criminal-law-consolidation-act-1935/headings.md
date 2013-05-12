@@ -40,6 +40,7 @@ Division 7—Dishonest manipulation of machines
 Division 8—Dishonest exploitation of advantage
 Division 9—Miscellaneous offences of dishonesty
 Part 5A—Identity theft
+Part 5B—Cheating at gambling
 Part 6—Secret commissions
 Division 1—Preliminary
 Division 2—Unlawful bias in commercial relationships
