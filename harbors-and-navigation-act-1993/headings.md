@@ -1,7 +1,7 @@
 Part 1—Preliminary
 Part 2—Administration
 Division 1—Minister
-Division 2—Chief Executive Officer
+Division 2—Chief Executive
 Division 3—Delegation
 Division 4—Authorised persons
 Division 5—Miscellaneous
@@ -24,21 +24,14 @@ Division 2A—Operational powers
 Division 3—Harbor improvement work
 Division 4—Harbor charges etc
 Part 5A—Pilotage
-Part 6—Crewing
-Division 1—Application of this Part
-Division 2—Obligation to have adequate crew
-Division 3—State Crewing Committee
-Division 4—Procedures and powers of Committee
-Part 7—Certificates of competency
+Part 7—Boat operator's licence etc
 Part 8—Hire of vessels
-Part 9—Registration, certificates of survey, loadline certificates and Australian Builders Plates
+Part 9—Registration and Australian Builders Plates
 Division 1—Registration of vessels
-Division 2—Certificates of survey
-Division 3—Loadline certificates
 Division 4—Australian Builders Plates
 Part 10—Safety
 Division 1—Safety generally
-Division 2—Survey
+Division 2—CE may require survey
 Division 3—Operation of vessels
 Division 4—Alcohol and other drugs
 Part 11—Accidents
@@ -47,5 +40,5 @@ Division 1—Constitution of Court
 Division 2—Enquiries into casualties
 Division 3—Enquiries into misconduct or incompetence
 Division 4—Administrative review
-Part 13—Application of Commonwealth Act and International Conventions
+Part 13—Application of Navigation Act 2012 and International Conventions
 Part 14—Miscellaneous
