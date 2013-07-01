@@ -1,13 +1,13 @@
 18BAB—Housing construction grant
 (1) Subject to this section, a grant (the housing construction grant) is payable on an application under this Act if—
 (a) the application relates to an eligible transaction that is a new home transaction; and
-(b) the commencement date of the eligible transaction is on or after 15 October 2012 but before 1 July 2013; and
+(b) the commencement date of the eligible transaction is on or after 15 October 2012 but before 1 January 2014; and
 (c) the market value of the home to which the eligible transaction relates is less than $450 000; and
 (d) —
 (i) if the eligible transaction is a comprehensive home building contract for a new home—the contract states that the eligible transaction must be completed within 18 months after the laying of the foundations for the home is commenced or, in any other case, the eligible transaction is completed within 18 months after the laying of the foundations for the home is commenced; and
 (ii) if the eligible transaction is the building of a new home by an owner builder—the transaction is completed within 18 months after its commencement date; and
 (iii) if the eligible transaction is a contract for an "off‑the‑plan" purchase of a new home—
-(A) the contract states that the eligible transaction must be completed on or before 31 December 2014; or
+(A) the contract states that the eligible transaction must be completed on or before 30 June 2015; or
 (B) in any other case, the eligible transaction is completed on or before that date; and
 (e) the transaction for which the grant is sought has been completed.
 (2) The amount of the housing construction grant under this section is as follows:
