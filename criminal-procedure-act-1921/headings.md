@@ -11,5 +11,5 @@ Division 1—Charges of indictable offences
 Division 2—Preliminary examination of charges
 Division 3—Forum for trial or sentence
 Division 4—Procedure following committal for trial or sentence
-Division 5—Cases where Court itself deals with minor indictable offences
+Division 5—Cases where Court itself deals with indictable offences
 Part 7—Supplementary provisions
