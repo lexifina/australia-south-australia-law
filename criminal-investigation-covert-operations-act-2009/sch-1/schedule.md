@@ -1,2 +1,2 @@
-Schedule 1—Repeal and transitional provisions
+Schedule 1—Transitional provisions
 Part 1—Interpretation

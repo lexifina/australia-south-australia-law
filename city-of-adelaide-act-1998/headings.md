@@ -8,9 +8,7 @@ Division 5—Other matters
 Part 3—Special arrangements for the Adelaide City Council
 Division 1—Constitution of Council
 Division 2—Role of members
-Division 3—Code of conduct
 Division 4—Allowances and benefits
 Division 5—Specific provisions relating to the chief executive officer
 Division 6—Administrative and financial matters
-Division 7—Register of interests
 Part 4—Miscellaneous
