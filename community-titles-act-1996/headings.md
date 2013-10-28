@@ -15,6 +15,7 @@ Division 3—Cancellation of community plans
 Part 8—Division of primary parcel under Part 19AB
 Part 9—The community corporation
 Division 1—Establishment of the corporation
+Division 1A—Delegations by corporation
 Division 2—General meetings
 Division 3—Management committee
 Division 4—Appointment of administrator
