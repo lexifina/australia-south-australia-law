@@ -13,3 +13,4 @@ Schedule 1—Principles
 (ii) takes into account their individual needs, goals, age and other personal circumstances; and
 (iii) takes into account any further disadvantage that may be suffered as a result of their gender, ethnic origin, aboriginality, financial situation or location; and
 (c) have the right to pursue any grievance in relation to those services without fear of the discontinuance of services or of recriminations or retribution from service providers.
+5 The United Nations Convention on the Rights of Persons with Disabilities adopted at New York, United States of America, on 13 December 2006, is recognised as a set of best practice principles that should guide policy development, funding decisions and the administration and provision of disability services.
