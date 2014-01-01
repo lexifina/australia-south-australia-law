@@ -1,1 +1,0 @@
-Schedule—Transitional provisions

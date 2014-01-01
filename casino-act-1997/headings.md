@@ -6,6 +6,7 @@ Division 3—Term and renewal of licence
 Division 4—Conditions of licence
 Division 5—Transfer of licence
 Division 6—Dealings affecting casino licence
+Division 6A—Approval of designated persons
 Division 7—Surrender of licence
 Division 8—Agreement with licensee
 Part 3—Applications for grant or transfer of licence
@@ -17,11 +18,13 @@ Division 5—Costs of investigation
 Division 6—Governor not bound by Authority's recommendation
 Part 4—Operation of casino
 Division 1—Opening hours
+Division 1A—Gambling only allowed in enclosed areas
 Division 2—Approval of management and staff
 Division 3—Provisions of general application to staff
 Division 4—Approval and use of systems and equipment
+Division 4AA—Disposal of games and gaming machines
 Division 4A—Codes of practice
-Division 5—Prohibited gambling practices
+Division 5—Prohibited practices
 Division 6—Exclusion of children
 Division 7—General power of exclusion
 Division 8—General power of direction
