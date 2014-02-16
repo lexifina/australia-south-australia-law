@@ -16,6 +16,7 @@ Subdivision 3—Cultivation and sale of controlled plants
 Subdivision 4—Sale of equipment etc
 Division 3—Offences involving children and school zones
 Division 4—Other offences
+Division 4A—Offences relating to controlled drug alternatives
 Division 5—General provisions relating to offences
 Division 6—Procedure in relation to simple possession offences
 Part 6—Offences, penalties etc
