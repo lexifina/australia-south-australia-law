@@ -13,5 +13,6 @@ Division 8—Notification of reporting obligations
 Division 9—Modified reporting procedures for protected witnesses
 Part 4—The register of child sex offenders
 Part 5—Registrable offenders prohibited from particular work
+Part 5A—Exemptions, modifications and suspensions granted by Commissioner
 Part 5B—Publication of information about registrable offenders
 Part 6—Miscellaneous
