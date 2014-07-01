@@ -26,7 +26,7 @@ Division 4AA—Disposal of games and gaming machines
 Division 4A—Codes of practice
 Division 5—Prohibited practices
 Division 6—Exclusion of children
-Division 7—General power of exclusion
+Division 7—General barring powers
 Division 8—General power of direction
 Division 9—Consultation with licensee
 Part 5—Financial matters

@@ -15,12 +15,12 @@ Division 5—Objections and intervention
 Division 6—Suspension, revocation and surrender of licences and certificates
 Division 7—Disciplinary action against licensees
 Part 4—Approvals
+Part 4AA—Prohibition notices—gaming managers and gaming employees
 Part 4A—Special provisions relating to licensed dealers
 Part 5—Offences
-Division 1—Offences relating to licences and approvals
+Division 1—Offences relating to licences and employment
 Division 2—Offences relating to conduct of gaming operations
 Division 3—Offences relating to minors
-Division 4—Persons barred from gaming areas
 Division 5—Offences relating to cheating etc
 Division 6—Offences relating to profit sharing etc
 Part 6—Appeals

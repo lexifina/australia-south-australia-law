@@ -13,8 +13,9 @@ The conditions to which a gaming machine licence will be subject are as follows:
 (ii) each gaming machine has been inspected and sealed by an authorised officer or approved gaming machine technician; and
 (l) that the licensee will not purchase for use, or use, in gaming machines any tokens other than approved gaming tokens that bear unique identification approved by the Commissioner; and
 (m) that the licensee will not purchase gaming tokens from a person other than an approved manufacturer of gaming tokens; and
-(nd) that the licensee will not conduct the gaming operations on the licensed premises between the hours of 2 am and 8 am unless—
-(i) a gaming machine manager or gaming machine employee who has completed advanced problem gambling intervention training is present in the gaming area at all times; and
-(ii) arrangements are in place under which the gaming machine manager or gaming machine employee may immediately refer a person identified as engaging in problem gambling to a service to address the problem; and
-(iii) measures are in place that prevent machines designed to change a monetary note into coins and located on the licensed premises from being operated between the hours of 2 am and 8 am; and
+(ma) that the licensee will (in a manner and form to be determined by the Commissioner)—
+(i) notify the Commissioner of the appointment of a person as a gaming manager or gaming employee; and
+(ii) keep a record of the appointment of each gaming manager and gaming employee; and
+(iii) within 14 days of a person ceasing to be appointed as a gaming manager or gaming employee, or of a person so appointed ceasing to be in his or her employment, notify the Commissioner of that fact; and
+(nd) that the licensee will not conduct the gaming operations on the licensed premises between the hours of 2 am and 8 am unless measures are in place that prevent machines designed to change a monetary note into coins (and located on the licensed premises) from being operated between the hours of 2 am and 8 am; and
 (o) such other conditions (if any) as the Commissioner thinks fit and specifies in the licence (not being conditions of a kind prohibited by the regulations).
