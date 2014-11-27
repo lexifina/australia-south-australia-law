@@ -5,8 +5,8 @@ Part 4—Procedures and powers
 Division 1—Complaints and reports
 Division 2—Assessments, investigations and referrals
 Subdivision 1—Assessment and action that may be taken
-Subdivision 2—Investigation of corruption
-Subdivision 3—Referral of misconduct or maladministration
+Subdivision 2—Action in relation to corruption
+Subdivision 3—Action in relation to misconduct or maladministration
 Subdivision 4—Request for Auditor‑General to examine accounts
 Division 3—Evaluation of agency or authority practices
 Division 4—Recommendations and reports by Commissioner
