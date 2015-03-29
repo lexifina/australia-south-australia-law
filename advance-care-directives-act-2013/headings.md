@@ -12,10 +12,9 @@ Part 6—Validity and limitation of liability
 Part 7—Dispute resolution, reviews and appeals
 Division 1—Preliminary
 Division 2—Resolution of disputes by Public Advocate
-Division 3—Resolution of disputes by Guardianship Board
-Note—
-Certain persons who are dissatisfied with a decision, direction or order of the Guardianship Board under this Division may, with the permission of the Guardianship Board or the Administrative and Disciplinary Division of the District Court, appeal to that court against the decision, direction or order—see section 67 of the Guardianship and Administration Act 1993.
-Division 4—Urgent review of decisions
-Division 5—Miscellaneous
+Division 3—Resolution of disputes by Tribunal
+Division 4—Urgent review by Supreme Court of substitute decision‑maker's decision
+Division 5—Reviews and appeals
+Part 7A—Special provisions relating to Tribunal
 Part 8—Offences
 Part 9—Miscellaneous
