@@ -17,7 +17,7 @@ Division 7C—Food and beverage spiking
 Division 8—Female genital mutilation
 Division 9—Kidnapping and unlawful child removal
 Division 11—Rape and other sexual offences
-Division 11A—Child pornography and related offences
+Division 11A—Child exploitation material and related offences
 Division 12—Commercial sexual services and related offences
 Division 13—Miscellaneous sexual offences
 Division 14—Procedure in sexual offences
