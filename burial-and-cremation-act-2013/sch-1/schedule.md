@@ -1,2 +1,2 @@
-Schedule 1—Repeals, related amendments and transitional provisions
-Part 1—Repeals
+Schedule 1—Transitional provisions
+Part 3—Transitional provisions
