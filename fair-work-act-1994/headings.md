@@ -25,7 +25,6 @@ Division 1—The Committee and its functions
 Division 2—Composition of the Committee
 Division 3—Proceedings of Committee
 Part 6—Administrative authorities
-Division 1—The office of the Employee Ombudsman
 Division 2—Inspectors
 Chapter 3—Employment
 Part 1—General conditions of employment
