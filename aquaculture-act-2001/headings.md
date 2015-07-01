@@ -18,7 +18,6 @@ Part 8—Reference of matters to EPA
 Part 9—Appeals
 Part 10—Administration
 Division 1—Minister
-Division 2—Aquaculture Advisory Committee
 Division 3—Aquaculture Tenure Allocation Board
 Division 4—Fund
 Division 5—Public register

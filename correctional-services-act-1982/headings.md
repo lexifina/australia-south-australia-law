@@ -1,7 +1,6 @@
 Part 1—Preliminary
 Part 2—Correctional services
 Division 1—Administration
-Division 2—The Correctional Services Advisory Council
 Division 3—Visiting Tribunals
 Division 4—Community service administration
 Division 5—Probation hostels

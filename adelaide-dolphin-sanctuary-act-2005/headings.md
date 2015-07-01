@@ -3,7 +3,7 @@ Part 2—Objects of Act and statutory objectives
 Part 3—Adelaide Dolphin Sanctuary
 Division 1—Sanctuary
 Division 2—Adelaide Dolphin Sanctuary Management Plan
-Division 3—Adelaide Dolphin Sanctuary Advisory Board
+Division 3—Functions of Parks and Wilderness Council under this Act
 Division 4—Adelaide Dolphin Sanctuary Fund
 Part 4—Administration
 Division 1—Minister

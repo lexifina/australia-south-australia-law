@@ -19,5 +19,4 @@ Division 3—Privilege
 Division 4—Action on investigation
 Division 5—Action against unregistered health practitioners
 Part 7—Relationship between Commissioner and registration authorities
-Part 8—Health and Community Services Advisory Council
 Part 9—Miscellaneous

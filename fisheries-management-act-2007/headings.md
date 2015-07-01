@@ -2,7 +2,6 @@ Part 1—Preliminary
 Part 2—Objects of Act
 Part 3—Administration
 Division 1—Minister and Director
-Division 2—Fisheries Council of South Australia
 Division 3—Advisory committees
 Division 4—Fisheries Research and Development Fund
 Part 4—Commonwealth-State arrangements
