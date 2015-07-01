@@ -55,4 +55,14 @@ Division 1—Bribery, undue influence etc
 Division 2—Electoral advertisements, commentaries and other material
 Division 3—Offences related to the conduct of an election
 Division 4—Employers
+Part 13A—Election funding, expenditure and disclosure
+Division 1—Preliminary
+Division 2—Agents
+Division 3—State campaign accounts
+Division 4—Public funding of candidates and groups for elections
+Division 5—Special assistance funding for political parties
+Division 6—Limitations on political expenditure
+Division 7—Disclosure of donations
+Division 8—Returns
+Division 9—Related matters
 Part 14—Miscellaneous
