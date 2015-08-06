@@ -27,6 +27,8 @@ Division 17—Abortion
 Division 18—Concealment of birth
 Part 3A—Offences relating to public order
 Part 3B—Offences relating to criminal organisations
+Division 1—Participation in criminal organisation
+Division 2—Public places, prescribed places and prescribed events
 Part 3C—Protection for working animals
 Part 4—Offences with respect to property
 Part 4A—Computer offences
