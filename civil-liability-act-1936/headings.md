@@ -25,4 +25,5 @@ Division 10—Racial victimisation
 Division 11—Good samaritans
 Division 11A—Food donors and distributors
 Division 12—Expressions of regret
+Division 12A—Exclusion of civil liability where Crown publishes certain information
 Division 13—Regulations
