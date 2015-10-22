@@ -13,5 +13,4 @@ Part 5—Publications—sale, delivery etc
 Part 6—Computer games—sale, demonstration etc
 Part 7—Control of advertising
 Part 7A—On-line services
-Part 8—Exemptions
 Part 9—Miscellaneous
