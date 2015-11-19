@@ -20,10 +20,6 @@ Division 2—Disclosure of interest
 Division 3—Protection for officers
 Division 3A—Completion of part-heard matters
 Division 4—Annual report
-Part 5—Industrial Relations Advisory Committee
-Division 1—The Committee and its functions
-Division 2—Composition of the Committee
-Division 3—Proceedings of Committee
 Part 6—Administrative authorities
 Division 2—Inspectors
 Chapter 3—Employment
@@ -91,4 +87,12 @@ Division 2—Beginning proceedings
 Division 3—Settlement of industrial disputes
 Division 4—Appeals and references
 Part 4—Cooperative arrangements
+Chapter 6AA—Industrial Relations Consultative Council
+Part 1—Establishment of Consultative Council
+Part 2—Functions and powers
+Part 3—Composition of Consultative Council
+Part 4—Proceedings of Consultative Council
+Part 5—Use of staff and facilities
+Part 6—Committees
+Part 7—Related matters
 Chapter 6—Miscellaneous
