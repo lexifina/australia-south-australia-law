@@ -62,6 +62,7 @@ Division 7—Criminal defamation
 Division 8—Offences limited in relation to industrial disputes and restraint of trade
 Part 7A—Goods contamination and comparable offences
 Part 7B—Accessories
+Part 7C—Derivative liability for certain offences
 Part 8—Intoxication
 Part 8A—Mental impairment
 Division 1—Preliminary
