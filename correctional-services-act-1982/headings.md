@@ -22,6 +22,11 @@ Division 4—Prisoners at large
 Part 6—Parole
 Division 1—The Parole Board
 Division 3—Release on parole
+Division 4—Review of release on parole of life prisoners
+Subdivision 1—Preliminary
+Subdivision 2—Parole Administrative Review Commissioner
+Subdivision 3—Reviews by Commissioner
+Subdivision 4—Other matters
 Part 7—Prisoner compensation quarantine funds
 Division 1—Preliminary
 Division 2—Award of damages to prisoners

@@ -10,6 +10,7 @@ The following are exempt agencies:
 (h) the Auditor-General;
 (i) the Attorney-General, in respect of functions related to the enforcement of the criminal law;
 (j) the Parole Board;
+(ja) the Parole Administrative Review Commissioner;
 (k) the Solicitor-General, the Crown Solicitor, the Director of Public Prosecutions and the Commissioner for Victims' Rights;
 (l) the Ombudsman and the Police Ombudsman;
 (la) the Legal Profession Conduct Commissioner;
