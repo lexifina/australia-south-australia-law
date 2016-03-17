@@ -1,0 +1,2 @@
+Schedule—Transitional provision
+A class A licence in force under Part 2 immediately before the commencement of this Schedule under which a person was carrying on the business of selling tobacco products by retail continues (subject to the provisions of this Act) as a licence under Part 2 authorising the carrying on of such a business for the balance of the period for which the licence was granted (including periods for which it was to have been automatically renewed).
