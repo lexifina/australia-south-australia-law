@@ -4,10 +4,14 @@ Part 3—Miscellaneous rules of evidence
 Division 1—Miscellaneous rules of evidence in general cases
 Division 2—Miscellaneous rules of evidence in sexual cases
 Division 3—Admissibility of evidence showing discreditable conduct or disposition
-Part 4—Public Acts and documents
-Part 5—Banking records
-Part 6—Telegraphic messages
-Part 6A—Computer evidence
+Part 4—Documents and other records
+Division 1—Public Acts and documents
+Division 2—Proof of convictions, acquittals etc
+Division 3—Documents relating to ships or transport
+Division 4—Banking records
+Division 5—Other documents and records
+Division 6—Matters relating to communications
+Division 7—Miscellaneous
 Part 6B—Obtaining evidence from outside a court's territorial jurisdiction
 Part 6C—Use of audio and audio visual links
 Division 1—Preliminary
