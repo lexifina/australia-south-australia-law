@@ -11,6 +11,8 @@ Division 4—Court orders relating to registration of birth
 Division 5—Child's name
 Division 6—Surrogacy orders
 Part 4—Change of name
+Division 1—General requirements for change of name
+Division 2—Requirements for change of name of restricted persons
 Part 5—Registration of marriages
 Part 6—Registration of deaths
 Division 1—Cases where registration of death is required or authorised
