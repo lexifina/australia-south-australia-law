@@ -1,4 +1,5 @@
 Part 1—Preliminary
+Part 1A—State Emergency Management Plan
 Part 2—State Emergency Management Committee
 Part 3—The State Co-ordinator
 Part 4—The management of emergencies
