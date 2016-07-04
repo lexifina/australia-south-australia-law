@@ -1,0 +1,8 @@
+17AAA—Application for division
+(1) A strata corporation may apply to the Registrar-General for the division of the site under Part 19AB of the Real Property Act 1886 and for that purpose the site will be taken to be an allotment within the meaning of Part 19AB and the strata corporation will be taken to be the registered proprietor of the site.
+(2) The plan of division lodged with the application must be endorsed with the consent of the owners of the units comprising the site as well as the consents of the other persons required by Part 19AB Division 2 of the Real Property Act 1886.
+(3) On deposit of the plan of division under Part 19AB the strata plan is cancelled, the strata corporation is dissolved and—
+(a) the liabilities of the former corporation attach directly to the owners of the former units jointly and severally (but they will be entitled to contribution amongst each other in proportions determined by reference to the unit entitlements of the former units);
+(b) the assets of the former strata corporation (excluding the common property) will be divided between the owners of the former units in proportions determined by reference to the unit entitlements of the former units.
+(4) The cancellation of a strata plan on the deposit of a plan of division under Part 19AB revokes the articles of the strata corporation.
+(5) If, on the division of a site under this Division, the land comprising the former site is transferred to the owners of the former units in the same shares as if the strata plan had been cancelled under Division 7, no duty is payable under the Stamp Duties Act 1923 in respect of the transfer.
