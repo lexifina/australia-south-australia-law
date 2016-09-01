@@ -14,6 +14,8 @@ Division 4—Custody of prisoners
 Division 5—Transfer and leave of absence of prisoners
 Division 6—Management of prisoners
 Division 6A—Home detention
+Subdivision 1—Release on home detention by CE
+Subdivision 2—General
 Division 7—Release of prisoners from prison or home detention
 Part 5—Offences
 Division 1—Powers of Visiting Tribunals
