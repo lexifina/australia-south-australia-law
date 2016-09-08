@@ -1,0 +1,4 @@
+Schedule 1—Appointment of new trustees
+Pursuant to Part 5 of the Trustee Act 1936 we [here set out names, addresses, and occupations], being persons entitled to exercise and exercising the power of appointing new trustees of the trust hereinafter referred to, do hereby appoint [here set out names, addresses, and occupations of new trustees], to be new trustees [here if necessary insert "jointly with"] [here insert names, addresses, and occupations of the old continuing trustees] of the trust constituted under [here set out shortly particulars of the instrument creating the trust, including date, and name of person by whom trust was created], and we the said [here insert names of new trustees] do hereby accept the said trusteeship.
+Dated this day of , 20 .
+[To be signed by the persons exercising the power of appointment, and by the new trustees, and to be attested.]
