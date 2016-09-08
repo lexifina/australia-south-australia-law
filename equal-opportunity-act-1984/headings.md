@@ -3,7 +3,7 @@ Part 2—Commissioner and Tribunal
 Division 1—Commissioner
 Division 2—Equal Opportunity Tribunal
 Division 3—Registrar
-Part 3—Prohibition of discrimination on ground of sex, chosen gender or sexuality
+Part 3—Prohibition of discrimination on ground of sex, sexual orientation or gender identity
 Division 1—Discrimination to which Part 3 applies
 Division 2—Discrimination against workers
 Division 3—Discrimination by other bodies
