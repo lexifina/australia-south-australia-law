@@ -7,6 +7,16 @@ Division 3—Offences against applied provisions
 Division 4—Reviews and appeals
 Part 3—Controlled substances
 Part 4—General offences
+Part 4A—Licences to cultivate alkaloid poppies and process poppy straw
+Division 1—Preliminary
+Division 2—Poppy cultivation licence
+Division 3—Poppy processing licence
+Division 4—General provisions applying to a poppy cultivation licence or poppy processing licence
+Division 5—Inspection and enforcement
+Division 6—Offences
+Division 7—Alkaloid poppy register
+Division 8—Review
+Division 9—Miscellaneous
 Part 5—Offences relating to controlled drugs, precursors and plants
 Division 1—Preliminary
 Division 2—Commercial offences
