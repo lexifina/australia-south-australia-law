@@ -12,3 +12,4 @@ Part 5—Electoral redistribution
 Division 1—Preliminary
 Division 2—Electoral Districts Boundaries Commission
 Division 3—Entrenchment of this Part
+Part 6—Miscellaneous
