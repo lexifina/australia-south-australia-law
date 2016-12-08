@@ -3,7 +3,7 @@ Division 1—Preliminary matters
 Division 2—Object of Act
 Division 3—Interpretation
 Division 4—Modifications of other laws of State
-Division 5—Relationship between State’s cross‑border laws and other laws
+Division 5—Relationship between State's cross‑border laws and other laws
 Division 6—Application
 Part 2—Cross‑border regions
 Division 1—Prescribing cross‑border regions
