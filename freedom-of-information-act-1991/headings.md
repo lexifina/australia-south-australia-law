@@ -7,7 +7,7 @@ Division 3—Internal review
 Part 4—Amendment of records
 Division 1—General
 Division 2—Internal review
-Part 5—External review and appeal
-Division 1—Right of external review
-Division 2—Right of appeal
+Part 5—External review
+Division 1—Reviews by Ombudsman or Police Ombudsman
+Division 2—Reviews by SACAT
 Part 6—Miscellaneous
