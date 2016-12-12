@@ -3,6 +3,7 @@ Part 2—Authorisation of forensic procedures
 Division 1—Volunteers and victims procedures
 Division 2—Suspects procedures
 Division 3—Offenders procedures
+Division 4—Blood testing of certain persons for communicable diseases
 Part 3—Carrying out forensic procedures
 Division 1—General provisions on carrying out forensic procedures
 Division 2—Special provisions relating to suspects and offenders procedures
