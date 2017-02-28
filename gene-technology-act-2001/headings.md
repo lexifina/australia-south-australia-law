@@ -42,7 +42,7 @@ Division 2—Appointment and conditions of Regulator
 Division 3—Money
 Division 4—Staffing
 Division 5—Reporting requirements
-Division 6—Record of GMO and GM Product Dealings
+Division 6—Record of GMO Dealings
 Division 7—Reviews of notifiable low risk dealings and exemptions
 Part 10—Enforcement
 Part 11—Powers of inspection
