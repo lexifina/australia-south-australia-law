@@ -1,0 +1,12 @@
+Schedule 10—Unprotected species
+Zebra Finch (Poephila guttata)
+Budgerygah (Melopsittacus undulatus)
+Red Wattlebird (Anthochaera carunculata)
+Grey-backed Silvereye (Zosterops lateralis halmaturina)
+Galah (Cacatua roseicapilla)
+Little Corella (Cacatua sanguinea)
+Australian Raven (Corvus coronoides)
+Little Crow (Corvus bennetti)
+Australian Crow (Corvus orru cecilae)
+Little Raven (Corvus mellori)
+Wild Dog (Dingo) (Canis familiaris)
