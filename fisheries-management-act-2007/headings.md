@@ -18,6 +18,7 @@ Part 7—Offences
 Division 1—Offences relating to fishing activities
 Division 2—Miscellaneous offences
 Division 3—Temporary prohibition of certain fishing activities etc
+Division 4—Miscellaneous
 Part 8—Enforcement
 Division 1—Authorised persons
 Subdivision 1—Appointment of authorised persons
