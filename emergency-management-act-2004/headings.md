@@ -8,5 +8,6 @@ Division 2—Control agency
 Division 3—Declaration of emergencies
 Division 4—Powers that may be exercised in relation to declared emergencies
 Division 5—Recovery operations
+Division 6—Electricity supply emergencies
 Part 5—Offences
 Part 6—Miscellaneous
