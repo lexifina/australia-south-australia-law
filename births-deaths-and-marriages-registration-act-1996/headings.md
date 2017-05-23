@@ -13,6 +13,11 @@ Division 6—Surrogacy orders
 Part 4—Change of name
 Division 1—General requirements for change of name
 Division 2—Requirements for change of name of restricted persons
+Part 4A—Change of sex or gender identity
+Division 1—Preliminary
+Division 2—Applicants born in South Australia
+Division 3—South Australian residents born outside Australia
+Division 4—General provisions
 Part 5—Registration of marriages
 Part 6—Registration of deaths
 Division 1—Cases where registration of death is required or authorised
