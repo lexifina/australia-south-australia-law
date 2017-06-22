@@ -9,7 +9,7 @@ Division 5—Leases
 Division 6—Licences
 Part 4—Protection of land
 Division 1—Application of Part
-Division 2—General Ministerial responsibilities
+Division 2—General Ministerial responsibilities and powers
 Division 3—Remediation of land and financial assurances
 Division 4—Waterfront land
 Division 5—Offences and powers of authorised officers
