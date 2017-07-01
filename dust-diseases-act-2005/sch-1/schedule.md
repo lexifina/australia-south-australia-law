@@ -1,2 +1,2 @@
-Schedule 1—Related amendment and transitional provision
-Part 1—Amendment of Civil Liability Act 1936
+Schedule 1—Transitional provision
+Part 4—Transitional provision
