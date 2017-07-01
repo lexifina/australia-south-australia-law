@@ -1,8 +1,6 @@
 Part 1—Preliminary
-Part 2—Commissioner and Tribunal
+Part 2—Commissioner
 Division 1—Commissioner
-Division 2—Equal Opportunity Tribunal
-Division 3—Registrar
 Part 3—Prohibition of discrimination on ground of sex, sexual orientation or gender identity
 Division 1—Discrimination to which Part 3 applies
 Division 2—Discrimination against workers
@@ -44,5 +42,5 @@ Part 6—Other unlawful acts
 Part 7—Grant of exemptions
 Part 8—Enforcement
 Division 1—Proceedings before Commissioner and Tribunal
-Division 2—Review and appeal
+Division 2—Related matters
 Part 9—Miscellaneous
