@@ -6,7 +6,7 @@ Division 3—General provisions relating to licences
 Part 3—Acquisition, supply and transfer of possession of firearms
 Part 4—Registration of firearms
 Part 5—Acquisition and possession of ammunition
-Part 6—Code of practice for security, storage and transport of firearms and ammunition
+Part 6—Code of practice for security, storage and transport of firearms, ammunition and related items
 Part 7—Prohibited practices relating to firearms and ammunition
 Part 8—Firearms prohibition orders
 Part 9—Reviews
