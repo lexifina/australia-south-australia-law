@@ -1,0 +1,4 @@
+South Australia
+Planning, Development and Infrastructure Act 2016
+An Act to provide for matters that are relevant to the use, development and management of land and buildings, including by providing a planning system to regulate development within the State, rules with respect to the design, construction and use of buildings, and other initiatives to facilitate the development of infrastructure, facilities and environments that will benefit the community; to repeal the Development Act 1993; to make related amendments to the Character Preservation (Barossa Valley) Act 2012, the Character Preservation (McLaren Vale) Act 2012, the Environment, Resources and Development Court Act 1993, the Liquor Licensing Act 1997, the Local Government Act 1999, the Public Sector Act 2009 and the Urban Renewal Act 1995; and for other purposes.
+The Parliament of South Australia enacts as follows:
