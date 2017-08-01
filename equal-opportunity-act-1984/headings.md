@@ -39,6 +39,7 @@ Division 4—Discrimination in education
 Division 5—Discrimination in relation to land, goods, services and accommodation
 Division 6—General exemptions from Part 5B
 Part 6—Other unlawful acts
+Part 6A—Practice guidelines
 Part 7—Grant of exemptions
 Part 8—Enforcement
 Division 1—Proceedings before Commissioner and Tribunal
