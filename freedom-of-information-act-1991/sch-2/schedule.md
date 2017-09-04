@@ -14,7 +14,7 @@ The following are exempt agencies:
 (k) the Solicitor-General, the Crown Solicitor, the Director of Public Prosecutions and the Commissioner for Victims' Rights;
 (ka) the Judicial Conduct Commissioner;
 (kb) a judicial conduct panel under the Judicial Conduct Commissioner Act 2015;
-(l) the Ombudsman and the Police Ombudsman;
+(l) the Ombudsman;
 (la) the Legal Profession Conduct Commissioner;
 (m) the Public Trustee, in respect of functions exercised as executor, administrator or trustee;
 (n) the South Australian Government Financing Authority, the Local Government Financing Authority and the South Australian Superannuation Fund Investment Trust;

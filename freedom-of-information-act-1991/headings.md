@@ -8,6 +8,6 @@ Part 4—Amendment of records
 Division 1—General
 Division 2—Internal review
 Part 5—External review
-Division 1—Reviews by Ombudsman or Police Ombudsman
+Division 1—Reviews by Ombudsman
 Division 2—Reviews by SACAT
 Part 6—Miscellaneous
