@@ -26,7 +26,7 @@ An entity that has functions under this Law is to exercise its functions having 
 (1) In this Law—
 approved education and care service means an education and care service for which a service approval exists;
 approved family day care service means an approved education and care service that is a family day care service;
-approved family day care venue means a place other than a residence where an approved family day care service is provided;
+approved family day care venue means a place (other than a residence) approved under section 50A or 54(8A) as a family day care venue for an approved family day care service;
 approved learning framework means a learning framework approved by the Ministerial Council;
 approved provider means a person who holds a provider approval;
 associated children's service means a children's service that is operated or intended to be operated by an approved provider at the same place as an approved education and care service;
@@ -34,7 +34,6 @@ Australian Accounting Standards means the standards issued or pronounced by the 
 authorised officer means a person authorised to be an authorised officer under Part 9;
 Authority Fund means the Australian Children's Education and Care Quality Authority Fund established under section 274;
 Board means the Australian Children's Education and Care Quality Authority Board established under this Law;
-certified supervisor means a person who holds a supervisor certificate;
 chief executive officer means the chief executive officer of the National Authority appointed under this Law;
 children's service means a service providing or intended to provide education and care on a regular basis to children under 13 years of age that is primarily regulated under a children's services law of a participating jurisdiction and is not an education and care service;
 children's services law, in relation to a participating jurisdiction, means a law declared by a law of that jurisdiction to be a children's services law for the purposes of this Law;
@@ -68,8 +67,13 @@ educator means an individual who provides education and care for children as par
 eligible association means an association of a prescribed class;
 family day care co-ordinator means a person employed or engaged by an approved provider of a family day care service to monitor and support the family day care educators who are part of the service;
 family day care educator means an educator engaged by or registered with a family day care service to provide education and care for children in a residence or at an approved family day care venue;
+family day care educator assistant means a person engaged by or registered with a family day care service to assist family day care educators;
 family day care residence means a residence at which a family day care educator educates and cares for children as part of a family day care service;
-family day care service means an education and care service that is delivered through the use of 2 or more educators to provide education and care for children in residences whether or not the service also provides education and care to children at a place other than a residence;
+family day care service means an education and care service that—
+(a) is delivered through the use of 2 or more educators to provide education and care to children; and
+(b) operates from 2 or more residences;
+Note—
+A family day care service that is an approved family day care service may provide education and care to children from a family day care residence or an approved family day care venue.
 family member, in relation to a child, means—
 (a) a parent, grandparent, brother, sister, uncle, aunt, or cousin of the child, whether of the whole blood or half‑blood and whether that relationship arises by marriage (including a de facto relationship) or by adoption or otherwise; or
 (b) a relative of the child according to Aboriginal or Torres Strait Islander tradition; or
@@ -79,7 +83,9 @@ former education and care services law, in relation to a participating jurisdict
 grade 1, in relation to a school, means the first year of compulsory full‑time schooling;
 guardian, in relation to a child, means the legal guardian of the child;
 infringements law, in relation to a participating jurisdiction, means a law declared by a law of that jurisdiction to be an infringements law for the purposes of this Law;
-Ministerial Council means the Ministerial Council consisting of the persons who from time to time hold office as Ministers of the Crown responsible for early childhood education or care in the governments of the States and Territories and the Commonwealth;
+Ministerial Council means the Ministerial Council which—
+(a) is constituted from time to time by Ministers of the Crown of the Commonwealth, State and Territory Governments; and
+(b) is responsible for early childhood education and care matters;
 National Authority means the Australian Children's Education and Care Quality Authority established under this Law;
 national education and care services quality framework means—
 (a) this Law; and
@@ -90,15 +96,16 @@ National Partnership Agreement means the National Partnership Agreement on the N
 National Quality Framework means the national education and care services quality framework;
 National Quality Standard means the National Quality Standard prescribed by the national regulations;
 national regulations means the regulations made under this Law;
-nominated supervisor, in relation to an education and care service, means a person—
-(a) who is a certified supervisor; and
-(b) who is nominated by the approved provider of the service under Part 3 to be the nominated supervisor of that service; and
-(c) who has consented to that nomination;
+nominated supervisor, in relation to an education and care service, means an individual who—
+(a) is nominated by the approved provider of the service under Part 3 to be a nominated supervisor of that service; and
+(b) unless the individual is the approved provider, has provided written consent to that nomination;
 Note—
-A person may be both the nominated supervisor of a family day care service and the family day care co ordinator for that service if the person meets the criteria for each role.
+An individual may be both a nominated supervisor of a family day care service and a family day care co ordinator for that service if the individual meets the criteria for each role.
 office, in relation to a family day care service, means—
-(a) the principal office or any other business office of the approved provider of the service; or
-(b) any premises of the service from which its family day care educators are co‑ordinated;
+(a) the principal office of the service; or
+(b) the principal office of the approved provider of the service; or
+(c) any other business office of the approved provider of the service; or
+(d) any premises of the service from which the service's family day care educators are co-ordinated;
 parent, in relation to a child, includes—
 (a) a guardian of the child; and
 (b) a person who has parental responsibility for the child under a decision or order of a court;
@@ -112,6 +119,7 @@ person means—
 (c) an eligible association; or
 (d) a partnership; or
 (e) a prescribed entity;
+person in day-to-day charge, in relation to an education and care service, means a person who is placed in day-to-day charge of the service in accordance with the national regulations;
 person with management or control, in relation to an education and care service, means—
 (a) if the provider or intended provider of the service is a body corporate, an officer of the body corporate within the meaning of the Corporations Act 2001 of the Commonwealth who is responsible for managing the delivery of the education and care service; or
 (b) if the provider of the service is an eligible association, each member of the executive committee of the association who has the responsibility, alone or with others, for managing the delivery of the education and care service; or
@@ -122,6 +130,7 @@ personal arrangement means education and care provided to a child—
 (b) by a friend of the family of the child personally under an informal arrangement where no offer to provide that education and care was advertised;
 preschool program means an early childhood educational program delivered by a qualified early childhood teacher to children in the year that is 2 years before grade 1 of school;
 prescribed ineligible person means a person in a class of persons prescribed by the national regulations to be prescribed ineligible persons;
+prohibition notice means a prohibition notice given under section 182(1) or 182(3);
 protected disclosure—see section 296;
 provider approval means a provider approval—
 (a) granted under Part 2 of this Law or this Law as applying in another participating jurisdiction; and
@@ -140,15 +149,12 @@ school means—
 (a) a government school; or
 (b) a non‑government school that is registered or accredited under an education law of a participating jurisdiction;
 serious detrimental action—see section 296;
+serious incident means an incident or class of incidents prescribed by the national regulations as a serious incident;
 service approval means a service approval—
 (a) granted under Part 3 of this Law or this Law as applying in another participating jurisdiction; and
 (b) as amended under this Law or this Law as applying in another participating jurisdiction,
 but does not include a service approval that has been cancelled;
-staff member, in relation to an education and care service, means any individual (other than the nominated supervisor or a volunteer) employed, appointed or engaged to work in or as part of an education and care service, whether as family day care co‑ordinator, educator or otherwise;
-supervisor certificate means a supervisor certificate—
-(a) issued under Part 4 of this Law or this Law as applying in another participating jurisdiction; and
-(b) as amended under this Law or this Law as applying in another participating jurisdiction,
-but does not include a supervisor certificate that has been cancelled;
+staff member, in relation to an education and care service, means any individual (other than a nominated supervisor or a volunteer) employed, appointed or engaged to work in or as part of an education and care service, whether as family day care co‑ordinator, educator or otherwise;
 transferring approved provider has the meaning set out in section 58;
 working with children card means a card issued to a person under a working with children law of a participating jurisdiction that permits that person to work with children;
 working with children check means a notice, certificate or other document granted to, or with respect to, a person under a working with children law to the effect that—
@@ -222,13 +228,18 @@ If a person has been served with an infringement notice for an offence under thi
 (d) whether the person is bankrupt, or has applied to take the benefit of any law for the relief of bankrupt or insolvent debtors or, in the case of a body corporate, is insolvent under administration or an externally‑administered body corporate.
 (2) Without limiting subsection (1), the Regulatory Authority may have regard to—
 (a) whether the person has a medical condition that may cause the person to be incapable of being responsible for providing an education and care service in accordance with this Law; and
-(b) whether the financial circumstances of the person may significantly limit the person's capacity to meet the person's obligations in providing an education and care service in accordance with this Law.
+(b) whether the financial circumstances of the person may significantly limit the person's capacity to meet the person's obligations in providing an education and care service in accordance with this Law; and
+(c) whether the person has the management capability to operate an education and care service in accordance with this Law; and
+(d) any of the following actions taken under the A New Tax System (Family Assistance) (Administration) Act 1999 of the Commonwealth in relation to a child care service approved under that Act, operated by the person or in relation to which the person was a person with management or control—
+(i) any sanction imposed under section 200 of that Act;
+(ii) any suspension imposed under section 201A of that Act;
+(iii) any infringement notice given under section 219TSI of that Act.
 (3) Nothing in subsection (1) or (2) limits the circumstances in which a person may be considered not to be a fit and proper person to be involved in the provision of an education and care service.
 14—Regulatory Authority may seek further information
 (1) For the purpose of carrying out an assessment as to whether a person is a fit and proper person, the Regulatory Authority may—
 (a) ask the person to provide further information; and
 (b) undertake inquiries in relation to the person.
-(2) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of the request and the provision of the further information is not included in the period referred to in section 15 for the Regulatory Authority to make a decision on the application.
+(2) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of the request until the provision of the further information is not included in the period referred to in section 15 for the Regulatory Authority to make a decision on the application.
 15—Grant or refusal of provider approval
 (1) On an application under section 10, the Regulatory Authority may—
 (a) grant the provider approval; or
@@ -316,8 +327,10 @@ The Regulatory Authority may suspend a provider approval if—
 (d) that the approved provider may, within 30 days after the notice is given, give the Regulatory Authority a written response to the proposed suspension.
 27—Decision to suspend after show cause process
 After considering any written response from the approved provider received within the time allowed by section 26(2)(d), the Regulatory Authority may—
-(a) suspend the provider approval for a period not more than the prescribed period; or
-(b) decide not to suspend the provider approval.
+(a) if the suspension was proposed on a ground referred to in section 25(a), accept an undertaking from the approved provider under section 179A; or
+(b) in any case—
+(i) suspend the provider approval for a period not more than the prescribed period; or
+(ii) decide not to suspend the provider approval.
 28—Suspension without show cause notice
 (1) The Regulatory Authority may suspend the provider approval on a ground referred to in section 25 without giving the approved provider a show cause notice under section 26 if the Regulatory Authority is satisfied that there is an immediate risk to the safety, health or wellbeing of a child or children being educated and cared for by an education and care service operated by the provider.
 (2) The suspension may not be for a period of more than 6 months.
@@ -407,8 +420,8 @@ If a service approval is surrendered, it is cancelled—see section 86. A cancel
 Division 5—Approval of executor, representative or guardian as approved provider
 39—Death of approved provider
 (1) This section applies if an approved provider dies.
-(2) The nominated supervisor or any other person having day to day control of an education and care service of the approved provider must notify the Regulatory Authority of the approved provider's death within 7 days after that death.
-(3) The executor of the estate of the approved provider may continue to operate any approved education and care service of the approved provider for the relevant period provided the nominated supervisor or any certified supervisor continues to manage the day to day operation of the service.
+(2) A nominated supervisor or a person in day to-day charge of an education and care service of the approved provider must notify the Regulatory Authority of the approved provider's death within 7 days after that death.
+(3) The executor of the estate of the approved provider may continue to operate any approved education and care service of the approved provider for the relevant period provided that at least one nominated supervisor continues to manage the day-to-day operation of the service.
 (4) The executor of the estate of the approved provider may transfer, surrender or apply for suspension of a service approval of the approved provider under this Law during the relevant period as if the executor were the approved provider.
 (5) The executor of the estate of the approved provider may apply to the Regulatory Authority for a provider approval.
 (6) The application must be made within 30 days of the death of the approved provider and must—
@@ -434,7 +447,7 @@ Division 5—Approval of executor, representative or guardian as approved provid
 (c) refuse to grant the provider approval.
 (4) An approval under this section—
 (a) may be granted for a period of not more than 6 months; and
-(b) may be extended for a further period of not more than 6 months—
+(b) may be extended or further extended for periods of not more than 6 months—
 at the discretion of the Regulatory Authority.
 (5) The provider approval is granted only in relation to the operation of the approved education and care services of the approved provider for whom the applicant is the executor, legal personal representative or guardian, as the case requires.
 Division 6—Exercise of powers by another Regulatory Authority
@@ -448,20 +461,20 @@ Part 3—Service approval
 Division 1—Application for service approval
 43—Application for service approval
 (1) An approved provider may apply to the Regulatory Authority for a service approval for an education and care service.
-(2) An approved provider may only apply for a service approval for an education and care service if the approved provider is or will be the operator of the education and care service and is or will be responsible for the management of the staff members and nominated supervisor of that service.
+(2) An approved provider may only apply for a service approval for an education and care service if the approved provider is or will be the operator of the education and care service and is or will be responsible for the management of the staff members and nominated supervisors of that service.
 (3) A person who has applied for a provider approval may apply to the Regulatory Authority for a service approval, however the Regulatory Authority must not grant the service approval unless the provider approval is granted.
 44—Form of application
 (1) An application for a service approval must—
 (a) be made to the Regulatory Authority of the participating jurisdiction in which the service is to be located; and
 (b) be in writing; and
 (c) include the prescribed information; and
-(d) nominate a certified supervisor to be the nominated supervisor for the service and include that person's written consent to the nomination; and
+(d) nominate one or more individuals to be nominated supervisors of the service; and
+(da) include from each nominated individual (other than the approved provider) the written consent to the nomination; and
 (e) include payment of the prescribed fee.
 (2) An application for service approval may include an associated children's service.
-(3) The approved provider can be the nominated supervisor if he or she—
-(a) is a certified supervisor; or
-(b) has applied for a supervisor certificate,
-however the Regulatory Authority must not grant the service approval unless the supervisor certificate has been granted.
+(3) An application for a service approval for a family day care service may include a request for approval of a place (other than a residence) as a family day care venue for that service.
+Note—
+This approval is granted under section 50A only if exceptional circumstances exist.
 45—Regulatory Authority may seek further information
 (1) The Regulatory Authority may ask an applicant for a service approval to provide any further information that is reasonably required for the purpose of assessing the application.
 (2) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of the request until the provision of the further information is not included in the period referred to in section 48 for the Regulatory Authority to make a decision on the application.
@@ -477,7 +490,7 @@ however the Regulatory Authority must not grant the service approval unless the 
 (b) except in the case of a family day care residence, the suitability of the education and care service premises and the site and location of those premises for the operation of an education and care service; and
 (c) the adequacy of the policies and procedures of the service; and
 (d) whether the applicant has a provider approval; and
-(e) whether the nominated supervisor for the service is a certified supervisor and whether that person has consented in writing to the nomination; and
+(e) except in the case of a nominated supervisor who is the approved provider, whether each nominated supervisor has consented in writing to the nomination; and
 (f) any other matter the Regulatory Authority thinks fit; and
 (g) any other prescribed matter.
 (2) In addition, the Regulatory Authority may have regard to either of the following:
@@ -510,15 +523,22 @@ as the case requires.
 (2) The Regulatory Authority may refuse to grant a service approval on any other grounds prescribed in the national regulations.
 50—Notice of decision on application
 The Regulatory Authority must give written notice to the applicant of a decision under section 48 and the reasons for the decision within 7 days after the decision is made.
+50A—Approval of a place as a family day care venue
+The Regulatory Authority may, at the time of granting the service approval for a family day care service, approve a place (other than a residence) as a family day care venue for that service if the Regulatory Authority considers exceptional circumstances exist.
 51—Conditions on service approval
 (1) A service approval is granted subject to the condition that the education and care service is operated in a way that—
 (a) ensures the safety, health and wellbeing of the children being educated and cared for by the service; and
 (b) meets the educational and developmental needs of the children being educated and cared for by the service.
-(2) A service approval for a family day care service is granted subject to the additional condition that the approved provider must ensure that—
-(a) sufficient persons are appointed as family day care co‑ordinators to monitor and support the family day care educators engaged by or registered with the service; and
-(b) each family day care educator is adequately monitored and supported by a family day care co‑ordinator.
+(2) A service approval for a family day care service is granted subject to a condition that the approved provider must ensure that each family day care educator engaged by or registered with the service is adequately monitored and supported by a family day care co-ordinator.
+(2A) A service approval for a family day care service is granted subject to a condition that each family day care residence, and any approved family day care venue of the service, are to be located within this jurisdiction.
 (3) A service approval is granted subject to a condition that the service must commence ongoing operation of the service within 6 months after the approval is granted unless the Regulatory Authority agrees to an extension of time.
 (4) A service approval is granted subject to a condition that the approved provider must hold the prescribed insurance in respect of the education and care service.
+(4A) A service approval for an education and care service other than a family day care service is granted subject to a condition that the approved provider must ensure that the number of children educated and cared for by the service at any one time does not exceed the maximum number of children specified in the service approval.
+(4B) An approved provider is not required to comply with subsection (4A) if—
+(a) the maximum number of children is exceeded because a child is, or 2 or more children from the same family are, being educated and cared for by the education and care service in an emergency; and
+(b) the approved provider is satisfied on reasonable grounds that this will not affect the health, safety and wellbeing of any other child who is attending the education and care service.
+Example—
+An emergency under this subsection would include circumstances where a child is in need of protection under a child protection order or where the parent of a child needs urgent health care that prevents that parent caring for the child.
 (5) A service approval is granted subject to any other conditions prescribed in the national regulations or imposed by—
 (a) this Law; or
 (b) the Regulatory Authority.
@@ -531,7 +551,7 @@ Penalty:
 52—Copy of service approval to be provided
 If the Regulatory Authority grants a service approval under this Part, the Regulatory Authority must provide a copy of the service approval to the approved provider stating—
 (a) the name of the education and care service; and
-(b) the location of the education and care service or, if the education and care service is a family day care service, the location of the principal office and any approved family day care venue for the service; and
+(b) the location of the education and care service or, if the education and care service is a family day care service, the location of the principal office of the service and any approved family day care venue for the service; and
 (c) any conditions to which the service approval is subject; and
 (d) the date the service approval was granted; and
 (e) the service approval number; and
@@ -544,19 +564,21 @@ An approved provider must, in accordance with the national regulations, pay the 
 Division 2—Amendment of service approval
 54—Amendment of service approval on application
 (1) An approved provider may apply to the Regulatory Authority for an amendment of a service approval.
+(1A) An application under subsection (1) may include a request for the approval of a place (other than a residence) as a family day care venue for a family day care service.
 (2) An application must—
 (a) be in writing; and
 (b) include the prescribed information; and
 (c) include payment of the prescribed fee.
 (3) The Regulatory Authority may ask the approved provider to provide any further information that is reasonably required for the purpose of assessing the application.
-(4) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of the request and the provision of the further information is not included in the period referred to in subsection (5).
+(4) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of the request until the provision of the further information is not included in the period referred to in subsection (5).
 (5) The Regulatory Authority must make a decision on the application within 60 days after the Regulatory Authority receives the application.
 (6) The Regulatory Authority must decide the application by—
 (a) amending the service approval in the way applied for; or
 (b) with the applicant's written agreement, amending the service approval in another way; or
 (c) refusing to amend the service approval.
 (7) Without limiting subsection (6), an amendment may vary a condition of the service approval or impose a new condition on the service approval.
-(8) An amendment cannot change a location of an education and care service.
+(8) Subject to subsection (8A), an amendment cannot change a location of an education and care service.
+(8A) The Regulatory Authority may approve a place (other than a residence) as a family day care venue for a family day care service if the Regulatory Authority considers exceptional circumstances exist.
 (9) The Regulatory Authority must give written notice of its decision to the approved provider.
 55—Amendment of service approval by Regulatory Authority
 (1) The Regulatory Authority may amend a service approval at any time without an application from the approved provider.
@@ -566,14 +588,27 @@ Division 2—Amendment of service approval
 (a) 14 days after the Regulatory Authority gives notice of the amendment under subsection (3); or
 (b) if another period is specified by the Regulatory Authority, at the end of that period.
 (5) The Regulatory Authority must amend a service approval to the extent that it relates to an associated children's service in accordance with any direction by the children's services regulator if that direction is given in accordance with the children's services law of this jurisdiction.
-56—Notice of change to nominated supervisor
-(1) The approved provider of an education and care service must give written notice to the Regulatory Authority in accordance with this section if the approved provider wishes to change the person nominated as the nominated supervisor of the education and care service.
+55A—Condition relating to family day care co ordinators
+(1) Without limiting section 55, an amendment under that section may impose a condition on the service approval for a family day care service requiring the approved provider to ensure that there is a minimum of one qualified person employed or engaged as a family day care co-ordinator for each 15 family day care educators engaged by or registered with that service.
+(2) A condition may only be imposed under subsection (1) if—
+(a) the family day care service has been operating for more than 12 months; and
+(b) the Regulatory Authority—
+(i) has taken into account the approved provider's capability and compliance with this Law in respect of the family day care service; and
+(ii) considers that family day care educators are not adequately monitored and supported by a family day care co-ordinator.
+(3) Section 163 does not apply if a condition is imposed under subsection (1) in respect of a family day care service.
+(4) A person is a qualified person under this section if the person has the qualifications prescribed by the national regulations.
+56—Notice of addition of nominated supervisor
+(1) The approved provider of an education and care service must give written notice to the Regulatory Authority in accordance with this section if the approved provider wishes to add a new nominated supervisor of the education and care service.
 (2) The notice must—
-(a) nominate a certified supervisor to be the nominated supervisor for the service and include that person's written consent to the nomination; and
+(a) nominate one or more individuals to be nominated supervisors of the service and, unless the individual nominated is the approved provider, include from each nominated individual the written consent to the nomination; and
 (b) include the prescribed information; and
 (c) be given—
-(i) at least 7 days before the new certified supervisor is to commence work as the nominated supervisor; or
-(ii) if that period of notice is not possible in the circumstances, as soon as practicable and not more than 14 days after the certified supervisor commences work as the nominated supervisor.
+(i) at least 7 days before the individual is to commence work as a nominated supervisor; or
+(ii) if that period of notice is not possible in the circumstances, as soon as practicable but not more than 14 days after the individual commences work as a nominated supervisor.
+Note—
+Section 173(2)(b) requires an approved provider to notify the Regulatory Authority of the removal of a nominated supervisor.
+56A—Notice of change of a nominated supervisor's name or contact details
+The approved provider of an education and care service must give written notice to the Regulatory Authority of any change to the name or contact details of any nominated supervisor of the education and care service.
 57—Copy of amended service approval to be provided
 If the Regulatory Authority amends a service approval under this Division, the Authority must provide an amended copy of the service approval to the approved provider.
 Division 3—Transfer of service approval
@@ -601,10 +636,11 @@ The Regulatory Authority is taken to have consented to the transfer of a service
 (b) the receiving approved provider's history of compliance with this Law as applying in a participating jurisdiction, including in relation to any other education and care service it operates;
 (c) any other matter relevant to the transfer of the service approval.
 (2) The Regulatory Authority must notify the transferring approved provider and the receiving approved provider of the decision to intervene.
-(3) The notice must be given at least 28 days before the date on which the transfer is intended to take effect.
+(3) Subject to subsection (5), the notice must be given at least 28 days before the date on which the transfer is intended to take effect.
 (4) A notification under subsection (2) must—
 (a) be in writing; and
 (b) include the prescribed information.
+(5) The period within which notice must be given under subsection (3) does not apply where the Regulatory Authority has not been notified of the intended transfer of a service approval in accordance with section 59.
 63—Effect of intervention
 If the Regulatory Authority intervenes under section 62, the transfer must not proceed unless and until the Regulatory Authority gives written consent to the transfer.
 64—Regulatory Authority may request further information
@@ -673,8 +709,10 @@ A Regulatory Authority may suspend a service approval if—
 (d) that the approved provider may, within 30 days after the notice is given, give the Regulatory Authority a written response to the proposed suspension.
 72—Decision in relation to suspension
 After considering any written response from the approved provider received within the time allowed by section 71(2)(d), the Regulatory Authority may—
-(a) suspend the service approval for a period not more than the prescribed period; or
-(b) decide not to suspend the service approval.
+(a) if the suspension was proposed on the ground referred to in section 70(a), (c) or (d), accept an undertaking from the approved provider under section 179A; or
+(b) in any case—
+(i) suspend the service approval for a period not more than the prescribed period; or
+(ii) decide not to suspend the service approval.
 73—Suspension of service approval without show cause
 The Regulatory Authority may suspend the service approval without giving the approved provider a show cause notice under section 71 if the Regulatory Authority is satisfied that there is an immediate risk to the safety, health or wellbeing of a child or children being educated and cared for by the education and care service.
 74—Notice and effect of decision
@@ -740,7 +778,7 @@ A Regulatory Authority may cancel a service approval if—
 (2) The approved provider, at the request of the Regulatory Authority, must provide the Authority with the contact details of the parents of all children enrolled at the education and care service.
 (3) The Regulatory Authority may use the information provided under subsection (2) solely to notify the parents of children enrolled at an approved education and care service of a suspension or cancellation of the service approval for the service.
 84—Notice to parents of suspension or cancellation
-(1) This section applies if a service approval has been suspended or cancelled under section 72, 73, 79 or 81.
+(1) This section applies if a service approval has been suspended or cancelled under section 72, 73, 79 or 82.
 (2) The Regulatory Authority may require the approved provider to give written notice of the suspension or cancellation and its effect to the parents of children enrolled at the education and care service to which the approval relates and any associated children's service.
 (3) The approved provider must comply with a requirement made under subsection (2).
 Penalty:
@@ -774,9 +812,10 @@ An application under section 87 must—
 (b) include the prescribed information; and
 (c) include payment of the prescribed fee.
 89—Powers of Regulatory Authority in considering application
-For the purpose of determining an application under this Division, the Regulatory Authority may—
+(1) For the purpose of determining an application under this Division, the Regulatory Authority may—
 (a) ask the applicant to provide further information; and
 (b) inspect the education and care service premises and the office of the applicant.
+(2) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of that request until the provision of further information is not included in the period referred to in section 91(2) for the Regulatory Authority to make a decision on the application.
 90—Matters to be considered
 In considering whether the grant of a service waiver is appropriate, the Regulatory Authority may have regard to either or both of the following:
 (a) whether the education and care service is able to meet the prescribed element or elements of the National Quality Standard and the national regulations by alternative means that satisfy the objectives of those elements;
@@ -785,7 +824,11 @@ In considering whether the grant of a service waiver is appropriate, the Regulat
 (1) On an application under this Division, the Regulatory Authority may decide to grant the service waiver or refuse the application.
 (2) Subject to subsection (3), the Regulatory Authority must notify the applicant within 60 days after the application is made of the Authority's decision on the application.
 (3) If an application for a service waiver has been made together with an application for service approval, the Regulatory Authority may notify the applicant of the Authority's decision on the application at the same time as the notice of the decision on the application for the service approval.
-(4) If a service waiver is granted, the Regulatory Authority must issue or reissue the service approval specifying the element or elements of the National Quality Standard and the national regulations to which the service waiver applies.
+(4) If a service waiver is granted, the Regulatory Authority may place any conditions on the service waiver, including any condition limiting the use of the service waiver.
+(5) The Regulatory Authority may, at any time remove, add to or vary any conditions placed on a service waiver under subsection (4).
+(6) If a service waiver is granted or its conditions are amended under subsection (5), the Regulatory Authority must issue or reissue the service approval specifying—
+(a) the element or elements of the National Quality Standard and the national regulations that have been waived; and
+(b) any conditions placed on the waiver.
 92—Revocation of service waiver
 (1) The Regulatory Authority may, at its discretion, revoke a service waiver.
 (2) An approved provider may apply to the Regulatory Authority for the revocation of a service waiver applying to any education and care service that it operates.
@@ -801,9 +844,10 @@ An application under section 94 must—
 (b) include the prescribed information; and
 (c) include payment of the prescribed fee.
 96—Regulatory Authority may seek further information
-For the purpose of determining an application under this Division, the Regulatory Authority may—
+(1) For the purpose of determining an application under this Division, the Regulatory Authority may—
 (a) ask the applicant to provide further information; and
 (b) inspect the education and care service premises and the office of the applicant.
+(2) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of that request until the provision of further information is not included in the period referred to in section 98(1) for the Regulatory Authority to make a decision on the application.
 97—Special circumstances
 In considering whether the grant of a temporary waiver is appropriate, the Regulatory Authority must have regard to whether special circumstances disclosed in the application reasonably justify the grant of the temporary waiver.
 98—Decision on application
@@ -812,7 +856,13 @@ In considering whether the grant of a temporary waiver is appropriate, the Regul
 (3) The Regulatory Authority, on the application of the approved provider, may—
 (a) extend and further extend the period of a temporary waiver by periods of not more than 12 months; and
 (b) grant a further temporary waiver for an education and care service under this Division.
-(4) If the Regulatory Authority grants a temporary waiver, the Regulatory Authority must issue or reissue the service approval specifying the element or elements of the National Quality Standard and the national regulations which have been temporarily waived and the period of the waiver.
+(4) An application under subsection (3) must include payment of the prescribed fee.
+(5) If a temporary waiver is granted, the Regulatory Authority may place any conditions on the temporary waiver, including any condition limiting the use of the temporary waiver.
+(6) The Regulatory Authority may, at any time remove, add to or vary any conditions placed on a temporary waiver under subsection (5).
+(7) If a temporary waiver is granted or its conditions are amended under subsection (6), the Regulatory Authority must issue or reissue the service approval specifying—
+(a) the element or elements of the National Quality Standard and the national regulations that have been temporarily waived; and
+(b) the period of the waiver; and
+(c) any conditions placed on the waiver.
 99—Revocation of temporary waiver
 The Regulatory Authority may, at its discretion, revoke a temporary waiver.
 100—Effect of temporary waiver
@@ -836,184 +886,17 @@ Penalty:
 (a) $20 000, in the case of an individual.
 (b) $100 000, in any other case.
 (2) Subsection (1) does not apply to a family day care educator providing education and care to children as part of an approved family day care service.
+103A—Offence relating to places where education and care is provided as part of a family day care service
+An approved provider of a family day care service must ensure that education and care is not provided to children, as part of the service, from a place that is not a family day care residence or an approved family day care venue unless otherwise permitted by this Law.
+Penalty:
+(a) $20 000, in the case of an individual.
+(b) $100 000, in any other case.
 104—Offence to advertise education and care service without service approval
 (1) A person must not knowingly publish or cause to be published an advertisement for an education and care service unless it is an approved education and care service.
 Penalty:
 (a) $6 000, in the case of an individual.
 (b) $30 000, in any other case.
 (2) Subsection (1) does not apply if an application for a service approval in respect of the education and care service has been made under this Law but has not been decided.
-Part 4—Supervisor certificates
-Division 1—Application for supervisor certificate
-105—Purpose of supervisor certificate
-A supervisor certificate makes the person to whom it is issued eligible to be placed in day to day charge of an approved education and care service.
-106—Application for supervisor certificate
-(1) A person may apply to the Regulatory Authority for a supervisor certificate.
-(2) An applicant must be an individual of or above the age of 18 years.
-(3) An application must be made to the Regulatory Authority of the participating jurisdiction in which the applicant is ordinarily resident or intending to reside.
-107—Form of application
-An application under section 106 must—
-(a) be in writing signed by the applicant; and
-(b) include the prescribed information; and
-(c) include payment of the prescribed fee.
-108—Applicant must satisfy Regulatory Authority of specified matters
-(1) An applicant must satisfy the Regulatory Authority that the applicant—
-(a) is a fit and proper person to be a supervisor of an education and care service; and
-(b) meets the prescribed minimum requirements for qualifications, experience and management capability.
-(2) The following persons are taken, in the absence of evidence to the contrary, to satisfy the requirements of subsection (1)(a):
-(a) a person who is a registered teacher under an education law of a participating jurisdiction;
-(b) a person who holds a current working with children card under the working with children law of a participating jurisdiction.
-109—Matters to be taken into account in assessing whether fit and proper person
-(1) The Regulatory Authority, in determining whether it is satisfied that a person is a fit and proper person under this Division, must have regard to—
-(a) the history of the person's compliance with—
-(i) this Law as applying in any participating jurisdiction; and
-(ii) a former education and care services law of a participating jurisdiction; and
-(iii) a children's services law of a participating jurisdiction; and
-(iv) an education law of a participating jurisdiction; and
-Note—
-If a person has been served with an infringement notice for an offence under this Law, and the person has paid the penalty, the Regulatory Authority cannot consider that conduct when determining whether the person is fit and proper. See section 291(5).
-(b) any decision under a former education and care services law, a children's services law or an education law of a participating jurisdiction to refuse, refuse to renew, suspend or cancel a licence, approval, registration or certification or other authorisation granted to the person under that law; and
-(c) the working with children check for that person, or if there is no working with children check for that person, any prescribed matters relating to the criminal history of the person to the extent that that history may affect the person's suitability for the role of supervisor of an education and care service.
-(2) Without limiting subsection (1), the Regulatory Authority may have regard to whether the person has a medical condition that may affect the person's capacity to be the supervisor of an education and care service.
-(3) Nothing in subsection (1) or (2) limits the circumstances in which a person may be considered not to satisfy the Regulatory Authority that he or she is a fit and proper person to be a supervisor of an education and care service.
-110—Regulatory Authority may seek further information
-(1) For the purpose of carrying out an assessment as to whether a person is a fit and proper person to hold a supervisor certificate, the Regulatory Authority may—
-(a) ask the person in respect of whom the assessment is being carried out to provide further information; and
-(b) undertake inquiries or investigations in relation to the person in respect of whom the assessment is being carried out.
-(2) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of the request until the provision of the further information is not included in the period referred to in section 111 for the Regulatory Authority to make a decision on the application.
-111—Grant or refusal of supervisor certificate
-(1) The Regulatory Authority may grant or refuse to grant a supervisor certificate on an application under section 106.
-Note—
-A supervisor certificate is granted subject to conditions in accordance with section 115.
-(2) Subject to subsection (3), the Regulatory Authority must make a decision on the application within 60 days after the Regulatory Authority received the application.
-Note—
-If further information is requested under section 110(2), the period between the making of the request and the provision of the information is not included in the 60 day period.
-(3) The period referred to in subsection (2) may be extended by up to 30 days with the agreement of the applicant.
-(4) The Regulatory Authority is taken to have refused to grant a supervisor certificate if the Regulatory Authority has not made a decision under subsection (1)—
-(a) within the relevant time required under subsection (2); or
-(b) within the period extended under subsection (3),
-as the case requires.
-112—Grounds for refusal
-The Regulatory Authority must refuse to grant a supervisor certificate if—
-(a) the Regulatory Authority is not satisfied that the applicant is a fit and proper person to be the supervisor of an education and care service; or
-(b) the applicant is under the age of 18 years; or
-(c) the Regulatory Authority is not satisfied that the applicant meets the prescribed minimum requirements for qualifications, experience and management capability.
-113—Notice of decision on application
-The Regulatory Authority must give written notice to the applicant of a decision under section 111 and the reasons for the decision within 7 days after the decision is made.
-114—Grant of supervisor certificate to specified classes of persons
-(1) The Regulatory Authority may grant a supervisor certificate to a person in a prescribed class of persons.
-Note—
-A supervisor certificate is granted subject to conditions in accordance with section 115.
-(2) Sections 106 to 113 do not apply to the grant of a supervisor certificate under this section.
-115—Conditions on certificate
-(1) A supervisor certificate is subject to any conditions imposed by—
-(a) this Law; or
-(b) the Regulatory Authority.
-(2) Without limiting subsection (1), a supervisor certificate is subject to the condition that the certified supervisor must, to the extent that a matter is within the supervisor's control, comply with this Law in relation to that matter.
-(3) Without limiting subsection (1), a supervisor certificate is subject to the condition that the certified supervisor must notify the Regulatory Authority of a change in his or her name or mailing address.
-(4) A certified supervisor must comply with the conditions of the supervisor certificate held by that person.
-Penalty: $4 000.
-116—Issue of certificate
-If the Regulatory Authority grants a supervisor certificate under section 111 or 114, the Authority must issue a certificate containing the following information to the applicant:
-(a) the name of the certified supervisor or the prescribed class of person to which the certified supervisor belongs;
-(b) any conditions imposed on the supervisor certificate;
-(c) the date the supervisor certificate was granted;
-(d) the certified supervisor number;
-(e) any other prescribed information.
-117—Effect of supervisor certificate
-A person who is the holder of a supervisor certificate may—
-(a) be nominated as the nominated supervisor of an education and care service; and
-(b) be the responsible person present at the education and care service premises in the absence of the approved provider or the nominated supervisor.
-Division 2—Reassessment
-118—Reassessment of suitability
-(1) The Regulatory Authority may at any time reassess whether a certified supervisor is a fit and proper person to be a supervisor of an education and care service.
-(2) Sections 108, 109 and 110 apply to the reassessment.
-Division 3—Amendment of supervisor certificate
-119—Amendment of supervisor certificate on application
-(1) A certified supervisor may apply to the Regulatory Authority for an amendment of the supervisor certificate.
-(2) The application must—
-(a) be in writing; and
-(b) include the prescribed information; and
-(c) include payment of the prescribed fee.
-(3) The Regulatory Authority must decide the application by—
-(a) amending the supervisor certificate in the way applied for; or
-(b) with the applicant's written agreement, amending the supervisor certificate in another way; or
-(c) refusing to amend the supervisor certificate.
-(4) The Regulatory Authority must make a decision on the application within 30 days after the Regulatory Authority receives the application.
-(5) Without limiting subsection (3), an amendment may vary a condition of the supervisor certificate or impose a new condition on the supervisor certificate.
-120—Amendment of supervisor certificate by Regulatory Authority
-(1) The Regulatory Authority may amend a supervisor certificate at any time.
-(2) Without limiting subsection (1), an amendment may vary a condition of the supervisor certificate or impose a new condition on the supervisor certificate.
-(3) The Regulatory Authority must give written notice to the certified supervisor of the amendment.
-(4) An amendment under this section has effect—
-(a) 14 days after the Regulatory Authority gives notice of the amendment under subsection (3); or
-(b) if another period is specified by the Regulatory Authority, at the end of that period.
-121—Notice of change of circumstances
-(1) A certified supervisor must notify the Regulatory Authority of—
-(a) any change in the circumstances of the supervisor that affects—
-(i) a requirement under section 108 or 109; or
-(ii) the information specified in the supervisor certificate under section 116; or
-(b) the suspension or cancellation of a working with children check, working with children card or teacher registration held by the certified supervisor; or
-(c) any disciplinary proceedings in relation to the certified supervisor under an education law of a participating jurisdiction.
-Penalty: $4 000.
-(2) The notice must be given within 7 days after the change occurs.
-122—Notice of change of information
-If the certified supervisor notifies the Regulatory Authority of a change in any of the information stated on the supervisor certificate, the Regulatory Authority may amend the supervisor certificate to show the correct information.
-Division 4—Suspension or cancellation of supervisor certificate
-123—Grounds for suspension or cancellation of supervisor certificate
-The Regulatory Authority may suspend or cancel a supervisor certificate—
-(a) if the Regulatory Authority is of the opinion that the certified supervisor is no longer a fit and proper person to be a supervisor of an education and care service; or
-(b) if the certified supervisor fails to comply with a condition of the supervisor certificate; or
-(c) if the certified supervisor fails to comply with a requirement of this Law as applying in any participating jurisdiction in relation to a matter within the certified supervisor's control.
-124—Show cause notice before suspension or cancellation
-(1) This section applies if the Regulatory Authority is considering the suspension or cancellation of a supervisor certificate under section 123.
-(2) The Regulatory Authority must first give the certified supervisor a notice (show cause notice) stating—
-(a) that the Regulatory Authority intends to suspend or cancel the supervisor certificate; and
-(b) the reasons for the proposed suspension or cancellation; and
-(c) that the certified supervisor may, within 30 days after the notice is given, give the Regulatory Authority a written response to the proposed suspension or cancellation.
-125—Decision in relation to suspension or cancellation
-After considering any written response from the certified supervisor received within the time allowed by section 124(2)(c) (if applicable), the Regulatory Authority—
-(a) may—
-(i) suspend the supervisor certificate for a period not exceeding the prescribed period; or
-(ii) cancel the supervisor certificate; or
-(iii) decide not to suspend or cancel the supervisor certificate; and
-(b) must give the certified supervisor notice of the decision.
-126—Suspension of supervisor certificate without show cause notice
-The Regulatory Authority may suspend the supervisor certificate on a ground referred to in section 123 without giving the supervisor a show cause notice under section 124 if the Regulatory Authority is satisfied that there is an immediate risk to the safety, health or wellbeing of a child or children.
-127—Notice and taking effect of suspension or cancellation
-(1) The Regulatory Authority must give the certified supervisor written notice of the decision to suspend or cancel the supervisor certificate under section 125 or 126.
-(2) The notice of a decision to suspend must set out—
-(a) the period of suspension; and
-(b) the date on which it takes effect.
-(3) The decision under section 125 to suspend or cancel takes effect at the end of 14 days after the date of the decision, or, if another period is specified by the Regulatory Authority, at the end of that period.
-(4) The decision to suspend under section 126 takes effect on the giving of the notice.
-128—Suspension or cancellation of certain supervisor certificates
-(1) If the teacher registration of a person is suspended, the supervisor certificate of that person is suspended at the end of 14 days after that suspension unless and until the Regulatory Authority has assessed the person under section 109 as being a fit and proper person.
-(2) If the teacher registration of a person is cancelled, the supervisor certificate of that person is cancelled at the end of 14 days after that cancellation unless the Regulatory Authority has assessed the person under section 109 as being a fit and proper person.
-(3) The supervisor certificate of a person is suspended immediately if the working with children card of that person is suspended.
-(4) The supervisor certificate of a person is cancelled immediately if the working with children card of that person is cancelled.
-129—Voluntary suspension of supervisor certificate
-(1) A certified supervisor may apply to the Regulatory Authority for a suspension of the supervisor certificate for a period of not more than 12 months.
-(2) An application must—
-(a) be in writing; and
-(b) include the prescribed information; and
-(c) include payment of the prescribed fee.
-(3) The Regulatory Authority may, by written notice, agree to the suspension if the Authority is satisfied that it is reasonable in the circumstances.
-(4) The Regulatory Authority must, within 30 days after the application is made, decide whether or not to grant the application.
-(5) If the Regulatory Authority decides to grant the application, the suspension takes effect on a date agreed between the Regulatory Authority and the certified supervisor.
-130—Surrender of a supervisor certificate by certified supervisor
-(1) A certified supervisor may surrender the supervisor certificate by written notice to the Regulatory Authority.
-(2) On the surrender of the supervisor certificate, the certificate is cancelled.
-Division 5—Exercise of powers by another Regulatory Authority
-131—Exercise of powers by another Regulatory Authority
-(1) This section applies if the Regulatory Authority has granted a supervisor certificate under this Part.
-(2) A Regulatory Authority of a participating jurisdiction may exercise all of the powers and perform all the functions of the Regulatory Authority under this Part in respect of the supervisor certificate if the certified supervisor works as a certified supervisor in that jurisdiction.
-(3) A Regulatory Authority (including the Regulatory Authority of this jurisdiction) may only exercise a power referred to in subsection (2) after consulting with the Regulatory Authority of each participating jurisdiction in which the certified supervisor is currently working as a nominated supervisor.
-(4) A failure by a Regulatory Authority to comply with subsection (3) does not affect the validity of the exercise of the power.
-(5) A cancellation or suspension of a supervisor certificate in another participating jurisdiction has effect in this jurisdiction.
-Division 6—Offence
-132—Offence to act as supervisor without supervisor certificate
-A person must not hold himself or herself out as being a certified supervisor unless the person holds a supervisor certificate.
-Penalty: $10 000.
 Part 5—Assessments and ratings
 Division 1—Assessment and rating
 133—Assessment for rating purposes
@@ -1072,9 +955,10 @@ Division 3—Review by Regulatory Authority
 (1) The person who conducts a review of rating levels for an approved education and care service for the Regulatory Authority must not be a person who was involved in the assessment or rating of the service.
 (2) The person conducting the review may ask the approved provider and any person who was involved in the assessment or rating of the service for further information.
 (3) A review under this section must be conducted within 30 days after the application for review is received.
-(4) The period specified in subsection (3) may be extended by up to 30 days—
-(a) if a request for further information is made under subsection (2); or
-(b) by agreement between the approved provider and the Regulatory Authority.
+(4) The Regulatory Authority may extend the 30 day review period under subsection (3) in one of the following circumstances—
+(a) for an additional period of up to 30 days, if a request for further information is made under subsection (2);
+(b) for an additional period of up to 30 days, by agreement between the approved provider and the Regulatory Authority;
+(c) for an additional period of up to 60 days, where the Regulatory Authority considers there are special circumstances that warrant an extension of time to conduct the review.
 143—Outcome of review by Regulatory Authority
 (1) Following a review under section 142, the Regulatory Authority may:
 (a) confirm the specific rating levels or the overall rating or both; or
@@ -1164,7 +1048,7 @@ Division 5—Awarding of highest rating
 (b) include the prescribed information; and
 (c) include payment of the prescribed fee.
 (4) An application may be made only once every 3 years, unless the National Authority determines otherwise in a particular case.
-(5) An application may be made for the highest rating level only if the current overall rating of the service is the second highest rating level.
+(5) An application may be made for the highest rating level only if the approved education and care service holds the rating levels prescribed for the purposes of this section.
 153—Assessment of education and care service
 (1) The National Authority may determine and publish criteria that must be met by approved education and care services in respect of the award of the highest rating level.
 (2) The Board must assess the approved education and care service in accordance with the criteria published under subsection (1) to determine whether the service meets the highest rating level in meeting the National Quality Standard and the requirements of the national regulations.
@@ -1198,7 +1082,7 @@ The Board may at any time reassess an approved education and care service in acc
 158—Revocation of highest rating level
 The Board must revoke the highest rating level of an approved education and care service if—
 (a) it determines that the service no longer meets the criteria for the highest rating level; or
-(b) the Regulatory Authority advises the Board that the overall rating level of the education and care service has been determined to be at a level that is lower than the second highest rating level.
+(b) the Regulatory Authority advises the Board that the service no longer meets the requirements for the rating levels prescribed for the purposes of section 152(5).
 159—Re-application for highest rating level
 (1) An approved provider of an approved education and care service that has been awarded the highest rating level may reapply for the award of the highest rating level for the service.
 (2) The application must be made within 90 days before the expiry of the existing highest rating level for the approved education and care service.
@@ -1215,21 +1099,28 @@ Division 6—Publication of rating levels
 (5) The National Authority must publish notice of the giving of the highest rating level to an approved education and care service under Division 5, as soon as possible after the Regulatory Authority and the approved provider are notified of the decision of the Board under that Division.
 Part 6—Operating an education and care service
 161—Offence to operate education and care service without nominated supervisor
-The approved provider of an education and care service must not operate the service unless there is a nominated supervisor for that service.
+The approved provider of an education and care service must not operate the service unless there is at least one nominated supervisor for that service.
+Penalty:
+(a) $5 000, in the case of an individual.
+(b) $25 000, in any other case.
+161A—Offence for nominated supervisor not to meet prescribed minimum requirements
+The approved provider of an education and care service must not nominate an individual to be a nominated supervisor of that service unless that individual meets the prescribed minimum requirements for nomination as a nominated supervisor.
 Penalty:
 (a) $5 000, in the case of an individual.
 (b) $25 000, in any other case.
 162—Offence to operate education and care service unless responsible person is present
 (1) The approved provider of an education and care service must ensure that one of the following persons is present at all times that the service is educating and caring for children:
 (a) the approved provider, if the approved provider is an individual or, in any other case, a person with management or control of an education and care service operated by the approved provider;
-(b) the nominated supervisor of the service;
-(c) a certified supervisor who has been placed in day to day charge of the service in accordance with the national regulations.
+(b) a nominated supervisor of the service;
+(c) a person in day-to-day charge of the service.
 Penalty:
 (a) $5 000, in the case of an individual.
 (b) $25 000, in any other case.
 (2) This section does not apply to an approved family day care service.
+162A—Persons in day-to-day charge and nominated supervisors to have child protection training
+The approved provider of an education and care service must ensure that each nominated supervisor and each person in day-to-day charge of the service has successfully completed the child protection training (if any) required by or under the law of this jurisdiction, a Government protocol applying to the approved provider in this jurisdiction or otherwise required by this jurisdiction.
 163—Offence relating to appointment or engagement of family day care co‑ordinators
-(1) The approved provider of a family day care service must ensure that at all times one or more qualified persons are employed or engaged as family day care co‑ordinators of the family day care service—
+(1) The approved provider of a family day care service must ensure that at all times the prescribed minimum number of qualified persons are employed or engaged as family day care co‑ordinators of the family day care service—
 (a) to assist with the operation of the family day care service; and
 (b) to support, monitor and train the family day care educators of that service.
 Penalty:
@@ -1239,18 +1130,25 @@ Penalty:
 164—Offence relating to assistance to family day care educators
 (1) The approved provider of a family day care service must ensure that, at all times that a family day care educator is educating and caring for a child as part of the service, one of the following persons is available to provide support to the family day care educator:
 (a) the approved provider, if the approved provider is an individual, or a person with management or control of the family day care service, in any other case;
-(b) the nominated supervisor of the service;
-(c) a certified supervisor who has been placed in day to day charge of the family day care service in accordance with the national regulations.
+(b) a nominated supervisor of the service;
+(c) a person in day-to-day charge of the service.
 Penalty:
 (a) $5 000, in the case of an individual.
 (b) $25 000, in any other case.
 (2) For the purposes of this section, the requirement to be available to provide support to a family day care educator includes being available to be contacted by telephone to provide advice and assistance to the family day care educator.
+164A—Offence relating to the education and care of children by family day care service
+(1) The approved provider of a family day care service must ensure that any child being educated and cared for as part of the service is not educated and cared for by a person other than a family day care educator, except in the circumstances prescribed by the national regulations.
+Penalty:
+(a) $10 000, in the case of an individual.
+(b) $50 000, in any other case.
+(2) A family day care educator must ensure that any child being educated and cared for by the educator as part of a family day care service is not educated or cared for by any other person at the family day care residence or approved family day care venue, except in the circumstances prescribed by the national regulations.
+Penalty: $2 000.
 165—Offence to inadequately supervise children
 (1) The approved provider of an education and care service must ensure that all children being educated and cared for by the service are adequately supervised at all times that the children are in the care of that service.
 Penalty:
 (a) $10 000, in the case of an individual.
 (b) $50 000, in any other case.
-(2) The nominated supervisor of an education and care service must ensure that all children being educated and cared for by the service are adequately supervised at all times that the children are in the care of that service.
+(2) A nominated supervisor of an education and care service must ensure that all children being educated and cared for by the service are adequately supervised at all times that the children are in the care of that service.
 Penalty: $10 000.
 (3) A family day care educator must ensure that any child being educated and cared for by the educator as a part of a family day care service is adequately supervised.
 Penalty: $10 000.
@@ -1261,7 +1159,7 @@ Penalty: $10 000.
 Penalty:
 (a) $10 000, in the case of an individual.
 (b) $50 000, in any other case.
-(2) The nominated supervisor of an education and care service must ensure that no child being educated and cared for by the service is subjected to—
+(2) A nominated supervisor of an education and care service must ensure that no child being educated and cared for by the service is subjected to—
 (a) any form of corporal punishment; or
 (b) any discipline that is unreasonable in the circumstances.
 Penalty: $10 000.
@@ -1319,17 +1217,23 @@ Penalty: $10 000.
 (8) If a determination is made under subsection (7), any person holding the qualification is to be taken to be qualified in accordance with the national regulations.
 170—Offence relating to unauthorised persons on education and care service premises
 (1) This section applies to an education and care service operating in a participating jurisdiction that has a working with children law.
-(2) The approved provider of the education and care service must ensure that an unauthorised person does not remain at the education and care service premises while children are being educated and cared for at the premises unless the person is under the direct supervision of an educator or other staff member of the service.
+(2) The approved provider of the education and care service must ensure that a person does not remain at the education and care service premises while children are being educated and cared for at the premises, unless—
+(a) the person is an authorised person; or
+(b) the person is under the direct supervision of an educator or other staff member of the service.
 Penalty:
 (a) $1 000, in the case of an individual.
 (b) $5 000, in any other case.
-(3) The nominated supervisor of the education and care service must ensure that an unauthorised person does not remain at the education and care service premises while children are being educated and cared for at the premises unless the person is under the direct supervision of an educator or other staff member of the service.
+(3) A nominated supervisor of the education and care service must ensure that a person does not remain at the education and care service premises while children are being educated and cared for at the premises, unless—
+(a) the person is an authorised person; or
+(b) the person is under the direct supervision of an educator or other staff member of the service.
 Penalty: $1 000.
-(4) A family day care educator must ensure that an unauthorised person does not remain at the residence or approved family day care venue at which the educator is educating and caring for a child as part of a family day care service unless the unauthorised person is under the direct supervision of the educator.
+(4) A family day care educator must ensure that a person does not remain at the family day care residence or approved family day care venue at which the educator is educating and caring for children, unless—
+(a) the person is an authorised person; or
+(b) the person is under the direct supervision of the educator.
 Penalty: $1 000.
 (5) In this section—
 authorised nominee, in relation to a child, means a person who has been given permission by a parent or family member of the child to collect the child from the education and care service or the family day care educator;
-unauthorised person means a person who is not—
+authorised person means a person who is—
 (a) a person who holds a current working with children check or working with children card; or
 (b) a parent or family member of a child who is being educated and cared for by the education and care service or the family day care educator; or
 (c) an authorised nominee of a parent or family member of a child who is being educated and cared for by the education and care service or the family day care educator; or
@@ -1354,7 +1258,7 @@ A person who is under the influence of drugs or alcohol.
 An approved provider of an education and care service must ensure that the prescribed information about the following is positioned so that it is clearly visible to anyone from the main entrance to the education and care service premises:
 (a) the provider approval;
 (b) the service approval;
-(c) the nominated supervisor or the prescribed class of persons to which the nominated supervisor belongs;
+(c) each nominated supervisor of the service;
 (d) the rating of the service;
 (e) any service waivers or temporary waivers held by the service;
 (f) any other prescribed matters.
@@ -1370,19 +1274,23 @@ Penalty:
 (a) $4 000, in the case of an individual.
 (b) $20 000, in any other case.
 (2) An approved provider must notify the Regulatory Authority of the following in relation to an approved education and care service operated by the approved provider:
-(a) if the approved provider is notified of the suspension or cancellation of a working with children card or teacher registration of, or disciplinary proceedings under an education law of a participating jurisdiction in respect of, a nominated supervisor or certified supervisor engaged by the service;
-(b) if a nominated supervisor of an approved education and care service ceases to be employed or engaged by the service or withdraws consent to the nomination;
+(a) if the approved provider is notified of the suspension or cancellation of a working with children card or teacher registration of, or disciplinary proceedings under an education law of a participating jurisdiction in respect of, a nominated supervisor engaged by the service;
+(b) if a nominated supervisor of an approved education and care service—
+(i) ceases to be employed or engaged by the service; or
+(ii) is removed from the role of nominated supervisor; or
+(iii) withdraws consent to the nomination;
 (c) any proposed change to the education and care service premises of an approved education and care service (other than a family day care residence);
-(d) ceasing to operate the education and care service;
+(d) if the approved provider ceases to operate the education and care service;
 (e) in the case of an approved family day care service, a change in the location of the principal office of the service;
 (f) an intention to transfer a service approval, as required under section 59.
 Penalty:
 (a) $4 000, in the case of an individual.
 (b) $20 000, in any other case.
-(3) A notice under subsection (1) must be in writing and be provided within the relevant prescribed time to the Regulatory Authority that granted the provider approval.
-(4) A notice under subsection (2) must be in writing and be provided within the relevant prescribed time to—
-(a) the Regulatory Authority that granted the service approval for the education and care service to which the notice relates; and
-(b) in the case of a family day care service, the Regulatory Authority in each participating jurisdiction in which the family day care service operates.
+(3) A notice under subsection (1) or (2) must—
+(a) be in writing; and
+(b) include any prescribed information.
+(4) A notice under subsection (1) must be provided within the relevant prescribed time to the Regulatory Authority that granted the provider approval to which the notice relates.
+(5) A notice under subsection (2) must be provided within the relevant prescribed time to the Regulatory Authority that granted the service approval for the education and care service to which the notice relates.
 174—Offence to fail to notify certain information to Regulatory Authority
 (1) An approved provider must notify the Regulatory Authority of the following information in relation to the approved provider or each approved education and care service operated by the approved provider:
 (a) any change relevant to whether the approved provider is a fit and proper person to be involved in the provision of an education and care service;
@@ -1392,8 +1300,8 @@ Penalty:
 (b) $20 000, in any other case.
 (2) An approved provider must notify the Regulatory Authority of the following information in relation to an approved education and care service operated by the approved provider:
 (a) any serious incident at the approved education and care service;
-(b) complaints alleging—
-(i) that the safety, health or wellbeing of a child or children was or is being compromised while that child or children is or are being educated and cared for by the approved education and care service; or
+(b) any complaints alleging—
+(i) that a serious incident has occurred or is occurring while a child was or is being educated and cared for by the approved education and care service; or
 (ii) that this Law has been contravened;
 (c) information in respect of any other prescribed matters.
 Penalty:
@@ -1403,8 +1311,14 @@ Penalty:
 (4) A notice under subsection (2) must be in writing and be provided within the relevant prescribed time to—
 (a) the Regulatory Authority that granted the service approval for the education and care service to which the notice relates; and
 (b) in the case of a family day care service, the Regulatory Authority in each participating jurisdiction in which the family day care service operates.
-(5) In this section—
-serious incident means an incident or class of incidents prescribed by the national regulations as a serious incident.
+174A—Family day care educator to notify certain information to approved provider
+A family day care educator who educates and cares for children as part of a family day care service must notify the approved provider of the service of the following information—
+(a) any serious incident that occurs while a child is being educated and cared for by the educator as part of the service;
+(b) any complaints alleging—
+(i) that a serious incident has occurred or is occurring while a child was or is being educated and cared for by the educator; or
+(ii) that this Law has been contravened;
+(c) information in respect of any other prescribed matters.
+Penalty: $2 000.
 175—Offence relating to requirement to keep enrolment and other documents
 (1) An approved provider of an education and care service must keep the prescribed documents available for inspection by an authorised officer in accordance with this section.
 Penalty:
@@ -1437,7 +1351,7 @@ Penalty:
 (b) $30 000, in any other case.
 178—Notice to suspend education and care by a family day care educator
 (1) This section applies if the Regulatory Authority is satisfied that because of the conduct of, or the inadequacy of the service provided by, a family day care educator engaged by or registered with a family day care service—
-(a) the approved provider or the nominated supervisor of an approved family day care service is not complying with any provision of this Law; or
+(a) the approved provider or a nominated supervisor of an approved family day care service is not complying with any provision of this Law; or
 (b) there is a risk to the safety, health or wellbeing of children being educated and cared for by the family day care educator.
 (2) The Regulatory Authority may give the approved provider, the nominated supervisor (if applicable) and the educator a notice (show cause notice) stating—
 (a) that the Regulatory Authority intends to give the approved provider a notice directing the provider to suspend the provision of education and care by the educator; and
@@ -1464,52 +1378,82 @@ Penalty:
 (a) $6 000, in the case of an individual.
 (b) $30 000, in any other case.
 Division 2—Enforceable undertakings
-180—Enforceable undertakings
-(1) This section applies if a person has contravened, or if the Regulatory Authority alleges a person has contravened, a provision of this Law.
-(2) The Regulatory Authority may accept a written undertaking from the person under which the person undertakes to take certain actions, or refrain from taking certain actions, to comply with this Law.
-(3) A person may with the consent of the Regulatory Authority withdraw or amend an undertaking.
-(4) The Regulatory Authority may withdraw its acceptance of the undertaking at any time and the undertaking ceases to be in force on that withdrawal.
-(5) While an undertaking is in force, proceedings may not be brought for any offence constituted by the contravention or alleged contravention in respect of which the undertaking is given.
-(6) If a person complies with the requirements of an undertaking, no further proceedings may be brought for any offence constituted by the contravention or alleged contravention in respect of which the undertaking was given.
+179A—Enforceable undertakings
+(1) This section applies—
+(a) if a person has contravened, or if the Regulatory Authority alleges a person has contravened, a provision of this Law; or
+(b) in the circumstances set out in section 27(a), 72(a) or 184(3).
+(2) If subsection (1)(a) applies, the Regulatory Authority may accept a written undertaking from the person, under which the person undertakes to take certain actions, or refrain from taking certain actions, to comply with this Law.
+(3) If subsection (1)(b) applies in relation to the approved provider of an education and care service, the Regulatory Authority may accept a written undertaking from the approved provider, under which the approved provider undertakes to take certain actions, or refrain from taking certain actions in relation to the education and care service.
+(4) If subsection (1)(b) applies in relation to a person other than the approved provider of an education and care service, the Regulatory Authority may accept a written undertaking from the person, under which the person undertakes to take certain actions, or refrain from taking certain actions in relation to an education and care service.
+(5) A person may, with the consent of the Regulatory Authority, withdraw or amend an undertaking.
+(6) The Regulatory Authority may withdraw its acceptance of the undertaking at any time and the undertaking ceases to be in force on that withdrawal.
 (7) The Regulatory Authority may publish on the Regulatory Authority's website an undertaking accepted under this section.
+179B—Certain actions prohibited while undertaking is in force
+(1) While an undertaking is in force under section 179A(2), proceedings may not be brought for any offence constituted by the contravention or alleged contravention in respect of which the undertaking is given.
+(2) While an undertaking is in force under section 179A(3), the Regulatory Authority must not (as the case requires)—
+(a) suspend the provider approval under section 27 in relation to a matter that is the subject of the undertaking; or
+(b) suspend the service approval under section 72 in relation to a matter that is the subject of the undertaking; or
+(c) give a prohibition notice under section 182 in relation to a matter that is the subject of the undertaking.
+(3) While an undertaking is in force under section 179A(4), the Regulatory Authority must not give a prohibition notice under section 182 in relation to a matter that is the subject of the undertaking.
+180—Certain actions prohibited if undertaking is complied with
+(1) If a person complies with the requirements of an undertaking under section 179A(2), no further proceedings may be brought for any offence constituted by the contravention or alleged contravention in respect of which the undertaking was given.
+(2) If an approved provider complies with the requirements of an undertaking under section 179A(3), the Regulatory Authority must not (as the case requires)—
+(a) suspend the provider approval under section 27 in relation to a matter that is the subject of the undertaking; or
+(b) suspend the service approval under section 72 in relation to a matter that is the subject of the undertaking; or
+(c) give a prohibition notice under section 182 in relation to a matter that is the subject of the undertaking.
+(3) If a person complies with the requirements of an undertaking under section 179A(4), the Regulatory Authority must not give a prohibition notice under section 182 in relation to a matter that is the subject of the undertaking.
 181—Failure to comply with enforceable undertakings
-(1) If the Regulatory Authority considers that the person who gave an undertaking under section 180 has failed to comply with any of its terms, the Regulatory Authority may apply to the relevant tribunal or court for an order under subsection (2) to enforce the undertaking.
-(2) If the relevant tribunal or court is satisfied that the person has failed to comply with a term of the undertaking, the relevant tribunal or court may make any of the following orders:
-(a) an order directing the person to comply with that term of the undertaking;
+(1) If the Regulatory Authority considers that a person who gave an undertaking under section 179A has failed to comply with any of its terms, the Regulatory Authority may apply to the relevant tribunal or court for an order under subsection (2) to enforce the undertaking.
+(2) If the relevant tribunal or court is satisfied that the person has failed to comply with a term of the undertaking, the relevant tribunal or court may make any of the following orders—
+(a) an order directing the person to comply with the term of the undertaking;
 (b) an order that the person take any specified action for the purpose of complying with the undertaking;
 (c) any other order that the relevant tribunal or court considers appropriate in the circumstances.
-(3) If the relevant tribunal or court determines that the person has failed to comply with a term of the undertaking, proceedings may be brought for any offence constituted by the contravention or alleged contravention in respect of which the undertaking was given.
+(3) If the relevant tribunal or court determines that the person has failed to comply with a term of an undertaking under section 179A(2), proceedings may be brought for any offence constituted by the contravention or alleged contravention in respect of which the undertaking was given.
+(4) If the relevant tribunal or court determines that an approved provider has failed to comply with a term of an undertaking under section 179A(3), the Regulatory Authority may without further notice—
+(a) if the undertaking was given in circumstances set out in section 27(a), suspend the provider approval under section 27; or
+(b) if the undertaking was given in circumstances set out in section 72(a), suspend the service approval under section 72; or
+(c) if the undertaking was given in circumstances set out in section 184(3), give a prohibition notice under section 182 in relation to a matter that is the subject of the undertaking.
+(5) If the relevant tribunal or court determines that a person has failed to comply with a term of an undertaking under section 179A(4), the Regulatory Authority may, without further notice, give a prohibition notice under section 182 in relation to a matter that is the subject of the undertaking.
+(6) Proceedings referred to in subsection (3) may be brought within 6 months of the determination or within 2 years of the date of the alleged offence, whichever occurs last.
 Division 3—Prohibition notices
-182—Grounds for issuing prohibition notice
+182—Grounds for giving prohibition notice
 (1) The Regulatory Authority may give a prohibition notice to a person who is in any way involved in the provision of an approved education and care service if it considers that there may be an unacceptable risk of harm to a child or children if the person were allowed—
 (a) to remain on the education and care service premises; or
 (b) to provide education and care to children.
 (2) For the purposes of subsection (1), a person may be involved in the provision of an approved education and care service as any of the following:
 (a) an approved provider;
-(b) a certified supervisor;
+(b) a nominated supervisor;
 (c) an educator;
 (d) a family day care educator;
 (e) an employee;
 (f) a contractor;
-(g) a volunteer,
+(g) a volunteer;
+(h) a person who was formerly a person referred to in paragraphs (a) to (g) in relation to the approved education and care service—
 or in any other capacity.
+(3) The Regulatory Authority may give a prohibition notice to a person to—
+(a) prohibit the person from being nominated as a nominated supervisor if the Regulatory Authority considers the person is not a fit and proper person to be nominated as a nominated supervisor of a service; or
+(b) impose one or more conditions on the nomination of the person as a nominated supervisor that the Regulatory Authority considers appropriate, if the Regulatory Authority considers the person is a fit and proper person to be nominated as a nominated supervisor of a service subject to those conditions.
 183—Show cause notice to be given before prohibition notice
 (1) Before giving a person a prohibition notice, the Regulatory Authority must give the person a notice (a show cause notice)—
 (a) stating that the Regulatory Authority proposes to give the person a prohibition notice; and
 (b) stating the reasons for the proposed prohibition; and
 (c) inviting the person to make a written submission to the Regulatory Authority, within a stated time of at least 14 days, about the proposed prohibition.
 (2) Subsection (1) does not apply if the Regulatory Authority is satisfied it is necessary, in the interests of the safety, health or wellbeing of a child or children, to immediately issue a prohibition notice to the person.
-184—Deciding whether to issue prohibition notice
+184—Deciding whether to give prohibition notice
 (1) If the Regulatory Authority gives a show cause notice under section 183 to a person, the Regulatory Authority must have regard to any written submission received from the person within the time stated in the show cause notice before deciding whether to give the person a prohibition notice.
 (2) If the Regulatory Authority decides not to issue a prohibition notice to the person, the Regulatory Authority must give the person notice of the decision.
+(3) The Regulatory Authority may accept an undertaking from a person under section 179A instead of giving a prohibition notice under this Division.
 185—Content of prohibition notice
-A prohibition notice given to a person must state—
-(a) that the person is prohibited from doing any of the following:
-(i) providing education and care to children for an education and care service;
-(ii) being engaged as a supervisor, educator, family day care educator, employee, contractor or staff member of, or being a volunteer at, an education and care service;
-(iii) carrying out any other activity relating to education and care services; and
-(b) that the person may apply for cancellation of the notice; and
-(c) how an application for cancellation must be made.
+(1) A prohibition notice given to a person under section 182(1) must state that the person is prohibited from doing one or more of the following—
+(a) providing education and care to children for an education and care service;
+(b) being engaged as an educator, family day care educator, employee, contractor or staff member of, or being a volunteer at, an education and care service;
+(c) carrying out any other activity relating to an education and care service.
+(2) A prohibition notice given to a person under section 182(3) must state that either—
+(a) the person is prohibited from being nominated as a nominated supervisor of an education and care service; or
+(b) the person may only be nominated as a nominated supervisor of an education and care service on the condition or conditions specified by the Regulatory Authority in the notice.
+(3) A prohibition notice given to a person under section 182(1) or (3) must state—
+(a) that the person may apply for cancellation of the notice; and
+(b) how an application for cancellation must be made.
 186—Cancellation of prohibition notice
 (1) If the Regulatory Authority is satisfied there is not a sufficient reason for a prohibition notice to remain in force for a person, the Regulatory Authority must cancel the prohibition notice and give the person notice of the cancellation.
 (2) A person for whom a prohibition notice is in force may apply to the Regulatory Authority to cancel the notice.
@@ -1520,19 +1464,35 @@ A prohibition notice given to a person must state—
 (4) The person may state in the application anything the person considers relevant to the Regulatory Authority's decision about whether there would be an unacceptable risk of harm to children if the person were—
 (a) to remain at the education and care service premises; or
 (b) to provide education and care to children.
+(4A) The person may state in the application anything the person considers relevant to the Regulatory Authority's decision about whether the person is a fit and proper person to be nominated as a nominated supervisor with or without conditions.
 (5) The application may include a statement setting out any change in the person's circumstances since the prohibition notice was given or since any previous application under this section that would warrant the cancellation of the notice.
 (6) The Regulatory Authority must decide the application as soon as practicable after its receipt.
 187—Person must not contravene prohibition notice
-While a prohibition notice is in force under this Law as applying in any participating jurisdiction for a person, the person must not—
+(1) While a prohibition notice under section 182(1) is in force under this Law as applying in any participating jurisdiction for a person, the person must not—
 (a) provide education and care to children for an education and care service; or
-(b) be engaged as a supervisor, educator, family day care educator, employee, contractor or staff member of, or perform volunteer services for, an education and care service; or
+(b) be engaged as an educator, family day care educator, employee, contractor or staff member of, or perform volunteer services for, an education and care service; or
 (c) carry out any other activity relating to education and care services.
 Penalty: $20 000.
+(2) While a prohibition notice under section 182(3) is in force under this Law as applying in any participating jurisdiction for a person, the person must not—
+(a) in the case of a prohibition notice under section 182(3)(a), consent to a nomination of that person as a nominated supervisor of an education and care service; or
+(b) in the case of a prohibition notice under section 182(3)(b), consent to a nomination of that person as a nominated supervisor of an education and care service in contravention of a condition or conditions stated in the prohibition notice.
+Penalty: $20 000.
 188—Offence to engage person to whom prohibition notice applies
-An approved provider must not engage a person as a supervisor, educator, family day care educator, employee, contractor or staff member of, or allow a person to perform volunteer services for, an education and care service if the provider knows, or ought reasonably to know, a prohibition notice is in force under this Law as applying in any participating jurisdiction in respect of the person.
+(1) An approved provider must not engage a person as an educator, family day care educator, employee, contractor or staff member of, or allow a person to perform volunteer services for, an education and care service if the provider knows, or ought reasonably to know, a prohibition notice is in force under this Law as applying in any participating jurisdiction in respect of the person.
 Penalty:
 (a) $20 000, in the case of an individual.
 (b) $100 000, in any other case.
+(2) An approved provider must not nominate a person as a nominated supervisor of an education and care service if the approved provider knows, or ought reasonably to know, that a prohibition notice is in force under this Law as applying in any participating jurisdiction prohibiting the nomination of that person as a nominated supervisor of an education and care service.
+Penalty:
+(a) $20 000, in the case of an individual.
+(b) $100 000, in any other case.
+(3) An approved provider must not nominate a person as a nominated supervisor of an education and care service if the approved provider knows, or ought reasonably to know, that the nomination would place the person in contravention of a condition of a prohibition notice in force under this Law as applying in any participating jurisdiction.
+Penalty:
+(a) $20 000, in the case of an individual.
+(b) $100 000, in any other case.
+188A—False or misleading information about prohibition notice
+A person who is subject to a prohibition notice under this Law as applying in any participating jurisdiction must not give an approved provider any information about the content or existence of the prohibition notice that is false or misleading in any material particular.
+Penalty: $6 000.
 Division 4—Emergency removal of children
 189—Emergency removal of children
 (1) This section applies if the Regulatory Authority considers, on reasonable grounds, that there is an immediate danger to the safety or health of a child or children being educated and cared for by an education and care service.
@@ -1547,13 +1507,12 @@ Part 8—Review
 Division 1—Internal review
 190—Reviewable decision—internal review
 A reviewable decision for internal review is a decision of the Regulatory Authority under this Law as applying in any participating jurisdiction—
-(a) to refuse to grant a provider approval, a service approval or a supervisor certificate; or
-(b) to amend or refuse to amend a provider approval, a service approval or a supervisor certificate; or
-(c) to impose a condition on a provider approval, a service approval or a supervisor certificate; or
+(a) to refuse to grant a provider approval or a service approval; or
+(b) to amend or refuse to amend a provider approval or a service approval; or
+(c) to impose a condition on a provider approval or a service approval; or
 (d) to suspend—
 (i) a provider approval under section 28; or
 (ii) a service approval under section 73; or
-(iii) a supervisor certificate under section 126; or
 (e) to refuse to consent to the transfer of a service approval; or
 (f) to revoke a service waiver; or
 (g) to issue a compliance direction; or
@@ -1581,7 +1540,6 @@ A reviewable decision for external review is—
 (ii) to cancel a provider approval under section 33; or
 (iii) to suspend a service approval under section 72; or
 (iv) to cancel a service approval under section 79 or 307; or
-(v) to suspend or cancel a supervisor certificate under section 125; or
 (vi) to direct the approved provider of a family day care service to suspend the care and education of children by a family day care educator; or
 (vii) to give a prohibition notice or to refuse to cancel a prohibition notice.
 Note—
@@ -1653,10 +1611,11 @@ Division 2—Powers of entry
 (f) require the occupier of the premises, or a person at the premises, to give the authorised officer information to help the authorised officer in conducting the investigation.
 (3) A power under subsection (2)(b) to (d) is limited to a document or thing that is used or likely to be used in the provision of the education and care service.
 (4) An authorised officer may not, under this section, enter a residence unless—
-(a) an approved education and care service is operating at the residence at the time of entry; or
+(a) the authorised officer reasonably believes that an approved education and care service is operating at the residence at the time of entry; or
+(ab) the register of family day care educators records that the approved education and care service operates at the residence at the time of entry; or
 (b) the occupier of the residence has consented in writing to the entry and the inspection.
 200—Powers of entry to business premises
-(1) An authorised officer may exercise powers under this section if the authorised officer reasonably suspects that documents or other evidence relevant to the possible commission of an offence against this Law are present at the principal office or any other business premises of an approved provider.
+(1) An authorised officer may exercise powers under this section if the authorised officer reasonably suspects that documents or other evidence relevant to the possible commission of an offence against this Law are present at the principal office of the approved provider of the service or any other business office of the approved provider of the service.
 (2) The authorised officer, with the consent of the occupier of the premises, may enter the premises and do any of the following:
 (a) search any part of the premises;
 (b) inspect, measure, test, photograph or film, or make audio recordings of, any part of the premises or anything at the premises;
@@ -1670,17 +1629,28 @@ Division 2—Powers of entry
 (i) of the purpose of the search and the powers that may be exercised; and
 (ii) that the occupier may refuse to give consent to the entry and search or to the taking of anything found during the search; and
 (iii) that the occupier may refuse to consent to the taking of any copy or extract from a document found on the premises during the search.
+200A—Entry to premises without search warrant
+(1) An authorised officer may enter any premises (including residential or business premises) for the purpose of determining whether an education and care service is operating without a service approval at or from the premises, if—
+(a) the authorised officer reasonably believes that a person is operating an education and care service in contravention of section 103 at the premises; and
+(b) the occupier of the premises has consented in writing to the entry and inspection.
+(2) An authorised officer must not enter and search the premises under this section unless, before the occupier consents to the entry, the authorised officer has—
+(a) produced the authorised officer's identity card for inspection; and
+(b) informed the occupier—
+(i) of the purpose of the search and the powers that may be exercised; and
+(ii) that the occupier may refuse to consent to the entry and search or the taking of anything found during the search; and
+(iii) that the occupier may refuse to consent to the taking of any copy or extract from a document found on the premises during the search.
+(3) An authorised officer who exercises a power of entry under this section may for the purposes of the investigation do any of the things referred to in clause 5(2)(a) to (e) of Schedule 2 as if a reference to that Schedule included a reference to this section.
 201—Entry to premises with search warrant
 (1) An authorised officer under the authority of a search warrant may enter premises if the authorised officer reasonably believes that a person is operating an education and care service in contravention of section 103 at or from the premises.
 (2) An authorised officer under the authority of a search warrant may enter any education and care service premises or any premises where the authorised officer reasonably believes that an approved education and care service is operating if the authorised officer reasonably believes that the education and care service is operating in contravention of this Law.
-(3) An authorised officer under the authority of a search warrant may enter the principal office or any other business premises of an approved provider if the authorised officer reasonably believes that documents or other evidence relevant to the possible commission of an offence against this Law are present at those premises.
+(3) An authorised officer under the authority of a search warrant may enter the principal office of the approved provider of the service or any other business office of the approved provider of the service if the authorised officer reasonably believes that documents or other evidence relevant to the possible commission of an offence against this Law are present at those premises.
 (4) Schedule 2 applies in relation to the issue of the search warrant and the powers of the authorised officer on entry.
 202—Seized items
-(1) If an authorised officer has taken a thing under section 199 or 200 or under a search warrant under section 201, the authorised officer must take reasonable steps to return the thing to the person from whom it was taken if the reason for the taking no longer exists.
+(1) If an authorised officer has taken a thing under section 199, 200 or 200A or under a search warrant under section 201, the authorised officer must take reasonable steps to return the thing to the person from whom it was taken if the reason for the taking no longer exists.
 (2) If the thing has not been returned within 60 days after it was taken, the authorised officer must take reasonable steps to return it unless—
 (a) proceedings have been commenced within the period of 60 days and those proceedings (including any appeal) have not been completed; or
 (b) a court makes an order under section 203 extending the period the thing can be retained.
-(3) If an authorised officer has taken a thing under section 199 or 200 or under a search warrant under section 201, the authorised officer must provide the owner of the thing with reasonable access to the thing.
+(3) If an authorised officer has taken a thing under section 199, 200 or 200A or under a search warrant under section 201, the authorised officer must provide the owner of the thing with reasonable access to the thing.
 203—Court may extend period
 (1) An authorised officer may apply to a court within the period of 60 days referred to in section 202 or within a period extended by the court under this section for an extension of the period for which the thing can be held.
 (2) The court may order the extension if satisfied that retention of the thing is necessary—
@@ -1716,7 +1686,7 @@ Division 3—Other powers
 (3) The time specified in the notice must not be less than 14 days from the date the notice is issued.
 (4) In this section—
 specified person means a person who is or has been—
-(a) an approved provider, a certified supervisor or a staff member of, or a volunteer at, an approved education and care service; or
+(a) an approved provider, a nominated supervisor or a staff member of, or a volunteer at, an approved education and care service; or
 (b) a family day care educator.
 Division 4—Offences relating to enforcement
 207—Offence to obstruct authorised officer
@@ -1863,7 +1833,7 @@ Division 1—The National Authority
 (d) to establish consistent, effective and efficient procedures for the operation of the National Quality Framework;
 (e) to determine the arrangements for national auditing for the purposes of this Law;
 (f) to keep national information on the assessment, rating and regulation of education and care services;
-(g) to establish and maintain national registers of approved providers, approved education and care services and certified supervisors and to publish those registers;
+(g) to establish and maintain national registers of approved providers and approved education and care services and to publish those registers;
 (h) to promote and foster continuous quality improvement by approved education and care services;
 (i) to publish, monitor and review ratings of approved education and care services;
 (j) to make determinations with respect to the highest level of rating for approved education and care services;
@@ -1873,7 +1843,7 @@ Division 1—The National Authority
 (ii) to support the education and care services sector in understanding the National Quality Framework;
 (m) to publish information about the implementation and administration of the National Quality Framework and its effect on developmental and educational outcomes for children;
 (n) to publish practice notes and guidelines for the application of this Law;
-(o) to determine the qualifications for authorised officers and to provide support and training for staff of Regulatory Authorities;
+(o) to provide support and training for staff of Regulatory Authorities;
 (p) to determine the qualifications required to be held by educators, including the assessment of equivalent qualifications;
 (q) any other function given to the National Authority by or under this Law.
 (2) In carrying out its functions, the National Authority must ensure that the regulatory burden on education and care services is minimised as far as possible.
@@ -2061,7 +2031,7 @@ Subdivision 4—Chief executive officer of the National Authority
 (1) Subject to this section, the Chairperson of the Board is to appoint a person as chief executive officer of the National Authority.
 (2) The appointment may only be made after the Ministerial Council has first endorsed the appointment on the recommendation of the Board.
 249—Functions of chief executive officer
-(1) The chief executive officer is responsible for the day to day management of the affairs of the National Authority.
+(1) The chief executive officer is responsible for the day-to-day management of the affairs of the National Authority.
 (2) The chief executive officer has any other functions given to him or her or delegated to him or her under this Law.
 (3) Subject to this Law, the chief executive officer must comply with the directions and policies of the Board in carrying out his or her functions.
 (4) The chief executive officer is to report to the Board.
@@ -2135,8 +2105,8 @@ The Regulatory Authority has the following functions under this Law in relation 
 (1) The Regulatory Authority has the power to do all things that are necessary or convenient to be done for, or in connection with, or that are incidental to the carrying out of its functions under this Law.
 (2) Without limiting subsection (1), the Regulatory Authority has the following powers under this Law in relation to this jurisdiction:
 (a) to collect, hold and use information obtained under this Law by the Regulatory Authority or the National Authority about the provision of education and care to children including information about outcomes for children and information about providers of education and care services in each participating jurisdiction;
-(b) subject to the Privacy Act 1988 of the Commonwealth, to collect, hold and use information about providers of education and care services, family day care educators and certified supervisors;
-(c) to maintain and publish registers of approved providers, approved education and care services and certified supervisors;
+(b) subject to the Privacy Act 1988 of the Commonwealth, to collect, hold and use information about providers of education and care services, family day care educators and nominated supervisors;
+(c) to maintain and publish registers of approved providers and approved education and care services;
 (d) to publish information about the National Quality Framework, including ratings and prescribed information about compliance with this Law;
 (e) to collect, waive, reduce, defer and refund fees (including late payment fees) and enter into agreements in relation to fees;
 (f) to enter into agreements relating to fees and funding with the National Authority;
@@ -2203,66 +2173,78 @@ Division 4—Registers
 (3) The register of approved education and care services may be inspected at the office of the Regulatory Authority during normal office hours without charge.
 (4) A person may obtain a copy of, or extract from, the register of approved education and care services on payment of the prescribed fee.
 (5) The Regulatory Authority must provide a copy of the register of approved education and care services (as updated from time to time) to the National Authority and the relevant Commonwealth Department.
-268—Register of certified supervisors
-(1) The National Authority must keep a register of certified supervisors.
-(2) The register of certified supervisors must contain the following information:
-(a) the name of each certified supervisor or the prescribed class of person to which the supervisor belongs;
-(b) any other prescribed information.
-(3) The register of certified supervisors may be inspected at the office of the National Authority during normal office hours without charge.
-(4) A person may obtain a copy of, or extract from, the register of certified supervisors on payment of the prescribed fee.
-269—Register of family day care educators
-(1) The approved provider of a family day care service must keep at its principal office a register of each family day care educator and any other person engaged by or registered with a family day care service to educate and care for a child.
-(2) The register must contain the prescribed information in respect of each family day care educator engaged by or registered with a family day care service to educate and care for children.
-(3) The approved provider must provide any information on the register of family day care educators and any changes to that information to the Regulatory Authority on request.
+269—Register of family day care educators, co ordinators and assistants
+(1) The approved provider of a family day care service must keep a register at the principal office of the service that contains the prescribed information in respect of the following persons—
+(a) each family day care educator engaged by or registered with the service;
+(b) each family day care co-ordinator employed or engaged by the service;
+(c) each family day care educator assistant engaged by or registered with the service.
+Penalty:
+(a) $4 000, in the case of an individual.
+(b) $20 000, in any other case.
+(2) The approved provider must take reasonable steps to ensure that the information contained in the register is accurate.
+Penalty: $2 000.
+(3) The approved provider must provide any information on the register and any changes to the information on the register to the Regulatory Authority on request within 24 hours of the Regulatory Authority's request.
+Penalty:
+(a) $4 000, in the case of an individual.
+(b) $20 000, in any other case.
 Division 5—Publication of information
 270—Publication of information
-(1) The National Authority and the Regulatory Authority may publish the following information about approved providers, approved education and care services and certified supervisors:
+(1) The National Authority and the Regulatory Authority may publish the following information about approved providers, approved education and care services and nominated supervisors:
 (a) the name of each provider, service or supervisor;
 (b) except in the case of approved family day care services, the address of each education and care service premises;
 (c) in the case of approved family day care services, the address of the principal office of each service;
 (d) the rating levels of each approved education and care service;
 (e) other prescribed information in respect of approved education and care services.
 (2) The National Authority—
-(a) must publish on its website—
-(i) the register of approved providers; and
-(ii) the register of certified supervisors; and
+(a) must publish on its website the register of approved providers; and
 (b) may publish on its website the register of approved education and care services as kept by a Regulatory Authority.
 (3) The Regulatory Authority must publish on its website the register of approved education and care services kept by the Regulatory Authority.
 (4) The relevant Commonwealth Department is authorised to publish the register of approved education and care services on a website kept by that department.
 (5) The Regulatory Authority may publish the prescribed information about—
-(a) enforcement actions taken under this Law, including information about compliance notices, prosecutions, enforceable undertakings, suspension or cancellation of approvals or certificates; and
+(a) enforcement actions taken under this Law, including information about compliance notices, prosecutions, enforceable undertakings, suspension or cancellation of approvals; and
 (b) any prescribed matters.
 (6) Information published under this section must not include information that could identify or lead to the identification of an individual other than—
-(a) an approved provider or certified supervisor; or
-(b) a person who is being prosecuted for an offence against this Law.
+(a) an approved provider or nominated supervisor; or
+(b) a person who is being prosecuted for an offence against this Law; or
+(c) if the Regulatory Authority is satisfied that it is in the public interest to do so, a person with management or control of an education and care service.
 Division 6—Disclosure of information
 271—Disclosure of information to other authorities
-(1) The Regulatory Authority and any government department, public authority and local authority may disclose information in respect of education and care services to each other for the purposes of this Law.
-(2) The Regulatory Authority may disclose information in respect of education and care services to the National Authority or a Regulatory Authority of a participating jurisdiction or a person acting for that Authority—
-(a) for the purposes of this Law; or
-(b) for the purposes of research and the development of national policy with respect to education and care services.
-(3) The Regulatory Authority may disclose information in respect of education and care services to the relevant Commonwealth Department or a person acting for the relevant Commonwealth Department—
-(a) for the purposes of this Law; or
-(b) for the purposes of research and the development of national policy with respect to education and care services; or
-(c) for a purpose relating to the funding of education and care services; or
-(d) for a purpose relating to the payment of benefits or allowances to persons using education and care services.
-(4) The Regulatory Authority must disclose to the Regulatory Authorities of other participating jurisdictions the suspension or cancellation of a working with children check, working with children card or teacher registration of a nominated supervisor or certified supervisor of which it is notified under this Law.
-(5) The Regulatory Authority may disclose to the head of the government department responsible for the administration of a working with children law, any prohibition notice issued under this Law as applying in any participating jurisdiction in respect of the person.
-(6) A disclosure of information under this section is subject to—
-(a) Division 1; and
-(b) any protocol approved by the National Authority for the purposes of this section.
-(7) Information provided under this section must not include information that could identify or lead to the identification of an individual other than—
-(a) an approved provider or a certified supervisor; or
+(1) The National Authority may disclose information in respect of an education and care service for a purpose listed in subsection (4), to—
+(a) a relevant Commonwealth Government Department; or
+(b) any State or Territory Government Department; or
+(c) any Commonwealth, State or Territory public authority; or
+(d) any State or Territory local authority; or
+(e) a Regulatory Authority of a participating jurisdiction.
+(2) The Regulatory Authority may disclose information in respect of an education and care service for a purpose listed in subsection (4), to—
+(a) a relevant Commonwealth Government Department; or
+(b) any State or Territory Government Department; or
+(c) any Commonwealth, State or Territory public authority; or
+(d) any State or Territory local authority; or
+(e) a Regulatory Authority of another participating jurisdiction.
+(3) The National Authority, the Regulatory Authority and any Government Department, public authority or local authority may disclose information to each other in respect of an education and care service for a purpose listed in subsection (4).
+(4) The purposes for disclosure of information under this section are—
+(a) the disclosure is reasonably necessary to promote the objectives of the national education and care services quality framework; or
+(b) the disclosure is for the purposes of enabling or assisting the other entity to perform or exercise any of its functions or powers under this Law; or
+(c) the disclosure is for the purposes of research or the development of National, State or Territory policy with respect to education and care services; or
+(d) the disclosure is for a purpose relating to the funding of education and care services; or
+(e) the disclosure is for a purpose relating to the payment of benefits or allowances to persons using education and care services, provided the disclosure of information is not otherwise prohibited by law.
+(5) The Regulatory Authority must disclose to the Regulatory Authorities of other participating jurisdictions the suspension or cancellation of a working with children check, working with children card or teacher registration of a nominated supervisor of which it is notified under this Law.
+(6) The Regulatory Authority may disclose to the head of the government department responsible for the administration of a working with children law, any prohibition notice given under this Law as applying in any participating jurisdiction in respect of the person.
+(7) A disclosure of information under this section is subject to Division 1 and any protocol agreed for the purposes of this section by—
+(a) the National Authority, all participating jurisdictions and the Commonwealth; and
+(b) subject to any protocol referred to in paragraph (a), the National Authority and the Regulatory Authority, or the National Authority, the Regulatory Authority and any Regulatory Authority of another participating jurisdiction.
+(8) Information disclosed under this section for the purpose of research or the development of National, State or Territory policy with respect to education and care services must not include information that could identify or lead to the identification of an individual other than—
+(a) an approved provider or a nominated supervisor; or
 (b) a family day care educator who has been suspended from providing education and care to children as part of a family day care service; or
 (c) a person to whom a prohibition notice applies; or
 (d) a person who is being prosecuted for an offence against this Law.
 272—Disclosure of information to education and care services
-(1) If requested by an approved provider, the Regulatory Authority may disclose the following information:
-(a) whether a person named in the request is subject to a prohibition notice issued under this Law as applying in any participating jurisdiction;
-(b) whether a family day care educator named in the request has been suspended from providing education and care to children as part of a family day care service.
-(2) A disclosure of information under this section is subject to—
-(a) Division 1; and
-(b) any protocol approved by the National Authority for the purposes of this section.
+(1) At the request of an approved provider, the National Authority or the Regulatory Authority may disclose the following information to the provider, if the National Authority or Regulatory Authority considers on reasonable grounds that the provider requires the information to comply with the provider's obligations under this Law—
+(a) whether a person named in the request is subject to a prohibition notice given under section 182;
+(b) whether a family day care educator named in the request has been suspended from providing education and care to children as part of a family day care service under section 178.
+(2) A disclosure of information under this section is subject to Division 1 and any protocol agreed for the purposes of this section by—
+(a) the National Authority, all participating jurisdictions and the Commonwealth; and
+(b) subject to any protocol referred to in paragraph (a), the National Authority and the Regulatory Authority, or the National Authority, the Regulatory Authority and any Regulatory Authority of another participating jurisdiction.
 273—Duty of confidentiality
 (1) An individual who is, or who has been, a person exercising functions under this Law must not disclose to another person protected information.
 Penalty: $5 000.
@@ -2358,7 +2340,7 @@ Division 4—Legal proceedings
 (c) a police officer.
 (2) In a proceeding for an offence against this Law or the regulations it must be presumed, in the absence of evidence to the contrary, that the person bringing the proceeding was authorised to bring it.
 284—When proceedings may be brought
-Proceedings for an offence under this Law must be commenced within 2 years of the date of the alleged offence.
+Subject to section 181(6), proceedings for an offence under this Law must be commenced within 2 years of the date of the alleged offence.
 285—Offences by bodies corporate
 (1) If a body corporate commits an offence against this Law, any person with management or control of the body corporate who failed to exercise due diligence to prevent the contravention that is the subject of the offence also commits that offence and is liable to the penalty for that offence.
 (2) The penalty for an offence referred to in this section is the penalty applicable to an individual.
@@ -2389,7 +2371,7 @@ If a person has been convicted or found guilty in another participating jurisdic
 (3) If the Regulatory Authority refers a matter under subsection (2), a prosecution cannot be brought under this Law for an offence in relation to that matter.
 291—Infringement offences
 (1) An authorised officer or other person authorised by the Regulatory Authority may serve an infringement notice on a person for a contravention of—
-(a) section 172, 173 or 176; or
+(a) section 172, 173, 176 or 269; or
 (b) offences against the national regulations that are prescribed for the purposes of this section.
 (2) The infringement penalty for an offence for which an infringement notice may be served on a person is the amount which is 10 per cent of the maximum penalty that could be imposed on the person in respect of that offence.
 (3) An infringement notice must be in the form prescribed or contain the information prescribed by the infringements law of this jurisdiction.
@@ -2402,15 +2384,14 @@ A certificate purporting to be signed by the chief executive officer of the Nati
 (a) a stated document is one of the following things made, given, issued or kept under this Law:
 (i) an appointment, approval or decision;
 (ii) a notice, direction or requirement;
-(iii) a supervisor certificate;
 (iv) a register, or an extract from a register;
 (v) a record, or an extract from a record;
 (b) a stated document is another document kept under this Law;
 (c) a stated document is a copy of a document mentioned in paragraph (a) or (b);
-(d) on a stated day, or during a stated period, a stated person was or was not an approved provider or a certified supervisor;
+(d) on a stated day, or during a stated period, a stated person was or was not an approved provider;
 (e) on a stated day, or during a stated period, an education and care service was or was not an approved education and care service;
 (f) on a stated day, or during a stated period, an approval was or was not subject to a stated condition;
-(g) on a stated day, an approval or supervisor certificate was suspended or cancelled;
+(g) on a stated day, an approval was suspended or cancelled;
 (h) on a stated day, or during a stated period, an appointment as authorised officer was, or was not, in force for a stated person;
 (i) on a stated day, a stated person was given a stated notice or direction under this Law;
 (j) on a stated day, a stated requirement was made of a stated person.
@@ -2483,7 +2464,7 @@ Division 8—National regulations
 (1) The Ministerial Council may make regulations for the purposes of this Law.
 (2) The national regulations may provide for any matter that is required or permitted to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Law.
 (3) Without limiting subsection (1), the national regulations may provide for the following:
-(a) fees (including application fees and annual fees) for approvals and certificates and other things done under this Law;
+(a) fees (including application fees and annual fees) for approvals and other things done under this Law;
 (b) the indexation of fees;
 (c) standards for education and care services;
 (d) requirements for educational programs, including the quality of those programs and their development, documentation and delivery;
@@ -2648,3 +2629,69 @@ A declared approved learning framework is taken to be an approved learning frame
 (a) consequential on the enactment of this Law in a participating jurisdiction; or
 (b) to otherwise allow or facilitate the change from the operation of a former education and care services law of a participating jurisdiction to the operation of this Law.
 (2) Savings and transitional regulations may have retrospective operation to a day not earlier than the day on which section 1 of this Law commences.
+Division 5—Transitional provisions—Education and Care Services National Law Amendment Act 2017
+325—Definitions
+In this Division—
+2017 Act means the Education and Care Services National Law Amendment Act 2017;
+commencement day, in relation to a participating jurisdiction, means the date of commencement of this Division in that jurisdiction.
+326—Approved family day care venues
+(1) In this section—
+appointed day means the day that is 6 months after the commencement day;
+formerly approved family day care venue means a family day care venue that, immediately before the commencement day, was an approved family day care venue.
+(2) Subject to subsection (3), a formerly approved family day care venue ceases to be an approved family day care venue on the appointed day unless, before the appointed day the Regulatory Authority, on application by the approved provider under section 54 (as amended by the 2017 Act), approves the venue as a family day care venue.
+(3) If, before the appointed day, the Regulatory Authority had not determined an application by an approved provider under section 54 (as amended by the 2017 Act) for approval of the venue, the formerly approved family day care venue continues to be an approved family day care venue until the application is determined.
+(4) Despite section 54(5), the Regulatory Authority must make a decision on an application made under section 54 for approval of a formerly approved family day care venue within 6 months of receiving the application.
+327—Declared approved family day care venues continue to be approved
+Despite section 326, a declared approved family day care venue that was taken under section 308 to be an approved family day care venue continues, on and after the commencement day, to be an approved family day care venue for the purposes of this Law.
+328—Service approval condition requiring sufficient family day care co-ordinators
+(1) In this section—
+appointed day means the day that is 12 months after the commencement day.
+(2) This section applies to a family day care service if, immediately before the commencement day—
+(a) the service was an approved family day care service; and
+(b) the service approval included a condition referred to in section 51(2).
+(3) Despite the commencement of the 2017 Act, sections 51(2) and 163, as in force immediately before the commencement day, continue to apply to the approved family day care service until the appointed day, unless the Regulatory Authority earlier amends the service approval to impose a condition under section 55A.
+329—Service approval condition requiring minimum number of family day care co ordinators
+(1) This section applies to a family day care service if, immediately before the commencement day—
+(a) the service was an approved family day care service; and
+(b) the service approval included a condition requiring the service provide a specified minimum number of family day care co-ordinators.
+(2) Despite the commencement of the 2017 Act, section 163, as in force immediately before the commencement day, and the condition requiring the service provide a specified minimum number of family day care co ordinators continue to apply to the approved family day care service until the condition is amended under section 54 or 55.
+330—Publication of information about certified supervisors
+(1) The National Authority may publish information about any enforcement action taken under this Law before the commencement day in relation to any person who was a certified supervisor before that day, including—
+(a) the prosecution of any offence; and
+(b) the acceptance of an undertaking; and
+(c) the suspension or cancellation of a supervisor certificate.
+(2) This section expires on 31 December 2021.
+331—Evidentiary certificates
+(1) Despite the amendment of section 292 by the 2017 Act, a Regulatory Authority or the National Authority may continue to certify matters relating to any person who was a certified supervisor before the commencement day as if that section had not been amended.
+(2) This section expires on 31 December 2021.
+Division 6—Further transitional provisions—Education and Care Services National Law Amendment Act 2017
+332—Definitions
+In this Division—
+2017 Act means the Education and Care Services National Law Amendment Act 2017;
+commencement day, in relation to a participating jurisdiction, means the date of commencement of this Division in that jurisdiction.
+333—Partial assessment and re-rating
+(1) This section applies to an approved education and care service that has been assessed and rated against the National Quality Standard, as in force immediately before the commencement day, whether that assessment and rating occurred before, on or after the commencement day.
+(2) Despite section 138, the Regulatory Authority may only reassess an aspect or element of the approved education and care service after the relevant day if the approved education and care service has been reassessed against the National Quality Standard as in force on and after the commencement day.
+(3) Despite section 139(1), an approved provider may only apply for reassessment and rerating of an aspect or element of the approved education and care service after the relevant day if the approved education and care service has been reassessed against the National Quality Standard, as in force on and after the commencement day.
+(4) In this section—
+relevant day means—
+(a) in relation to an approved education and care service that was assessed and rated before the commencement day, the day that is 6 months after the commencement day; or
+(b) in relation to an approved education and care service that was assessed and rated after the commencement day, the day that is 6 months after the day on which the rating for the service is published under section 160.
+334—Application for highest rating level made before commencement day
+(1) This section applies if before the commencement day—
+(a) an approved provider had applied for an education and care service to be assessed for the highest rating level under section 152; and
+(b) the application had not been determined.
+(2) Despite its substitution by the 2017 Act, section 152(5), as in force immediately before the commencement day, continues to apply in respect of the application.
+(3) Section 153(2) applies for the purposes of the assessment of the approved education and care service, as if a reference—
+(a) to the criteria published under subsection (1) were a reference to the criteria published under subsection (1) immediately before the commencement day; and
+(b) to the National Quality Standard and the national regulations were a reference to the National Quality Standard and the national regulations as in force immediately before the commencement day.
+335—Highest rating level awarded before, or on application made before, commencement day
+(1) This section applies in relation to an approved education and care service that was awarded the highest rating level—
+(a) before the commencement day; or
+(b) after the commencement day on an application referred to in section 334.
+(2) Section 153(2) applies for the purposes of a reassessment under section 157 of the approved education and care service, as if a reference—
+(a) to the criteria published under subsection (1) were a reference to the criteria published under subsection (1) immediately before the commencement day; and
+(b) to the National Quality Standard and the requirements of the national regulations were a reference to the National Quality Standard and the national regulations as in force immediately before the commencement day.
+(3) Despite its amendment by the 2017 Act, section 158 as in force immediately before the commencement day continues to apply to the revocation of the highest rating level and for the purposes of that section—
+(a) the criteria to be met are the criteria published under section 153(1) immediately before the commencement day; and
+(b) the overall rating level is to be determined in accordance with the National Quality Standard as in force immediately before the commencement day.
