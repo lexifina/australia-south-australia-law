@@ -1,8 +1,8 @@
 99AAC—Child protection restraining orders
-(1) A complaint may be made under this section by—
+(1) An information may be laid under this section by—
 (a) a police officer; or
 (b) a child, or the guardian of a child, for the protection of whom a restraining order under this section is sought.
-(2) On a complaint, the Court may make a restraining order against the defendant if—
+(2) On an information, the Court may make a restraining order against the defendant if—
 (a) the defendant is an adult who is, or has been, residing with a child under the age of 17 years of whom the defendant is not a guardian; and
 (b) the defendant and the child are, or have been, residing at premises other than premises in which a guardian of the child resides; and
 (c) —
@@ -20,8 +20,8 @@
 (d) the views of the child and any guardian of the child (to the extent that they are made known to the Court);
 (e) any other matter that the Court considers relevant.
 (4) The Court may—
-(a) require that a copy of the complaint be served on the child, or a guardian of the child, personally; and
-(b) issue any orders it thinks fit to ensure that the child, or a guardian of the child, is given an opportunity to be heard in relation to the complaint.
+(a) require that a copy of the information be served on the child, or a guardian of the child, personally; and
+(b) issue any orders it thinks fit to ensure that the child, or a guardian of the child, is given an opportunity to be heard in relation to the information.
 (5) A restraining order under this section—
 (a) may impose such restraints on the defendant as are necessary or desirable to protect the child from any apprehended risk; and
 (b) may include any consequential or ancillary orders that the Court thinks fit; and
@@ -30,14 +30,14 @@
 (a) subject to paragraphs (b) and (c), into the custody of a guardian of the child; or
 (b) if the Court is not satisfied that placement of the child with a guardian is in the best interests of the child, or if such a placement is not possible or appropriate—into the custody of such other person as the Court directs; or
 (c) if the Court is not satisfied that placement of the child with a guardian or some other person is in the best interests of the child, or if such a placement is not possible or appropriate—into the custody of the Minister (for a period not exceeding 28 days) and the care of such person as the Chief Executive, or the Chief Executive's nominee, directs.
-(7) If the complainant is not a police officer, and the complaint is not made by telephone by a person introduced by a police officer, the following provisions apply despite any other provisions of this Act:
-(a) the Court must not issue a summons for the appearance of the defendant and must dismiss the complaint unless it is supported by oral evidence;
-(b) in addition to the discretion whether to make an order under section 99C(2), the Court has, subject to this subsection, a discretion to refuse to issue a summons for the appearance of the defendant and to dismiss the complaint;
-(c) without limiting the circumstances in which the Court may exercise the discretion, the Court may exercise the discretion under paragraph (b) to dismiss the complaint if satisfied that the complaint is frivolous, vexatious, without substance or has no reasonable prospect of success;
-(d) there is a presumption against exercising the discretion under paragraph (b) to dismiss the complaint if the complaint discloses allegations of—
+(7) If the informant is not a police officer, and the information is not laid by telephone by a person introduced by a police officer, the following provisions apply despite any other provisions of this Act:
+(a) the Court must not issue a summons for the appearance of the defendant and must dismiss the information unless it is supported by oral evidence;
+(b) in addition to the discretion whether to make an order under section 99C(2), the Court has, subject to this subsection, a discretion to refuse to issue a summons for the appearance of the defendant and to dismiss the information;
+(c) without limiting the circumstances in which the Court may exercise the discretion, the Court may exercise the discretion under paragraph (b) to dismiss the information if satisfied that the information is frivolous, vexatious, without substance or has no reasonable prospect of success;
+(d) there is a presumption against exercising the discretion under paragraph (b) to dismiss the information if the information discloses allegations of—
 (i) sexual abuse; or
 (ii) conduct that is an offence under Part 5 of the Controlled Substances Act 1984;
-(e) if the Court exercises the discretion under paragraph (b) to dismiss the complaint, it must record the reasons for doing so in writing.
+(e) if the Court exercises the discretion under paragraph (b) to dismiss the information, it must record the reasons for doing so in writing.
 (8) In this section—
 Chief Executive means the person for the time being holding, or acting in, the position of Chief Executive of the administrative unit of the Public Service charged with the administration of the Children's Protection Act 1993;
 child sexual offence means any of the following offences committed against or in relation to a child under 16 years of age (including a substantially similar offence against a corresponding previous enactment or the law of another place):

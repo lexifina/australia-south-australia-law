@@ -1,7 +1,7 @@
 Part 1—Introductory
 Part 3—General procedure
 Part 4—Summary jurisdiction
-Division 2—Complaint and subsequent proceedings
+Division 2—Information and subsequent proceedings
 Division 3—The hearing
 Division 4—Judgment
 Division 5—Non‑association and place restriction orders
