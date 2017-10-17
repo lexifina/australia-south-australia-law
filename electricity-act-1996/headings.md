@@ -18,11 +18,12 @@ Division 4—Suspension or cancellation of licences
 Division 5—Commission's powers to take over operations
 Part 4—Electricity entities' powers and duties
 Division 1—Electricity officers
+Division 1A—General investigative powers of electricity officers
 Division 2—Powers and duties relating to infrastructure
 Division 3—Powers relating to installations
 Division 4—Powers and duties in emergencies
 Part 5—Clearance of vegetation from powerlines
-Division 1—Duties in relation to vegetation clearance
+Division 1—Duties and powers in relation to vegetation clearance
 Division 2—Vegetation clearance schemes in prescribed areas
 Subdivision 1—Content and nature of schemes
 Subdivision 2—Disputes about schemes
@@ -35,7 +36,9 @@ Part 6A—Regulation of NERL retailers
 Part 7—Enforcement
 Division A1—Warning notices and assurances
 Division A2—Injunctions
+Division A3—Enforcement notices
 Division 1—Appointment of authorised officers
 Division 2—Authorised officers' powers
+Division 3—Related matters
 Part 8—Reviews and appeals
 Part 9—Miscellaneous

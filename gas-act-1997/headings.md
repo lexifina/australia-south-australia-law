@@ -16,6 +16,7 @@ Division 6—Suspension or cancellation of licences
 Division 7—Commission's powers to take over operations
 Part 4—Gas entities' powers and duties
 Division 1—Gas officers
+Division 1A—General investigative powers of gas officers
 Division 2—Powers and duties relating to gas infrastructure
 Division 3—Powers relating to gas installations
 Division 4—Powers and duties in emergencies
@@ -24,7 +25,9 @@ Part 5A—Regulation of NERL retailers
 Part 6—Enforcement
 Division A1—Warning notices and assurances
 Division A2—Injunctions
+Division A3—Enforcement notices
 Division 1—Appointment of authorised officers
 Division 2—Authorised officers' powers
+Division 3—Related matters
 Part 7—Reviews and appeals
 Part 8—Miscellaneous
