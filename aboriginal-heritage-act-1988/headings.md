@@ -3,7 +3,12 @@ Part 2—Administration
 Division 1—General
 Division 2—Inspectors
 Division 3—South Australian Aboriginal Heritage Fund
+Part 2A—Aboriginal Heritage Guidelines
+Part 2B—Recognised Aboriginal Representative Bodies
 Part 3—Protection and preservation of Aboriginal heritage
+Division A1—Agreement making with Recognised Aboriginal Representative Bodies
+Division A2—Agreements affecting Aboriginal heritage under other Acts
+Division A3—Register
 Division 1—Discovery of, and search for, Aboriginal sites, objects and remains
 Division 2—Protection of Aboriginal sites, objects and remains
 Division 3—Control of sale of, and other dealings with, Aboriginal objects
