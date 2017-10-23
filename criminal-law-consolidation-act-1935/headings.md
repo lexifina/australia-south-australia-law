@@ -68,7 +68,11 @@ Part 8A—Mental impairment
 Division 1—Preliminary
 Division 2—Mental competence to commit offences
 Division 3—Mental unfitness to stand trial
-Division 4—Disposition of persons declared to be liable to supervision under this Part
+Division 4—Disposition of persons declared to be liable to supervision under this Division
+Subdivision 1—Principle on which court is to act
+Subdivision 2—Making, variation and revocation of supervision orders
+Subdivision 5—Custody, supervision and care
+Subdivision 6—Effect of supervening imprisonment on an order under Division 4
 Division 5—Miscellaneous
 Part 9—Miscellaneous and procedure
 Division 1—Punishment for certain common law offences
