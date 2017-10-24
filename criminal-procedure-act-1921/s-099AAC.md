@@ -45,6 +45,7 @@ child sexual offence means any of the following offences committed against or in
 (b) indecent assault;
 (c) incest;
 (d) an offence involving unlawful sexual intercourse;
+(daa) an offence of persistent sexual abuse of a child under section 50 of the Criminal Law Consolidation Act 1935;
 (da) an offence of sexual exploitation of a person with a cognitive impairment under section 51 of the Criminal Law Consolidation Act 1935;
 (e) an offence involving an act of gross indecency;
 (f) an offence involving child prostitution;
