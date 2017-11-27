@@ -68,6 +68,11 @@ Part 8A—Mental impairment
 Division 1—Preliminary
 Division 2—Mental competence to commit offences
 Division 3—Mental unfitness to stand trial
+Division 3A—Disposition of persons with mental impairment charged with summary and minor indictable offences
+Subdivision 1—Principle on which court is to act
+Subdivision 2—Making, variation and revocation of Division 3A orders
+Subdivision 4—Custody, supervision and care
+Subdivision 5—Effect of supervening imprisonment on Division 3A order
 Division 4—Disposition of persons declared to be liable to supervision under this Division
 Subdivision 1—Principle on which court is to act
 Subdivision 2—Making, variation and revocation of supervision orders
