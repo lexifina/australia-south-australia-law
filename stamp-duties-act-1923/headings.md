@@ -13,6 +13,7 @@ Subdivision 4—General
 Division 4—Application for motor vehicle registration
 Division 6—Conveyances and conveyances on sale
 Division 8—Transactions effected without creating dutiable instrument
+Division 9—Foreign ownership surcharge
 Division 11—LSS Fund levy
 Part 4—Land holding entities
 Division 1—Preliminary
