@@ -13,6 +13,7 @@ Division 4—Constitution of Tribunal and its decision‑making processes
 Division 5—Related matters
 Division 6—Additional provisions relating to jurisdiction
 Division 7—Additional provisions relating to jurisdiction under Return to Work Act 2014
+Division 8—Additional provisions relating to jurisdiction under Workers Compensation Act 1971
 Part 3—Exercise of jurisdiction
 Division 1—Review jurisdiction
 Division 2—Application of Division
