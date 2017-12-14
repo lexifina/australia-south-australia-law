@@ -10,7 +10,7 @@ Division 1—Accreditation of production areas
 Division 2—Accreditation of persons
 Division 3—Registration of importers
 Division 4—Register
-Division 5—Reviews and appeals
+Division 5—Reviews
 Part 5—Enforcement
 Division 1—Approved auditors
 Division 2—Inspectors

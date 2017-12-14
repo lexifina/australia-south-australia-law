@@ -8,5 +8,5 @@ Part 4—Enforcement
 Division 1—Approved auditors
 Division 2—Authorised persons
 Division 3—Compliance orders
-Part 5—Review and appeal
+Part 5—Reviews
 Part 6—Miscellaneous
