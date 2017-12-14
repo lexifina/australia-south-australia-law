@@ -15,7 +15,7 @@ Division 6—Occupation of marked-off areas
 Division 7—Power to require or carry out work
 Part 7—Licences
 Part 8—Reference of matters to EPA
-Part 9—Appeals
+Part 9—Reviews
 Part 10—Administration
 Division 1—Minister
 Division 3—Aquaculture Tenure Allocation Board

@@ -32,7 +32,7 @@ Division 4—Demerit points scheme
 Division 5—Miscellaneous
 Part 9—Review and appeals
 Division 1—Internal review
-Division 2—Appeals
+Division 2—External review
 Part 10—Miscellaneous
 Division 1—General
 Division 2—Regulations
