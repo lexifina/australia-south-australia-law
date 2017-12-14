@@ -1,2 +1,2 @@
-Schedule 1—Consequential amendments and transitional provisions
-Part 1—Consequential amendments
+Schedule 1—Transitional provisions
+Part 3—Transitional provisions
