@@ -3,6 +3,10 @@ The following are exempt agencies:
 (e) all Royal Commissions;
 (ea) the Independent Commissioner Against Corruption;
 (eb) the Office for Public Integrity;
+(ec) the Commissioner for Children and Young People;
+(ed) the Guardian for Children and Young People;
+(ee) the Child Death and Serious Injury Review Committee;
+(ef) the Child Development Council;
 (f) the Motor Accident Commission in respect of any matter relating to a claim or action under Part 4 of the Motor Vehicles Act 1959;
 (g) the Essential Services Commission in relation to—
 (i) information gained under Part 5 of the Independent Industry Regulator Act 1999 that would, if it were gained under Part 5 of the Essential Services Commission Act 2002, be capable of being classified by the Commission as being confidential under section 30(1) of that Act; and

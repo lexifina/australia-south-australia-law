@@ -8,6 +8,7 @@ Division 5—Other matters
 Part 3—Charter of Health and Community Services Rights
 Part 4—Complaints
 Division 1—Making a complaint
+Division 1A—Certain complaints to be referred to Ombudsman
 Division 2—Assessment
 Division 3—No further action on complaint
 Division 4—Miscellaneous
