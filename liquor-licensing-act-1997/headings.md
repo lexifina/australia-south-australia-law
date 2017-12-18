@@ -33,7 +33,7 @@ Division 1—Supervision and management
 Division 2—Profit sharing
 Division 3—Supply of liquor to lodgers
 Division 4—Removal and consumption of liquor
-Division 5—Entertainment
+Division 5—Regulation of prescribed entertainment
 Division 6—Noise
 Division 7—Employment of minors
 Division 8—Sale or supply to intoxicated persons
