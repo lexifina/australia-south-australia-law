@@ -1,1 +1,9854 @@
 Schedule—Heavy Vehicle National Law
+Chapter 1—Preliminary
+Part 1—Introductory matters
+1—Short title
+This Law may be cited as the Heavy Vehicle National Law.
+2—Commencement
+This Law commences in a participating jurisdiction as provided by the Act of that jurisdiction that applies this Law as a law of that jurisdiction.
+3—Object of Law
+The object of this Law is to establish a national scheme for facilitating and regulating the use of heavy vehicles on roads in a way that—
+(a) promotes public safety; and
+(b) manages the impact of heavy vehicles on the environment, road infrastructure and public amenity; and
+(c) promotes industry productivity and efficiency in the road transport of goods and passengers by heavy vehicles; and
+(d) encourages and promotes productive, efficient, innovative, and safe business practices.
+4—Regulatory framework to achieve object
+The object of this Law is to be achieved by a regulatory framework that—
+(a) establishes an entity (the National Heavy Vehicle Regulator) with functions directed at ensuring the object is achieved; and
+(b) provides for the national registration of heavy vehicles; and
+(c) prescribes requirements about the following:
+(i) the standards heavy vehicles must meet when on roads;
+(ii) the maximum permissible mass and dimensions of heavy vehicles used on roads;
+(iii) securing and restraining loads on heavy vehicles used on roads;
+(iv) preventing drivers of heavy vehicles exceeding speed limits;
+(v) preventing drivers of heavy vehicles from driving while fatigued; and
+(d) imposes duties and obligations directed at ensuring heavy vehicles and drivers of heavy vehicles comply with requirements mentioned in paragraph (c)(i) to (v) on persons whose activities may influence whether the vehicles or drivers comply with the requirements; and
+(e) includes measures directed at the matters mentioned in section 3(c) and (d) by allowing improved access to roads in certain circumstances, including by—
+(i) allowing heavy vehicles, that would otherwise be prevented from being used on roads, access to the roads through exemptions or authorisations granted in circumstances in which the matters mentioned in section 3(a) and (b) will not be compromised; and
+(ii) providing for accreditation schemes allowing operators of heavy vehicles who adopt best practices directed at the matters mentioned in section 3 to be subject to alternative requirements more suited to the operators' business operations.
+Part 2—Interpretation
+5—Definitions
+In this Law—
+100km work, for the purposes of Chapter 6, has the meaning given by section 289(1);
+100+km work, for the purposes of Chapter 6, has the meaning given by section 289(2);
+accreditation certificate means—
+(a) for a heavy vehicle accreditation granted under this Law—the accreditation certificate given for the accreditation under section 464; or
+(b) for a heavy vehicle accreditation granted under another law of a participating jurisdiction—the certificate of accreditation (however called) issued for the accreditation under that law;
+ADR means a national standard under section 7 of the Motor Vehicle Standards Act 1989 of the Commonwealth;
+AFM accreditation means—
+(a) AFM accreditation granted under section 458; or
+(b) accreditation of a similar kind under another law of a participating jurisdiction;
+AFM fatigue management system, for the purposes of Chapter 6 and Chapter 8, has the meaning given by section 457;
+AFM hours, for the purposes of Chapter 6 and Chapter 8, has the meaning given by section 257;
+AFM standards and business rules, for the purposes of Chapter 8, has the meaning given by section 457;
+agricultural implement means a vehicle without its own automotive power, built to perform agricultural tasks, and includes an agricultural trailer;
+Examples—
+• auger
+• conveyor
+• field bin
+• harvester front
+• irrigating equipment or machinery
+agricultural machine means a vehicle with its own automotive power, built to perform agricultural tasks;
+Examples—
+harvester, tractor
+agricultural task means a task carried out in agriculture;
+Examples of an agricultural task—
+• cultivating land
+• growing and harvesting crops
+• rearing livestock
+agricultural trailer means a trailer that is designed to carry a load and used exclusively to perform agricultural tasks, but does not include a semitrailer;
+agricultural vehicle means an agricultural implement or agricultural machine;
+Application Act, of this jurisdiction, means the Act of this jurisdiction by which this Law applies as a law of this jurisdiction;
+appropriately qualified, for a function, includes having the qualifications, experience or standing appropriate to exercise the function;
+Example of standing—
+a person's classification level or position in the public service or a government agency of a participating jurisdiction
+approved, by the responsible Ministers, for the purposes of Chapter 8, has the meaning given by section 457;
+approved auditor, for the purposes of Chapter 8, has the meaning given by section 457;
+approved electronic recording system has the meaning given by section 221;
+approved form means a form approved by the Regulator under section 735;
+approved guidelines means guidelines approved by the responsible Ministers under section 653;
+approved intelligent transport system has the meaning given by section 403;
+approved sleeper berth, for the purposes of Chapter 6, has the meaning given by section 221;
+approved vehicle examiner means a person approved as a vehicle examiner under the national regulations (as referred to in section 731);
+articulated bus means a bus with 2 or more rigid sections connected to one another in a way that allows—
+(a) passenger access between the sections; and
+(b) rotary movement between the sections;
+AS means an Australian standard made or published by Standards Australia;
+associate, of a person, means—
+(a) if the person is an individual—
+(i) the individual's spouse or de facto partner; or
+(ii) a relative of the individual, whether by blood, spousal relationship or adoption; or
+(iii) an employee of the individual; or
+(iv) an employee of a corporation of which the individual is an executive officer; or
+(v) a partner of the individual; or
+(vi) a corporation of which the individual is an executive officer; or
+(vii) a corporation in which the individual holds a controlling interest; or
+(viii) a person who is a trustee of a trust of which the individual is a trustee or beneficiary; or
+(ix) a person who is a beneficiary of a trust of which the individual is a trustee or beneficiary; or
+(x) a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the individual; or
+(xi) a person who is an associate of someone who is an associate of the individual; or
+(b) if the person is a corporation—
+(i) an executive officer of the corporation; or
+(ii) an associate of an executive officer of the corporation; or
+(iii) an employee of the corporation; or
+(iv) a person who holds a controlling interest in the corporation; or
+(v) a related body corporate, within the meaning of the Corporations Act 2001 of the Commonwealth, of the corporation; or
+(vi) a person who is an associate of someone who is an associate of the corporation;
+ATM (aggregate trailer mass), of a heavy trailer, means the total maximum mass of the trailer, as stated by the manufacturer, together with its load and the mass imposed on the towing vehicle by the trailer when the towing vehicle and trailer are on a horizontal surface;
+Australian Accounting Standards means Accounting Standards issued by the Australian Accounting Standards Board;
+Australian road law means—
+(a) this Law; or
+(b) another law of a State or Territory that regulates the use of vehicles on roads;
+authorised officer means—
+(a) a police officer declared by a law of a participating jurisdiction to be an authorised officer for the purposes of this Law; or
+(b) a person who holds office under this Law as an authorised officer;
+authorised use, for the purposes of Chapter 13 Part 4, has the meaning given by section 727;
+authorised warrant official, for a participating jurisdiction, means an entity that is declared by a law of that jurisdiction to be an authorised warrant official for that jurisdiction for the purposes of this Law;
+axle means 1 or more shafts positioned in a line across a vehicle, on which 1 or more wheels intended to support the vehicle turn;
+axle group means a tandem axle group, twinsteer axle group, tri‑axle group or quad‑axle group;
+base, of the driver of a heavy vehicle—
+(1) The base of the driver of a heavy vehicle, in relation to particular work—
+(a) is the place from which the driver normally does the work; but
+(b) is, for the purposes of Chapter 6, the garage address of the vehicle if—
+(i) the vehicle is a fatigue-regulated heavy vehicle; and
+(ii) the driver is required under Chapter 6 Part 4, in relation to that particular work, to keep a work diary and to record the location of the driver's base in the work diary, and has not done so.
+Note—
+The driver of a fatigue-regulated heavy vehicle may not be required under Chapter 6 Part 4, in relation to particular work, to keep a work diary and to record the location of the driver's base in the work diary, if, for example—
+• the driver is undertaking 100km work under standard hours
+• the driver is working under a work diary exemption.
+(2) For a driver who is a self-employed driver and an employed driver at different times, the driver may have one base as a self-employed driver under paragraph 1 and another base as an employed driver under that paragraph.
+(3) For a driver who has 2 or more employers, the driver may have a different base in relation to each employer under paragraph 1.
+B‑double means a combination consisting of a prime mover towing 2 semitrailers, with the first semitrailer being attached directly to the prime mover by a fifth wheel coupling and the second semitrailer being mounted on the rear of the first semitrailer by a fifth wheel coupling on the first semitrailer;
+Typical B‑double
+B‑triple means a combination consisting of a prime mover towing 3 semitrailers, with—
+(a) the first semitrailer being attached directly to the prime mover by a fifth wheel coupling; and
+(b) the second semitrailer being mounted on the rear of the first semitrailer by a fifth wheel coupling on the first semitrailer; and
+(c) the third semitrailer being mounted on the rear of the second semitrailer by a fifth wheel coupling on the second semitrailer;
+Typical B-triple
+BFM accreditation means—
+(a) BFM accreditation granted under section 458; or
+(b) accreditation of a similar kind under another law of a participating jurisdiction;
+BFM fatigue management system, for the purposes of Chapter 8, has the meaning given by section 457;
+BFM hours, for the purposes of Chapter 6 and Chapter 8, has the meaning given by section 253;
+BFM standards and business rules, for the purposes of Chapter 8, has the meaning given by section 457;
+Board means the National Heavy Vehicle Regulator Board established under section 662;
+body of fatigue knowledge means any accreditation scheme, scientific knowledge, expert opinion, guidelines, standards or other knowledge about preventing or managing exposure to risks to safety either on a road or in a workplace, arising from fatigue;
+bus means a heavy motor vehicle built or fitted to carry more than 9 adults (including the driver);
+cancel, for the purposes of Chapter 6 in relation to an unused daily sheet in a written work diary, has the meaning given by section 221;
+category of heavy vehicles—see section 15;
+cause, a thing, includes—
+(a) contribute to causing the thing; and
+(b) encourage the thing;
+centre‑line, of an axle, means—
+(a) for an axle consisting of 1 shaft—a line parallel to the length of the axle and passing through its centre; and
+(b) for an axle consisting of 2 shafts—a line in the vertical plane passing through—
+(i) the centre of both shafts; and
+(ii) the centres of the wheels on the shafts;
+class 1 heavy vehicle has the meaning given by section 116(1) and (2);
+class 2 heavy vehicle has the meaning given by section 136;
+class 2 heavy vehicle authorisation means—
+(a) a class 2 heavy vehicle authorisation (notice); or
+(b) a class 2 heavy vehicle authorisation (permit);
+class 2 heavy vehicle authorisation (notice) has the meaning given by section 138(2);
+class 2 heavy vehicle authorisation (permit) has the meaning given by section 143(2);
+class 3 heavy vehicle has the meaning given by section 116(3);
+combination means a group of vehicles consisting of a motor vehicle towing 1 or more other vehicles;
+commercial consignor, for the purposes of Division 4 and Division 5 of Chapter 5 Part 2, has the meaning given by section 210;
+Commonwealth Gazette means the Commonwealth of Australia Gazette;
+Commonwealth Gazette notice means notice published in the Commonwealth Gazette;
+Commonwealth responsible Minister means the Commonwealth Minister nominated by the Commonwealth as the responsible Minister for the Commonwealth for the purposes of this Law;
+compensation order has the meaning given by section 611(1);
+compliance purposes means—
+(a) monitoring purposes; or
+(b) investigation purposes;
+complying container weight declaration has the meaning given by section 189;
+component, of a heavy vehicle that is a combination, means—
+(a) other than in Chapter 3 Part 3, a component vehicle of the combination; or
+(b) a component of any component vehicle of the combination;
+component vehicle, of a heavy combination, means the towing vehicle or another vehicle in the combination;
+condition includes a restriction;
+conditionally registered, for a heavy vehicle, means the vehicle is registered under this Law subject to conditions;
+conduct means an act, an omission to perform an act, or a state of affairs;
+consent includes an approval or concurrence;
+consign and consignor—
+A person consigns goods, and is a consignor of goods, for road transport using a heavy vehicle, if—
+(a) the person has consented to being, and is, named or otherwise identified as a consignor of the goods in the transport documentation relating to the road transport of the goods; or
+(b) there is no person as described in paragraph (a) and—
+(i) the person engages an operator of the vehicle, either directly or indirectly or through an agent or other intermediary, to transport the goods by road; or
+(ii) there is no person as described in subparagraph (i) and the person has possession of, or control over, the goods immediately before the goods are transported by road; or
+(iii) there is no person as described in subparagraph (i) or (ii) and the person loads a vehicle with the goods, for road transport, at a place—
+(A) where goods in bulk are stored, temporarily held or otherwise held waiting collection; and
+(B) that is usually unattended, other than by the vehicle's driver or someone else necessary for the normal use of the vehicle, during loading; or
+(c) there is no person as described in paragraph (a) or (b) and the goods are imported into Australia and the person is the importer of the goods;
+consignee, of goods—
+(a) means a person who—
+(i) has consented to being, and is, named or otherwise identified as the intended consignee of the goods in the transport documentation relating to the road transport of the goods; or
+(ii) actually receives the goods after completion of their road transport; but
+(b) does not include a person who merely unloads the goods;
+container weight declaration—
+(a) means a written declaration, whether contained in 1 or more documents, stating or purporting to state the weight of a freight container and its contents; and
+Examples—
+an email, a placard fixed to the container
+(b) includes a copy of a declaration mentioned in paragraph (a);
+converter dolly means a pig trailer with a fifth wheel coupling designed to convert a semitrailer into a dog trailer;
+Typical converter dolly
+convict, a person of an offence, has the meaning given by section 9(1);
+convicted, of an offence, has the meaning given by section 9(2);
+convicted person—
+(a) for the purposes of Chapter 10 Part 3 Division 5, has the meaning given by section 599(a); or
+(b) for the purposes of Chapter 10 Part 3 Division 6, has the meaning given by section 606(a);
+corporation includes a body politic or corporate;
+corresponding fatigue law, for the purposes of Chapter 6, has the meaning given by section 221;
+critical risk breach, for a maximum work requirement or minimum rest requirement, has the meaning given by section 222(4);
+daily sheet, for a written work diary, for the purposes of Chapter 6, has the meaning given by section 338(2)(b);
+daytime means the period of a day between sunrise and sunset;
+de facto partner, of a person, means a person (whether of the same gender or a different gender) who is in a de facto relationship, within the meaning given by section 2F of the Acts Interpretation Act 1901 of the Commonwealth, with the person;
+defective heavy vehicle, for the purposes of Chapter 9 Part 3 Division 6, has the meaning given by section 525;
+defective vehicle label, for the purposes of Chapter 9 Part 3 Division 6, has the meaning given by section 525;
+defendant, for a proceeding for an offence, means the person charged with the offence (whether called the defendant or the accused);
+deficiency, for the purposes of Chapter 10 Part 4 Division 3, has the meaning given by section 626;
+dimension requirement means—
+(a) a prescribed dimension requirement (under section 101); or
+(b) a requirement as to a dimension limit relating to a heavy vehicle under a condition to which a mass or dimension authority is subject (where the dimension limit is more restrictive than the relevant prescribed dimension requirement); or
+(c) a requirement as to a dimension limit under a PBS vehicle approval; or
+(d) a requirement as to a dimension limit indicated by an official traffic sign; or
+Note—
+See the definitions indicated and official traffic sign.
+(e) a requirement as to a dimension limit for a component vehicle as prescribed by a heavy vehicle standard;
+drive, a vehicle or combination, includes—
+(a) be in control of the steering, movement or propulsion of the vehicle or combination; and
+(b) for a trailer—drive a vehicle towing the trailer;
+driver, of a vehicle or combination—
+(a) means the person driving the vehicle or combination; and
+(b) includes—
+(i) a person accompanying the person driving the vehicle or combination on a journey or part of a journey, who has been, is or will be sharing the task of driving the vehicle or combination during the journey or part; and
+(ii) a person who is driving the vehicle or combination as a driver under instruction or under an appropriate learner licence or learner permit; and
+(iii) where the driver is a driver under instruction, the holder of a driver licence occupying the seat in the vehicle or combination next to the driver;
+driver fatigue compliance function, for the purposes of Chapter 13 Part 4, has the meaning given by section 727(1);
+driver fatigue provision, for the purposes of Chapter 13 Part 4, has the meaning given by section 727(1);
+driver licence means—
+(a) a driver licence issued under a law of a State or Territory that regulates the use of vehicles on roads; or
+(b) a licence, permit or other authorisation to drive a motor vehicle issued under a law of another country if a law mentioned in paragraph (a) exempts the holder of the licence, permit or other authorisation from the requirement to hold a driver licence under that law to drive a motor vehicle;
+electronic recording system has the meaning given by section 221;
+electronic recording system approval means an approval of an electronic recording system under Chapter 6 Part 4 Division 7;
+electronic work diary has the meaning given by section 221;
+electronic work diary authorised use, for the purposes of Chapter 13 Part 4, has the meaning given by section 727(1);
+electronic work diary information, for the purposes of Chapter 13 Part 4, has the meaning given by section 727(1);
+electronic work diary protected information, for the purposes of Chapter 13 Part 4, has the meaning given by section 727(1);
+embargo notice has the meaning given by section 557(2);
+embargoed thing means a thing the subject of an embargo notice;
+employed driver, of a heavy vehicle, means a person who is employed by someone else to drive the vehicle;
+employee means an individual who is employed by someone else;
+employer means a person who employs someone else;
+entity includes a person and an unincorporated body;
+entry, in a work record, for the purposes of Chapter 6, has the meaning given by section 221;
+equipment, in relation to a heavy vehicle, includes tools, devices and accessories in the vehicle;
+escort vehicle means a pilot vehicle that is driven by a police officer or another person authorised to direct traffic under an Australian road law;
+examine includes analyse, test, account, measure, weigh, grade, gauge or identify;
+executive officer, of a corporation, means—
+(a) a director of the corporation; or
+(b) any person, by whatever name called and whether or not the person is a director of the corporation, who is concerned or takes part in the management of the corporation;
+exemption hours, for the purposes of Chapter 6, has the meaning given by section 259;
+exercise, for a function, includes perform;
+extract, of a document, device or other thing, means a copy of any information contained in the document, device or other thing;
+fatigue has the meaning given by section 223;
+fatigue record keeping exemption means—
+(a) a fatigue record keeping exemption (notice); or
+(b) a fatigue record keeping exemption (permit);
+fatigue record keeping exemption (notice) has the meaning given by section 378;
+fatigue record keeping exemption (permit) has the meaning given by section 383;
+fatigue‑regulated bus means a heavy motor vehicle built or fitted to carry more than 12 adults (including the driver);
+Note—
+A fatigue‑regulated bus is a bus that weighs more than 4.5t for the purposes of being regulated under this Law.
+fatigue‑regulated heavy vehicle has the meaning given by section 7;
+fifth wheel coupling means a device (other than an upper rotating element and a kingpin) used with a prime mover, semitrailer or converter dolly to—
+(a) permit quick coupling and uncoupling; and
+(b) provide for articulation;
+film, a thing, includes—
+(a) photograph or videotape the thing; and
+(b) record an image of the thing in another way;
+fit, to drive a heavy vehicle, or to start or stop its engine, for a person, means the person—
+(a) is apparently physically and mentally fit to drive the vehicle, or start or stop its engine; and
+(b) is not apparently affected by either or both of the following:
+(i) alcohol;
+(ii) a drug that affects a person's ability to drive a vehicle; and
+(c) is not found to have an alcohol concentration in the person's blood or breath exceeding the amount permitted, under an Australian road law of this jurisdiction, for the driver of a heavy vehicle; and
+(d) is not found to be under the influence of a drug or to have present in the person's blood or saliva a drug that the driver of a heavy vehicle is not permitted to have present in the driver's blood or saliva under an Australian road law of this jurisdiction;
+freight container means—
+(a) a re‑usable container of the kind mentioned in AS 3711.1 that is designed for repeated use for transporting goods; or
+Note—
+AS 3711.1 may be purchased from Standards Australia at <www.standards.org.au>.
+(b) a re‑usable container of the same or a similar design and construction to a container mentioned in paragraph (a) though of different dimensions;
+Fund means the National Heavy Vehicle Regulator Fund established under section 687;
+garage address, of a heavy vehicle, means—
+(a) for a heavy vehicle normally kept at a depot when not in use—the principal depot of the vehicle; or
+(b) for a heavy vehicle not normally kept at a depot when not in use—the address of the place of business or residence at which the vehicle is normally kept when not in use;
+GCM (gross combination mass), of a motor vehicle, means the total maximum loaded mass of the motor vehicle and any vehicles it may lawfully tow at any given time—
+(a) if the Regulator has, under section 56, specified the total maximum loaded mass of the motor vehicle and any vehicles it may lawfully tow at any given time—specified by the Regulator under that section; or
+(b) otherwise—stated by the motor vehicle's manufacturer;
+goods—
+(a) includes—
+(i) animals (whether alive or dead); and
+(ii) a container (whether empty or not); but
+(b) does not include—
+(i) people; or
+(ii) fuel, water, lubricants and readily removable equipment required for the normal use of the vehicle or combination in which they are carried; or
+(iii) personal items used by the driver of the vehicle or combination, or someone else necessary for the normal use of the vehicle, in which they are carried;
+GVM (gross vehicle mass), of a vehicle, means the maximum loaded mass of the vehicle—
+(a) if the Regulator has specified the vehicle's maximum loaded mass under section 57—specified by the Regulator under that section; or
+(b) otherwise—stated by the vehicle's manufacturer;
+hauling unit means a motor vehicle that forms part of a combination, but does not include a prime mover;
+heavy combination means a combination that is a heavy vehicle;
+heavy motor vehicle means a motor vehicle that is a heavy vehicle;
+heavy trailer means a trailer that is a heavy vehicle;
+heavy vehicle has the meaning given by section 6;
+heavy vehicle accreditation means—
+(a) AFM accreditation; or
+(b) BFM accreditation; or
+(c) maintenance management accreditation; or
+(d) mass management accreditation;
+heavy vehicle standards has the meaning given by section 59;
+higher mass limits, for the purposes of Chapter 7, has the meaning given by section 403;
+HML authority, for the purposes of Chapter 7, has the meaning given by section 403;
+home address means—
+(a) for an individual—the individual's residential address in Australia; or
+(b) for a body corporate with a registered office in Australia—the address of the registered office; or
+(c) for another person—the address of the person's principal or only place of business in Australia;
+identification details, for the purposes of Chapter 9 Part 3 Division 6, has the meaning given by section 525;
+identification plate means a plate authorised to be placed on a vehicle, or taken to have been placed on a vehicle, under the Motor Vehicle Standards Act 1989 of the Commonwealth;
+impaired by fatigue has the meaning given by section 225;
+improvement notice has the meaning given by section 572(2);
+in, a vehicle, includes on the vehicle;
+indicated, by an official traffic sign, includes—
+(a) indicated by way of a direction on an official traffic sign; and
+(b) indicated by way of a direction, indication or requirement that, under a law, is prescribed as being given or imposed, because of an official traffic sign;
+information notice, for a decision, means a notice stating the following:
+(a) the decision;
+(b) the reasons for the decision;
+(c) the review and appeal information for the decision;
+infringement notice means—
+(a) an infringement notice issued under section 591; or
+(b) an infringement notice, expiation notice, penalty notice or similar notice under the Infringement Notice Offences Law;
+Infringement Notice Offences Law, for a participating jurisdiction, means the law that is declared by a law of that jurisdiction to be the Infringement Notice Offences Law for the purposes of this Law;
+inspect, a thing, includes—
+(a) open the thing and examine its contents; and
+(b) test the thing or its contents or both;
+insurer, for the purposes of Chapter 2 Part 5, has the meaning given by section 54;
+intelligent access map means the spatial data set in electronic form, issued by TCA from time to time, that defines the national public road system;
+intelligent access program agreement, for the purposes of Chapter 7, has the meaning given by section 403;
+intelligent access program audit, for the purposes of Chapter 7, has the meaning given by section 403;
+intelligent access program auditor means a person engaged by TCA for auditing activities conducted by intelligent access program service providers;
+intelligent access program conditions has the same meaning given by section 402;
+intelligent access program information, for the purposes of Chapter 7, has the meaning given by section 403;
+intelligent access program reporting entity, for the purposes of Chapter 6, has the meaning given by section 221;
+intelligent access program service provider has the meaning given by section 403;
+intelligent access program vehicle, for the purposes of Chapter 7, has the meaning given by section 403;
+intelligent transport system means a system involving the use of electronic or other technology, whether located in a heavy vehicle or on or near a road or elsewhere, that is able to monitor, generate, record, store, display, analyse, transmit or report information about—
+(a) any or all of the following:
+(i) a heavy vehicle, its equipment or load;
+(ii) the driver of a heavy vehicle;
+(iii) an operator of a heavy vehicle;
+(iv) anyone else involved in road transport using a heavy vehicle; and
+(b) without limiting paragraph (a), the compliance or noncompliance with this Law of the use of a heavy vehicle on a road;
+investigation purposes means investigating a contravention or suspected contravention of this Law;
+journey documentation—
+(a) means a document, other than transport documentation, in any form—
+(i) directly or indirectly associated with—
+(A) a transaction for the actual or proposed road transport of goods or passengers using a heavy vehicle, or for a previous transport of the goods or passengers by any transport method; or
+(B) goods or passengers, to the extent the document is relevant to a transaction for their actual or proposed road transport; and
+(ii) whether relating to a particular journey or to journeys generally; and
+(b) includes, for example, any or all of the following:
+(i) a document kept, used or obtained by a responsible person for a heavy vehicle in connection with the transport of goods or passengers;
+(ii) a workshop, maintenance or repair record relating to a heavy vehicle used, or claimed to be used, for transporting goods or passengers;
+(iii) a subcontractor's payment advice relating to goods or passengers or their transport;
+(iv) records kept, used or obtained by the driver of a heavy vehicle used, or claimed to be used, for transporting goods or passengers;
+Examples—
+• driver's run sheet
+• work diary entry
+• fuel docket or receipt
+• food receipt
+• tollway receipt
+• pay record
+• mobile or other telephone record
+(v) information reported through the use of an intelligent transport system;
+(vi) a driver manual or instruction sheet;
+(vii) an advice resulting from check weighing of a heavy vehicle's mass or load performed before, during or after a journey;
+law enforcement agency means an agency that has functions or activities directed at the prevention, detection, investigation, prosecution or punishment of offences and other contraventions of a law for which penalties or sanctions may be imposed;
+law enforcement purposes, for the purposes of Chapter 7, has the meaning given by section 403;
+load, of a heavy vehicle or in a heavy vehicle, means—
+(a) all the goods, passengers, drivers and other persons in the vehicle; and
+(b) all fuel, water, lubricants and readily removable equipment carried in the vehicle and required for its normal use; and
+(c) personal items used by the vehicle's driver or someone else necessary for the normal use of the vehicle; and
+(d) anything that is normally removed from the vehicle when not in use;
+load, when used as a verb, and loader—
+A person loads goods in a heavy vehicle, and is a loader of goods in a heavy vehicle, if the person is a person who—
+(a) loads the vehicle, or any container that is in or part of the vehicle, with the goods for road transport; or
+(b) loads the vehicle with a freight container, whether or not it contains goods, for road transport;
+loaded mass, of a vehicle, means the vehicle's mass together with the mass of the vehicle's load that is transmitted to the ground;
+loading manager—
+1. A person is a loading manager for goods in heavy vehicles, other than for the purposes of Chapter 4, if—
+(a) goods are—
+(i) loaded onto a heavy vehicle at regular loading or unloading premises for heavy vehicles; or
+(ii) unloaded from a heavy vehicle at regular loading or unloading premises for heavy vehicles; and
+(b) the person—
+(i) is the person who manages, or is responsible for the operation of, the premises; or
+(ii) has been assigned by a person mentioned in subparagraph (i) as responsible for supervising, managing or controlling, directly or indirectly, activities carried out by a loader or unloader of goods at the premises.
+2. For the purposes of Chapter 4, a person is a loading manager for goods in a heavy vehicle if—
+(a) the goods are loaded onto the vehicle at regular loading or unloading premises for heavy vehicles; and
+(b) the person—
+(i) is the person who manages, or is responsible for the operation of, the premises; or
+(ii) has been assigned by a person mentioned in subparagraph (i) as responsible for supervising, managing or controlling, directly or indirectly, activities carried out by a loader of the goods.
+loading requirements has the meaning given by section 110;
+local government authority, for a participating jurisdiction, means an entity that is declared by a law of that jurisdiction to be a local government authority for that jurisdiction for the purposes of this Law;
+maintenance management accreditation means—
+(a) maintenance management accreditation granted under section 458; or
+(b) accreditation of a similar kind under another law of a participating jurisdiction;
+maintenance management standards and business rules, for the purposes of Chapter 8, has the meaning given by section 457;
+maintenance management system, for the purposes of Chapter 8, has the meaning given by section 457;
+major defect notice has the meaning given by section 526(2)(a);
+major rest break, for the purposes of Chapter 6, has the meaning given by section 221;
+malfunction—
+(a) for the purposes of Chapter 6, has the meaning given by section 221; and
+(b) for the purposes of Chapter 7, has the meaning given by section 403;
+mass, dimension or loading requirement means a mass requirement, dimension requirement or loading requirement;
+mass management accreditation means—
+(a) mass management accreditation granted under section 458; or
+(b) accreditation of a similar kind under another law of a participating jurisdiction;
+mass management standards and business rules, for the purposes of Chapter 8, has the meaning given by section 457;
+mass management system, for the purposes of Chapter 8, has the meaning given by section 457;
+mass or dimension authority means—
+(a) a mass or dimension exemption; or
+(b) a class 2 heavy vehicle authorisation;
+mass or dimension exemption means—
+(a) a mass or dimension exemption (notice); or
+(b) a mass or dimension exemption (permit);
+mass or dimension exemption (notice) has the meaning given by section 117(2);
+mass or dimension exemption (permit) has the meaning given by section 122(3);
+mass requirement means—
+(a) a prescribed mass requirement (under section 95); or
+(b) a requirement as to a mass limit relating to a heavy vehicle under a condition to which a mass or dimension authority is subject (where the mass limit is lower than the relevant prescribed mass requirement); or
+(c) a requirement as to a mass limit under a PBS vehicle approval; or
+(d) a requirement as to a mass limit indicated by an official traffic sign; or
+Note—
+See the definitions indicated and official traffic sign.
+(e) a requirement as to a mass limit under the GVM or GCM for a heavy vehicle; or
+(f) a requirement as to a mass limit for a component vehicle as stated by the manufacturer or as prescribed by a heavy vehicle standard.
+maximum work requirement means a requirement of Chapter 6 relating to a maximum work time for the driver of a fatigue‑regulated heavy vehicle;
+maximum work time means the maximum time the driver of a fatigue‑regulated heavy vehicle may drive a fatigue‑regulated heavy vehicle, or otherwise work, without taking a rest;
+minimum rest requirement means a requirement of Chapter 6 relating to the minimum rest time for the driver of a fatigue‑regulated heavy vehicle;
+minimum rest time means the minimum time the driver of a fatigue‑regulated heavy vehicle must rest in order to break up the period of time the driver drives a fatigue‑regulated heavy vehicle or otherwise works;
+minor defect notice has the meaning given by section 526(2)(b);
+minor risk breach—
+(a) for a mass requirement—has the meaning given by section 98; or
+(b) for a dimension requirement—has the meaning given by section 105; or
+(c) for a loading requirement—has the meaning given by section 112; or
+(d) for a maximum work requirement or minimum rest requirement—has the meaning given by section 222(1);
+mistake of fact defence—see section 14;
+modification, for the purposes of Chapter 3 Part 3, has the meaning given by section 84;
+monitoring purposes means finding out whether this Law is being complied with;
+motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle;
+national regulations means the regulations made under section 730;
+National Transport Commission means the National Transport Commission established by the National Transport Commission Act 2003 of the Commonwealth;
+night means the period between sunset on a day and sunrise on the next day;
+night rest break means—
+(a) 7 continuous hours stationary rest time between 10 pm on a day and 8 am on the next day; or
+Note—
+Under sections 248 and 303, the time must be based on the time zone of the driver's base for drivers on a journey in a different time zone to the driver's base.
+(b) 24 continuous hours stationary rest time;
+night work time, for the purposes of Chapter 6, has the meaning given by section 221;
+noncompliance report, for the purposes of Chapter 7, has the meaning given by section 403;
+non‑participating jurisdiction, for the purposes of Chapter 6, has the meaning given by section 221;
+notice means written notice;
+occupier, of a place, includes the following:
+(a) if there is more than 1 person who apparently occupies the place—any 1 of the persons;
+(b) any person at the place who is apparently acting with the authority of a person who apparently occupies the place;
+(c) if no‑one apparently occupies the place—any person who is an owner of the place;
+official means any of the following persons exercising a function under this Law:
+(a) the Regulator;
+(b) a road authority;
+(c) an authorised officer;
+official traffic sign means a sign or device erected or placed, under a law, by a public authority (including, for example, a police force or police service) to regulate traffic;
+operate and operator—
+A person operates a vehicle or combination, and is an operator of the vehicle or combination, if the person is responsible for controlling or directing the use of—
+(a) for a vehicle (including a vehicle in a combination)—the vehicle; or
+(b) for a combination—the towing vehicle in the combination;
+oversize vehicle means a heavy vehicle that does not comply with a dimension requirement applying to it;
+owner—
+(a) of a vehicle means—
+(i) each person who is an owner, joint owner or part owner of the vehicle; or
+(ii) a person who has the use or control of the vehicle under a credit agreement, hiring agreement, hire‑purchase agreement or leasing arrangement; or
+(b) of a combination means—
+(i) each person who is an owner, joint owner or part owner of the towing vehicle in the combination; or
+(ii) a person who has the use or control of the towing vehicle in the combination under a credit agreement, hiring agreement, hire‑purchase agreement or leasing arrangement; or
+(c) of a sample means an owner of the sample or the thing from which it was taken;
+pack and packer—
+A person packs goods, and is a packer of goods, if the person—
+(a) puts the goods in packaging, even if that packaging is already on a vehicle; or
+Example for the purposes of paragraph (a)—
+A person who uses a hose to fill the tank of a tank vehicle with petrol packs the petrol for transport.
+(b) assembles the goods as packaged goods in an outer packaging, even if that packaging is already on a vehicle; or
+(c) supervises an activity mentioned in paragraph (a) or (b); or
+(d) manages or controls an activity mentioned in paragraph (a), (b) or (c);
+packaging, in relation to goods, means anything that contains, holds, protects or encloses the goods, whether directly or indirectly, to enable them to be received or held for transport, or to be transported;
+Note—
+It may be that a container constitutes the whole of the packaging of goods, as in the case of a drum in which goods are directly placed.
+participating jurisdiction—
+(a) for the purposes of this Law other than Chapter 6—means a State or Territory in which—
+(i) this Law applies as a law of the State or Territory; or
+(ii) a law that substantially corresponds to the provisions of this Law has been enacted; or
+(iii) a law prescribed by the national regulations for the purposes of this subparagraph has been enacted; or
+(b) for the purposes of Chapter 6—has the meaning given by section 221;
+party in the chain of responsibility—
+(a) for a heavy vehicle, for the purposes of Chapter 5 Part 2 Division 5, has the meaning given by section 214; or
+(b) for a fatigue‑regulated heavy vehicle, for the purposes of Chapter 6, has the meaning given by section 227;
+passenger, of a vehicle, means any person carried in the vehicle other than the vehicle's driver or someone else necessary for the normal use of the vehicle;
+PBS design approval means a current approval given under section 22 for the design of a type of heavy vehicle that, if built to the design, is eligible for PBS vehicle approval;
+Note—
+"PBS" stands for performance based standards.
+PBS Review Panel means an advisory body appointed by the Regulator to provide expert advice in the assessment of applications for PBS design approvals or PBS vehicle approvals and of their impacts;
+Note—
+The membership of the PBS Review Panel consists of one representative of each State and Territory, an independent Chairperson and an independent Deputy Chairperson. The Commonwealth may, if it decides to do so, nominate a representative of the Commonwealth. The procedure of the Panel is as determined by the Regulator.
+PBS vehicle means a heavy vehicle that is the subject of a current PBS vehicle approval under Chapter 1 Part 4;
+PBS vehicle approval means a current approval issued for a heavy vehicle by the Regulator under section 23;
+personal information—
+(a) generally, means information or an opinion, including information or an opinion forming part of a database, whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be found out, from the information or opinion; and
+(b) for the purposes of Chapter 7, has the meaning given by section 403;
+pig trailer means a trailer—
+(a) with 1 axle group or a single axle near the middle of its load carrying surface; and
+(b) connected to the towing vehicle by a drawbar;
+pilot vehicle means a motor vehicle that accompanies an oversize vehicle to warn other road users of the oversize vehicle's presence;
+place of business, for the purposes of Chapter 9 Part 2 has the meaning given by section 494;
+pole‑type trailer means a trailer that—
+(a) is attached to a towing vehicle by a pole or an attachment fitted to a pole; and
+(b) is ordinarily used for transporting loads, such as logs, pipes, structural members, or other long objects, that can generally support themselves like beams between supports;
+Pole‑type trailer
+police commissioner means the head of the police force or police service (however called) of a participating jurisdiction;
+premises—
+(a) means a building or other structure, a vessel, or another place (whether built on or not)—
+(i) from which a business is carried out; or
+(ii) at or from which goods are loaded onto or unloaded from vehicles; and
+(b) includes a part of a building, structure, vessel or place mentioned in paragraph (a);
+prescribed dimension requirement means a requirement prescribed by the national regulations under section 101;
+prescribed fee means a fee prescribed by the national regulations under section 740(1);
+prescribed mass requirement means a requirement prescribed by the national regulations under section 95;
+previous corresponding law—
+1 A previous corresponding law is a law of a participating jurisdiction that, before the participation day for the jurisdiction, provided for the same, or substantially the same, matters as the provisions of this Law.
+2 A previous corresponding law for a provision of this Law is a provision of a previous corresponding law within the meaning of paragraph 1 that corresponds, or substantially corresponds, to the provision of this Law.
+3 For the purposes of paragraph 1, it is irrelevant whether the law of the participating jurisdiction—
+(a) is in 1 instrument or 2 or more instruments; or
+(b) is part of an instrument; or
+(c) is part of an instrument and the whole or part of 1 or more other instruments;
+prime contractor, of the driver of a heavy vehicle, means a person who engages the driver to drive the vehicle under a contract for services;
+Example—
+a logistics business that engages a subcontractor to transport goods
+prime mover means a heavy motor vehicle designed to tow a semitrailer;
+prohibition order has the meaning given by section 607(1);
+protected information, for the purposes of Chapter 13 Part 4, has the meaning given by section 727;
+public authority means—
+(a) a State or Territory or the Commonwealth, in any capacity; or
+(b) a body established under a law, or the holder of an office established under a law, for a public purpose, including a local government authority;
+public notice means a notice—
+(a) in the Commonwealth Gazette; and
+(b) on the Regulator's website; and
+(c) if the Regulator considers it appropriate—in another way, including, for example, in a national newspaper;
+public place means a place or part of a place—
+(a) that the public is entitled to use, is open to members of the public or is used by the public, whether or not on payment of money; or
+(b) the occupier of which allows members of the public to enter, whether or not on payment of money;
+public safety means the safety of persons or property, including the safety of—
+(a) the drivers of, and passengers and other persons in, vehicles and combinations; and
+(b) persons or property in or in the vicinity of, or likely to be in or in the vicinity of, road infrastructure and public places; and
+(c) vehicles and combinations and any loads in them;
+public safety ground, for a reviewable decision, has the meaning given by section 640;
+quad‑axle group means a group of 4 axles, in which the horizontal distance between the centre‑lines of the outermost axles is more than 3.2m but not more than 4.9m;
+qualified, to drive a heavy vehicle, or to start or stop its engine, for a person, means the person—
+(a) holds a driver licence of the appropriate class to drive the vehicle that is not suspended; and
+(b) is not prevented under a law, including, for example, by the conditions of the driver licence, from driving the vehicle at the relevant time;
+Queensland Minister means the responsible Minister for Queensland;
+reasonable steps defence means the defence mentioned in section 618;
+reasonably believes means believes on grounds that are reasonable in the circumstances;
+reasonably satisfied means satisfied on grounds that are reasonable in the circumstances;
+reasonably suspects means suspects on grounds that are reasonable in the circumstances;
+record keeper, for the purposes of Chapter 6, has the meaning given by section 317;
+record location, of the driver of a fatigue‑regulated heavy vehicle, for the purposes of Chapter 6, has the meaning given by section 290;
+registered industry code of practice means an industry code of practice registered under section 706;
+registered interest means an interest registered under the Personal Property Securities Act 2009 of the Commonwealth by a secured party for which the thing or sample is collateral;
+registered operator, of a heavy vehicle, means the person recorded on the vehicle register as the person responsible for the vehicle;
+registration, of a heavy vehicle, means registration of the vehicle under this Law;
+registration authority, for the purposes of Chapter 9 Part 3 Division 6, has the meaning given by section 525;
+registration exemption means an exemption under Chapter 2 Part 2 Division 4 from the requirement for a heavy vehicle to be registered;
+registration item means a document, number plate, label or other thing relating to—
+(a) the registration or purported registration of a heavy vehicle; or
+(b) an unregistered heavy vehicle permit for a heavy vehicle;
+registration number, for a heavy vehicle, means letters, numbers or characters, or a combination of 1 or more letters, numbers or characters, issued for the vehicle by the Regulator and recorded on the vehicle register;
+regular loading or unloading premises—
+1 Regular loading or unloading premises, for heavy vehicles, means premises at or from which an average of at least 5 heavy vehicles are loaded or unloaded on each day the premises are operated for loading or unloading heavy vehicles.
+2 For the purposes of paragraph 1, an average of at least 5 heavy vehicles are loaded or unloaded at or from premises on each day the premises are operated for loading or unloading heavy vehicles if—
+(a) for premises operated for loading or unloading heavy vehicles for 12 months or more—during the previous 12 months, an average of at least 5 heavy vehicles were loaded or unloaded at or from the premises on each day the premises were operated for loading or unloading heavy vehicles; or
+(b) for premises operated for loading or unloading heavy vehicles for less than 12 months—during the period the premises have been in operation for loading or unloading heavy vehicles, an average of at least 5 heavy vehicles were loaded or unloaded at or from the premises on each day the premises were operated for loading or unloading heavy vehicles;
+3 In the application of this definition to the definition loading manager where used in Chapter 6, references in paragraphs 1 and 2 to "an average of at least 5 heavy vehicles" are to be read as references to an average of at least 5 fatigue-regulated heavy vehicles.
+Note—
+Consequently, Chapter 6 (including sections 227, 238, 239 and 261) applies to a person as a loading manager only if the premises concerned are premises at or from which an average of at least 5 fatigue-regulated heavy vehicles are loaded or unloaded on each day the premises are operated for loading or unloading heavy vehicles.
+Regulator means the National Heavy Vehicle Regulator established under section 656;
+Regulator's website means the website of the Regulator on the Internet;
+relevant appeal body, for the purposes of Chapter 11, has the meaning given by section 640;
+relevant contravention, for the purposes of Chapter 7, has the meaning given by section 403;
+relevant emission, for a heavy vehicle, means noise emission, gaseous emission or particle emission emanating from the vehicle;
+relevant garage address, of a heavy vehicle, means—
+(a) the heavy vehicle's garage address; or
+(b) if the heavy vehicle is a combination—the garage address of the towing vehicle in the combination;
+relevant jurisdiction, for the purposes of Chapter 11, has the meaning given by section 640;
+relevant management system, for the purposes of Chapter 8, has the meaning given by section 457;
+relevant monitoring matters, for the purposes of Chapter 7, has the meaning given by section 403;
+relevant place, for the purposes of Chapter 9 Part 2, has the meaning given by section 494;
+relevant police commissioner, in relation to a police officer, means the police commissioner for the police force or police service (however called) of which the police officer is a member;
+relevant road manager, for a mass or dimension authority, means a road manager for a road in the area, or on the route, to which the authority applies;
+relevant standards and business rules, for the purposes of Chapter 8, has the meaning given by section 457;
+relevant tribunal or court, for a participating jurisdiction, means a tribunal or court that is declared by a law of that jurisdiction to be the relevant tribunal or court for that jurisdiction for the purposes of this Law;
+residence, for the purposes of Chapter 9 Part 2, has the meaning given by section 494(1);
+responsible entity, for a freight container, means—
+(a) the person who, in Australia, consigned the container for road transport using a heavy vehicle; or
+(b) if there is no person as described in paragraph (a)—the person who, in Australia, for a consignor, arranged for the container's road transport using a heavy vehicle; or
+(c) if there is no person as described in paragraph (a) or (b)—the person who, in Australia, physically offered the container for road transport using a heavy vehicle;
+responsible Minister, for a participating jurisdiction, means the Minister of that jurisdiction nominated by it as its responsible Minister for the purposes of this Law;
+responsible Ministers means a group of Ministers consisting of—
+(a) the responsible Minister for each participating jurisdiction; and
+(b) the Commonwealth responsible Minister;
+Note—
+See also section 655(3).
+responsible person, for a heavy vehicle, means a person having, at a relevant time, a role or responsibility associated with road transport using the vehicle, and includes any of the following:
+(a) an owner of the vehicle or, if it is a combination, an owner of a heavy vehicle forming part of the combination;
+(b) the vehicle's driver;
+(c) an operator or registered operator of the vehicle or, if it is a combination, an operator or registered operator of a heavy vehicle forming part of the combination;
+(d) a person in charge or apparently in charge of—
+(i) the vehicle; or
+(ii) the vehicle's garage address or, if it is a combination, the garage address of a heavy vehicle forming part of the combination; or
+(iii) a base of the vehicle's driver;
+(e) a person appointed under a heavy vehicle accreditation to have monitoring or other responsibilities under the accreditation, including, for example, responsibilities for certifying, monitoring or approving the use of heavy vehicles under the accreditation;
+(f) a person who provides to an owner or registered operator of the vehicle or, if it is a combination, an owner or registered operator of a heavy vehicle forming part of the combination, an intelligent transport system for the vehicle;
+(g) a person in charge of a place entered by an authorised officer under this Law for the purpose of exercising a power under this Law;
+(h) a consignor of goods for road transport;
+(i) a packer of goods in a freight container or other container or in a package or on a pallet for road transport;
+(j) a person who loads goods or a container for road transport;
+(k) a person who unloads goods or a container containing goods consigned for road transport;
+(l) a person to whom goods are consigned for road transport;
+(m) a person who receives goods packed outside Australia in a freight container or other container or on a pallet for road transport in Australia;
+(n) an owner or operator of a weighbridge or weighing facility used to weigh the vehicle, or an occupier of the place where the weighbridge or weighing facility is located;
+(o) a responsible entity for a freight container on the vehicle;
+(p) a loading manager for goods in heavy vehicles for road transport or another person who controls or directly influences the loading of goods for road transport;
+(q) a scheduler for the vehicle;
+(r) an employer, employee, agent or subcontractor of a person mentioned in any of paragraphs (a) to (q);
+rest, in relation to a fatigue‑regulated heavy vehicle, has the meaning given by section 221;
+rest time, for the purposes of Chapter 6, has the meaning given by section 221;
+review and appeal information—
+(a) for a decision made by the Regulator or an authorised officer who is not a police officer, means the following information:
+(i) that, under section 641, a dissatisfied person for the decision may ask for the decision to be reviewed by the Regulator;
+(ii) that, under section 642, the person may apply for the decision to be stayed by a relevant tribunal or court unless the decision was made by the Regulator on the basis of a public safety ground;
+(iii) that, in relation to the Regulator's decision on the review, the person may—
+(A) under section 647, appeal against the decision to a relevant tribunal or court; and
+(B) under section 648, apply for the decision to be stayed by a relevant tribunal or court unless the reviewable decision to which the review decision relates was made by the Regulator on the basis of a public safety ground; and
+(b) for a decision made by a road manager (for a road) that is a public authority, means the following information:
+(i) that, under section 641, a dissatisfied person for the decision may apply to the Regulator to have the decision reviewed;
+(ii) that, under section 643, the Regulator must refer the application to the road manager for review;
+(iii) that the decision of the road manager on the review is not subject to further review or appeal under this Law; and
+(c) for a decision made by an authorised officer who is a police officer, or a road manager (for a road) that is not a public authority, means that the decision is not subject to review or appeal under this Law;
+review application, for the purposes of Chapter 11, has the meaning given by section 640;
+review decision, for the purposes of Chapter 11, has the meaning given by section 640;
+reviewable decision has the meaning given by section 640;
+reviewer, for the purposes of Chapter 11, has the meaning given by section 640;
+rigid, other than in the definition articulated bus, means not articulated;
+risk category—
+(a) for a contravention of a mass, dimension or loading requirement, means 1 of the following categories:
+(i) minor risk breach;
+(ii) substantial risk breach;
+(iii) severe risk breach; or
+(b) for a contravention of a maximum work requirement or minimum rest requirement, means 1 of the following categories:
+(i) minor risk breach;
+(ii) substantial risk breach;
+(iii) severe risk breach;
+(iv) critical risk breach;
+road has the meaning given by section 8;
+Note—
+See also section 13.
+road authority, for a participating jurisdiction, means an entity that is declared by a law of that jurisdiction to be the road authority for that jurisdiction for the purposes of this Law;
+road condition has the meaning given by section 154;
+road infrastructure includes—
+(a) a road, including its surface or pavement; and
+(b) anything under or supporting a road or its surface or pavement; and
+(c) any bridge, tunnel, causeway, road‑ferry, ford or other work or structure forming part of a road system or supporting a road; and
+(d) any bridge or other work or structure located above, in or on a road; and
+(e) any traffic control devices, railway equipment, electricity equipment, emergency telephone systems or any other facilities (whether of the same or a different kind) in, on, over, under or connected with anything mentioned in paragraphs (a) to (d);
+road manager, for a road in a participating jurisdiction, means an entity that is declared by a law of that jurisdiction to be the road manager for the road for the purposes of this Law;
+road‑related area has the meaning given by section 8;
+Road Rules, for a participating jurisdiction, means the law that is declared by a law of that jurisdiction to be the Road Rules for the purposes of this Law;
+road train means—
+(a) a B‑triple; or
+(b) a combination, other than a B‑double, consisting of a motor vehicle towing at least 2 trailers, excluding any converter dolly supporting a semitrailer;
+Typical triple road train
+road transport means transport by road;
+route assessment, for the purposes of Chapter 4 Part 7, has the meaning given by section 154;
+safety risk means a risk—
+(a) to public safety; or
+(b) of harm to the environment;
+schedule, for the driver of a heavy vehicle, means—
+(a) the schedule for the transport of any goods or passengers by the vehicle; or
+(b) the schedule of the driver's work times and rest times;
+scheduler, for a heavy vehicle, means a person who—
+(a) schedules the transport of any goods or passengers by the vehicle; or
+(b) schedules the work times and rest times of the vehicle's driver;
+self‑employed driver, of a heavy vehicle, means a driver of the vehicle who is not an employed driver of the vehicle;
+semitrailer means a trailer that has—
+(a) 1 axle group or a single axle towards the rear; and
+(b) a means of attachment to a prime mover that results in some of the mass of the trailer's load being imposed on the prime mover;
+severe risk breach—
+(a) for a mass requirement—has the meaning given by section 100; or
+(b) for a dimension requirement—has the meaning given by section 107; or
+(c) for a loading requirement—has the meaning given by section 114; or
+(d) for a maximum work requirement or minimum rest requirement—has the meaning given by section 222(3);
+severe risk breach lower limit—
+(a) for the purposes of Chapter 4 Part 2 Division 2, has the meaning given by section 97; or
+(b) for the purposes of Chapter 4 Part 3 Division 2, has the meaning given by section 104;
+sign of fatigue, for the purposes of Chapter 6, has the meaning given by section 221;
+single axle means—
+(a) 1 axle; or
+(b) 2 axles with centres between transverse, parallel, vertical planes spaced less than 1.0m apart;
+solo driver, for the purposes of Chapter 6, has the meaning given by section 221;
+speed limit means—
+(a) a speed limit applying under this Law, the Road Rules or another law; and
+(b) when used in the context of a speed limit applying to the driver of a heavy vehicle—a speed limit applying to the driver or the vehicle (or both) under this Law, the Road Rules or another law (whether it applies specifically to the particular driver or the particular vehicle or it applies to all drivers or vehicles or to a class of drivers or vehicles to which the driver or vehicle belongs);
+Note—
+A reference to a speed limit applying under this Law, the Road Rules or another law covers both—
+• a speed limit specified in this Law, the Road Rules or other law
+• a speed limit specified in an instrument, or in some other manner, under this Law, the Road Rules or other law (for example, a speed limit specified in a permit or a Commonwealth Gazette notice).
+standard hours, for the purposes of Chapter 6, has the meaning given by section 249;
+Standards Australia means Standards Australia Limited ACN 087 326 690, and includes a reference to the Standards Association of Australia as constituted before 1 July 1999;
+stationary rest time has the meaning given by section 221;
+substantial risk breach—
+(a) for a mass requirement—has the meaning given by section 99; or
+(b) for a dimension requirement—has the meaning given by section 106; or
+(c) for a loading requirement—has the meaning given by section 113; or
+(d) for a maximum work requirement or minimum rest requirement—has the meaning given by section 222(2);
+substantial risk breach lower limit—
+(a) for the purposes of Chapter 4 Part 2 Division 2, has the meaning given by section 97; or
+(b) for the purposes of Chapter 4 Part 3 Division 2, has the meaning given by section 104;
+suitable rest place, for fatigue‑regulated heavy vehicles, means—
+(a) a rest area designated for use, and able to be used, by fatigue‑regulated heavy vehicles; or
+(b) a place at which a fatigue‑regulated heavy vehicle may be safely and lawfully parked;
+supervisory intervention order has the meaning given by section 600(1);
+supplementary record, for the purposes of Chapter 6, has the meaning given by section 221;
+tamper—
+(a) with an emission control system, for the purposes of section 91, has the meaning given by that section; or
+(b) with a plate or label, for the purposes of section 87A, has the meaning given by that section; or
+(c) with a speed limiter, for the purposes of section 93, has the meaning given by that section; or
+(d) with an approved electronic recording system, for the purposes of Chapter 6, has the meaning given by section 334; or
+(e) with an approved intelligent transport system, for the purposes of Chapter 7, has the meaning given by section 403;
+tandem axle group means a group of at least 2 axles, in which the horizontal distance between the centre‑lines of the outermost axles is at least 1m but not more than 2m;
+TCA means Transport Certification Australia Limited ACN 113 379 936;
+Territory means the Australian Capital Territory or the Northern Territory;
+the State means the Crown in right of this jurisdiction, and includes—
+(a) the Government of this jurisdiction; and
+(b) a Minister of the Crown in right of this jurisdiction; and
+(c) a statutory corporation, or other entity, representing the Crown in right of this jurisdiction;
+third party insurance legislation means—
+(a) legislation about compensation for third parties who are injured or killed by the use of motor vehicles or trailers; or
+(b) legislation about payment of contributions towards compensation of that kind; or
+(c) legislation requiring public liability insurance;
+this jurisdiction—see the law of each participating jurisdiction for the meaning of this term;
+this Law means—
+(a) this Law as it applies as a law of a participating jurisdiction; or
+(b) a law of a participating jurisdiction that—
+(i) substantially corresponds to the provisions of this Law; or
+(ii) is prescribed by the national regulations for the purposes of paragraph (a)(iii) of the definition participating jurisdiction;
+Note—
+See also section 11.
+tow truck means—
+(a) a heavy motor vehicle that is—
+(i) equipped with a crane, winch, ramp or other lifting device; and
+(ii) used or intended to be used for the towing of motor vehicles; or
+(b) a heavy motor vehicle to which is attached, temporarily or otherwise, a trailer or device that is—
+(i) equipped with a crane, winch, ramp or other lifting device; and
+(ii) used or intended to be used for the towing of motor vehicles;
+tractor means a motor vehicle used for towing purposes, other than—
+(a) a motor vehicle designed to carry goods or passengers; or
+(b) a tow truck;
+traffic includes vehicular traffic, pedestrian traffic and all other forms of road traffic;
+trailer means a vehicle that is built to be towed, or is towed, by a motor vehicle, but does not include a motor vehicle being towed;
+transport documentation means each of the following:
+(a) each contractual document directly or indirectly associated with—
+(i) a transaction for the actual or proposed road transport of goods or passengers or any previous transport of the goods or passengers by any transport method; or
+(ii) goods or passengers, to the extent the document is relevant to the transaction for their actual or proposed road transport;
+(b) each document—
+(i) contemplated in a contractual document mentioned in paragraph (a); or
+(ii) required by law, or customarily given, in connection with a contractual document or transaction mentioned in paragraph (a);
+Examples—
+• bill of lading
+• consignment note
+• container weight declaration
+• contract of carriage
+• delivery order
+• export receival advice
+• invoice
+• load manifest
+• sea carriage document
+• vendor declaration
+travel condition has the meaning given by section 154;
+tri‑axle group means a group of at least 3 axles, in which the horizontal distance between the centre‑lines of the outermost axles is more than 2m but not more than 3.2m;
+truck means a rigid motor vehicle built mainly as a load carrying vehicle;
+twinsteer axle group means a group of 2 axles—
+(a) with single tyres; and
+(b) fitted to a motor vehicle; and
+(c) connected to the same steering mechanism; and
+(d) the horizontal distance between the centre‑lines of which is at least 1m but not more than 2m;
+two‑up driving arrangement, for the purposes of Chapter 6, has the meaning given by section 221;
+unattended, for a heavy vehicle, for the purposes of Chapter 9 Part 3 Division 3, has the meaning given by section 515;
+under, for a law or a provision of a law, includes—
+(a) by; and
+(b) for the purposes of; and
+(c) in accordance with; and
+(d) within the meaning of;
+unincorporated local government authority means a local government authority that is not a body corporate;
+unload and unloader—
+A person unloads goods in a heavy vehicle, and is an unloader of goods in a heavy vehicle, if the person is a person who—
+(a) unloads from the vehicle, or any container that is in or part of the vehicle, goods that have been transported by road; or
+(b) unloads from the vehicle a freight container, whether or not it contains goods, that has been transported by road;
+unregistered heavy vehicle means a heavy vehicle that is not registered;
+unregistered heavy vehicle permit means a permit issued under the national regulations authorising the use of an unregistered heavy vehicle on a road;
+use, a heavy vehicle on a road, includes standing the vehicle on the road;
+vehicle condition has the meaning given by section 154;
+vehicle defect notice means a major defect notice or a minor defect notice;
+vehicle identifier, for the purposes of Chapter 9 Part 3 Division 6, has the meaning given by section 525;
+vehicle register means the vehicle register kept under Chapter 2 Part 3;
+vehicle registration duty—
+(a) includes any duties, levies, fees or charges (however called) payable under a law of a participating jurisdiction at the time of registration of a vehicle on an application for the registration of, the renewal of registration of, or the transfer of the registration of, a vehicle; and
+(b) includes, by way of example, emergency service levies;
+vehicle registration duty legislation means legislation about payment of vehicle registration duty;
+vehicle standards exemption means—
+(a) a vehicle standards exemption (notice); or
+(b) a vehicle standards exemption (permit);
+vehicle standards exemption (notice) has the meaning given by section 61(2);
+vehicle standards exemption (permit) has the meaning given by section 68(2);
+VIN (vehicle identification number), for a heavy vehicle, means—
+(a) for a heavy vehicle built before 1 January 1989 with an identification plate, the number quoted on the vehicle's identification plate that—
+(i) uniquely identifies the vehicle and sets it apart from similar vehicles; and
+(ii) corresponds to the identification number of the vehicle that is permanently recorded elsewhere on the vehicle; or
+(b) otherwise, the unique vehicle identification number assigned to the heavy vehicle under the Motor Vehicle Standards Act 1989 of the Commonwealth;
+work, in relation to a fatigue‑regulated heavy vehicle, has the meaning given by section 221;
+work and rest change, for the purposes of Chapter 6, has the meaning given by section 221;
+work and rest hours exemption means—
+(a) a work and rest hours exemption (notice); or
+(b) a work and rest hours exemption (permit);
+work and rest hours exemption (notice) has the meaning given by section 266(2);
+work and rest hours exemption (permit) has the meaning given by section 273(2);
+work and rest hours option, for the purposes of Chapter 6, has the meaning given by section 243;
+work diary, for the purposes of Chapter 6, has the meaning given by section 221;
+work diary exemption means—
+(a) a work diary exemption (notice); or
+(b) a work diary exemption (permit);
+work diary exemption (notice) has the meaning given by section 357(2);
+work diary exemption (permit) has the meaning given by section 363(2);
+work record, for the purposes of Chapter 6, has the meaning given by section 221;
+work time, for the purposes of Chapter 6, has the meaning given by section 221;
+wrecked, in relation to a heavy vehicle, for the purposes of Chapter 2 Part 5, has the meaning given by section 54;
+written‑off, in relation to a heavy vehicle, for the purposes of Chapter 2 Part 5, has the meaning given by section 54;
+written work diary, for the purposes of Chapter 6, has the meaning given by section 221.
+6—Meaning of heavy vehicle
+(1) For the purposes of this Law, a vehicle is a heavy vehicle if it has a GVM or ATM of more than 4.5t.
+(2) Also, for the purposes of this Law other than in relation to registration under this Law, a combination that includes a vehicle with a GVM or ATM of more than 4.5t is a heavy vehicle.
+(3) However, rolling stock is not a heavy vehicle for the purposes of this Law.
+(4) In this section—
+rolling stock—
+1 Rolling stock is a vehicle designed to operate or move on a railway track and includes a locomotive, carriage, rail car, rail motor, light rail vehicle, tram, light inspection vehicle, self‑propelled infrastructure maintenance vehicle, trolley, wagon or monorail vehicle.
+2 A vehicle designed to operate both on and off a railway track is rolling stock when the vehicle is being—
+(a) operated or moved on a railway track; or
+(b) maintained, repaired or modified in relation to the operation or movement of the vehicle on a railway track.
+7—Meaning of fatigue‑regulated heavy vehicle
+(1) For the purposes of this Law, a heavy vehicle is a fatigue‑regulated heavy vehicle if it is any of the following:
+(a) a motor vehicle with a GVM of more than 12t;
+(b) a combination with a GVM of more than 12t;
+(c) a fatigue‑regulated bus.
+(2) However, subject to subsection (3), a heavy vehicle is not a fatigue‑regulated heavy vehicle for the purposes of this Law if it is any of the following:
+(a) a motor vehicle that—
+(i) is built, or has been modified, to operate primarily as a machine or implement off‑road, on a road‑related area, or on an area of road that is under construction; and
+(ii) is not capable of carrying goods or passengers by road;
+Examples for the purposes of paragraph (a)—
+agricultural machine, backhoe, bulldozer, excavator, forklift, front‑end loader, grader, motor vehicle registered under an Australian road law as a special purpose vehicle (type p)
+(b) a motorhome.
+(3) For the purposes of this Law, a truck, or a combination including a truck, that has a machine or implement attached to it is a fatigue‑regulated heavy vehicle—
+(a) if the GVM of the truck or combination with the attached machine or implement is more than 12t; and
+(b) whether or not the truck or combination has been built or modified primarily to operate as a machine or implement off‑road, on a road‑related area, or on an area of road that is under construction.
+Example for the purposes of subsection (3)—
+a truck to which a crane or drilling rig is attached
+(4) For the purposes of subsection (2)(b), a motorhome—
+(a) is a rigid or articulated motor vehicle or combination that is built, or has been modified, primarily for residential purposes; and
+(b) does not include a motor vehicle that is merely a motor vehicle constructed with a sleeper berth.
+(5) For the purposes of this section, the GVM of a combination is the total of the GVMs of the vehicles in the combination.
+8—Meaning of road and road‑related area
+(1) For the purposes of this Law, a road is an area that is open to or used by the public and is developed for, or has as 1 of its uses, the driving or riding of motor vehicles.
+Examples of areas that are roads—
+bridges, cattle grids, culverts, ferries, fords, railway crossings, tunnels or viaducts
+(2) For the purposes of this Law, a road‑related area is—
+(a) an area that divides a road; or
+(b) a footpath, shared path or nature strip adjacent to a road; or
+(c) a shoulder of a road; or
+(d) a bicycle path or another area that is not a road and that is open to the public and designated for use by cyclists or animals; or
+(e) an area that is not a road and that is open to, or used by, the public for driving, riding or parking motor vehicles.
+(3) Also, an area is a road or road‑related area for the purposes of this Law or a particular provision of this Law as applied in a participating jurisdiction, if the area is declared by a law of that jurisdiction to be a road or road‑related area for the purposes of this Law or the particular provision.
+(4) In this section—
+bicycle path means an area open to the public that is designated for, or has as 1 of its main uses, use by riders of bicycles;
+footpath means an area open to the public that is designated for, or has as 1 of its main uses, use by pedestrians;
+shared path means an area open to the public that is designated for, or has as 1 of its main uses, use by both the riders of bicycles and pedestrians;
+shoulder, of a road—
+(a) includes any part of the road that is not designed to be used by motor vehicles in travelling along the road; and
+(b) includes—
+(i) for a kerbed road—any part of the kerb; and
+(ii) for a sealed road—any unsealed part of the road, and any sealed part of the road outside an edge line on the road; but
+(c) does not include a bicycle path, footpath or shared path.
+9—Meaning of convicts and convicted of an offence
+(1) For the purposes of this Law, a court convicts a person of an offence if the court finds the person guilty, or accepts the person's plea of guilty, for the offence whether or not a conviction is recorded.
+(2) For the purposes of this Law, a person is convicted of an offence if a court convicts the person of the offence.
+10—Interpretation generally
+Schedule 1 applies in relation to this Law.
+11—References to laws includes references to instruments made under laws
+(1) In this Law, a reference (either generally or specifically) to a law or a provision of a law (including this Law) includes a reference to—
+(a) each instrument (including a regulation) made or in force under the law or provision; and
+(b) each instrument made or in force under any such instrument.
+(2) In this section—
+law means a law of the Commonwealth or a State or Territory.
+12—References to this Law as applied in a participating jurisdiction
+In this Law, a reference to this Law as applied by an Act of a participating jurisdiction includes a reference to—
+(a) a law that substantially corresponds to this Law enacted in a participating jurisdiction; and
+(b) a law prescribed by the national regulations for the purposes of paragraph (a)(iii) of the definition participating jurisdiction in section 5, enacted in a participating jurisdiction.
+13—References to road
+A reference in this Law to a road includes a reference to a road‑related area, unless a contrary intention appears in this Law.
+14—References to mistake of fact defence
+(1) This section applies if a provision of this Law states that a person charged with an offence does not have the benefit of the mistake of fact defence for the offence.
+(2) The effect of the provision, for a participating jurisdiction, is the effect that is declared by a law of that jurisdiction to be the effect of the provision.
+15—References to categories of heavy vehicles
+If a provision of this Law provides for the exemption, authorisation, prescription or description of a category of heavy vehicles, heavy vehicles may, without limitation, be categorised for the purposes of the provision as being of any stated class, including, for example—
+(a) a class of heavy vehicles used for a particular task; and
+(b) a class of heavy vehicles used by particular persons or a particular class of persons; and
+(c) a class of heavy vehicles with a particular configuration.
+Part 3—Application and operation of Law
+16—Extraterritorial operation of Law
+It is the intention of the Parliament of this jurisdiction that the operation of this Law is, as far as possible, to include operation in relation to the following:
+(a) things situated in or outside the territorial limits of this jurisdiction;
+(b) acts, transactions and matters done, entered into or occurring in or outside the territorial limits of this jurisdiction;
+(c) things, acts, transactions and matters (wherever situated, done, entered into or occurring) that would, apart from this Law, be governed or otherwise affected by the law of another jurisdiction.
+17—Law binds the State
+(1) This Law binds the State.
+(2) No criminal liability attaches to the State itself (as distinct from its agents, instrumentalities, officers and employees) under this Law.
+18—Relationship with primary work health and safety laws
+(1) This Law does not limit the application of the primary WHS Law or any regulations made under that Law.
+(2) Evidence of a relevant contravention of this Law is admissible in any proceeding for an offence against the primary WHS Law.
+(3) Compliance with this Law, or with any requirement imposed under this Law, is not, in itself, evidence that a person has complied with the primary WHS Law or any regulations made under that Law or with a common law duty of care.
+(4) In this section—
+primary WHS Law, for a participating jurisdiction, means the law that is declared by a law of that jurisdiction to be the primary WHS Law for the purposes of this Law.
+Note—
+"WHS" stands for workplace health and safety.
+Part 4—Performance based standards
+19—Main purpose of this Part
+(1) The main purposes of this Part and other associated provisions of this Law are to enable PBS vehicles that meet a particular performance level to operate (unless otherwise specified by the responsible Minister) on roads that are authorised to be used by PBS vehicles that meet or exceed that performance level.
+(2) It is intended that authorisations or exemptions can be granted under this Law for PBS vehicles.
+20—Notification to road authority of PBS design approval
+The Regulator must, as soon as practicable, notify the road authority for this jurisdiction, in writing, of a PBS design approval, together with a description of the significant features of the design to which the approval relates.
+21—Notification by responsible Minister of non-application or restricted application of PBS design approval
+(1) The responsible Minister for this jurisdiction may notify the Regulator in writing that any heavy vehicle built to a design that is the subject of a PBS design approval—
+(a) is not to be permitted to operate in this jurisdiction; or
+(b) is only to be permitted to operate in this jurisdiction subject to stated conditions.
+(2) A notice under this section cannot be about—
+(a) a particular person; or
+(b) a particular heavy vehicle.
+(3) A notice under this section is not valid for the purposes of this Law if it does not set out reasons for why it has been issued.
+(4) On receiving a notice under this section, the Regulator must give a copy of the notice to the person who was given the PBS design approval.
+(5) On receiving a notice under this section, the Regulator must accordingly impose on the PBS design approval—
+(a) a condition giving effect to subsection (1)(a); or
+(b) the stated conditions referred to in subsection (1)(b).
+22—Application for PBS design approval
+(1) An application for a PBS design approval for the design of a type of heavy vehicle may be made to the Regulator.
+(2) In assessing the application, the Regulator must have regard to—
+(a) the approved guidelines relevant to the grant of PBS design approvals; and
+(b) any performance based standards and assessment rules prescribed in the national regulations for the purposes of this paragraph; and
+(c) the advice of the PBS Review Panel in relation to the application.
+(3) Having assessed the application, the Regulator must approve or reject the application.
+(4) The Regulator may approve the application subject to any condition the Regulator considers appropriate.
+(5) The PBS design approval must state the conditions (if any) to which it is subject under subsection (4) or section 21(5).
+23—Application for PBS vehicle approval
+(1) An application for a PBS vehicle approval for a heavy vehicle may be made to the Regulator.
+(2) In assessing the application, the Regulator must have regard to—
+(a) the approved guidelines relevant to the grant of PBS vehicle approvals; and
+(b) any vehicle certification rules prescribed in the national regulations for the purposes of this paragraph; and
+(c) the advice of the PBS Review Panel in relation to the application.
+(3) Having assessed the application, the Regulator must approve or reject the application.
+(4) The Regulator may approve the application subject to conditions included in the PBS design approval to which the heavy vehicle is built.
+(5) The PBS vehicle approval must state the conditions (if any) to which—
+(a) the PBS vehicle approval is subject under subsection (4); and
+(b) the relevant PBS design approval is subject under section 21(5).
+(6) A PBS vehicle approval cannot be given for a class 1 heavy vehicle.
+24—Exemption from stated vehicle standards
+(1) A PBS vehicle approval for a heavy vehicle may provide that the vehicle is exempt from stated vehicle standards.
+(2) Subsection (1) applies only to vehicle standards of a kind prescribed by the national regulations for the purposes of this section.
+Note—
+See section 60(6).
+25—Authorisation of different mass or dimension requirement
+(1) A PBS vehicle approval for a heavy vehicle may provide that the vehicle is authorised to have a mass limit that exceeds a limit that would otherwise apply to the vehicle under a prescribed mass requirement.
+Note—
+See section 96(4).
+(2) A PBS vehicle approval for a heavy vehicle may provide that the vehicle is authorised to have a dimension that exceeds a dimension limit that would otherwise apply to the vehicle under a prescribed dimension requirement.
+Note—
+See section 102(4).
+26—National regulations
+The national regulations may provide for—
+(a) the procedures for determining an application for a PBS design approval or a PBS vehicle approval, including, for example, providing for the time for making a decision on the application, the fee for the application and forms relating to the application; and
+(b) the procedures for cancelling or modifying a PBS design approval or PBS vehicle approval; and
+(c) performance based standards, and assessment and certification rules, relating to PBS design approvals or PBS vehicle approvals; and
+(d) the appointment, functions and management of persons as PBS assessors and PBS vehicle certifiers.
+Chapter 2—Registration
+Note—
+If this Chapter is not to commence at the same time as other provisions of this Law but at a later time, transitional provisions for this jurisdiction relating to and consequential on the delayed commencement are intended to be dealt with by national regulations or by legislation of this jurisdiction.
+Note—
+Chapter 2 had not come into operation at the date of the publication of this version.
+Part 1—Preliminary
+27—Main purpose of Chapter 2
+The main purpose of this Chapter is to establish a scheme for the national registration of heavy vehicles that—
+(a) allows for the registration of heavy vehicles of a standard and in a condition that prevents or minimises safety risks; and
+(b) recognises that unregistered heavy vehicles may be used on roads in particular circumstances without posing significant safety risks; and
+(c) provides for identifying heavy vehicles and the persons responsible for them; and
+(d) ensures compliance with—
+(i) vehicle registration duty legislation; and
+(ii) third party insurance legislation.
+Part 2—Registration scheme
+Division 1—Preliminary
+28—Scheme for registration of heavy vehicles
+(1) The national regulations may prescribe procedures for the registration of heavy vehicles.
+(2) Without limiting subsection (1), the national regulations may prescribe—
+(a) the persons who are eligible to have heavy vehicles registered in their name; and
+(b) the heavy vehicles that are eligible to be registered; and
+(c) the circumstances in which heavy vehicles may be registered without conditions; and
+(d) the circumstances in which heavy vehicles may be registered subject to conditions; and
+(e) the period for which heavy vehicles may be registered; and
+(f) the circumstances in which unregistered heavy vehicle permits may be issued for heavy vehicles, and conditions that may be imposed on the permits; and
+(g) the charges payable for the registration of heavy vehicles, and refunds of part of the charges paid for a heavy vehicle's registration if the registration is surrendered before it expires; and
+(h) requirements about the display of plates and labels on heavy vehicles to identify the vehicles' registration; and
+(i) matters about—
+(i) the renewal of the registration of heavy vehicles; and
+(ii) the transfer or surrender of the registration of heavy vehicles; and
+(iii) the amendment, suspension or cancellation of the registration of heavy vehicles or unregistered heavy vehicle permits for heavy vehicles; and
+(iv) the refusal of the registration or renewal of the registration, or the suspension or cancellation of the registration, of heavy vehicles for—
+(A) noncompliance with requirements of vehicle registration duty legislation or third party insurance legislation of the State or Territory in which a vehicle's garage address is located; or
+(B) not providing adequate proof of compliance with any of the requirements referred to in subsubparagraph (A); and
+(v) without limiting subparagraph (iv), the suspension or cancellation of the registration of heavy vehicles for—
+(A) noncompliance with any of the requirements referred to in that subparagraph if a vehicle's garage address changes during the period of registration; or
+(B) not providing adequate proof of compliance with any of the requirements referred to in subsubparagraph (A); and
+(j) matters about the provision of the Regulator's services to States and Territories, under agreements mentioned in section 658(2)(b), relating to—
+(i) collecting vehicle registration duty; or
+(ii) ensuring compliance with third party insurance legislation, including, for example, by collecting third party insurance premiums.
+29—Registration not evidence of title
+The registration of a heavy vehicle under this Law is not evidence of title to the heavy vehicle.
+Division 2—Requirement for heavy vehicle to be registered
+30—Registration requirement
+(1) A person must not use, or permit to be used, on a road—
+(a) an unregistered heavy vehicle; or
+(b) a heavy vehicle whose registration is suspended under the national regulations.
+Maximum penalty: $10 000.
+(2) Subsection (1) does not apply to the use of an unregistered heavy vehicle on a road if—
+(a) the vehicle is being used under an unregistered heavy vehicle permit; or
+(b) the use of the vehicle on the road is authorised under Division 3.
+Division 3—Authorised use of unregistered heavy vehicle
+31—Purpose of Division 3
+The purpose of this Division is to state, for the purposes of section 30(2)(b), the circumstances in which an unregistered heavy vehicle is authorised to be used on a road.
+32—Unregistered heavy vehicle on journey for obtaining registration
+(1) An unregistered heavy vehicle may be used on a road when—
+(a) any of the following apply:
+(i) it is on a journey to the nearest registration place and is travelling on the most direct and convenient route to the registration place from where the journey began;
+(ii) it is on a journey to the nearest registration place by way of the nearest inspection place to the registration place and is travelling on the most direct and convenient route to the inspection place from where the journey began;
+(iii) it is on a journey to the nearest registration place by way of the nearest inspection place from where the journey began and is travelling on the most direct and convenient route to the registration place from the inspection place; and
+(b) it does not have any goods in it; and
+(c) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
+(2) In this section—
+inspection place means a place where the heavy vehicle can be taken for the purpose of inspecting or weighing the vehicle for registration purposes;
+registration place means a place where the heavy vehicle is required to be taken for the purpose of obtaining registration of the vehicle (whether or not it is also an inspection place).
+33—Unregistered heavy vehicle temporarily in Australia
+(1) An unregistered heavy vehicle may be used on a road if—
+(a) the vehicle—
+(i) is temporarily in Australia; and
+(ii) is registered in a foreign country; and
+(b) the foreign number plates and labels for the vehicle are conspicuously displayed on the vehicle and in the way (if any) required by a law of the foreign country; and
+(c) so far as is reasonably practicable, the vehicle is used in accordance with any conditions of the registration in the foreign country; and
+(d) the driver of the vehicle keeps in the driver's possession proof of an applicable temporary admission carnet; and
+(e) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
+(2) In this section—
+foreign number plates and labels, for a heavy vehicle registered in a foreign country, means the number plates and labels required, under a law of the foreign country, to be displayed on the vehicle if it is used on a road in the foreign country;
+temporary admission carnet means a document that is or is of the same nature as a carnet de passages en douane, relating to the presence in Australia of a heavy vehicle registered in a foreign country.
+34—Unregistered heavy vehicle used for short term only
+(1) An unregistered heavy vehicle may be used on a road if—
+(a) a road authority has, under a law of a participating jurisdiction, authorised the use of the vehicle on the road for short‑term purposes; and
+(b) the short‑term number plates for the vehicle are conspicuously displayed on the vehicle in the way (if any) required under that law; and
+(c) the vehicle is used in accordance with any conditions imposed by the road authority on the authorisation; and
+(d) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
+(2) In this section—
+short‑term number plates, for a heavy vehicle authorised by a road authority to be used on a road as mentioned in subsection (1)(a), means the number plates (usually called 'trade plates') issued by the road authority and required under the law under which the authorisation is given to be displayed on the vehicle if it is used on a road under the authorisation.
+35—Unregistered heavy vehicle used locally only
+(1) An unregistered heavy vehicle may be used on a road if—
+(a) the vehicle is on a journey between 2 parcels of land used solely, or mainly, for primary production and is travelling by the most direct or convenient route between the places; and
+(b) for any one use, the total distance travelled on a road is not more than 500m; and
+(c) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
+(2) In this section—
+primary production means primary production for agriculture or fishing.
+36—Unregistered heavy vehicle that is an agricultural vehicle
+An unregistered heavy vehicle may be used on a road if—
+(a) it is—
+(i) an agricultural implement being towed by—
+(A) an agricultural machine that is registered; or
+(B) another registered heavy vehicle; or
+(ii) an agricultural trailer being towed by—
+(A) an agricultural machine that is being used to perform agricultural tasks for which it was built and is registered; or
+(B) a conditionally registered heavy vehicle; and
+(b) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
+37—Unregistered heavy vehicle being towed
+An unregistered heavy vehicle may be used on a road if—
+(a) it is being lawfully towed by a tow truck; and
+(b) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
+38—Unregistered heavy vehicle to which exemption under Division 4 applies
+An unregistered heavy vehicle may be used on a road if—
+(a) it is of a category of heavy vehicles exempted from the requirement to be registered under Division 4; and
+(b) it complies with, or is being used in compliance with, any applicable conditions referred to in Division 4; and
+(c) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
+39—Driver to carry proof of compliance with third party insurance legislation
+(1) This section applies if use of an unregistered heavy vehicle in any of the circumstances referred to in sections 32 to 38 is dependent on compliance with the requirements of third party insurance legislation applying to the vehicle.
+(2) A person must not use, or permit to be used, the unregistered heavy vehicle on a road in any of those circumstances if the driver does not have in the driver's possession proof that the requirements of third party insurance legislation applying to the vehicle are complied with.
+Maximum penalty: $3 000.
+Division 4—Exemption from requirement to be registered
+Subdivision 1—Exemption by Regulator
+40—Regulator's power to exempt category of heavy vehicles from requirement to be registered
+(1) The Regulator may, by Commonwealth Gazette notice complying with section 44, exempt a category of heavy vehicles from the requirement to be registered, for a period of not more than 1 year.
+(2) An exemption under subsection (1) is a registration exemption.
+41—Restriction on grant of registration exemption
+(1) The Regulator may grant a registration exemption under this Subdivision only if the Regulator is satisfied—
+(a) it is not reasonable to require heavy vehicles of the category to be registered; and
+(b) the use of heavy vehicles of the category on a road without being registered will not pose a significant safety risk.
+(2) In deciding whether to grant a registration exemption, the Regulator must have regard to the approved guidelines for granting registration exemptions.
+42—Conditions of registration exemption
+A registration exemption under this Subdivision may be subject to any conditions the Regulator considers appropriate, including, for example, 1 or more of the following conditions:
+(a) that a heavy vehicle may be used on a road under the exemption only—
+(i) on stated routes; or
+(ii) during stated hours of stated days;
+(b) that the driver of a heavy vehicle who is driving the vehicle on a road under the exemption must keep in the driver's possession—
+(i) a copy of the Commonwealth Gazette notice for the exemption; or
+(ii) an information sheet about the exemption published by the Regulator on the Regulator's website;
+(c) that stated signs or other things must be displayed on a heavy vehicle being used on a road under the exemption.
+43—Period for which registration exemption applies
+A registration exemption under this Subdivision—
+(a) takes effect—
+(i) when the Commonwealth Gazette notice for the exemption is published; or
+(ii) if a later time is stated in the Commonwealth Gazette notice, at the later time; and
+(b) applies for the period stated in the Commonwealth Gazette notice.
+44—Requirements about Commonwealth Gazette notice
+(1) A Commonwealth Gazette notice for a registration exemption under this Subdivision must state the following:
+(a) the category of heavy vehicles to which the exemption applies;
+(b) the conditions of the exemption;
+(c) the period for which the exemption applies.
+(2) The Regulator must publish a copy of the Commonwealth Gazette notice on the Regulator's website.
+45—Amendment or cancellation of registration exemption
+(1) Each of the following is a ground for amending or cancelling a registration exemption granted under this Subdivision:
+(a) the use of heavy vehicles on a road under the exemption has caused, or is likely to cause, a significant safety risk;
+(b) since the exemption was granted, there has been a change in the circumstances that were relevant to the Regulator's decision to grant the exemption and, had the changed circumstances existed when the exemption was granted, the Regulator would not have granted the exemption, or would have granted the exemption subject to conditions or different conditions.
+(2) If the Regulator considers a ground exists to amend or cancel a registration exemption, the Regulator may amend or cancel the exemption by complying with subsections (3) to (5).
+(3) The Regulator must publish a public notice—
+(a) stating that the Regulator believes a ground mentioned in subsection (1)(a) or (b) for amending or cancelling the exemption exists; and
+(b) outlining the facts and circumstances forming the basis for the belief; and
+(c) stating the action the Regulator is proposing to take under this section (the proposed action); and
+(d) inviting persons who will be affected by the proposed action to make, within a stated time of at least 14 days after the Commonwealth Gazette notice is published, written representations about why the proposed action should not be taken.
+(4) If, after considering all written representations made under subsection (3)(d), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the exemption—amend the exemption, including, for example, by imposing additional conditions on the exemption, in a way that is not substantially different from the proposed action; or
+(b) if the proposed action was to cancel the exemption—
+(i) amend the exemption, including, for example, by imposing additional conditions on the exemption; or
+(ii) cancel the exemption.
+(5) The Regulator must publish a public notice of the amendment or cancellation.
+(6) The amendment or cancellation takes effect—
+(a) 28 days after the Commonwealth Gazette notice is published under subsection (5); or
+(b) if a later time is stated in the Commonwealth Gazette notice, at the later time.
+46—Immediate suspension
+(1) This section applies if the Regulator considers it is necessary to suspend a registration exemption granted under this Subdivision immediately to prevent or minimise serious harm to public safety or significant damage to road infrastructure.
+(2) The Regulator may, by public notice, immediately suspend the exemption until the earliest of the following:
+(a) the end of 56 days after the day the public notice is published;
+(b) the Regulator publishes a notice under section 45(5) and the amendment or cancellation takes effect under section 45(6);
+(c) the Regulator cancels the suspension by public notice.
+(4) The suspension, and (where relevant) the cancellation of the suspension, takes effect immediately after the Commonwealth Gazette notice is published under subsection (3).
+(5) This section applies despite section 45.
+Subdivision 2—Exemption by national regulations
+47—National regulations exempting heavy vehicles from requirement to be registered
+(1) The national regulations may provide for the exemption of heavy vehicles from the requirement to be registered.
+(2) An exemption under subsection (1) is a registration exemption.
+(3) Without limiting subsection (1), the national regulations may prescribe matters about—
+(a) the registration exemptions for categories of heavy vehicles; and
+(b) the amendment, suspension or cancellation of registration exemptions; and
+(c) the imposition, amendment or cancellation of the conditions (if any) to which a registration exemption is subject, whether any such condition is stated in, or is of a kind authorised to be made under, the national regulations.
+Part 3—Vehicle register
+48—Vehicle register
+(1) The Regulator must keep a register of heavy vehicles (the vehicle register) that enables the identification of a heavy vehicle used on a road and of the person who is responsible for it.
+(2) The vehicle register must—
+(a) be kept in the way prescribed by the national regulations; and
+(b) contain the particulars prescribed by the national regulations.
+(3) The Regulator may include in the vehicle register other information the Regulator considers reasonable and relevant to the purposes of this Law.
+Part 4—Other provisions relating to registration
+49—Ownership of registration items
+A registration item issued by the Regulator remains the property of the Regulator.
+50—Obtaining registration or registration items by false statements etc
+(1) A person must not attempt to have a heavy vehicle registered, or to have the registration of a heavy vehicle renewed or transferred, or to be issued with an unregistered heavy vehicle permit, under this Law—
+(a) by making a statement or representation the person knows is false or misleading in a material particular; or
+(b) in another dishonest way.
+Maximum penalty: $10 000.
+(2) A person must not, without a reasonable excuse, possess a registration item obtained—
+(a) by making a statement or representation the person knows is false or misleading in a material particular; or
+(b) in another dishonest way.
+Maximum penalty: $10 000.
+(3) The registration of a heavy vehicle is void if a person contravenes subsection (1) in relation to the registration or the renewal or transfer of the registration of the vehicle.
+(4) A registration item is void if a person contravenes subsection (2) in relation to obtaining the item.
+51—Replacement and recovery of certain registration items
+(1) This section applies if the Regulator is reasonably satisfied a registration item (the relevant item) issued by the Regulator for the purposes of this Law is incorrect, is a duplicate, is of poor quality or is difficult to read.
+(2) The Regulator may cancel the relevant item and, if the Regulator considers it is appropriate—
+(a) issue a replacement registration item to the registered operator of the heavy vehicle; or
+(b) by notice, require the registered operator of the heavy vehicle to return the relevant item to the Regulator.
+(3) A person who is given a notice under subsection (2)(b) must comply with the notice, unless the person has a reasonable excuse.
+Maximum penalty: $4 000.
+52—Verification of particular records
+(1) This section applies in relation to a heavy vehicle—
+(a) registered under this Law; or
+(b) the subject of an unregistered heavy vehicle permit.
+(2) The Regulator may, by notice, require a registered operator of the heavy vehicle or the holder of an unregistered heavy vehicle permit for the vehicle—
+(a) to produce documents about, or otherwise verify, a matter about the vehicle included in the vehicle register or other records kept by the Regulator for the purposes of this Law; or
+(b) at a stated reasonable time and place, to—
+(i) present the heavy vehicle for inspection by the Regulator; or
+(ii) personally attend on the Regulator for identification purposes.
+(3) Without limiting subsection (2)(a), the Regulator may require the production of documents or other verification relating to any of the following:
+(a) the identity, description or condition of the heavy vehicle;
+(b) the origin or history of the heavy vehicle;
+(c) the identity and address of the operator of the heavy vehicle;
+(d) the garage address of the heavy vehicle;
+(e) the currency of any compulsory third party insurance required for the heavy vehicle under third party insurance legislation.
+(4) A person given a notice under subsection (2) must comply with the notice, unless the person has a reasonable excuse.
+Maximum penalty: $3 000.
+Part 5—Written‑off and wrecked heavy vehicles
+53—Purpose of Chapter 2 Part 5
+The purpose of this Part is to provide for the collection and recording of information about written‑off or wrecked heavy vehicles to ensure a previously written‑off or wrecked heavy vehicle is registered only if—
+(a) the identity of the vehicle and its operator is certain; and
+(b) the vehicle is safe.
+54—Definitions for Chapter 2 Part 5
+In this Part—
+insurer means a body corporate authorised under the Insurance Act 1973 of the Commonwealth to carry on insurance business;
+wrecked, for a heavy vehicle, means the vehicle is—
+(a) demolished or dismantled; or
+(b) in a state or condition prescribed by the national regulations;
+written‑off, for a heavy vehicle, means the vehicle cannot reasonably be expected to be repaired, including because—
+(a) an insurer has decided the vehicle should not be repaired; or
+(b) the vehicle is in a state or condition prescribed by the national regulations.
+55—Written‑off and wrecked heavy vehicles register
+(1) The Regulator must keep a register of written‑off and wrecked heavy vehicles (the written‑off and wrecked vehicles register).
+(2) The written‑off and wrecked vehicles register must—
+(a) be kept in the way prescribed by the national regulations; and
+(b) contain the particulars prescribed by the national regulations, to the extent the particulars apply, for each heavy vehicle that is written‑off or wrecked.
+(3) The Regulator may include in the written‑off and wrecked vehicles register other information the Regulator considers reasonable and relevant to the purpose of this Part.
+(4) The national regulations may provide for—
+(a) the written‑off and wrecked vehicles register to be kept in a form allowing other entities to make entries in it, and the making of the entries; and
+(b) access to the written‑off and wrecked vehicles register by particular entities, with or without conditions; and
+(c) the giving of information contained in the written‑off and wrecked vehicles register to particular entities, with or without conditions; and
+(d) creating an offence of driving written‑off and wrecked heavy vehicles; and
+(e) notifying the Regulator about written‑off and wrecked heavy vehicles.
+Part 6—Other provisions
+56—Regulator may specify GCM in particular circumstances
+(1) This section applies if—
+(a) under the national regulations, a person applies for—
+(i) the registration or the renewal of the registration of a heavy motor vehicle; or
+(ii) an unregistered heavy vehicle permit for a heavy motor vehicle; and
+(b) the total maximum loaded mass of the heavy motor vehicle and any vehicles it may lawfully tow at any given time—
+(i) is not stated by the heavy motor vehicle's manufacturer on the vehicle's identification plate or another place on the vehicle; or
+(ii) is stated as mentioned in subparagraph (i) but is no longer appropriate because the vehicle has been modified since the total maximum loaded mass was stated as mentioned in subparagraph (i).
+(2) The Regulator may specify the total maximum loaded mass for the heavy motor vehicle and any vehicles it may lawfully tow at any given time for the purposes of this Law.
+Note—
+Under the national regulations—
+(a) if the Regulator registers a heavy motor vehicle, the Regulator must give the registered operator a certificate of registration, and a registration label, for the vehicle stating the vehicle's GCM, and record the vehicle's GCM in the vehicle register; and
+(b) if the Regulator issues an unregistered heavy vehicle permit for a heavy motor vehicle, the permit must state the vehicle's GCM, and the Regulator must record the vehicle's GCM in the vehicle register.
+57—Regulator may specify GVM in particular circumstances
+(1) This section applies if—
+(a) under the national regulations, a person applies for—
+(i) the registration or the renewal of the registration of a heavy vehicle; or
+(ii) an unregistered heavy vehicle permit for a heavy vehicle; and
+(b) either the vehicle does not have an identification plate or the vehicle's maximum loaded mass—
+(i) is not stated on the vehicle's identification plate; or
+(ii) is stated on the vehicle's identification plate but is no longer appropriate because the vehicle has been modified since the maximum loaded mass was stated on the vehicle's identification plate.
+(2) The Regulator may specify the vehicle's maximum loaded mass for the purposes of this Law.
+Note—
+Under the national regulations—
+(a) if the Regulator registers a heavy vehicle, the Regulator must give the registered operator a certificate of registration, and a registration label, for the vehicle stating the vehicle's GVM, and record the vehicle's GVM in the vehicle register; and
+(b) if the Regulator issues an unregistered heavy vehicle permit for a heavy vehicle, the permit must state the vehicle's GVM, and the Regulator must record the vehicle's GVM in the vehicle register.
+Chapter 3—Vehicle operations—standards and safety
+Part 1—Preliminary
+58—Main purpose of Chapter 3
+The main purpose of this Chapter is to ensure heavy vehicles used on roads are of a standard and in a condition that prevents or minimises safety risks.
+Part 2—Compliance with heavy vehicle standards
+Division 1—Requirements
+59—Heavy vehicle standards
+(1) The national regulations may prescribe vehicle standards (heavy vehicle standards) with which heavy vehicles must comply to use roads.
+(2) Without limiting subsection (1), the heavy vehicle standards may include requirements applying to—
+(a) heavy vehicles; or
+(b) components of heavy vehicles, including component vehicles that are not heavy vehicles; or
+(c) equipment of heavy vehicles.
+(3) The national regulations may prescribe exemptions or different requirements for component vehicles that are not heavy vehicles.
+60—Compliance with heavy vehicle standards
+(1) A person must not use, or permit to be used, on a road a heavy vehicle that contravenes a heavy vehicle standard applying to the vehicle.
+Maximum penalty:
+(a) $3 000, except as provided in paragraph (b); or
+(b) $6 000, for contravention of a heavy vehicle standard relating to a speed limiter.
+(2) Subsection (1) does not apply to—
+(a) a heavy vehicle that—
+(i) is on a journey to a place for the repair of the vehicle, or any of its components or equipment, and is travelling on the most direct or convenient route to that place from the place where the journey began; and
+Note for the purposes of subparagraph (i)—
+The subparagraph does not operate to exempt a person from complying with the requirements of a vehicle defect notice applying to the vehicle.
+(ii) does not have any goods in it; and
+(iii) is used on a road in a way that does not pose a safety risk; or
+(b) a heavy vehicle that—
+(i) is on a road for testing or analysis of the vehicle, or any of its components or equipment, by an approved vehicle examiner for the purpose of checking its compliance with the heavy vehicle standards; and
+(ii) does not have any passengers in it; and
+(iii) does not have any goods in it, unless—
+(A) it has a quantity of goods that is necessary or appropriate for the conduct of the testing or analysis; and
+(B) without limiting subparagraph (iv), there are no reasonable grounds to believe the vehicle laden with those goods poses a significant safety risk; and
+(iv) is used on a road in a way that does not pose a safety risk.
+(3) A person does not commit an offence against subsection (1) in relation to a heavy vehicle's noncompliance with a heavy vehicle standard if, and to the extent, the noncompliance relates to a noncompliance known to the Regulator when the vehicle was registered under the national regulations.
+(4) For the purposes of subsection (3), the Regulator is taken to know of a heavy vehicle's noncompliance with a heavy vehicle standard when the vehicle was registered under the national regulations if the noncompliance is mentioned in—
+(a) an operations plate that was installed on the vehicle when it was registered; or
+(b) a certificate of approved operations issued for the vehicle and in force when the vehicle was registered; or
+(c) a document obtained by the Regulator under the national regulations in connection with the registration of the vehicle.
+(5) Subsection (3) applies only if the heavy vehicle, and its use on a road, complies with the conditions of the registration.
+(6) If a PBS vehicle is exempt from vehicle standards stated in its PBS vehicle approval but it complies with the other applicable vehicle standards, the vehicle is regarded for the purposes of this Law as complying with the vehicle standards applying to the vehicle.
+Note—
+See also section 81(4) to (6) for the effect of a vehicle standards exemption on compliance with subsection (1).
+Division 2—Exemptions by Commonwealth Gazette notice
+61—Regulator's power to exempt category of heavy vehicles from compliance with heavy vehicle standard
+(1) The Regulator may, by Commonwealth Gazette notice complying with section 65, exempt, for a period of not more than 5 years, a category of heavy vehicles from the requirement to comply with a heavy vehicle standard.
+(2) An exemption under subsection (1) is a vehicle standards exemption (notice).
+62—Restriction on grant of vehicle standards exemption (notice)
+(1) The Regulator may grant a vehicle standards exemption (notice) for a category of heavy vehicles only if—
+(a) 1 of the following applies:
+(i) the Regulator is satisfied complying with the heavy vehicle standard to which the exemption is to apply would prevent heavy vehicles of that category from operating in the way in which, or for the purpose for which, the vehicles were built or modified;
+(ii) the Regulator is satisfied heavy vehicles of that category are experimental vehicles, prototypes or similar vehicles that could not reasonably be expected to comply with the heavy vehicle standard to which the exemption is to apply;
+(iii) the exemption has been requested by a road authority for a participating jurisdiction for the use of heavy vehicles of that category in that jurisdiction;
+(iv) the category of heavy vehicles consists of heavy vehicles that, immediately before the commencement of this section in a participating jurisdiction, were not required to comply with a similar standard at that time and were—
+(A) registered under an Australian road law of that jurisdiction and not required to comply with a similar standard at that time; or
+(B) operating under an unregistered heavy vehicle permit or exemption from registration (however described) granted or issued under an Australian road law of that jurisdiction;
+(v) the category of heavy vehicles consists of heavy vehicles referred to in the national regulations for the purposes of this subparagraph; and
+(b) the Regulator is satisfied the use of heavy vehicles of the category to which the exemption is to apply on a road under the exemption will not pose a significant safety risk.
+(2) In deciding whether to grant a vehicle standards exemption (notice), the Regulator must have regard to the approved guidelines for granting vehicle standards exemptions.
+(3) The national regulations may prescribe additional requirements or restrictions regarding the granting of a vehicle standards exemption (notice).
+63—Conditions of vehicle standards exemption (notice)
+A vehicle standards exemption (notice) may be subject to any conditions the Regulator considers appropriate, including, for example—
+(a) conditions about protecting road infrastructure from damage; and
+(b) a condition that the driver of a heavy vehicle who is driving the vehicle under the exemption must keep in the driver's possession a copy of—
+(i) the Commonwealth Gazette notice for the exemption; or
+(ii) an information sheet about the exemption published by the Regulator on the Regulator's website.
+64—Period for which vehicle standards exemption (notice) applies
+A vehicle standards exemption (notice)—
+(a) takes effect—
+(i) when the Commonwealth Gazette notice for the exemption is published; or
+(ii) if a later time is stated in the Commonwealth Gazette notice, at the later time; and
+(b) applies for the period stated in the Commonwealth Gazette notice.
+65—Requirements about Commonwealth Gazette notice
+(1) A Commonwealth Gazette notice for a vehicle standards exemption (notice) must state the following:
+(a) the category of heavy vehicles to which the exemption applies;
+(b) the heavy vehicle standard to which the exemption applies;
+(c) the conditions of the exemption;
+(d) the period for which the exemption applies.
+(2) The Regulator must publish a copy of the Commonwealth Gazette notice on the Regulator's website.
+66—Amendment or cancellation of vehicle standards exemption (notice)
+(1) Each of the following is a ground for amending or cancelling a vehicle standards exemption (notice):
+(a) the use of heavy vehicles on a road under the exemption has caused, or is likely to cause, a significant safety risk;
+(b) since the exemption was granted, there has been a change in circumstances that were relevant to the Regulator's decision to grant the exemption and, had the changed circumstances existed when the exemption was granted, the Regulator would not have granted the exemption, or would have granted the exemption subject to conditions or different conditions.
+(2) If the Regulator considers a ground exists to amend or cancel a vehicle standards exemption (notice), the Regulator may amend or cancel the exemption by complying with subsections (3) to (5).
+(3) The Regulator must publish a public notice—
+(a) stating that the Regulator believes a ground mentioned in subsection (1)(a) or (b) for amending or cancelling the exemption exists; and
+(b) outlining the facts and circumstances forming the basis for the belief; and
+(c) stating the action the Regulator is proposing to take under this section (the proposed action); and
+(d) inviting persons who will be affected by the proposed action to make, within a stated time of at least 14 days after the Commonwealth Gazette notice is published, written representations about why the proposed action should not be taken.
+(4) If, after considering all written representations made under subsection (3)(d), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the exemption—amend the exemption, including, for example, by imposing additional conditions on the exemption, in a way that is not substantially different from the proposed action; or
+(b) if the proposed action was to cancel the exemption—
+(i) amend the exemption, including, for example, by imposing additional conditions on the exemption; or
+(ii) cancel the exemption.
+(5) The Regulator must publish a public notice of the amendment or cancellation.
+(6) The amendment or cancellation takes effect—
+(a) 28 days after the Commonwealth Gazette notice is published under subsection (5); or
+(b) if a later time is stated in the Commonwealth Gazette notice, at the later time.
+67—Immediate suspension on Regulator's initiative
+(1) This section applies if the Regulator considers it is necessary to suspend a vehicle standards exemption (notice) immediately to prevent or minimise serious harm to public safety or significant damage to road infrastructure.
+(2) The Regulator may, by public notice, immediately suspend the exemption until the earliest of the following:
+(a) the end of 56 days after the day the public notice is published;
+(b) the Regulator publishes a notice under section 66(5) and the amendment or cancellation takes effect under section 66(6);
+(c) the Regulator cancels the suspension by public notice.
+(4) The suspension, and (where relevant) the cancellation of the suspension, takes effect immediately after the Commonwealth Gazette notice is published under subsection (3).
+(5) This section applies despite section 66.
+Division 3—Exemptions by permit
+68—Regulator's power to exempt particular heavy vehicle from compliance with heavy vehicle standard
+(1) The Regulator may, by giving a person a permit as mentioned in section 73, exempt a heavy vehicle from compliance with a heavy vehicle standard for a period of not more than 3 years.
+(2) An exemption under subsection (1) is a vehicle standards exemption (permit).
+(3) A vehicle standards exemption (permit) may apply to 1 or more heavy vehicles.
+69—Application for vehicle standards exemption (permit)
+(1) A person may apply to the Regulator for a vehicle standards exemption (permit).
+(2) The application must be—
+(a) in the approved form; and
+(b) accompanied by the prescribed fee for the application.
+(3) The Regulator may, by notice given to the applicant for a vehicle standards exemption (permit), require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+70—Restriction on grant of vehicle standards exemption (permit)
+(1) The Regulator may grant a vehicle standards exemption (permit) for a heavy vehicle only if—
+(a) 1 of the following applies:
+(i) the Regulator is satisfied complying with the heavy vehicle standard to which the exemption is to apply would prevent the heavy vehicle from operating in the way in which, or for the purpose for which, the vehicle was built or modified;
+(ii) the Regulator is satisfied the heavy vehicle is an experimental vehicle, prototype or similar vehicle that could not reasonably be expected to comply with the heavy vehicle standard to which the exemption is to apply;
+(iii) the heavy vehicle, immediately before the commencement of this section in a participating jurisdiction, was not required to comply with a similar standard at that time and was—
+(A) registered under an Australian road law of that jurisdiction; or
+(B) operating under an unregistered heavy vehicle permit or exemption from registration (however described) granted or issued under an Australian road law of that jurisdiction; and
+(b) the Regulator is satisfied the use of the heavy vehicle on a road under the exemption will not pose a significant safety risk.
+(2) In deciding whether to grant a vehicle standards exemption (permit), the Regulator must have regard to the approved guidelines for granting vehicle standards exemptions.
+71—Conditions of vehicle standards exemption (permit)
+A vehicle standards exemption (permit) may be subject to any conditions the Regulator considers appropriate, including, for example, a condition about protecting road infrastructure from damage.
+72—Period for which vehicle standards exemption (permit) applies
+(1) A vehicle standards exemption (permit) applies for the period stated in the permit for the exemption.
+(2) The period may be less than the period sought by the applicant for the vehicle standards exemption (permit).
+73—Permit for vehicle standards exemption (permit) etc
+(1) If the Regulator grants a vehicle standards exemption (permit) to a person, the Regulator must give the person—
+(a) a permit for the exemption; and
+(b) if the Regulator has imposed conditions on the exemption under section 71 or has granted the exemption for a period less than the period of not more than 3 years sought by the person—an information notice for the decision to impose the conditions or grant the exemption for the shorter period.
+(2) A permit for a vehicle standards exemption (permit) must state the following:
+(a) the name of the person to whom the permit is given;
+(b) each heavy vehicle to which the exemption applies, including the registration number of the vehicle if known when the permit is given;
+(c) the heavy vehicle standard to which the exemption applies;
+(d) the conditions of the exemption;
+(e) the period for which the exemption applies.
+74—Refusal of application for vehicle standards exemption (permit)
+If the Regulator refuses an application for a vehicle standards exemption (permit), the Regulator must give the applicant an information notice for the decision to refuse the application.
+75—Amendment or cancellation of vehicle standards exemption (permit) on application by permit holder
+(1) The holder of a permit for a vehicle standards exemption (permit) may apply to the Regulator for an amendment or cancellation of the exemption.
+(2) The application must—
+(a) be in the approved form; and
+(b) be accompanied by the prescribed fee for the application; and
+(c) if the application is for an amendment—state clearly the amendment sought and the reasons for the amendment; and
+(d) be accompanied by the permit.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+(4) The Regulator must decide the application as soon as practicable after receiving it.
+(5) If the Regulator decides to grant the application—
+(a) the Regulator must give the applicant notice of the decision; and
+(b) the amendment or cancellation takes effect—
+(i) when notice of the decision is given to the applicant; or
+(ii) if a later time is stated in the notice, at the later time; and
+(c) if the Regulator amended the exemption, the Regulator must give the applicant a replacement permit for the exemption as amended.
+(6) If the Regulator decides not to amend or cancel the exemption as sought by the applicant, the Regulator must—
+(a) give the applicant an information notice for the decision; and
+(b) return the permit for the exemption to the applicant.
+76—Amendment or cancellation of vehicle standards exemption (permit) on Regulator's initiative
+(1) Each of the following is a ground for amending or cancelling a vehicle standards exemption (permit):
+(a) the exemption was granted because of a document or representation that was—
+(i) false or misleading; or
+(ii) obtained or made in an improper way;
+(b) the holder of the permit for the exemption has contravened a condition of the exemption;
+(c) the use of a heavy vehicle on a road under the exemption has caused, or is likely to cause, a significant safety risk;
+(d) since the exemption was granted, there has been change in the circumstances that were relevant to the Regulator's decision to grant the exemption and, had the changed circumstances existed when the exemption was granted, the Regulator would not have granted the exemption, or would have granted the exemption subject to conditions or different conditions.
+(2) If the Regulator considers a ground exists to amend or cancel a vehicle standards exemption (permit) (the proposed action), the Regulator must give the holder of the permit for the exemption a notice—
+(a) stating the proposed action; and
+(b) stating the ground for the proposed action; and
+(c) outlining the facts and circumstances forming the basis for the ground; and
+(d) if the proposed action is to amend the exemption (including a condition of the exemption)—stating the proposed amendment; and
+(e) inviting the holder to make, within a stated time of at least 14 days after the notice is given to the holder, written representations about why the proposed action should not be taken.
+(3) If, after considering all written representations made under subsection (2)(e), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the exemption—amend the exemption, including, for example, by imposing additional conditions on the exemption, in a way that is not substantially different from the proposed action; or
+(b) if the proposed action was to cancel the exemption—
+(i) amend the exemption, including, for example, by imposing additional conditions on the exemption; or
+(ii) cancel the exemption.
+(4) The Regulator must give the holder an information notice for the decision to amend or cancel the exemption.
+(5) The amendment or cancellation takes effect—
+(a) when the information notice is given to the holder; or
+(b) if a later time is stated in the information notice, at the later time.
+77—Immediate suspension on Regulator's initiative
+(1) This section applies if the Regulator considers it is necessary to suspend a vehicle standards exemption (permit) immediately to prevent or minimise serious harm to public safety or significant damage to road infrastructure.
+(2) The Regulator may, by notice (immediate suspension notice) given to the person to whom the permit was given, immediately suspend the exemption until the earliest of the following:
+(a) the Regulator gives the person an information notice under section 76(4) and the amendment or cancellation takes effect under section 76(5);
+(b) the Regulator cancels the suspension;
+(c) the end of 56 days after the day the immediate suspension notice is given to the person.
+(3) This section applies despite sections 75 and 76.
+78—Minor amendment of vehicle standards exemption (permit)
+The Regulator may, by notice given to the holder of a permit for a vehicle standards exemption (permit), amend the exemption in a minor respect—
+(a) for a formal or clerical reason; or
+(b) in another way that does not adversely affect the holder's interests.
+79—Return of permit
+(1) If a person's vehicle standards exemption (permit) is amended or cancelled, the Regulator may, by notice, require the person to return the person's permit for the exemption to the Regulator.
+(2) The person must comply with the notice within 7 days after the notice is given to the person or, if a longer period is stated in the notice, within the longer period.
+Maximum penalty: $4 000.
+(3) If the exemption has been amended, the Regulator must give the person a replacement permit for the exemption as amended.
+80—Replacement of defaced etc permit
+(1) If a person's permit for a vehicle standards exemption (permit) is defaced, destroyed, lost or stolen, the person must, as soon as reasonably practicable after becoming aware of the matter, apply to the Regulator for a replacement permit.
+Maximum penalty: $4 000.
+(2) If the Regulator is satisfied the permit has been defaced, destroyed, lost or stolen, the Regulator must give the person a replacement permit as soon as practicable.
+(3) If the Regulator decides not to give the person a replacement permit, the Regulator must give the person an information notice for the decision.
+(4) Subsection (1) does not apply to a vehicle standards exemption (permit) for which an application to cancel the permit has been made and is pending determination.
+Division 4—Operating under vehicle standards exemption
+81—Contravening condition of vehicle standards exemption
+(1) A person must not contravene a condition of a vehicle standards exemption.
+Maximum penalty: $4 000.
+(2) A person must not use, or permit to be used, on a road a heavy vehicle that contravenes a condition of a vehicle standards exemption applying to the vehicle.
+Maximum penalty: $4 000.
+(3) A person must not use a heavy vehicle, or permit a heavy vehicle to be used, on a road in a way that contravenes a condition of a vehicle standards exemption applying to the vehicle.
+Maximum penalty: $4 000.
+(4) A person does not commit an offence against this Law in relation to a heavy vehicle contravening a heavy vehicle standard if—
+(a) the heavy vehicle is exempt, under a vehicle standards exemption, from compliance with the heavy vehicle standard; and
+(b) the heavy vehicle, and its use on a road, complies with the conditions of the exemption.
+(5) However, if a person commits a condition offence in relation to the exemption—
+(a) the exemption does not operate in the person's favour while the contravention constituting the offence continues; and
+(b) the exemption must be disregarded in deciding whether the person has committed an offence in relation to a contravention of a heavy vehicle standard applying to a heavy vehicle.
+(6) If, because of the operation of subsection (5), a person commits an offence against a provision of this Law (the other offence provision) in relation to a heavy vehicle standard to which the exemption applies, the person—
+(a) may be charged with the condition offence or an offence against the other offence provision; but
+(b) must not be charged with both offences.
+(7) Subsection (1) does not apply to a condition mentioned in section 82(1).
+(8) In this section—
+condition offence means an offence against subsection (1), (2) or (3).
+82—Keeping relevant document while driving under vehicle standards exemption (notice)
+(1) This section applies if a vehicle standards exemption (notice) is subject to the condition that the driver of a heavy vehicle who is driving the vehicle under the exemption must keep a relevant document in the driver's possession.
+(2) A driver of the heavy vehicle who is driving the vehicle under the vehicle standards exemption (notice) must comply with the condition.
+Maximum penalty: $3 000.
+(3) If the driver of a heavy vehicle commits an offence against subsection (2), each relevant party for the driver is taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Divisions 1 and 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
+(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(7) In this section—
+relevant document, for a vehicle standards exemption (notice), means a copy of—
+(a) the Commonwealth Gazette notice for the exemption; or
+(b) an information sheet about the exemption published by the Regulator on the Regulator's website;
+relevant party, for the driver of a heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+83—Keeping copy of permit while driving under vehicle standards exemption (permit)
+(1) The driver of a heavy vehicle who is driving the vehicle under a vehicle standards exemption (permit) must keep a copy of the permit for the exemption in the driver's possession.
+Maximum penalty: $3 000.
+(2) If the driver of a heavy vehicle is driving the vehicle under a vehicle standards exemption (permit) granted to a relevant party for the driver and the relevant party has given the driver a copy of a permit for the purpose of subsection (1), the driver must, as soon as reasonably practicable, return the copy to the relevant party if the driver stops working for the relevant party.
+Maximum penalty: $3 000.
+(3) If the driver of a heavy vehicle commits an offence against subsection (1), each relevant party for the driver is taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
+(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(7) In this section—
+relevant party, for the driver of a heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+Part 3—Modifying heavy vehicles
+84—Definition for Chapter 3 Part 3
+In this Part—
+modification, of a heavy vehicle, means—
+(a) the addition of a component to, or the removal of a component from, the vehicle; or
+(b) a change to the vehicle from the manufacturer's specification for the vehicle,
+but does not include a modification to the vehicle that has been approved under the Motor Vehicle Standards Act 1989 of the Commonwealth.
+85—Modifying of heavy vehicle requires approval
+(1) A person must not modify a heavy vehicle unless the modification has been approved by—
+(a) an approved vehicle examiner under section 86; or
+(b) the Regulator under section 87.
+Maximum penalty: $3 000.
+(2) A person must not use, or permit to be used, on a road a heavy vehicle that has been modified unless the modification has been approved by—
+(a) an approved vehicle examiner under section 86; or
+(b) the Regulator under section 87.
+Maximum penalty: $3 000.
+(3) This section does not apply to a modification that complies with a code of practice prescribed by the national regulations for the purposes of this section, section 86 or 87 that expressly states that a modification of that type does not require approval.
+86—Approval of modifications by approved vehicle examiners
+(1) An approved vehicle examiner may, if authorised to do so under the national regulations, approve a modification of a heavy vehicle if, and only if, the modification complies with a code of practice prescribed by the national regulations for the purposes of this section.
+(2) If an approved vehicle examiner approves a modification of a heavy vehicle, the examiner must—
+(a) give a certificate approving the modification, in the approved form, to—
+(i) the registered operator of the vehicle; or
+(ii) if there is no registered operator of the vehicle—an owner of the vehicle; and
+(b) ensure a plate or label that complies with subsection (3) is fitted or affixed to a conspicuous part of the vehicle.
+Maximum penalty: $3 000.
+(3) For the purposes of subsection (2)(b), a plate or label complies with this subsection if—
+(a) it is of a type approved by the Regulator; and
+(b) it is stamped, engraved or marked so as to display information that relates to the modification and that is—
+(i) approved by the Regulator; or
+(ii) prescribed by the national regulations for the purposes of this section.
+87—Approval of modification by Regulator
+(1) The Regulator may approve a modification of a heavy vehicle if the Regulator is satisfied—
+(a) the use on a road of the modified vehicle will not pose a significant safety risk; and
+(b) as to either or both of the following (as relevant)—
+(i) the modified vehicle will comply with applicable noise and emission standards prescribed by national regulations, except as provided by subparagraph (ii);
+(ii) the Regulator has exempted the modified vehicle from a noise or emission standard referred to in subparagraph (i) and the Regulator is satisfied that the modified vehicle complies with the requirements of the exemption.
+(2) Subsection (1) applies whether or not the modification complies with a code of practice prescribed by the national regulations prescribed for the purposes of this section.
+(3) If the Regulator approves a modification of a heavy vehicle, the Regulator must—
+(a) give a certificate approving the modification, in the approved form, to—
+(i) the registered operator of the vehicle; or
+(ii) if there is no registered operator of the vehicle—an owner of the vehicle; and
+(b) ensure a plate or label that complies with subsection (4) is fitted or affixed to a conspicuous part of the vehicle.
+(4) For the purposes of subsection (3)(b), a plate or label complies with this subsection if—
+(a) it is of a type approved by the Regulator; and
+(b) it is stamped, engraved or marked so as to display information that relates to the modification and that is—
+(i) approved by the Regulator; or
+(ii) prescribed by the national regulations for the purposes of this section.
+87A—Person must not tamper with plate or label
+(1) A person must not tamper with a plate or label fitted or affixed to a heavy vehicle under section 86(2) or 87(3).
+Maximum penalty: $3 000.
+(2) In a proceeding for an offence against subsection (1), it is a defence for the person to prove that the tampering was done with the written approval of the Regulator.
+(3) In this section—
+tamper means alter, damage, remove or otherwise interfere with.
+88—National regulations for heavy vehicle modification
+The national regulations may provide for any matter relating to the modification of heavy vehicles.
+Part 4—Other offences
+89—Safety requirement
+(1) A person must not use, or permit to be used, on a road a heavy vehicle that is unsafe.
+Maximum penalty: $6 000.
+(2) For the purposes of subsection (1), a heavy vehicle is unsafe only if the condition of the vehicle, or any of its components or equipment—
+(a) makes the use of the vehicle unsafe; or
+(b) endangers public safety.
+(3) Subsection (1) does not apply to a heavy vehicle for which a vehicle defect notice is in force and that is being moved in accordance with the terms of the notice.
+90—Requirement about properly operating emission control system
+(1) A person must not use, or permit to be used, on a road a heavy vehicle that is not fitted with an emission control system for each relevant emission if and as required by an applicable heavy vehicle standard.
+Maximum penalty: $3 000.
+(2) A person must not use, or permit to be used, on a road a heavy vehicle fitted with an emission control system that is not operating in accordance with the manufacturer's design.
+Maximum penalty: $3 000.
+(3) A person must not use, or permit to be used, on a road a heavy vehicle fitted with an emission control system if the operation of the system results in a failure to comply with an applicable heavy vehicle standard (whether in relation to the vehicle or in relation to the system).
+Maximum penalty: $3 000.
+(4) Subsections (2) and (3) do not apply to a heavy vehicle that—
+(a) is on a journey to a place for the repair of the emission control system or any of the vehicle's components or equipment that affect the operation of the emission control system; and
+(b) is travelling on the most direct or convenient route to that place from the place where the journey began.
+(5) The national regulations may prescribe testing standards for relevant emissions from heavy vehicles.
+(6) In this section—
+emission control system means a device or system fitted to a heavy vehicle that reduces the emission of a relevant emission from the vehicle.
+91—Person must not tamper with emission control system fitted to heavy vehicle
+(1) A person must not tamper with an emission control system fitted to a heavy vehicle.
+Maximum penalty: $10 000.
+(2) An operator of a heavy vehicle must not use or permit the vehicle to be used on a road if the vehicle is fitted with an emission control system that the operator knows or ought reasonably to know has been tampered with in contravention of subsection (1).
+Maximum penalty: $10 000.
+(3) Subsection (1) does not apply to—
+(a) conduct associated with repairing a malfunctioning emission control system or maintaining an emission control system; or
+(b) an authorised officer when exercising functions under this Law.
+(4) Subsection (2) does not apply to a heavy vehicle that—
+(a) is on a journey to a place for the repair of the emission control system or any of the vehicle's components or equipment that affect the operation of the emission control system; and
+(b) is travelling on the most direct or convenient route to that place from the place where the journey began.
+(5) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(6) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(7) In this section—
+emission control system means a device or system fitted to a heavy vehicle that reduces the emission of a relevant emission from the vehicle;
+tamper, with an emission control system fitted to a heavy vehicle, means alter, damage, remove, override or otherwise interfere with—
+(a) the system in a way that renders the system totally ineffective or less effective than as provided by an applicable heavy vehicle standard or (in the absence of an applicable heavy vehicle standard) as designed; or
+(b) the vehicle or any component of the vehicle in a way that renders the system totally ineffective or less effective than as provided by an applicable heavy vehicle standard or (in the absence of an applicable heavy vehicle standard) as designed.
+92—Display of warning signs required by heavy vehicle standards on vehicles to which the requirement does not apply
+(1) This section applies if, under the heavy vehicle standards, a warning sign is required to be displayed on a heavy vehicle of a particular type, size or configuration.
+(2) A person must not use, or permit to be used, on a road a heavy vehicle that has the warning sign displayed on it unless the vehicle is of the particular type, size or configuration.
+Maximum penalty: $3 000.
+(3) In this section—
+warning sign means a sign indicating that the vehicle to which it is attached is of a particular type, size or configuration.
+Example of warning sign—
+A sign (consisting of 1 or more parts) showing the words "LONG VEHICLE" or "ROAD TRAIN".
+93—Person must not tamper with speed limiter fitted to heavy vehicle
+(1) A person must not tamper with a speed limiter that is required under an Australian road law or by order of an Australian court to be, and is, fitted to a heavy vehicle.
+Maximum penalty: $10 000.
+(2) A person must not fit, or direct the fitting of, a speed limiter to a heavy vehicle in circumstances where the person knows or ought reasonably to know that the speed limiter has been tampered with in such a way that, had it been fitted to the vehicle at the time of the tampering, an offence would have been committed against subsection (1).
+Maximum penalty: $10 000.
+(3) An operator of a heavy vehicle must not use or permit the vehicle to be used on a road if the operator knows, or ought reasonably to know, that a speed limiter fitted to the vehicle, as required under an Australian road law or by order of an Australian court, has been tampered with in contravention of subsection (1) or fitted to the vehicle in contravention of subsection (2).
+Maximum penalty: $10 000.
+(4) Subsections (1) and (2) do not apply to—
+(a) conduct associated with repairing a malfunctioning speed limiter or maintaining a speed limiter; or
+(b) an authorised officer when exercising functions under this Law.
+(5) Subsection (3) does not apply to a heavy vehicle that—
+(a) is on a journey to a place for the repair of the speed limiter or any of the vehicle's components or equipment that affect the operation of the speed limiter; and
+(b) is travelling on the most direct or convenient route to that place from the place where the journey began.
+(6) Subsection (3) applies whether or not a person has been proceeded against or found guilty of an offence against subsection (1) or (2) in relation to the tampering.
+(7) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(8) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(9) In this section—
+speed limiter means a device or system that is used to limit the maximum road speed of a heavy vehicle to which it is fitted and that complies with any applicable heavy vehicle standard;
+tamper, with a speed limiter fitted to a heavy vehicle, means alter, damage, remove, override or otherwise interfere with the speed limiter in a way that—
+(a) enables the vehicle to be driven at a speed higher than the speed permitted by an applicable heavy vehicle standard; or
+(b) alters, or may alter, any information recorded by the speed limiter; or
+(c) results, or may result, in the speed limiter recording inaccurate information.
+Chapter 4—Vehicle operations—mass, dimension and loading
+Part 1—Preliminary
+94—Main purposes of Chapter 4
+(1) The main purposes of this Chapter are—
+(a) to improve public safety by decreasing risks to public safety caused by excessively loaded or excessively large heavy vehicles; and
+(b) to minimise any adverse impact of excessively loaded or excessively large heavy vehicles on road infrastructure or public amenity.
+(2) The purposes are achieved by—
+(a) imposing mass requirements for heavy vehicles, particular components of heavy vehicles, and loads on heavy vehicles; and
+(b) imposing dimension requirements on heavy vehicles including on the vehicles (together with equipment), components or loads; and
+(c) imposing requirements about securing loads on heavy vehicles; and
+(d) restricting access to roads by heavy vehicles of a particular mass, size or configuration even if the vehicles comply with the mass requirements, dimension requirements and other requirements mentioned in paragraphs (a) to (c).
+(3) However, this Chapter recognises that the use of particular heavy vehicles that do not comply with the mass requirements, dimension requirements and other requirements mentioned in subsection (2)(a) to (c) may be permitted on roads in particular circumstances and subject to particular conditions—
+(a) to allow for—
+(i) the efficient road transport of goods or passengers by heavy vehicles; or
+(ii) the efficient use of large heavy vehicles that are transporting neither goods nor passengers and need to use roads for special uses; and
+(b) without compromising the achievement of the purposes.
+Part 2—Mass requirements
+Division 1—Requirements
+95—Prescribed mass requirements
+(1) The national regulations may prescribe requirements (the prescribed mass requirements) about the following:
+(a) the mass of heavy vehicles;
+(b) the mass of components of heavy vehicles.
+(2) Without limiting subsection (1), the prescribed mass requirements may include the following:
+(a) requirements about mass limits relating to—
+(i) the tare mass of heavy vehicles; or
+(ii) the mass of heavy vehicles together with their loads; or
+(iii) the mass on tyres, axles or axle groups of heavy vehicles;
+(b) requirements about mass limits relating to axle spacing.
+(3) Also, without limiting subsection (1) or (2), the prescribed mass requirements may—
+(a) include mass limits that are to apply only to particular areas or routes; and
+(b) authorise or require the Regulator to decide the areas or routes to which the mass limits are to apply.
+(4) The national regulations may prescribe requirements (that are not prescribed mass requirements) about the use on roads of heavy vehicles under particular mass limits, including, for example—
+(a) a requirement that drivers of heavy vehicles using the vehicles under mass limits applying only to particular areas or routes decided by the Regulator must comply with conditions on the use of heavy vehicles on roads under the mass limits imposed by the Regulator (including conditions required by road managers for the roads); and
+(b) a requirement that drivers of heavy vehicles who are driving the vehicles under particular mass limits must carry particular documents; and
+(c) a requirement that a particular document or other thing must be displayed on heavy vehicles used under particular mass limits.
+(5) In this section—
+tare mass, of a heavy vehicle, means the mass of the vehicle that—
+(a) is ready for service; and
+(b) is fitted with all standard equipment, together with any options that are fitted; and
+(c) is unoccupied and unladen; and
+(d) has all fluid reservoirs (other than for fuel) filled to nominal capacity; and
+(e) has 10 litres of fuel in the fuel reservoir or reservoirs (but excluding any loaded fuel in excess of 10 litres).
+96—Compliance with mass requirements
+(1) A person must not drive on a road a heavy vehicle that (together with its load) does not, or whose components do not, comply with the mass requirements applying to the vehicle.
+Maximum penalty:
+(a) for a minor risk breach—$4 000; or
+(b) for a substantial risk breach—$6 000; or
+(c) for a severe risk breach—$10 000, plus an additional maximum $500 for every additional 1% over a 120% overload (but so that the additional maximum penalty does not exceed $20 000).
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(4) If a PBS vehicle is authorised by its PBS vehicle approval to have a mass limit that exceeds a limit that would otherwise apply to the vehicle under a prescribed mass requirement, the authorised limit is taken to be the applicable limit, and the vehicle is regarded for the purposes of this Law as complying with the prescribed mass requirement.
+Division 2—Categories of breaches of mass requirements
+97—Definitions for Division 2
+In this Division—
+severe risk breach lower limit, for a particular mass requirement applying to a heavy vehicle, means a mass equalling 120% of the maximum mass (rounded up to the nearest 0.1t) permitted for the vehicle under that mass requirement;
+substantial risk breach lower limit, for a particular mass requirement applying to a heavy vehicle, means the higher of the following:
+(a) a mass equalling 105% of the maximum mass (rounded up to the nearest 0.1t) permitted for the vehicle under that mass requirement;
+(b) 0.5t.
+98—Minor risk breach
+A contravention of a mass requirement applying to a heavy vehicle is a minor risk breach if the subject matter of the contravention is less than the substantial risk breach lower limit for the requirement.
+99—Substantial risk breach
+A contravention of a mass requirement applying to a heavy vehicle is a substantial risk breach if the subject matter of the contravention is—
+(a) equal to or greater than the substantial risk breach lower limit for the requirement; and
+(b) less than the severe risk breach lower limit for the requirement.
+100—Severe risk breach
+A contravention of a mass requirement applying to a heavy vehicle is a severe risk breach if the subject matter of the contravention is equal to or greater than the severe risk breach lower limit for the requirement.
+Part 3—Dimension requirements
+Division 1—Requirements
+101—Prescribed dimension requirements
+(1) The national regulations may prescribe requirements (the prescribed dimension requirements) about the following:
+(a) the dimensions of a heavy vehicle (together with its equipment);
+(b) the dimensions of a component of a heavy vehicle;
+(c) the dimensions of a heavy vehicle's load.
+(2) Without limiting subsection (1), the prescribed dimension requirements may include requirements about the following:
+(a) the dimensions of a heavy vehicle (together with its equipment) disregarding its load;
+(b) the dimensions of a heavy vehicle together with its equipment and load;
+(c) the dimensions by which a heavy vehicle's load projects from the vehicle;
+(d) the internal measurements of a heavy vehicle, including, for example—
+(i) the distance between components of the vehicle; and
+(ii) for a combination, the distance between—
+(A) the component vehicles of the combination; or
+(B) a component vehicle of the combination and a component of another component vehicle of the combination.
+(3) The national regulations may also prescribe requirements (that are not prescribed dimension requirements) about the use of a vehicle to which a dimension requirement applies, including, for example, requirements about the use of signs and warning devices.
+102—Compliance with dimension requirements
+(1) A person must not drive on a road a heavy vehicle that (together with its load) does not, or whose components do not or whose load does not, comply with the dimension requirements applying to the vehicle.
+Maximum penalty:
+(a) if the heavy vehicle does not have goods or passengers in it—$3 000; or
+(b) if the heavy vehicle has goods or passengers in it—
+(i) for a minor risk breach—$3 000; or
+(ii) for a substantial risk breach—$5 000; or
+(iii) for a severe risk breach—$10 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(4) If a PBS vehicle is authorised by its PBS vehicle approval to have a dimension that exceeds a dimension limit that would otherwise apply to the vehicle under a prescribed dimension requirement, the authorised dimension is taken to be the applicable dimension, and the vehicle is regarded for the purposes of this Law as complying with the prescribed dimension requirement.
+Division 2—Categories of breaches of dimension requirements
+103—Application of Division 2
+This Division applies to a heavy vehicle only while it is carrying goods or passengers.
+104—Definitions for Division 2
+In this Division—
+severe risk breach lower limit means—
+(a) for a particular dimension requirement applying to a heavy vehicle relating to its length—the length equalling the maximum length permitted for the vehicle under the dimension requirement plus 600mm; or
+(b) for a particular dimension requirement applying to a heavy vehicle relating to its width—the width equalling the maximum width permitted for the vehicle under the dimension requirement plus 80mm; or
+(c) for a particular dimension requirement applying to a heavy vehicle relating to its height—the height equalling the maximum height permitted for the vehicle under the dimension requirement plus 300mm; or
+(d) for a particular dimension requirement applying to a heavy vehicle relating to its load projection—the projection of the vehicle's load equalling the maximum load projection permitted from any side of the vehicle under the dimension requirement plus 80mm;
+substantial risk breach lower limit means—
+(a) for a particular dimension requirement applying to a heavy vehicle relating to its length—the length equalling the maximum length permitted for the vehicle under the dimension requirement plus 350mm; or
+(b) for a particular dimension requirement applying to a heavy vehicle relating to its width—the width equalling the maximum width permitted for the vehicle under the dimension requirement plus 40mm; or
+(c) for a particular dimension requirement applying to a heavy vehicle relating to its height—the height equalling the maximum height permitted for the vehicle under the dimension requirement plus 150mm; or
+(d) for a particular dimension requirement applying to a heavy vehicle relating to its load projection—the projection of the vehicle's load equalling the maximum load projection permitted from any side of the vehicle under the dimension requirement plus 40mm.
+105—Minor risk breach
+A contravention of a dimension requirement applying to a heavy vehicle is a minor risk breach if the subject matter of the contravention is less than the substantial risk breach lower limit for the requirement.
+Note—
+See also section 108(2).
+106—Substantial risk breach
+(1) A contravention of a dimension requirement applying to a heavy vehicle is a substantial risk breach if—
+(a) the subject matter of the contravention is—
+(i) equal to or greater than a substantial risk breach lower limit for the requirement; and
+(ii) less than the severe risk breach lower limit for the requirement; or
+(b) the requirement is a substantial risk breach of a dimension requirement under subsection (2) or (3).
+(2) A contravention of a dimension requirement applying to a heavy vehicle relating to its length is a substantial risk breach if—
+(a) the contravention would only be a minor risk breach of the dimension requirement if this subsection were not enacted; and
+(b) either—
+(i) the rear of the vehicle's load does not carry a sign or warning device required by the national regulations; or
+(ii) the vehicle's load projects in a way that is dangerous to persons or property.
+(3) A contravention of a dimension requirement applying to a heavy vehicle relating to its width is a substantial risk breach if—
+(a) the contravention would only be a minor risk breach of the dimension requirement if this subsection were not enacted; and
+(b) the contravention happens—
+(i) at night; or
+(ii) in hazardous weather conditions causing reduced visibility.
+Note—
+See also section 108(3).
+107—Severe risk breach
+(1) A contravention of a dimension requirement applying to a heavy vehicle is a severe risk breach if—
+(a) the subject matter of the contravention is equal to or greater than the severe risk breach lower limit for the dimension requirement; or
+(b) the contravention is a severe risk breach of the dimension requirement under subsection (2) or (3).
+(2) A contravention of a dimension requirement applying to a heavy vehicle relating to its length is a severe risk breach if—
+(a) the contravention would only be a substantial risk breach of the dimension requirement as provided by section 106(1)(a) if this subsection were not enacted; and
+(b) either—
+(i) the rear of the vehicle's load does not carry a sign or warning device required by the national regulations; or
+(ii) the vehicle's load projects from it in a way that is dangerous to persons or property.
+(3) A contravention of a dimension requirement applying to a heavy vehicle relating to its width is a severe risk breach if—
+(a) the contravention would only be a substantial risk breach of the dimension requirement as provided by section 106(1)(a) if this subsection were not enacted; and
+(b) either—
+(i) the contravention happens—
+(A) at night; or
+(B) in hazardous weather conditions causing reduced visibility; or
+(ii) the vehicle's load projects from it in a way that is dangerous to persons or property.
+Division 3—Other provisions relating to load projections
+108—Dangerous projections taken to be contravention of dimension requirement
+(1) This section applies if a heavy vehicle's load projects in a way that is dangerous to persons or property even if all dimension requirements, and all warning and other requirements prescribed by the national regulations, are met.
+(2) The projection of the load is taken to be—
+(a) a contravention of a dimension requirement; and
+(b) a minor risk breach of that requirement unless subsection (3) applies.
+(3) The projection of the load is taken to be—
+(a) a contravention of a dimension requirement; and
+(b) a substantial risk breach of that requirement if the contravention happens—
+(i) at night; or
+(ii) in hazardous weather conditions causing reduced visibility.
+109—Warning signals required for rear projection of loads
+(1) This section applies if—
+(a) a load projects more than 1.2m behind a heavy vehicle consisting of only a motor vehicle; or
+(b) a load projects more than 1.2m behind either the towing vehicle or a trailer in a heavy combination; or
+(c) a load projects from a pole‑type trailer in a heavy combination; or
+(d) a load projects from a heavy vehicle in a way that it would not be readily visible to a person following immediately behind the vehicle.
+(2) A person must not use the heavy vehicle, or permit the heavy vehicle to be used, on a road unless—
+(a) during the daytime—a brightly coloured red, red and yellow, or yellow flag at least 300mm by 300mm is fixed to the extreme back of the load; or
+(b) at night—a light showing a clear red light to the back, visible at a distance of at least 200m, is fixed to the extreme back of the load.
+Maximum penalty: $3 000.
+Part 4—Loading requirements
+Division 1—Requirements
+110—National regulations may prescribe loading requirements
+(1) The national regulations may prescribe requirements (the loading requirements) about securing a load on a heavy vehicle or a component of a heavy vehicle.
+(2) Without limiting subsection (1), the loading requirements may include requirements about the restraint or positioning of a load or any part of it on a motor vehicle or trailer.
+111—Compliance with loading requirements
+(1) A person must not drive on a road a heavy vehicle that does not, or whose load does not, comply with the loading requirements applying to the vehicle.
+Maximum penalty:
+(a) for a minor risk breach—$3 000; or
+(b) for a substantial risk breach—$5 000; or
+(c) for a severe risk breach—$10 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+Division 2—Categories of breaches of loading requirements
+112—Minor risk breach
+A contravention of a loading requirement applying to a heavy vehicle is a minor risk breach if—
+(a) the subject matter of the contravention does not involve a loss or shifting of the load; and
+(b) had the subject matter of the contravention involved a loss or shifting of the load, the loss or shifting of the load would not have been likely to have involved—
+(i) an appreciable safety risk; or
+(ii) an appreciable risk of—
+(A) damage to road infrastructure; or
+(B) causing an adverse effect on public amenity.
+113—Substantial risk breach
+(1) A contravention of a loading requirement applying to a heavy vehicle is a substantial risk breach if the subject matter of the contravention involves a loss or shifting of the load that does not involve—
+(a) an appreciable safety risk; or
+(b) an appreciable risk of—
+(i) damage to road infrastructure; or
+(ii) causing an adverse effect on public amenity.
+(2) A contravention of a loading requirement applying to a heavy vehicle is also a substantial risk breach if—
+(a) the subject matter of the contravention does not involve a loss or shifting of the load; and
+(b) had the subject matter of the contravention involved a loss or shifting of the load, the loss or shifting of the load would have been likely to have involved—
+(i) an appreciable safety risk; or
+(ii) an appreciable risk of—
+(A) damage to road infrastructure; or
+(B) causing an adverse effect on public amenity.
+114—Severe risk breach
+A contravention of a loading requirement applying to a heavy vehicle is a severe risk breach if the subject matter of the contravention involves a loss or shifting of the vehicle's load that involves—
+(a) an appreciable safety risk; or
+(b) an appreciable risk of—
+(i) damage to road infrastructure; or
+(ii) causing an adverse effect on public amenity.
+Division 3—Evidentiary provision
+115—Proof of contravention of loading requirement
+(1) In a proceeding for an offence against Division 1—
+(a) evidence that a load on a heavy vehicle was not placed, secured or restrained in a way that met a performance standard stated in the Load Restraint Guide as in force at the time of the offence is evidence the load was not placed, secured or restrained in compliance with a loading requirement applying to the vehicle; and
+(b) evidence that a load, or part of a load, has fallen off a heavy vehicle is evidence that the load was not properly secured; and
+(c) a court must presume a document purporting to be the Load Restraint Guide as in force at the time of the offence is the Load Restraint Guide as in force at the time of the offence, until the contrary is proved.
+(2) In this section—
+Load Restraint Guide means a document of that name prepared by the National Transport Commission and published in the Commonwealth Gazette, from time to time.
+Note—
+The Load Restraint Guide may be accessed on the National Transport Commission's website at <www.ntc.gov.au>.
+Part 5—Exemptions for particular overmass or oversize vehicles
+Division 1—Preliminary
+116—Class 1 heavy vehicles and class 3 heavy vehicles
+(1) A heavy vehicle is a class 1 heavy vehicle if it, together with its load, does not comply with a prescribed mass requirement or prescribed dimension requirement applying to it, and—
+(a) it is a special purpose vehicle; or
+(b) it is an agricultural vehicle other than an agricultural trailer; or
+Note—
+See subsection (2) for agricultural trailers.
+(c) it—
+(i) is a heavy vehicle carrying, or designed for the purpose of carrying, a large indivisible item, including, for example, a combination including a low loader; but
+(ii) is not a road train or B‑double, or carrying a freight container designed for multi‑modal transport.
+(2) An agricultural trailer is a class 1 heavy vehicle, irrespective of whether it, together with its load, does or does not comply with a prescribed mass requirement or prescribed dimension requirement applying to it.
+(3) A heavy vehicle is a class 3 heavy vehicle if—
+(a) it, together with its load, does not comply with a prescribed mass requirement or prescribed dimension requirement applying to it; and
+(b) it is not a class 1 heavy vehicle.
+(4) In this section—
+concrete pump means a vehicle with a component that can be used to transfer liquid concrete by pumping;
+large indivisible item means an item that—
+(a) cannot be divided without extreme effort, expense or risk of damage to it; and
+(b) cannot be carried on any heavy vehicle without contravening a mass requirement or dimension requirement;
+low loader means a trailer with a loading deck no more than 1m above the ground;
+special purpose vehicle means—
+(a) a motor vehicle or trailer, other than an agricultural vehicle or a tow truck, built for a purpose other than carrying goods; or
+(b) a concrete pump or fire truck.
+Division 2—Exemptions by Commonwealth Gazette notice
+117—Regulator's power to exempt category of class 1 or 3 heavy vehicles from compliance with mass or dimension requirement
+(1) The Regulator may, by Commonwealth Gazette notice complying with section 121, exempt, for a period of not more than 5 years, a stated category of class 1 heavy vehicles or class 3 heavy vehicles from—
+(a) a prescribed mass requirement; or
+(b) a prescribed dimension requirement.
+(2) An exemption under subsection (1) is a mass or dimension exemption (notice).
+Note—
+See Division 3 of Chapter 4 Part 7 in relation to amendment, suspension or cancellation of a mass or dimension exemption (notice).
+118—Restriction on grant of mass or dimension exemption (notice)
+(1) The Regulator may grant a mass or dimension exemption (notice) for a category of heavy vehicles only if—
+(a) the Regulator is satisfied the use of heavy vehicles of that category on a road under the exemption will not pose a significant risk to public safety; and
+(b) each relevant road manager for the exemption has consented to the grant; and
+(c) the Regulator is satisfied all other consents required for the exemption under the law of the relevant jurisdiction have been obtained or given.
+(2) In deciding whether to grant a mass or dimension exemption (notice), the Regulator must have regard to the approved guidelines for granting mass or dimension exemptions.
+119—Conditions of mass or dimension exemption (notice)
+(1) A mass or dimension exemption (notice)—
+(a) must include a condition about the areas or routes to which the exemption applies; and
+(b) is subject to conditions prescribed by the national regulations for the exemption; and
+(c) must be subject to the road conditions or travel conditions required for the exemption; and
+(d) may be subject to any other conditions the Regulator considers appropriate, including, for example—
+(i) conditions about 1 or more matters mentioned in Schedule 2; and
+(ii) without limiting subparagraph (i), intelligent access program conditions; and
+(iii) a condition that the driver of a class 1 heavy vehicle or class 3 heavy vehicle who is driving the vehicle under the exemption must keep in the driver's possession a copy of—
+(A) the Commonwealth Gazette notice for the exemption; or
+(B) an information sheet about the exemption published by the Regulator on the Regulator's website.
+(2) Without limiting subsection (1)(a), the condition under the subsection about areas or routes may be imposed by—
+(a) applying by reference a stated map or stated list, not in the notice, prepared and published by the relevant road authority or the Regulator; and
+(b) referring to the areas or routes shown on the stated map or stated list.
+(3) Without limiting subsection (1)(c), road conditions or travel conditions under the subsection may be imposed by referring to road conditions or travel conditions shown on a stated map or stated list applied under subsection (2)(a).
+(4) If the notice applies a stated map or stated list—
+(a) the Regulator may amend the stated map or stated list prepared and published by it and the relevant road authority may amend the stated map or stated list prepared and published by it, but only by omitting, varying or extending—
+(i) the areas or routes mentioned in subsection (2)(b); or
+(ii) the road conditions or travel conditions mentioned in subsection (3),
+including by adding additional areas, routes, road conditions or travel conditions; and
+(b) the Regulator must ensure a copy of the stated map or stated list as in force from time to time is—
+(i) made available for inspection, without charge, during normal business hours at each office of the Regulator; and
+(ii) published on the Regulator's website or published by way of a reference or link published on the Regulator's website.
+Note—
+The Regulator must publish a stated map or stated list whether the Regulator or a relevant road authority originally prepared and published it as mentioned in subsection (2).
+(5) Despite subsection (4)(a), a road authority may only amend a map or list in a way that affects a particular road if—
+(a) the road authority is the road manager for the road; or
+(b) the road authority is not the road manager for the road and has been advised by the Regulator that the Regulator has obtained the consent of the road manager for the amendment.
+(6) Without limiting the conditions that may be prescribed under subsection (1)(b), the national regulations may—
+(a) prescribe conditions that are to apply only to particular areas or roads; and
+(b) authorise the Regulator to decide the areas or roads to which the conditions are to apply.
+(7) In this section—
+relevant road authority, for a mass or dimension exemption (notice), means the road authority for the participating jurisdiction in which the road likely to be travelled under the exemption is situated;
+road conditions means road conditions required by the relevant road manager under section 160;
+travel conditions means travel conditions required by the relevant road manager under section 161.
+119A—Process for amending a stated map or stated list
+(1) This section applies to the amendment of a stated map or stated list mentioned in section 119.
+(2) For the purpose of an amendment by the Regulator only adding an additional area or route to a stated map or stated list—
+(a) section 118 applies; and
+(b) Division 2 of Chapter 4 Part 7 applies to the extent the Division relates to the grant of a mass or dimension exemption (notice); and
+(c) Division 3 of Chapter 4 Part 7 does not apply.
+(3) For the purpose of subsection (2), section 118 and Division 2 of Chapter 4 Part 7 apply as if—
+(a) a reference to the grant of a mass or dimension exemption (notice) or a mass or dimension authority were a reference to the adding of the additional area or route; and
+(b) a reference to the relevant road manager for a mass or dimension exemption (notice) or a mass or dimension authority were a reference to the relevant road manager for the exemption or authority that applies the stated map or stated list.
+(4) For the purpose of an amendment by the relevant road authority only adding an additional area or route to, or only removing a road condition or travel condition from, a stated map or stated list, section 118 and Chapter 4 Part 7 do not apply.
+(5) For the purpose of an amendment by the Regulator or a relevant road authority if subsections (2) to (4) do not apply, Division 3 of Chapter 4 Part 7 applies to the extent the Division relates to the amendment of a mass or dimension exemption (notice).
+(6) For subsection (5), Division 3 of Chapter 4 Part 7 applies as if—
+(a) a reference to the amendment of a mass or dimension authority were a reference to the amendment of the stated map or stated list; and
+(b) a reference to the Regulator were a reference to the Regulator or the relevant road authority, whichever is amending the stated map or stated list; and
+(c) a reference to the relevant road manager for a mass or dimension authority were a reference to the relevant road manager for the authority that applies the stated map or stated list.
+120—Period for which mass or dimension exemption (notice) applies
+A mass or dimension exemption (notice)—
+(a) takes effect—
+(i) when the Commonwealth Gazette notice for the exemption is published; or
+(ii) if a later time is stated in the Commonwealth Gazette notice, at the later time; and
+(b) applies for the period stated in the Commonwealth Gazette notice.
+121—Requirements about Commonwealth Gazette notice
+(1) A Commonwealth Gazette notice for a mass or dimension exemption (notice) must state the following:
+(a) the category of heavy vehicles to which the exemption applies;
+(b) the mass requirement or dimension requirement to which the exemption applies;
+(c) the areas or routes to which the exemption applies;
+(d) the conditions mentioned in section 119(1)(b), including, for example, by referencing the relevant provision of the national regulations;
+(e) the road conditions or travel conditions required by a relevant road manager for the exemption under section 160 or 161;
+(f) the other conditions of the exemption;
+(g) the period for which the exemption applies.
+(2) The Regulator must publish a copy of the Commonwealth Gazette notice on the Regulator's website.
+Division 3—Exemptions by permit
+122—Regulator's power to exempt particular class 1 or class 3 heavy vehicle from compliance with mass or dimension requirement
+(1) The Regulator may, by giving a person a permit as mentioned in section 127, exempt, for a period of not more than 3 years—
+(a) a class 1 heavy vehicle or class 3 heavy vehicle from compliance with—
+(i) a prescribed mass requirement; or
+(ii) a prescribed dimension requirement; or
+(b) a class 1 heavy vehicle or class 3 heavy vehicle from a requirement relating to the GCM of the vehicle, if subsection (2) applies.
+(2) The Regulator may, under subsection (1), exempt a class 1 heavy vehicle or class 3 heavy vehicle that includes 2 or more prime movers or 2 or more hauling units from compliance with a mass requirement relating to the GCM of the individual prime movers or hauling units if the total GCM of the prime movers or hauling units complies with the mass requirement relating to the GCM of the combined prime movers or hauling units.
+(3) An exemption under subsection (1) is a mass or dimension exemption (permit).
+(4) A mass or dimension exemption (permit) may apply to 1 or more heavy vehicles.
+Note—
+See Division 4 of Chapter 4 Part 7 in relation to amendment, suspension or cancellation of a mass or dimension exemption (permit).
+123—Application for mass or dimension exemption (permit)
+(1) A person may apply to the Regulator for a mass or dimension exemption (permit).
+(2) The application must be—
+(a) in the approved form; and
+(b) accompanied by the prescribed fee for the application.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+124—Restriction on grant of mass or dimension exemption (permit)
+(1) The Regulator may grant a mass or dimension exemption (permit) for a heavy vehicle only if—
+(a) the Regulator is satisfied the use of the heavy vehicle on a road under the exemption will not pose a significant risk to public safety; and
+(b) each relevant road manager for the exemption has consented to the grant; and
+(c) the Regulator is satisfied all other consents required for the exemption under the law of the relevant jurisdiction have been obtained by the applicant or have been otherwise given.
+(2) In deciding whether to grant a mass or dimension exemption (permit), the Regulator must have regard to the approved guidelines for granting mass or dimension exemptions.
+125—Conditions of mass or dimension exemption (permit)
+(1) A mass or dimension exemption (permit)—
+(a) must include a condition about the areas or routes to which the exemption applies; and
+(b) is subject to conditions prescribed by the national regulations for the exemption; and
+(c) must be subject to the road conditions or travel conditions required by a relevant road manager for the exemption under section 160 or 161; and
+(d) may be subject to any other conditions the Regulator considers appropriate, including, for example—
+(i) conditions about 1 or more matters mentioned in Schedule 2; and
+(ii) without limiting subparagraph (i), intelligent access program conditions.
+(2) Without limiting the conditions that may be prescribed under subsection (1)(b), the national regulations may—
+(a) prescribe conditions that are to apply only to particular areas or roads; and
+(b) authorise the Regulator to decide the areas or roads to which the conditions are to apply.
+126—Period for which mass or dimension exemption (permit) applies
+(1) A mass or dimension exemption (permit) applies for the period stated in the permit for the exemption.
+(2) The period may be less than the period sought by the applicant for the mass or dimension exemption (permit).
+127—Permit for mass or dimension exemption (permit) etc
+(1) If the Regulator grants a mass or dimension exemption (permit) to a person, the Regulator must give the person—
+(a) a permit for the exemption; and
+(b) if the Regulator has imposed conditions on the exemption under section 125(1)(a), (c) or (d) or has granted the exemption for a period less than the period of not more than 3 years sought by the person—an information notice for the decision to impose the conditions or grant the exemption for the shorter period.
+Note—
+See sections 164 and 165 for the requirements for an information notice relating to the imposition of a road condition or travel condition at the request of a relevant road manager.
+(2) A permit for a mass or dimension exemption (permit) must state the following:
+(a) the name of the person to whom the permit is given;
+(b) a description of each heavy vehicle to which the exemption applies, including the registration number of the vehicle if it is registered;
+(c) the mass requirement or dimension requirement to which the exemption applies;
+(d) the areas or routes to which the exemption applies;
+(e) the conditions mentioned in section 125(1)(b), including, for example, by referencing the relevant provision of the national regulations;
+(f) the road conditions or travel conditions required by a relevant road manager for the exemption under section 160 or 161;
+(g) the other conditions of the exemption;
+(h) the period for which the exemption applies.
+128—Refusal of application for mass or dimension exemption (permit)
+If the Regulator refuses an application for a mass or dimension exemption (permit), the Regulator must give the applicant an information notice for the decision to refuse the application.
+Note—
+See section 166 for the requirements for an information notice relating to a relevant road manager's decision not to give consent to the grant of a mass or dimension exemption (permit).
+Division 4—Operating under mass or dimension exemption
+129—Contravening condition of mass or dimension exemption generally
+(1) The driver or operator of a heavy vehicle being used on a road under a mass or dimension exemption must not contravene a condition of the exemption.
+Maximum penalty: $6 000.
+(2) A person must not use, or permit to be used, on a road a heavy vehicle that contravenes a condition of a mass or dimension exemption applying to the vehicle.
+Maximum penalty: $6 000.
+(3) A person must not use a heavy vehicle, or permit a heavy vehicle to be used, on a road in a way that contravenes a condition of a mass or dimension exemption applying to the vehicle.
+Maximum penalty: $6 000.
+(4) A person does not commit an offence against this Law in relation to a heavy vehicle contravening a mass requirement or dimension requirement if—
+(a) the vehicle is exempt, under a mass or dimension exemption, from compliance with the mass requirement or dimension requirement; and
+(b) the vehicle, and its use on a road, complies with the conditions of the exemption.
+(5) However, if a person commits a condition offence—
+(a) the exemption does not operate in the person's favour while the contravention constituting the offence continues; and
+(b) the exemption must be disregarded in deciding—
+(i) whether the person has committed an offence in relation to a contravention of a mass requirement or dimension requirement applying to a heavy vehicle; and
+(ii) the risk category for the contravention.
+(6) If, because of the operation of subsection (5), a person commits an offence against a provision of this Law (the other offence provision) in relation to a mass requirement or dimension requirement to which an exemption under this Part applies, the person—
+(a) may be charged with the condition offence or an offence against the other offence provision; but
+(b) must not be charged with both offences.
+(7) Subsection (1) does not apply to a condition mentioned in section 132(1).
+(8) In this section—
+condition offence means an offence against subsection (1), (2) or (3).
+130—Contravening condition of mass or dimension exemption relating to pilot or escort vehicle
+(1) This section applies if a mass or dimension exemption is subject to a condition requiring a heavy vehicle to which the exemption applies to be accompanied by a pilot vehicle or escort vehicle while the heavy vehicle is used on a road.
+(2) The driver of the pilot vehicle or escort vehicle accompanying the heavy vehicle must comply with the conditions of the mass or dimension exemption about the use of the pilot vehicle or escort vehicle.
+Maximum penalty: $6 000.
+(3) If the driver of the pilot vehicle or escort vehicle commits an offence against subsection (2), the operator of the heavy vehicle is taken to have committed an offence against this subsection.
+Maximum penalty: $6 000.
+(4) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
+(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+131—Using pilot vehicle with a heavy vehicle that contravenes certain conditions of mass or dimension exemption
+(1) The driver of a pilot vehicle must ensure the pilot vehicle does not accompany a heavy vehicle to which a mass or dimension exemption applies if the heavy vehicle, or its use on a road, contravenes a condition of the exemption because the heavy vehicle—
+(a) travels on a route not allowed under the exemption; or
+(b) travels at a time other than a time allowed under the exemption; or
+(c) is accompanied by fewer than the number of pilot or escort vehicles required under the exemption.
+Maximum penalty: $6 000.
+(2) If a person is both the driver of a pilot vehicle accompanying a heavy vehicle to which a mass or dimension exemption applies and an operator of the heavy vehicle, the person may, in relation to the heavy vehicle or its use on a road contravening a condition of the exemption of the kind contemplated by subsection (1), be prosecuted under section 129 or subsection (1), but not both.
+132—Keeping relevant document while driving under mass or dimension exemption (notice)
+(1) This section applies if a mass or dimension exemption (notice) is subject to the condition that the driver of a class 1 heavy vehicle or class 3 heavy vehicle who is driving the vehicle under the exemption must keep a relevant document in the driver's possession.
+(2) A driver of the class 1 heavy vehicle or class 3 heavy vehicle who is driving the vehicle under the mass or dimension exemption (notice) must comply with the condition.
+Maximum penalty: $3 000.
+(3) If the driver of a class 1 heavy vehicle or class 3 heavy vehicle commits an offence against subsection (2), each relevant party for the driver is taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
+(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(7) In this section—
+relevant document, for a mass or dimension exemption (notice), means a copy of—
+(a) the Commonwealth Gazette notice for the exemption; or
+(b) an information sheet about the exemption published by the Regulator on the Regulator's website;
+relevant party, for the driver of a class 1 heavy vehicle or class 3 heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+133—Keeping copy of permit while driving under mass or dimension exemption (permit)
+(1) The driver of a class 1 heavy vehicle or class 3 heavy vehicle who is driving the vehicle under a mass or dimension exemption (permit) must keep a copy of the permit for the exemption in the driver's possession.
+Maximum penalty: $3 000.
+(2) If the driver of a class 1 heavy vehicle or class 3 heavy vehicle is driving the vehicle under a mass or dimension exemption (permit) granted to a relevant party for the driver and the relevant party has given the driver a copy of a permit for the purpose of subsection (1), the driver must, as soon as reasonably practicable, return the copy to the relevant party if the driver stops working for the relevant party.
+Maximum penalty: $4 000.
+(3) If the driver of a class 1 heavy vehicle or class 3 heavy vehicle commits an offence against subsection (1), each relevant party for the driver is taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
+(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(7) In this section—
+relevant party, for the driver of a class 1 heavy vehicle or class 3 heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+Division 5—Other provision
+134—Displaying warning signs on vehicles if not required by dimension exemption
+(1) A heavy vehicle warning sign must not be displayed on a heavy vehicle unless it is being used under a dimension exemption.
+Maximum penalty: $3 000.
+(2) A pilot vehicle warning sign must not be displayed on a vehicle unless it is being used as a pilot vehicle for a heavy vehicle being used under a dimension exemption.
+Maximum penalty: $3 000.
+(3) In this section—
+dimension exemption means an exemption under this Part from compliance with a dimension requirement;
+heavy vehicle warning sign means a warning sign required under the national regulations to be attached to a heavy vehicle being used under a dimension exemption;
+pilot vehicle warning sign means a warning sign required under the national regulations to be attached to a vehicle being used as a pilot vehicle for a heavy vehicle being used under a dimension exemption.
+Part 6—Restricting access to roads by large vehicles that are not overmass or oversize vehicles
+Division 1—Preliminary
+135—Main purpose of Part 6
+The main purpose of this Part is to restrict access to roads by heavy vehicles that, while complying with mass requirements and dimension requirements applying to them, may, because of their size—
+(a) endanger public safety; or
+(b) damage road infrastructure; or
+(c) adversely affect public amenity.
+136—Class 2 heavy vehicles
+A heavy vehicle is a class 2 heavy vehicle if—
+(a) it—
+(i) complies with the prescribed mass requirements and prescribed dimension requirements applying to it; and
+(ii) is—
+(A) a B‑double; or
+(B) a road train; or
+(C) a bus, other than an articulated bus, that is longer than 12.5m; or
+(D) a combination designed and built to carry vehicles on more than 1 deck that, together with its load is longer than 19m or higher than 4.3m; or
+(E) a motor vehicle, or a combination, that is higher than 4.3m and is built to carry cattle, sheep, pigs or horses; or
+(b) it is a PBS vehicle.
+Division 2—Restriction
+137—Using class 2 heavy vehicle
+A person must not use a class 2 heavy vehicle, or permit a class 2 heavy vehicle to be used, on a road other than in accordance with a class 2 heavy vehicle authorisation.
+Maximum penalty: $6 000.
+Division 3—Authorisation by Commonwealth Gazette notice
+138—Regulator's power to authorise use of all or stated categories of class 2 heavy vehicles
+(1) The Regulator may, by Commonwealth Gazette notice complying with section 142, authorise, for a period of not more than 5 years, the use of all or stated categories of class 2 heavy vehicles in one or more of the following ways:
+(a) in stated areas or on stated routes;
+(b) during stated hours of stated days;
+(c) in the case of PBS vehicles, in accordance with a stated requirement that the vehicles are operated in accordance with the conditions contained in a PBS vehicle approval.
+(2) An authorisation under subsection (1) is a class 2 heavy vehicle authorisation (notice).
+Note—
+See Division 3 of Chapter 4 Part 7 in relation to amendment, suspension or cancellation of a class 2 heavy vehicle authorisation (notice).
+139—Restriction on grant of class 2 heavy vehicle authorisation (notice)
+(1) The Regulator may grant a class 2 heavy vehicle authorisation (notice) only if—
+(a) the Regulator is satisfied the use of class 2 heavy vehicles, or the stated categories of class 2 heavy vehicles, on a road under the authorisation will not pose a significant risk to public safety; and
+(b) each relevant road manager for the authorisation has consented to the grant; and
+(c) the Regulator is satisfied all other consents required for the authorisation under the law of the relevant jurisdiction have been obtained or given.
+(2) In deciding whether to grant a class 2 heavy vehicle authorisation (notice), the Regulator must have regard to the approved guidelines for granting class 2 heavy vehicle authorisations.
+140—Conditions of class 2 heavy vehicle authorisations (notice)
+A class 2 heavy vehicle authorisation (notice)—
+(a) must be subject to the road conditions or travel conditions required by a road manager for the authorisation under section 160 or 161; and
+Note—
+Under sections 160(1)(b) and (4), a road manager may only require road conditions of a type prescribed by the national regulations.
+(b) may be subject to other conditions the Regulator considers appropriate, including, for example, a condition that the driver of a class 2 heavy vehicle who is driving the vehicle under the authorisation must keep in the driver's possession a copy of—
+(i) the Commonwealth Gazette notice for the authorisation; or
+(ii) an information sheet about the authorisation published by the Regulator on the Regulator's website.
+141—Period for which class 2 heavy vehicle authorisation (notice) applies
+A class 2 heavy vehicle authorisation (notice)—
+(a) takes effect—
+(i) when the Commonwealth Gazette notice for the authorisation is published; or
+(ii) if a later time is stated in the Commonwealth Gazette notice, at the later time; and
+(b) applies for the period stated in the Commonwealth Gazette notice.
+142—Requirements about Commonwealth Gazette notice etc
+(1) A Commonwealth Gazette notice for a class 2 heavy vehicle authorisation (notice) must state the following:
+(a) that the authorisation applies to all class 2 heavy vehicles or, if the authorisation only applies to particular categories of class 2 heavy vehicles, the categories of class 2 heavy vehicles to which the authorisation applies;
+(b) the areas or routes to which the authorisation applies;
+(c) the days and hours to which the authorisation applies;
+(d) any conditions applying to class 2 heavy vehicles being used on a road under the authorisation;
+(e) the period for which the authorisation applies.
+(2) Without limiting subsection (1)(b), the notice may state the areas or routes under the subsection by—
+(a) applying by reference a stated map or stated list, not in the notice, prepared and published by the relevant road authority or the Regulator; and
+(b) referring to the areas or routes shown on the stated map or list.
+(3) Without limiting subsection (1)(d), the notice may state road conditions or travel conditions under the subsection by referring to road conditions or travel conditions shown on a stated map or stated list applied under subsection (2)(a).
+(4) The Regulator must publish a copy of the notice on the Regulator's website.
+(5) If the notice applies a stated map or stated list—
+(a) the Regulator may amend the stated map or stated list prepared and published by it and the relevant road authority may amend the stated map or stated list prepared and published by it, but only by omitting, varying or extending—
+(i) the areas or routes mentioned in subsection (2)(b); or
+(ii) the road conditions or travel conditions mentioned in subsection (3),
+including by adding additional areas, routes, road conditions or travel conditions; and
+(b) the Regulator must ensure a copy of the stated map or stated list as in force from time to time is—
+(i) made available for inspection, without charge, during normal business hours at each office of the Regulator; and
+(ii) published on the Regulator's website or published by way of a reference or link published on the Regulator's website.
+Note—
+The Regulator must publish a stated map or stated list whether the Regulator or a relevant road authority originally prepared and published it as mentioned in subsection (2).
+(6) Despite subsection (5)(a), a road authority may only amend a map or list in a way that affects a particular road if—
+(a) the road authority is the road manager for the road; or
+(b) the road authority is not the road manager for the road and has been advised by the Regulator that the Regulator has obtained the consent of the road manager for the amendment.
+(7) In this section—
+relevant road authority, for a class 2 heavy vehicle authorisation (notice), means the road authority for the participating jurisdiction in which the road likely to be travelled under the authorisation is situated;
+road conditions means road conditions required by the relevant road manager under section 160;
+travel conditions means travel conditions required by the relevant road manager under section 161.
+142A—Process for amending stated map or stated list
+(1) This section applies to the amendment of a stated map or stated list mentioned in section 142.
+(2) For the purpose of an amendment by the Regulator only adding an additional area or route to a stated map or stated list—
+(a) section 139 applies; and
+(b) Division 2 of Chapter 4 Part 7 applies to the extent the Division relates to the grant of a class 2 heavy vehicle authorisation (notice); and
+(c) Division 3 of Chapter 4 Part 7 does not apply.
+(3) For the purpose of subsection (2), section 139 and Division 2 of Chapter 4 Part 7 apply as if—
+(a) a reference to the grant of a class 2 heavy vehicle authorisation (notice) or a mass or dimension authority were a reference to the adding of the additional area or route; and
+(b) a reference to the relevant road manager for a class 2 heavy vehicle authorisation (notice) or a mass or dimension authority were a reference to the relevant road manager for the authorisation or authority that applies the stated map or stated list.
+(4) For the purpose of an amendment by the relevant road authority only adding an additional area or route to, or only removing a road condition or travel condition from, a stated map or stated list, section 139 and Chapter 4 Part 7 do not apply.
+(5) For the purpose of an amendment by the Regulator or a relevant road authority if subsections (2) to (4) do not apply, Division 3 of Chapter 4 Part 7 applies to the extent the Division relates to the amendment of a class 2 heavy vehicle authorisation (notice).
+(6) For the purpose of subsection (5), Division 3 of Chapter 4 Part 7 applies as if—
+(a) a reference to the amendment of a mass or dimension authority were a reference to the amendment of the stated map or stated list; and
+(b) a reference to the Regulator were a reference to the Regulator or the relevant road authority, whichever is amending the stated map or stated list; and
+(c) a reference to the relevant road manager for a mass or dimension authority were a reference to the relevant road manager for the authority that applies the stated map or stated list.
+Division 4—Authorisation by permit
+143—Regulator's power to authorise use of a particular class 2 heavy vehicle
+(1) The Regulator may, by giving a person a permit as mentioned in section 148, authorise, for a period of not more than 3 years, the use of a class 2 heavy vehicle—
+(a) in stated areas or on stated routes; and
+(b) during stated hours of stated days.
+(2) An authorisation under subsection (1) is a class 2 heavy vehicle authorisation (permit).
+(3) A class 2 heavy vehicle authorisation (permit) may apply to 1 or more heavy vehicles.
+Note—
+See Division 4 of Chapter 4 Part 7 in relation to amendment, suspension or cancellation of a class 2 heavy vehicle authorisation (permit).
+144—Application for class 2 heavy vehicle authorisation (permit)
+(1) A person may apply to the Regulator for a class 2 heavy vehicle authorisation (permit).
+(2) The application must be—
+(a) in the approved form; and
+(b) accompanied by the prescribed fee for the application.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+145—Restriction on grant of class 2 heavy vehicle authorisation (permit)
+(1) The Regulator may grant a class 2 heavy vehicle authorisation (permit) for a class 2 heavy vehicle only if—
+(a) the Regulator is satisfied the use of the class 2 heavy vehicle on a road under the authorisation will not pose a significant risk to public safety; and
+(b) each relevant road manager for the authorisation has consented to the grant; and
+(c) the Regulator is satisfied all other consents required for the authorisation under the law of the relevant jurisdiction have been obtained by the applicant or have been otherwise given.
+(2) In deciding whether to grant a class 2 heavy vehicle authorisation (permit), the Regulator must have regard to the approved guidelines for granting class 2 heavy vehicle authorisations.
+146—Conditions of a class 2 heavy vehicle authorisation (permit)
+A class 2 heavy vehicle authorisation (permit)—
+(a) must be subject to the road conditions or travel conditions required by a relevant road manager for the authorisation under section 160 or 161; and
+(b) may be subject to any other conditions the Regulator considers appropriate, including, for example—
+(i) conditions about 1 or more matters mentioned in Schedule 2; and
+(ii) without limiting subparagraph (i), intelligent access program conditions.
+147—Period for which class 2 heavy vehicle authorisation (permit) applies
+(1) A class 2 heavy vehicle authorisation (permit) applies for the period stated in the permit for the authorisation.
+(2) The period may be less than the period sought by the applicant for the class 2 heavy vehicle authorisation (permit).
+148—Permit for class 2 heavy vehicle authorisation (permit) etc
+(1) If the Regulator grants a class 2 heavy vehicle authorisation (permit) to a person, the Regulator must give the person—
+(a) a permit for the authorisation; and
+(b) if the Regulator has imposed conditions on the authorisation under section 146 or has granted the authorisation for a period less than the period of not more than 3 years sought by the person—an information notice for the decision to impose the conditions or grant the authorisation for the shorter period.
+Note—
+See sections 164 and 165 for the requirements for an information notice relating to the imposition of a road condition or travel condition at the request of a relevant road manager.
+(2) A permit for a class 2 heavy vehicle authorisation (permit) must state the following:
+(a) the name and address of the person to whom the permit is given;
+(b) if the authorisation applies to particular categories of class 2 heavy vehicles, the categories of heavy vehicles to which the authorisation applies;
+(c) the areas or routes to which the authorisation applies;
+(d) the days and hours to which the authorisation applies;
+(e) the road conditions or travel conditions required by a relevant road manager for the authorisation under section 160 or 161;
+(f) any other conditions applying to a class 2 heavy vehicle being used on a road under the authorisation;
+(g) the period for which the authorisation applies.
+149—Refusal of application for class 2 heavy vehicle authorisation (permit)
+If the Regulator refuses an application for a class 2 heavy vehicle authorisation (permit), the Regulator must give the applicant an information notice for the decision to refuse the application.
+Note—
+See section 166 for the requirements for an information notice relating to a road manager's decision not to give consent to the grant of a class 2 heavy vehicle authorisation (permit).
+Division 5—Operating under class 2 heavy vehicle authorisation
+150—Contravening condition of class 2 heavy vehicle authorisation
+(1) The driver or operator of a class 2 heavy vehicle being used on a road under a class 2 heavy vehicle authorisation must not contravene a condition of the authorisation.
+Maximum penalty: $6 000.
+(2) Subsection (1) does not apply to a condition mentioned in section 151(1).
+151—Keeping relevant document while driving under class 2 heavy vehicle authorisation (notice)
+(1) This section applies if a class 2 heavy vehicle authorisation (notice) is subject to the condition that the driver of a class 2 heavy vehicle who is driving the vehicle under the authorisation must keep a relevant document in the driver's possession.
+(2) A driver of the class 2 heavy vehicle who is driving the vehicle under the class 2 heavy vehicle authorisation (notice) must comply with the condition.
+Maximum penalty: $3 000.
+(3) If the driver of a class 2 heavy vehicle commits an offence against subsection (2), each relevant party for the driver is taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
+(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(7) In this section—
+relevant document, for a class 2 heavy vehicle authorisation (notice), means a copy of—
+(a) the Commonwealth Gazette notice for the authorisation; or
+(b) an information sheet about the authorisation published by the Regulator on the Regulator's website;
+relevant party, for the driver of a class 2 heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+152—Keeping copy of permit while driving under class 2 heavy vehicle authorisation (permit)
+(1) The driver of a class 2 heavy vehicle who is driving the vehicle under a class 2 heavy vehicle authorisation (permit) must keep a copy of the permit for the authorisation in the driver's possession.
+Maximum penalty: $3 000.
+(2) If the driver of a class 2 heavy vehicle is driving the vehicle under a class 2 heavy vehicle authorisation (permit) granted to a relevant party for the driver and the relevant party has given the driver a copy of a permit for the purpose of subsection (1), the driver must, as soon as reasonably practicable, return the copy to the relevant party if the driver stops working for the relevant party.
+Maximum penalty: $4 000.
+(3) If the driver of a class 2 heavy vehicle commits an offence against subsection (1), each relevant party for the driver is taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
+(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(7) In this section—
+relevant party, for the driver of a class 2 heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+153—Keeping copy of PBS vehicle approval while driving under class 2 heavy vehicle authorisation
+(1) A driver of a class 2 heavy vehicle that is a PBS vehicle who is driving under a class 2 heavy vehicle authorisation must keep a copy of the PBS vehicle approval in the driver's possession.
+Maximum penalty: $3 000.
+(2) If the driver of a class 2 heavy vehicle commits an offence against subsection (1), each relevant party for the driver is taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(5) In a proceeding for an offence against subsection (2)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
+(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(6) In this section—
+relevant party, for the driver of a class 2 heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self-employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+Part 6A—Restricted access vehicles
+153A—Using restricted access vehicle
+(1) A person must not use a restricted access vehicle, or permit a restricted access vehicle to be used, on a road unless the road is one on which the vehicle is allowed to be used under a mass or dimension authority applying to the vehicle.
+Maximum penalty: $6 000.
+(2) In this section—
+restricted access vehicle means a heavy vehicle that (together with its load) is—
+(a) higher than 4.3m; or
+(b) wider than 2.5m; or
+(c) longer than—
+(i) if a single vehicle other than an articulated bus—12.5m; or
+(ii) if an articulated bus—18m; or
+(iii) if a combination—19m.
+(3) This section does not apply to a class 2 heavy vehicle.
+Part 7—Particular provisions about mass or dimension authorities
+Division 1—Preliminary
+154—Definitions for Chapter 4 Part 7
+In this Part—
+road condition—
+(a) means a condition directed at—
+(i) protecting road infrastructure; or
+(ii) preventing or minimising an adverse effect on the community arising from noise, emissions or traffic congestion or from other matters stated in approved guidelines; or
+(iii) preventing or minimising significant risks to public safety arising from heavy vehicle use that is incompatible with road infrastructure or traffic conditions; but
+(b) does not include a condition requiring the installation of equipment or another thing in a vehicle unless the equipment or thing is required to be installed in the vehicle for an intelligent access program condition imposed in connection with a condition directed at the matters mentioned in paragraph (a)(i), (ii) or (iii);
+route assessment, in relation to a mass or dimension authority, means an assessment of the road infrastructure in the areas or on the routes to which the authority is to apply to decide the impact the grant of the authority will have, or is likely to have, on the road infrastructure;
+travel condition means a condition directed at ensuring that access to a stated route or area is limited to either or both of the following:
+(a) stated days or hours (or both);
+(b) travel in a stated direction;
+vehicle condition means a condition directed at ensuring a vehicle can operate safely on roads.
+Division 2—Obtaining consent of relevant road managers
+155—Application of Division 2
+This Division applies in relation to the Regulator obtaining the consent of the road manager for a road for the purpose of granting a mass or dimension authority.
+156—Deciding request for consent generally
+(1) If the Regulator asks a road manager for a road for the road manager's consent to the grant of a mass or dimension authority, the road manager must decide to give or not to give the consent—
+(a) within—
+(i) 28 days after the request is made, unless subparagraph (ii) applies; or
+(ii) if this section applies because the road manager gave the Regulator a notice of objection to the grant under section 167—14 days after giving the notice of objection; or
+(b) within a longer period, of not more than 6 months after the request is made, agreed to by the Regulator.
+Note—
+See, however, sections 159, 167 and 168.
+(2) The road manager may ask for, and the Regulator may agree to, a longer period under subsection (1)(b) only if—
+(a) consultation is required under a law with another entity (including, for example, for the purpose of obtaining that entity's approval to give the consent); or
+(b) the road manager considers a route assessment is necessary for deciding whether to give or not to give the consent; or
+(c) the road manager is the road authority for the participating jurisdiction and considers that a local government authority that is not required under a law to be consulted should nevertheless be consulted before deciding whether to give or not to give the consent.
+(3) The road manager may decide not to give the consent only if the road manager is satisfied—
+(a) the mass or dimension authority will, or is likely to—
+(i) cause damage to road infrastructure; or
+(ii) impose adverse effects on the community arising from noise, emissions or traffic congestion or from other matters stated in approved guidelines; or
+(iii) pose significant risks to public safety arising from heavy vehicle use that is incompatible with road infrastructure or traffic conditions; and
+(b) it is not possible to grant the authority subject to road conditions or travel conditions that will avoid, or significantly minimise—
+(i) the damage or likely damage; or
+(ii) the adverse effects or likely adverse effects; or
+(iii) the significant risks or likely significant risks.
+(4) Also, in deciding whether or not to give the consent, the road manager must have regard to—
+(a) for a mass or dimension exemption—the approved guidelines for granting mass or dimension exemptions; or
+(b) for a class 2 heavy vehicle authorisation—the approved guidelines for granting class 2 heavy vehicle authorisations.
+(5) If the Regulator agrees to a longer period under subsection (1)(b), the Regulator must give the applicant for the mass or dimension authority concerned a written statement of the decision—
+(a) identifying the road manager concerned; and
+(b) indicating the ground on which the road manager asked for a longer period.
+(6) If a relevant road manager for a mass or dimension authority decides not to give consent to the grant of the authority, the relevant road manager must give the Regulator a written statement that explains the road manager's decision and complies with section 172.
+157—Obtaining third party's approval for giving consent for permit
+(1) This section applies if—
+(a) a person (the applicant) applies for a mass or dimension exemption (permit) or class 2 heavy vehicle authorisation (permit); and
+(b) consultation with another entity is required under a law.
+(2) The Regulator must—
+(a) notify the applicant that consultation is required; and
+(b) notify the road manager that the applicant has been notified of the requirement.
+(3) The Regulator must, as far as practicable, give the notifications under subsection (2) concurrently with asking the road manager for the consent.
+158—Action pending consultation with third party
+(1) This section applies if—
+(a) consultation with another entity is required under a law; and
+(b) the road manager does not ask for a longer period under section 156(1)(b) or the Regulator refuses to agree to a longer period asked for under section 156(1)(b).
+(2) If the consultation with the other entity is not yet completed, the road manager must, as far as practicable, deal with the request for consent and decide to give or not to give the consent (even though the consultation with the other entity is not completed).
+(3) If the road manager decides to give the consent even though the consultation with the other entity is not completed, the consent is not operative unless and until—
+(a) the consultation is completed; and
+(b) if the other entity's approval is required, the other entity gives its approval.
+(4) If—
+(a) the consultation with the other entity is completed and the other entity's approval is required; and
+(b) the road manager has not yet decided to give or not to give the consent,
+the road manager may—
+(c) decide not to give the consent, on the ground that the consent would be inoperative; or
+(d) decide to give the consent, but the consent is inoperative without the other entity's approval.
+(5) The Regulator must not grant a mass or dimension authority if—
+(a) consultation is required under a law with another entity; and
+(b) the other entity's approval is required; and
+(c) the other entity has declined to give its approval.
+159—Deciding request for consent if route assessment required
+(1) This section applies if—
+(a) a person (the applicant) applies for a mass or dimension exemption (permit) or class 2 heavy vehicle authorisation (permit); and
+(b) the Regulator asks a road manager for a road for the road manager's consent to the grant of the exemption or authorisation; and
+(c) the road manager considers a route assessment is necessary for deciding whether to give or not to give the consent.
+(2) The road manager may notify the Regulator of the following:
+(a) that a route assessment is required for the road manager deciding whether to give or not to give the consent;
+(b) the fee payable (if any) for the route assessment under a law of the jurisdiction in which the road is situated.
+(3) The Regulator must notify the applicant of the following:
+(a) that a route assessment is required for the road manager deciding whether to give or not to give the consent;
+(b) the fee payable (if any) for the route assessment under a law of the jurisdiction in which the road is situated;
+(c) if a fee is payable for the route assessment under a law of the jurisdiction in which the road is situated, that the road manager may stop considering whether to give or not to give the consent until the fee is paid;
+(d) if, under section 156(1)(b), the Regulator agrees to a longer period for the road manager deciding whether to give or not to give the consent, the longer period agreed by the Regulator.
+(4) If a fee is payable for the route assessment under a law of the jurisdiction in which the road is situated—
+(a) the road manager may stop considering whether to give or not to give the consent until the fee is paid; and
+(b) the period between the day the applicant is given the notification under subsection (3) and the day the fee is paid must not be counted in working out the period taken by the road manager to decide whether to give or not to give the consent.
+(5) If the applicant does not pay the fee for the route assessment within 28 days after the notification is given to the applicant under subsection (3), or a longer period agreed to by the Regulator, the application lapses.
+160—Imposition of road conditions
+(1) A relevant road manager for a mass or dimension authority may consent to the grant of the authority subject to—
+(a) except in the case of a class 2 heavy vehicle authorisation (notice)—the condition that a stated road condition is imposed on the authority; or
+(b) in the case of a class 2 heavy vehicle authorisation (notice)—the condition that a stated road condition of a type prescribed by the national regulations is imposed on the authority.
+(2) If a relevant road manager for a mass or dimension authority consents to the grant of the authority subject to a condition as mentioned in subsection (1)(a)—
+(a) the relevant road manager must give the Regulator a written statement that explains the road manager's decision to give consent to the grant of the authority subject to the condition and complies with section 172; and
+(b) the Regulator must impose the stated road condition on the authority.
+(3) If a relevant road manager for a mass or dimension authority consents to the grant of the authority subject to a condition as mentioned in subsection (1)(b), the Regulator must impose the stated road condition on the authority.
+(4) The national regulations may prescribe road conditions, or kinds of road conditions, for the purposes of subsection (1)(b) and must prescribe the circumstances in which it is appropriate to impose such a condition.
+161—Imposition of travel conditions
+(1) A relevant road manager for a mass or dimension authority may consent to the grant of the authority subject to the condition that a stated travel condition is imposed on the authority.
+(2) If a relevant road manager for a mass or dimension authority consents to the grant of the authority as mentioned in subsection (1)—
+(a) the relevant road manager must give the Regulator a written statement that explains the road manager's decision to give consent to the grant of the authority subject to the condition and complies with section 172; and
+(b) the Regulator must impose the stated travel condition on the authority.
+162—Imposition of vehicle conditions
+(1) A relevant road manager for a mass or dimension authority who gives consent to the grant of the authority may ask the Regulator to impose a stated vehicle condition on the authority.
+(2) If a relevant road manager for a mass or dimension authority makes a request as mentioned in subsection (1), the Regulator must—
+(a) consider the request and decide—
+(i) to impose the stated vehicle condition on the authority (with or without modification); or
+(ii) not to impose the stated vehicle condition on the authority; and
+(b) notify the relevant road manager of the decision under paragraph (a).
+163—Obtaining consent of road authority if particular road manager refuses to give consent
+(1) This section applies if a relevant road manager for a mass or dimension authority—
+(a) is a public authority other than a road authority; and
+(b) either—
+(i) decides not to consent to the grant of the mass or dimension authority; or
+(ii) consents to the grant of the mass or dimension authority subject to the imposition of road conditions or travel conditions the Regulator considers are not necessary to avoid, or significantly minimise—
+(A) damage, or likely damage, to road infrastructure; or
+(B) adverse effects, or likely adverse effects, on the community arising from noise, emissions or traffic congestion or from other matters stated in approved guidelines; or
+(C) significant risks, or likely significant risks, to public safety arising from heavy vehicle use that is incompatible with road infrastructure or traffic conditions.
+(2) The Regulator may ask the relevant road authority to consent to the grant.
+(3) If the Regulator asks the relevant road authority for consent under this section, the road authority must decide to give or not to give the consent—
+(a) within 3 months of the request; or
+(b) within a longer period, of not more than 6 months, agreed to by the Regulator.
+(4) If the relevant road authority gives the consent or gives the consent on the condition that a stated road condition or travel condition is imposed on the mass or dimension authority—
+(a) the decision of the relevant road manager has no effect for the purposes of this Law; and
+(b) to the extent this Law applies in relation to the consent of, or the road conditions or travel conditions required by, the relevant road manager, this Law (other than this section) applies as if a reference in it to the relevant road manager were a reference to the relevant road authority.
+(5) In this section—
+relevant road authority, for a decision of a relevant road manager for a mass or dimension authority, means the road authority for the participating jurisdiction in which the road for which the relevant road manager is a road manager is situated.
+164—Information notice for imposition of road conditions requested by road manager
+(1) This section applies if—
+(a) the Regulator grants a mass or dimension authority by giving a person a permit; and
+(b) the authority is subject to a road condition required by a relevant road manager for the authority when consenting to the grant of the authority.
+(2) The information notice for the decision to impose the condition given to the person under this Law must state the following, in addition to any other information required to be included in the information notice:
+(a) that the road manager consented to the mass or dimension authority on the condition that the road condition is imposed on the authority;
+(b) a written statement that explains the road manager's decision to give the consent on the condition that the road condition be imposed on the authority and complies with section 172;
+(c) the review and appeal information for the road manager's decision to give the consent on the condition that the road condition be imposed on the authority.
+165—Information notice for imposition of travel conditions requested by road manager
+(1) This section applies if—
+(a) the Regulator grants a mass or dimension authority by giving a person a permit; and
+(b) the authority is subject to a travel condition required by a relevant road manager for the authority when consenting to the grant of the authority.
+(2) The information notice for the decision to impose the condition given to the person under this Law must state the following, in addition to any other information required to be included in the information notice—
+(a) that the road manager consented to the mass or dimension authority on the condition that the travel condition is imposed on the authority;
+(b) a written statement that explains the road manager's decision to give the consent on the condition that the travel condition be imposed on the authority and complies with section 172;
+(c) the review and appeal information for the road manager's decision to give the consent on the condition that the travel condition be imposed on the authority.
+166—Information notice for decision to refuse application because road manager did not give consent
+(1) This section applies if an application for a mass or dimension authority is refused, wholly or partly, because a relevant road manager for the authority has refused to consent to the authority.
+(2) The information notice for the decision to refuse the application given to the applicant under this Law must state the following, in addition to any other information required to be included in the information notice:
+(a) that the road manager has refused to consent to the mass or dimension authority;
+(b) a written statement that explains the road manager's decision to refuse to give the consent and complies with section 172;
+(c) the review and appeal information for the road manager's decision to refuse to give the consent.
+167—Expedited procedure for road manager's consent for renewal of mass or dimension authority
+(1) This section applies if—
+(a) the relevant road manager has previously consented to a grant of a mass or dimension authority (the previous authority); and
+(b) the Regulator proposes to grant a mass or dimension authority (the proposed replacement authority) by way of renewal so as to replace the previous authority on its expiry; and
+(c) the Regulator proposes to impose the same conditions on the proposed replacement authority as applied to the previous authority; and
+(d) the Regulator informs the relevant road manager that the Regulator is seeking to obtain the manager's consent in accordance with the procedure under this section (the expedited procedure).
+(2) However, this section does not apply, or ceases to apply, if—
+(a) there are differences between the terms of the previous authority and the terms of the proposed replacement authority, including, for example—
+(i) differences relating to the description of the type of heavy vehicle covered by the proposed replacement authority; and
+(ii) additional, deleted or varied conditions; and
+(iii) the inclusion of additional areas or routes; or
+(b) the relevant road manager gives the Regulator a notice of objection to the application of this section to the proposed replacement authority and that notice of objection is given within the period (the relevant period) of—
+(i) 14 days after the request for consent is made; or
+(ii) 28 days after the request for consent is made if the road manager seeks the extension of time within the initial 14 days; or
+(c) the Regulator gives the relevant road manager a notice that the Regulator withdraws the proposed replacement authority from the expedited procedure; or
+(d) a law of this jurisdiction requires consultation with third parties before the grant of the proposed replacement authority or before access to a particular route or area covered by it is given.
+(3) The road manager is taken to have given the consent at the end of the relevant period to the grant of the proposed replacement authority on the same conditions as applied to the previous authority, unless before the end of that period the road manager gives written notice to the Regulator that the road manager gives or refuses consent.
+168—Operation of section 167
+(1) Sections 156 to 166 do not apply to a request for consent while a proposed replacement authority is being dealt with under the expedited procedure under section 167.
+(2) Those sections apply to the request for consent if section 167 does not apply or ceases to apply, as referred to in section 167(2).
+169—Granting limited consent for trial purposes
+(1) A relevant road manager may give consent to the grant of a mass or dimension authority for a trial period of no more than 3 months specified by the road manager.
+(2) The trial period determines the maximum period for which the mass or dimension authority applies.
+(3) If there is more than one relevant road manager in relation to a proposed mass or dimension authority, the consent of one or more of the road managers is ineffective unless all the road managers give their consent to the same effect.
+170—Renewal of limited consent for trial purposes
+(1) The Regulator must notify each relevant road manager that gave consent under section 169 that the mass or dimension authority concerned will be renewed with effect from the end of the current period of its duration unless action is taken under this section.
+(2) The notification must be given at least one month before the end of the current trial period.
+(3) The Regulator must renew the mass or dimension authority for a further trial period of no more than 3 months, unless the Regulator receives a written objection to its renewal from a relevant road manager within the current trial period.
+(4) The mass or dimension authority is renewable for one or more further trial periods.
+171—Period for which mass or dimension authority applies where limited consent
+(1) This section applies where a mass or dimension exemption is granted under section 169 or 170.
+(2) In the case of a mass or dimension exemption (permit) or a class 2 heavy vehicle authorisation (permit), the period for which the permit applies must not exceed the length of the trial period.
+(3) In the case of a mass or dimension exemption (notice) or a class 2 heavy vehicle authorisation (notice), then, despite section 120 or 141, the period for which the notice applies is so much of the period stated in the Commonwealth Gazette notice referred to in that section as does not exceed the trial period.
+172—Requirements for statement explaining adverse decision of road manager
+(1) This section applies to a written statement explaining a decision of a relevant road manager under this Division—
+(a) not to give consent to the grant of a mass or dimension authority (as referred to in section 156); or
+(b) to consent to the grant of a mass or dimension authority on the condition that—
+(i) a road condition is imposed on the authority (as referred to in section 160); or
+(ii) a travel condition is imposed on the authority (as referred to in section 161).
+(2) The written statement complies with this section if it—
+(a) sets out the findings on material questions of fact, referring to the evidence or other material on which those findings were based and giving the reasons for the road manager's decision; and
+(b) identifies every document or part of a document that is relevant to the road manager's decision and is—
+(i) in the road manager's possession; or
+(ii) under the road manager's control; or
+(iii) otherwise available to the road manager.
+Division 3—Amendment, cancellation or suspension of mass or dimension authority granted by Commonwealth Gazette notice
+173—Amendment or cancellation on Regulator's initiative
+(1) It is a ground for amending or cancelling a mass or dimension authority granted by Commonwealth Gazette notice if the use of heavy vehicles on a road under the authority has caused, or is likely to cause, a significant risk to public safety.
+(2) If the Regulator considers a ground exists to amend or cancel the mass or dimension authority, the Regulator may amend or cancel the authority by complying with subsections (3) to (5).
+(3) The Regulator must publish a public notice—
+(a) stating that the Regulator believes a ground exists to amend or cancel the authority; and
+(b) outlining the facts and circumstances forming the basis for the belief; and
+(c) stating the action the Regulator is proposing to take under this section (the proposed action); and
+(d) inviting persons who will be affected by the proposed action to make, within a stated time of at least 14 days after the Commonwealth Gazette notice is published, written representations about why the proposed action should not be taken.
+(4) If, after considering all written representations made under subsection (3)(d), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the mass or dimension authority—amend the authority in a way that is not substantially different from the proposed action, including, for example, by—
+(i) amending the areas or routes to which the authority applies; or
+(ii) amending the days or hours to which the authority applies; or
+(iii) imposing additional vehicle conditions on the authority; or
+(b) if the proposed action was to cancel the mass or dimension authority—
+(i) amend the authority, including, for example, as mentioned in paragraph (a)(i), (ii) or (iii); or
+(ii) cancel the authority.
+(5) The Regulator must publish a public notice of the amendment or cancellation.
+(6) The amendment or cancellation takes effect—
+(a) 28 days after the Commonwealth Gazette notice is published under subsection (5); or
+(b) if a later time is stated in the Commonwealth Gazette notice, at the later time.
+174—Amendment or cancellation on request by relevant road manager
+(1) This section applies if a relevant road manager for a mass or dimension authority granted by Commonwealth Gazette notice is satisfied the use of heavy vehicles on a road under the authority—
+(a) has caused, or is likely to cause, damage to road infrastructure; or
+(b) has had, or is likely to have, an adverse effect on the community arising from noise, emissions or traffic congestion or from other matters stated in approved guidelines; or
+(c) has posed, or is likely to pose, a significant risk to public safety arising from heavy vehicle use that is incompatible with road infrastructure or traffic conditions.
+(2) The road manager may ask the Regulator to—
+(a) amend the mass or dimension authority by—
+(ia) amending the category of vehicle to which the authority applies; or
+(ib) amending the type of load that may be carried by vehicles to which the authority applies; or
+(i) amending the areas or routes to which the authority applies; or
+(ii) amending the days or hours to which the authority applies; or
+(iii) imposing or amending road conditions or travel conditions; or
+(b) cancel the authority.
+(3) The Regulator must comply with the request.
+(4) However, if consent to the grant of the mass or dimension authority was given by a road authority under section 163—
+(a) the Regulator may refer the request to the road authority; and
+(b) if the road authority gives the Regulator its written approval of the request, the Regulator must comply with the request; and
+(c) if the road authority does not give written approval of the road manager's request within 28 days after the referral is made, the Regulator—
+(i) must not comply with the request; and
+(ii) must notify the road manager that the road authority has not given its written approval of the request and, as a result, the Regulator must not comply with it.
+(5) The Regulator must publish a public notice of the amendment or cancellation.
+(6) The amendment or cancellation takes effect—
+(a) 28 days after the Commonwealth Gazette notice is published under subsection (5); or
+(b) if a later time is stated in the Commonwealth Gazette notice, at the later time.
+175—Immediate suspension
+(1) This section applies if the Regulator considers it is necessary to suspend a mass or dimension authority granted by Commonwealth Gazette notice immediately to prevent or minimise serious harm to public safety or significant damage to road infrastructure.
+(2) The Regulator may, by public notice, immediately suspend the authority until the earliest of the following:
+(a) the end of 56 days after the day the public notice is published;
+(b) the Regulator publishes a notice under section 173(5) or 174(5) and the amendment or cancellation takes effect under section 173(6) or 174(6);
+(c) the Regulator cancels the suspension by public notice.
+(4) The suspension, and (where relevant) the cancellation of the suspension, takes effect immediately after the Commonwealth Gazette notice is published under subsection (3).
+(5) This section applies despite sections 173 and 174.
+175A—Minor amendment
+(1) The Regulator may amend a mass or dimension authority, granted by Commonwealth Gazette notice, in a minor respect—
+(a) for a formal or clerical reason; or
+(b) in another way that does not adversely affect the interests of a person who is operating under the authority.
+(2) The Regulator must publish a public notice of the amendment.
+Division 4—Amendment, cancellation or suspension of mass or dimension authority granted by permit
+176—Amendment or cancellation on application by permit holder
+(1) The holder of a permit for a mass or dimension authority may apply to the Regulator for an amendment or cancellation of the authority.
+(2) The application must—
+(a) be in writing; and
+(b) be accompanied by the prescribed fee for the application; and
+(c) if the application is for an amendment, state clearly the amendment sought and the reasons for the amendment; and
+(d) be accompanied by the permit.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+(4) If the proposed amendment of the mass or dimension authority is—
+(a) to amend the areas or routes to which the authority applies (otherwise than by omitting an area or route or reducing an area or route in size); or
+(b) to impose or amend road conditions or travel conditions,
+then—
+(c) the Regulator must ask the relevant road managers (for the roads to which the amendment relates) for their consent to the amendment; and
+(d) the provisions of Division 2 apply to the request for consent in the same way as they apply to a request for consent under that Division, with the modifications (if any) prescribed by the national regulations and with any necessary modifications.
+(5) The Regulator must decide the application as soon as practicable after receiving it.
+(6) If the Regulator decides to grant the application—
+(a) the Regulator must give the applicant notice of the decision; and
+(b) the amendment or cancellation takes effect—
+(i) when notice of the decision is given to the applicant; or
+(ii) if a later time is stated in the notice, at the later time; and
+(c) if the Regulator amended the authority, the Regulator must give the applicant a replacement permit for the authority as amended; and
+(d) if the authority is amended to change the vehicle to which the authority applies to an equivalent vehicle, the Regulator must give notice of the amendment to the relevant road manager within 28 days after the authority is amended.
+(7) If the Regulator decides not to amend or cancel the mass or dimension authority as sought by the applicant, the Regulator must—
+(a) give the applicant an information notice for the decision; and
+(b) return the permit for the authority to the applicant.
+(8) In this section—
+equivalent vehicle, of another vehicle, means a vehicle that—
+(a) is of the same category as the other vehicle; and
+(b) has mass requirements that are no more than the mass requirements applying to the other vehicle; and
+(c) has dimension requirements that are no more than the dimension requirements applying to the other vehicle; and
+(d) poses no greater public risk than the other vehicle.
+177—Amendment or cancellation on Regulator's initiative
+(1) Each of the following is a ground for amending or cancelling a mass or dimension authority granted by giving a person a permit:
+(a) the authority was granted because of a document or representation that was—
+(i) false or misleading; or
+(ii) obtained or made in an improper way;
+(b) the holder of the permit for the authority has contravened a condition of the authority;
+(c) the use of heavy vehicles on a road under the authority has caused, or is likely to cause, a significant risk to public safety.
+(2) If the Regulator considers a ground exists to amend or cancel a mass or dimension authority granted by giving a person a permit (the proposed action), the Regulator must give the holder of the permit a notice—
+(a) stating the proposed action; and
+(b) stating the ground for the proposed action; and
+(c) outlining the facts and circumstances forming the basis for the ground; and
+(d) if the proposed action is to amend the authority (including a condition of the authority)—stating the proposed amendment; and
+(e) inviting the holder to make, within a stated time of at least 14 days after the notice is given to the holder, written representations about why the proposed action should not be taken.
+(3) If, after considering all written representations made under subsection (2)(e), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the mass or dimension authority—amend the authority in a way that is not substantially different from the proposed action, including, for example, by—
+(i) amending the areas or routes to which the authority applies; or
+(ii) amending the days or hours to which the authority applies; or
+(iii) imposing additional vehicle conditions on the authority; or
+(b) if the proposed action was to cancel the authority—
+(i) amend the authority, including, for example, as mentioned in paragraph (a)(i), (ii) or (iii); or
+(ii) cancel the authority.
+(4) The Regulator must give the holder an information notice for the decision.
+(5) The amendment or cancellation takes effect—
+(a) when the information notice is given to the holder; or
+(b) if a later time is stated in the information notice, at the later time.
+178—Amendment or cancellation on request by relevant road manager
+(1) This section applies if a relevant road manager for a mass or dimension authority granted by giving a person a permit is satisfied the use of heavy vehicles on a road under the authority—
+(a) has caused, or is likely to cause, damage to road infrastructure; or
+(b) has had, or is likely to have, an adverse effect on the community arising from noise, emissions or traffic congestion or from other matters stated in approved guidelines; or
+(c) has posed, or is likely to pose, a significant risk to public safety arising from heavy vehicle use that is incompatible with road infrastructure or traffic conditions.
+(2) The road manager may ask the Regulator to—
+(a) amend the mass or dimension authority, including, for example, by—
+(i) amending the areas or routes to which the authority applies; or
+(ii) amending the days or hours to which the authority applies; or
+(iii) imposing or amending road conditions or travel conditions on the authority; or
+(b) cancel the authority.
+(3) The Regulator must comply with the request.
+(4) However, if consent to the grant of the mass or dimension authority was given by a road authority under section 163—
+(a) the Regulator may refer the request to the road authority; and
+(b) if the road authority gives the Regulator its written approval of the request, the Regulator must comply with the request; and
+(c) if the road authority does not give written approval of the request within 28 days after the referral is made, the Regulator—
+(i) must not comply with the request; and
+(ii) must notify the road manager that the road authority has not given its written approval of the request and, as a result, the Regulator must not comply with it.
+(5) If the mass or dimension authority is amended or cancelled under this section, the Regulator must give the holder of the permit for the authority notice of the amendment or cancellation at least 28 days before the amendment or cancellation is to take effect.
+(6) The notice given to the holder must state—
+(a) the day the amendment or cancellation is to take effect; and
+(b) the reasons given by the road manager for the amendment or cancellation; and
+(c) the review and appeal information for the road manager's decision.
+179—Immediate suspension
+(1) This section applies if the Regulator considers it is necessary to suspend a mass or dimension authority granted by issuing a permit to someone immediately to prevent or minimise serious harm to public safety or significant damage to road infrastructure.
+(2) The Regulator may, by notice (immediate suspension notice) given to the person to whom the permit was given, immediately suspend the authority until the earliest of the following:
+(a) the Regulator gives the person a notice under section 177(4) or 178(5) and the amendment or cancellation takes effect under section 177(5) or 178;
+(b) the Regulator cancels the suspension;
+(c) the end of 56 days after the day the immediate suspension notice is given to the person.
+(3) This section applies despite sections 176, 177 and 178.
+180—Minor amendment of permit for a mass or dimension authority
+(1) The Regulator may, by notice given to the holder of a permit for a mass or dimension authority, amend the authority in a minor respect—
+(a) for a formal or clerical reason; or
+(b) in another way that does not adversely affect the holder's interests.
+(2) The Regulator must give notice of the amendment to the relevant road manager—
+(a) if the authority is amended for a formal or clerical reason—within 28 days after the authority is amended; or
+(b) if the authority is amended in another way—as soon as practicable, but no later than 7 days, after the authority is amended.
+Division 5—Provisions about permits for mass or dimension authorities
+181—Return of permit
+(1) This section applies to a mass or dimension authority granted by giving a person a permit.
+(2) If the mass or dimension authority is amended or cancelled, the Regulator may, by notice, require the person to return the person's permit for the authority to the Regulator.
+(3) The person must comply with the notice within 7 days after the notice is given to the person or, if a longer period is stated in the notice, within the longer period.
+Maximum penalty: $4 000.
+(4) If the mass or dimension authority has been amended, the Regulator must give the person a replacement permit for the authority as amended.
+182—Replacement of defaced etc permit
+(1) If a person's permit for a mass or dimension authority is defaced, destroyed, lost or stolen, the person must, as soon as reasonably practicable after becoming aware of the matter, apply to the Regulator for a replacement permit.
+Maximum penalty: $4 000.
+(2) If the Regulator is satisfied the permit has been defaced, destroyed, lost or stolen, the Regulator must give the person a replacement permit as soon as practicable.
+(3) If the Regulator decides not to give a replacement permit to the person, the Regulator must give the person an information notice for the decision.
+Part 8—Extended liability
+183—Liability of employer etc for contravention of mass, dimension or loading requirement
+(1) This section applies to an offence against section 96, 102 or 111 (a relevant offence).
+(2) If a relevant offence is committed in relation to a heavy vehicle, each of the following persons is taken to have committed an offence against this subsection:
+(a) an employer of the driver of the vehicle if the driver is an employed driver;
+(b) a prime contractor of the driver of the vehicle if the driver is a self‑employed driver;
+(c) an operator of the vehicle or, if it is a combination, an operator of a vehicle in the combination;
+(d) a consignor of any goods for road transport using the vehicle that are in the vehicle;
+(e) a packer of any goods in the vehicle;
+(f) a loading manager for any goods in the vehicle;
+(g) a loader of any goods in the vehicle.
+Maximum penalty for an offence against this subsection: an amount equal to the maximum penalty for the relevant offence.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(5) In a proceeding for an offence against subsection (2)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the relevant offence; and
+(b) evidence a court has convicted the driver of the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+Part 9—Other offences
+Division 1—Towing restriction
+184—Towing restriction
+(1) A person must not drive a heavy motor vehicle towing more than 1 other vehicle.
+Maximum penalty: $3 000.
+(2) Subsection (1) does not apply to a person driving a heavy vehicle—
+(a) under a mass or dimension authority; or
+(b) in circumstances prescribed by the national regulations.
+Division 2—Coupling requirements
+185—Requirements about coupling trailers
+(1) A person commits an offence if—
+(a) the person uses, or permits to be used, on a road a heavy combination; and
+(b) a trailer in the combination is not securely coupled to the vehicle in front of it.
+Maximum penalty: $6 000.
+(2) A person commits an offence if—
+(a) the person uses, or permits to be used, on a road a heavy combination; and
+(b) the components of a coupling used between vehicles in the heavy combination are not compatible with, or properly connected to, each other.
+Maximum penalty: $6 000.
+(3) In this section—
+coupling means a device used to couple a vehicle in a combination to the vehicle in front of it.
+Division 3—Transport documentation
+186—False or misleading transport documentation for goods
+(1) This section applies if goods are consigned for road transport using a heavy vehicle, or for transport partly by road using a heavy vehicle and partly by some other means.
+(2) Each consignor of the goods commits an offence if the transport documentation for the consignment in so far as it relates to the mass, dimension or loading of any or all of the goods is false or misleading in a material particular.
+Maximum penalty: $10 000.
+(3) Each packer of the goods commits an offence if—
+(a) the goods are packed in Australia in a freight container or other container, or in a package or on a pallet, for road transport; and
+(b) the transport documentation for the consignment in so far as it relates to the mass, dimension or loading of any or all of the goods is false or misleading in a material particular.
+Maximum penalty: $10 000.
+(4) Each loading manager, or loader of, the goods commits an offence if—
+(a) the goods are loaded onto a heavy vehicle for road transport; and
+(b) the transport documentation for the consignment in so far as it relates to the mass, dimension or loading of any or all of the goods is false or misleading in a material particular.
+Maximum penalty: $10 000.
+(5) Each receiver of the goods in Australia commits an offence if—
+(a) the goods are packed outside Australia in a freight container or other container, or in a package or on a pallet, for road transport; and
+(b) the transport documentation for the consignment in so far as it relates to the mass, dimension or loading of any or all of the goods is false or misleading in a material particular.
+Maximum penalty: $10 000.
+(6) A person charged with an offence against subsection (2), (3), (4) or (5) does not have the benefit of the mistake of fact defence for the offence.
+(7) However, in a proceeding for an offence against subsection (2), (3), (4) or (5), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(8) In a proceeding for an offence against subsection (2), (3), (4) or (5), it is enough for a charge to state that the transport documentation was 'false or misleading', without specifying whether it was false or whether it was misleading.
+(9) In this section—
+receiver, of goods in Australia, means a person who, other than the person who merely unloads the goods—
+(a) first receives the goods in Australia; or
+(b) unpacks the goods after the goods are first unloaded in Australia.
+187—False or misleading information in container weight declaration
+(1) This section applies in relation to a freight container to be transported by road using a heavy vehicle, or partly by road using a heavy vehicle and partly by some other means.
+(2) The responsible entity for the freight container commits an offence if—
+(a) the responsible entity gives the container to an operator of a heavy vehicle; and
+(b) the container weight declaration for the container contains information that is false or misleading in a material particular.
+Maximum penalty: $10 000.
+(3) An operator of a heavy vehicle commits an offence if—
+(a) the operator arranges for the freight container to be transported by road using the vehicle; and
+(b) the container weight declaration for the container given to the vehicle's driver contains information that is false or misleading in a material particular.
+Maximum penalty: $10 000.
+(4) For the purposes of this section, information in a container weight declaration is not false or misleading merely because it overstates the actual weight of the freight container and its contents.
+(5) A person charged with an offence against subsection (2) or (3) does not have the benefit of the mistake of fact defence for the offence.
+(6) However, in a proceeding for an offence against subsection (2) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(7) In a proceeding for an offence against subsection (2) or (3), it is enough for a charge to state that information contained in the container weight declaration was 'false or misleading', without specifying whether it was false or whether it was misleading.
+Division 4—Other offences about container weight declarations
+188—Application of Division 4
+This Division applies to a freight container consigned for road transport using a heavy vehicle, or for transport partly by road using a heavy vehicle and partly by some other means.
+189—Meaning of complying container weight declaration
+A container weight declaration for a freight container is a complying container weight declaration if—
+(a) it contains the following additional information:
+(i) the number and other particulars of the freight container necessary to identify the container;
+(ii) the name and residential address or business address in Australia of the responsible entity for the freight container;
+(iii) the date the container weight declaration is made; and
+(b) it is written and easily legible.
+190—Duty of responsible entity
+(1) The responsible entity for the freight container must not permit an operator or driver of a heavy vehicle to transport the freight container by road using the vehicle unless the operator or driver has been provided with a complying container weight declaration for the freight container containing information in the form required under section 192A.
+Maximum penalty: $6 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+191—Duty of operator
+(1) An operator of a heavy vehicle must not permit the vehicle's driver to transport the freight container by road using the vehicle unless the driver has been provided with a complying container weight declaration for the freight container containing information in the form required under section 192A.
+Maximum penalty: $6 000.
+(2) If the driver of a heavy vehicle does not have the complying container weight declaration when transporting the freight container by road using the vehicle, an operator of the vehicle is taken to have contravened subsection (1) unless the operator proves that the driver was provided with the declaration before the driver started transporting the freight container.
+(3) If the freight container is to be transported by another carrier, an operator of a heavy vehicle must not give the freight container to the carrier unless the carrier has been provided with—
+(a) a complying container weight declaration for the freight container containing information in the form required under section 192A; or
+(b) the prescribed particulars contained in a complying container weight declaration for the freight container.
+Maximum penalty: $6 000.
+(4) A person charged with an offence against subsection (1) or (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (1) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In this section—
+another carrier means another operator of a heavy vehicle or another person who is to transport the freight container other than by road;
+prescribed particulars, contained in a complying container weight declaration for a freight container, means—
+(a) information about the weight of the freight container and its contents; and
+(b) the information mentioned in section 189(a).
+192—Duty of driver
+(1) A person must not drive a heavy vehicle loaded with the freight container on a road unless the person has a complying container weight declaration for the container.
+Maximum penalty: $6 000.
+(2) The driver of a heavy vehicle loaded with the freight container must, when driving the vehicle on a road, keep the complying container weight declaration for the container—
+(a) in or about the vehicle; and
+(b) in a way that ensures information in the declaration is in the form required under section 192A.
+Maximum penalty: $3 000.
+(3) A person charged with an offence against subsection (1) or (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (1) or (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+192A—Form of information in container weight declaration
+(1) This section applies for the purposes of sections 190(1), 191(1) and (3)(a) and 192(2)(b).
+(2) The responsible entity, operator or driver must ensure the information in the container weight declaration is in a form readily available to an authorised officer who seeks to ascertain it while in the presence of the freight container, including, for example, by—
+(a) examining documents located in the heavy vehicle on which the freight container is loaded or to be loaded; or
+(b) obtaining information by radio or mobile telephone or by other means.
+Division 5—Other offences
+193—Weight of freight container exceeding weight stated on container or safety approval plate
+(1) This section applies if a freight container contains goods consigned for road transport using a heavy vehicle, or for transport partly by road using a heavy vehicle and partly by some other means.
+(2) Each consignor or packer of the goods commits an offence if the weight of the container exceeds the maximum gross weight marked on the container or the container's safety approval plate.
+Maximum penalty: $10 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(5) In this section—
+safety approval plate, for a freight container, means the safety approval plate required to be attached to the container under the International Convention for Safe Containers set out in Schedule 5 of the Navigation Act 1912 of the Commonwealth.
+194—Conduct of consignee resulting or potentially resulting in contravention of mass, dimension or loading requirement
+(1) A person who is a consignee of goods consigned for road transport using a heavy vehicle commits an offence if—
+(a) the person does an act or makes an omission; and
+(b) the doing of the act or making of the omission results, or is likely to result, in inducing or rewarding a contravention of a mass, dimension or loading requirement; and
+(c) the person—
+(i) intends that result; or
+(ii) is reckless or negligent as to the matter mentioned in paragraph (b).
+Maximum penalty: $10 000.
+(2) Without limiting subsection (1)(c)(i), the person is taken to have intended the result mentioned in subsection (1)(b) if the person knew or ought reasonably to have known that—
+(a) a container weight declaration for the container in which the goods were consigned was not given as required by this Law; or
+(b) a container weight declaration given for the container contained information about the weight of the container and its contents that was false or misleading in a material particular.
+Part 10—Other provisions
+195—Conflicting mass requirements
+(1) This section applies if 2 or more conflicting mass requirements apply to a heavy vehicle.
+(2) Of the conflicting requirements, the requirement imposing the lower or lowest mass limit applies to the heavy vehicle and the other requirement or requirements must be disregarded to the extent of the conflict.
+196—Conflicting dimension requirements
+(1) This section applies if 2 or more conflicting dimension requirements apply to a heavy vehicle.
+(2) Of the conflicting requirements, the requirement imposing the more or most restrictive dimension limit applies to the heavy vehicle and the other requirement or requirements must be disregarded to the extent of the conflict.
+197—Exemption from compliance with particular requirements in emergency
+(1) The Regulator may, orally or in writing, exempt a heavy vehicle, or the driver or operator of a heavy vehicle, from a prescribed requirement if the Regulator is satisfied—
+(a) the vehicle is being used, or is intended to be used, in an emergency, including, for example, a fire, explosion or natural disaster—
+(i) to protect life or property; or
+(ii) to restore communication or the supply of energy or water or services, including, for example, sewage disposal; and
+(b) granting the exemption will not create an unreasonable danger to other road users.
+(2) An exemption granted under subsection (1) may be subject to conditions the Regulator considers appropriate.
+(3) If an exemption is granted orally under subsection (1), the Regulator must, as soon as practicable—
+(a) make a written record of the exemption and any conditions to which it is subject; and
+(b) give a copy of the written record to an operator of the heavy vehicle to which it relates.
+(4) An exemption under this section has effect only while the conditions, if any, to which it is subject are complied with.
+(5) The Regulator is to notify the relevant road authority of the grant of an exemption under subsection (1) as soon as practicable after it is granted.
+(6) In this section—
+prescribed requirement means—
+(a) a mass requirement; or
+(b) a dimension requirement; or
+(c) a requirement under Chapter 4 Part 5, including, for example, a requirement to comply with a condition of an exemption under that Part; or
+(d) a requirement under Chapter 4 Part 6, including, for example, a requirement to comply with a condition of an authorisation under that Part;
+relevant road authority, for an exemption granted under subsection (1), means the road authority for the participating jurisdiction in which the road likely to be travelled under the exemption is situated.
+198—Recovery of losses arising from non‑provision of container weight declaration
+(1) This section applies if the driver of a heavy vehicle transporting a freight container by road using the vehicle has not been provided with a container weight declaration for the freight container before starting to transport the freight container.
+(2) A person who has incurred a loss as a result of the declaration not being provided (the plaintiff) has a right to recover the loss from the responsible entity for the freight container.
+(3) For the purposes of subsection (2), the losses that may be recovered include the following:
+(a) loss incurred from delays in the delivery of the freight container, any of its contents or any other goods;
+(b) loss incurred from the damage to or spoliation of anything contained in the freight container;
+(c) loss incurred from providing another heavy vehicle, and loss incurred from delays arising from providing another heavy vehicle;
+(d) costs or expenses incurred for weighing the freight container or any of its contents.
+(4) The plaintiff may enforce the plaintiff's right to recovery under subsection (2) by bringing a proceeding in a court of competent jurisdiction for an order for payment of the monetary value of the loss.
+199—Recovery of losses for provision of inaccurate container weight declaration
+(1) This section applies if—
+(a) an operator or driver of a heavy vehicle transporting a freight container by road using the vehicle has been provided with a container weight declaration for the freight container; and
+(b) the declaration contains information (the false or misleading information) that is false or misleading in a material particular because it—
+(i) understates the weight of the container; or
+(ii) otherwise indicates the weight of the container is lower than its actual weight; and
+(c) a contravention of a mass requirement applying to the heavy vehicle occurs as a result of the operator or driver relying on the false or misleading information; and
+(d) at the relevant time, the operator or driver either—
+(i) had a reasonable belief the vehicle was not in contravention of the mass requirement; or
+(ii) did not know, and ought not reasonably to have known, that the minimum weight stated in the declaration was lower than the actual weight of the container.
+(2) A person who has incurred a loss as a result of the declaration containing the false or misleading information (the plaintiff) has a right to recover the loss from the responsible entity for the freight container.
+(3) For the purposes of subsection (2), the losses that may be recovered include the following:
+(a) the amount of a fine or other penalty imposed on the plaintiff for an offence against this Law;
+(b) the amount of a fine or other penalty imposed on an employee or agent of the plaintiff for an offence against this Law and reimbursed by the plaintiff;
+(c) loss incurred from delays in the delivery of the freight container, any of its contents, or any other goods;
+(d) loss incurred from the damage to or spoliation of anything contained in the freight container;
+(e) loss incurred from providing another heavy vehicle, and loss incurred from delays arising from providing another heavy vehicle;
+(f) costs or expenses incurred for weighing the freight container or any of its contents.
+(4) The plaintiff may enforce the plaintiff's right to recovery under subsection (2) by bringing a proceeding in a court of competent jurisdiction for an order for payment of the monetary value of the loss.
+200—Recovery by responsible entity of amount paid under section 199
+(1) This section applies if, under section 199, a person brings a proceeding (a recovery proceeding) in a court for an order that the responsible entity for a freight container pay the person an amount for loss incurred by the person as a result of the container weight declaration for the freight container containing false or misleading information mentioned in section 199(1)(b).
+(2) The responsible entity has a right to recover from a person (the information provider) who provided the responsible entity with all or part of the false or misleading information the part of the amount (the attributable amount) attributable to the information provided by the information provider.
+(3) The responsible entity may enforce the entity's right to recovery under subsection (2) by—
+(a) if the recovery proceeding has not been decided—joining the information provider in the proceeding and applying to the court for an order that the information provider pay the attributable amount to the responsible entity if an order is made under section 199(4); or
+(b) if the recovery proceeding has been decided—bringing a proceeding in a court of competent jurisdiction for an order that the information provider pay the attributable amount to the responsible entity.
+201—Assessment of monetary value or attributable amount
+(1) The court may assess the monetary value of a loss recoverable under section 198(2) or 199(2), or the attributable amount recoverable under section 200(2), in the way it considers appropriate.
+(2) In making the assessment, the court may have regard to the matters it considers appropriate, including any evidence adduced in a proceeding for an offence against this Law.
+Chapter 5—Vehicle operations—speeding
+Part 1—Preliminary
+202—Main purpose of Chapter 5
+The main purpose of this Chapter is to improve public safety and compliance with Australian road laws by imposing responsibility for speeding by heavy vehicles on persons whose business activities influence the conduct of the drivers of heavy vehicles.
+203—Outline of the main features of Chapter 5
+This Chapter—
+(a) requires persons who are most directly responsible for the use of a heavy vehicle to take reasonable steps to ensure their activities do not cause the vehicle's driver to exceed speed limits; and
+(b) requires anyone who schedules the activities of a heavy vehicle, or its driver, to take reasonable steps to ensure the schedule for the vehicle's driver does not cause the driver to exceed speed limits; and
+(c) requires loading managers to take reasonable steps to ensure the arrangements for loading goods onto and unloading goods from a heavy vehicle do not cause the vehicle's driver to exceed speed limits; and
+(d) requires particular persons who consign goods for transport by a heavy vehicle, or who receive the goods, to take reasonable steps to ensure the terms of consignment of the goods do not cause the vehicle's driver to exceed speed limits; and
+(e) prohibits anyone from asking the driver of a heavy vehicle to exceed speed limits and from entering into an agreement that causes the driver of a heavy vehicle to exceed speed limits; and
+(f) imposes liability on persons who are most directly responsible for the use of a heavy vehicle for offences committed by the vehicle's driver exceeding speed limits.
+Part 2—Particular duties and offences
+Division 1—Employers, prime contractors and operators
+204—Duty of employer, prime contractor or operator to ensure business practices will not cause driver to exceed speed limit
+(1) A relevant party for the driver of a heavy vehicle must take all reasonable steps to ensure the relevant party's business practices will not cause the driver to exceed a speed limit applying to the driver.
+Examples of reasonable steps—
+• regular consultation with other parties in the chain of responsibility, unions and industry associations to address compliance issues
+• reviewing driving, work and trip records
+• a program to report and monitor (for example, by GPS tracking) incidents of speeding and related risks and hazards
+• training and information about speeding for drivers of heavy vehicles, staff and parties in the chain of responsibility for heavy vehicles (within the meaning given by section 214)
+• regular maintenance of vehicle components that relate to complying with speed limits (for example, speedometer, engine management system and speed limiters)
+Maximum penalty: $10 000.
+Notes—
+1 Section 622 sets out some of the factors a court may consider in deciding whether a person has taken all reasonable steps.
+2 Section 623 sets out 1 method by which an employer, prime contractor and operator can take all reasonable steps for the purposes of this section.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) In this section—
+business practices, of a relevant party for the driver of a heavy vehicle, means the practices of the relevant party in running the relevant party's business, and includes each of the following:
+(a) the operating policies and procedures of the business;
+(b) the human resource and contract management arrangements of the business;
+(c) arrangements for managing safety;
+relevant party, for the driver of a heavy vehicle, means any of the following:
+(a) an employer of the driver if the driver is an employed driver;
+(b) a prime contractor of the driver if the driver is a self‑employed driver;
+(c) an operator of the vehicle if the driver is making or is to make a journey for the operator.
+205—Duty of employer not to cause driver to drive if particular requirements not complied with
+(1) An employer of an employed driver of a heavy vehicle must not cause the driver to drive the heavy vehicle unless—
+(a) the employer has complied with section 204; and
+(b) the employer is reasonably satisfied each scheduler for the vehicle has complied with sections 207 and 208.
+Maximum penalty: $4 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+206—Duty of prime contractor or operator not to cause driver to drive if particular requirements not complied with
+(1) This section applies to—
+(a) a prime contractor of a self‑employed driver of a heavy vehicle (the driver); and
+(b) an operator of a heavy vehicle that is to be driven by someone else (also the driver).
+(2) The prime contractor, or operator, must not cause the driver to drive the heavy vehicle unless—
+(a) the prime contractor, or operator, has complied with section 204; and
+(b) the prime contractor, or operator, is reasonably satisfied each scheduler for the vehicle has complied with sections 207 and 208.
+Maximum penalty: $4 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+Division 2—Schedulers
+207—Duty to ensure driver's schedule will not cause driver to exceed speed limit
+(1) A scheduler for a heavy vehicle must take all reasonable steps to ensure the schedule for the vehicle's driver will not cause the driver to exceed a speed limit applying to the driver.
+Examples of reasonable steps—
+• consulting drivers about their schedules and work requirements
+• taking account of the average speed that can be travelled lawfully on scheduled routes
+• allowing for traffic conditions or other delays in schedules
+• contingency planning concerning schedules
+Maximum penalty: $10 000.
+Notes—
+1 Section 622 sets out some of the factors a court may consider in deciding whether a person has taken all reasonable steps.
+2 Section 623 sets out 1 method by which a scheduler for a heavy vehicle can take all reasonable steps for the purposes of this section.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+208—Duty not to cause driver to drive if particular requirements not complied with
+(1) A scheduler for a heavy vehicle must not cause the vehicle's driver to drive the vehicle unless—
+(a) the scheduler has complied with section 207; and
+(b) the driver's schedule for driving the vehicle allows—
+(i) for compliance with all speed limits; and
+(ii) for the driver to take all required rest in compliance with all laws regulating the driver's work times and rest times; and
+(iii) for traffic conditions and other delays that could reasonably be expected.
+Examples for the purposes of subparagraph (iii)—
+• the actual average speed able to be travelled lawfully and safely by the driver on the route to be travelled by the heavy vehicle
+• known traffic conditions, for example, road works or traffic congestion on the route
+• delays caused by loading, unloading or queuing
+Maximum penalty: $6 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+Division 3—Loading managers
+209—Duty to ensure loading arrangements will not cause driver to exceed speed limit
+(1) A loading manager for goods in heavy vehicles must take all reasonable steps to ensure the arrangements for loading goods onto and unloading goods from heavy vehicles will not cause the driver of a heavy vehicle to exceed a speed limit applying to the driver.
+Examples of reasonable steps—
+• reviewing loading and unloading times and delays at loading and unloading places
+• identifying potential loading and unloading congestion in consultation with drivers and other parties in the chain of responsibility
+• having a system of setting and allocating loading and unloading times the driver can reasonably rely on allowing loading and unloading to happen at an agreed time
+Maximum penalty: $10 000.
+Notes—
+1 Section 622 sets out some of the factors a court may consider in deciding whether a person has taken all reasonable steps.
+2 Section 623 sets out 1 method by which a loading manager can take all reasonable steps for the purposes of this section.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+Division 4—Particular consignors and consignees
+210—Consignors to whom Division 4 applies
+This Division applies to a person (a commercial consignor) who engages a particular operator of a heavy vehicle, either directly or through an agent or other intermediary, to transport goods for the person by road for commercial purposes.
+211—Consignees to whom Division 4 applies
+This Division applies only to a consignee of goods—
+(a) who has consented to being, and is named or otherwise identified as, the intended consignee of goods in the transport documentation relating to the transport of the goods by road by a particular operator of a heavy vehicle; and
+(b) who knows, or who ought reasonably to know, that the goods are to be transported by road.
+Note—
+See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+212—Duty to ensure terms of consignment will not cause driver to exceed speed limit etc
+(1) A commercial consignor or a consignee of goods must take all reasonable steps to ensure the terms of consignment will not cause the relevant driver to exceed a speed limit applying to the driver.
+Maximum penalty: $10 000.
+(2) A commercial consignor or a consignee of goods must take all reasonable steps to ensure the terms of consignment will not cause a relevant party for the relevant driver to cause the driver to exceed a speed limit applying to the driver.
+Examples of reasonable steps for the purposes of subsections (1) and (2)—
+• ensuring contractual arrangements and documentation for the consignment and delivery of goods enable speed limit compliance
+• contingency planning concerning consignments and delivery times
+• regular consultation with other parties in the chain of responsibility, unions and industry associations to address compliance issues
+Maximum penalty: $10 000.
+Notes for the purposes of subsections (1) and (2)—
+1 Section 622 sets out some of the factors a court may consider in deciding whether a person has taken all reasonable steps.
+2 Section 623 sets out 1 method by which a consignor or consignee can take all reasonable steps for the purposes of subsection (1) or (2).
+(3) A person charged with an offence against subsection (1) or (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) In this section—
+relevant driver, for consigned goods, means the driver of the heavy vehicle by which the goods are to be or are being transported;
+relevant party, for the relevant driver for consigned goods, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the heavy vehicle by which the goods are transported if the driver is to make, or is making, a journey for the operator.
+213—Duty not to make a demand that may result in driver exceeding the speed limit
+A commercial consignor or a consignee of goods must not make a demand that affects, or may affect, a time in a schedule for the transport of the consigned goods unless—
+(a) the consignor or consignee has complied with section 212; and
+(b) the consignor or consignee is reasonably satisfied the making of the demand will not cause a person to contravene section 207 or 208.
+Maximum penalty: $10 000.
+Division 5—Particular requests etc and contracts etc prohibited
+214—Who is a party in the chain of responsibility
+(1) For the purposes of this Division, each of the following persons is a party in the chain of responsibility for a heavy vehicle:
+(a) an employer of the vehicle's driver if the driver is an employed driver;
+(b) a prime contractor for the vehicle's driver if the driver is a self‑employed driver;
+(c) an operator of the vehicle;
+(d) a scheduler for the vehicle;
+(e) a loading manager for any goods in the vehicle;
+(f) a commercial consignor of any goods for transport by the vehicle that are in the vehicle;
+(g) a consignee of any goods in the vehicle, if Division 4 applies to the consignee.
+Note—
+The exercise of any of these functions, whether exclusively or occasionally, decides whether a person falls within any of these definitions, rather than the person's job title or contractual description.
+(2) A person may be a party in the chain of responsibility for a heavy vehicle in more than 1 capacity.
+Example—
+A person may be simultaneously the driver's employer, an operator and a consignor of goods in relation to a heavy vehicle and be subject to duties in each of the capacities.
+215—Particular requests etc prohibited
+A person must not ask, direct or require, directly or indirectly, the driver of a heavy vehicle, or a party in the chain of responsibility for a heavy vehicle, to do something the person knows, or ought reasonably to know, would have the effect of causing the driver to exceed a speed limit applying to the driver.
+Example of a requirement that contravenes this section—
+a requirement that the driver complete a journey in a time the person knows or ought reasonably to know cannot be complied with unless the driver exceeds the speed limit or does not have all the rest time the driver is required to have under a minimum rest requirement
+Maximum penalty: $10 000.
+Note—
+See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+216—Particular contracts etc prohibited
+(1) A person must not enter into a contract or other agreement with the driver of a heavy vehicle, or with a party in the chain of responsibility for a heavy vehicle, that the person knows, or ought reasonably to know, would have the effect of causing the vehicle's driver to exceed a speed limit applying to the driver.
+Maximum penalty: $10 000.
+(2) A person must not enter into a contract or other agreement with the driver of a heavy vehicle, or with a party in the chain of responsibility for a heavy vehicle, that the person knows, or ought reasonably to know, would encourage or provide an incentive for the vehicle's driver, or a party in the chain of responsibility for the vehicle to cause the vehicle's driver, to exceed a speed limit applying to the driver.
+Maximum penalty: $10 000.
+Notes for the purposes of subsections (1) and (2)—
+1 See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+2 See also section 742, which provides that particular contracts or other agreements are void.
+Division 6—Provisions about offences against this Part
+217—Objective reasonableness test to be used in deciding causation
+(1) This section applies in relation to a proceeding for an offence against this Part that may be committed by a person failing to take all reasonable steps to ensure someone else does not drive a heavy vehicle in excess of a speed limit applying to the vehicle's driver (prohibited act).
+(2) For the purposes of subsection (1), a person failing to take all reasonable steps to ensure someone else does not do a prohibited act includes—
+(a) the person failing to take reasonable steps to ensure the other person does not do the prohibited act; and
+(b) the person failing to take reasonable steps to ensure the person's activities, or anything arising out of the person's activities, do not—
+(i) cause the other person to do the prohibited act; or
+(ii) result in the other person doing the prohibited act; or
+(iii) provide an incentive for the other person to do the prohibited act.
+(3) Subsection (4) applies if—
+(a) a person does an act or makes an omission; and
+(b) as a result of the act or omission someone else does a prohibited act.
+(4) A court may find the person caused the other person to do the prohibited act if the court is satisfied a reasonable person would have foreseen that the person's act or omission would be reasonably likely to cause the other person to do the prohibited act.
+218—Commission of speeding offence is irrelevant to Chapter 5 Part 2 prosecution
+In a prosecution for an offence against this Part, it is not necessary to prove the driver of the heavy vehicle exceeded a speed limit applying to the driver.
+Part 3—Extended liability
+219—Liability of employer etc for speeding offence
+(1) If a speeding offence is committed in relation to a heavy vehicle, each of the following persons is taken to have committed an offence against this subsection:
+(a) an employer of the driver if the driver is an employed driver;
+(b) a prime contractor of the driver if the driver is a self‑employed driver;
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+Maximum penalty:
+(a) if the speeding offence involves the driver of a heavy vehicle exceeding a speed limit of 50km/h or 60km/h—$3 000; or
+(b) if the speeding offence involves the driver of a heavy vehicle exceeding a speed limit of 70km/h or 80km/h—
+(i) by less than 15km/h—$3 000; or
+(ii) by 15km/h or more—$5 000; or
+(c) if the speeding offence involves the driver of a heavy vehicle other than a road train exceeding a speed limit of 90km/h—
+(i) by less than 15km/h—$3 000; or
+(ii) by 15km/h or more—$5 000; or
+(d) if the speeding offence involves the driver of a road train exceeding a speed limit of 90km/h—
+(i) by less than 15km/h—$5 000; or
+(ii) by 15km/h or more—$10 000; or
+(e) if the speeding offence involves the driver of a heavy vehicle exceeding a speed limit of 100km/h or more—
+(i) by less than 15km/h—$5 000; or
+(ii) by 15km/h or more—$10 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(4) In a proceeding for an offence against subsection (1)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the speeding offence; and
+(b) evidence a court has convicted the driver of the speeding offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the speeding offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(5) In this section—
+speeding offence means an offence committed by the driver of a heavy vehicle because the driver exceeded a speed limit applying to the driver.
+Chapter 6—Vehicle operations—driver fatigue
+Part 1—Preliminary
+220—Main purpose of Chapter 6
+(1) The main purpose of this Chapter is to provide for the safe management of the fatigue of drivers of fatigue‑regulated heavy vehicles while they are driving on a road.
+(2) The main purpose is achieved by—
+(a) imposing duties on drivers of fatigue‑regulated heavy vehicles and particular persons whose activities influence the conduct of drivers of fatigue‑regulated heavy vehicles in a way that affects the drivers' fatigue when driving on a road; and
+(b) imposing general duties directed at preventing persons driving fatigue‑regulated heavy vehicles on a road while impaired by fatigue; and
+(c) imposing additional duties directed at helping drivers of fatigue‑regulated heavy vehicles to comply with this Chapter, which are imposed on particular parties in the chain of responsibility; and
+(d) providing for the maximum work requirements and minimum rest requirements applying to drivers of fatigue‑regulated heavy vehicles; and
+(e) providing for recording the work times and rest times of drivers, amongst other things.
+221—Definitions for Chapter 6
+In this Chapter—
+100km work has the meaning given by section 289(1);
+100+km work has the meaning given by section 289(2);
+AFM fatigue management system has the meaning given by section 457;
+AFM hours has the meaning given by section 257;
+approved electronic recording system means an electronic recording system the subject of a current approval under section 343 or a corresponding fatigue law;
+approved sleeper berth means—
+(a) for a fatigue‑regulated heavy vehicle other than a fatigue‑regulated bus—a driver's sleeper berth that complies with ADR 42 and is able to be used by the driver when resting; or
+(b) for a fatigue‑regulated bus—a driver's sleeper berth that—
+(i) complies with a standard for sleeper berths that is approved by the responsible Ministers under section 654; and
+(ii) is able to be used by the driver when resting;
+BFM hours has the meaning given by section 253;
+cancel, in relation to an unused daily sheet in a written work diary, means cancel by writing 'cancelled' in large letters across the sheet;
+cause of fatigue means any factor that could cause or contribute to a person being fatigued while driving a fatigue‑regulated heavy vehicle on a road (whether or not the cause arises while the person is at work);
+Examples—
+• physical or mental exertion
+• long periods of time awake
+• not enough sleep or not enough restorative sleep
+• not enough rest time
+• a person's circadian rhythm (body clock)
+• environmental stress factors, including heat, noise, vibrations
+• personal health
+corresponding fatigue law—
+(1) A corresponding fatigue law is a law of a non‑participating jurisdiction that provides for the same, or substantially the same, matters as this Chapter.
+(2) A corresponding fatigue law for a provision of this Chapter is a provision of a corresponding fatigue law within the meaning of paragraph (1) that corresponds, or substantially corresponds, to the provision of this Chapter.
+(3) For the purposes of paragraph (1), it is irrelevant whether the law of the non‑participating jurisdiction—
+(a) is in 1 instrument or 2 or more instruments; or
+(b) is part of an instrument; or
+(c) is part of an instrument and the whole or part of 1 or more other instruments;
+critical risk breach , for a maximum work requirement or minimum rest requirement, has the meaning given by section 222(4);
+daily sheet, for a written work diary, has the meaning given by section 338(2)(b);
+electronic recording system means a system of recording information electronically;
+electronic work diary, in relation to a fatigue‑regulated heavy vehicle, means all or part of an approved electronic recording system that is fitted to or used in relation to the vehicle to record information a driver of the vehicle is required by this Law to record in a work diary for the purposes of this Law;
+entry, in a work record, means anything written or otherwise recorded in the work record;
+exemption hours has the meaning given by section 259;
+fatigue has the meaning given by section 223;
+impaired by fatigue has the meaning given by section 225;
+intelligent access program reporting entity, for an approved intelligent transport system, means a person on whom there is an obligation, imposed by Chapter 7, to report a malfunction of or tampering with the system to the Regulator;
+loading manager—
+Note—
+Section 5 contains the definition loading manager. That definition is affected by the definition regular loading or unloading premises, and is used in this Chapter (including sections 227, 238, 239 and 261).
+As a result of the interaction of the 2 definitions, this Chapter applies to a person as a loading manager only if the premises concerned are premises at or from which an average of at least 5 fatigue-regulated heavy vehicles are loaded or unloaded on each day the premises are operated for loading or unloading heavy vehicles.
+major rest break means rest time of at least 5 continuous hours;
+malfunction, of an electronic work diary or an odometer, means the work diary or odometer—
+(a) ceases to work at all, or works only intermittently; or
+(b) does not perform 1 or more functions required under this Chapter; or
+(c) performs the functions mentioned in paragraph (b) only intermittently; or
+(d) performs the functions mentioned in paragraph (b) in a way that is inaccurate or unreliable, including intermittently inaccurate or unreliable;
+Examples of an electronic work diary malfunctioning—
+• corruption of data held in the electronic work diary
+• a software program fault
+• physical damage that impairs the functioning of the electronic work diary
+Example of an odometer malfunctioning—
+• an odometer that no longer keeps an accurate record of distance travelled
+minor risk breach has the meaning given by section 222(1);
+night work time means work time between midnight and 6 am;
+Note—
+Under sections 248 and 303, the time must be based on the time zone of the driver's base for drivers on a journey in a different time zone to the driver's base.
+non‑participating jurisdiction means a State or Territory that is not a participating jurisdiction;
+participating jurisdiction means a State or Territory in which—
+(a) this Chapter applies as a law of the State or Territory; or
+(b) a law containing provisions that substantially correspond to the provisions of this Chapter is in force;
+party in the chain of responsibility, for a fatigue‑regulated heavy vehicle, has the meaning given by section 227;
+record keeper has the meaning given by section 317;
+record location, of the driver of a fatigue‑regulated heavy vehicle, has the meaning given by section 290;
+rest, in relation to a fatigue‑regulated heavy vehicle, means not work in relation to a fatigue‑regulated heavy vehicle;
+rest time, for the driver of a fatigue‑regulated heavy vehicle, means any time that is not work time for the driver;
+severe risk breach has the meaning given by section 222(3);
+sign of fatigue means any sign that a person was, is or will be fatigued while driving a fatigue‑regulated heavy vehicle on a road (whether the sign manifests itself before, during or after the driver drove the vehicle);
+Examples—
+• lack of alertness
+• inability to concentrate
+• reduced ability to recognise or respond to external stimuli
+• poor judgment or memory
+• making more mistakes than usual
+• drowsiness, or falling asleep, at work (including microsleeps)
+• finding it difficult to keep eyes open
+• needing more frequent naps than usual
+• not feeling refreshed after sleep
+• excessive head‑nodding or yawning
+• blurred vision
+• mood changes, increased irritability or other changes to the person's mental health
+• changes to the person's health or fitness
+solo driver means a driver who is not a party to a two‑up driving arrangement;
+standard hours has the meaning given by section 249;
+stationary rest time means rest time a driver spends—
+(a) out of a fatigue‑regulated heavy vehicle; or
+(b) in an approved sleeper berth of a stationary fatigue‑regulated heavy vehicle;
+substantial risk breach has the meaning given by section 222(2);
+supplementary record means a supplementary record made under section 305;
+tamper, with an approved electronic recording system, has the meaning given by section 334;
+two‑up driving arrangement means an arrangement under which 2 persons share the driving of a fatigue‑regulated heavy vehicle that has an approved sleeper berth;
+work, in relation to a fatigue‑regulated heavy vehicle, means—
+(a) drive a fatigue‑regulated heavy vehicle; or
+(b) instruct another person to drive, or supervise another person driving, a fatigue‑regulated heavy vehicle; or
+(c) perform another task relating to the use of a fatigue‑regulated heavy vehicle, including, for example—
+(i) load things onto, or unload things from, the heavy vehicle; and
+(ii) inspect, service or repair the heavy vehicle; and
+(iii) inspect or attend to a load on the heavy vehicle; and
+(iv) if the heavy vehicle is a bus, attend to passengers on the bus; and
+(v) clean or refuel the heavy vehicle; and
+(vi) perform marketing tasks in relation to the use of the vehicle; and
+Examples for the purposes of subparagraph (vi)—
+• arranging for the transport of goods or passengers by the heavy vehicle
+• canvassing for orders for the transport of goods or passengers by the heavy vehicle
+(vii) help another person to perform, or supervise another person performing, a task mentioned in any of subparagraphs (i) to (vi); and
+(viii) record information or complete a document, as required under this Law, a corresponding fatigue law or otherwise, in relation to the use of the vehicle; or
+(d) occupy the driver's seat of a fatigue-regulated heavy vehicle while its engine is running;
+work and rest change, for the driver of a fatigue‑regulated heavy vehicle, means—
+(a) a change from work time to rest time; or
+(b) a change from rest time to work time; or
+(c) a change from being a solo driver to being a driver who is a party to a two‑up driving arrangement; or
+(d) a change from being a driver who is a party to a two‑up driving arrangement to being a solo driver;
+work and rest hours option has the meaning given by section 243;
+work diary, for the driver of a fatigue‑regulated heavy vehicle—
+(a) generally, means a written work diary or electronic work diary kept by the driver for the purposes of this Law; and
+(b) for Subdivision 1 of Division 2 of Chapter 6 Part 4, see section 292;
+work record means—
+(a) a written or electronic work diary of the driver of a fatigue‑regulated heavy vehicle; or
+(b) a supplementary record; or
+(c) a record required to be made or kept under (or by a condition under) Division 2, Division 3, Division 9 or Division 10 of Chapter 6 Part 4; or
+(d) a copy of a document, or an entry in a document, mentioned in paragraph (a), (b) or (c);
+work time, for the driver of a fatigue‑regulated heavy vehicle, means any time the driver spends undertaking work in relation to the vehicle;
+written work diary means a written work diary issued to the driver of a fatigue‑regulated heavy vehicle by the Regulator under section 340 or a corresponding fatigue law.
+222—Categories of breaches
+(1) A contravention of a maximum work requirement or minimum rest requirement is a minor risk breach if it is declared under the national regulations to be a breach in the minor risk category.
+(2) A contravention of a maximum work requirement or minimum rest requirement is a substantial risk breach if it is declared under the national regulations to be a breach in the substantial risk category.
+(3) A contravention of a maximum work requirement or minimum rest requirement is a severe risk breach if it is declared under the national regulations to be a breach in the severe risk category.
+(4) A contravention of a maximum work requirement or minimum rest requirement is a critical risk breach if it is declared under the national regulations to be a breach in the critical risk category.
+Part 2—Duties relating to fatigue
+Division 1—Preliminary
+223—What is fatigue
+(1) Fatigue includes (but is not limited to)—
+(a) feeling sleepy; and
+(b) feeling physically or mentally tired, weary or drowsy; and
+(c) feeling exhausted or lacking energy; and
+(d) behaving in a way consistent with paragraph (a), (b) or (c).
+(2) The national regulations may contain provisions supplementing, clarifying or providing examples for any of the provisions of sections 223 to 226.
+224—Matters court may consider in deciding whether person was fatigued
+(1) When deciding whether the driver of a fatigue‑regulated heavy vehicle was fatigued, a court may consider the following:
+(a) what is commonly understood as being fatigued;
+(b) the causes of fatigue;
+(c) the signs of fatigue;
+(d) any relevant body of fatigue knowledge;
+(e) any other matter prescribed by the national regulations.
+(2) Subsection (1) does not limit the matters the court may consider when deciding whether a driver was impaired by fatigue.
+225—What is impaired by fatigue
+A driver is impaired by fatigue if the driver's ability to drive a fatigue‑regulated heavy vehicle safely is affected by fatigue.
+226—Matters court may consider in deciding whether person was impaired by fatigue
+(1) When deciding whether the driver of a fatigue‑regulated heavy vehicle was impaired by fatigue, a court may consider any of the following:
+(a) any relevant cause of fatigue or sign of fatigue that was evident, and the degree to which it may indicate that the driver was impaired by fatigue;
+(b) any behaviour exhibited by the driver that may have resulted from the driver being impaired by fatigue;
+Examples for the purposes of paragraph (b)—
+• the circumstances of any incident, crash or near miss
+• poor driving judgement
+• inattentive driving such as drifting into other lanes on a road or not changing gears smoothly
+(c) the nature and extent of any physical or mental exertion by the driver;
+(d) whether the driver was in breach of the driver's work and rest hours option.
+(2) Subsection (1) does not limit the matters the court may consider when deciding whether a driver was impaired by fatigue.
+(3) A court may consider the driver to be impaired by fatigue even if the driver has complied with—
+(a) the requirements of this Law, including, for example, the maximum work requirements and minimum rest requirements applying to the driver; or
+(b) any other law.
+227—Who is a party in the chain of responsibility
+(1) Each of the following persons is a party in the chain of responsibility for a fatigue‑regulated heavy vehicle:
+(a) an employer of the vehicle's driver;
+(b) a prime contractor for the vehicle's driver;
+(c) an operator of the vehicle;
+(d) a scheduler for the vehicle;
+(e) a consignor of any goods for transport by the vehicle that are in the vehicle;
+(f) a consignee of any goods in the vehicle;
+(g) a loading manager for any goods in the vehicle;
+(h) a loader of any goods in the vehicle;
+(i) an unloader of any goods in the vehicle.
+(2) A person may be a party in the chain of responsibility for a fatigue‑regulated heavy vehicle in more than 1 capacity.
+Example—
+A person may be simultaneously a driver's employer, an operator and a consignor of goods in relation to a fatigue‑regulated heavy vehicle, and be subject to duties in each of the capacities.
+Division 2—Duty to avoid and prevent fatigue
+228—Duty of driver to avoid driving while fatigued
+(1) A person must not drive a fatigue‑regulated heavy vehicle on a road while the person is impaired by fatigue.
+Maximum penalty: $6 000.
+(2) If, in relation to conduct at a particular time in relation to which a driver has been charged with an offence under subsection (1), the driver has been convicted of a prescribed driver offence under another law in relation to—
+(a) the same conduct; or
+(b) the same kind of conduct occurring during the same journey,
+the court must discharge the proceedings against the driver.
+(3) If, in relation to conduct at a particular time in relation to which a driver has been charged with an offence under subsection (1), the driver has been convicted of the offence and is also charged with a prescribed driver offence under another law (the other offence) in relation to—
+(a) the same conduct; or
+(b) the same kind of conduct occurring during the same journey,
+the court dealing with the other offence must discharge the proceedings against the driver for the other offence.
+(4) In this section—
+prescribed driver offence under another law means an offence under another law of any jurisdiction prescribed for this definition by the national regulations or a law of that jurisdiction.
+229—Duty of party in the chain of responsibility to prevent driver driving while fatigued
+(1) A party in the chain of responsibility (a party) for a fatigue‑regulated heavy vehicle must take all reasonable steps to ensure a person (the other person) does not drive the vehicle on a road while the other person is impaired by fatigue.
+Maximum penalty: $10 000.
+(2) In relation to proof of whether a party took all reasonable steps to ensure the other person did not drive the vehicle on a road while impaired by fatigue, in a proceeding for an offence against subsection (1)—
+(a) evidence that, at the relevant time, the party complied with a prescribed fatigue duty under another law is evidence the party took the reasonable steps; and
+(b) if the party is an operator of the fatigue‑regulated heavy vehicle—evidence that, at the relevant time, the party, in that capacity, complied with the conditions of the operator's BFM accreditation or AFM accreditation is evidence the party, in that capacity, took the reasonable steps.
+(3) In a proceeding for an offence against subsection (1), it is not necessary for the prosecution to prove that the other person drove, or would or may have driven, the vehicle on a road while impaired by fatigue.
+(4) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(5) In this section—
+prescribed fatigue duty under another law means a duty under another law of a participating jurisdiction prescribed by the national regulations.
+Division 3—Additional duties of employers, prime contractors and operators
+230—Duty of employer, prime contractor or operator to ensure business practices will not cause driver to drive while fatigued etc
+(1) A relevant party for the driver of a fatigue‑regulated heavy vehicle must take all reasonable steps to ensure the relevant party's business practices will not cause the driver to—
+(a) drive while impaired by fatigue; or
+(b) drive while in breach of the driver's work and rest hours option; or
+(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Maximum penalty: $6 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) In this section—
+business practices, of a relevant party for the driver of a fatigue‑regulated heavy vehicle, means the practices of the relevant party in running the relevant party's business, and includes—
+(a) the operating policies and procedures of the business; and
+(b) the human resource and contract management arrangements of the business; and
+(c) arrangements for managing safety;
+relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making, or is to make, a journey for the operator.
+231—Duty of employer not to cause driver to drive if particular requirements not complied with
+(1) An employer of an employed driver of a fatigue‑regulated heavy vehicle must not cause the driver to drive the vehicle unless—
+(a) the employer has complied with section 230; and
+(b) the employer, after making reasonable inquiries, is satisfied each scheduler for the vehicle has complied with Division 4.
+Maximum penalty: $4 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+232—Duty of prime contractor or operator not to cause driver to drive if particular requirements not complied with
+(1) This section applies to—
+(a) a prime contractor of a self‑employed driver (the driver) of a fatigue‑regulated heavy vehicle; and
+(b) an operator of a fatigue‑regulated heavy vehicle being driven by someone else (also the driver).
+(2) The prime contractor or operator must not cause the driver to drive the fatigue‑regulated heavy vehicle, or enter into a contract or other agreement with the driver to that effect, unless—
+(a) the prime contractor or operator has complied with section 230; and
+(b) the prime contractor or operator, after making reasonable inquiries, is satisfied each scheduler for the vehicle has complied with Division 4.
+Maximum penalty: $4 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+Division 4—Additional duties of schedulers
+233—Duty to ensure driver's schedule will not cause driver to drive while fatigued etc
+(1) A scheduler for a fatigue‑regulated heavy vehicle must take all reasonable steps to ensure the schedule for the vehicle's driver will not cause the driver to—
+(a) drive while impaired by fatigue; or
+(b) drive while in breach of the driver's work and rest hours option; or
+(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Maximum penalty: $10 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+234—Duty not to cause driver to drive if particular requirements not complied with
+(1) A scheduler for a fatigue‑regulated heavy vehicle must not cause the vehicle's driver to drive the vehicle unless—
+(a) the scheduler has complied with section 233; and
+(b) the schedule for the vehicle's driver allows for—
+(i) the driver to have the rest time required under the driver's work and rest hours option; and
+(ii) traffic conditions and other delays that could reasonably be expected.
+Examples of traffic conditions and other delays that could reasonably be expected—
+• the actual average speed able to be travelled lawfully and safely by the driver on the route to be travelled by the vehicle
+• known traffic conditions, for example, road works or traffic congestion on the route
+• delays caused by loading, unloading or queuing
+Maximum penalty: $6 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+Division 5—Additional duties of consignors and consignees
+235—Duty to ensure terms of consignment will not cause driver to drive while fatigued etc
+(1) A consignor or consignee of goods for transport by a fatigue‑regulated heavy vehicle must take all reasonable steps to ensure the terms of consignment will not result in, encourage or provide an incentive to the vehicle's driver to—
+(a) drive while impaired by fatigue; or
+(b) drive while in breach of the driver's work and rest hours option; or
+(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Maximum penalty: $10 000.
+(2) A consignor or consignee of goods for transport by a fatigue‑regulated heavy vehicle must take all reasonable steps to ensure the terms of consignment will not result in, encourage or provide an incentive to a relevant party for the vehicle's driver to cause the driver to—
+(a) drive while impaired by fatigue; or
+(b) drive while in breach of the driver's work and rest hours option; or
+(c) drive in breach of another law in order to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Example of terms of consignment—
+delivery times
+Maximum penalty: $10 000.
+(3) A person charged with an offence against subsection (1) or (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) In this section—
+relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making, or is to make, a journey for the operator.
+236—Duty not to cause driver to drive if particular requirements not complied with
+(1) A consignor or consignee of goods for transport by a fatigue‑regulated heavy vehicle must not cause the vehicle's driver to drive the vehicle, or enter into a contract or other agreement to that effect, unless—
+(a) the consignor or consignee has complied with section 235; and
+(b) the consignor or consignee, after making reasonable inquiries, is satisfied—
+(i) each relevant party for the driver has complied with Division 3; and
+(ii) each scheduler for the vehicle has complied with Division 4.
+Maximum penalty: $4 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) In this section—
+relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making, or is to make, a journey for the operator.
+237—Duty not to make a demand that may result in driver driving while fatigued etc
+(1) A consignor or consignee of goods for transport by a fatigue‑regulated heavy vehicle must not make a demand that affects, or may affect, a time in a schedule for the transport of the consigned goods and that may cause the vehicle's driver to—
+(a) drive while impaired by fatigue; or
+(b) drive while in breach of the driver's work and rest hours option; or
+(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Maximum penalty: $10 000.
+(2) Subsection (1) does not apply if the consignor or consignee, before making the demand—
+(a) has complied with section 235; and
+(b) is satisfied, after making reasonable inquiries, that the making of the demand will not cause a scheduler for the fatigue‑regulated heavy vehicle to contravene Division 4.
+(3) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+Division 6—Additional duties of loading managers
+238—Duty to ensure loading arrangements will not cause driver to drive while fatigued etc
+(1) A loading manager for goods in heavy vehicles must take all reasonable steps to ensure the arrangements for loading goods onto and unloading goods from fatigue‑regulated heavy vehicles at or from the premises in relation to which the person is a loading manager will not cause the driver of a fatigue‑regulated heavy vehicle to—
+(a) drive while impaired by fatigue; or
+(b) drive while in breach of the driver's work and rest hours option; or
+(c) drive in breach of another law in order to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Examples of reasonable steps to comply with this section—
+• providing for necessary rest time to be had with adequate facilities
+• providing for the reporting of travel delays and providing a mechanism for managing late arrivals
+• allowing loading and unloading to happen at an agreed time
+• having a system of setting and allocating loading and unloading times the driver of a fatigue‑regulated heavy vehicle can reasonably rely on to comply with the maximum work requirements and minimum rest requirements applying to the driver
+Maximum penalty: $10 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+239—Duty to ensure drivers can rest in particular circumstances
+(1) This section applies if a loading manager for goods in a fatigue‑regulated heavy vehicle, or a person acting under the loading manager's supervision or control—
+(a) has advised the vehicle's driver, either directly or indirectly, of when the loading of goods onto or unloading of goods from the vehicle is to start, and the loading manager or person becomes aware the loading or unloading will, or is likely to, start more than 30 minutes late; or
+(b) has advised the vehicle's driver, either directly or indirectly, of when the loading of goods onto or unloading of goods from the vehicle is to finish, and the loading manager or person becomes aware the loading or unloading will, or is likely to, finish more than 30 minutes late; or
+(c) is unable to advise the vehicle's driver of when the loading of goods onto or unloading of goods from the vehicle is to start; or
+(d) is unable to advise the vehicle's driver of when the loading of goods onto or unloading of goods from the vehicle is to finish.
+(2) The loading manager must take all reasonable steps to ensure the driver is able to rest while waiting for the goods to be loaded onto or unloaded from the fatigue‑regulated heavy vehicle.
+Example of reasonable steps that may be taken to ensure the driver of a fatigue‑regulated heavy vehicle is able to rest—
+providing a system of notifying the driver when goods can be loaded onto or unloaded from the driver's vehicle that does not require the driver to be awake or unreasonably alert
+Maximum penalty: $6 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+Division 7—Particular requests etc and contracts etc prohibited
+240—Particular requests etc prohibited
+A person must not ask, direct or require, directly or indirectly, the driver of a fatigue‑regulated heavy vehicle, or a party in the chain of responsibility for a fatigue‑regulated heavy vehicle, to do or not do something the person knows, or ought reasonably to know, would have the effect of causing the vehicle's driver to—
+(a) drive while impaired by fatigue; or
+(b) drive while in breach of the driver's work and rest hours option; or
+(c) drive in breach of another law in order to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Example of a requirement that contravenes this section—
+a requirement that the driver complete a journey in a time the person knows or ought reasonably to know cannot be complied with unless the driver commits a speeding offence or does not have all the rest time the driver is required to have under this Law
+Maximum penalty: $10 000.
+Note—
+See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+241—Particular contracts etc prohibited
+(1) A person must not enter into a contract or other agreement with the driver of a fatigue‑regulated heavy vehicle, or with a party in the chain of responsibility for a fatigue‑regulated heavy vehicle, that the person knows, or ought reasonably to know, would have the effect of causing the vehicle's driver to—
+(a) drive while impaired by fatigue; or
+(b) drive while in breach of the driver's work and rest hours option; or
+(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Maximum penalty: $10 000.
+(2) A person must not enter into a contract or other agreement with the driver of a fatigue‑regulated heavy vehicle, or with a party in the chain of responsibility for a fatigue‑regulated heavy vehicle that the person knows, or ought reasonably to know, would encourage or provide an incentive for the vehicle's driver, or a party in the chain of responsibility for the vehicle to cause the vehicle's driver, to—
+(a) drive while impaired by fatigue; or
+(b) drive while in breach of the driver's work and rest hours option; or
+(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Maximum penalty: $10 000.
+Notes for the purposes of subsections (1) and (2)—
+1 See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+2 See section 742, which provides that particular contracts or other agreements are void.
+Division 8—Provisions about offences against this Part
+242—Objective reasonableness test to be used in deciding causation
+(1) This section applies in relation to a proceeding for an offence against this Part that may be committed by a person failing to take all reasonable steps to ensure someone else does not drive a fatigue‑regulated heavy vehicle while impaired by fatigue (prohibited act).
+(2) For the purposes of subsection (1), a person failing to take all reasonable steps to ensure someone else does not do a prohibited act includes—
+(a) the person failing to take reasonable steps to ensure the other person does not do the prohibited act; and
+(b) the person failing to take reasonable steps to ensure the person's activities, or anything arising out of the person's activities, do not—
+(i) cause the other person to do the prohibited act; or
+(ii) result in the other person doing the prohibited act; or
+(iii) provide an incentive for the other person to do the prohibited act.
+(3) Subsection (4) applies if—
+(a) a person does an act or makes an omission; and
+(b) as a result of the act or omission someone else does a prohibited act.
+(4) A court may find the person caused the other person to do the prohibited act if the court is satisfied a reasonable person would have foreseen the person's act or omission would be reasonably likely to cause the other person to do the prohibited act.
+Part 3—Requirements relating to work time and rest time
+Division 1—Preliminary
+243—What is a driver's work and rest hours option
+(1) The work and rest hours option of the driver of a fatigue‑regulated heavy vehicle is the maximum work requirements and minimum rest requirements applying to the driver under this Law.
+(2) The work and rest hours option is—
+(a) the standard work and rest arrangements, which—
+(i) apply to drivers of fatigue‑regulated heavy vehicles operating other than under a BFM accreditation, AFM accreditation or work and rest hours exemption; and
+(ii) are known as 'standard hours'; or
+(b) the BFM work and rest arrangements, which—
+(i) apply to drivers of fatigue‑regulated heavy vehicles operating under a BFM accreditation; and
+(ii) are known as 'BFM hours'; or
+(c) the AFM work and rest arrangements, which—
+(i) apply to drivers of fatigue‑regulated heavy vehicles operating under an AFM accreditation; and
+(ii) are known as 'AFM hours'; or
+(d) the maximum work times and minimum rest times stated in a work and rest hours exemption, which—
+(i) apply to drivers of fatigue‑regulated heavy vehicles operating under the exemption; and
+(ii) are known as 'exemption hours'.
+244—Counting time spent in participating jurisdictions
+When counting work time or rest time spent by the driver of a fatigue‑regulated heavy vehicle for this Part, the work time or rest time spent by the driver in any participating jurisdiction must be counted.
+245—Counting time spent outside participating jurisdictions
+(1) This section applies to the driver of a fatigue‑regulated heavy vehicle if the driver drives a fatigue‑regulated heavy vehicle into a participating jurisdiction from a non‑participating jurisdiction.
+(2) If, within the last 7 days, the driver has spent any work time in a participating jurisdiction, any time spent by the driver in the non‑participating jurisdiction must be treated in the same way as it would have been treated if the time had been spent in a participating jurisdiction.
+(3) If, within the last 7 days, the driver spent work time only in non‑participating jurisdictions—
+(a) any time spent by the driver in the non‑participating jurisdiction before the start of the driver's last major rest break before entering a participating jurisdiction must be disregarded; and
+(b) any time spent by the driver in the non‑participating jurisdiction after the start of the last major rest break mentioned in paragraph (a) must be—
+(i) taken into account; and
+(ii) treated in the same way as it would have been treated if the time had been spent in a participating jurisdiction.
+246—Counting periods of less than 15 minutes—written work diaries
+(1) This section applies if a driver uses a written work diary.
+(2) Work time must be counted in 15 minute periods.
+(3) A period of work time of less than 15 minutes counts as 15 minutes work time.
+Examples for the purposes of subsection (3)—
+1 A period of working for 14 minutes counts as 15 minutes work time.
+2 A period of working for 17 minutes counts as 30 minutes work time.
+3 A period of working for 53 minutes counts as 1 hour work time.
+(4) Rest time must be counted in blocks of time of no less than 15 minutes.
+(5) A period of rest time of less than 15 minutes must be disregarded.
+Examples for the purposes of subsection (5)—
+1 A period of not working for only 14 minutes does not count as rest time, because 14 minutes is less than 15 minutes.
+2 A period of not working for 17 minutes counts as 15 minutes rest time, because 17 minutes is more than 15 minutes, but is less than 2 lots of 15 minutes (30 minutes).
+246A—Counting periods of less than 15 minutes—electronic work diaries
+(1) This section applies if a driver uses an electronic work diary.
+(2) Work time and rest time must be counted in 1 minute periods.
+(3) A period of work time or rest time of less than 1 minute must not be counted.
+(4) A period of rest time of less than 15 minutes does not count towards a minimum rest time.
+Examples for the purposes of subsection (4)—
+1 A period of not working for 10 minutes does not count towards a minimum rest time because 10 minutes is less than 15 minutes.
+2 A period of not working on 3 separate occasions for 14 minutes, 24 minutes and 22 minutes does not count as 60 minutes rest time because the period of 14 minutes, being less than 15 minutes, is disregarded.
+Note—
+This section relates to calculating whether a driver has complied with maximum work requirements and minimum rest requirements applying to the driver. It does not matter if the technology used by an electronic work diary counts a period less than 1 minute mentioned in subsections (2) and (3) in the course of arriving at calculations that comply with the subsections.
+247—Time to be counted after rest time ends
+When counting time in a period, the time must not be counted from within rest time, but instead must be counted forward from—
+(a) if 1 or more major rest breaks are relevant to the period—the end of a relevant major rest break; or
+(b) in any other case—the end of a relevant period of rest time.
+Example—
+An authorised officer intercepts the driver of a fatigue-regulated heavy vehicle on a Friday and inspects the driver's work diary. The driver operates under standard hours. The officer examines the work diary entries for the previous Monday. The entries show that the driver completed 7 continuous hours of stationary rest time at 6.30 am on that day, started work at that time, worked until 11 am that day, had 45 minutes of rest time, worked until 5 pm that day, then had stationary rest time until 4.30 am on the following day, Tuesday, and then worked until 6.30 am on that day.
+In order to determine the total number of hours worked by the driver in a 24 hour period starting on the Monday, then in accordance with section 247(a) the officer must commence counting from the end of the relevant major rest break, which in this case is from 6.30 am on the Monday until 6.30 am on the Tuesday. Adding up the driver's work periods — 6.30 am to 11 am, 11.45 am to 5.00 pm and 4.30 am to 6.30 am — results in a total of 11¾ hours worked in the 24 hour period.
+The officer might also decide to assess whether the driver has complied with his or her maximum work and minimum rest requirements for the same 24 hour period.
+For instance, in any period of 5½ hours, a driver must not work for more than 5¼ hours and must have at least 15 minutes continuous rest when operating under standard hours. To assess whether the driver has complied with this requirement, then in accordance with section 247(b) the officer must commence counting only from the end of a period of rest — from either 6.30 am or 11.45 am on the Monday, or from 4.30 am on the Tuesday. If the officer commenced counting at the end of the rest time that finished at 11.45 am, the officer would see that the driver had worked for 5¼ continuous hours before commencing rest.
+For the purposes of determining whether on Monday the driver had a minimum of 7 continuous hours stationary rest in a 24 hour period as required under standard hours, the officer must assess the length of the periods of stationary rest time the driver had between the end of the major rest break that finished at 6.30 am on the Monday and 6.30 am on the Tuesday. The officer sees that between 5 pm on the Monday and 4.30 am on the Tuesday the driver had a total of 11½ continuous hours of stationary rest time.
+248—Time to be counted by reference to time zone of driver's base
+If the driver of a fatigue‑regulated heavy vehicle undertakes a journey and is in a different time zone from the time zone of the driver's base at the time when a period of time is relevant for the purposes of this Law, the period must be counted by reference to the time zone of the driver's base.
+Example—
+If, for the driver of a fatigue‑regulated heavy vehicle with a base in Queensland, it is necessary to work out the hours of night work time while the driver is in Western Australia on a journey, the hours of night work time are the hours between midnight and 6 am in the Queensland time zone (being the time zone in which the driver's base is situated), even though the hours equate to 10 pm and 4 am in Western Australia.
+Division 2—Standard work and rest arrangements
+249—Standard hours
+(1) The national regulations may prescribe the maximum work times and minimum rest times (the standard hours) applying to the driver of a fatigue‑regulated heavy vehicle for a period if the driver is not operating under a BFM accreditation, AFM accreditation or work and rest hours exemption.
+(2) Without limiting subsection (1), the national regulations may prescribe—
+(a) different standard hours for solo drivers, solo drivers of fatigue‑regulated buses and drivers who are a party to a two‑up driving arrangement; and
+(b) that a solo driver of a fatigue‑regulated bus may operate under either, but not both, the standard hours for solo drivers or the standard hours for solo drivers of fatigue‑regulated buses; and
+(c) that a minor risk breach of a maximum work requirement prescribed in the regulations is not to be treated as a minor risk breach.
+(3) A minor risk breach prescribed for the purposes of subsection (2)(c) is not a contravention of section 250 or 251.
+250—Operating under standard hours—solo drivers
+(1) The solo driver of a fatigue‑regulated heavy vehicle commits an offence if, in any period stated in the standard hours for the driver, the driver—
+(a) works for more than the maximum work time stated in the standard hours for the period; or
+(b) rests for less than the minimum rest time stated in the standard hours for the period.
+Maximum penalty:
+(a) for a minor risk breach—$4 000; or
+(b) for a substantial risk breach—$6 000; or
+(c) for a severe risk breach—$10 000; or
+(d) for a critical risk breach—$15 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+251—Operating under standard hours—two‑up drivers
+(1) The driver of a fatigue‑regulated heavy vehicle who is a party to a two‑up driving arrangement commits an offence if, in any period stated in the standard hours for the driver, the driver—
+(a) works for more than the maximum work time stated in the standard hours for the period; or
+(b) rests for less than the minimum rest time stated in the standard hours for the period.
+Maximum penalty:
+(a) for a minor risk breach—$4 000; or
+(b) for a substantial risk breach—$6 000; or
+(c) for a severe risk breach—$10 000; or
+(d) for a critical risk breach—$15 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+252—Defence relating to short rest breaks for drivers operating under standard hours
+(1) This section applies if, at a particular time, the driver of a fatigue‑regulated heavy vehicle is required, under section 250 or 251, to have a short rest break.
+Examples of when this section applies—
+The driver is required to have 15 continuous minutes rest time because—
+(a) the driver has worked for 5¼ hours; or
+(b) the driver has worked for 7½ hours and has only had 15 continuous minutes rest time during that period; or
+(c) the driver has worked for 10 hours and has only had 3 lots of 15 continuous minutes rest time during that period.
+(2) In a proceeding for an offence against section 250 or 251 relating to the driver failing to have the short rest break, it is a defence for the driver to prove that—
+(a) at the time the driver was required to have the short rest break, there was no suitable rest place for fatigue‑regulated heavy vehicles; and
+(b) the driver had the short rest break—
+(i) at the next suitable rest place for fatigue‑regulated heavy vehicles available after that time on the forward route of the driver's journey; and
+(ii) no later than 45 minutes after the time the driver was required to have the short rest break.
+Example of when the defence applies—
+The driver of a fatigue‑regulated heavy vehicle fails to have a short rest break after 5¼ hours of work time because there was no suitable rest place for fatigue‑regulated heavy vehicles when the driver was scheduled to have the short rest break. Instead, the driver has a short rest break after 5½ hours work at a suitable rest place for fatigue‑regulated heavy vehicles down the road.
+(3) In this section—
+short rest break means rest time of less than 1 hour.
+Division 3—BFM work and rest arrangements
+253—BFM hours
+(1) The national regulations may prescribe the maximum work times and minimum rest times applying to the driver of a fatigue‑regulated heavy vehicle for a period if the driver is operating under a BFM accreditation (the BFM hours).
+(2) Without limiting subsection (1), the national regulations may prescribe—
+(a) different BFM hours for solo drivers and drivers who are a party to a two‑up driving arrangement; and
+(b) that a minor risk breach of a maximum work requirement prescribed in the regulations is not to be treated as a minor risk breach.
+(3) A minor risk breach prescribed for the purposes of subsection (2)(b) is not a contravention of section 254 or 256.
+254—Operating under BFM hours—solo drivers
+(1) The solo driver of a fatigue‑regulated heavy vehicle commits an offence if, in any period stated in the BFM hours for the driver, the driver—
+(a) works for more than the maximum work time stated in the BFM hours for the period; or
+(b) rests for less than the minimum rest time stated in the BFM hours for the period.
+Maximum penalty:
+(a) for a minor risk breach—$4 000; or
+(b) for a substantial risk breach—$6 000; or
+(c) for a severe risk breach—$10 000; or
+(d) for a critical risk breach—$15 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+255—Defence for solo drivers operating under BFM hours relating to split rest breaks
+(1) This section applies if, at a particular time, the driver of a fatigue‑regulated heavy vehicle is required under section 254 to have 7 continuous hours of stationary rest time in a period of 24 hours.
+(2) In a proceeding for an offence against section 254 for a solo driver of a fatigue‑regulated heavy vehicle relating to the driver failing to have the 7 continuous hours of stationary rest time, it is a defence for the driver to prove that—
+(a) at the time the driver was required to have the 7 continuous hours of stationary rest time, the driver was operating under BFM hours as a solo driver of a fatigue‑regulated heavy vehicle; and
+(b) during the period of 24 hours for which the 7 continuous hours of stationary rest time was required to be had, the driver had 6 continuous hours of stationary rest time and 2 continuous hours of stationary rest time (a split rest break); and
+(c) the driver had not had a split rest break in the previous 24‑hour period.
+Example of when the defence applies—
+The driver of a fatigue‑regulated heavy vehicle stops work to have 7 continuous hours of stationary rest time, but cannot sleep, and so the driver has only 2 continuous hours of stationary rest time and then drives on for a further 2 hours and has a further 6 continuous hours of stationary rest time at another place down the road. In the previous 24‑hour period the driver had 7 continuous hours of stationary rest time.
+256—Operating under BFM hours—two‑up drivers
+(1) The driver of a fatigue‑regulated heavy vehicle who is a party to a two‑up driving arrangement commits an offence if, in any period stated in the BFM hours for the driver, the driver—
+(a) works for more than the maximum work time stated in the BFM hours for the period; or
+(b) rests for less than the minimum rest time stated in the BFM hours for the period.
+Maximum penalty:
+(a) for a minor risk breach—$4 000; or
+(b) for a substantial risk breach—$6 000; or
+(c) for a severe risk breach—$10 000; or
+(d) for a critical risk breach—$15 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+Division 4—AFM work and rest arrangements
+257—AFM hours
+AFM hours are the maximum work times and minimum rest times applying, for a period, to the driver of a fatigue‑regulated heavy vehicle operating under an AFM accreditation, and stated in the accreditation certificate for the accreditation.
+258—Operating under AFM hours
+(1) The driver of a fatigue‑regulated heavy vehicle commits an offence if, in any period stated in the AFM hours for the driver, the driver—
+(a) works for more than the maximum work time stated in the AFM hours; or
+(b) rests for less than the minimum rest time stated in the AFM hours.
+Maximum penalty:
+(a) for a minor risk breach—$4 000; or
+(b) for a substantial risk breach—$6 000; or
+(c) for a severe risk breach—$10 000; or
+(d) for a critical risk breach—$15 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+Division 5—Arrangements under work and rest hours exemption
+259—Exemption hours
+(1) Exemption hours are the maximum work times and minimum rest times applying, for a period, to the driver of a fatigue‑regulated heavy vehicle operating under a work and rest hours exemption, and stated in the relevant document for the exemption.
+(2) In this section—
+relevant document means—
+(a) for a work and rest hours exemption (notice)—the Commonwealth Gazette notice for the exemption; or
+(b) for a work and rest hours exemption (permit)—the permit for the exemption.
+260—Operating under exemption hours
+(1) The driver of a fatigue‑regulated heavy vehicle operating under a work and rest hours exemption commits an offence if, in any period stated in the exemption hours for the exemption, the driver—
+(a) works for more than the maximum work time stated in the exemption hours; or
+(b) rests for less than the minimum rest time stated in the exemption hours.
+Maximum penalty:
+(a) for a minor risk breach—$4 000; or
+(b) for a substantial risk breach—$6 000; or
+(c) for a severe risk breach—$10 000; or
+(d) for a critical risk breach—$15 000.
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+Division 6—Extended liability
+261—Liability of employer etc for driver's contravention of maximum work requirement or minimum rest requirement
+(1) This section applies to an offence committed because the driver of a fatigue‑regulated heavy vehicle contravenes a maximum work requirement or minimum rest requirement applying to the driver under Division 2, Division 3, Division 4 or Division 5 (the relevant offence).
+(2) If a relevant offence is committed involving the driver of a fatigue-regulated heavy vehicle, each of the following persons is taken to have committed an offence against this subsection:
+(a) an employer of the driver if the driver is an employed driver;
+(b) a prime contractor of the driver if the driver is a self‑employed driver;
+(c) an operator of the vehicle;
+(d) a scheduler for the vehicle;
+(e) a consignor of any goods for transport by the vehicle that are in the vehicle;
+(f) a consignee of any goods in the vehicle;
+(g) a loading manager for any goods in the vehicle;
+(h) a loader of any goods in the vehicle;
+(i) an unloader of goods in the vehicle.
+Maximum penalty:
+(a) for a minor risk breach—$4 000; or
+(b) for a substantial risk breach—$6 000; or
+(c) for a severe risk breach—$10 000; or
+(d) for a critical risk breach—$15 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(5) In a proceeding for an offence against subsection (2)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the relevant offence; and
+(b) evidence a court has convicted the driver of the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+Division 7—Changing work and rest hours option
+262—Changing work and rest hours option
+(1) The driver of a fatigue‑regulated heavy vehicle may operate under only 1 work and rest hours option at any 1 time.
+(2) However, the driver of a fatigue‑regulated heavy vehicle may change from 1 work and rest hours option to a different work and rest hours option.
+263—Operating under new work and rest hours option after change
+(1) The driver of a fatigue‑regulated heavy vehicle must not drive the vehicle after changing from 1 work and rest hours option to a different work and rest hours option unless—
+(a) if the change is from standard hours or BFM hours, either the driver—
+(i) is in compliance with all the maximum work requirements and minimum rest requirements under the work and rest hours option to which the driver has changed; or
+(ii) has had a reset rest break; and
+Examples for the purposes of paragraph (a)—
+1 If the driver of a fatigue‑regulated heavy vehicle is changing from BFM hours to standard hours and the minimum rest requirements applying to drivers operating under standard hours requires the driver to have a longer rest time than is required under BFM hours, the driver may start driving under standard hours only if the driver has had the longer rest time or a reset rest break.
+2 If the driver of a fatigue‑regulated heavy vehicle is changing from BFM hours to standard hours and the minimum rest requirements applying to drivers operating under standard hours requires the driver to have rest time earlier than is required under BFM hours, the driver may start driving under standard hours only if the driver has had the earlier rest time or a reset rest break.
+(b) if the change is from AFM hours or exemption hours, the driver has had a reset rest break; and
+(c) the driver complies with all other requirements of the work and rest hours option to which the driver has changed.
+Example of other requirements for the purposes of paragraph (c)—
+If the driver is changing to BFM hours or AFM hours, the driver must be inducted into the relevant operator's BFM or AFM fatigue management system.
+Maximum penalty: $4 000.
+(2) If the driver of a fatigue‑regulated heavy vehicle has had a reset rest break between changing from 1 work and rest hours option to a different work and rest hours option, the period to which the new work and rest hours option applies must be counted forward from the end of the reset rest break.
+(3) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(5) In this section—
+reset rest break means a period of rest time of at least 48 continuous hours.
+264—Duty of employer, prime contractor, operator and scheduler to ensure driver compliance
+(1) This section applies if the driver of a fatigue‑regulated heavy vehicle changes from 1 work and rest hours option to a different work and rest hours option.
+(2) A relevant party for the driver must—
+(a) ensure the driver does not drive a fatigue‑regulated heavy vehicle after making the change unless the driver has complied with section 263; and
+(b) take whatever action is necessary to ensure the driver can comply with his or her obligations in relation to the change.
+Maximum penalty: $6 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(5) In this section—
+relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator; or
+(d) a scheduler for the vehicle.
+Division 8—Exemptions relating to work times and rest times
+Subdivision 1—Exemption for emergency services
+265—Emergency services exemption
+(1) A person who is acting for an emergency service and who has time‑critical duties on the way to, or during, an emergency is exempted in the course of carrying out the duties from compliance with this Part.
+(2) A person who is acting for an emergency service and who is returning from attending an emergency is exempted from compliance with this Part if the person reasonably believes the noncompliance does not present an unreasonable danger to other road users.
+(3) A person who is acting for an emergency service is exempted from compliance with this Part under subsection (1) or (2) only if, at the relevant time, the person complies with any guidelines regarding the management of fatigue issued by or on behalf of the emergency service or an authority responsible for oversight of the emergency service.
+(4) In this section—
+emergency means an event, or an anticipated event, that—
+(a) endangers, or may endanger, life, property or the environment; or
+(b) has disrupted, or may disrupt, communications, energy supply, water supply or sewerage services; or
+(c) is declared to be an emergency or disaster by—
+(i) the Commonwealth or a State or Territory; or
+(ii) a Commonwealth or State or Territory authority responsible for managing responses to emergencies or disasters;
+Examples of an emergency—
+fire, explosion or natural disaster
+emergency service means an entity that has a statutory responsibility to respond to an emergency and includes the following:
+(a) an ambulance service;
+(b) a fire brigade, including a volunteer fire brigade;
+(c) a police force or police service;
+(d) a disaster or emergency organisation of the Commonwealth or a State or Territory.
+Subdivision 2—Exemptions by Commonwealth Gazette notice
+266—Regulator's power to exempt class of drivers from particular maximum work requirements and minimum rest requirements
+(1) The Regulator may, by Commonwealth Gazette notice complying with section 270, grant an exemption to allow, for a period of not more than 3 years, a class of drivers of fatigue‑regulated heavy vehicles to operate under the maximum work times and minimum rest times stated in the exemption.
+(2) An exemption under subsection (1) is a work and rest hours exemption (notice).
+267—Restriction on grant of work and rest hours exemption (notice)
+(1) The Regulator may grant a work and rest hours exemption (notice) only if the Regulator is satisfied—
+(a) requiring the class of drivers to whom the exemption is to apply to comply with the standard hours would be an unreasonable restriction on operations conducted by—
+(i) the class of drivers; or
+(ii) relevant parties for the class of drivers; and
+(b) if the maximum work times and minimum rest times to apply under the exemption could be accommodated within BFM hours or AFM hours—the requirements applying to BFM accreditation or AFM accreditation under this Law would, having regard to the nature of the operations, be unreasonable for the operations conducted by—
+(i) the class of drivers; or
+(ii) relevant parties for the class of drivers; and
+(c) the driver fatigue management practices that are to apply to drivers operating under the exemption would, if followed, safely manage fatigue risks; and
+(d) the class of drivers to whom the exemption is to apply is likely to follow the practices consistently and effectively.
+(2) In deciding whether or not to grant a work and rest hours exemption (notice), the Regulator must have regard to the approved guidelines for granting work and rest hours exemptions.
+(3) In this section—
+relevant parties, for a class of drivers of fatigue‑regulated heavy vehicles, means—
+(a) employers of the class of drivers if they are employed drivers; or
+(b) prime contractors for the class of drivers if they are self‑employed drivers; or
+(c) operators of fatigue‑regulated heavy vehicles if the drivers of the class are to make journeys for the operators using the vehicles.
+268—Conditions of work and rest hours exemption (notice)
+A work and rest hours exemption (notice) may be subject to any conditions the Regulator considers appropriate, including, for example—
+(a) conditions about driver fatigue management practices that are to apply to drivers operating under the exemption; and
+(b) conditions about keeping records relating to the driver fatigue management practices; and
+(c) a condition that the driver of a fatigue‑regulated heavy vehicle who is operating under the exemption must keep in the driver's possession a copy of—
+(i) the Commonwealth Gazette notice for the exemption; or
+(ii) an information sheet about the exemption published by the Regulator on the Regulator's website.
+269—Period for which work and rest hours exemption (notice) applies
+A work and rest hours exemption (notice)—
+(a) takes effect—
+(i) when the Commonwealth Gazette notice for the exemption is published; or
+(ii) if a later time is stated in the Commonwealth Gazette notice, at the later time; and
+(b) applies for the period stated in the Commonwealth Gazette notice.
+270—Requirements about Commonwealth Gazette notice
+(1) A Commonwealth Gazette notice for a work and rest hours exemption (notice) must state the following:
+(a) the class of drivers of fatigue‑regulated heavy vehicles to which the exemption applies;
+(b) the maximum work times and minimum rest times that are to apply to drivers operating under the exemption;
+(c) the other conditions of the exemption;
+(d) the period for which the exemption applies.
+(2) The Regulator must publish a copy of the Commonwealth Gazette notice on the Regulator's website.
+271—Amendment or cancellation of work and rest hours exemption (notice)
+(1) Each of the following is a ground for amending or cancelling a work and rest hours exemption (notice):
+(a) since the exemption was granted, there has been a change in the circumstances that were relevant to the Regulator's decision to grant the exemption and, had the changed circumstances existed when the exemption was granted, the Regulator would not have granted the exemption, or would have granted the exemption subject to conditions or different conditions;
+(b) the use of fatigue‑regulated heavy vehicles under the exemption has caused, or is likely to cause, a significant risk to public safety.
+(2) If the Regulator considers a ground exists to amend or cancel a work and rest hours exemption (notice), the Regulator may amend or cancel the exemption by complying with subsections (3) to (5).
+(3) The Regulator must publish a public notice—
+(a) stating that the Regulator believes a ground mentioned in subsection (1)(a) or (b) for amending or cancelling the exemption exists; and
+(b) outlining the facts and circumstances forming the basis for the belief; and
+(c) stating the action the Regulator is proposing to take under this section (the proposed action); and
+(d) inviting persons who will be affected by the proposed action to make, within a stated time of at least 14 days after the Commonwealth Gazette notice is published, written representations about why the proposed action should not be taken.
+(4) If, after considering all written representations made under subsection (3)(d), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the exemption—amend the exemption, including, for example, by imposing additional conditions on the exemption, in a way that is not substantially different from the proposed action; or
+(b) if the proposed action was to cancel the exemption—
+(i) amend the exemption, including, for example, by imposing additional conditions on the exemption; or
+(ii) cancel the exemption.
+(5) The Regulator must publish a public notice of the amendment or cancellation.
+(6) The amendment or cancellation takes effect—
+(a) 28 days after the Commonwealth Gazette notice is published under subsection (5); or
+(b) if a later time is stated in the Commonwealth Gazette notice, at the later time.
+272—Immediate suspension
+(1) This section applies if the Regulator considers—
+(a) a ground exists to cancel a work and rest hours exemption (notice); and
+(b) it is necessary to suspend the exemption immediately to prevent or minimise serious harm to public safety.
+(2) The Regulator may, by public notice, immediately suspend the exemption until the earliest of the following:
+(a) the end of 56 days after the day the public notice is published;
+(b) the Regulator publishes a notice under section 271(5) and the amendment or cancellation takes effect under section 271(6);
+(c) the Regulator cancels the suspension by public notice.
+(4) The suspension, or (where relevant) the cancellation of the suspension, takes effect immediately after the Commonwealth Gazette notice is published under subsection (3).
+(5) This section applies despite section 271.
+Subdivision 3—Exemptions by permit
+273—Regulator's power to exempt drivers from particular maximum work requirements and minimum rest requirements
+(1) The Regulator may, by giving a person a permit as mentioned in section 278, grant an exemption to allow, for a period of not more than 3 years, a driver of a fatigue‑regulated heavy vehicle, or a class of drivers of fatigue‑regulated heavy vehicles, to operate under the maximum work times and minimum rest times stated in the exemption.
+(2) An exemption under subsection (1) is a work and rest hours exemption (permit).
+(3) The Regulator may grant a work and rest hours exemption (permit) to the operator of a fatigue‑regulated heavy vehicle in combination with the operator's BFM accreditation or AFM accreditation.
+(4) The Regulator may grant a work and rest hours exemption (permit)—
+(a) in a way that does not cover all the drivers sought by the applicant; or
+(b) setting maximum work times and minimum rest times different to the maximum work times and minimum rest times sought by the applicant.
+274—Application for work and rest hours exemption (permit)
+(1) Any of the following persons may apply to the Regulator for a work and rest hours exemption (permit):
+(a) an employer of a driver of a fatigue‑regulated heavy vehicle;
+(b) a prime contractor for a driver of a fatigue‑regulated heavy vehicle;
+(c) an operator of a fatigue‑regulated heavy vehicle;
+(d) a self‑employed driver of a fatigue‑regulated heavy vehicle.
+(2) The application must—
+(a) be in the approved form; and
+(b) state the following:
+(i) the period for which the exemption is sought;
+(ii) any conditions to which the exemption is sought to be subject;
+(iii) the name of the driver of a fatigue‑regulated heavy vehicle to whom the exemption is sought to apply, or details of the class of drivers of fatigue‑regulated heavy vehicles to whom the exemption is sought to apply;
+(iv) the proposed maximum work times and minimum rest times that would be followed by drivers operating under the exemption;
+(v) if the proposed maximum work times and minimum rest times to apply under the exemption could be accommodated within BFM hours or AFM hours—
+(A) the driver fatigue management practices that would be followed by the applicant and drivers operating under the exemption; and
+(B) how the practices would safely manage fatigue risks; and
+(C) how the requirements applying to BFM accreditation or AFM accreditation under this Law would be unreasonable for the operations conducted by the applicant, having regard to the nature of the operations; and
+(c) be accompanied by the prescribed fee for the application.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+275—Restriction on grant of work and rest hours exemption (permit)
+(1) The Regulator may grant a work and rest hours exemption (permit) only if the Regulator is satisfied—
+(a) requiring the drivers to whom the exemption is to apply to comply with the standard hours would be an unreasonable restriction on operations conducted by the applicant; and
+(b) if the maximum work times and minimum rest times to apply under the exemption could be accommodated within BFM hours or AFM hours—the requirements applying to BFM accreditation or AFM accreditation under this Law would be unreasonable for the operations conducted by the applicant, having regard to the nature of the operations; and
+(c) the driver fatigue management practices that are to apply to drivers operating under the exemption would, if followed, safely manage fatigue risks; and
+(d) the drivers to whom the exemption is to apply are likely to follow the practices consistently and effectively.
+(2) In deciding whether or not to grant a work and rest hours exemption (permit), the Regulator must have regard to the approved guidelines for granting work and rest hours exemptions.
+276—Conditions of work and rest hours exemption (permit)
+(1) If the Regulator grants a work and rest hours exemption (permit) to the operator of a fatigue‑regulated heavy vehicle in combination with the operator's BFM accreditation or AFM accreditation, it is a condition of the exemption that the operator must comply with all the conditions of the operator's BFM accreditation or AFM accreditation.
+(2) A work and rest hours exemption (permit) may be subject to any other conditions the Regulator considers appropriate, including, for example, conditions about—
+(a) driver fatigue management practices that are to apply to drivers operating under the exemption; and
+(b) keeping records relating to the driver fatigue management practices.
+277—Period for which work and rest hours exemption (permit) applies
+(1) A work and rest hours exemption (permit) applies for the period stated in the permit for the exemption.
+(2) The period may be less than the period sought by the applicant for the work and rest hours exemption (permit).
+278—Permit for work and rest hours exemption (permit) etc
+(1) If the Regulator grants a work and rest hours exemption (permit) to a person, the Regulator must give the person—
+(a) a permit for the exemption; and
+(b) if prescribed circumstances apply to the grant of the exemption—an information notice for the prescribed circumstances.
+(2) A permit for a work and rest hours exemption (permit) must state the following:
+(a) the name of the person to whom the permit is given;
+(b) the driver of a fatigue‑regulated heavy vehicle, or class of drivers of fatigue‑regulated heavy vehicles, to which the exemption applies;
+(c) the maximum work times and minimum rest times that apply to drivers operating under the exemption;
+(d) the conditions of the exemption, including, if applicable, the condition mentioned in section 276(1);
+(e) the period for which the exemption applies.
+(3) In this section—
+prescribed circumstances, for a work and rest hours exemption (permit), means the Regulator has—
+(a) imposed conditions on the exemption under section 276(2); or
+(b) granted the exemption in a way that does not cover all the drivers sought by the applicant for the exemption; or
+(c) granted the exemption setting maximum work times and minimum rest times different to the maximum work times and minimum rest times sought by the applicant for the exemption; or
+(d) granted the exemption for a period less than the period of not more than 3 years sought by the applicant for the exemption.
+279—Refusal of application for work and rest hours exemption (permit)
+If the Regulator refuses an application for a work and rest hours exemption (permit), the Regulator must give the applicant an information notice for the decision to refuse the application.
+280—Amendment or cancellation of work and rest hours exemption (permit) on application by permit holder
+(1) The holder of a permit for a work and rest hours exemption (permit) may apply to the Regulator for an amendment or cancellation of the exemption.
+(2) The application must—
+(a) be in the approved form; and
+(b) be accompanied by the prescribed fee for the application; and
+(c) if the application is for an amendment—state clearly the amendment sought and the reasons for the amendment; and
+(d) be accompanied by the permit.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+(4) The Regulator must decide the application as soon as practicable after receiving it.
+(5) If the Regulator decides to grant the application—
+(a) the Regulator must give the applicant notice of the decision; and
+(b) the amendment or cancellation takes effect—
+(i) when notice of the decision is given to the applicant; or
+(ii) if a later time is stated in the notice, at the later time; and
+(c) if the Regulator amended the exemption, the Regulator must give the applicant a replacement permit for the exemption as amended.
+(6) If the Regulator decides not to amend or cancel the exemption as sought by the applicant, the Regulator must—
+(a) give the applicant an information notice for the decision; and
+(b) return the permit for the exemption to the applicant.
+281—Amendment or cancellation of work and rest hours exemption (permit) on Regulator's initiative
+(1) Each of the following is a ground for amending or cancelling a work and rest hours exemption (permit):
+(a) the exemption was granted because of a document or representation that was—
+(i) false or misleading; or
+(ii) obtained or made in an improper way;
+(b) the holder of the permit for the exemption has contravened this Law or a corresponding fatigue law;
+(c) a driver of a fatigue‑regulated heavy vehicle to whom the exemption applies has contravened this Law or a corresponding fatigue law;
+(d) since the exemption was granted, there has been a change in the circumstances that were relevant to the Regulator's decision to grant the exemption and, had the changed circumstances existed when the exemption was granted, the Regulator would not have granted the exemption, or would have granted the exemption subject to conditions or different conditions.
+(2) If the Regulator considers a ground exists to amend or cancel a work and rest hours exemption (permit) (the proposed action), the Regulator must give the holder of the permit for the exemption a notice—
+(a) stating the proposed action; and
+(b) stating the ground for the proposed action; and
+(c) outlining the facts and circumstances forming the basis for the ground; and
+(d) if the proposed action is to amend the exemption (including a condition of the exemption)—stating the proposed amendment; and
+(e) inviting the holder to make, within a stated time of at least 14 days after the notice is given to the holder, written representations about why the proposed action should not be taken.
+(3) If, after considering all written representations made under subsection (2)(e), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the exemption—amend the exemption, including, for example, by imposing additional conditions on the exemption, in a way that is not substantially different from the proposed action; or
+(b) if the proposed action was to cancel the exemption—
+(i) amend the exemption, including, for example, by imposing additional conditions on the exemption; or
+(ii) cancel the exemption.
+(4) The Regulator must give the holder an information notice for the decision.
+(5) The amendment or cancellation takes effect—
+(a) when the information notice is given to the holder; or
+(b) if a later time is stated in the information notice, at the later time.
+282—Immediate suspension of work and rest hours exemption (permit)
+(1) This section applies if the Regulator considers—
+(a) a ground exists to cancel a work and rest hours exemption (permit); and
+(b) it is necessary to suspend the exemption immediately to prevent or minimise serious harm to public safety.
+(2) The Regulator may, by notice (immediate suspension notice) given to the person to whom the permit for the exemption was given, immediately suspend the exemption until the earliest of the following:
+(a) the Regulator gives the holder a notice under section 281(4) and the amendment or cancellation takes effect under section 281(5);
+(b) the Regulator cancels the suspension;
+(c) the end of 56 days after the day the immediate suspension notice is given to the holder.
+(3) This section applies despite sections 280 and 281.
+283—Minor amendment of work and rest hours exemption (permit)
+The Regulator may, by notice given to the holder of a permit for a work and rest hours exemption (permit), amend the exemption in a minor respect—
+(a) for a formal or clerical reason; or
+(b) in another way that does not adversely affect the holder's interests.
+284—Return of permit
+(1) If a person's work and rest hours exemption (permit) is amended or cancelled, the Regulator may, by notice given to the person, require the person to return the person's permit for the exemption to the Regulator.
+(2) The person must comply with the notice within 7 days after the notice is given to the person or, if a longer period is stated in the notice, within the longer period.
+Maximum penalty: $6 000.
+(3) If the exemption has been amended, the Regulator must give the person a replacement permit for the exemption as amended.
+285—Replacement of defaced etc permit
+(1) If a person's permit for a work and rest hours exemption (permit) is defaced, destroyed, lost or stolen, the person must, as soon as reasonably practicable after becoming aware of the matter, apply to the Regulator for a replacement permit.
+Maximum penalty: $4 000.
+(2) If the Regulator is satisfied the permit has been defaced, destroyed, lost or stolen, the Regulator must give the person a replacement permit as soon as practicable.
+(3) If the Regulator decides not to give a replacement permit to the person, the Regulator must give the person an information notice for the decision.
+Subdivision 4—Offences relating to operating under work and rest hours exemption etc
+286—Contravening condition of work and rest hours exemption
+(1) A person must not contravene a condition of a work and rest hours exemption.
+Maximum penalty: $6 000.
+(2) In this section—
+condition, of a work and rest hours exemption, does not include—
+(a) a condition mentioned in section 287(1); or
+(b) anything stating the exemption hours for the exemption.
+287—Keeping relevant document while operating under work and rest hours exemption (notice)
+(1) This section applies if a work and rest hours exemption (notice) is subject to the condition that the driver of a fatigue‑regulated heavy vehicle who is operating under the exemption must keep a relevant document in the driver's possession.
+(2) A driver of the fatigue‑regulated heavy vehicle who is operating under the work and rest hours exemption (notice) must comply with the condition.
+Maximum penalty: $3 000.
+(3) If an offence is committed against subsection (2) involving the driver of a fatigue-regulated heavy vehicle, each relevant party for the driver is also taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
+(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(7) In this section—
+relevant document, for a work and rest hours exemption (notice), means a copy of—
+(a) the Commonwealth Gazette notice for the exemption; or
+(b) an information sheet about the exemption published by the Regulator on the Regulator's website;
+relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+288—Keeping copy of permit while driving under work and rest hours exemption (permit)
+(1) The driver of a fatigue‑regulated heavy vehicle who is driving the vehicle under a work and rest hours exemption (permit) must keep a copy of the permit for the exemption in the driver's possession.
+Maximum penalty: $3 000.
+(2) If the driver of a fatigue‑regulated heavy vehicle is operating under a work and rest hours exemption (permit) granted to a relevant party for the driver and the relevant party has given the driver a copy of a permit for the purpose of subsection (1), the driver must, as soon as reasonably practicable, return the copy to the relevant party if the driver—
+(a) stops working for the relevant party; or
+(b) stops operating under the relevant party's exemption; or
+(c) no longer meets the requirements relating to drivers under the relevant party's exemption.
+Maximum penalty: $4 000.
+(3) If an offence is committed against subsection (1) involving the driver of a fatigue-regulated heavy vehicle, each relevant party for the driver is also taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
+(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(7) In this section—
+relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+Part 4—Requirements about record keeping
+Division 1—Preliminary
+289—What is 100km work and 100+km work
+(1) The driver of a fatigue‑regulated heavy vehicle is undertaking 100km work if the driver is driving in an area with a radius of 100km or less from the driver's base.
+(2) The driver of a fatigue‑regulated heavy vehicle is undertaking 100+km work if the driver is driving in an area with a radius of more than 100km from the driver's base.
+(3) To remove any doubt, it is declared that the driver of a fatigue‑regulated heavy vehicle to whom subsection (2) applies—
+(a) is taken to be engaged in 100+km work even while the driver is driving in an area within a radius of 100km or less from the driver's base; and
+(b) if the driver is required to record information in a work diary under this Part, must record particulars of the journey in the driver's work diary from the beginning of the journey.
+290—What is a driver's record location
+The record location of the driver of a fatigue‑regulated heavy vehicle is—
+(a) if the driver's record keeper has advised the driver of the place that is the driver's record location—the place advised; or
+(b) otherwise—the driver's base.
+Division 2—Work diary requirements
+Subdivision 1—Requirement to carry work diary
+291—Application of Subdivision 1
+This Subdivision applies if the driver of a fatigue‑regulated heavy vehicle—
+(a) is undertaking 100+km work under standard hours; or
+(b) was undertaking 100+km work under standard hours in the last 28 days; or
+(c) is working under BFM hours, AFM hours or exemption hours; or
+(d) was working under BFM hours, AFM hours or exemption hours in the last 28 days.
+292—Meaning of work diary for Subdivision 1
+(1) In this Subdivision, a reference to a work diary in relation to the driver of a fatigue‑regulated heavy vehicle is a reference to the following:
+(a) if the driver has used only 1 or more written work diaries in the last 28 days—
+(i) the written work diary the driver is currently using; and
+(ii) any filled‑up written work diary the driver has used during the last 28 days;
+(b) if the driver has used only 1 or more electronic work diaries in the last 28 days—information in each electronic work diary relating to any period during the last 28 days;
+(c) if the driver has used a combination of 1 or more written work diaries and 1 or more electronic work diaries in the last 28 days—
+(i) each of the written work diaries the driver is using or has used during the last 28 days; and
+(ii) the information in each of the electronic work diaries the driver is using or has used during the last 28 days that relates to any period during the last 28 days.
+(2) If the driver has made a supplementary record in the last 28 days, for this Subdivision, the supplementary record is taken to be part of the driver's work diary.
+Note—
+Section 305(4) provides in effect that a driver can no longer use a supplementary record if the driver is issued with a new work diary, the driver's existing electronic work diary is made capable of recording new information or is brought back into working order, or 7 business days have expired (whichever first happens).
+293—Driver of fatigue‑regulated heavy vehicle must carry work diary
+(1) The driver of a fatigue‑regulated heavy vehicle must—
+(a) keep a work diary; and
+(b) ensure—
+(i) the driver's work diary records the information required to be recorded under Subdivision 2 for each day in the previous 28 days; and
+(ii) the driver's work diary is in the driver's possession while the driver is driving the vehicle.
+Maximum penalty: $6 000.
+Notes—
+1 For the requirement to record particular information in a supplementary record if the work diary of the driver of a fatigue‑regulated heavy vehicle is filled up, destroyed, lost, stolen or, for an electronic diary, is malfunctioning, see section 305.
+2 Under section 568, an authorised officer may require the driver of a fatigue‑regulated heavy vehicle to produce for inspection the driver's work diary.
+(2) Subsection (1) applies irrespective of the number of days in the previous 28 days the driver spent working in relation to a fatigue‑regulated heavy vehicle.
+(3) In a proceeding for an offence against subsection (1) relating to the driver failing to keep a work diary containing particular information, it is a defence for the driver to prove that—
+(a) the information was recorded in a work diary that, at the time of the offence, has been destroyed (other than by the driver) or lost or stolen; or
+(b) the information was—
+(i) recorded in an electronic work diary; and
+(ii) destroyed or lost as a result of a malfunction of the electronic work diary before the information was given to the driver's record keeper or recorded in any other way.
+Subdivision 2—Information required to be included in work diary
+294—Purpose of and definition for Subdivision 2
+(1) This Subdivision provides for the information the driver of a fatigue‑regulated heavy vehicle must record in the driver's work diary for each day on which the driver—
+(a) undertakes 100+km work under standard hours; or
+(b) works under BFM hours, AFM hours or exemption hours.
+(2) In this Subdivision—
+required information means information required by the national regulations under section 295 to be recorded in the driver's work diary.
+295—National regulations for information to be included in work diary
+(1) The national regulations may provide for—
+(a) the information that is to be recorded in the driver's work diary; and
+(b) the manner in which information is to be recorded in the driver's work diary; and
+(c) any other matter relating to information that is to be recorded in the driver's work diary.
+(2) Without limiting subsection (1), the national regulations may provide—
+(a) for information to be recorded on a daily basis (including each period of work time and rest time the driver has on a day) or on some other stated basis; and
+(b) for information to be recorded immediately before or after a period of work time or rest time; and
+(c) for information to be recorded when finishing work for a day; and
+(d) for information to be recorded when there is a change of the driver's base; and
+(e) for information to be recorded when there is a change of the driver's record location; and
+(f) for information to be recorded regarding the parties to a two-up driving arrangement.
+(3) Without limiting subsections (1) and (2), the national regulations may provide that, if the driver stops working on a day and starts a major rest break that will continue until the end of the day, the driver may stop recording information for the day when the driver stops working and starts the major rest break.
+296—Recording information under the national regulations—general
+(1) The driver must record the required information in the driver's work diary in the manner and at the time prescribed by the national regulations.
+Maximum penalty: $1 500.
+(2) Subsection (1) does not apply to information to which section 297 applies.
+297—Information required to be recorded immediately after starting work
+(1) This section applies to required information that the national regulations specify for the purposes of this section as required to be recorded immediately after the driver starts work on a day.
+(2) The driver must record the required information to which this section applies immediately after starting work on a day.
+Maximum penalty: $6 000.
+(3) In a proceeding for an offence against subsection (2) in relation to the failure of the driver to record information immediately after starting to undertake 100+km work under standard hours on a day, it is a defence for the driver to prove that at the time of the offence—
+(a) the driver was unaware that the driver would be undertaking 100+km work under standard hours on the day; and
+(b) the driver recorded the information in the driver's work diary as soon as practicable after becoming aware that the driver would be undertaking 100+km work under standard hours on the day.
+298—Failing to record information about odometer reading
+(1) The driver of a fatigue-regulated heavy vehicle must record the odometer reading in the manner prescribed by the national regulations if and when required to do so by the national regulations.
+Maximum penalty: $1 500.
+(2) In a proceeding for the offence against subsection (1), it is a defence for the driver to prove that—
+(a) at the time of the offence, the odometer was malfunctioning; and
+(b) the driver has complied with section 397.
+299—Two‑up driver to provide details
+If the driver is a party to a two‑up driving arrangement, the driver must, at the request of the other driver (the other driver) who is a party to the arrangement, provide the other driver with the details relating to the arrangement that are prescribed by the national regulations for the purposes of this section.
+Maximum penalty: $3 000.
+Subdivision 3—How information must be recorded in work diary
+300—Purpose of Subdivision 3
+This Subdivision states how the driver of a fatigue‑regulated heavy vehicle who is required to record information in the driver's work diary under Subdivision 2 must record the information.
+301—Recording information in written work diary
+If the driver's work diary is a written work diary, the driver must record information in the work diary in the following way:
+(a) the information for each day must be written on a separate daily sheet in the work diary that has not been cancelled by the Regulator;
+(b) if, on a day, the driver changes the work and rest hours option under which the driver is working, the information for the part of the day after the change must be written on a separate daily sheet in the work diary that has not been cancelled by the Regulator;
+(c) information must be written on a daily sheet in the way stated in the instructions in the work diary for recording information on daily sheets;
+(d) the daily sheets in the work diary must be used in turn from the front of the work diary;
+(e) each daily sheet must be—
+(i) signed and dated by the driver; and
+(ii) if the driver is driving under a two‑up driving arrangement—signed by the other driver who is a party to the arrangement;
+(f) information must be written on a daily sheet with enough pressure to ensure a readable record of the information appears on the duplicate daily sheets;
+(g) information recorded other than on a daily sheet must be written in the work diary in the way stated in the instructions in the work diary for the recording of the information.
+Maximum penalty: $1 500.
+302—Recording information in electronic work diary
+If the driver's work diary is an electronic work diary, the driver must record information in the work diary in a way complying with—
+(a) if the Regulator has, when approving the electronic recording system constituting the work diary, or of which the work diary is a part, imposed any conditions in relation to the way information must be recorded in the work diary—those conditions; and
+(b) the manufacturer's instructions, if any, for recording information in the electronic work diary, to the extent the instructions are consistent with the conditions mentioned in paragraph (a).
+Maximum penalty: $1 500.
+Note—
+The Regulator may impose conditions on the use of an electronic recording system under section 343.
+303—Time zone of driver's base must be used
+The driver must record time in the driver's work diary according to the time zone in the place where the driver's base is, rather than the time zone in the place where the driver is.
+Maximum penalty: $1 500.
+Note—
+See also section 248, which requires that time periods be counted by reference to the time zone of a driver's base when the driver's journey involves travelling into a different time zone.
+Subdivision 4—Requirements about work diaries that are filled up etc
+304—Application of Subdivision 4
+This Subdivision applies to the driver of a fatigue‑regulated heavy vehicle who is required to record information in the driver's work diary under Subdivision 2 if—
+(a) for a driver who uses a written work diary—the driver's work diary has been filled up, destroyed, lost or stolen; or
+(b) for a driver who uses an electronic work diary—the driver's work diary—
+(i) has been filled up, destroyed, lost or stolen; or
+(ii) is not in working order because a part of the diary has been destroyed, lost or stolen; or
+(iii) is malfunctioning or has malfunctioned.
+305—Driver must make supplementary records in particular circumstances
+(1) During any period in which the driver of a fatigue‑regulated heavy vehicle is unable to use the driver's work diary (the existing work diary) because of circumstances mentioned in section 304(a) or (b), the driver must record in a supplementary record the information the driver is required under Subdivision 2 to record for the period (the required information).
+Maximum penalty: $6 000.
+Note—
+Under Subdivision 1, the driver of a fatigue‑regulated heavy vehicle must keep a supplementary record for 28 days after it is made as part of the driver's work diary. See section 292(2) and 293.
+Also, under section 341, the driver's record keeper must keep the supplementary record for at least 3 years after it is made (if the record keeper is the driver) or received by the record keeper (if the record keeper is not the driver). However, the period can be less than 3 years if a condition of an exemption states a record must be kept for a period of less than 3 years.
+(2) For a supplementary record that is not in electronic form, the required information must be recorded in the record as follows:
+(a) the information for each day must be written on a separate page of the record;
+(b) if, on a day, the driver changes the work and rest hours option under which the driver is working, the information for the part of the day after the change must be written on a separate page of the record;
+(c) each page of the record must be—
+(i) signed and dated by the driver; and
+(ii) if the driver is driving under a two‑up driving arrangement—signed by the other driver who is a party to the arrangement.
+Maximum penalty: $3 000.
+(3) The driver must record time in the supplementary record according to the time zone in the place where the driver's base is, rather than the time zone in the place where the driver is.
+Maximum penalty: $1 500.
+(4) Subsections (1) to (3) cease to apply—
+(a) if the existing work diary is a written work diary, when the first of the following happens:
+(i) the driver is issued a new written work diary, or obtains an electronic work diary that is in working order;
+(ii) the expiry of 7 business days after the day on which the driver starts recording information under this section; or
+(b) if the existing work diary is an electronic work diary, when the first of the following happens:
+(i) the driver obtains a new electronic work diary that is in working order, or a written work diary;
+(ii) the existing work diary is—
+(A) if the diary is filled up—made capable of recording new information; or
+(B) if the diary is not in working order as mentioned in section 304(b)(ii) or is malfunctioning—brought into working order;
+(iii) the expiry of 7 business days after the day on which the driver starts recording information under this section.
+Note—
+If one of the circumstances in subsection (4) applies, a driver may no longer use a supplementary record to record the information required to be recorded under Subdivision 2, and if the driver does not begin to keep a work diary in accordance with section 293 then the driver commits an offence against that section.
+(5) In this section—
+supplementary record means a record that—
+(a) is not made in a written or electronic work diary; but
+(b) is in a similar form to a written or electronic work diary.
+306—Driver must notify Regulator if written work diary filled up etc
+Within 2 business days after the driver of a fatigue‑regulated heavy vehicle becomes aware that the driver's written work diary has been filled up, destroyed, lost or stolen, the driver must notify the Regulator in the approved form of that happening.
+Maximum penalty: $3 000.
+307—Driver who is record keeper must notify Regulator if electronic work diary filled up etc
+(1) This section applies if the driver of a fatigue‑regulated heavy vehicle who is his or her own record keeper—
+(a) becomes aware that the driver's electronic work diary has been filled up, destroyed, lost or stolen or is not in working order as mentioned in section 304(b)(ii); or
+(b) becomes aware or has reason to suspect that the driver's electronic work diary is malfunctioning or has malfunctioned.
+(2) The driver must notify the Regulator in the approved form of the matter within 2 business days.
+Maximum penalty: $3 000.
+(3) Within a period required by the Regulator, the driver must ensure the electronic work diary is examined and brought into working order.
+Maximum penalty: $3 000.
+308—What driver must do if lost or stolen written work diary found or returned
+(1) If a lost or stolen written work diary (the old work diary) is found by or returned to the driver of a fatigue‑regulated heavy vehicle after a replacement work diary has been issued to the driver, the driver must do the following:
+(a) immediately cancel any unused daily sheets in the old work diary;
+(b) if the old work diary is found or returned within 28 days after it was lost or stolen—
+(i) immediately notify the Regulator in the approved form that it has been found or returned; and
+(ii) give it to the Regulator within 2 business days after the 28‑day period ends;
+(c) if the old work diary is found or returned later than 28 days after it was lost or stolen—give it to the Regulator as soon as practicable after it is found or returned.
+Maximum penalty: $3 000.
+(2) If a driver of a fatigue‑regulated heavy vehicle gives a previously lost or stolen written work diary to the Regulator under subsection (1), the Regulator must—
+(a) if the driver has not complied with subsection (1)(a), cancel any unused daily sheets in the work diary; and
+(b) return the work diary to the driver.
+309—Information required to be recorded immediately after starting work
+(1) This section applies if—
+(a) the driver of a fatigue‑regulated heavy vehicle—
+(i) becomes aware that the driver's electronic work diary has been filled up, destroyed, lost or stolen or is not in working order as mentioned in section 304(b)(ii); or
+(ii) becomes aware or has reason to suspect that the driver's electronic work diary is malfunctioning or has malfunctioned; and
+(b) the driver's record keeper is a person other than the driver.
+(2) The driver must, within 2 business days after the driver becomes aware of the matter, inform the driver's record keeper of the matter.
+Maximum penalty: $3 000.
+310—Intelligent access program reporting entity must notify record keeper if approved electronic recording system malfunctioning
+(1) This section applies if—
+(a) an approved electronic recording system—
+(i) constitutes an electronic work diary or has a part that constitutes an electronic work diary; and
+(ii) is or is part of an approved intelligent transport system; and
+(b) an intelligent access program reporting entity for the approved intelligent transport system becomes aware or has reason to suspect that the approved electronic recording system is malfunctioning or has malfunctioned.
+(2) The intelligent access program reporting entity must inform the driver's record keeper of the matter within 2 business days.
+Maximum penalty: $6 000.
+311—What record keeper must do if electronic work diary filled up
+(1) This section applies if—
+(a) the record keeper for the driver of a fatigue‑regulated heavy vehicle is a person other than the driver; and
+(b) the driver uses an electronic work diary supplied to the driver by the record keeper; and
+(c) the record keeper becomes aware or has reason to suspect that the electronic work diary has been filled up.
+(2) The record keeper must, as soon as reasonably practicable after becoming aware of the matter or having reason to suspect the matter—
+(a) either—
+(i) make the electronic work diary capable of recording new information; or
+(ii) give the driver a new electronic work diary that is in working order; and
+(b) if the record keeper removes any information relating to any period during the last 28 days from the work diary to make it capable of recording new information—give the driver the removed information in a way that makes the information readily available to the driver; and
+(c) notify the Regulator in the approved form that the electronic work diary has been filled up.
+Maximum penalty: $6 000.
+(3) If the record keeper has engaged another person under a contract for services to comply with subsection (2) for the record keeper—
+(a) the record keeper remains liable for an offence against subsection (2); and
+(b) the other person is also liable for an offence against subsection (2) as if the other person were the record keeper mentioned in the subsection.
+(4) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+312—What record keeper must do if electronic work diary destroyed, lost or stolen
+(1) This section applies if—
+(a) the record keeper for the driver of a fatigue‑regulated heavy vehicle is a person other than the driver; and
+(b) the driver uses an electronic work diary supplied to the driver by the record keeper; and
+(c) the record keeper becomes aware or has reason to suspect that the electronic work diary has been destroyed, lost or stolen.
+(2) The record keeper must, as soon as reasonably practicable after becoming aware of the matter or having reason to suspect the matter—
+(a) inform the driver that the electronic work diary has been destroyed, lost or stolen unless the driver informed the record keeper about the fault under section 309; and
+(b) give the driver an electronic work diary that is in working order; and
+(c) give the driver any information, in a way that makes the information readily available to the driver, that was in the destroyed, lost or stolen electronic work diary that—
+(i) is accessible to the record keeper; and
+(ii) relates to any period during the last 28 days; and
+(iii) is not stored in the new electronic work diary.
+Maximum penalty: $6 000.
+(3) The record keeper must within 2 business days notify the Regulator in the approved form that the electronic work diary has been destroyed, lost or stolen.
+Maximum penalty: $6 000.
+(4) If the record keeper has engaged another person under a contract for services to comply with subsection (2) or (3) for the record keeper—
+(a) the record keeper remains liable for an offence against subsection (2) or (3); and
+(b) the other person is also liable for an offence against subsection (2) or (3) as if the other person were the record keeper mentioned in the subsection.
+(5) A person charged with an offence against subsection (2) or (3) does not have the benefit of the mistake of fact defence for the offence.
+(6) However, in a proceeding for an offence against subsection (2) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+313—What record keeper must do if electronic work diary not in working order or malfunctioning
+(1) This section applies if—
+(a) the record keeper for the driver of a fatigue‑regulated heavy vehicle is a person other than the driver; and
+(b) the driver uses an electronic work diary supplied to the driver by the record keeper; and
+(c) the record keeper becomes aware of, or has reason to suspect, either of the following matters:
+(i) that the electronic work diary is not in working order;
+(ii) that the electronic work diary is malfunctioning or has malfunctioned.
+Note—
+The record keeper may become aware as mentioned in paragraph (c) whether or not the record keeper has been informed by the driver under section 309 or an intelligent access program reporting entity under section 310.
+(2) The record keeper must as soon as reasonably practicable after becoming aware of the matter or having reason to suspect the matter inform the driver about the matter unless the driver informed the record keeper about the matter under section 309.
+Maximum penalty: $6 000.
+(3) The record keeper must, after becoming aware of the matter or having reason to suspect the matter—
+(a) as soon as reasonably practicable, direct the driver in the approved form to use a supplementary record in compliance with section 305; and
+(b) as soon as reasonably practicable, give the driver information that was in the electronic work diary, in a way that makes the information readily available to the driver, that—
+(i) is accessible to the record keeper; and
+(ii) relates to any period during the last 28 days; and
+(iii) is not stored in the electronic work diary because the electronic work diary is not in working order or is malfunctioning or has malfunctioned; and
+(c) within 2 business days, notify the Regulator in the approved form that the electronic work diary is not in working order or is malfunctioning or has malfunctioned; and
+(d) within a period required by the Regulator, ensure the electronic work diary is examined and brought into working order and is not malfunctioning.
+Maximum penalty: $6 000.
+(4) Subsection (5) applies if the driver of the vehicle changes during any period that is relevant to the duties imposed on the record keeper by subsection (2) or (3).
+(5) Each reference to the driver in subsection (2) or (3) is a reference to the driver of the vehicle when the record keeper acts under the subsection.
+(6) If the record keeper has engaged another person under a contract for services to comply with subsection (2) or (3) for the record keeper—
+(a) the record keeper remains liable for an offence against subsection (2) or (3); and
+(b) the other person is also liable for an offence against subsection (2) or (3) as if the other person were the record keeper mentioned in the subsection.
+(7) Subsection (6) does not apply if the other person is engaged under a contract for services only to repair or otherwise bring the electronic work diary into working order.
+Example for the purposes of subsection (7)—
+A person in the business of repairing electronic recording systems is engaged under a contract for services to repair or otherwise bring the electronic work diary into working order on behalf of the record keeper.
+(8) A person charged with an offence against subsection (2) or (3) does not have the benefit of the mistake of fact defence for the offence.
+(9) However, in a proceeding for an offence against subsection (2) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+Subdivision 5—Use of electronic work diaries
+314—How electronic work diary must be used
+(1) This section applies if the driver of a fatigue‑regulated heavy vehicle who is required to record information in the driver's work diary under Subdivision 2 uses an electronic work diary.
+(2) The driver must use the electronic work diary in a way complying with—
+(a) any conditions applying under this Law or a corresponding fatigue law in relation to the use of the approved electronic recording system constituting the work diary or of which the work diary is a part; and
+(b) the manufacturer's specifications for the electronic recording system that is or includes the work diary, to the extent the specifications are consistent with the conditions mentioned in paragraph (a).
+Maximum penalty: $3 000.
+Note—
+The Regulator may impose conditions on the use of an electronic recording system under section 343.
+(3) The record keeper of a driver of a fatigue‑regulated heavy vehicle who uses an electronic work diary must ensure the driver complies with the requirements of subsection (2).
+Maximum penalty: $6 000.
+(4) In a proceeding for an offence against subsection (2) or (3) involving a person failing to comply with a particular specification of the manufacturer of an electronic recording system, it is a defence for the person to prove that—
+(a) the specification was not integral to the effective operation of the electronic recording system; or
+(b) what was done or not done in relation to the specification was in accordance with industry practice in relation to the handling or maintenance of an electronic recording system of that type from that manufacturer.
+Subdivision 6—Extended liability
+315—Liability of employer etc for driver's contravention of particular requirements of this Division
+(1) This section applies to an offence committed because the driver of a fatigue-regulated heavy vehicle contravenes a provision of Subdivision 1, Subdivision 2, Subdivision 3 or Subdivision 4 (a relevant offence).
+(2) If a relevant offence is committed involving the driver of a fatigue‑regulated heavy vehicle, each of the following persons is taken to have committed the offence against this subsection:
+(a) an employer of the driver if the driver is an employed driver;
+(b) a prime contractor of the driver if the driver is a self‑employed driver;
+(c) an operator of the vehicle if the driver is making a journey for the operator;
+(d) a scheduler for the vehicle.
+Maximum penalty: $6 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(5) In a proceeding for an offence against subsection (2)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the relevant offence; and
+(b) evidence a court has convicted the driver of the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+Division 3—Records relating to drivers
+Subdivision 1—Preliminary
+316—Application of Division 3
+This Division—
+(a) applies in relation to each record keeper for the driver of a fatigue‑regulated heavy vehicle; and
+(b) if there is more than 1 record keeper for the driver of a fatigue‑regulated heavy vehicle—applies only to the extent the driver is carrying out work in relation to which the record keeper is a record keeper for the driver.
+Example for the purposes of paragraph (b)—
+The driver of a fatigue‑regulated heavy vehicle is an employed driver employed by employer A and employer B, each of whom is a record keeper of the driver. A's obligations to record information under this Division apply only to the extent the information is about the work the driver carries out for A.
+For example, under section 319, A need only record the registration numbers of the fatigue‑regulated heavy vehicles the driver drives for carrying out work for A and the work times and rest times of the driver while carrying out that work. A does not need to record the registration numbers for the fatigue‑regulated heavy vehicles the driver drives for carrying out work for B or the work times and rest times of the driver while carrying out that work.
+317—Who is a driver's record keeper
+The following person is the record keeper for the driver of a fatigue‑regulated heavy vehicle:
+(a) if the driver is operating under a BFM accreditation or AFM accreditation of an operator of the vehicle or a work and rest hours exemption (permit) granted in combination with an operator's BFM accreditation or AFM accreditation—the operator;
+(b) otherwise—
+(i) for an employed driver of a fatigue‑regulated heavy vehicle—the driver's employer; or
+(ii) for a self‑employed driver of a fatigue‑regulated heavy vehicle—the driver.
+Subdivision 2—Record keeping obligations relating to drivers undertaking 100km work under standard hours
+318—Application of Subdivision 2
+This Subdivision applies in relation to the driver of a fatigue‑regulated heavy vehicle who is undertaking only 100km work under standard hours.
+319—Records record keeper must have
+(1) The driver's record keeper must—
+(a) record the following information within the prescribed period:
+(i) the driver's name and contact details;
+(ii) the driver's current driver licence number and the jurisdiction in which the licence was issued;
+(iii) the dates on which the driver drives a fatigue‑regulated heavy vehicle on a road;
+(iv) the registration number for each fatigue‑regulated heavy vehicle the driver drives, being—
+(A) in the case of a vehicle that is not in a combination—that vehicle; or
+(B) in the case of a vehicle that is in a combination—the towing vehicle in the combination;
+(v) the total of the driver's work times and rest times on each day on which the driver drives a fatigue‑regulated heavy vehicle;
+(vi) the total of the driver's work times and rest times for each week during which the driver drives a fatigue‑regulated heavy vehicle;
+(vii) the driver's rosters and trip schedules, including details of driver changeovers; and
+(b) keep a copy of payment records relating to the driver, including time sheet records if the driver is paid according to time at work.
+Maximum penalty: $6 000.
+(2) A requirement imposed on a record keeper by subsection (1)(a)(ii) to (vi) is taken to be satisfied if an electronic work diary used by the driver, the information in which is maintained by the record keeper, includes the information mentioned in the provisions.
+(3) If the record keeper has engaged another person under a contract for services to comply with subsection (1) for the record keeper—
+(a) the record keeper remains liable for an offence against subsection (1); and
+(b) the other person is also liable for an offence against subsection (1) as if the other person were the record keeper mentioned in the subsection.
+(4) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In this section—
+prescribed period, for recording information mentioned in subsection (1) relating to the driver of a fatigue‑regulated heavy vehicle, means—
+(a) if the driver's record keeper is the driver—within 24 hours after the driver stops working on a day for which the information is relevant; or
+(b) if the driver's record keeper is a person other than the driver—as soon as possible after the person receives the information.
+Subdivision 3—Record keeping obligations relating to drivers undertaking 100+km work under standard hours or operating under BFM hours, AFM hours or exemption hours
+320—Application of Subdivision 3
+This Subdivision applies in relation to the driver of a fatigue‑regulated heavy vehicle who is—
+(a) undertaking 100+km work under standard hours; or
+(b) operating under BFM hours, AFM hours or exemption hours.
+321—Records record keeper must have
+(1) The driver's record keeper must—
+(a) record the following information within the prescribed period:
+(i) the driver's name and contact details;
+(ii) the driver's current driver licence number and the jurisdiction in which the licence was issued;
+(iii) the driver's rosters and trip schedules, including details of driver changeovers; and
+(b) keep a copy of all duplicate pages, if any, and other copies of work diary entries, including any entry made in a supplementary record—
+(i) given to the record keeper under section 322; or
+(ii) as required to be made by the record keeper as a self-employed driver under Division 2; and
+(c) keep a copy of payment records relating to the driver, including time sheet records if the driver is paid according to time at work.
+Maximum penalty: $6 000.
+(2) The requirement imposed on the record keeper by subsection (1)(a)(ii) is taken to be satisfied if an electronic work diary used by the driver, the information in which is maintained by the record keeper, includes the information mentioned in the provision.
+(3) If the driver is operating under BFM hours or AFM hours, the record keeper must also record the following information:
+(a) the information required to be kept by the record keeper as a condition of the BFM accreditation or AFM accreditation under which the driver is operating;
+(b) the information required to be kept by the record keeper under the BFM standards and business rules or AFM standards and business rules.
+Maximum penalty: $6 000.
+Note—
+See also section 470 for other record‑keeping requirements applying to a record keeper who is an operator operating under a BFM accreditation or AFM accreditation.
+(4) If the record keeper has engaged another person under a contract for services to comply with subsection (1) or (3) for the record keeper—
+(a) the record keeper remains liable for an offence against the subsection; and
+(b) the other person is also liable for an offence against the subsection as if the other person were the record keeper mentioned in the subsection.
+(5) A person charged with an offence against subsection (1) or (3) does not have the benefit of the mistake of fact defence for the offence.
+(6) However, in a proceeding for an offence against subsection (1) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(7) This section does not apply to the record keeper for the driver of a fatigue‑regulated heavy vehicle who—
+(a) is exempt from the requirements of Division 2 under section 356; or
+(b) is operating under a work diary exemption (notice).
+Note—
+A record keeper for the driver of a fatigue-regulated heavy vehicle who is not exempt from the requirements of Division 2 under section 356 and who is operating under a work diary exemption (permit) is not exempt from this section and therefore is subject to its requirements.
+(8) In this section—
+AFM standards and business rules has the meaning given by section 457;
+BFM standards and business rules has the meaning given by section 457;
+prescribed period, for recording information mentioned in subsection (1) relating to the driver of a fatigue‑regulated heavy vehicle, means—
+(a) if the driver's record keeper is the driver—within 24 hours after the driver stops working on a day for which the information is relevant; or
+(b) if the driver's record keeper is a person other than the driver—as soon as possible after the person receives the information.
+322—General requirements about driver giving information to record keeper
+(1) This section applies if—
+(a) the driver of a fatigue‑regulated heavy vehicle is required to record information in the driver's work diary under Division 2; and
+(b) the driver's record keeper is a person other than the driver.
+(2) The driver must, within 21 days after the day on which the driver drove the vehicle, give a copy of the work diary entry recording the information, including any entry made in a supplementary record recording the information for that day, to each person who was a record keeper for the driver on that day.
+Maximum penalty: $3 000.
+(3) The requirement imposed on the driver by subsection (2) is taken to be satisfied if an electronic work diary used by the driver, the information in which is maintained by the record keeper, includes the information mentioned in the provision.
+(4) The record keeper must ensure the driver complies with subsection (2).
+Maximum penalty: $3 000.
+(5) If the record keeper has engaged another person under a contract for services to comply with subsection (4) for the record keeper—
+(a) the record keeper remains liable for an offence against subsection (4); and
+(b) the other person is also liable for an offence against subsection (4) as if the other person were the record keeper mentioned in the subsection.
+(6) A person charged with an offence against subsection (2) or (4) does not have the benefit of the mistake of fact defence for the offence.
+(7) However, in a proceeding for an offence against subsection (2) or (4), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+323—Requirements about driver giving information to record keeper if driver changes record keeper
+(1) This section applies if—
+(a) the driver of a fatigue‑regulated heavy vehicle is, or was in the previous 28 days, required to record information in the driver's work diary under Division 2; and
+(b) the driver changes record keepers; and
+(c) the new record keeper is a person other than the driver.
+(2) The driver must, before driving a fatigue‑regulated heavy vehicle for the driver's new record keeper, give the new record keeper a copy of information the driver recorded in a work diary in the 28 days before the change happened that relates to that 28‑day period.
+Maximum penalty: $3 000.
+(3) The new record keeper must ensure the driver complies with subsection (2).
+Maximum penalty: $3 000.
+(4) The requirement imposed on the driver or the record keeper by subsection (2) or (3) is taken to be satisfied if an electronic work diary used by the driver, the information in which is maintained by the record keeper, includes the information mentioned in the subsection.
+(5) If the new record keeper has engaged another person under a contract for services to comply with subsection (3) for the new record keeper—
+(a) the new record keeper remains liable for an offence against subsection (3); and
+(b) the other person is also liable for an offence against subsection (3) as if the other person were the new record keeper mentioned in the subsection.
+(6) A person charged with an offence against subsection (2) or (3) does not have the benefit of the mistake of fact defence for the offence.
+(7) However, in a proceeding for an offence against subsection (2) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+324—Record keeper must give information from electronic work diary
+(1) This section applies if—
+(a) the driver of a fatigue‑regulated heavy vehicle is required to record information in the driver's work diary under Division 2; and
+(b) the driver's record keeper is a person other than the driver; and
+(c) the driver is using an electronic work diary supplied to the driver by the driver's record keeper.
+(2) If the driver stops using the electronic work diary, the driver's record keeper must immediately give the driver, in a way that makes the information readily available to the driver, the information recorded in the work diary for each day on which the driver was using the electronic work diary.
+Maximum penalty: $3 000.
+(3) If the record keeper has engaged another person under a contract for services to comply with subsection (2) for the record keeper—
+(a) the record keeper remains liable for an offence against subsection (2); and
+(b) the other person is also liable for an offence against subsection (2) as if the other person were the record keeper mentioned in the subsection.
+(4) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+324A—Record keeper must give record to driver if requested
+(1) This section applies if—
+(a) the driver of a fatigue-regulated heavy vehicle is required to record information in the driver's work diary under Division 2; and
+(b) the driver's record keeper is a person other than the driver; and
+(c) the driver requests a record held under this Division by the record keeper.
+(2) The driver's record keeper must, as soon as reasonably practicable—
+(a) give the driver a copy of the record, or make the record available to the driver; or
+(b) if the information is recorded in an electronic work diary—give the driver, in a way that makes the information readily available to the driver, the information recorded in the work diary.
+Maximum penalty: $1 500.
+Division 4—Provisions about false representations relating to work records
+325—False or misleading entries
+(1) A person must not record something in a work record that the person knows, or ought reasonably to know, is false or misleading in a material particular.
+Maximum penalty: $10 000.
+Note—
+See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+(2) In a proceeding for an offence against subsection (1), it is enough for a charge to state that the entry was 'false or misleading', without specifying whether it was false or whether it was misleading.
+326—When possessing, or recording information in, more than 1 work diary relating to the same period is prohibited
+(1) The driver of a fatigue‑regulated heavy vehicle must not have in the driver's possession more than 1 written work diary in which information can be recorded on a daily sheet.
+Maximum penalty: $10 000.
+(2) The driver of a fatigue‑regulated heavy vehicle must not record information for the same period in—
+(a) a written work diary and an electronic work diary; or
+(b) more than 1 electronic work diary.
+Example—
+The driver of a fatigue‑regulated heavy vehicle works for A and B. The driver keeps a written work diary for work done for A and an electronic work diary for work done for B. On a particular day, the driver works from 1 pm to 5 pm for A and from 6 pm to 11 pm for B.
+The driver must record the information about the period between 1 pm and 5 pm in the written work diary kept for A, and the information for the period between 6 pm and 11 pm in the electronic work diary kept for B.
+The driver must not record information about the period between 1 pm and 5 pm, or the period between 6 pm to 11 pm, in both the written work diary and electronic work diary.
+Maximum penalty: $10 000.
+327—Possession of purported work records etc prohibited
+The driver of a fatigue‑regulated heavy vehicle or the record keeper for a driver of a fatigue‑regulated heavy vehicle must not have in the driver's or record keeper's possession a thing purporting to be a work record if the driver or record keeper knows, or ought reasonably to know, that it is not a work record.
+Maximum penalty: $10 000.
+Note—
+See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+328—False representation about work records prohibited
+A person must not falsely represent that a work record was made by the person.
+Maximum penalty: $10 000.
+Division 5—Interfering with work records
+Subdivision 1—Work records generally
+329—Defacing or changing work records etc prohibited
+A person must not deface or change a work record that the person knows, or ought reasonably to know, is correct.
+Maximum penalty: $10 000.
+Note—
+1 Giving a false or misleading document to an official is prohibited by section 702.
+2 See section 341 for the requirement that the record keeper for the driver of a fatigue‑regulated heavy vehicle keep particular records in a way that ensures they are readable and reasonably capable of being understood and capable of being used as evidence.
+3 See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+330—Making entries in someone else's work records prohibited
+(1) A person must not make an entry in someone else's work record.
+Maximum penalty: $10 000.
+(2) Subsection (1) does not apply to—
+(a) a person who—
+(i) makes an entry in another person's work diary under a work diary exemption (permit) applying to the other person; and
+(ii) is nominated by the other person to make the entry; or
+(b) an authorised officer; or
+(c) a party to a two‑up driving arrangement—
+(i) signing the written work diary of the other party to the arrangement; or
+(ii) making an entry in the other party's electronic work diary indicating the party's approval of the information recorded in the work diary.
+331—Destruction of particular work records prohibited
+If a work record is required under (or by a condition under) this Part to be kept for a particular period by a person, the person or someone else must not destroy the record before the end of the period.
+Maximum penalty: $10 000.
+Note—
+See section 341 for the period for which record keepers for drivers of fatigue‑regulated heavy vehicles are required to keep particular work records.
+332—Offence to remove pages from written work diary
+A person must not remove a daily sheet, or the duplicates of a daily sheet, from a written work diary except as required or authorised by this Law or a corresponding fatigue law.
+Maximum penalty: $10 000.
+Subdivision 2—Approved electronic recording systems
+333—Application of Subdivision 2
+This Subdivision applies to an approved electronic recording system constituting an electronic work diary or of which an electronic work diary is a part.
+334—Meaning of tamper
+Tamper with an approved electronic recording system means—
+(a) engage in conduct that—
+(i) results in the system, or a part of the system, malfunctioning; or
+(ii) could result in the system, or a part of the system, malfunctioning; or
+(iii) alters any of the data recorded by the system or a part of the system; or
+(iv) could alter any of the data recorded by the system or a part of the system; or
+(v) results in inaccurate information being recorded by the system or a part of the system; or
+(vi) could result in inaccurate information being recorded by the system or a part of the system; or
+(b) engage in conduct that alters or otherwise interferes with an electronic signal sent to or from the system, or a part of the system, if the alteration or interference has or could have an effect mentioned in paragraph (a)(i), (iii) or (v).
+335—Person must not tamper with approved electronic recording system
+(1) A person must not tamper with an approved electronic recording system.
+Maximum penalty: $10 000.
+(2) Subsection (1) does not apply to—
+(a) conduct associated with repairing an approved electronic recording system, or a part of an approved electronic recording system, that is malfunctioning or has malfunctioned; or
+(b) conduct associated with maintaining an approved electronic recording system; or
+(c) an authorised officer when exercising functions under this Law.
+(3) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(5) Also, in a proceeding for an offence against subsection (1) involving a person engaging in conduct that alters or otherwise interferes with any electronic signal sent to or from an approved electronic recording system, or a part of an approved electronic recording system, it is a defence for the person to prove that the person was not aware, and could not reasonably be expected to have been aware, that the conduct would alter or otherwise interfere with the electronic signal.
+336—Person using approved electronic recording system must not permit tampering with it
+(1) A person who uses an approved electronic recording system must not permit another person to tamper with the system.
+Maximum penalty: $10 000.
+Examples of a person who uses an approved electronic recording system—
+• a driver of a heavy vehicle
+• a driver's record keeper
+(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+336A—Reporting tampering or suspected tampering with electronic work diary
+(1) If the record keeper for the driver of a fatigue‑regulated heavy vehicle knows, or has reasonable grounds to suspect, an electronic work diary has been tampered with, the record keeper must report the matter to the Regulator—
+(a) within 2 business days; and
+(b) in the approved form.
+Maximum penalty: $6 000.
+(2) If the record keeper has engaged another person under a contract for services to comply with subsection (1) for the record keeper—
+(a) the record keeper remains liable for an offence against subsection (1); and
+(b) the other person is also liable for an offence against subsection (1) as if the other person were the record keeper mentioned in the subsection.
+(3) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+337—Intelligent access program reporting entity must not permit tampering with approved electronic recording system
+(1) This section applies if an approved electronic recording system is or is part of an approved intelligent transport system.
+(2) An intelligent access program reporting entity for the approved intelligent transport system must not permit another person to tamper with the approved electronic recording system.
+Maximum penalty: $10 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+Division 6—Obtaining written work diary
+338—Form of written work diary
+(1) This section states the requirements for written work diaries issued by the Regulator under this Division.
+(2) A written work diary must contain—
+(a) a unique identifying number for the work diary; and
+(b) sheets (daily sheets) that—
+(i) provide for recording information daily; and
+(ii) are sequentially numbered; and
+(c) 2 duplicates of each daily sheet; and
+(d) a duplicate of any application form contained in the work diary under subsection (3); and
+(e) instructions for use of the work diary.
+(3) A written work diary may contain an application in the approved form for the issue of another work diary.
+(4) Each daily sheet of a written work diary must be in a form that ensures that, if information is written on the daily sheet in the way stated in the instructions in the work diary or this Law, the information should be automatically copied on to the duplicates for the sheet.
+339—Application for written work diary
+(1) The driver of a fatigue‑regulated heavy vehicle may apply to the Regulator for a written work diary.
+(2) The application must be—
+(a) in the approved form; and
+(b) accompanied by the prescribed fee for the application.
+(3) If the application is for a written work diary to replace a written work diary previously issued to the driver (the existing written work diary), the driver must give the existing written work diary to the Regulator with the application, unless the existing written work diary has been destroyed, lost or stolen.
+(4) If the driver gives the existing written work diary to the Regulator, the Regulator must—
+(a) cancel any unused daily sheets in the written work diary; and
+(b) return the written work diary to the driver when the Regulator issues the replacement written work diary to the driver.
+(5) If the application is for a written work diary to replace a written work diary that has been destroyed, lost or stolen, the application must—
+(a) state the previous work diary's number and that it has been destroyed, lost or stolen; and
+(b) briefly outline the circumstances of the destruction, loss or theft.
+340—Issue of written work diary
+(1) The Regulator must issue a written work diary to the driver of a fatigue‑regulated heavy vehicle if the driver—
+(a) applies for the work diary under section 339; and
+(b) identifies himself or herself by showing his or her current driver licence to the Regulator; and
+(c) pays the prescribed fee for the issue of the work diary.
+(2) If the Regulator issues a written work diary to the driver of a fatigue‑regulated heavy vehicle, the Regulator must note the date, time and place of issue on the written work diary.
+(3) The Regulator may make other notes on the written work diary the Regulator considers appropriate.
+Division 7—Requirements about records record keeper must make or keep
+Note—
+In the Heavy Vehicle National Law set out in the Schedule to the Heavy Vehicle National Law Act 2012 of Queensland, this Division is numbered Division 6A.
+341—Period for which, and way in which, records must be kept
+(1) The record keeper of the driver of a fatigue-regulated heavy vehicle must keep a record required to be made or kept under Division 3, or a copy of the record, for 3 years after—
+(a) for a record made by the record keeper—the day the record keeper makes the record; or
+(b) for another record—the day the record keeper receives the record.
+Maximum penalty: $6 000.
+(2) The record keeper of the driver of a fatigue-regulated heavy vehicle must keep a record required to be made or kept under (or by a condition under) Division 9 or Division 10, or a copy of the record, for a period of 3 years, or, if a condition of an exemption states a record must be kept for a period of less than 3 years, the period stated in the condition, after—
+(a) for a record made by the record keeper—the day the record keeper makes the record; or
+(b) for another record—the day the record keeper receives the record.
+Maximum penalty: $6 000.
+(3) Except where the driver is his or her own record keeper, the record keeper must keep the record or copy at the driver's record location in a way that ensures it is readily available to an authorised officer at the record location.
+Maximum penalty: $3 000.
+(4) If the driver is his or her own record keeper, the driver as record keeper must ensure the record or copy of the record is kept at the driver's record location in a way that ensures it is readily available to an authorised officer at the record location by the end of the 21‑day period after the day the record is made.
+Maximum penalty: $3 000.
+(5) The record keeper must keep the record or copy in a way that ensures it is—
+(a) readable and reasonably capable of being understood; and
+(b) capable of being used as evidence.
+Example—
+To ensure a record kept in a storage facility does not become unreadable, for example, by degrading, the record keeper could scan the hard copy of the record and keep it in an electronic format that is readable.
+Maximum penalty: $6 000.
+(6) A reference in subsection (1) to keeping a record of information required to be made or kept under Division 3 includes a reference to maintaining a record of the information that is in an electronic work diary, if that record is taken to have satisfied the requirement under Division 3.
+(7) If the driver's work diary is an electronic work diary, the driver's record keeper must maintain a record of the information that is recorded in the work diary in a way complying with—
+(a) if the Regulator has, when approving the electronic recording system constituting the work diary, or of which the work diary is a part, imposed any conditions in relation to the way information must be recorded in the work diary—those conditions; and
+(b) the manufacturer's instructions, if any, for recording information in the electronic work diary, to the extent the instructions are consistent with the conditions mentioned in paragraph (a).
+Maximum penalty: $1 500.
+Note—
+The Regulator may impose conditions on the use of an electronic recording system under section 343.
+(8) If the record keeper has engaged another person under a contract for services to comply with subsection (1), (2), (3), (5) or (7) for the record keeper—
+(a) the record keeper remains liable for an offence against the subsection; and
+(b) the other person is also liable for an offence against the subsection as if the other person were the record keeper mentioned in the subsection.
+(9) A person charged with an offence against subsection (1), (2), (3), (5) or (7) does not have the benefit of the mistake of fact defence for the offence.
+(10) However, in a proceeding for an offence against subsection (1), (2), (3), (5) or (7), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+Division 8—Approval of electronic recording systems
+Note—
+In the Heavy Vehicle National Law set out in the Schedule to the Heavy Vehicle National Law Act 2012 of Queensland, this Division is numbered Division 7.
+Subdivision 1—Approval of electronic recording systems
+342—Application for approval of electronic recording system
+(1) A person may apply to the Regulator for the approval of an electronic recording system.
+Examples of persons who may apply for an approval under this section—
+• manufacturers of electronic recording systems
+• operators of fatigue‑regulated heavy vehicles
+• drivers of fatigue‑regulated heavy vehicles
+(2) The application must be—
+(a) in the approved form; and
+(b) accompanied by the prescribed fee for the application.
+343—Deciding application for approval
+(1) The Regulator must, as soon as practicable after receiving an application for an electronic recording system approval—
+(a) grant the approval, with or without conditions about the use or maintenance of the electronic recording system to which the approval relates; or
+(b) refuse the application.
+(2) The Regulator may approve an electronic recording system only if the Regulator is satisfied the system—
+(a) is suitable or has a part that is suitable for fitting to, or for use in, a fatigue‑regulated heavy vehicle; and
+(b) has a mechanism that readily indicates to the driver of the fatigue‑regulated heavy vehicle to which it or a part of it is fitted, or in which it or a part of it is used, that the system is or is not properly functioning; and
+(c) is capable of—
+(i) accurately monitoring and recording the work times and rest times of the driver of the fatigue‑regulated heavy vehicle to which it or a part of it is fitted, or in which it or a part of it is used; and
+(ii) accurately recording any other information the driver is required by this Law to record in a work diary; and
+(d) if the system or a part of it is to be fitted to a fatigue‑regulated heavy vehicle and is to be used by more than 1 driver of the vehicle, is capable of ensuring the following:
+(i) all of the information mentioned in paragraph (c) can be accurately monitored or recorded for each of the drivers;
+(ii) the details recorded by, or in relation to, 1 of the drivers are readily distinguishable from the details recorded by, or in relation to, the other drivers;
+(iii) the name of the driver in relation to whom details are recorded is shown whenever the details are accessed;
+(iv) 1 of the drivers cannot record any information, that the driver is required by this Law to record in a work diary, in the system for any of the other drivers; and
+(e) has a mechanism to ensure the driver of the fatigue‑regulated heavy vehicle to which it or a part of it is fitted, or in which it or a part of it is used, cannot alter any information the driver records in the system once the driver has had an opportunity to confirm the accuracy of the information; and
+(f) is capable of enabling the driver of the fatigue‑regulated heavy vehicle to which it or a part of it is fitted, or in which it or a part of it is used, to send information to the driver's record keeper; and
+(g) has a mechanism that, at least once each day, readily indicates to the driver whether information has or has not been sent to the record keeper; and
+(h) is capable of readily reproducing, on being accessed by the record keeper for the driver of the fatigue‑regulated heavy vehicle to which it or a part of it is fitted, or in which it or a part of it is used, the information that the system contains; and
+(i) is capable of readily reproducing, on being accessed by an authorised officer while the vehicle to which it or a part of it is fitted, or in which it or a part of it is used, is on a road, the information the system contains in a form that—
+(i) is readily accessible by the officer; and
+(ii) is reasonably capable of being understood by the officer; and
+(iii) can be used as evidence.
+(3) In deciding whether or not to grant the approval, the Regulator must have regard to the approved guidelines for granting electronic recording system approvals.
+(4) An approved electronic recording system may be, or be a part of, an approved intelligent transport system.
+344—Steps after decision to grant approval
+(1) If the Regulator grants an approval under section 343, the Regulator must give the applicant a numbered certificate of approval.
+(2) If the Regulator imposes conditions on the approval, the certificate of approval given to the applicant must state the conditions.
+(3) If the Regulator imposes conditions on the approval not sought by the applicant, the Regulator must give the applicant an information notice for the decision to impose the conditions.
+345—Steps after decision to refuse application
+If the Regulator decides not to grant an application for an electronic recording system approval, the Regulator must give the applicant an information notice for the decision.
+346—Effect of approval
+(1) An electronic recording system approval granted under this Subdivision applies to any system identical to the system given to the Regulator for approval.
+(2) The conditions imposed on the approval under section 343, or Subdivision 3, apply to each identical system to which the approval applies.
+Subdivision 2—Using unapproved electronic recording system
+347—Prohibition on using electronic work diary if it is not, and is not a part of, an approved electronic recording system
+A person must not use as an electronic work diary for the purposes of this Law an electronic recording system constituting an electronic work diary, or of which an electronic work diary is a part, if the person knows, or ought reasonably to know, the electronic recording system is not an approved electronic recording system.
+Maximum penalty: $10 000.
+Note—
+See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+Subdivision 3—Amendment or cancellation of approval
+351—Amendment or cancellation of approval on application
+(1) The holder of an electronic recording system approval may apply to the Regulator for an amendment or cancellation of the approval.
+(2) The application must—
+(a) be in writing; and
+(b) be accompanied by the prescribed fee for the application; and
+(c) if the application is for an amendment of the approval, state clearly the amendment sought and outline the reasons for the application; and
+(d) be accompanied by the certificate of approval for the approval.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+(4) The Regulator must decide the application as soon as practicable after receiving it.
+(5) If the Regulator decides to grant the application—
+(a) the Regulator must give the applicant notice of the decision; and
+(b) the amendment or cancellation takes effect—
+(i) when notice of the decision is given to the applicant; or
+(ii) if a later time is stated in the notice, at the later time; and
+(c) if the Regulator amended the approval, the Regulator must give the applicant a replacement certificate of approval for the approval as amended.
+(6) If the Regulator decides not to amend or cancel the approval as sought by the applicant, the Regulator must—
+(a) give the applicant an information notice for the decision; and
+(b) return the certificate of approval for the approval to the applicant.
+(7) In this section—
+certificate of approval, for an electronic recording system approval, means the certificate of approval issued by the Regulator under section 344 for the approval.
+352—Amendment or cancellation of approval on Regulator's initiative
+(1) Each of the following is a ground for amending or cancelling an electronic recording system approval:
+(a) the approval was granted because of a document or representation that was—
+(i) false or misleading; or
+(ii) obtained or made in an improper way;
+(b) since the approval was granted, there has been a change in the circumstances that were relevant to the Regulator's decision to grant the approval and, had the changed circumstances existed when the approval was granted, the Regulator would not have granted the approval, or would have granted the approval subject to conditions or different conditions.
+(2) If the Regulator considers a ground exists to amend or cancel an electronic recording system approval (the proposed action), the Regulator must give the holder of the approval a notice—
+(a) stating the proposed action; and
+(b) stating the ground for the proposed action; and
+(c) outlining the facts and circumstances forming the basis for the ground; and
+(d) if the proposed action is to amend the approval (including a condition of the approval)—stating the proposed amendment; and
+(e) inviting the holder to make, within a stated time of at least 14 days after the notice is given to the holder, written representations about why the proposed action should not be taken.
+(3) If, after considering all written representations made under subsection (2)(e), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the approval—amend the approval, including, for example, by imposing additional conditions on the approval, in a way that is not substantially different from the proposed action; or
+(b) if the proposed action was to cancel the approval—
+(i) amend the approval, including, for example, by imposing additional conditions on the approval; or
+(ii) cancel the approval.
+(4) The Regulator must give the holder an information notice for the decision.
+(5) The amendment or cancellation takes effect—
+(a) when the information notice is given to the holder; or
+(b) if a later time is stated in the information notice, at the later time.
+353—Minor amendment of approval
+The Regulator may, by notice given to the holder of an electronic recording system approval, amend the approval in a minor respect—
+(a) for a formal or clerical reason; or
+(b) in another way that does not adversely affect the holder's interests.
+354—Requirements if approval amended
+(1) This section applies if, under this Subdivision—
+(a) the Regulator amends an electronic recording system approval to change the conditions about the use or maintenance of the electronic recording system the subject of the approval; and
+(b) in the Regulator's opinion, the amendment will, or is likely to, significantly affect the way the electronic recording system the subject of the approval is to be used.
+(2) The Regulator may, by notice, direct the holder of the approval to give each person to whom the holder has supplied an electronic recording system the subject of the approval, or a device forming part of the system, a notice stating the amended conditions of the approval.
+(3) If the Regulator gives the holder of the approval a direction under subsection (2), the holder must comply with the direction.
+Maximum penalty: $6 000.
+(4) With the Regulator's written consent, a person may comply with subsection (3) by publishing the amended conditions, and any further details stated by the Regulator, using at least 2 of the following methods:
+(a) by notice published in a newspaper stated by the Regulator;
+(b) by notice published in a journal or newsletter stated by the Regulator;
+(c) on a website stated by the Regulator.
+(5) If, under subsection (3), the holder of the approval gives a person a notice stating the amended conditions of the approval, the person must give a copy of the notice to each other person to whom the person has supplied an electronic recording system the subject of the approval, or a device forming part of the system.
+Example for the purposes of subsection (5)—
+The holder of an approval is a manufacturer and the manufacturer has supplied an electronic recording system the subject of the approval to an operator of a fatigue‑regulated heavy vehicle who has supplied the system to the vehicle's driver. If, under subsection (3), the manufacturer gives the operator a notice stating the amended conditions of the approval, the operator must, under subsection (5), give the driver a copy of the notice.
+Maximum penalty: $6 000.
+(6) Nothing in this section prevents the Regulator from publishing details of the amendment by whatever means the Regulator thinks appropriate.
+Example—
+The Regulator may publish the amended conditions in the Commonwealth Gazette or on a website.
+(7) In this section—
+amended conditions, of an electronic recording system approval that has been amended under this Division, means the conditions of the approval as they apply after the amendment.
+355—Requirements if approval cancelled
+(1) This section applies if, under this Subdivision, the Regulator notifies the holder of an electronic recording system approval that the approval has been cancelled.
+(2) If the electronic recording system constitutes an electronic work diary, or if part of the electronic recording system is an electronic work diary, the holder of the approval must, within the period stated by the Regulator in the notification, remove any electronic message on the system's visual display stating the system is or includes an electronic work diary.
+Maximum penalty: $6 000.
+(3) The Regulator may, by notice, direct the holder of the approval to give each person to whom the holder has supplied an electronic recording system the subject of the approval that constitutes an electronic work diary, or of which an electronic work diary is a part, a notice stating that the approval has been cancelled.
+(4) If the Regulator gives the holder of the approval a direction under subsection (3), the holder must comply with the direction.
+Maximum penalty: $6 000.
+(5) With the Regulator's written consent, a person may comply with subsection (4) by publishing details of the cancellation, and any further details stated by the Regulator, using at least 2 of the following methods:
+(a) by notice published in a newspaper stated by the Regulator;
+(b) by notice published in a journal or newsletter stated by the Regulator;
+(c) on a website stated by the Regulator.
+(6) If, under subsection (4), the holder of the approval gives a person a notice that the approval has been cancelled, the person must give a notice to each other person to whom the person has supplied an electronic recording system the subject of the approval that constitutes an electronic work diary, or of which an electronic work diary is a part, stating that the approval has been cancelled.
+Example for the purposes of subsection (6)—
+The holder of an approval is a service provider who has supplied to the operator of a fatigue‑regulated heavy vehicle an approved electronic recording system constituting an electronic work diary or of which an electronic work diary is a part. If, under subsection (4), the service provider gives the operator a notice stating the approval has been cancelled, the operator must give the driver of the vehicle a notice stating the approval has been cancelled.
+Maximum penalty: $6 000.
+(7) Nothing in this section prevents the Regulator from publishing details of the cancellation by whatever means the Regulator thinks appropriate.
+Example—
+The Regulator may publish the cancellation in the Commonwealth Gazette or on a website.
+(8) In this section—
+holder, of an electronic recording system approval that has been cancelled, means the person who, immediately before the cancellation took effect, held the approval.
+Division 9—Exemptions from work diary requirements
+Note—
+In the Heavy Vehicle National Law set out in the Schedule to the Heavy Vehicle National Law Act 2012 of Queensland, this Division is numbered Division 8.
+Subdivision 1—Exemption for emergency services
+356—Emergency services exemption
+(1) A person who is acting for an emergency service and who has time‑critical duties on the way to, or during, an emergency is exempted in the course of carrying out the duties from compliance with Division 2.
+(2) A person who is acting for an emergency service and who is returning from attending an emergency is exempted from compliance with Division 2 if the person reasonably believes the noncompliance does not present an unreasonable danger to other road users.
+(3) A person who is acting for an emergency service is exempted from compliance with Division 2 under subsection (1) or (2) only if, at the relevant time, the person complies with any guidelines regarding the management of fatigue issued by or on behalf of the emergency service or an authority responsible for oversight of the emergency service.
+(4) In this section—
+emergency means an event, or an anticipated event, that—
+(a) endangers, or may endanger, life, property or the environment; or
+(b) has disrupted, or may disrupt, communications, energy supply, water supply or sewerage services; or
+(c) is declared to be an emergency or disaster by—
+(i) the Commonwealth or a State or Territory; or
+(ii) a Commonwealth or State or Territory authority responsible for managing responses to emergencies or disasters;
+Examples of an emergency—
+fire, explosion or natural disaster
+emergency service means an entity that has a statutory responsibility to respond to an emergency and includes the following:
+(a) an ambulance service;
+(b) a fire brigade, including a volunteer fire brigade;
+(c) a police force or police service;
+(d) a disaster or emergency organisation of the Commonwealth or a State or Territory.
+Subdivision 2—Exemptions by Commonwealth Gazette notice
+357—Regulator's power to exempt particular drivers from work diary requirements
+(1) The Regulator may, by Commonwealth Gazette notice complying with section 361, exempt, for a period of not more than 3 years, drivers of fatigue‑regulated heavy vehicles carrying out a class of work from the requirement to comply with Subdivision 1 to Subdivision 5 of Division 2 for the work.
+(2) An exemption under subsection (1) is a work diary exemption (notice).
+358—Restriction on grant of work diary exemption (notice)
+(1) The Regulator may grant a work diary exemption (notice) only if the Regulator is satisfied—
+(a) requiring the drivers to whom the exemption is to apply to comply with Subdivision 1 to Subdivision 5 of Division 2 would be an unreasonable restriction on operations conducted by the drivers; and
+(b) the class of work to which the exemption is to apply will not pose—
+(i) a significant risk to public safety; or
+(ii) a significant risk of the drivers to whom the exemption is to apply driving on a road while impaired by fatigue.
+(2) In deciding whether or not to grant a work diary exemption (notice), the Regulator must have regard to the approved guidelines for granting work diary exemptions.
+359—Conditions of work diary exemption (notice)
+A work diary exemption (notice) may be subject to any conditions the Regulator considers appropriate, including, for example—
+(a) conditions about recording information about the work to which the exemption applies; and
+(b) a condition that the driver of a fatigue‑regulated heavy vehicle who is operating under the exemption must keep in the driver's possession a copy of—
+(i) the Commonwealth Gazette notice for the exemption; or
+(ii) an information sheet about the exemption published by the Regulator on the Regulator's website.
+360—Period for which work diary exemption (notice) applies
+A work diary exemption (notice)—
+(a) takes effect—
+(i) when the Commonwealth Gazette notice for the exemption is published; or
+(ii) if a later time is stated in the Commonwealth Gazette notice, at the later time; and
+(b) applies for the period stated in the Commonwealth Gazette notice.
+361—Requirements about Commonwealth Gazette notice
+(1) A Commonwealth Gazette notice for a work diary exemption (notice) must state the following:
+(a) the class of work to which the exemption applies;
+(b) that drivers of fatigue‑regulated heavy vehicles who carry out the class of work are exempt from the requirement to comply with Subdivision 1 to Subdivision 5 of Division 2 for the work;
+(c) the conditions of the exemption;
+(d) the period for which the exemption applies.
+(2) The Regulator must publish a copy of the Commonwealth Gazette notice on the Regulator's website.
+362—Amendment or cancellation of work diary exemption (notice)
+(1) It is a ground for amending or cancelling a work diary exemption (notice) if, since the exemption was granted, there has been a change in the circumstances that were relevant to the Regulator's decision to grant the exemption and, had the changed circumstances existed when the exemption was granted, the Regulator would not have granted the exemption, or would have granted the exemption subject to conditions or different conditions.
+(2) If the Regulator considers a ground exists to amend or cancel the work diary exemption (notice), the Regulator may amend or cancel the exemption by complying with subsections (3) to (5).
+(3) The Regulator must publish a public notice—
+(a) stating that the Regulator believes a ground exists to amend or cancel the exemption; and
+(b) outlining the facts and circumstances forming the basis for the belief; and
+(c) stating the action the Regulator is proposing to take under this section (the proposed action); and
+(d) inviting persons who will be affected by the proposed action to make, within a stated time of at least 14 days after the Commonwealth Gazette notice is published, written representations about why the proposed action should not be taken.
+(4) If, after considering all written representations made under subsection (3)(d), the Regulator still considers the circumstances in which the Regulator may grant the work diary exemption (notice) are no longer satisfied, the Regulator may—
+(a) if the proposed action was to amend the exemption—amend the exemption in a way that is not substantially different from the proposed action, including, for example, by—
+(i) amending the class of work to which the exemption applies; or
+(ii) amending the conditions of the exemption; or
+(b) if the proposed action was to cancel the exemption—
+(i) amend the exemption, including, for example, by amending the exemption in a way mentioned in paragraph (a)(i) or (ii); or
+(ii) cancel the exemption.
+(5) The Regulator must publish a public notice of the amendment or cancellation.
+(6) The amendment or cancellation takes effect—
+(a) 28 days after the Commonwealth Gazette notice is published under subsection (5); or
+(b) if a later time is stated in the Commonwealth Gazette notice, at the later time.
+Subdivision 3—Exemptions by permit
+363—Regulator's power to exempt driver of fatigue‑regulated heavy vehicle from work diary requirement
+(1) The Regulator may, by giving a person a permit as mentioned in section 368, exempt, for a period of not more than 3 years, a driver of a fatigue‑regulated heavy vehicle from the requirement to comply with Subdivision 1 to Subdivision 5 of Division 2.
+(2) An exemption under subsection (1) is a work diary exemption (permit).
+364—Application for work diary exemption (permit)
+(1) The driver of a fatigue‑regulated heavy vehicle who is working under standard hours may apply to the Regulator for a work diary exemption (permit).
+(2) The application must—
+(a) be in the approved form; and
+(b) state the following:
+(i) the period for which the exemption is sought;
+(ii) any conditions for the exemption sought by the applicant; and
+(c) nominate a person (the nominee) to make written work records for the driver; and
+(d) be accompanied by the nominee's written agreement to the nomination; and
+(e) be accompanied by the prescribed fee for the application.
+(3) An employer of the driver of a fatigue‑regulated heavy vehicle may make an application under subsection (1) on behalf of the driver.
+(4) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+365—Restriction on grant of work diary exemption (permit)
+(1) The Regulator may grant a work diary exemption (permit) only if the Regulator is satisfied—
+(a) the driver cannot make records in the driver's work diary because of the driver's inadequate English literacy; and
+(b) the nominee for the driver will be able to make records that are no less complete or accurate than records made under Subdivision 1 to Subdivision 5 of Division 2; and
+(c) the driver works only under standard hours.
+(2) In deciding whether or not to grant a work diary exemption (permit), the Regulator must have regard to the approved guidelines for granting work diary exemptions.
+(3) In this section—
+nominee, for the driver of a fatigue‑regulated heavy vehicle, means the person nominated, in the application for the work diary exemption (permit), by the driver to make written work records for the driver.
+366—Conditions of work diary exemption (permit)
+(1) A work diary exemption (permit) is subject to the condition that the driver to whom the exemption applies must carry out all work as a driver of fatigue-regulated heavy vehicles under standard hours only.
+(2) A work diary exemption (permit) may be subject to any other conditions the Regulator considers appropriate, including, for example, conditions about—
+(a) the information to be included in records about the work carried out by the driver of a fatigue‑regulated heavy vehicle to whom the exemption applies; and
+(b) how the records are to be made.
+367—Period for which work diary exemption (permit) applies
+(1) A work diary exemption (permit) applies for the period stated in the permit for the exemption.
+(2) The period may be less than the period sought by the applicant for the work diary exemption (permit).
+368—Permit for work diary exemption (permit) etc
+(1) If the Regulator grants a work diary exemption (permit) to a person, the Regulator must give the person—
+(a) a permit for the exemption; and
+(b) if the Regulator has imposed conditions on the exemption under section 366 or has granted the exemption for a period less than the period of not more than 3 years sought by the person—an information notice for the decision to impose the conditions or grant the exemption for the shorter period.
+(2) A permit for a work diary exemption (permit) must state the following:
+(a) the name of the driver of a fatigue‑regulated heavy vehicle to whom the permit is given;
+(b) the name of the nominee for the driver;
+(c) the conditions of the exemption;
+(d) the period for which the exemption applies.
+(3) In this section—
+nominee, for the driver of a fatigue‑regulated heavy vehicle, means the person nominated, in the application for the work diary exemption (permit), by the driver to make written work records for the driver.
+369—Refusal of application for work diary exemption (permit)
+If the Regulator refuses an application for a work diary exemption (permit), the Regulator must give the applicant an information notice for the decision to refuse the application.
+370—Amendment or cancellation of work diary exemption (permit) on application by permit holder
+(1) The holder of a permit for a work diary exemption (permit) may apply to the Regulator for an amendment or cancellation of the exemption.
+(2) The application must—
+(a) be in the approved form; and
+(b) be accompanied by the prescribed fee for the application; and
+(c) if the application is for an amendment—state clearly the amendment sought and the reasons for the amendment; and
+(d) if the application is for an amendment of the person nominated by the holder to make written work records for the holder—be accompanied by the nominee's written agreement to the nomination; and
+(e) be accompanied by the permit.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+(4) The Regulator must decide the application as soon as practicable after receiving it.
+(5) If the Regulator decides to grant the application—
+(a) the Regulator must give the applicant notice of the decision; and
+(b) the amendment or cancellation takes effect—
+(i) when notice of the decision is given to the applicant; or
+(ii) if a later time is stated in the notice, at the later time; and
+(c) if the Regulator amends the exemption, the Regulator must give the applicant a replacement permit for the exemption as amended.
+(6) If the Regulator decides not to amend or cancel the work diary exemption (permit), as sought by the applicant, the Regulator must—
+(a) give the applicant an information notice for the decision; and
+(b) return the permit for the exemption to the applicant.
+371—Amendment or cancellation of work diary exemption (permit) on Regulator's initiative
+(1) Each of the following is a ground for amending or cancelling a work diary exemption (permit):
+(a) the exemption was granted because of a document or representation that was—
+(i) false or misleading; or
+(ii) obtained or made in an improper way;
+(b) the person to whom the exemption is granted has contravened this Law or a corresponding fatigue law;
+(c) the nominee has contravened a condition of the exemption;
+(d) since the exemption was granted, there has been a change in the circumstances that were relevant to the Regulator's decision to grant the exemption and, had the changed circumstances existed when the exemption was granted, the Regulator would not have granted the exemption, or would have granted the exemption subject to conditions or different conditions.
+(2) If the Regulator considers a ground exists to amend or cancel a work diary exemption (permit) (the proposed action), the Regulator must give the holder of the permit for the exemption a notice—
+(a) stating the proposed action; and
+(b) stating the ground for the proposed action; and
+(c) outlining the facts and circumstances forming the basis for the ground; and
+(d) if the proposed action is to amend the exemption (including a condition of the exemption)—stating the proposed amendment; and
+(e) inviting the holder to make, within a stated time of at least 14 days after the notice is given to the holder, written representations about why the proposed action should not be taken.
+(3) If, after considering all written representations made under subsection (2)(e), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the exemption—amend the exemption, including, for example, by imposing additional conditions on the exemption, in a way that is not substantially different from the proposed action; or
+(b) if the proposed action was to cancel the exemption—
+(i) amend the exemption, including, for example, by imposing additional conditions on the exemption; or
+(ii) cancel the exemption.
+(4) The Regulator must give the holder an information notice for the decision.
+(5) The amendment or cancellation takes effect—
+(a) when the information notice is given to the holder; or
+(b) if a later time is stated in the information notice, at the later time.
+(6) In this section—
+nominee, for the person to whom a work diary exemption (permit) is granted, means the person stated in the permit for the exemption as the person nominated by the person to make written work records for the person.
+372—Minor amendment of work diary exemption (permit)
+The Regulator may, by notice given to the holder of a permit for a work diary exemption (permit), amend the exemption in a minor respect—
+(a) for a formal or clerical reason; or
+(b) in another way that does not adversely affect the holder's interests.
+373—Return of permit
+(1) If a person's work diary exemption (permit) is amended or cancelled under this Subdivision, the Regulator may, by notice given to the person, require the person to return the person's permit for the exemption to the Regulator.
+(2) The person must comply with the notice within 7 days after the notice is given to the person or, if a longer period is stated in the notice, within the longer period.
+Maximum penalty: $6 000.
+(3) If the exemption has been amended, the Regulator must give the person a replacement permit for the exemption as amended.
+374—Replacement of defaced etc permit
+(1) If a person's permit for a work diary exemption (permit) is defaced, destroyed, lost or stolen, the person must, as soon as reasonably practicable after becoming aware of the matter, apply to the Regulator for a replacement permit.
+Maximum penalty: $4 000.
+(2) If the Regulator is satisfied the permit has been defaced, destroyed, lost or stolen, the Regulator must give the person a replacement permit as soon as practicable.
+(3) If the Regulator decides not to give a replacement permit to the person, the Regulator must give the person an information notice for the decision.
+Subdivision 4—Operating under work diary exemption
+375—Contravening condition of work diary exemption
+A person must not contravene a condition of a work diary exemption.
+Maximum penalty: $6 000.
+376—Keeping relevant document while operating under work diary exemption (notice)
+(1) This section applies if a work diary exemption (notice) is subject to the condition that the driver of a fatigue‑regulated heavy vehicle who is operating under the exemption must keep a relevant document in the driver's possession.
+(2) A driver of the fatigue‑regulated heavy vehicle who is operating under the work diary exemption (notice) must comply with the condition.
+Maximum penalty: $3 000.
+(3) If an offence is committed against subsection (2) involving the driver of a fatigue-regulated heavy vehicle, each relevant party for the driver is taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
+(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(7) In this section—
+relevant document, for a work diary exemption (notice), means a copy of—
+(a) the Commonwealth Gazette notice for the exemption; or
+(b) an information sheet about the exemption published by the Regulator on the Regulator's website;
+relevant party, for the driver of a fatigue-regulated heavy vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self-employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
+377—Keeping permit or copy while operating under work diary exemption (permit)
+The driver of a fatigue‑regulated heavy vehicle who is operating under a work diary exemption (permit) must keep the permit or a copy of the permit in the driver's possession.
+Maximum penalty: $3 000.
+Division 10—Exemptions from fatigue record keeping requirements of Division 3
+Note—
+In the Heavy Vehicle National Law set out in the Schedule to the Heavy Vehicle National Law Act 2012 of Queensland, this Division is numbered Division 8A.
+Subdivision 1—Exemptions by Commonwealth Gazette notice
+378—Regulator's power to exempt record keepers from fatigue record keeping requirements
+(1) The Regulator may, by Commonwealth Gazette notice complying with section 381, exempt, for a period of not more than 3 years, record keepers for drivers of fatigue-regulated heavy vehicles carrying out a class of work from the requirement to comply with all or stated provisions of Division 3 for the work.
+(2) An exemption under subsection (1) is a fatigue record keeping exemption (notice).
+(3) In deciding whether or not to grant a fatigue record keeping exemption (notice), the Regulator must have regard to the approved guidelines for granting fatigue record keeping exemptions.
+379—Conditions of fatigue record keeping exemption (notice)
+A fatigue record keeping exemption (notice)—
+(a) is subject to conditions prescribed by the national regulations for the exemption; and
+(b) may be subject to any other conditions the Regulator considers appropriate, including, for example—
+(i) conditions about recording information about the work to which the exemption applies; and
+(ii) a condition that a record keeper for the driver of a fatigue-regulated heavy vehicle who is operating under the exemption must keep in the record keeper's possession—
+(A) a copy of the Commonwealth Gazette notice for the exemption; or
+(B) a stated document or stated kind of document relating to the exemption.
+380—Period for which fatigue record keeping exemption (notice) applies
+A fatigue record keeping exemption (notice)—
+(a) takes effect—
+(i) when the Commonwealth Gazette notice for the exemption is published; or
+(ii) if a later time is stated in the Commonwealth Gazette notice, at the later time; and
+(b) applies for the period stated in the Commonwealth Gazette notice.
+381—Requirements about Commonwealth Gazette notice
+(1) A Commonwealth Gazette notice for a fatigue record keeping exemption (notice) must state the following:
+(a) the class of work to which the exemption applies;
+(b) that record keepers for drivers of fatigue-regulated heavy vehicles who carry out the class of work are exempt from the requirement to comply with all or stated provisions of Division 3 for the work;
+(c) the conditions of the exemption;
+(d) the period for which the exemption applies.
+(2) The Regulator must publish a copy of the Commonwealth Gazette notice on the Regulator's website.
+382—Amendment or cancellation of fatigue record keeping exemption (notice)
+(1) It is a ground for amending or cancelling a fatigue record keeping exemption (notice) if, since the exemption was granted, there has been a change in the circumstances that were relevant to the Regulator's decision to grant the exemption and, had the changed circumstances existed when the exemption was granted, the Regulator would not have granted the exemption, or would have granted the exemption subject to conditions or different conditions.
+(2) If the Regulator considers a ground exists to amend or cancel a fatigue record keeping exemption (notice), the Regulator may amend or cancel the exemption by complying with subsections (3) to (5).
+(3) The Regulator must publish a public notice—
+(a) stating that the Regulator believes a ground exists to amend or cancel the exemption; and
+(b) outlining the facts and circumstances forming the basis for the belief; and
+(c) stating the action the Regulator is proposing to take under this section (the proposed action); and
+(d) inviting persons who will be affected by the proposed action to make, within a stated time of at least 14 days after the Commonwealth Gazette notice is published, written representations about why the proposed action should not be taken.
+(4) If, after considering all written representations made under subsection (3)(d), the Regulator still considers the circumstances in which the Regulator may grant the fatigue record keeping exemption (notice) are no longer satisfied, the Regulator may—
+(a) if the proposed action was to amend the exemption—amend the exemption in a way that is not substantially different from the proposed action, including, for example, by—
+(i) amending the class of work to which the exemption applies; or
+(ii) amending the conditions of the exemption; or
+(b) if the proposed action was to cancel the exemption—
+(i) amend the exemption, including, for example, by amending the exemption in a way mentioned in paragraph (a)(i) or (ii); or
+(ii) cancel the exemption.
+(5) The Regulator must publish a public notice of the amendment or cancellation.
+(6) The amendment or cancellation takes effect—
+(a) 28 days after the Commonwealth Gazette notice is published under subsection (5); or
+(b) if a later time is stated in the Commonwealth Gazette notice, at the later time.
+Subdivision 2—Exemptions by permit
+383—Regulator's power to exempt record keepers from fatigue record keeping requirements
+(1) The Regulator may, by giving a person a permit as mentioned in section 387, exempt, for a period of not more than 3 years, a record keeper for one or more drivers of a fatigue-regulated heavy vehicle from the requirement to comply with all or stated provisions of Division 3.
+(2) An exemption under subsection (1) is a fatigue record keeping exemption (permit).
+(3) The Regulator may grant a fatigue record keeping exemption (permit) to the operator of a fatigue‑regulated heavy vehicle in combination with the operator's BFM accreditation or AFM accreditation.
+(4) The Regulator may grant a fatigue record keeping exemption (permit)—
+(a) in a way that does not cover all the drivers sought by the applicant; or
+(b) setting conditions different from those sought by the applicant.
+384—Application for fatigue record keeping exemption (permit)
+(1) The record keeper for a driver of a fatigue-regulated heavy vehicle may apply to the Regulator for a fatigue record keeping exemption (permit).
+(2) The application must—
+(a) be in the approved form; and
+(b) state the following:
+(i) the period for which the exemption is sought;
+(ii) any conditions for the exemption sought by the applicant;
+(iii) the name and details of each driver of a fatigue-regulated heavy vehicle to whom the exemption sought is to apply;
+(iv) any other details prescribed by the national regulations; and
+(c) be accompanied by the prescribed fee for the application.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+(4) In deciding whether or not to grant a fatigue record keeping exemption (permit), the Regulator must comply with any requirements prescribed by the national regulations for the purposes of this subsection and have regard to the approved guidelines for granting fatigue record keeping exemptions.
+385—Conditions of fatigue record keeping exemption (permit)
+A fatigue record keeping exemption (permit)—
+(a) is subject to conditions prescribed by the national regulations for the exemption; and
+(b) may be subject to any other conditions the Regulator considers appropriate, including, for example—
+(i) a condition about the information to be included in records about the work carried out by drivers of fatigue-regulated heavy vehicles to whom the exemption applies; and
+(ii) a condition about how the records are to be made; and
+(iii) a condition that a record keeper for the driver of a fatigue‑regulated heavy vehicle who is operating under the exemption must keep in the record keeper's possession—
+(A) the permit for the exemption; or
+(B) a stated document or stated kind of document relating to the exemption.
+386—Period for which fatigue record keeping exemption (permit) applies
+(1) A fatigue record keeping exemption (permit) applies for the period stated in the permit for the exemption.
+(2) The period may be less than the period sought by the applicant for the fatigue record keeping exemption (permit).
+387—Permit for fatigue record keeping exemption (permit) etc
+(1) If the Regulator grants a fatigue record keeping exemption (permit) to a person, the Regulator must give the person—
+(a) a permit for the exemption; and
+(b) if the Regulator has imposed conditions on the exemption under section 385 or has granted the exemption for a period less than the period of not more than 3 years sought by the person—an information notice for the decision to impose the conditions or grant the exemption for the shorter period.
+(2) A permit for a fatigue record keeping exemption (permit) must state the following:
+(a) the name of the drivers of fatigue-regulated heavy vehicles to whom the permit applies;
+(b) the conditions of the exemption;
+(c) the period for which the exemption applies.
+388—Refusal of application for fatigue record keeping exemption (permit)
+If the Regulator refuses an application for a fatigue record keeping exemption (permit), the Regulator must give the applicant an information notice for the decision to refuse the application.
+389—Amendment or cancellation of fatigue record keeping exemption (permit) on application by permit holder
+(1) The holder of a permit for a fatigue record keeping exemption (permit) may apply to the Regulator for an amendment or cancellation of the exemption.
+(2) The application must—
+(a) be in the approved form; and
+(b) be accompanied by the prescribed fee for the application; and
+(c) if the application is for an amendment—state clearly the amendment sought and the reasons for the amendment; and
+(d) be accompanied by the permit.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+(4) The Regulator must decide the application as soon as practicable after receiving it.
+(5) If the Regulator decides to grant the application—
+(a) the Regulator must give the applicant notice of the decision; and
+(b) the amendment or cancellation takes effect—
+(i) when notice of the decision is given to the applicant; or
+(ii) if a later time is stated in the notice, at the later time; and
+(c) if the Regulator amended the exemption, the Regulator must give the applicant a replacement permit for the exemption as amended.
+(6) If the Regulator decides not to amend or cancel the exemption as sought by the applicant, the Regulator must—
+(a) give the applicant an information notice for the decision; and
+(b) return the permit for the exemption to the applicant.
+390—Amendment or cancellation of fatigue record keeping exemption (permit) on Regulator's initiative
+(1) Each of the following is a ground for amending or cancelling a fatigue record keeping exemption (permit):
+(a) the exemption was granted because of a document or representation that was—
+(i) false or misleading; or
+(ii) obtained or made in an improper way;
+(b) the holder of the permit for the exemption has contravened this Law or a corresponding fatigue law;
+(c) a driver of a fatigue-regulated heavy vehicle to whom the exemption applies has contravened this Law or a corresponding fatigue law;
+(d) since the exemption was granted, there has been a change in the circumstances that were relevant to the Regulator's decision to grant the exemption and, had the changed circumstances existed when the exemption was granted, the Regulator would not have granted the exemption, or would have granted the exemption subject to conditions or different conditions.
+(2) If the Regulator considers a ground exists to amend or cancel a fatigue record keeping exemption (permit) (the proposed action), the Regulator must give the holder of the permit for the exemption a notice—
+(a) stating the proposed action; and
+(b) stating the ground for the proposed action; and
+(c) outlining the facts and circumstances forming the basis for the ground; and
+(d) if the proposed action is to amend the exemption (including a condition of the exemption)—stating the proposed amendment; and
+(e) inviting the holder to make, within a stated time of at least 14 days after the notice is given to the holder, written representations about why the proposed action should not be taken.
+(3) If, after considering all written representations made under subsection (2)(e), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the exemption—amend the exemption, including, for example, by imposing additional conditions on the exemption, in a way that is not substantially different from the proposed action; or
+(b) if the proposed action was to cancel the exemption—
+(i) amend the exemption, including, for example, by imposing additional conditions on the exemption; or
+(ii) cancel the exemption.
+(4) The Regulator must give the holder an information notice for the decision.
+(5) The amendment or cancellation takes effect—
+(a) when the information notice is given to the holder; or
+(b) if a later time is stated in the information notice, at the later time.
+391—Minor amendment of fatigue record keeping exemption (permit)
+The Regulator may, by notice given to the holder of a permit for a fatigue record keeping exemption (permit), amend the exemption in a minor respect—
+(a) for a formal or clerical reason; or
+(b) in another way that does not adversely affect the holder's interests.
+392—Return of permit
+(1) If a person's fatigue record keeping exemption (permit) is amended or cancelled, the Regulator may, by notice given to the person, require the person to return the person's permit for the exemption to the Regulator.
+(2) The person must comply with the notice within 7 days after the notice is given to the person or, if a longer period is stated in the notice, within the longer period.
+Maximum penalty: $6 000.
+(3) If the exemption has been amended, the Regulator must give the person a replacement permit for the exemption as amended.
+393—Replacement of defaced etc permit
+(1) If a person's permit for a fatigue record keeping exemption (permit) is defaced, destroyed, lost or stolen, the person must, as soon as reasonably practicable after becoming aware of the matter, apply to the Regulator for a replacement permit.
+Maximum penalty: $4 000.
+(2) If the Regulator is satisfied the permit has been defaced, destroyed, lost or stolen, the Regulator must give the person a replacement permit as soon as practicable.
+(3) If the Regulator decides not to give a replacement permit to the person, the Regulator must give the person an information notice for the decision.
+Subdivision 3—Exemptions by national regulations
+394—Exemptions from provisions of Division 3
+(1) The national regulations may provide for the exemption of record keepers for drivers of fatigue-regulated heavy vehicles from the requirement to comply with all or stated provisions of Division 3.
+(2) Without limiting subsection (1), the national regulations may prescribe matters about—
+(a) one or more classes of record keepers for which an exemption is to apply; and
+(b) one or more classes of drivers of fatigue-regulated heavy vehicles for which an exemption is to apply; and
+(c) conditions to which an exemption is to be subject.
+Subdivision 4—Other provisions
+395—Contravening condition of fatigue record keeping exemption
+A person must not contravene a condition of a fatigue record keeping exemption.
+Maximum penalty: $6 000.
+Division 11—Requirements about odometers
+Note—
+In the Heavy Vehicle National Law set out in the Schedule to the Heavy Vehicle National Law Act 2012 of Queensland, this Division is numbered Division 9.
+396—Owner must maintain odometer
+(1) The national regulations may require the fitting and maintenance of an odometer to a fatigue-regulated heavy vehicle.
+(2) An owner of a fatigue‑regulated heavy vehicle required by the national regulations to be fitted with an odometer must maintain the odometer in accordance with the requirements prescribed by the national regulations.
+Maximum penalty: $6 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+397—Driver must report malfunctioning odometer
+(1) This section applies if the driver of a fatigue‑regulated heavy vehicle becomes aware or has reason to suspect an odometer fitted to the vehicle is malfunctioning or has malfunctioned.
+(2) The driver must inform the following persons of the matter within 2 business days:
+(a) each owner of the vehicle;
+(b) the driver's employer if the driver is an employed driver;
+(c) each operator of the vehicle.
+Maximum penalty: $3 000.
+(3) Subsection (2) does not apply to the driver of a fatigue‑regulated heavy vehicle in relation to a malfunction of an odometer if another driver of the vehicle has complied with the subsection in relation to the malfunction.
+398—What owner must do if odometer malfunctioning
+(1) This section applies if an owner of a fatigue‑regulated heavy vehicle is informed under section 397 of malfunctioning or suspected malfunctioning of the vehicle's odometer.
+(2) The owner must, as soon as reasonably practicable after being informed of the matter, ensure the odometer is examined and brought into working order.
+Maximum penalty: $6 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+399—What employer or operator must do if odometer malfunctioning
+(1) This section applies if an employer of the driver of a fatigue‑regulated heavy vehicle or an operator of a fatigue‑regulated heavy vehicle is informed under section 397 of malfunctioning or suspected malfunctioning of the vehicle's odometer.
+(2) The employer or operator must not drive, or permit another person to drive, the fatigue‑regulated heavy vehicle unless the owner of the vehicle has complied with section 398.
+Maximum penalty: $6 000.
+(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
+(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
+Chapter 7—Intelligent Access Program
+Part 1—Preliminary
+400—Main purposes of Chapter 7
+(1) The main purposes of this Chapter are—
+(a) to ensure the integrity of systems used for compliance with intelligent access program conditions; and
+(b) to provide for appropriate collection, keeping and handling of intelligent access program information.
+(2) The purpose mentioned in subsection (1)(a) is achieved by—
+(a) requiring particular entities to report relevant contraventions for intelligent access program vehicles; and
+(b) requiring particular entities to report tampering or suspected tampering with, or malfunctioning of, approved intelligent transport systems; and
+(c) prohibiting persons from tampering with approved intelligent transport systems; and
+(d) giving particular entities functions and powers to audit the activities of intelligent access program service providers.
+(3) The purpose mentioned in subsection (1)(b) is achieved by—
+(a) allowing entities to collect, hold, use and disclose intelligent access program information for only limited purposes and subject to restrictions; and
+(b) requiring entities with monitoring or auditing functions to ensure intelligent access program information collected is accurate, complete and up to date; and
+(c) requiring entities who collect intelligent access program information to protect the information and destroy it when it is no longer required by the entities; and
+(d) providing for persons about whom an entity holds personal information to have access to the information and have it corrected in appropriate circumstances.
+401—What the Intelligent Access Program is
+The Intelligent Access Program is a program to allow heavy vehicles to have access, or improved access, to the road network in return for monitoring, by an intelligent transport system, of their compliance with stated access conditions.
+402—Application of Chapter 7
+(1) This Chapter applies in relation to a heavy vehicle for which a mass or dimension authority is in force with the following conditions (intelligent access program conditions):
+(a) a condition about the areas or routes to which the authority applies;
+(b) conditions about the use of a heavy vehicle on a road under the authority, including, for example, conditions about one or more of the following:
+(i) the maximum permissible mass of the vehicle, or the vehicle together with its load, while it is being used on the road under the authority;
+(ii) the times when the vehicle may be used on the road under the authority;
+(iii) the maximum speed at which the vehicle may be driven on the road under the authority;
+(c) conditions that—
+(i) a heavy vehicle's compliance with the conditions mentioned in paragraphs (a) and (b) is monitored by an approved intelligent transport system used by an intelligent access program service provider; and
+(ii) any noncompliance reports made by the system are sent to the Regulator within a stated period.
+(2) This Chapter also applies in relation to a heavy vehicle for which an HML authority is in force with the conditions (also intelligent access program conditions) that—
+(a) either or both of the following is monitored by an approved intelligent transport system used by an intelligent access program service provider:
+(i) the roads on which the vehicle is used under the higher mass limits;
+(ii) the vehicle's compliance with conditions about the use of a heavy vehicle on a road under the higher mass limits, including, for example, conditions about one or more of the following:
+(A) the times when the vehicle may be driven on the road under the higher mass limits;
+(B) the maximum speed at which the vehicle may be driven on the road under the higher mass limits; and
+(b) any noncompliance reports made by the system are sent to the Regulator within a stated period.
+403—Definitions for Chapter 7
+In this Chapter—
+approved intelligent transport system means an intelligent transport system approved by TCA, for the purposes of the Intelligent Access Program, for use by an intelligent access program service provider to monitor the relevant monitoring matters for an intelligent access program vehicle;
+higher mass limits means the higher mass limits applying under the mass requirements;
+HML authority means a declaration made, or permit granted, under the national regulations allowing a heavy vehicle to be used on a road under the higher mass limits;
+Intelligent Access Program has the meaning given in section 401;
+intelligent access program agreement, means an agreement between the operator of a heavy vehicle and an intelligent access program service provider under which the service provider agrees to monitor, by using an approved intelligent transport system, the relevant monitoring matters for the vehicle;
+intelligent access program audit means the process of doing 1 or more of the following:
+(a) reviewing intelligent access program information held by an intelligent access program service provider to assess whether the information is accurate, complete and up to date;
+(b) reviewing the processes by which intelligent access program information held by an intelligent access program service provider is generated, recorded, stored, displayed, analysed, transmitted and reported;
+(c) examining how intelligent access program information held by an intelligent access program service provider is used and disclosed by the service provider;
+(d) examining an approved intelligent transport system;
+intelligent access program conditions has the meaning given by section 402;
+intelligent access program information means information generated, recorded, stored, displayed, analysed, transmitted or reported by an approved intelligent transport system for any purpose relating to the Intelligent Access Program;
+intelligent access program service provider means a person certified by TCA as a service provider for monitoring, by using an approved intelligent transport system, the relevant monitoring matters for an intelligent access program vehicle;
+intelligent access program vehicle means a heavy vehicle—
+(a) for which a mass or dimension exemption is in force with intelligent access program conditions (as referred to in section 402(1)); or
+(b) for which an HML authority is in force with intelligent access program conditions (as referred to in section 402(2));
+law enforcement purposes means the purposes of investigating or prosecuting an offence against an Australian road law;
+malfunction, in relation to an approved intelligent transport system, means the system—
+(a) ceases to work at all, or works only intermittently; or
+(b) does not perform one or more functions required under the Intelligent Access Program; or
+(c) performs a function mentioned in paragraph (b)—
+(i) only intermittently; or
+(ii) in a way that the results of it doing so are inaccurate or unreliable, including intermittently inaccurate or unreliable;
+noncompliance report means a report made by an approved intelligent transport system that reports either or both of the following:
+(a) a relevant contravention for an intelligent access program vehicle;
+(b) apparent tampering with, or malfunctioning of, the system;
+personal information means personal information that is intelligent access information or otherwise collected for the purposes of this Chapter;
+Note—
+See also definition personal information in section 5.
+relevant contravention means—
+(a) for an intelligent access program vehicle used under a mass or dimension exemption—the vehicle's contravention of conditions mentioned in section 402(1)(a) or (b) applying to the vehicle; or
+(b) for an intelligent access program vehicle used under the higher mass limits—
+(i) the vehicle's use under the higher mass limits on a road to which the higher mass limits do not apply; or
+(ii) the vehicle's contravention of a condition about the use of the vehicle on a road under the higher mass limits;
+relevant monitoring matters means—
+(a) for a heavy vehicle used under a mass or dimension exemption—the vehicle's compliance with conditions mentioned in section 402(1)(a) or (b) applying to the vehicle; or
+(b) for a heavy vehicle used under the higher mass limits—the matters mentioned in section 402(2)(a)(i) or (ii) for the vehicle;
+tamper, with an approved intelligent transport system, means engage in conduct that has the result that—
+(a) the system is changed; or
+(b) the system is installed or used in a way that is not in accordance with the conditions of its approval by TCA; or
+(c) any operating software that the system uses internally is changed.
+Part 2—Duties and obligations of operators of intelligent access program vehicles
+404—Offence to give false or misleading information to intelligent access program service provider
+(1) The operator of an intelligent access program vehicle commits an offence if—
+(a) the operator gives information to an intelligent access program service provider with whom the operator has entered into an intelligent access program agreement for the vehicle; and
+(b) the information is relevant to the use of the vehicle; and
+(c) the operator knows, or ought reasonably to know, the information is false or misleading in a material particular.
+Maximum penalty: $10 000.
+Note—
+See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+(2) Subsection (1) does not apply if the operator gives the information in writing and, when giving the information—
+(a) tells the intelligent access program service provider, to the best of the operator's ability, how it is false or misleading; and
+(b) if the operator has, or can reasonably obtain, the correct information—gives the correct information in writing.
+(3) Without limiting subsection (1)(b), information about the intelligent access program conditions applying to an intelligent access program vehicle is relevant to the use of the vehicle.
+(4) The operator of a heavy vehicle commits an offence if—
+(a) the operator gives information to an intelligent access program service provider; and
+(b) the operator intends that the intelligent access program service provider will enter into an intelligent access program agreement with the operator in reliance on the information; and
+(c) the operator knows, or ought reasonably to know, the information is false or misleading in a material particular.
+Maximum penalty: $10 000.
+Note—
+See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+(5) Subsection (4) does not apply if the operator gives the information in writing and, when giving the information—
+(a) tells the intelligent access program service provider, to the best of the operator's ability, how it is false or misleading; and
+(b) if the operator has, or can reasonably obtain, the correct information—gives the correct information in writing.
+(6) In a proceeding for an offence against subsection (1) or (4), it is enough for a charge to state that the information given was 'false or misleading' to the operator's knowledge, without specifying whether it was false or whether it was misleading.
+405—Advising vehicle driver of collection of information by intelligent access program service provider
+(1) The operator of an intelligent access program vehicle must take all reasonable steps to give the vehicle's driver the following information, before the vehicle begins a journey:
+(a) that the vehicle will be monitored by an intelligent access program service provider;
+(b) that this Chapter provides for the collection of information by the intelligent access program service provider;
+(c) the information that will be collected by the intelligent access program service provider;
+(d) the purposes for which the information will be collected;
+(e) the entities to whom the information collected may be disclosed;
+(f) that, under this Chapter, the driver has rights of access to personal information or to have personal information changed to ensure it is accurate, complete and up to date;
+(g) how the rights mentioned in paragraph (f) can be exercised;
+(h) the name and address of the intelligent access program service provider.
+Maximum penalty: $6 000.
+(2) The operator of an intelligent access program vehicle is taken to comply with subsection (1) if the operator—
+(a) gives the intelligent access program vehicle's driver a notice stating the information mentioned in the subsection, including, for example, by placing it in the vehicle's driving cabin in a clearly visible position; or
+(b) includes the information mentioned in the subsection in a written contract of employment between the operator and the intelligent access program vehicle's driver.
+(3) The national regulations may prescribe—
+(a) a form of notice that may be used under subsection (2)(a); and
+(b) for subsection (2)(b), a standard form of words that may be used as part of a written contract of employment.
+406—Reporting system malfunctions to Regulator
+(1) If an operator of an intelligent access program vehicle becomes aware that a part of an approved intelligent transport system fitted to the vehicle is malfunctioning or has malfunctioned, the operator must as soon as practicable report the matter to the Regulator in person or by radio, telephone, fax or email.
+Maximum penalty: $6 000.
+(2) The operator must keep, for at least 4 years, a written record of a report of a malfunction under subsection (1), containing the following particulars:
+(a) the type of malfunction to which the report relates;
+(b) the date and time the operator became aware of the malfunction;
+(c) the location of the vehicle when the operator became aware of the malfunction;
+(d) the date and time the report was made;
+(e) the location of the vehicle when the report was made;
+(f) the way, in person or by radio, telephone, fax or email, that the report was made;
+(g) the name of the operator or, if someone else made the report on behalf of the operator, the name of the person who made the report;
+(h) the name of the individual to whom the report was made.
+Maximum penalty: $6 000.
+407—Advising driver of driver's obligations about reporting system malfunctions
+(1) The operator of an intelligent access program vehicle must take all reasonable steps to tell the vehicle's driver before the vehicle begins a journey—
+(a) about the vehicle driver's obligation under section 408; and
+(b) how the vehicle's driver can make the reports required by that obligation.
+Maximum penalty: $6 000.
+(2) The operator of an intelligent access program vehicle is taken to comply with subsection (1) if the operator—
+(a) gives the vehicle's driver a notice stating the information mentioned in the subsection, including, for example, by placing it in the vehicle's driving cabin in a clearly visible position; or
+(b) includes the information mentioned in the subsection in a written contract of employment between the operator and the vehicle's driver.
+(3) The national regulations may prescribe—
+(a) a form of notice that may be used under subsection (2)(a); and
+(b) for the purposes of subsection (2)(b), a standard form of words that may be used as part of a written contract of employment.
+Part 3—Obligations of drivers of intelligent access program vehicles
+408—Reporting system malfunctions to operator
+(1) If the driver of an intelligent access program vehicle becomes aware that a part of an approved intelligent transport system fitted to the vehicle is malfunctioning or has malfunctioned, the driver must as soon as practicable report the malfunction to the vehicle's operator in person or by radio, telephone, fax or email.
+Maximum penalty: $6 000.
+(2) The driver must keep, for at least 4 years, a written record of a report of a malfunction under subsection (1), containing the following particulars:
+(a) the type of malfunction to which the report relates;
+(b) the date and time the driver became aware of the malfunction;
+(c) the location of the vehicle when the driver became aware of the malfunction;
+(d) the date and time the report was made;
+(e) the location of the vehicle when the report was made;
+(f) the way, in person or by radio, telephone, fax or email, that the report was made;
+(g) the driver's name;
+(h) the name of the individual to whom the report was made.
+Maximum penalty: $6 000.
+(3) Subsection (1) does not apply to the driver of a heavy vehicle in relation to a malfunction of a part of an approved intelligent transport system if another driver of the vehicle has complied with the subsection in relation to the malfunction.
+Part 4—Powers, duties and obligations of intelligent access program service providers
+409—Powers to collect and hold intelligent access program information
+An intelligent access program service provider may collect and hold intelligent access program information for monitoring the relevant monitoring matters for an intelligent access program vehicle.
+410—Collecting intelligent access program information
+(1) An intelligent access program service provider must take all reasonable steps to ensure the intelligent access program information the service provider collects—
+(a) is necessary for the purpose for which it is collected or a directly related purpose; and
+(b) is not excessive for that purpose; and
+(c) is accurate, complete and up to date.
+Maximum penalty: $6 000.
+(2) An intelligent access program service provider must take all reasonable steps to ensure the collection of intelligent access program information by the service provider does not intrude to an unreasonable extent on the personal privacy of any individual to whom the information relates.
+Maximum penalty: $6 000.
+411—Keeping records of intelligent access program information collected
+(1) An intelligent access program service provider must keep, in a way complying with subsection (2), records of the intelligent access program information collected by the service provider.
+Maximum penalty: $6 000.
+(2) Records kept under subsection (1) must be organised in a way that allows the records to be conveniently and properly audited by an intelligent access program auditor.
+412—Protecting intelligent access program information
+An intelligent access program service provider must take all reasonable steps to protect intelligent access program information collected by the service provider against unauthorised access, unauthorised use, misuse, loss, modification or unauthorised disclosure.
+Maximum penalty: $20 000.
+413—Making individuals aware of personal information held
+(1) An intelligent access program service provider must prepare, and make publicly available, a document setting out the service provider's policies on the management of personal information held by the service provider.
+Examples of how a document is made publicly available—
+• making a document available at the service provider's office
+• making a document available on the service provider's website
+Maximum penalty: $6 000.
+(2) If asked by an individual about whom an intelligent access program service provider holds personal information, the service provider must, within 28 days after receiving the request, give the individual the following information if the service provider can reasonably give the information:
+(a) the kind of information the service provider holds about the individual;
+(b) the purpose for which the information is held;
+(c) the way in which the service provider collects, holds, uses and discloses the information;
+(d) the entities to whom the information may be disclosed;
+(e) that, under this Chapter, the individual has rights of access to the information or to have the information changed to ensure it is accurate, complete and up to date;
+(f) how the rights mentioned in paragraph (e) can be exercised.
+Maximum penalty: $6 000.
+(3) Subsection (2) does not require an intelligent access program service provider to inform an individual that a report under section 422 or 423 exists or has been made.
+414—Giving individuals access to their personal information
+(1) An intelligent access program service provider must, if asked by an individual about whom the service provider holds personal information, give the individual access to the information as soon as practicable and without cost.
+Maximum penalty: $6 000.
+(2) Subsection (1) does not require an intelligent access program service provider to give an individual access to a report made under section 422 or 423 or information showing that a report of that kind exists or has been made.
+415—Correcting errors etc
+(1) This section applies if an individual about whom an intelligent access program service provider holds personal information asks the service provider to make a particular change to the personal information.
+(2) The intelligent access program service provider must make the change if the service provider is satisfied the change is appropriate to ensure the personal information is accurate, complete and up to date.
+Maximum penalty: $6 000.
+(3) If the intelligent access program service provider is not satisfied as mentioned in subsection (2), the service provider may refuse to comply with the request.
+(4) If, under subsection (3), an intelligent access program service provider refuses to comply with an individual's request under subsection (1), the service provider must—
+(a) give the individual a notice stating—
+(i) the service provider's reasons for refusing; and
+(ii) that the individual may ask the service provider to attach to or include with the personal information the individual's request or a record of it; and
+(b) if asked by the individual, attach to or include with the personal information the request or a record of the request.
+Maximum penalty: $6 000.
+416—General restriction on use and disclosure of intelligent access program information
+An intelligent access program service provider must not use or disclose intelligent access program information other than as required or authorised under this Law or another law.
+Maximum penalty: $20 000.
+417—Giving intelligent access program auditor access to records
+An intelligent access program service provider must give an intelligent access program auditor access to a record kept by the service provider for the purposes of this Chapter.
+Maximum penalty: $6 000.
+418—Powers to use and disclose intelligent access program information
+(1) An intelligent access program service provider may use intelligent access program information for monitoring the relevant monitoring matters for an intelligent access program vehicle.
+(2) An intelligent access program service provider may disclose intelligent access program information to the Regulator for compliance purposes.
+(3) An intelligent access program service provider may disclose intelligent access program information to—
+(a) an authorised officer, other than a police officer, for law enforcement purposes if so authorised by a warrant issued under this Law; or
+(b) an authorised officer who is a police officer, for law enforcement purposes if so authorised by a warrant issued under this Law or another law.
+(4) If an intelligent access program service provider discloses intelligent access program information to an authorised officer or a police officer under this section, the officer must not use the information, or disclose it to any other person, unless—
+(a) the officer believes the use or disclosure is reasonably necessary for law enforcement purposes; or
+(b) the use or disclosure is otherwise authorised under this Law or any other law.
+(5) An intelligent access program service provider may disclose intelligent access program information about an operator of an intelligent access program vehicle to the operator.
+(6) Subsection (5) does not apply to the following:
+(a) a noncompliance report about an intelligent access program vehicle operated by the operator;
+(b) information that a noncompliance report has been made about an intelligent access program vehicle operated by the operator;
+(c) information disclosed under the authority of a warrant as referred to in subsection (3).
+(7) An intelligent access program service provider may, with the written consent of an operator of an intelligent access program vehicle, disclose intelligent access program information about the operator to a person other than the operator for any purpose if the information—
+(a) does not identify any individual other than the operator; and
+(b) contains nothing by which the identity of any individual, other than the operator, can reasonably be found out.
+(8) An intelligent access program service provider may use or disclose intelligent access program information that is personal information with the written consent of the individual to whom the personal information relates.
+(9) This section is subject to section 424.
+419—Keeping record of use or disclosure of intelligent access program information
+(1) If an intelligent access program service provider uses or discloses intelligent access program information, the service provider must, within 7 days after the use or disclosure, make a record of the use or disclosure that—
+(a) contains the information mentioned in subsection (2); and
+(b) is in a form that ensures the record is readily accessible by an intelligent access program auditor at the place where it is kept.
+Maximum penalty: $6 000.
+(2) The record must contain the following information:
+(a) the intelligent access program service provider's name or, if someone else used or disclosed the intelligent access program information on behalf of the service provider, the name of the person who used or disclosed the intelligent access program information;
+(b) the date of the use or disclosure;
+(c) for a use of intelligent access program information by or on behalf of the intelligent access program service provider, a brief description of how the information was used;
+(d) for a disclosure of intelligent access program information by or on behalf of the intelligent access program service provider, the entity to whom the information was disclosed;
+(e) the provision of this Law or another law the intelligent access program service provider believes authorises the use or disclosure;
+(f) if the use or disclosure is authorised only under a particular document (including, for example, a warrant, a certificate or a consent), a copy of the document.
+(3) An intelligent access program service provider must keep a record made under this section for at least 2 years.
+Maximum penalty: $6 000.
+420—Keeping noncompliance report
+(1) This section applies if a noncompliance report is made by an approved intelligent transport system operated by an intelligent access program service provider.
+(2) The intelligent access program service provider must keep the following for at least 4 years after the noncompliance report is made:
+(a) a copy of the report;
+(b) the information relied on to make the report.
+Example of information that could be relied on to make a noncompliance report—
+GPS information about a vehicle's position at a particular time
+Maximum penalty: $6 000.
+421—Destroying intelligent access program information etc
+(1) An intelligent access program service provider must take all reasonable steps—
+(a) to destroy intelligent access program information collected by the provider 1 year after the information is collected by the service provider; and
+(b) to destroy a record the service provider is required to keep under section 419 within 1 year after the service provider is no longer required to keep the record under that section.
+Maximum penalty: $6 000.
+(2) This section does not apply to a noncompliance report or information the intelligent service provider is required to keep under section 420.
+422—Reporting relevant contraventions to Regulator
+(1) This section applies if an intelligent access program service provider knows of a relevant contravention for an intelligent access program vehicle.
+(2) The intelligent access program service provider must, within 7 days, give the Regulator a report about the relevant contravention in the approved form.
+Maximum penalty: $6 000.
+(3) For the purposes of subsection (1), an intelligent access program service provider is taken to know of a relevant contravention for an intelligent access program vehicle if the service provider's approved intelligent transport system has detected the contravention.
+423—Reporting tampering or suspected tampering with approved intelligent transport system
+(1) If an intelligent access program service provider knows, or has reasonable grounds to suspect, an approved intelligent transport system has been tampered with, the service provider must report the matter to the Regulator—
+(a) within 7 days; and
+(b) in the approved form.
+Maximum penalty: $6 000.
+(2) If an intelligent access program service provider knows, or has reasonable grounds to suspect, a back‑office intelligent transport system has been tampered with, the service provider must report the matter to TCA—
+(a) within 7 days; and
+(b) in the approved form.
+Maximum penalty: $6 000.
+(3) For the purposes of subsections (1) and (2), an intelligent access program service provider does not know, or have reasonable grounds to suspect, an approved intelligent transport system or back‑office intelligent transport system has been tampered with merely because the service provider has—
+(a) accessed a report made by the system (including a noncompliance report) indicating that apparent tampering with the system has been detected electronically; or
+(b) analysed information generated by the system.
+(4) In this section—
+back‑office intelligent transport system means that part of an approved intelligent transport system that is not fitted, and is not intended to be fitted, to an intelligent access program vehicle.
+424—Restriction on disclosing information about tampering or suspected tampering with approved intelligent transport system
+(1) If an intelligent access program service provider knows, or has reasonable grounds to suspect, an approved intelligent transport system has been tampered with, the service provider must not disclose to any entity (other than the Regulator and TCA) the following:
+(a) information that the service provider has that knowledge or suspicion;
+(b) information from which it could reasonably be inferred that the service provider has that knowledge or suspicion.
+Maximum penalty: $6 000.
+(2) For the purposes of subsection (1), an intelligent access program service provider does not know, or have reasonable grounds to suspect, an approved intelligent transport system has been tampered with merely because the service provider has—
+(a) accessed a report made by the system (including a noncompliance report) indicating that apparent tampering with the system has been detected electronically; or
+(b) analysed information generated by the system.
+(3) If an intelligent access program service provider has made a report to the Regulator under section 423(1) of apparent or suspected tampering, the service provider must not disclose to any entity (other than the Regulator) the following:
+(a) information that the report has been made;
+(b) information from which it could reasonably be inferred that the service provider has made the report.
+Maximum penalty: $6 000.
+(4) If an intelligent access program service provider has made a report to TCA under section 423(2) of apparent or suspected tampering, the service provider must not disclose to any entity (other than the Regulator and TCA) the following:
+(a) information that the report has been made;
+(b) information from which it could reasonably be inferred that the service provider has made the report.
+Maximum penalty: $6 000.
+(5) Subsection (1), (3) or (4) does not apply if the disclosure of the information to which the subsection applies is authorised under another law.
+Part 5—Functions, powers, duties and obligations of TCA
+425—Functions of TCA
+(1) TCA has the following functions for the purposes of this Chapter:
+(a) approving, and cancelling the approval of, intelligent transport systems for use by intelligent access program service providers to monitor the relevant monitoring matters for an intelligent access program vehicle;
+(b) managing the certification and audit regime for the Intelligent Access Program;
+(c) certifying and auditing, and cancelling the certification of, intelligent access program service providers;
+(d) engaging individuals, consultants and contractors to assist TCA in the exercise of its auditing activities.
+(2) An approval, certification or engagement under subsection (1) may be given or made unconditionally or subject to stated conditions imposed or varied from time to time.
+426—Powers to collect and hold intelligent access program information
+TCA may collect and hold intelligent access program information—
+(a) for the exercise of its functions mentioned in section 425; or
+(b) for law enforcement purposes.
+427—Collecting intelligent access program information
+(1) TCA must take all reasonable steps to ensure the intelligent access program information it collects—
+(a) is necessary for the purpose for which it is collected or a directly related purpose; and
+(b) is not excessive for that purpose; and
+(c) is accurate, complete and up to date.
+Maximum penalty: $6 000.
+(2) TCA must take all reasonable steps to ensure the collection of intelligent access program information by it does not intrude to an unreasonable extent on the personal privacy of any individual to whom the information relates.
+Maximum penalty: $6 000.
+428—Protecting intelligent access program information collected
+TCA must take all reasonable steps to protect intelligent access program information collected by it against unauthorised access, unauthorised use, misuse, loss, modification or unauthorised disclosure.
+Maximum penalty: $20 000.
+429—Making individuals aware of personal information held
+(1) TCA must prepare, and make publicly available, a document setting out its policies on the management of personal information held by it.
+Examples of how a document is made publicly available—
+• making a document available at TCA's office
+• making a document available on TCA's website
+Maximum penalty: $6 000.
+(2) If asked by an individual about whom TCA holds personal information, TCA must, within 28 days after receiving the request, give the individual the following information if it can reasonably give the information:
+(a) the kind of information it holds about the individual;
+(b) the purpose for which the information is held;
+(c) the way in which it collects, holds, uses and discloses the information;
+(d) the entities to whom the information may be disclosed;
+(e) that, under this Chapter, the individual has rights of access to the information or to have the information changed to ensure it is accurate, complete and up to date;
+(f) how the rights mentioned in paragraph (e) can be exercised.
+Maximum penalty: $6 000.
+(3) Subsection (2) does not require TCA to inform an individual that a report under section 422, 423, 438, 451 or 452 exists or has been made.
+430—Giving individuals access to their personal information
+(1) TCA must, if asked by an individual about whom TCA holds personal information, give the individual access to the information as soon as practicable and without cost.
+Maximum penalty: $6 000.
+(2) Subsection (1) does not require TCA to give an individual access to a report made under section 422, 423, 438, 451 or 452 or information showing that a report of that kind exists or has been made.
+431—Correcting errors etc
+(1) This section applies if an individual about whom TCA holds personal information asks TCA to make a particular change to the personal information.
+(2) TCA must make the change if it is satisfied the change is appropriate to ensure the personal information is accurate, complete and up to date.
+Maximum penalty: $6 000.
+(3) If TCA is not satisfied as mentioned in subsection (2), it may refuse to comply with the request.
+(4) If TCA refuses, under subsection (3), to comply with an individual's request, it must give the individual a notice stating—
+(a) TCA's reasons for refusing; and
+(b) that the individual may ask TCA to attach to or include with the personal information the individual's request or a record of it.
+(5) If an individual referred to in subsection (4) asks TCA to do so, it must attach to or include with the personal information the request or a record of the request.
+Maximum penalty: $6 000.
+432—General restriction on use and disclosure of intelligent access program information
+TCA must not use or disclose intelligent access program information other than as required or authorised under this Law or another law.
+Maximum penalty: $20 000.
+433—Powers to use and disclose intelligent access program information
+(1) TCA may use or disclose intelligent access program information—
+(a) for the exercise of its functions mentioned in section 425; or
+(b) for law enforcement purposes.
+(2) TCA may disclose intelligent access program information to the Regulator if it is satisfied the information is relevant to the Regulator's functions under this Law.
+(3) TCA may disclose intelligent access program information to an intelligent access program auditor if it is satisfied the information is relevant to an intelligent access program audit the auditor is conducting.
+(4) TCA may disclose intelligent access program information relating to a particular operator of an intelligent access program vehicle to the operator.
+(5) TCA may, with the written consent of an operator of an intelligent access program vehicle, disclose intelligent access program information about the operator to a person other than the operator for any purpose if the information—
+(a) does not identify any individual other than the operator; and
+(b) contains nothing by which the identity of any individual, other than the operator, can reasonably be found out.
+(6) TCA may use or disclose intelligent access program information for research purposes if the information contains no personal information.
+(7) TCA may use or disclose intelligent access program information that is personal information with the written consent of the individual to whom the personal information relates.
+(8) This section is subject to section 439.
+434—Restriction about intelligent access program information that may be used or disclosed
+TCA must not use or disclose intelligent access program information unless TCA is reasonably satisfied, having regard to the purpose for which the information is to be used or disclosed, the information is accurate, complete and up to date.
+Maximum penalty: $6 000.
+435—Keeping record of use or disclosure of intelligent access program information
+(1) If TCA uses or discloses intelligent access program information, TCA must, within 7 days after the use or disclosure, make a record of the use or disclosure that —
+(a) contains the information mentioned in subsection (2); and
+(b) is in a form that ensures the record is readily accessible by an authorised officer at the place where it is kept.
+Maximum penalty: $6 000.
+(2) The record must contain the following information:
+(a) the name of the person who used or disclosed the intelligent access program information on behalf of TCA;
+(b) the date of the use or disclosure;
+(c) for a use of intelligent access program information by or on behalf of TCA, a brief description of how the information was used;
+(d) for a disclosure of intelligent access program information by or on behalf of TCA, the entity to whom the information was disclosed;
+(e) the provision of this Law or another law TCA believes authorises the use or disclosure;
+(f) if the use or disclosure is authorised only with a particular document (including, for example, a warrant, a certificate or a consent), a copy of the document.
+(3) TCA must keep a record made under this section for at least 2 years.
+Maximum penalty: $6 000.
+436—Keeping noncompliance reports
+TCA must keep any noncompliance report received by it for at least 4 years after its receipt.
+Maximum penalty: $6 000.
+437—Destroying intelligent access program information or removing personal information from it
+(1) TCA must take all reasonable steps to destroy intelligent access program information collected by it—
+(a) generally—1 year after the information is collected; or
+(b) if, at the end of the period mentioned in paragraph (a), the information is required for law enforcement purposes—as soon as practicable after the information ceases to be required for law enforcement purposes.
+Maximum penalty: $6 000.
+(2) TCA is taken to have complied with subsection (1) for intelligent access program information if it permanently removes anything by which an individual can be identified from the information.
+(3) This section does not apply to a noncompliance report TCA is required to keep under section 436.
+438—Reporting tampering or suspected tampering with, or malfunction or suspected malfunction of, approved intelligent transport system to Regulator
+(1) If TCA knows, or has reasonable grounds to suspect, an approved intelligent transport system has been tampered with or has malfunctioned, TCA must report the matter to the Regulator within 7 days.
+Maximum penalty: $6 000.
+(2) For the purposes of subsection (1), TCA does not know, or have reasonable grounds to suspect, an approved intelligent transport system has been tampered with or has malfunctioned merely because it has—
+(a) accessed a report made by the system (including a noncompliance report) indicating that apparent tampering with, or malfunctioning of, the system has been detected electronically; or
+(b) analysed information generated by the system.
+439—Restriction on disclosing information about tampering or suspected tampering with approved intelligent transport system
+(1) If TCA knows, or has reasonable grounds to suspect, an approved intelligent transport system has been tampered with, TCA must not disclose the following to any entity other than the Regulator:
+(a) information that TCA has that knowledge or suspicion;
+(b) information from which it could reasonably be inferred that TCA has that knowledge or suspicion.
+Maximum penalty: $6 000.
+(2) For the purposes of subsection (1), TCA does not know or have reasonable grounds to suspect an approved intelligent transport system has been tampered with merely because it has—
+(a) accessed a report made by the system (including a noncompliance report) indicating that apparent tampering with the system has been detected electronically; or
+(b) analysed information generated by the system.
+(3) If TCA has made a report of apparent or suspected tampering to the Regulator under section 438, TCA must not disclose to any entity other than the Regulator the following:
+(a) information that the report has been made;
+(b) information from which it could reasonably be inferred that TCA has made the report.
+Maximum penalty: $6 000.
+(4) Subsection (1) or (3) does not apply if the disclosure of the information to which the subsection applies is authorised under another law.
+Part 6—Powers, duties and obligations of intelligent access program auditors
+440—Powers to collect and hold intelligent access program information
+An intelligent access program auditor may collect and hold intelligent access program information for conducting an intelligent access program audit.
+441—Collecting intelligent access program information
+(1) An intelligent access program auditor must take all reasonable steps to ensure intelligent access program information the auditor collects—
+(a) is necessary for the purpose for which it is collected or a directly related purpose; and
+(b) is not excessive for that purpose; and
+(c) is accurate, complete and up to date.
+Maximum penalty: $6 000.
+(2) An intelligent access program auditor must take all reasonable steps to ensure the collection of intelligent access program information by the auditor does not intrude to an unreasonable extent on the personal privacy of any individual to whom the information relates.
+Maximum penalty: $6 000.
+442—Protecting intelligent access program information collected
+An intelligent access program auditor must take all reasonable steps to protect intelligent access program information collected by the auditor against unauthorised access, unauthorised use, misuse, loss, modification or unauthorised disclosure.
+Maximum penalty: $20 000.
+443—Making individuals aware of personal information held
+(1) If asked by an individual about whom an intelligent access program auditor holds personal information, the auditor must, within 28 days after receiving the request, give the individual the following information if the auditor can reasonably give the information:
+(a) the kind of information the auditor holds about the individual;
+(b) the purpose for which the information is held;
+(c) the entities to whom the information may be disclosed;
+(d) that, under this Chapter, the individual has rights of access to the information or to have the information changed to ensure it is accurate, complete and up to date;
+(e) how the rights mentioned in paragraph (d) can be exercised.
+Maximum penalty: $6 000.
+(2) Subsection (1) does not require an intelligent access program auditor to inform an individual that a report under section 422, 423, 438, 451 or 452 exists or has been made.
+444—Giving individuals access to their personal information
+(1) An intelligent access program auditor must, if asked by an individual about whom the auditor holds personal information, give the individual access to the information as soon as practicable and without cost.
+Maximum penalty: $6 000.
+(2) Subsection (1) does not require an intelligent access program auditor to give an individual access to a report made under section 422, 423, 438, 451 or 452.
+445—Correcting errors etc
+(1) This section applies if an individual about whom an intelligent access program auditor holds personal information asks the auditor to make a particular change to the personal information.
+(2) The intelligent access program auditor must make the change if the auditor is satisfied the change is appropriate to ensure the personal information is accurate, complete and up to date.
+Maximum penalty: $6 000.
+(3) If the intelligent access program auditor is not satisfied as mentioned in subsection (2), the auditor may refuse to comply with the request.
+(4) If, under subsection (3), an intelligent access program auditor refuses to comply with an individual's request, the auditor must—
+(a) give the individual a notice stating—
+(i) the auditor's reasons for refusing; and
+(ii) that the individual may ask the auditor to attach to or include with the personal information the individual's request or a record of it; and
+(b) if asked by the individual, attach to or include with the personal information the request or a record of the request.
+Maximum penalty: $6 000.
+446—General restriction on use and disclosure of intelligent access program information
+An intelligent access program auditor must not use or disclose intelligent access program information other than as required or authorised under this Law or another law.
+Maximum penalty: $20 000.
+447—Powers to use and disclose intelligent access program information
+(1) An intelligent access program auditor may use and disclose intelligent access program information for—
+(a) conducting an intelligent access program audit; or
+(b) reporting, to TCA, any of the following:
+(i) a relevant contravention for an intelligent access program vehicle;
+(ii) tampering or suspected tampering with an approved intelligent transport system by an operator of an intelligent access program vehicle;
+(iii) tampering or suspected tampering with an approved intelligent transport system by an intelligent access program service provider;
+(iv) a failure by an intelligent access program service provider to comply with the service provider's obligations under this Chapter.
+(2) An intelligent access program auditor may disclose intelligent access program information to the Regulator if the auditor is reasonably satisfied the information is relevant to the Regulator's functions under this Law.
+(3) An intelligent access program auditor may disclose intelligent access program information to TCA if the auditor is reasonably satisfied the information is relevant to TCA's functions under this Chapter.
+(4) An intelligent access program auditor may disclose intelligent access program information relating to a particular operator of an intelligent access program vehicle to the operator.
+(5) An intelligent access program auditor may use and disclose intelligent access program information that is personal information with the written consent of the individual to whom the personal information relates.
+(6) This section is subject to section 453.
+448—Restriction about intelligent access program information that may be used or disclosed
+An intelligent access program auditor must not use or disclose intelligent access program information unless the auditor is reasonably satisfied, having regard to the purpose for which the information is to be used or disclosed, the information is accurate, complete and up to date.
+Maximum penalty: $6 000.
+449—Keeping record of use or disclosure of intelligent access program information
+(1) If an intelligent access program auditor uses or discloses intelligent access program information, the auditor must, within 7 days after the use or disclosure, make a record of the use or disclosure that—
+(a) contains the information mentioned in subsection (2); and
+(b) is in a form that ensures the record is readily accessible by an authorised officer at the place where it is kept.
+Maximum penalty: $6 000.
+(2) The record must contain the following information:
+(a) the intelligent access program auditor's name or, if someone else used or disclosed the intelligent access program information on behalf of the auditor, the name of the person who used or disclosed the intelligent access program information;
+(b) the date of the use or disclosure;
+(c) for a use of intelligent access program information by or on behalf of the auditor, a brief description of how the information was used;
+(d) for a disclosure of intelligent access program information by or on behalf of the auditor, the entity to whom the information was disclosed;
+(e) the provision of this Law or another law the auditor believes authorises the use or disclosure;
+(f) if the use or disclosure is authorised only under a particular document (including, for example, a warrant, a certificate or a consent), a copy of the document.
+Maximum penalty: $6 000.
+(3) An intelligent access program auditor must keep a record made under this section for at least 2 years.
+Maximum penalty: $6 000.
+450—Destroying intelligent access program information or removing personal information from it
+(1) An intelligent access program auditor must take all reasonable steps to destroy intelligent access program information held by the auditor that is no longer needed for an intelligent access program audit conducted by the auditor.
+Maximum penalty: $6 000.
+(2) An intelligent access program auditor is taken to have complied with subsection (1) for intelligent access program information if the auditor permanently removes anything by which an individual can be identified from the information.
+451—Reporting contraventions by intelligent access program service providers to TCA
+If an intelligent access program auditor knows, or has reasonable grounds to suspect, an intelligent access program service provider has contravened an obligation under this Chapter, the auditor must, as soon as practicable, report the matter to TCA.
+Maximum penalty: $6 000.
+452—Reporting tampering or suspected tampering with approved intelligent transport system to Regulator or TCA
+If an intelligent access program auditor knows, or has reasonable grounds to suspect, an approved intelligent transport system has been tampered with, the auditor must, as soon as practicable, report the matter—
+(a) for tampering or suspected tampering by an operator of an intelligent access program vehicle—to the Regulator; or
+(b) for tampering or suspected tampering by an intelligent access program service provider—to TCA.
+Maximum penalty: $6 000.
+453—Restriction on disclosing information about tampering or suspected tampering with approved intelligent transport system
+(1) If an intelligent access program auditor knows, or has reasonable grounds to suspect, an approved intelligent transport system has been tampered with, the auditor must not disclose the following to any entity other than the Regulator or TCA:
+(a) information that the auditor has that knowledge or suspicion;
+(b) information from which it could reasonably be inferred that the auditor has that knowledge or suspicion.
+Maximum penalty: $6 000.
+(2) If an intelligent access program auditor has made a report to the Regulator or TCA under section 452 of apparent or suspected tampering, the auditor must not disclose the following to any entity other than the Regulator or TCA:
+(a) information that the report has been made;
+(b) information from which it could reasonably be inferred that the auditor has made the report.
+Maximum penalty: $6 000.
+(3) Subsection (1) or (2) does not apply if the disclosure of the information to which the subsection applies is authorised under another law.
+Part 7—Other provisions
+454—Offence to tamper with approved intelligent transport system
+(1) A person commits an offence if—
+(a) the person tampers with an approved intelligent transport system; and
+(b) the person does so with the intention of causing the system to—
+(i) fail to generate, record, store, display, analyse, transmit or report intelligent access program information; or
+(ii) fail to generate, record, store, display, analyse, transmit or report intelligent access program information correctly.
+Maximum penalty: $10 000.
+(2) A person commits an offence if—
+(a) the person tampers with an approved intelligent transport system; and
+(b) the person is negligent or reckless as to whether, as a result of the tampering, the system may—
+(i) fail to generate, record, store, display, analyse, transmit or report intelligent access program information; or
+(ii) fail to generate, record, store, display, analyse, transmit or report intelligent access program information correctly.
+Maximum penalty: $8 000.
+(3) In this section—
+fail—
+(a) means does not perform as intended in relation to accuracy, timeliness, reliability, verifiability or any other performance requirement or standard; and
+(b) includes fail permanently, fail temporarily, fail on a particular occasion and fail in particular circumstances.
+455—Regulator may issue intelligent access program identifiers
+(1) The Regulator may issue a distinguishing number for an intelligent access program vehicle that indicates the vehicle is an intelligent access program vehicle (an intelligent access program identifier).
+(2) The intelligent access program identifier may consist of numbers or letters or a combination of numbers and letters.
+(3) If an intelligent access program identifier is, or becomes, known to an entity that has the ability to associate it with a particular individual, the entity must treat the identifier as personal information for the purposes of this Chapter or a law relating to privacy.
+Chapter 8—Accreditation
+Part 1—Preliminary
+456—Purpose of Chapter 8
+The purpose of accreditation under this Law is to allow operators of heavy vehicles who implement management systems that achieve the objectives of particular aspects of this Law to be subject to alternative requirements under this Law, in relation to the aspects, that are more suited to the operators' business operations.
+457—Definitions for Chapter 8
+In this Chapter—
+AFM fatigue management system, for an operator of a fatigue‑related heavy vehicle, means the operator's management system for ensuring compliance with the AFM standards and business rules, including by—
+(a) recording the name, current driver licence number and contact details of each driver who is currently operating under the operator's AFM accreditation; and
+(b) ensuring each of the drivers is in a fit state—
+(i) to safely perform required duties; and
+(ii) to meet any specified medical requirements; and
+(c) ensuring each of the drivers—
+(i) has been inducted into the system; and
+(ii) has been informed of the AFM hours applying under the operator's AFM accreditation; and
+(d) ensuring anyone employed in the operator's business, who has responsibilities relating to scheduling or managing the fatigue of the drivers—
+(i) has been inducted into the system; and
+(ii) has been informed of the AFM hours applying under the operator's AFM accreditation;
+AFM standards and business rules means the standards and business rules for advanced fatigue management approved by the responsible Ministers;
+Note—
+A copy of the AFM standards and business rules is published on the Regulator's website.
+approved, by the responsible Ministers, means approved by the responsible Ministers under section 654;
+approved auditor means an auditor of a class approved by the responsible Ministers;
+Note—
+Details of the approved classes are published on the Regulator's website.
+BFM fatigue management system, for an operator of a fatigue‑related heavy vehicle, means the operator's management system for ensuring compliance with the BFM standards and business rules, including by—
+(a) recording the name, current driver licence number and contact details of each driver who is currently operating under the operator's BFM accreditation; and
+(b) ensuring each of the drivers is in a fit state—
+(i) to safely perform required duties; and
+(ii) to meet any specified medical requirements; and
+(c) ensuring each of the drivers—
+(i) has been inducted into the system; and
+(ii) has been informed of the BFM hours; and
+(d) ensuring anyone employed in the operator's business, who has responsibilities relating to scheduling or managing the fatigue of the drivers—
+(i) has been inducted into the system; and
+(ii) has been informed of the BFM hours;
+BFM standards and business rules means the standards and business rules for basic fatigue management approved by the responsible Ministers;
+Note—
+A copy of the BFM standards and business rules is published on the Regulator's website.
+maintenance management standards and business rules means the standards and business rules for heavy vehicle maintenance management approved by the responsible Ministers;
+Note—
+A copy of the maintenance management standards and business rules is published on the Regulator's website.
+maintenance management system, for an operator of a heavy vehicle, means the operator's management system for ensuring compliance with the maintenance management standards and business rules, including by—
+(a) identifying each heavy vehicle currently being operated in accordance with the management system; and
+(b) for each heavy vehicle being operated in accordance with the management system, having measures for the following:
+(i) daily checks of the condition of the vehicle, and its components and equipment, for each day on which the vehicle is driven on a road;
+(ii) recording and reporting vehicle faults;
+(iii) identifying, assessing and rectifying all identified faults;
+(iv) periodic maintenance of the vehicle; and
+(c) keeping records relating to the operation of the management system;
+mass management standards and business rules means the standards and business rules for heavy vehicle mass management approved by the responsible Ministers;
+Note—
+A copy of the mass management standards and business rules is published on the Regulator's website.
+mass management system, for an operator of a heavy vehicle, means the operator's management system for ensuring compliance with the mass management standards and business rules, including by—
+(a) identifying each heavy vehicle currently being operated in accordance with the management system; and
+(b) for each heavy vehicle being operated in accordance with the management system, having measures for the following:
+(i) weighing or otherwise assessing the weight of the vehicle and its load before the vehicle starts a journey, or starts a part of a journey, after the load is increased;
+(ii) recording each measurement made under subparagraph (i) in a form that allows the record to be readily available for inspection by an approved auditor;
+(iii) ensuring the vehicle's suspension system accords with the specifications given by its manufacturer or a qualified mechanical engineer; and
+(c) keeping records relating to the operation of the management system;
+relevant management system means—
+(a) for maintenance management accreditation—a maintenance management system; or
+(b) for mass management accreditation—a mass management system; or
+(c) for BFM accreditation—a BFM fatigue management system; or
+(d) for AFM accreditation—an AFM fatigue management system;
+relevant standards and business rules means—
+(a) for maintenance management accreditation—the maintenance management standards and business rules; or
+(b) for mass management accreditation—the mass management standards and business rules; or
+(c) for BFM accreditation—the BFM standards and business rules; or
+(d) for AFM accreditation—the AFM standards and business rules.
+Part 2—Grant of heavy vehicle accreditation
+458—Regulator's power to grant heavy vehicle accreditation
+The Regulator may grant heavy vehicle accreditation.
+459—Application for heavy vehicle accreditation
+(1) An operator of a heavy vehicle may apply to the Regulator for heavy vehicle accreditation under this Law.
+(2) The application must be—
+(a) in the approved form; and
+(b) accompanied by the following:
+(i) a statement by the applicant that the applicant has a relevant management system for ensuring compliance with the relevant standards and business rules;
+(ii) a statement from an approved auditor that the auditor considers the applicant's relevant management system will ensure compliance with the relevant standards and business rules;
+(iii) any other information required for the application under the relevant standards and business rules;
+(iv) the prescribed fee for the application.
+(3) The application must also be accompanied by a declaration by the applicant, declared to be made after having taken all reasonable steps to find out the following information, of the applicant's knowledge of that information:
+(a) whether, in the 5 years immediately before the application was made, the applicant or an associate of the applicant has been convicted of any of the following offences and, if so, details of the conviction:
+(i) an offence against this Law or a previous corresponding law;
+(ii) an offence involving fraud or dishonesty punishable on conviction by imprisonment of 6 months or more, whether committed in this jurisdiction or elsewhere;
+(b) whether the applicant or an associate of the applicant has had the applicant's or associate's accreditation under this Chapter or a previous corresponding law, amended, suspended or cancelled under this Chapter or that law and, if so, details of the amendment, suspension or cancellation.
+(4) Subsection (3)(b) does not require the applicant to declare information about an amendment, suspension or cancellation of an accreditation that happened because of a conviction if the operator is not required to declare the information about the conviction under subsection (3)(a).
+(5) The Regulator may, by notice given to the applicant, require the applicant—
+(a) to give the Regulator any additional information the Regulator reasonably requires to decide the application; or
+(b) to verify by statutory declaration any information relating to the application given to the Regulator.
+460—Obtaining criminal history information about applicant
+(1) The Regulator may, by notice, ask an applicant for heavy vehicle accreditation under this Law for written consent for the Regulator to obtain the applicant's prescribed criminal history.
+(2) If the applicant does not consent, or withdraws his or her consent, to the Regulator obtaining the applicant's prescribed criminal history, the application is taken to have been withdrawn.
+(3) If the applicant gives written consent to the Regulator obtaining the applicant's prescribed criminal history, the Regulator may ask a police commissioner for a written report about the applicant's prescribed criminal history.
+(4) The request may include the following:
+(a) the applicant's name and any other name the Regulator believes the applicant may use or may have used;
+(b) the applicant's date and place of birth, gender and address.
+(5) The police commissioner must give the requested report to the Regulator.
+(6) In this section—
+prescribed criminal history, of an applicant for heavy vehicle accreditation under this Law, means information about each conviction of the applicant, within the 5 years immediately before the application was made, of—
+(a) an offence against this Law or a previous corresponding law; or
+(b) an offence involving fraud or dishonesty punishable on conviction by imprisonment of 6 months or more, whether committed in this jurisdiction or elsewhere.
+461—Restriction on grant of heavy vehicle accreditation
+(1) The Regulator may grant an applicant heavy vehicle accreditation only if the Regulator is satisfied—
+(a) the applicant has in place a relevant management system for operations to be carried out under the accreditation; and
+(b) the applicant is able to comply with this Law, having regard to—
+(i) the information provided to the Regulator under this Part; and
+(ii) the matters to which the Regulator may or must have regard under subsection (4); and
+(c) the applicant is a suitable person to be granted the accreditation, having regard to—
+(i) the information provided to the Regulator under this Part; and
+(ii) the matters to which the Regulator may or must have regard under subsection (4); and
+(d) for AFM accreditation—
+(i) the driver fatigue management practices stated in the applicant's AFM fatigue management system, together with the maximum work times and minimum rest times that are to apply to drivers operating under the accreditation would, if complied with, safely manage the risk of driver fatigue; and
+(ii) the applicant and drivers operating under the accreditation are likely to follow the driver fatigue management practices consistently and effectively; and
+(iii) the drivers operating under the accreditation are likely to comply with the maximum work times and minimum rest times that are to apply to the drivers under the accreditation.
+(2) In considering the maximum work times and minimum rest times that are to apply to drivers operating under an AFM accreditation, the Regulator—
+(a) must be satisfied the maximum work times and minimum rest times appear to provide a safe balance between work, rest, risk management and fatigue countermeasures; and
+(b) must not set maximum work times and minimum rest times the Regulator considers would be unsafe, having regard to the applicant's AFM fatigue management system and any relevant body of fatigue knowledge.
+(3) The Regulator may grant an AFM accreditation setting maximum work times and minimum rest times different to the maximum work times and minimum rest times sought by the applicant.
+(4) In deciding an application for a heavy vehicle accreditation, the Regulator—
+(a) may have regard to anything the Regulator considers relevant including—
+(i) the results of any audits carried out on the applicant's relevant management system; and
+(ii) for assessing an applicant's AFM fatigue management system—any relevant body of fatigue knowledge; and
+(b) must have regard to the approved guidelines for granting heavy vehicle accreditations under this Law.
+462—Conditions of heavy vehicle accreditation
+(1) A heavy vehicle accreditation granted under this Law is subject to the condition that the operator who holds the accreditation must comply with the relevant standards and business rules.
+(2) A heavy vehicle accreditation granted under this Law may be subject to any other conditions the Regulator considers appropriate, including, for example—
+(a) a condition that a named person cannot operate under the operator's accreditation for a stated period; and
+(b) a condition that a named employee or associate of the operator cannot be involved in the operator's relevant management system at all or for a stated period; and
+(c) a condition requiring additional records to be kept, and audits to be performed, to ensure practices (for example, driver fatigue management practices) applying under the accreditation are followed consistently and effectively.
+463—Period for which heavy vehicle accreditation applies
+(1) A heavy vehicle accreditation granted under this Law applies for the period stated in the accreditation certificate for the accreditation.
+(2) The period may be less than the period sought by the applicant for the heavy vehicle accreditation.
+(3) The maximum period for which the Regulator may grant heavy vehicle accreditation is 3 years.
+464—Accreditation certificate for heavy vehicle accreditation etc
+(1) If the Regulator grants a heavy vehicle accreditation under this Law to an operator of a heavy vehicle, the Regulator must give the operator—
+(a) an accreditation certificate in the approved form; and
+(b) if prescribed circumstances apply to the grant of the accreditation—an information notice for the prescribed circumstances.
+(2) An accreditation certificate for a heavy vehicle accreditation must state the following:
+(a) the name of the operator who has been granted the accreditation;
+(b) the number identifying the accreditation;
+(c) any conditions imposed on the accreditation by the Regulator;
+(d) for an AFM accreditation, the maximum work times and minimum rest times that apply to drivers of fatigue‑regulated heavy vehicles operating under the accreditation;
+(e) the period for which the accreditation applies.
+(3) In this section—
+prescribed circumstances, for a heavy vehicle accreditation, means the Regulator has—
+(a) imposed a condition on the accreditation that was not sought by the applicant for the accreditation; or
+(b) granted the accreditation for a period less than the period of not more than 3 years sought by the applicant for the accreditation; or
+(c) for AFM accreditation, granted the AFM accreditation setting maximum work times and minimum rest times different to the maximum work times and minimum rest times sought by the applicant for the accreditation.
+465—Refusal of application for heavy vehicle accreditation
+If the Regulator refuses an application for heavy vehicle accreditation, the Regulator must give the applicant an information notice for the decision to refuse the application.
+466—Accreditation labels for maintenance management accreditation and mass management accreditation
+(1) If the Regulator grants maintenance management accreditation or mass management accreditation to an operator of a heavy vehicle, the Regulator must give the operator an accreditation label for each relevant vehicle for the accreditation.
+(2) If the operator amends the relevant management system to identify a new relevant vehicle for the accreditation—
+(a) the operator may ask the Regulator for an accreditation label for the new relevant vehicle; and
+(b) the Regulator must give the accreditation label to the operator.
+(2a) The operator must attach the accreditation label for a relevant vehicle to the vehicle in a way that the label—
+(a) is readable from outside the vehicle; and
+(b) is not wholly or partly obscured, defaced or otherwise not legible.
+Maximum penalty: $3 000.
+(2b) A person must not drive a relevant vehicle if the vehicle's accreditation label—
+(a) is not attached to the vehicle; or
+(b) is attached to the vehicle in a way that the label is wholly or partly obscured, defaced or otherwise not legible.
+Maximum penalty: $3 000.
+(3) In this section—
+accreditation label, for a relevant vehicle for a maintenance management accreditation or mass management accreditation, means a label stating the number identifying the accreditation for attaching to the vehicle;
+relevant vehicle, for a maintenance management accreditation or mass management accreditation, means a vehicle identified in the relevant management system as currently being operated in accordance with the management system.
+Part 3—Operating under heavy vehicle accreditation
+467—Compliance with conditions of BFM accreditation or AFM accreditation
+The holder of a BFM accreditation or AFM accreditation must comply with the conditions of the accreditation.
+Maximum penalty: $6 000.
+468—Driver operating under BFM accreditation or AFM accreditation must carry accreditation details
+(1) The driver of a heavy vehicle who is operating under a BFM accreditation or AFM accreditation must keep in the driver's possession—
+(a) a copy of the accreditation certificate for the accreditation; and
+(b) a document, signed by the operator of the vehicle who holds the accreditation, stating that the driver—
+(i) is operating under the operator's heavy vehicle accreditation; and
+(ii) has been inducted into the operator's relevant management system; and
+(iii) meets the requirements relating to drivers operating under the operator's heavy vehicle accreditation (if any); and
+(c) for a driver operating under AFM accreditation, a document stating the AFM hours applying under the accreditation.
+Example for the purposes of paragraph (c)—
+The driver records a statement of the AFM hours applying under the AFM accreditation in the driver's electronic work diary (which is a document).
+Maximum penalty: $3 000.
+(2) Subsection (1) applies even if the driver and operator are the same person.
+(3) If an offence is committed against subsection (1) involving the driver of a heavy vehicle, the operator of the vehicle is taken to have committed an offence against this subsection.
+Maximum penalty: $3 000.
+(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
+(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
+Note—
+See Divisions 1 and 2 of Chapter 10 Part 4 for the reasonable steps defence.
+(6) In a proceeding for an offence against subsection (3)—
+(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
+(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
+(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+469—Driver must return particular documents if stops operating under BFM accreditation or AFM accreditation etc
+(1) This section applies if—
+(a) the driver of a heavy vehicle is operating under a BFM accreditation or AFM accreditation; and
+(b) the operator of the heavy vehicle has given the driver a document for the purposes of section 468(1); and
+(c) the driver—
+(i) stops operating under the operator's BFM accreditation or AFM accreditation; or
+(ii) no longer meets the requirements relating to drivers operating under the operator's BFM accreditation or AFM accreditation (if any).
+(2) The driver must return the document to the operator as soon as reasonably practicable.
+Maximum penalty: $4 000.
+470—General requirements applying to operator with heavy vehicle accreditation
+(1) This section applies to an operator of a heavy vehicle who holds a heavy vehicle accreditation.
+(2) If the accreditation is BFM accreditation or AFM accreditation, the operator must ensure each driver who operates under the accreditation—
+(a) is inducted into the operator's relevant management system; and
+(b) at all times, meets the requirements relating to drivers operating under the accreditation (if any).
+Maximum penalty: $6 000.
+(3) If the accreditation is AFM accreditation, the operator must also ensure each driver who operates under the accreditation is informed of the AFM hours applying under the accreditation.
+Maximum penalty: $6 000.
+(4) The operator must keep—
+(a) the accreditation certificate for the operator's heavy vehicle accreditation; and
+(b) if the operator's heavy vehicle accreditation is BFM accreditation or AFM accreditation—
+(i) a current list of drivers operating under the operator's accreditation; and
+(ii) records demonstrating the operator has complied with—
+(A) if the operator's heavy vehicle accreditation is BFM accreditation—subsection (2); or
+(B) if the operator's heavy vehicle accreditation is AFM accreditation—subsections (2) and (3); and
+(c) if the operator's heavy vehicle accreditation is mass management accreditation or maintenance management accreditation—a current list of heavy vehicles to which the operator's accreditation relates.
+Maximum penalty: $6 000.
+(5) The operator must keep a document required to be kept under subsection (4) for the following period:
+(a) for an accreditation certificate—while the operator's heavy vehicle accreditation is current;
+(b) for each list or record made under subsection (4)(b) or (c)—at least 3 years after the list or record is made.
+Maximum penalty: $6 000.
+(6) The operator must keep a document required to be kept under subsection (4) in a way that ensures it is—
+(a) readily accessible by an authorised officer at the place where the document is kept; and
+(b) reasonably capable of being understood by the authorised officer; and
+(c) capable of being used as evidence.
+Maximum penalty: $3 000.
+(7) The Regulator may, by notice, require the operator to give the Regulator, in the form and within the time required by the Regulator—
+(a) a copy of the list mentioned in subsection (4)(b)(i) or (c); and
+(b) details of any change to the list.
+(8) The operator must comply with a requirement made under subsection (7), unless the operator has a reasonable excuse.
+Maximum penalty: $3 000.
+(9) Subsection (4) to (6) do not apply in relation to—
+(a) an accreditation certificate given to the Regulator under section 472 or 476, unless the Regulator has returned it or given the operator a replacement accreditation certificate; or
+(b) an accreditation certificate that has been defaced, destroyed, lost or stolen, unless the Regulator has given the operator a replacement accreditation certificate.
+Note—
+See section 477 for the requirement to apply to the Regulator for a replacement accreditation certificate for a defaced, destroyed, lost or stolen accreditation certificate.
+471—Operator must give notice of amendment, suspension or ending of heavy vehicle accreditation
+(1) This section applies if—
+(a) an operator of a heavy vehicle holds a heavy vehicle accreditation; and
+(b) the accreditation is amended or suspended, or the operator ceases to hold the accreditation.
+(2) The operator must as soon as practicable after the amendment, suspension or cessation happens give notice of the amendment, suspension or cessation to any driver of, or scheduler for, a heavy vehicle who may be affected by the amendment, suspension or cessation.
+Maximum penalty: $6 000.
+(3) If the driver of a heavy vehicle is given a notice under subsection (2), the driver must, as soon as reasonably practicable, return to the operator any document relevant to the notice given to the driver by the operator for the purposes of section 468(1).
+Maximum penalty: $4 000.
+Part 4—Amendment or cancellation of heavy vehicle accreditation
+472—Amendment or cancellation of heavy vehicle accreditation on application
+(1) A person may apply to the Regulator for an amendment or cancellation of the person's heavy vehicle accreditation granted under this Law.
+(2) The application must—
+(a) be in writing; and
+(b) be accompanied by the prescribed fee for the application; and
+(c) if the application is for an amendment—state clearly the amendment sought and the reasons for the amendment; and
+(d) be accompanied by the accreditation certificate for the accreditation.
+(3) The Regulator may, by notice given to the applicant, require the applicant to give the Regulator any additional information the Regulator reasonably requires to decide the application.
+(4) The Regulator must decide the application as soon as practicable after receiving it.
+(5) If the Regulator decides to grant the application—
+(a) the Regulator must give the applicant notice of the decision; and
+(b) the amendment or cancellation takes effect—
+(i) when notice of the decision is given to the applicant; or
+(ii) if a later time is stated in the notice, at the later time; and
+(c) if the Regulator amended the accreditation, the Regulator must give the applicant a replacement accreditation certificate for the accreditation as amended.
+(6) If the Regulator decides not to amend or cancel the accreditation as sought by the applicant, the Regulator must—
+(a) give the applicant an information notice for the decision; and
+(b) return the accreditation certificate to the applicant.
+473—Amendment, suspension or cancellation of heavy vehicle accreditation on Regulator's initiative
+(1) Each of the following is a ground for amending, suspending or cancelling a heavy vehicle accreditation granted under this Law:
+(a) the accreditation was granted because of a document or representation that was—
+(i) false or misleading; or
+(ii) obtained or made in an improper way;
+(b) the holder of the accreditation has contravened a condition of the accreditation;
+(c) the holder of the accreditation, or an associate of the holder, has been convicted of—
+(i) an offence against this Law or a previous corresponding law; or
+(ii) an offence involving fraud or dishonesty punishable on conviction by imprisonment of 6 months or more, whether committed in this jurisdiction or elsewhere;
+(d) since the accreditation was granted, there has been a change in the circumstances that were relevant to the Regulator's decision to grant the accreditation and, had the changed circumstances existed when the accreditation was granted, the Regulator would not have granted the accreditation, or would have granted the accreditation subject to conditions or different conditions;
+(e) for a maintenance management accreditation or mass management accreditation—
+(i) public safety has been endangered, or is likely to be endangered, because of the accreditation; or
+(ii) road infrastructure has been damaged, or is likely to be damaged, because of the accreditation;
+(f) for a BFM accreditation or AFM accreditation—public safety has been endangered, or is likely to be endangered, because of the accreditation;
+(g) the Regulator considers it necessary in the public interest.
+(2) If the Regulator considers a ground exists to amend, suspend or cancel a heavy vehicle accreditation granted under this Law (the proposed action), the Regulator must give the holder of the accreditation a notice—
+(a) stating the proposed action; and
+(b) stating the ground for the proposed action; and
+(c) outlining the facts and circumstances forming the basis for the ground; and
+(d) if the proposed action is to amend the accreditation (including a condition of the accreditation)—stating the proposed amendment; and
+(e) if the proposed action is to suspend the accreditation—stating the proposed suspension period; and
+(f) inviting the holder to make, within a stated time of at least 14 days after the notice is given to the holder, written representations about why the proposed action should not be taken.
+(3) If, after considering all written representations made under subsection (2)(f), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
+(a) if the proposed action was to amend the accreditation—amend the accreditation, including, for example, by imposing additional conditions on the accreditation, in a way that is not substantially different from the proposed action; or
+(b) if the proposed action was to suspend the accreditation—suspend the accreditation for no longer than the period stated in the notice; or
+(c) if the proposed action was to cancel the accreditation—
+(i) amend the accreditation, including, for example, by imposing additional conditions on the accreditation; or
+(ii) suspend the accreditation for a period; or
+(iii) cancel the accreditation.
+(4) The Regulator must give the holder an information notice for the decision.
+(5) The decision takes effect—
+(a) when the information notice is given to the holder; or
+(b) if a later time is stated in the information notice, at the later time.
+474—Immediate suspension of heavy vehicle accreditation
+(1) This section applies if the Regulator considers—
+(a) a ground exists to suspend or cancel a heavy vehicle accreditation granted under this Law; and
+(b) it is necessary to suspend the accreditation immediately to prevent or minimise serious harm to public safety.
+(2) The Regulator may, by notice given to the holder, immediately suspend the heavy vehicle accreditation until the earliest of the following:
+(a) the Regulator gives the holder an information notice under section 473(4) and the decision takes effect under section 473(5);
+(b) the Regulator cancels the suspension;
+(c) the end of 56 days after the day the notice is given to the holder.
+(3) This section applies despite sections 472 and 473.
+475—Minor amendment of heavy vehicle accreditation
+The Regulator may, by notice given to the holder of a heavy vehicle accreditation granted under this Law, amend the accreditation in a minor respect—
+(a) for a formal or clerical reason; or
+(b) in another way that does not adversely affect the holder's interests.
+Part 5—Other provisions about heavy vehicle accreditations
+476—Return of accreditation certificate
+(1) If a person's heavy vehicle accreditation granted under this Law is amended, suspended or cancelled, the Regulator may, by notice, require the person to return the person's accreditation certificate to the Regulator.
+(2) The person must comply with the notice within 7 days after the notice is given to the person or, if a longer period is stated in the notice, within the longer period.
+Maximum penalty: $6 000.
+(3) If the heavy vehicle accreditation has been amended, the Regulator must give the person a replacement accreditation certificate for the accreditation as amended.
+(4) If the heavy vehicle accreditation has been suspended, the Regulator must give the person the accreditation certificate for the accreditation or, if the accreditation has also been amended, a replacement accreditation certificate for the accreditation as amended, as soon as practicable after the suspension ends.
+477—Replacement of defaced etc accreditation certificate
+(1) If a person's accreditation certificate for a heavy vehicle accreditation granted under this Law is defaced, destroyed, lost or stolen, the person must, as soon as reasonably practicable after becoming aware of the matter, apply to the Regulator for a replacement accreditation certificate.
+Maximum penalty: $4 000.
+Note—
+See section 470 for the requirement to keep an accreditation certificate for a heavy vehicle accreditation while the accreditation is current.
+(2) If the Regulator is satisfied the accreditation certificate has been defaced, destroyed, lost or stolen, the Regulator must give the person a replacement accreditation certificate as soon as practicable.
+(3) If the Regulator decides not to give the person a replacement accreditation certificate, the Regulator must give the person an information notice for the decision.
+478—Offences relating to auditors
+(1) A person must not falsely represent that the person is an approved auditor.
+Maximum penalty: $10 000.
+(2) An approved auditor must not falsely represent that the person is an auditor of a particular approved class.
+Maximum penalty: $10 000.
+(3) An approved auditor must not falsely represent that the person has audited an operator's relevant management system.
+Maximum penalty: $10 000.
+(4) A person must not falsely represent the opinion of an approved auditor in relation to an operator's relevant management system.
+Maximum penalty: $10 000.
+(5) In this section—
+approved class means a class of auditors approved by the responsible Ministers under section 654.
+Chapter 9—Enforcement
+Part 1—General matters about authorised officers
+Division 1—Functions
+479—Functions of authorised officers
+An authorised officer has the following functions under this Law:
+(a) to monitor, investigate and enforce compliance with this Law;
+(b) to monitor or investigate whether an occasion has arisen for the exercise of powers under this Law;
+(c) to facilitate the exercise of powers under this Law.
+Division 2—Appointment
+480—Application of Division 2
+This Division does not apply to an authorised officer who is a police officer.
+481—Appointment and qualifications
+(1) The Regulator may, by instrument, appoint any of the following individuals as an authorised officer for the purposes of this Law:
+(a) an individual who is—
+(i) a member of the staff of the Regulator; or
+(ii) a person whose services are being used under an arrangement under section 685; or
+(iii) a consultant or contractor engaged by the Regulator under section 686;
+(b) an employee of the State;
+(c) an employee of a local government authority;
+(d) an individual of a class prescribed by the national regulations.
+(2) However, the Regulator may appoint a person as an authorised officer only if the Regulator is satisfied the person is qualified for appointment because the person has the necessary expertise or experience.
+482—Appointment conditions and limit on powers
+(1) An authorised officer holds office on any conditions stated in—
+(a) the officer's instrument of appointment; or
+(b) a notice signed by the Regulator given to the officer; or
+(c) the national regulations.
+(2) The instrument of appointment, a signed notice given to the authorised officer, or the national regulations may limit the officer's powers.
+483—When office ends
+(1) The office of a person as an authorised officer ends if any of the following happens:
+(a) the term of office stated in a condition of office ends;
+(b) under another condition of office, the office ends;
+(c) the officer's resignation under section 484 takes effect.
+(2) Subsection (1) does not limit the ways an authorised officer may cease to hold office.
+(3) In this section—
+condition of office means a condition under which the authorised officer holds office.
+484—Resignation
+(1) An authorised officer may resign by signed notice given to the Regulator.
+(2) However, if holding office as an authorised officer is a condition of the officer holding another office, the officer may not resign as an authorised officer without resigning from the other office.
+Division 3—Identity cards
+485—Application of Division 3
+This Division does not apply to an authorised officer who is a police officer.
+486—Issue of identity card
+(1) The Regulator must issue an identity card to each authorised officer.
+(2) The identity card must—
+(a) contain a recent photo of the authorised officer; and
+(b) contain a copy of the authorised officer's signature; and
+(c) identify the person as an authorised officer for the purposes of this Law; and
+(d) state the identification number allocated to the authorised officer; and
+(e) state an expiry date for the card.
+(3) This section does not prevent the issue of a single identity card to a person for the purposes of this Law and other purposes.
+487—Production or display of identity card
+(1) In exercising a power in relation to a person in the person's presence, an authorised officer must—
+(a) produce the officer's identity card for the person's inspection before exercising the power; or
+(b) have the identity card displayed so it is clearly visible to the person when exercising the power.
+(2) However, if it is not practicable to comply with subsection (1), the authorised officer must produce the identity card for the person's inspection at the first reasonable opportunity.
+(3) For the purposes of subsection (1), an authorised officer does not exercise a power in relation to a person only because the officer has entered a place as mentioned in section 495(1)(b) or 497(1)(b) or (d).
+Note—
+Sections 505 and 510 include provisions requiring the production of identification by an authorised officer in circumstances mentioned in those sections.
+488—Return of identity card
+If the office of a person as an authorised officer ends, the person must return the person's identity card to the Regulator within 21 days after the office ends unless the person has a reasonable excuse.
+Maximum penalty: $4 000.
+Division 4—Miscellaneous provisions
+489—References to exercise of powers
+If—
+(a) a provision of this Chapter refers to the exercise of a power by an authorised officer; and
+(b) there is no reference to a specific power,
+the reference is to the exercise of all or any authorised officers' powers under this Chapter or a warrant, to the extent the powers are relevant.
+490—Reference to document includes reference to reproduction from electronic document
+A reference in this Chapter to a document includes a reference to an image or writing—
+(a) produced from an electronic document; or
+(b) not yet produced, but reasonably capable of being produced from an electronic document, with or without the aid of another article or device.
+491—Use of force against persons
+(1) This Chapter does not authorise—
+(a) an authorised officer (or a person assisting or otherwise acting under the direction or authority of an authorised officer) to use force against a person in the exercise or purported exercise of a function under this Chapter; or
+(b) without limiting paragraph (a), a warrant to be issued under this Chapter authorising a person to use force against a person.
+(2) However, subsection (1) does not affect the powers of a police officer to the extent (if any) the police officer is authorised to use force against a person under the Application Act of this jurisdiction.
+(3) This section has effect despite any other provision of this Chapter in relation to the use of force against a person, even if the other provision is expressed as authorising the use of force for the purposes of the provision.
+492—Use of force against property
+(1) A power to use force against property under another section of this Chapter in the exercise or purported exercise of a function in relation to this jurisdiction cannot be exercised by an authorised officer (or a person assisting or otherwise acting under the direction or authority of the authorised officer) unless—
+(a) the authorised officer is a police officer; or
+(b) exercise of the power to use force is authorised under the Application Act of this jurisdiction.
+(2) Subsection (1)—
+(a) has effect despite any other section of this Chapter in relation to the use of force against property, even if the other section is expressed as authorising the use of force for the purposes of the section; but
+(b) does not affect any prohibition or restriction on a power to use force set out in the other section.
+(3) Subsections (1) and (2) apply to a power to use force against property whether the power is express or implied.
+(4) Despite subsections (1) to (3) and any other section of this Chapter, this Chapter does not preclude the inclusion of additional circumstances in the Application Act of this jurisdiction in which an authorised officer, whether or not a police officer, may use force against property in the exercise or purported exercise of a function under this Chapter in relation to this jurisdiction.
+493—Exercise of functions in relation to light vehicles
+(1) This Chapter does not authorise the exercise of any function under this Chapter in relation to a vehicle that is not a heavy vehicle.
+(2) However, a function under this Chapter may be exercised in relation to—
+(a) a pilot vehicle or escort vehicle; or
+(b) a vehicle to the extent (if any) that it is reasonably necessary for the purpose of determining if the vehicle is or is not a heavy vehicle.
+Part 2—Powers in relation to places
+Division 1—Preliminary
+494—Definitions for Chapter 9 Part 2
+(1) In this Part—
+place of business, of a responsible person for a heavy vehicle, means a place—
+(a) at or from which the person carries on a business; or
+(b) occupied by the person in connection with a business carried on by the person; or
+(c) that is the registered office of the person if the person is a body corporate;
+relevant place means—
+(a) a place of business of a responsible person for a heavy vehicle; or
+(b) the relevant garage address of a heavy vehicle; or
+(c) the base of the driver or drivers of a heavy vehicle; or
+(d) a place where records required to be kept under this Law or a heavy vehicle accreditation are located or are required to be located under this Law or a heavy vehicle accreditation;
+residence, that is a relevant place, means a place or part of a place mentioned in the definition of relevant place used predominantly for residential purposes.
+(2) For the purposes of this Part, a place or part of a place is taken not to be used for residential purposes merely because temporary or casual sleeping or other accommodation is provided there for drivers of heavy vehicles.
+Division 2—Entry of relevant places for monitoring purposes
+495—Power to enter relevant place
+(1) An authorised officer may, for monitoring purposes, enter a relevant place if—
+(a) an occupier of the place consents under Division 4 to the entry and section 503 has been complied with for the occupier; or
+(b) the place is not a residence and is—
+(i) open for carrying on a business; or
+(ii) otherwise open for entry; or
+(iii) required to be open for inspection under this Law.
+(2) If the power to enter arose only because an occupier of the place consented to the entry, the power is subject to any conditions of the consent and ceases if the consent is withdrawn.
+(3) Subsection (1)(b) does not authorise an authorised officer, without the occupier's consent or a warrant, to enter a relevant place that is unattended, unless the officer reasonably believes the place is attended.
+(4) If an authorised officer enters a place reasonably believing the place is attended, the officer must leave the place immediately after finding the place is or appears to be unattended.
+(5) An authorised officer may open unlocked doors and other unlocked panels and things at a place for gaining entry to the place under subsection (1).
+(6) This section does not authorise an authorised officer to use force for exercising a power under this section.
+496—General powers after entering relevant place
+(1) If an authorised officer enters a relevant place under this Division, the officer may, for monitoring purposes, do any of the following (each a general power):
+(a) inspect any part of the place or a vehicle at the place;
+(b) inspect a relevant document at the place;
+(c) copy, or take an extract from, a relevant document at the place;
+(d) produce an image or writing at the place from an electronic relevant document at the place or, if it is not practicable to produce the image or writing at the place, take a thing containing the electronic relevant document to another place to produce the image or writing;
+(e) look for, and inspect, a relevant device at the place;
+(f) take an extract from a relevant device at the place, including, for example—
+(i) by taking a copy of, or an extract from, a readout or other data obtained from the device; or
+(ii) by accessing and downloading information from the device;
+(g) exercise a power in relation to a heavy vehicle at the place that the authorised officer may exercise under section 520;
+(h) take to, into or onto the place and use any persons, equipment, materials, vehicles or other things the officer reasonably requires for exercising the officer's powers under this section.
+(2) The authorised officer may take a necessary step to allow the exercise of a general power, including, for example—
+(a) open an unlocked door or an unlocked panel or thing at the place; and
+(b) move but not take away anything that is not locked up or sealed.
+(3) For exercising a power under subsection (1)(c) or (f), the authorised officer may use photocopying equipment at the place free of charge.
+Note—
+See also sections 543 and 544 for use of particular equipment at a place, or in a vehicle, entered under this Chapter.
+(4) If the authorised officer takes from the place a thing containing an electronic relevant document to produce an image or writing from the document, the image or writing must be produced, and the thing must be returned to the place, as soon as practicable.
+(5) However, if the authorised officer entered the place under section 495(1)(a), the officer's powers under this section are subject to the conditions of the consent.
+(6) This section does not authorise an authorised officer to use force for exercising a power under this section.
+(7) In this section—
+electronic relevant document means a relevant document that is an electronic document;
+relevant device means a device relating to a heavy vehicle and required to be installed, used or maintained under this Law or a heavy vehicle accreditation;
+Example of a device that may be a relevant device—
+a weighing, measuring, recording or monitoring device
+relevant document means a document relating to a heavy vehicle and required to be kept under this Law or a heavy vehicle accreditation.
+Division 3—Entry of places for investigation purposes
+497—General power to enter places
+(1) An authorised officer may, for investigation purposes, enter a place if—
+(a) an occupier of the place consents under Division 4 to the entry and section 503 has been complied with for the occupier; or
+(b) it is a public place and the entry is made when it is open to the public; or
+(c) the entry is authorised under a warrant and, if there is an occupier at the place, section 510 has been complied with for the occupier; or
+(d) it is a relevant place other than a residence and is—
+(i) open for carrying on a business; or
+(ii) otherwise open for entry; or
+(iii) required to be open for inspection under this Law; or
+(e) the entry is authorised under section 498 or 499.
+(2) The authorised officer may exercise powers under this section at the place even if entry to the place was originally effected under Division 2 for monitoring purposes.
+(3) If the power to enter arose only because an occupier of the place consented to the entry, the power is subject to any conditions of the consent and ceases if the consent is withdrawn.
+(4) If the power to enter is under a warrant—
+(a) the authorised officer may use force that is reasonably necessary for gaining entry to the place; and
+(b) the power to enter is subject to the terms of the warrant.
+(5) Subsection (1)(d) does not authorise an authorised officer, without the occupier's consent or a warrant, to enter—
+(a) a place that is unattended, unless the officer reasonably believes the place is attended; or
+(b) a place, or part of a place, used predominantly for residential purposes.
+(6) If an authorised officer enters a place reasonably believing the place is attended, the officer must leave the place immediately after finding the place is or appears to be unattended.
+(7) An authorised officer may open unlocked doors and other unlocked panels and things at a place for gaining entry to the place under subsection (1).
+(8) This section does not authorise an authorised officer to use force for exercising a power under this section unless the power is exercised under a warrant.
+498—Power to enter a place if evidence suspected to be at the place
+(1) This section applies if an authorised officer reasonably believes that—
+(a) either—
+(i) a heavy vehicle is or has been at a place; or
+(ii) transport documentation or journey documentation is at a place; and
+(b) there may be at the place evidence of an offence against this Law that may be concealed or destroyed unless the place is immediately entered and searched.
+(2) The authorised officer may enter the place if it is—
+(a) open for carrying on a business; or
+(b) otherwise open for entry; or
+(c) required to be open for inspection under this Law.
+(3) Subsection (2) does not authorise an authorised officer to enter—
+(a) a place that is unattended, unless the officer reasonably believes the place is attended; or
+(b) a place, or part of a place, used predominantly for residential purposes.
+(4) If an authorised officer enters a place reasonably believing the place is attended, the officer must leave the place immediately after finding the place is or appears to be unattended.
+(5) An authorised officer may open unlocked doors and other unlocked panels and things at a place for gaining entry to the place under subsection (2).
+(6) An authorised officer may use force that is reasonably necessary for gaining entry to a place mentioned in subsection (2)(c).
+(7) This section does not authorise an authorised officer to use force for exercising a power under this section other than as provided by subsection (6).
+499—Power to enter particular places if incident involving death, injury or damage
+(1) An authorised officer, without an occupier's consent or a warrant, may enter a place at any time if the officer reasonably believes—
+(a) an incident involving the death of, or injury to, a person or damage to property involves or may have involved a heavy vehicle; and
+(b) the incident may have involved an offence against this Law; and
+(c) there is a connection between the place and the heavy vehicle; and
+(d) there may be at the place evidence of the offence mentioned in paragraph (b) that may be concealed or destroyed unless the place is immediately entered and searched.
+(2) For the purposes of subsection (1), there is a connection between a place and a heavy vehicle if—
+(a) the place is the vehicle's garage address or, if the vehicle is a combination, the garage address of a heavy vehicle in the combination; or
+(b) the vehicle is, or within the past 72 hours has been, located at the place; or
+(c) the place is, or may be, otherwise directly or indirectly connected with the vehicle or any part of its equipment or load.
+(3) This section does not authorise an authorised officer to enter a place in relation to an incident that involves the death, or injury to, a person unless the authorised officer is a police officer.
+(4) This section does not authorise an authorised officer, without the occupier's consent or a warrant, to enter—
+(a) a place that is unattended, unless the officer reasonably believes the place is attended; or
+(b) a place, or part of a place, used predominantly for residential purposes.
+(5) If an authorised officer enters a place without the occupier's consent or a warrant, reasonably believing the place is attended, the officer must leave the place immediately after finding the place is or appears to be unattended.
+(6) An authorised officer may open unlocked doors and other unlocked panels and things at a place for gaining entry to the place under subsection (1).
+(7) This section does not authorise an authorised officer to use force for exercising a power under this section.
+500—General powers after entering a place
+(1) If an authorised officer enters a place under section 497(1), the officer may, for investigation purposes, do any of the following (each a general power):
+(a) search any part of the place or a vehicle at the place, including—
+(i) searching any part of the place or a vehicle at the place for evidence of an offence against this Law; and
+(ii) searching any part of the place or a vehicle at the place for a document, device or other thing relating to a heavy vehicle or any part of its equipment or load;
+(b) inspect, examine or film any part of the place or anything at the place;
+(c) take a thing, or a sample of or from a thing, at the place for examination;
+(d) place an identifying mark in or on anything at the place;
+(e) take an extract from a document, device or other thing at the place, including, for example—
+(i) by taking a copy of, or an extract from, a readout or other data obtained from a device or other thing at the place; or
+(ii) by accessing and downloading information from a device or other thing at the place;
+Example of device or other thing—
+an intelligent transport system
+(f) copy a document at the place, or take a document at the place to another place to copy it;
+Examples of documents for the purposes of paragraphs (e) and (f)—
+• a document required to be kept at the place under this Law or a heavy vehicle accreditation
+• transport documentation
+• journey documentation
+• a document the authorised officer reasonably believes provides, or may provide on further inspection, evidence of an offence against this Law
+(g) produce an image or writing at the place from an electronic document at the place or, if it is not practicable to produce the image or writing at the place, take a thing containing the electronic document to another place to produce the image or writing;
+(h) exercise a power in relation to a heavy vehicle at the place that the authorised officer may exercise under Chapter 9 Part 3;
+(i) take to, into or onto the place and use any persons, equipment, materials, vehicles or other things the officer reasonably requires for exercising the officer's powers under this section.
+Note—
+The term public place is defined in section 5 as a place or part of a place—
+(a) that the public is entitled to use, is open to members of the public or is used by the public, whether or not on payment of money; or
+(b) the occupier of which allows members of the public to enter, whether or not on payment of money.
+Accordingly, the term "public place" does not include an office area or an area behind a reception counter, unless the public have access to the area as provided in the definition.
+(2) The authorised officer may take a necessary step to allow the exercise of a general power, including, for example—
+(a) open an unlocked door or an unlocked panel or thing at the place; and
+(b) move anything that is not locked up or sealed; and
+(c) if the authorised officer entered the place under section 497(1)(c), use the force that is reasonably necessary for the exercise of the power.
+(3) If an authorised officer takes, or authorises another person to take, a thing or sample for examination under subsection (1)(c), the officer must—
+(a) give a receipt for the thing or sample to—
+(i) the person in possession of the thing or sample or the thing from which the sample was taken; or
+(ii) the person in charge of the place from which the thing or sample was taken; and
+(b) at the end of 6 months after the thing or sample was taken, return it to the person who appears to be an owner of it, a person to whom a receipt was given under paragraph (a) for it, or a person in charge of the place from which it was taken, unless the thing or sample—
+(i) has been seized under section 549; or
+(ii) does not have any intrinsic value.
+Note—
+See section 561 for what happens if a thing or sample cannot be returned to its owner or the owner cannot be found.
+(4) However, if for any reason it is not practicable to comply with subsection (3)(a), the authorised officer must leave the receipt at the place in a conspicuous position and in a reasonably secure way.
+(5) For exercising a power under subsection (1)(f), the authorised officer may use photocopying equipment at the place free of charge.
+Note—
+See also sections 543 and 544 for use of particular equipment at a place, or in a vehicle, entered under this Chapter.
+(6) If the authorised officer takes a document from the place to copy it, the document must be copied and returned to the place as soon as practicable.
+(7) If the authorised officer takes from the place a thing containing an electronic document to produce an image or writing from the document, the image or writing must be produced, and the thing must be returned to the place, as soon as practicable.
+(8) However—
+(a) if the authorised officer entered the place under section 497(1)(a), the officer's powers under this section are subject to the conditions of the consent; and
+(b) if the authorised officer entered the place under section 497(1)(c), the officer's powers under this section are subject to the terms of the warrant.
+(9) Without limiting section 497(2), the authorised officer may exercise powers under this section at the place even if entry to the place was originally effected under Division 2 for monitoring purposes.
+(10) The power to search under this section does not include a power to search a person.
+Division 4—Procedure for entry by consent
+501—Application of Division 4
+This Division applies if an authorised officer intends to ask an occupier of a place for consent to the officer or another authorised officer entering the place under section 495(1)(a) or 497(1)(a).
+502—Incidental entry to ask for access
+(1) For the purpose of asking the occupier for the consent, the authorised officer may, without the occupier's consent or a warrant—
+(a) enter land around a building or other structure at the place to an extent that is reasonable to contact the occupier; or
+(b) enter part of the place the officer reasonably believes members of the public ordinarily are allowed to enter when they wish to contact the occupier.
+(2) The authorised officer must not enter land or a part of a place under subsection (1) if the officer knows or ought reasonably to know the place is unattended.
+(3) If the authorised officer enters land or a part of a place under subsection (1), the officer must leave it immediately after finding the place is or appears to be unattended.
+503—Matters authorised officer must tell occupier
+Before asking for the consent, the authorised officer must give a reasonable explanation to the occupier about the following:
+(a) the purpose of the entry;
+(b) that the occupier is not required to consent;
+(c) that the consent may be given subject to conditions and may be withdrawn at any time;
+(d) any other powers intended to be exercised to achieve the purpose of the entry.
+504—Consent acknowledgement
+(1) If the consent is given, the authorised officer may ask the occupier to sign an acknowledgement of the consent.
+(2) The acknowledgement must state—
+(a) the purpose of the entry, including the powers intended to be exercised to achieve the purpose of the entry; and
+(b) that the following has been explained to the occupier:
+(i) the purpose of the entry, including the powers intended to be exercised to achieve the purpose of the entry;
+(ii) that the occupier is not required to consent; and
+(c) that the occupier gives the authorised officer consent to enter the place and exercise the powers; and
+(d) the time and day the consent was given; and
+(e) any conditions of the consent.
+(3) If the occupier signs the acknowledgement, the authorised officer must immediately give a copy to the occupier.
+(4) However, if it is impractical for the authorised officer to give the occupier a copy of the acknowledgement immediately, the officer must give the copy as soon as practicable.
+(5) If the acknowledgment states some but not all the powers exercised or intended to be exercised to achieve the purpose of the entry—
+(a) the acknowledgment is not necessarily invalid merely because of the omission; but
+(b) if an issue arises in a proceeding about the validity of the acknowledgment—the court has a discretion to decide if the acknowledgment is invalid on the ground that the exercise of the power was of such significance in the particular circumstances as to have warranted its inclusion in the acknowledgment.
+(6) If—
+(a) an issue arises in a proceeding about whether the occupier consented to the entry; and
+(b) an acknowledgement complying with subsection (2) for the entry is not produced in evidence,
+the onus of proof is on the person relying on the lawfulness of the entry to prove the occupier consented.
+505—Procedure for entry with consent
+(1) This section applies if an authorised officer is intending to ask the occupier for consent to enter a place under this Division (otherwise than under section 502).
+(2) Before asking for consent, the authorised officer must identify himself or herself to a person who is an occupier of the place and is present by producing—
+(a) for an authorised officer who is a police officer—an identity card or other document evidencing the officer's appointment as a police officer; or
+(b) for an authorised officer who is not a police officer—the identity card issued to the officer under this Law or another document evidencing the officer's appointment as an authorised officer.
+(3) Subsection (2)(a) does not apply to a police officer in uniform.
+Division 5—Entry under warrant
+506—Application for warrant
+(1) An authorised officer may apply to an authorised warrant official for a warrant for a place.
+(2) The authorised officer must prepare a written application stating the grounds on which the warrant is sought.
+(3) The written application must be sworn.
+(4) The authorised warrant official may refuse to consider the application until the authorised officer gives the official all the information the official requires about the application in the way the official requires.
+Example—
+The authorised warrant official may require additional information supporting the written application to be given by statutory declaration.
+507—Issue of warrant
+(1) The authorised warrant official may issue the warrant for the place only if the official is satisfied there are reasonable grounds for suspecting there is at the place, or will be at the place within the next 72 hours, a particular thing or activity that may provide evidence of an offence against this Law.
+(2) The warrant must state the following:
+(a) the place to which the warrant applies;
+(b) that a stated authorised officer or any authorised officer may, with necessary and reasonable help and force—
+(i) enter the place and any other place necessary for entry to the place; and
+(ii) exercise the authorised officer's powers;
+(c) particulars of the offence that the authorised warrant official considers appropriate in the circumstances;
+(d) the name of the person suspected of having committed the offence unless the name is unknown or the authorised warrant official considers it inappropriate to state the name;
+(e) the evidence that may be seized under the warrant;
+(f) the hours of the day or night when the place may be entered;
+(g) the authorised warrant official's name;
+(h) the date and time of the warrant's issue;
+(i) the day, within 14 days after the warrant's issue, the warrant ends.
+508—Application by electronic communication and duplicate warrant
+(1) An application under section 506 may be made by radio, telephone, fax, email, video conferencing or another form of electronic communication if the authorised officer reasonably believes it necessary because of—
+(a) urgent circumstances; or
+(b) other special circumstances, including, for example, the officer's remote location.
+(2) The application—
+(a) may not be made before the authorised officer prepares the written application under section 506(2); but
+(b) may be made before the written application is sworn.
+(3) The authorised warrant official may issue the warrant (the original warrant) only if the official is satisfied—
+(a) it was necessary to make the application under subsection (1); and
+(b) the way the application was made under subsection (1) was appropriate.
+(4) After the authorised warrant official issues the original warrant—
+(a) if there is a reasonably practicable way of immediately giving a copy of the warrant to the authorised officer, for example, by sending a copy by fax or email, the official must immediately give a copy of the warrant to the officer; or
+(b) otherwise—
+(i) the official must tell the authorised officer the information mentioned in section 507(2); and
+(ii) the authorised officer must complete a form of warrant, including by writing on it the information mentioned in section 507(2) provided by the official.
+(5) The copy of the warrant mentioned in subsection (4)(a), or the form of warrant completed under subsection (4)(b) (in either case the duplicate warrant), is a duplicate of, and as effectual as, the original warrant.
+(6) The authorised officer must, at the first reasonable opportunity, send to the authorised warrant official—
+(a) the written application complying with section 506(2) and (3); and
+(b) if the officer completed a form of warrant under subsection (4)(b)—the completed form of warrant.
+(7) The authorised warrant official must keep the original warrant and, on receiving the documents under subsection (6)—
+(a) attach the documents to the original warrant; and
+(b) file the original warrant and documents in the relevant court.
+(8) Despite subsection (5), if—
+(a) an issue arises in a proceeding about whether an exercise of a power was authorised by a warrant issued under this section; and
+(b) the original warrant is not produced in evidence,
+the onus of proof is on the person relying on the lawfulness of the exercise of the power to prove a warrant authorised the exercise of the power.
+(9) This section does not limit section 506.
+509—Defect in relation to a warrant
+(1) A warrant is not invalidated by a defect in—
+(a) the warrant; or
+(b) compliance with this Division,
+unless the defect affects the substance of the warrant in a material particular.
+(2) In this section—
+warrant includes a duplicate warrant mentioned in section 508(5).
+510—Procedure for entry under warrant
+(1) This section applies if an authorised officer is intending to enter a place under a warrant issued under this Division.
+(2) Before entering the place, the authorised officer must do or make a reasonable attempt to do the following things:
+(a) identify himself or herself to a person who is an occupier of the place and is present by producing—
+(i) for an authorised officer who is a police officer—an identity card or other document evidencing the officer's appointment as a police officer; or
+(ii) for an authorised officer who is not a police officer—the identity card issued to the officer under this Law or another document evidencing the officer's appointment as an authorised officer;
+(b) give the person a copy of the warrant;
+(c) tell the person the officer is permitted by the warrant to enter the place;
+(d) give the person an opportunity to allow the officer immediate entry to the place without using force.
+(3) However, the authorised officer need not comply with subsection (2) if the officer reasonably believes that entry to the place is required to ensure the execution of the warrant is not frustrated.
+(4) Subsection (2)(a)(i) does not apply to a police officer in uniform.
+(5) In this section—
+warrant includes a duplicate warrant mentioned in section 508(5).
+Part 3—Powers in relation to heavy vehicles
+Division 1—Preliminary
+511—Application of Chapter 9 Part 3
+Unless otherwise stated in this Part, this Part applies to a heavy vehicle—
+(a) on a road; or
+(b) in or at a public place; or
+(c) in or at a place owned or occupied by a road authority or by another public authority; or
+(d) in or at a place entered by an authorised officer under Chapter 9 Part 2.
+512—Persons who are drivers for this Part
+In this Part, a reference to the driver of a heavy vehicle includes a reference to a person in, on or in the vicinity of the vehicle whom an authorised officer present at the scene reasonably believes is the vehicle's driver.
+Division 2—Stopping, not moving or not interfering with heavy vehicle etc
+513—Direction to stop heavy vehicle to enable exercise of other powers
+(1) To enable an authorised officer to exercise a power under this Law, the officer may direct the driver of a heavy vehicle to stop the vehicle.
+Example—
+An authorised officer may direct the driver of a heavy vehicle to stop the vehicle so that the authorised officer can enter and inspect it under section 520 or enter and search it under section 521.
+(2) The direction may be given orally or in any other way, including, for example, by way of a sign or electronic or other signal.
+(3) The direction may require the heavy vehicle to be—
+(a) stopped immediately; or
+(b) stopped at a place indicated by the authorised officer as the nearest place for it to be safely stopped.
+(4) A person given a direction under subsection (1) must comply with the direction, unless the person has a reasonable excuse.
+Maximum penalty: $6 000.
+(5) When the heavy vehicle stops, the authorised officer must as soon as practicable produce for the inspection of the vehicle's driver—
+(a) for an authorised officer who is a police officer—an identity card or other document evidencing the officer's appointment as a police officer; or
+(b) for an authorised officer who is not a police officer—the identity card issued to the officer under this Law or another document evidencing the officer's appointment as an authorised officer.
+(6) Subsection (5)(a) does not apply to a police officer in uniform.
+(7) In this section—
+stop a heavy vehicle means to stop the vehicle and keep it stationary.
+514—Direction not to move or interfere with heavy vehicle etc to enable exercise of other powers
+(1) To enable an authorised officer to exercise a power under this Law, the officer may direct the driver of a heavy vehicle or any other person not to—
+(a) move the vehicle; or
+(b) interfere with the vehicle or any equipment in it; or
+(c) interfere with the vehicle's load.
+(2) The direction may be given orally or in any other way, including, for example, by way of a sign or electronic or other signal.
+(3) A person given a direction under subsection (1) must comply with the direction, unless the person has a reasonable excuse.
+Maximum penalty: $6 000.
+Division 3—Moving heavy vehicle
+515—Definition for Division 3
+In this Division—
+unattended, for a heavy vehicle, means—
+(a) there is no‑one in or near the vehicle who appears to be its driver; or
+(b) there is a person in or near the vehicle who appears to be its driver but the person is—
+(i) unwilling, or not qualified or fit, to drive the vehicle; or
+(ii) not authorised by the operator of the vehicle to drive it; or
+(iii) subject to a direction under section 524.
+516—Direction to move heavy vehicle to enable exercise of other powers
+(1) To enable an authorised officer to exercise a power under this Law, the officer may direct the driver or operator of a heavy vehicle that is stationary or has been stopped under section 513 to move the vehicle, or cause it to be moved, to a stated reasonable place within a 30km radius from—
+(a) where the vehicle was stationary or stopped; or
+(b) if the direction is given within the course of the vehicle's journey—any point along the forward route of the journey.
+Example—
+An authorised officer may direct the driver of a heavy vehicle to move the vehicle onto a weighing or testing device.
+(2) The direction may be made orally or in any other way, including, for example—
+(a) for a direction given to the driver of a heavy vehicle—by way of a sign or electronic or other signal; or
+(b) for a direction given to the operator of a heavy vehicle—by radio, telephone, fax or email.
+(3) A person given a direction under subsection (1) must comply with the direction, unless the person has a reasonable excuse.
+Maximum penalty: $6 000.
+(4) Without limiting what may be a reasonable excuse for the purposes of subsection (3), in a proceeding for an offence against the subsection, it is a defence for the person charged to prove that—
+(a) it was not possible to move the heavy vehicle because it was broken down; and
+(b) the breakdown happened for a physical reason beyond the person's control; and
+(c) the breakdown could not be readily rectified in a way that would enable the direction to be complied with within a reasonable time.
+517—Direction to move heavy vehicle if causing harm etc
+(1) This section applies if an authorised officer reasonably believes a stationary heavy vehicle is—
+(a) causing, or creating a risk of, serious harm to public safety, the environment or road infrastructure; or
+(b) obstructing traffic or likely to obstruct traffic.
+(2) The authorised officer may direct the driver or operator of the heavy vehicle to do either or both of the following:
+(a) move the vehicle, or cause it to be moved, to the extent necessary to avoid the harm or obstruction;
+(b) do, or cause to be done, anything else the officer reasonably requires to avoid the harm or obstruction.
+(3) The direction may be made orally or in any other way, including, for example—
+(a) for a direction given to the driver of a heavy vehicle—by way of a sign or electronic or other signal; or
+(b) for a direction given to the operator of a heavy vehicle—by radio, telephone, fax or email.
+(4) A person given a direction under subsection (2) must comply with the direction, unless the person has a reasonable excuse.
+Maximum penalty: $6 000.
+(5) Without limiting what may be a reasonable excuse for the purposes of subsection (4), in a proceeding for an offence against the subsection, it is a defence for the person charged to prove that—
+(a) it was not possible to move the heavy vehicle because it was broken down; and
+(b) the breakdown happened for a physical reason beyond the person's control; and
+(c) the breakdown could not be readily rectified in a way that would enable the direction to be complied with within a reasonable time.
+518—Moving unattended heavy vehicle on road to exercise another power
+(1) This section applies if an authorised officer—
+(a) reasonably believes a heavy vehicle on a road is unattended; and
+(b) intends to exercise a power under this Law in relation to the heavy vehicle; and
+(c) reasonably believes it is necessary to move the heavy vehicle to enable the exercise of the power.
+(2) To the extent reasonably necessary to enable the exercise of the power, the authorised officer—
+(a) may move the heavy vehicle; or
+(b) authorise someone else (the assistant) to move the heavy vehicle.
+Example—
+by driving, pushing or towing the heavy vehicle
+(3) The authorised officer or assistant may enter the heavy vehicle to enable the authorised officer or assistant to move it.
+(4) Despite subsection (2), the authorised officer—
+(a) may only drive the heavy vehicle if the officer is qualified and fit to drive it; and
+(b) may only authorise the assistant to drive the heavy vehicle if the assistant is qualified and fit to drive it.
+(5) It is immaterial that—
+(a) the assistant is not the operator of the heavy vehicle; or
+(b) the authorised officer or assistant is not authorised by the operator to drive the heavy vehicle.
+(6) The authorised officer or assistant may—
+(a) open unlocked doors and other unlocked panels and things in the heavy vehicle; and
+(b) use the force that is reasonably necessary to—
+(i) gain access to the heavy vehicle, its engine or other mechanical components to enable it to be moved; or
+(ii) enable the heavy vehicle to be towed.
+(7) The authorised officer must ensure that, so far as is reasonably practicable, the driver or operator is notified that the vehicle has been moved and the place to which it has been moved.
+(8) The notification may be given orally or in any other way, including, for example, by radio, telephone, fax or email.
+519—Moving unattended heavy vehicle on road if causing harm etc
+(1) This section applies if an authorised officer reasonably believes—
+(a) a heavy vehicle on a road is unattended; and
+(b) the heavy vehicle is—
+(i) causing, or creating an imminent risk of, serious harm to public safety, the environment or road infrastructure; or
+(ii) obstructing traffic or likely to obstruct traffic.
+(2) The authorised officer may move or authorise someone else (the assistant) to move the heavy vehicle or, if it is a combination, any component vehicle of the combination, to the extent it is reasonably necessary to avoid the harm or obstruction.
+Example—
+by driving, pushing or towing the vehicle
+(3) The authorised officer or assistant may—
+(a) enter the heavy vehicle to enable the authorised officer or assistant to move it; and
+(b) for a combination—separate any or all of the component vehicles of the combination for the purpose of moving 1 or more of them.
+(4) The authorised officer or assistant may drive the heavy vehicle even if the officer or assistant is not qualified to drive it if the authorised officer reasonably believes there is no‑one else in or near the vehicle who is more capable of driving it and fit and willing to drive it.
+(5) It is immaterial that—
+(a) the assistant is not the operator of the heavy vehicle; or
+(b) the authorised officer or assistant is not authorised by the operator to drive the heavy vehicle.
+(6) In driving the heavy vehicle under subsection (4), the authorised officer or assistant is exempt from a provision of an Australian road law to the extent the provision would require the authorised officer or assistant to be qualified to drive the vehicle.
+(7) The authorised officer or assistant may use the force that is reasonably necessary to do anything that is reasonably necessary to avoid the harm or obstruction.
+Division 4—Inspecting and searching heavy vehicles
+520—Power to enter and inspect heavy vehicles for monitoring purposes
+(1) An authorised officer may enter and inspect a heavy vehicle for monitoring purposes.
+(2) Without limiting subsection (1), the authorised officer may—
+(a) inspect, examine or film any part of the heavy vehicle or any part of its equipment or load; and
+(b) without limiting paragraph (a), look for, check the details of, or film a number plate, label or other thing required to be displayed on the heavy vehicle under this Law; and
+(c) inspect a relevant document in the heavy vehicle; and
+(d) copy, or take an extract from, a relevant document in the heavy vehicle; and
+(e) produce an image or writing in or near the vehicle from an electronic relevant document in the vehicle or, if it is not practicable to produce the image or writing in or near the vehicle, take a thing containing the electronic relevant document somewhere else to produce the image or writing; and
+(f) take an extract of relevant information from a device or other thing found in the heavy vehicle, including, for example—
+(i) by taking a copy of, or an extract from, a readout or other data obtained from the device or other thing; or
+(ii) by accessing and downloading relevant information from the device or other thing.
+Example of device or other thing—
+an intelligent transport system
+(3) The authorised officer may take a necessary step to allow the exercise of a power under subsection (1) or (2), including, for example—
+(a) open an unlocked door or an unlocked panel or thing on the heavy vehicle; and
+(b) move but not take away anything that is not locked up or sealed.
+(4) However, this section does not authorise an authorised officer to use force for exercising a power under this section.
+(5) If the authorised officer takes from the heavy vehicle a thing containing an electronic relevant document to produce an image or writing from the document, the image or writing must be produced, and the thing must be returned to the vehicle, as soon as practicable.
+(6) In this section—
+electronic relevant document means a relevant document that is an electronic document;
+relevant document means a document relating to a heavy vehicle and required to be kept under this Law or a heavy vehicle accreditation, including, for example, a document required to be kept in the possession of the driver of a heavy vehicle;
+relevant information means information relating to a heavy vehicle required to be kept under this Law or a heavy vehicle accreditation.
+521—Power to enter and search heavy vehicle involved, or suspected to be involved, in an offence etc
+(1) An authorised officer may, using necessary and reasonable help and force, enter and search a heavy vehicle for investigation purposes if the officer reasonably believes—
+(a) the vehicle is being, or has been, used to commit an offence against this Law; or
+(b) the vehicle, or a thing in the vehicle, may provide evidence of an offence against this Law that is being, or has been, committed; or
+(c) the vehicle has been or may have been involved in an incident involving the death of, or injury to, a person or damage to property.
+(2) The authorised officer may form the necessary belief—
+(a) during or after an inspection of the heavy vehicle under Chapter 9 Part 2 or section 520; or
+(b) independently of an inspection of the heavy vehicle under Chapter 9 Part 2 or section 520.
+(3) Without limiting subsection (1), the authorised officer may—
+(a) search any part of the heavy vehicle or any part of its equipment or load for evidence of an offence against this Law; and
+(b) inspect, examine or film any part of the heavy vehicle or any part of its equipment or load; and
+(c) without limiting paragraph (b), look for, check the details of, or film a number plate, label or other thing required to be displayed on the heavy vehicle under this Law; and
+(d) search for and inspect a document, device or other thing in the heavy vehicle; and
+(e) take an extract from a document, device or other thing in the heavy vehicle, including, for example—
+(i) by taking a copy of, or an extract from, a readout or other data obtained from a device or other thing in the vehicle; or
+(ii) by accessing and downloading information from a device or other thing in the vehicle; and
+Examples of device or other thing—
+an intelligent transport system
+(f) copy a document in the heavy vehicle, or take a document in the heavy vehicle somewhere else to copy it; and
+Examples of documents for the purposes of paragraphs (e) and (f)—
+• a document required to be kept in the vehicle under this Law or a heavy vehicle accreditation
+• transport documentation
+• journey documentation
+• a document the authorised officer reasonably believes provides, or may provide on further inspection, evidence of an offence against this Law
+(g) produce an image or writing in or near the vehicle from an electronic document in the vehicle or, if it is not practicable to produce the image or writing in or near the vehicle, take a thing containing the electronic document somewhere else to produce the image or writing; and
+(h) take the persons, equipment or materials the officer reasonably requires into or onto the heavy vehicle.
+(4) If the authorised officer takes a document from the heavy vehicle to copy it, the document must be copied and returned to the vehicle as soon as practicable.
+(5) If the authorised officer takes from the heavy vehicle a thing containing an electronic document to produce an image or writing from the document, the image or writing must be produced, and the thing must be returned to the vehicle, as soon as practicable.
+(6) This section does not authorise an authorised officer to exercise a power under this section in relation to an incident that involves the death of, or injury to, a person unless the authorised officer is a police officer.
+(7) The power to search under this section does not include a power to search a person.
+522—Power to order presentation of heavy vehicles for inspection
+(1) An authorised officer may, by notice under subsection (2), require to be produced for inspection at a place and time stated in the notice, a heavy vehicle—
+(a) that the officer reasonably believes has within the preceding 30 days been used or will be used on a road if the officer reasonably believes that—
+(i) the driver of the vehicle has not complied with this Law in driving a heavy vehicle of that kind; or
+(ii) the vehicle does not comply with this Law; or
+(iii) the vehicle is a defective heavy vehicle as defined in section 525; or
+(b) without limiting paragraph (a), for the purpose of deciding if a vehicle defect notice for the vehicle can be cleared under section 530.
+(2) A notice must be served on—
+(a) the person in charge of the heavy vehicle; or
+(b) the registered operator or, if the heavy vehicle is not registered, an owner.
+(3) If a notice has been served on a person under this section—
+(a) the person may, not later than 24 hours before the time stated in the notice, request an authorised officer to change the place or time of inspection or both; and
+(b) subject to paragraph (c), the authorised officer must—
+(i) consider the request; and
+(ii) vary the notice by changing the place or time; and
+(iii) notify the person of the change; and
+(c) the authorised officer may refuse the request if the officer considers—
+(i) there may be a safety risk in acceding to the request; or
+(ii) the request is made for an improper reason; or
+(iii) it is otherwise not reasonable to vary the notice.
+(4) An inspection may include any tests an authorised officer decides to be appropriate.
+(5) A person must not fail to produce a heavy vehicle for inspection—
+(a) subject to paragraph (b), at the place and time stated in the notice served on the person; or
+(b) if the notice has been varied under this section, at the place and time stated in the notice as varied.
+Maximum penalty: $6 000.
+(6) Failure to produce or allow a heavy vehicle to be inspected as required under this section is a ground for suspending the registration of the vehicle.
+Division 5—Other powers in relation to all heavy vehicles
+523—Starting or stopping heavy vehicle engine
+(1) To enable an authorised officer to effectively exercise a power under this Law in relation to a heavy vehicle, the officer may enter the vehicle and start or stop its engine (take the prescribed action) or authorise someone else (the assistant) to enter the vehicle and take the prescribed action if—
+(a) a person fails to comply with a requirement made by an authorised officer under section 577 to take the prescribed action; or
+(b) no responsible person for the heavy vehicle is available or willing to take the prescribed action; or
+(c) the authorised officer reasonably believes there is no‑one else in or near the vehicle who is more capable of taking the prescribed action and is fit and willing to do so.
+(2) The authorised officer or assistant may use the force that is reasonably necessary to enter the heavy vehicle and take the prescribed action.
+(3) Subsection (2) does not authorise the authorised officer or assistant to use force against a person.
+(4) It is immaterial that—
+(a) the assistant is not the operator of the heavy vehicle; or
+(b) the authorised officer or assistant is not—
+(i) authorised by the operator to take the prescribed action; or
+(ii) qualified to take the prescribed action.
+(5) This section does not authorise the authorised officer or assistant to drive the heavy vehicle.
+(6) In taking the prescribed action, the authorised officer or assistant is exempt from a provision of an Australian road law to the extent the provision would require the authorised officer or assistant to be qualified to take the prescribed action.
+(7) In this section—
+start, in relation to a heavy vehicle's engine, includes run the engine.
+524—Direction to leave heavy vehicle
+(1) This section applies if—
+(a) the driver of a heavy vehicle fails to comply with a direction given by an authorised officer under this Chapter; or
+(b) an authorised officer reasonably believes the driver of a heavy vehicle is not qualified, fit or authorised by the operator to drive the vehicle in order to comply with a direction the authorised officer may give under this Chapter; or
+(c) an authorised officer reasonably believes it would be unsafe to inspect or search a heavy vehicle or any part of it or any part of its equipment or load while the driver occupies the driver's seat or is in the vehicle or another person accompanying the driver is in the vehicle.
+(2) The authorised officer may direct the driver to do 1 or more of the following:
+(a) to vacate the driver's seat;
+(b) to leave the heavy vehicle;
+(c) not to occupy the driver's seat until permitted by an authorised officer;
+(d) not to enter the heavy vehicle until permitted by an authorised officer.
+(3) The authorised officer may direct any other person accompanying the driver of the heavy vehicle to do either or both of the following:
+(a) to leave the vehicle;
+(b) not to enter the vehicle until permitted by an authorised officer.
+(4) A direction under subsection (2) or (3) may be made orally or in any other way, including, for example, by way of a sign or electronic or other signal.
+(5) A person given a direction under subsection (2) or (3) must comply with the direction unless the person has a reasonable excuse.
+Maximum penalty: $6 000.
+Division 6—Further powers in relation to heavy vehicles concerning heavy vehicle standards
+525—Definitions for Division 6
+In this Division—
+defective heavy vehicle means a heavy vehicle that—
+(a) contravenes the heavy vehicle standards; or
+(b) has a part that—
+(i) does not perform its intended function; or
+(ii) has deteriorated to an extent that it cannot be reasonably relied on to perform its intended function;
+defective vehicle label means a label—
+(a) for attaching to a heavy vehicle to which a vehicle defect notice applies; and
+(b) stating—
+(i) the vehicle's registration number or, if the vehicle is not registered, a vehicle identifier of the vehicle; and
+(ii) that the vehicle must not be used on a road except as specified in the notice; and
+(iii) the identification details for the authorised officer who issued the notice; and
+(iv) the day and time the notice was issued; and
+(v) the number of the notice;
+identification details, for an authorised officer, means details to identify the authorised officer, including, for example—
+(a) the officer's name; or
+(b) an identification number allocated to the officer under this Law or another law;
+registration authority means an authority responsible for the registration of heavy vehicles;
+vehicle identifier means—
+(a) a VIN; or
+(b) engine number; or
+(c) chassis number; or
+(d) another identifying number issued by a registration authority.
+Example—
+an unregistered vehicle permit number
+526—Issue of vehicle defect notice
+(1) This section applies if an authorised officer who has inspected a heavy vehicle under this Law reasonably believes—
+(a) the vehicle is a defective heavy vehicle; and
+(b) the use of the vehicle on a road poses a safety risk.
+(2) The authorised officer may issue the following notice in relation to the heavy vehicle, in the way mentioned in subsection (3):
+(a) if the officer reasonably believes the safety risk is an imminent and serious safety risk—a notice (a major defect notice) stating the vehicle must not be used on a road after the notice is issued other than to move it to one or more stated locations in one or more stated ways; or
+(b) if the officer reasonably believes the safety risk is not an imminent and serious safety risk—a notice (a minor defect notice) stating the vehicle must not be used on a road after a stated time unless stated action required to stop the vehicle from being a defective heavy vehicle is taken.
+(3) The authorised officer may issue the vehicle defect notice by—
+(a) if the driver of the heavy vehicle is present—giving the notice to the driver; or
+(b) if the driver of the heavy vehicle is not present—attaching the notice to the vehicle.
+(4) If the driver of a heavy vehicle for which a vehicle defect notice is issued under this section is not the operator of the vehicle, the driver must, as soon as practicable, give the notice to the operator.
+Maximum penalty: $3 000.
+527—Requirements about vehicle defect notice
+(1) A vehicle defect notice for a heavy vehicle must be in the approved form and state the following:
+(a) that the vehicle is a defective heavy vehicle and details of how the vehicle is a defective heavy vehicle;
+(b) for a notice given in circumstances mentioned in section 526(2)(a)—that the vehicle must not be used on a road after the notice is issued other than to move it to one or more locations stated in the notice in one or more ways stated in the notice;
+(c) for a notice given in circumstances mentioned in section 526(2)(b)—that the vehicle must not be used on a road after a time stated in the notice unless action required to stop the vehicle from being a defective heavy vehicle stated in the notice is taken;
+(d) the name of the vehicle's driver if known by the authorised officer issuing the notice when the notice is issued or, if the driver is not present or the driver's name is not known by the authorised officer issuing the notice when the notice is issued, the term 'registered operator';
+(e) details to identify the vehicle, including, for example—
+(i) the vehicle's registration number, or if the vehicle is not registered, a vehicle identifier of the vehicle; or
+(ii) the vehicle's make and category;
+(f) the nature of the inspection that led to the notice being issued;
+(g) whether an infringement notice was also given when the notice was issued;
+(h) the identification details for the authorised officer who issued the notice;
+(i) that, if the notice is not cleared by the Regulator under section 530, the vehicle's registration may be suspended and subsequently cancelled under this Law;
+(j) any conditions imposed under subsection (2).
+(2) The authorised officer issuing a vehicle defect notice may impose any conditions on the use of the defective heavy vehicle the officer considers appropriate for use of the vehicle on a road.
+(3) Any conditions imposed under subsection (2) are taken to form part of the vehicle defect notice concerned.
+528—Defective vehicle labels
+(1) If an authorised officer issues a major defect notice for a heavy vehicle, the authorised officer must attach a defective vehicle label to the vehicle.
+(2) If an authorised officer issues a minor defect notice for a heavy vehicle, the authorised officer may attach a defective vehicle label to the vehicle.
+(3) A person must not remove or deface a defective vehicle label attached to a heavy vehicle under subsection (1) or (2).
+Maximum penalty: $3 000.
+(4) Subsection (3) does not apply to a person removing a defective vehicle label under section 530(2) or 531(5).
+528A—Information not included in notice or label
+(1) This section applies to information required to be included—
+(a) in a defective vehicle label under section 525 (see paragraph (b)(i) of the definition of defective vehicle label); or
+(b) in a vehicle defect notice under section 527(1)(e).
+(2) The information need only be included if it is reasonably practicable and safe for the authorised officer to obtain the information.
+529—Using defective heavy vehicles contrary to vehicle defect notice
+A person must not use, or permit to be used, on a road a heavy vehicle in contravention of a vehicle defect notice.
+Maximum penalty: $6 000.
+529A—Permission by authorised officer to use vehicle the subject of a vehicle defect notice
+(1) An authorised officer may, on request made by the operator of a heavy vehicle that is the subject of a vehicle defect notice, give written permission for the vehicle to be used on a road during a period stated in the permission.
+(2) The authorised officer may only give the permission if the officer—
+(a) is satisfied—
+(i) that the vehicle will be used only for the purpose of driving the vehicle to and from a place where repairs are to be carried out; or
+(ii) that the relevant repairs have been carried out and the vehicle will be taken within the stated period to be inspected for the purpose of enabling the vehicle defect notice to be cleared under section 530; and
+(b) is satisfied that the request is necessary and reasonable; and
+(c) is satisfied that the use of the vehicle will not pose a safety risk.
+(3) For the purposes of subsection (2)(c), an authorised officer may require evidence of adequate repairs or other measures.
+(4) The permission is subject to conditions that—
+(a) the use of the vehicle will be as mentioned in subsection (2)(a) and (c); and
+(b) in relation to the use of the vehicle mentioned in subsection (2)(a)(i)—the vehicle will not be used to carry goods or passengers.
+(5) The authorised officer may also impose other reasonable conditions on the permission.
+(6) The use of the vehicle under the permission is not a contravention of the vehicle defect notice.
+(7) The use of a vehicle in contravention of a condition under subsection (4) or (5) is a contravention of the vehicle defect notice.
+529B—Permitted use of vehicle the subject of a vehicle defect notice without permission of authorised officer
+(1) A heavy vehicle that is the subject of a vehicle defect notice may be used on a road if—
+(a) the relevant repairs have been carried out; and
+(b) the vehicle is being taken to a place to be inspected for the purpose of enabling the vehicle defect notice to be cleared under section 530; and
+(c) the vehicle is not carrying goods or passengers; and
+(d) the use of the vehicle does not pose a safety risk.
+(2) An authorised officer may require a driver of the heavy vehicle to produce evidence of the relevant repairs to the authorised officer within a reasonable time, and in a reasonable way, stated by the officer.
+(3) Subsection (1) stops applying to the vehicle if the driver fails to comply with the requirement.
+(4) The use of the heavy vehicle under subsection (1) is not a contravention of the vehicle defect notice.
+530—Clearance of vehicle defect notices
+(1) A vehicle defect notice may be cleared by the Regulator if—
+(a) the Regulator decides the vehicle is no longer a defective heavy vehicle; or
+(b) the Regulator receives a notice, in the approved form, from an authorised officer stating that the heavy vehicle is no longer a defective heavy vehicle.
+(2) If the Regulator clears a vehicle defect notice applying to a heavy vehicle, the Regulator must arrange for any defective vehicle label for the vehicle to be removed from the vehicle.
+531—Amendment or withdrawal of vehicle defect notices
+(1) A vehicle defect notice issued in this jurisdiction by an authorised officer who is a police officer may be amended or withdrawn by any authorised officer who—
+(a) is a police officer of this jurisdiction; or
+(b) is a police officer of another jurisdiction if the Application Act of this jurisdiction permits this to be done; or
+(c) is not a police officer but is of a class of authorised officers for the time being approved by the Regulator for the purposes of this subsection.
+(2) A vehicle defect notice issued by an authorised officer who is not a police officer may be amended or withdrawn by any authorised officer who is of a class of authorised officers for the time being approved by the Regulator for the purposes of this subsection.
+(3) If an authorised officer amends or withdraws a vehicle defect notice for a heavy vehicle, the officer must give notice of the amendment or withdrawal to—
+(a) the Regulator; and
+(b) one of the following:
+(i) the person to whom the vehicle defect notice was given;
+(ii) the person in charge of the vehicle;
+(iii) the registered operator;
+(iv) if the vehicle is not registered—an owner.
+(4) If the person given the notice of amendment or withdrawal is not the operator of the vehicle, the person must, as soon as reasonably practicable, give the notice to the operator.
+Maximum penalty: $3 000.
+(5) If an authorised officer withdraws a vehicle defect notice applying to a heavy vehicle, the Regulator must arrange for the defective vehicle label for the vehicle to be removed from the vehicle.
+531A—Self‑clearing defect notices
+(1) This section applies if an authorised officer who has inspected a heavy vehicle under this Law reasonably believes—
+(a) the vehicle is a defective heavy vehicle, but the use of the vehicle on a road does not pose a safety risk; or
+(b) a number plate of the vehicle is wholly or partly obscured, defaced or otherwise not legible.
+(2) The authorised officer may issue a notice (a self‑clearing defect notice), in the approved form, in relation to the heavy vehicle.
+(3) The authorised officer may issue the self‑clearing defect notice by—
+(a) if the driver of the heavy vehicle is present—giving the notice to the driver; or
+(b) if the driver of the heavy vehicle is not present—attaching the notice to the vehicle.
+(4) If the driver of a heavy vehicle for which a self‑clearing defect notice is issued is not the operator of the vehicle, the driver must give the notice to the operator as soon as practicable, but not more than 14 days, after the notice is issued.
+Maximum penalty: $3 000.
+(5) A person must not use, or permit to be used, on a road a heavy vehicle in contravention of a self‑clearing defect notice.
+Maximum penalty: $3 000.
+531B—Requirements about self‑clearing vehicle defect notice
+(1) A self‑clearing defect notice for a heavy vehicle must state—
+(a) that—
+(i) the vehicle is a defective heavy vehicle and details of how the vehicle is a defective heavy vehicle; or
+(ii) a number plate of the vehicle is wholly or partly obscured, defaced or otherwise not legible; and
+(b) that corrective action must be taken as soon as practicable, but not more than 28 days, after the notice is issued; and
+(c) the name of the vehicle's driver if known by the authorised officer when issuing the notice or, if the driver is not present or the driver's name is not known by the authorised officer when issuing the notice, the term "registered operator"; and
+(d) details to identify the vehicle, including, for example—
+(i) the vehicle's registration number or, if the vehicle is not registered, a vehicle identifier of the vehicle; and
+(ii) the vehicle's make and category; and
+(e) the nature of the inspection that led to the notice being issued; and
+(f) whether an infringement notice was also given when the notice was issued; and
+(g) the identification details for the authorised officer; and
+(h) the day and time the notice was issued; and
+(i) the number of the notice; and
+(j) that if the driver of the vehicle is not the operator of the vehicle, the driver must give the notice to the operator as soon as practicable, but not more than 14 days, after the notice is issued; and
+(k) that a person must not use, or permit to be used, on a road the heavy vehicle in contravention of the notice.
+(2) In this section—
+corrective action means the action that is required to stop—
+(a) the vehicle from being a defective heavy vehicle; or
+(b) a number plate of the vehicle being wholly or partly obscured, defaced or otherwise not legible.
+Division 7—Further powers in relation to heavy vehicles concerning mass, dimension or loading requirements
+532—Application of Division 7
+This Division applies to a heavy vehicle regardless of whether the vehicle is, has been, or becomes the subject of a direction or requirement given or made by an authorised officer under another provision of this Chapter.
+533—Powers for minor risk breach of mass, dimension or loading requirement
+(1) This section applies if an authorised officer reasonably believes a heavy vehicle—
+(a) is the subject of 1 or more minor risk breaches of mass, dimension or loading requirements; and
+(b) is not, or is no longer, also the subject of a substantial, or severe, risk breach of a mass, dimension or loading requirement.
+(2) If the authorised officer reasonably believes it appropriate in the circumstances, the officer may direct the driver or operator of the heavy vehicle—
+(a) to immediately rectify stated breaches of mass, dimension or loading requirements relating to the vehicle; or
+(b) to move the vehicle, or cause it to be moved, to a stated place and not to move the vehicle, or cause it to be moved, from there until stated breaches of mass, dimension or loading requirements relating to the vehicle are rectified.
+Examples of circumstances for the purposes of subsection (2)—
+1 Rectification is reasonable and can be carried out easily.
+2 Rectification is necessary in the public interest to avoid a safety risk, damage to road infrastructure or an adverse effect on public amenity.
+(3) A place mentioned in subsection (2)(b) must be—
+(a) a place the authorised officer reasonably believes is suitable for the purpose of complying with the direction; and
+(b) within a 30km radius from—
+(i) where the heavy vehicle is located when the direction is given; or
+(ii) if the direction is given in the course of the heavy vehicle's journey—any point along the forward route of the journey.
+(4) If the authorised officer does not give the driver or operator of a heavy vehicle a direction under subsection (2) and the authorised officer reasonably believes the driver or operator is not, or is no longer, subject to a direction for the rectification of a minor risk breach of a mass, dimension or loading requirement relating to the vehicle, the officer may authorise the driver or operator to continue the vehicle's journey.
+(5) A direction given under subsection (2) must be in writing and may be given with or without conditions.
+(6) Despite subsection (5), a direction to move a heavy vehicle may be given orally if the moving of the vehicle is carried out in the presence, or under the supervision, of an authorised officer.
+(7) The person to whom a direction is given under this section must comply with the direction, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+(8) In this section—
+stated means stated by the authorised officer.
+534—Powers for substantial risk breach of mass, dimension or loading requirement
+(1) This section applies if an authorised officer reasonably believes—
+(a) a heavy vehicle is the subject of 1 or more substantial risk breaches of mass, dimension or loading requirements; and
+(b) the heavy vehicle is not, or is no longer, also the subject of a severe risk breach of a mass, dimension or loading requirement.
+(2) The authorised officer must direct the driver or operator of the heavy vehicle—
+(a) not to move the vehicle until stated breaches of mass, dimension or loading requirements relating to the vehicle are rectified; or
+(b) to move the vehicle, or cause it to be moved, to a stated reasonable place and not to move it, or cause it to be moved, from there until stated breaches of mass, dimension or loading requirements relating to the vehicle are rectified.
+Examples of reasonable place for the purposes of paragraph (b)—
+• the intended destination of the heavy vehicle's journey
+• a depot of the heavy vehicle or, if the heavy vehicle is a combination, a depot of a vehicle in the combination
+• a weighbridge
+• a rest area
+• a place where the heavy vehicle can be loaded or unloaded
+(3) A direction given under subsection (2) must be in writing and may be given with or without conditions.
+(4) Despite subsection (3), a direction to move a heavy vehicle may be given orally if the moving of the vehicle is carried out in the presence, or under the supervision, of an authorised officer.
+(5) The person to whom a direction is given under this section must comply with the direction, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+(6) In this section—
+stated means stated by the authorised officer.
+535—Powers for severe risk breach of mass, dimension or loading requirement
+(1) This section applies if an authorised officer reasonably believes a heavy vehicle is the subject of 1 or more severe risk breaches of mass, dimension or loading requirements.
+(2) The authorised officer must direct the driver or operator of the heavy vehicle—
+(a) not to move the heavy vehicle until stated breaches of mass, dimension or loading requirements relating to the vehicle are rectified; or
+(b) if the prescribed circumstances exist—
+(i) to move the vehicle, or cause it to be moved, to the nearest stated safe location; and
+(ii) not to proceed from there until stated breaches of mass, dimension or loading requirements relating to the vehicle are rectified.
+(3) A direction given under subsection (2) must be in writing and may be given with or without conditions.
+(4) Despite subsection (3), a direction to move a heavy vehicle may be given orally if the moving of the vehicle is carried out in the presence, or under the supervision, of an authorised officer.
+(5) The person to whom a direction is given under this section must comply with the direction, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+(6) Nothing in this section prevents an authorised officer from taking into account the safety of the heavy vehicle or any load in it if the officer reasonably believes the officer can do so without prejudicing the safety of other property, people, the environment, road infrastructure or public amenity.
+(7) In this section—
+prescribed circumstances means—
+(a) there is a risk of harm to public safety; or
+(b) there is an appreciable risk of harm to the environment, road infrastructure or public amenity;
+risk of harm to public safety, in relation to a heavy vehicle—
+(a) includes the risk of harm to the safety of people, or live animals, in the vehicle; but
+(b) does not include the risk of harm to the safety of the vehicle or goods, other than a live animal, in the vehicle;
+safe location means a location where the authorised officer reasonably believes the heavy vehicle will pose a reduced risk or no appreciable risk of harm to public safety, the environment, road infrastructure or public amenity;
+Example of a safe location—
+• a depot of the heavy vehicle or, if the heavy vehicle is a combination, a depot of a vehicle in the combination
+• a weighbridge
+• a rest area
+• a place where the heavy vehicle can be loaded or unloaded
+stated means stated by the authorised officer.
+536—Operation of direction in relation to a combination
+(1) This section applies if a direction is given under this Division in relation to a heavy combination.
+(2) Subject to subsection (3), nothing in this Division prevents a component vehicle of the heavy combination from being separately driven or moved if—
+(a) the component vehicle is not itself the subject of a contravention of a mass, dimension or loading requirement; and
+(b) it is not otherwise unlawful for the component vehicle to be driven or moved.
+(3) Subsection (2) does not apply if a condition of the direction prevents the component vehicle from being separately driven or moved.
+Division 8—Further powers in relation to fatigue‑regulated heavy vehicles
+537—Application of Division 8
+This Division applies to a fatigue‑regulated heavy vehicle regardless of whether the vehicle is, has been, or becomes the subject of a direction or requirement given or made by an authorised officer under another provision of this Chapter.
+538—Requiring driver to rest for contravention of maximum work requirement
+(1) This section applies if an authorised officer reasonably believes the driver of a fatigue‑regulated heavy vehicle has contravened a maximum work requirement by working for a period in excess of the maximum work time allowed under the requirement.
+(2) If the authorised officer reasonably believes the contravention is a critical risk breach or severe risk breach, the authorised officer must, by notice, require the driver—
+(a) to immediately rest for a stated period in accordance with a minimum rest requirement applying to the driver; and
+(b) to work for a stated shorter period when the driver next works to compensate for the excess period worked.
+(3) If the authorised officer reasonably believes the contravention is a substantial risk breach or minor risk breach, the authorised officer may, by notice, require the driver—
+(a) to immediately rest for a stated period in accordance with a minimum rest requirement applying to the driver; and
+(b) to work for a stated shorter period when the driver next works to compensate for the excess period worked.
+(4) If the authorised officer imposes a requirement under subsection (2) or (3), the authorised officer must record details of the requirement in the driver's work diary.
+Note—
+Section 541 deals with the situation where the driver does not produce the work diary or produces something as a work diary that the authorised officer reasonably believes to be unacceptable.
+539—Requiring driver to rest for contravention of minimum rest requirement
+(1) This section applies if an authorised officer reasonably believes the driver of a fatigue‑regulated heavy vehicle has contravened a minimum rest requirement by resting for a period shorter than the minimum rest time required under the requirement.
+(2) If the authorised officer reasonably believes the contravention is a critical risk breach or severe risk breach, the authorised officer must, by notice, require the driver—
+(a) to immediately rest for a stated period to compensate for the shortfall between the period of rest the driver had and the minimum rest time required under the minimum rest requirement; and
+(b) if the driver has failed to have 1 or more night rest breaks required under a minimum rest requirement—to have 1 or more night rest breaks to compensate for the shortfall between the number of night rest breaks the driver had and the number of night rest breaks required under the minimum rest requirement.
+(3) If the authorised officer reasonably believes the contravention is a substantial risk breach or minor risk breach, the authorised officer may, by notice, require the driver—
+(a) to immediately rest for a stated period to compensate for the shortfall between the period of rest the driver had and the minimum rest time required under the minimum rest requirement; or
+(b) to rest for an additional stated period, at the next rest break the driver is required to have under a maximum work requirement or minimum rest requirement, to compensate for the shortfall between the period of rest the driver had and the minimum rest time required under the minimum rest requirement; or
+(c) if the driver has failed to have 1 or more night rest breaks required under a minimum rest requirement—to have 1 or more night rest breaks to compensate for the shortfall between the number of night rest breaks the driver had and the number of night rest breaks required under the minimum rest requirement.
+(4) If the authorised officer imposes a requirement under subsection (2) or (3), the authorised officer must record the details of the requirement in the driver's work diary.
+Note—
+Section 541 deals with the situation where the driver does not produce the work diary or produces something as a work diary that the authorised officer reasonably believes to be unacceptable.
+540—Requiring driver to stop working if impaired by fatigue
+(1) This section applies if an authorised officer reasonably believes the driver of a fatigue‑regulated heavy vehicle is impaired by fatigue.
+(2) The authorised officer may, by notice—
+(a) require the driver to immediately stop work and not work again for a stated period; and
+(b) if the officer has observed the driver driving in a way the officer considers on reasonable grounds to be dangerous, require the driver to also immediately stop being in control of the fatigue‑regulated heavy vehicle.
+(3) A stated period under subsection (2)(a) must be a reasonable period having regard to the matters prescribed for the purposes of this section by the national regulations.
+(4) If the authorised officer imposes a requirement under subsection (2)(a), the authorised officer must record details of the requirement in the driver's work diary.
+Note—
+Section 541deals with the situation where the driver does not produce the work diary or produces something as a work diary that the authorised officer reasonably believes to be unacceptable.
+(5) If the authorised officer imposes a requirement under subsection (2)(b), the authorised officer may authorise a person to move the fatigue‑regulated heavy vehicle to a suitable rest place for fatigue‑regulated heavy vehicles but only if the person is qualified and fit to drive the vehicle.
+(6) The national regulations may prescribe the matters to which the authorised officer, or a court, must or may have regard when deciding whether or not a person was impaired by fatigue for the purposes of this section.
+541—Requiring driver to stop working if work diary not produced or unreliable
+(1) This section applies if—
+(a) an authorised officer has, under section 568, asked the driver of a fatigue‑regulated heavy vehicle to produce a work diary the driver is required to keep under this Law; and
+(b) either—
+(i) the driver has failed to produce the diary without a reasonable excuse; or
+(ii) the driver produces a document that the authorised officer reasonably believes is not the work diary the driver is required to keep under this Law; or
+(iii) the authorised officer reasonably believes the work diary, or purported work diary, produced by the driver cannot be relied on as an accurate record of the time the driver recently spent working or resting.
+Examples for the purposes of subparagraph (iii)—
+• Information in the work diary appears to be incorrect.
+• Particular information appears to be missing from the work diary.
+• The work diary appears to have been tampered with.
+(2) The authorised officer may, by notice, require the driver to immediately stop work and to not work again for a stated period of up to 24 hours.
+542—Compliance with requirement under this Division
+(1) A person given a notice under this Division must comply with the notice, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+(2) An authorised officer who gives a person a notice under section 538, 539 or 541 may, by stating it in the notice, allow the person to delay complying with the notice for a period of up to 1 hour if the authorised officer reasonably believes—
+(a) the delay is necessary to allow the person time to drive the relevant fatigue‑regulated heavy vehicle to the nearest suitable rest place for fatigue‑regulated heavy vehicles and it is reasonably safe to allow the person to continue driving the vehicle to that place; or
+(b) the delay is necessary to allow the person time to attend to, or to secure, the load on the relevant fatigue‑regulated heavy vehicle before resting.
+Part 4—Other powers
+Division 1—Powers relating to equipment
+543—Power to use equipment to access information
+(1) This section applies if—
+(a) a thing found at a place, or in a vehicle, entered by an authorised officer under this Chapter is, or includes, a disc, tape or other device used for storing information (the storage device); and
+(b) equipment at the place, or in the vehicle, may be used with the storage device to access information on the storage device; and
+(c) the authorised officer reasonably believes information stored on the storage device may be relevant for deciding whether this Law is being complied with.
+(2) The authorised officer, or a person helping the officer, may operate the equipment to access the information.
+(3) A person may operate equipment under subsection (2) only if the person reasonably believes the operation can be carried out without damaging the equipment.
+Note—
+See section 548 for action an authorised officer may take if the officer, or a person helping the officer, finds a disc, tape or other device containing information the officer reasonably believes is relevant for deciding whether this Law has been contravened.
+(4) In this section—
+equipment, at a place or in a vehicle, includes equipment taken into the place or vehicle by the authorised officer.
+544—Power to use equipment to examine or process a thing
+(1) An authorised officer, or a person helping an authorised officer, may operate equipment at a place, or in a vehicle, entered under this Chapter to examine or process a thing found at the place, or in the vehicle, in order to decide whether it is a thing that may be seized under this Chapter.
+(2) Also, for a heavy vehicle entered under section 521, an authorised officer, or a person helping the authorised officer, may, for deciding whether a thing may be seized under section 547—
+(a) operate equipment in the vehicle to examine or process the thing; or
+(b) move the thing to another place if it is not practicable to examine or process the thing where it is found, or the vehicle's driver consents in writing, and operate equipment at that place to examine or process the thing.
+(3) However, subsections (1) and (2) only apply if the authorised officer or person reasonably believes—
+(a) the equipment is suitable for exercising the power; and
+(b) the power can be exercised without damaging the equipment or thing.
+(4) In this section—
+equipment, at a place or in a vehicle, includes equipment taken into the place or vehicle by the authorised officer.
+Division 2—Seizure and embargo notices
+Subdivision 1—Power to seize
+545—Seizing evidence at a place that may be entered without consent or warrant
+An authorised officer who enters a place the officer may enter under this Chapter without the consent of its occupier and without a warrant may seize a thing at the place if the officer reasonably believes the thing is evidence of an offence against this Law.
+546—Seizing evidence at a place that may be entered only with consent or warrant
+(1) This section applies if—
+(a) an authorised officer is authorised to enter a place only with the consent of an occupier at the place or a warrant; and
+(b) the authorised officer enters the place after obtaining the necessary consent or under a warrant.
+(2) If the authorised officer enters the place with the occupier's consent, the officer may seize a thing at the place if—
+(a) the officer reasonably believes the thing is evidence of an offence against this Law; and
+(b) seizure of the thing is consistent with the purpose of entry as explained to the occupier when asking for the occupier's consent.
+(3) If the authorised officer enters the place under a warrant, the officer may seize the evidence for which the warrant was issued.
+(4) The authorised officer may also seize anything else at the place if the officer reasonably believes—
+(a) the thing is evidence of an offence against this Law; and
+(b) the seizure is necessary to prevent the thing being—
+(i) hidden, lost or destroyed; or
+(ii) used to continue, or repeat, the offence.
+547—Seizing evidence in a heavy vehicle entered under section 521
+An authorised officer who enters a heavy vehicle under section 521 may seize a thing in the heavy vehicle if the officer reasonably believes the thing is evidence of an offence against this Law.
+548—Additional seizure power relating to information stored electronically
+(1) This section applies if, under this Chapter, an authorised officer, or a person helping an authorised officer—
+(a) enters a place or heavy vehicle; and
+(b) finds a disc, tape or other device used for storing information (the original information storage device) containing information the authorised officer reasonably believes is relevant for deciding whether this Law has been contravened.
+(2) The authorised officer or person may—
+(a) put the information in documentary form and seize the document; or
+(b) copy the information from the original information storage device to another information storage device and seize the other information storage device; or
+(c) seize the original information storage device and any equipment at the place or in the vehicle necessary for accessing the information contained in the device if—
+(i) it is not practicable to take action, at the place or in the vehicle, under paragraph (a) or (b) in relation to the information; and
+(ii) the officer or person reasonably believes the device and equipment can be seized without being damaged.
+549—Seizing thing or sample taken for examination under section 500
+An authorised officer who takes a thing or sample for examination under section 500(1)(c) may, after examining it, seize the thing or sample if—
+(a) the officer reasonably believes the thing or sample is evidence of an offence against this Law; and
+(b) had the officer had the reasonable belief when the thing or sample was taken, the officer could have seized the thing or the thing from which the sample was taken under section 545 to 548.
+550—Seizure of property subject to security
+(1) An authorised officer may seize a thing under this Chapter, and exercise powers relating to the thing, despite a lien or other security over it claimed by another person.
+(2) However, the seizure does not affect the other person's claim to the lien or other security against a person other than the authorised officer or a person helping the officer.
+551—Seizure of number plates
+(1) Without limiting any other provision of this Chapter, a power under this Chapter for an authorised officer to seize a thing includes a power to seize a number plate for a heavy vehicle under subsection (2) or (3).
+(2) An authorised officer may seize a number plate (whether or not displayed on a heavy vehicle) if the officer reasonably believes—
+(a) that the number plate is being used other than in accordance with this Law or any other applicable law; or
+(b) that the number plate was not issued in accordance with this Law or any other applicable law.
+(3) An authorised officer may seize a number plate if it is displayed on a heavy vehicle and the officer reasonably believes—
+(a) that the number plate does not bear the registration number last assigned to the vehicle; or
+(b) that—
+(i) the vehicle is not registered or exempted from registration; and
+(ii) the period during which the registration of the vehicle may be renewed has expired.
+(4) An authorised officer may retain—
+(a) a number plate seized under subsection (2) until the officer is satisfied that it was not being so used and that it was issued in accordance with this Law or any other applicable law; or
+(b) a number plate seized under (3) until the officer is satisfied that circumstances exist that allow it to be used without being subject to retention under this subsection.
+(5) An authorised officer must return a number plate seized under subsection (2) or (3) to—
+(a) the driver or operator of the vehicle, if the officer is satisfied as to the relevant matters referred to in subsection (4); or
+(b) an appropriate authority, if the officer is not satisfied as to those matters after a reasonable period.
+(6) The national regulations may prescribe, or prescribe guidelines for determining, an appropriate authority for the purposes of subsection (5).
+552—Restriction on power to seize certain things
+(1) This Chapter does not authorise an authorised officer to seize—
+(a) a heavy vehicle; or
+(b) a thing, or a thing of a class, prescribed by the national regulations.
+(2) Subsection (1) does not apply if the Application Act of the participating jurisdiction in which the vehicle or thing is located provides that the heavy vehicle or thing can be impounded or seized under a law of that jurisdiction.
+Subdivision 2—Powers to support seizure
+553—Requirement of person in control of thing to be seized
+(1) To enable a thing to be seized under this Chapter, an authorised officer may require the person in control of it—
+(a) to take it to a stated reasonable place by a stated reasonable time; and
+(b) if necessary, to remain in control of it at the stated place for a stated reasonable period.
+(2) The requirement—
+(a) must be made by notice; or
+(b) if for any reason it is not practicable to give a notice, may be made orally and confirmed by notice as soon as practicable.
+(3) A person of whom a requirement is made under this section must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+Subdivision 3—Safeguards for seized things or samples
+554—Receipt for seized thing or sample
+(1) This section applies if an authorised officer seizes a thing or sample under this Chapter unless—
+(a) it is impracticable or unreasonable for the officer to account for the thing or sample given its condition, nature and value; or
+(b) for a thing seized other than under section 549—the officer reasonably believes there is no‑one apparently in possession of the thing or the thing has been abandoned.
+(2) The authorised officer must, as soon as practicable after the thing or sample is seized, give the relevant person for the thing or sample a receipt that generally describes the thing or sample and its condition.
+(3) However, for a thing seized other than under section 549, if a relevant person for the thing is not present when the thing is seized, the receipt may be given by leaving it in a conspicuous position and in a reasonably secure way at the place at which the thing was seized.
+(4) The receipt may relate to more than 1 seized thing.
+(5) In this section—
+relevant person means—
+(a) for a thing or sample seized under section 549—
+(i) an owner of the thing or sample; or
+(ii) a person in possession of the thing, or the thing from which the sample was taken, before the thing or sample was taken for examination under section 500(1)(c); or
+(b) for a thing seized under this Chapter other than under section 549—
+(i) an owner of the thing; or
+(ii) a person in possession of the thing before it was seized.
+555—Access to seized thing
+(1) Until a thing seized under this Chapter is forfeited or returned, the authorised officer who seized the thing must allow any owner of the thing—
+(a) to inspect it at any reasonable time and from time to time; and
+(b) if it is a document—to copy it.
+(2) Subsection (1) does not apply if it is impracticable or would be unreasonable to allow the inspection or copying.
+(3) The inspection or copying must be allowed free of charge.
+556—Return of seized things or samples
+(1) This section applies if—
+(a) an authorised officer has seized a thing or sample under this Chapter; and
+(b) the thing or sample is not forfeited under Division 3.
+(2) If an authorised officer is satisfied that—
+(a) the thing or sample is not required (or is no longer required) as evidence of an offence against this Law; and
+(b) the continued retention of the thing or sample is not necessary to prevent the thing or sample being used to continue, or repeat, an offence against this Law; and
+(c) the thing or sample is not subject to a dispute as to ownership, which would be appropriately resolved by making an application under subsection (3) for the return of the thing or sample,
+the authorised officer must take reasonable steps to return the thing or sample to the person from whom it was seized or to the owner if that person is not entitled to possess it.
+(3) An application for the return of the thing or sample may be made to the relevant tribunal or court by—
+(a) the person from whom it was seized; or
+(b) a person who claims to be the owner; or
+(c) an authorised officer.
+(4) If the relevant tribunal or court is satisfied that—
+(a) the thing or sample is not required (or is no longer required) as evidence of an offence against this Law; and
+(b) the continued retention of the thing or sample is not necessary to prevent the thing or sample being used to continue, or repeat, an offence against this Law; and
+(c) there are no reasonable grounds to suspect that the thing or sample is likely to be used by any person in the commission of an offence of a kind prescribed by the national regulations for the purposes of this subsection,
+the relevant tribunal or court may make an order for the return of the thing or sample to the person from whom it was seized or to the owner if that person is not entitled to possess it.
+(5) The national regulations may—
+(a) provide for the procedures to be followed when an application is made under subsection (3); and
+(b) without limiting paragraph (a)—
+(i) provide for the notification of the Regulator or an authorised officer (or both) of the making of the application if it is made by a person who is not an authorised officer; and
+(ii) specify the information that is to be included in the notification.
+(6) Nothing in this section affects a lien or other security over a thing.
+(7) Nothing in this section prevents the return of a thing or sample to its owner at any time if the Regulator considers there is no reason for its continued retention.
+Subdivision 4—Embargo notices
+557—Power to issue embargo notice
+(1) This section applies if—
+(a) an authorised officer may seize a thing under this Chapter; and
+(b) the thing cannot, or cannot readily, be physically seized and removed.
+(2) The authorised officer may issue a notice (an embargo notice) under this section prohibiting any dealing with the thing or any part of it without the written consent of the Regulator or an authorised officer.
+(3) The embargo notice—
+(a) must be in the approved form; and
+(b) must list the activities it prohibits; and
+(c) must include a copy of section 558.
+(4) The authorised officer may issue the embargo notice—
+(a) by causing a copy of it to be served on the relevant entity; or
+(b) if a relevant entity cannot be located after all reasonable steps have been taken to do so, by fixing a copy of the notice on the thing the subject of the notice in a conspicuous position and in a reasonably secure way.
+(5) In this section—
+dealing, with a thing or part of a thing, includes—
+(a) moving, selling, leasing or transferring the thing or part; and
+(b) changing information on, or deleting information from, the thing or part;
+relevant entity, for an embargo notice, means—
+(a) the driver of the heavy vehicle to which the thing the subject of the notice relates; or
+(b) the occupier of the place in which the thing the subject of the notice is located.
+558—Noncompliance with embargo notice
+(1) A person (the relevant person) who knows an embargo notice relates to a thing must not—
+(a) do anything the notice prohibits; or
+(b) instruct someone else (the other person) to do anything the notice prohibits—
+(i) anyone from doing; or
+(ii) the relevant person or other person from doing.
+Maximum penalty: $10 000.
+(2) In a proceeding for an offence against subsection (1) to the extent it relates to a charge that the person charged with the offence (defendant) moved an embargoed thing, or a part of an embargoed thing, it is a defence for the defendant to prove that he or she—
+(a) moved the embargoed thing, or part, to protect or preserve it; and
+(b) notified the authorised officer who issued the embargo notice of the move and new location of the embargoed thing, or part, within 48 hours after the move.
+(3) A person served with an embargo notice must take all reasonable steps to stop any other person from doing anything prohibited by the notice.
+Maximum penalty: $10 000.
+(4) Despite any other Act or law, a sale, lease, transfer or other dealing with an embargoed thing in contravention of this section is void.
+559—Power to secure embargoed thing
+(1) An authorised officer may take reasonable action to restrict access to an embargoed thing.
+(2) For the purposes of subsection (1), the authorised officer may, for example—
+(a) seal the embargoed thing, or the entrance to the place where the embargoed thing is located, and mark the thing or place to show access to the thing or place is restricted; or
+(b) for equipment—make it inoperable; or
+Example—
+dismantling equipment or removing a component of equipment without which the equipment cannot be used
+(c) require a person the authorised officer reasonably believes is in control of the embargoed thing, or the place where the embargoed thing is located, to do an act mentioned in paragraph (a) or (b) or anything else an authorised officer could do under subsection (1).
+(3) A person of whom a requirement is made under subsection (2)(c) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+(4) If access to an embargoed thing is restricted under this section, a person must not tamper with the thing or with anything used to restrict access to the thing without—
+(a) an authorised officer's approval; or
+(b) a reasonable excuse.
+Maximum penalty: $10 000.
+(5) If access to a place is restricted under this section, a person must not enter the place in contravention of the restriction or tamper with anything used to restrict access to the place without—
+(a) an authorised officer's approval; or
+(b) a reasonable excuse.
+Maximum penalty: $10 000.
+(6) The restricted access to an embargoed thing, or a place where an embargoed thing is located, under this section applies only for the period the thing is an embargoed thing.
+560—Withdrawal of embargo notice
+(1) This section applies if—
+(a) an authorised officer has issued an embargo notice for a thing; and
+(b) the thing has not been forfeited under Division 3.
+(2) The authorised officer must withdraw the embargo notice—
+(a) generally—at the end of 3 months after it is issued; or
+(b) if a relevant tribunal or court has made an order under subsection (5) extending the time for withdrawing the notice—at the end of the extended time; or
+(c) if a proceeding for an offence involving the thing is started before the notice must be withdrawn under paragraph (a) or (b)—at the end of the proceeding and any appeal from the proceeding.
+(3) Despite subsection (2), if the embargo notice is issued on the basis that the thing may provide evidence of an offence against this Law, the authorised officer must as soon as practicable withdraw the notice if the officer is satisfied—
+(a) the thing is no longer required as evidence of an offence against this Law; and
+(b) it is not necessary for the notice to continue to prevent the thing being used to continue, or repeat, the offence.
+(4) An authorised officer may apply to a relevant tribunal or court within 3 months after the embargo notice is issued for an extension of the time by which the notice must be withdrawn under this section.
+(5) The relevant tribunal or court may order the extension if it is satisfied the continued operation of the embargo notice is necessary for investigation purposes.
+Division 3—Forfeiture and transfers
+561—Power to forfeit particular things or samples
+(1) If, under this Chapter, a thing or sample is taken for examination by an authorised officer or a person authorised by an authorised officer, or a thing or sample is seized by an authorised officer, the Regulator may decide it is forfeited to the Regulator if an authorised officer—
+(a) after making reasonable inquiries, cannot find its owner; or
+(b) after making reasonable efforts, cannot return it to its owner.
+(2) However, the authorised officer is not required to—
+(a) make inquiries if it would be unreasonable to make inquiries to find the owner; or
+(b) make efforts if it would be unreasonable to make efforts to return the thing or sample to its owner.
+Example for the purposes of paragraph (b)—
+the owner of the thing or sample has migrated to another country
+(3) Regard must be had to the thing's or sample's condition, nature and value in deciding—
+(a) whether it is reasonable to make inquiries or efforts; and
+(b) if inquiries or efforts are made—what inquiries or efforts, including the period over which they are made, are reasonable.
+(4) A thing or sample seized under this Chapter by a police officer cannot be forfeited to the Regulator but must be dealt with under—
+(a) the national regulations, except as provided by paragraph (b); or
+(b) applicable legislation of the relevant State or Territory.
+562—Information notice for forfeiture decision
+(1) If the Regulator decides under section 561(1) to forfeit a thing or sample, the Regulator must as soon as practicable give an information notice for the decision to—
+(a) the person from whom the thing or sample was seized; and
+(b) the person who was the owner of the thing or sample immediately before the forfeiture; and
+(c) each person having a registered interest in the thing or sample.
+(2) The information notice may be given—
+(a) by post; or
+(b) in the case of the person from whom the thing or sample was seized, by leaving the notice in a conspicuous position and in a reasonably secure way at—
+(i) for a thing or sample taken for examination, whether or not it is seized under section 549—the place where the thing or sample was taken; or
+(ii) for a thing or sample seized under this Chapter other than under section 549—the place where the thing or sample was seized.
+(3) However, subsection (2)(b) does not apply if the place is—
+(a) a public place; or
+(b) a place where the notice is unlikely to be read by the person for whom it is intended.
+563—Forfeited or transferred thing or sample becomes property of the Regulator
+A thing or sample becomes the property of the Regulator if—
+(a) the thing or sample is forfeited to the Regulator under section 561(1); or
+(b) the owner of the thing or sample and the Regulator agree, in writing, to the transfer of the ownership of the thing or sample to the Regulator.
+564—How property may be dealt with
+(1) This section applies if, under section 563, a thing or sample becomes the property of the Regulator.
+(2) The Regulator may take action under this section after giving 28 days' notice of the intention to do so to—
+(a) the person from whom the thing or sample was seized; and
+(b) the person who was the owner of the thing or sample immediately before the forfeiture; and
+(c) each person having a registered interest in the thing or sample.
+(3) The Regulator may deal with the thing or sample as the Regulator considers appropriate, including, for example, by destroying it or giving it away.
+(4) The Regulator must not deal with the thing or sample in a way that could prejudice the outcome of a review of the decision to forfeit the thing or sample, or an appeal against the decision on that review, under this Law.
+(5) If the Regulator sells the thing or sample, the Regulator may, after deducting the costs of the sale, return the proceeds of the sale to the person who was the owner of the thing or sample immediately before the forfeiture.
+565—Third party protection
+(1) This section applies if, under section 563, a thing or sample becomes the property of the Regulator and applies to the following parties:
+(a) the owner of the thing or sample, except where the owner gave consent under section 563(b);
+(b) a person who has a registered interest in the thing or sample.
+(2) A party mentioned in subsection (1) may apply to a relevant tribunal or court for an order—
+(a) that ownership of the thing or sample be transferred to the applicant, if the applicant had full ownership of the thing or sample immediately before the thing or sample became the property of the Regulator under section 561; or
+(b) that, if the applicant had a registered interest in the thing or sample immediately before it became the property of the Regulator—
+(i) the thing or sample be sold; and
+(ii) the Regulator pay to the applicant, and any other persons with a registered interest in the thing or sample, an amount commensurate with the value of their respective interest.
+(3) If the thing or sample has been sold or otherwise disposed of, the Regulator must pay to—
+(a) an applicant who had a registered interest in the thing or sample immediately before the thing or sample was sold or otherwise disposed of, an amount commensurate with the value of the applicant's interest; or
+(b) an applicant who was an owner of the thing or sample, the amount obtained through its sale or disposal.
+(4) Leave of the relevant tribunal or court is required to bring an application if 6 months or more have elapsed since the thing or sample became the property of the Regulator.
+(5) The relevant tribunal or court may grant leave under subsection (4) only if it is satisfied that the delay in making the application was not due to the applicant's neglect.
+(6) The relevant tribunal or court may make an order—
+(a) declaring the nature, extent and, if necessary for the order, the value (at the time the declaration is made) of the applicant's registered interest; and
+(b) directing the Regulator—
+(i) if the thing or sample is vested in the Regulator and the applicant has full ownership of the thing or sample, to transfer ownership of the thing or sample to the applicant; or
+(ii) if the thing or sample is no longer vested in the Regulator, or if the applicant does not have full ownership of the thing or sample, to pay to the applicant the value of the applicant's registered interest in the thing or sample.
+(7) The relevant tribunal or court may make an order under subsection (6) only if it is satisfied that the offence with respect to which the thing or sample was seized occurred without the knowledge or consent of the applicant.
+(8) Any amount to be paid under this section is to be paid out of the proceeds (if any) of the sale of the thing or sample.
+(9) The Regulator may deduct any reasonable costs incurred in dealing with the thing or sample from an amount ordered to be paid under this section.
+566—National regulations
+The national regulations may prescribe—
+(a) the circumstances in which the Regulator must apply to the Registrar of Personal Property Securities under the Personal Property Securities Act 2009 of the Commonwealth to register, amend or cancel an instrument in relation to a sample or thing referred to in this Division; and
+(b) the priority in which the proceeds of the disposal of anything under this Division are to be applied.
+Division 4—Information‑gathering powers
+567—Power to require name, address and date of birth
+(1) This section applies if an authorised officer—
+(a) finds a person committing an offence against this Law; or
+(b) finds a person in circumstances that lead the officer to reasonably suspect the person has committed an offence against this Law; or
+(c) has information that leads the officer to reasonably suspect a person has committed an offence against this Law; or
+(d) reasonably suspects a person is or was the driver of or other person in charge of a heavy vehicle that has been or may have been involved in an incident involving the death of, or injury to, a person or damage to property; or
+(e) reasonably suspects a person is or may be a responsible person for a heavy vehicle; or
+(f) reasonably suspects a person is or may be able to help in the investigation of an offence against this Law.
+(2) The authorised officer may require the person to state the person's name, address and date of birth.
+(3) The authorised officer may also require the person to give evidence of the correctness of the stated name, address or date of birth if—
+(a) the officer reasonably suspects that the stated name, address or date of birth is incorrect; and
+(b) in the circumstances, it would be reasonable to expect the person to—
+(i) be in possession of evidence of the correctness of the stated name, address or date of birth; or
+(ii) otherwise be able to give the evidence.
+(4) A person of whom a requirement is made under subsection (2) or (3) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty: $3 000.
+(5) If a person of whom a requirement is made under subsection (2) or (3) requests, when the requirement is made, the authorised officer to produce the officer's identification details, the officer must as soon as practicable produce for the inspection of the person—
+(a) for an authorised officer who is a police officer—an identity card or other document evidencing the officer's appointment as a police officer; or
+(b) for an authorised officer who is not a police officer—the identity card issued to the officer under this Law or another document evidencing the officer's appointment as an authorised officer.
+(6) Subsection (5)(a) does not apply to a police officer in uniform.
+(7) In a proceeding for an offence of contravening a requirement made under subsection (2) to state a business address, it is a defence for the person charged to prove that—
+(a) the person did not have a business address; or
+(b) the person's business address was not connected, directly or indirectly, with road transport involving heavy vehicles.
+(8) This section does not authorise an authorised officer to impose a requirement under this section in relation to an incident that involves the death of, or injury to, a person unless the authorised officer is a police officer.
+(9) In this section—
+address, of a person, includes the person's residential and business address and, for a person temporarily in this jurisdiction, includes the place where the person is living in this jurisdiction.
+568—Power to require production of document etc required to be in driver's possession
+(1) This section applies if a heavy vehicle—
+(a) is stationary on a road; or
+(b) is in or at a place entered by an authorised officer under Chapter 9 Part 2; or
+(c) has been stopped under section 513.
+(2) An authorised officer may, for compliance purposes, require the driver of the heavy vehicle to produce, for inspection by the officer a document, device or other thing the driver is required under this Law to keep in the driver's possession while driving the vehicle.
+Examples—
+• a copy of a Commonwealth Gazette notice or permit
+• a work diary
+(3) A person of whom a requirement is made under subsection (2) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty: an amount equal to the amount of the maximum penalty for an offence of failing to keep the document, device or other thing in the driver's possession.
+(4) It is not a reasonable excuse for the person to fail to comply with a requirement made under subsection (2)—
+(a) that the person does not have the document, device or other thing in his or her immediate possession; or
+(b) that complying with the requirement might tend to incriminate the person or make the person liable to a penalty.
+(5) The authorised officer may—
+(a) take a copy of, or an extract from, a document mentioned in subsection (2); or
+(b) produce an image or writing from a document mentioned in subsection (2) that is an electronic document; or
+(c) take an extract from a device or other thing mentioned in subsection (2), including, for example—
+(i) by taking a copy of, or an extract from, a readout or other data obtained from the device or other thing; or
+(ii) by accessing and downloading information from the device or other thing; or
+(d) seize a document, device or other thing mentioned in subsection (2) if the authorised officer reasonably believes the document, device or other thing may provide evidence of an offence against this Law.
+(6) If, under subsection (5), the authorised officer copies, takes an extract from, or produces an image or writing from, a document or an entry in a document, the officer may require the person responsible for keeping the document to certify the copy as a true copy of the document or entry.
+(7) A person of whom a requirement is made under subsection (6) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty: $3 000.
+(8) If a document, device or other thing is produced to an authorised officer under this section and it is not seized under subsection (5)(d), the officer must return it to the person who produced it—
+(a) as soon as practicable after the officer inspects it; or
+(b) if the officer takes a copy of, extract from, or produces an image or writing from, it under subsection (5)(a), (b) or (c), as soon as practicable after the copy or extract is taken or the image or writing is produced.
+(9) However, if a requirement is made of the person under subsection (6) for a document, the authorised officer may keep the document until the person complies with the requirement.
+569—Power to require production of documents etc generally
+(1) An authorised officer may require a responsible person for a heavy vehicle to make available for inspection by an authorised officer, or to produce to an authorised officer for inspection, at a reasonable time and place nominated by the officer—
+(a) a document issued to the person under this Law; or
+(b) a document, device or other thing required to be kept by the person under this Law or a heavy vehicle accreditation; or
+(c) transport documentation or journey documentation in the person's possession or under the person's control; or
+(d) a document in the person's possession or under the person's control relating to—
+(i) the use, performance or condition of a heavy vehicle; or
+(ii) the ownership, insurance, licensing or registration of a heavy vehicle; or
+(iii) the load or equipment carried or intended to be carried by a heavy vehicle, including, for example, a document relating to insurance of the load or equipment; or
+(e) a document in the person's possession or under the person's control relating to any business practices; or
+(f) a document in the person's possession or under the person's control showing that a heavy vehicle's garage address recorded in the vehicle register is or is not the vehicle's actual garage address.
+(2) A person of whom a requirement is made under subsection (1) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty: $6 000.
+(3) Compliance with a requirement made under subsection (1) for an electronic document requires the making available or production of a clear written reproduction of the electronic document.
+(4) It is not a reasonable excuse for the person to fail to comply with a requirement made under subsection (1) that complying with the requirement might tend to incriminate the person or make the person liable to a penalty.
+(5) The authorised officer may—
+(a) take a copy of, or an extract from, a document mentioned in subsection (1); or
+(b) produce an image or writing from a document mentioned in subsection (1) that is an electronic document; or
+(c) take an extract from a device or other thing mentioned in subsection (1)(b), including, for example—
+(i) by taking a copy of, or an extract from, a readout or other data obtained from the device or other thing; or
+(ii) by accessing and downloading information from the device or other thing; or
+(d) seize a document, device or other thing mentioned in subsection (1) if the authorised officer reasonably believes the document, device or other thing may provide evidence of an offence against this Law.
+(6) If, under subsection (5), the authorised officer copies, takes an extract from, or produces an image or writing from, a document or an entry in a document, the officer may require the person responsible for keeping the document to certify the copy as a true copy of the document or entry.
+(7) A person of whom a requirement is made under subsection (6) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty: $3 000.
+(8) If a document, device or other thing is produced to an authorised officer under this section and it is not seized under subsection (5)(d), the officer must return it to the person who produced it—
+(a) as soon as practicable after the officer inspects it; or
+(b) if the officer takes a copy of, extract from, or produces an image or writing from, it under subsection (5)(a), (b) or (c), as soon as practicable after the copy or extract is taken or the image or writing is produced.
+(9) However, if a requirement is made of the person under subsection (6) for a document, the authorised officer may keep the document until the person complies with the requirement.
+(10) A requirement under subsection (1) in relation to a document referred to in subsection (1)(e) may be made only in relation to an alleged or possible offence against section 204 or 230.
+570—Power to require information about heavy vehicles
+(1) An authorised officer may, for compliance purposes, require a responsible person for a heavy vehicle to give the officer—
+(a) information about the vehicle or any load or equipment carried or intended to be carried by the vehicle; or
+(b) personal details known to the responsible person about any other responsible person for the vehicle.
+(2) Without limiting subsection (1), a responsible person who is associated with a particular vehicle may be required to provide information about the current or intended journey of the vehicle, including, for example, the following:
+(a) the location of the start or intended start of the journey;
+(b) the route or intended route of the journey;
+(c) the location of the destination or intended destination of the journey.
+(3) A person of whom a requirement is made under subsection (1) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty: $6 000.
+(4) Without limiting what may be a reasonable excuse for the purposes of subsection (3), in a proceeding for an offence of contravening a requirement under subsection (1), it is a defence for the person charged to prove that the person did not know, and could not be reasonably expected to know or ascertain, the required information.
+(5) It is not a reasonable excuse for a person to fail to comply with a requirement made under subsection (1) that complying with the requirement might tend to incriminate the person or make the person liable to a penalty.
+(6) In this section—
+information includes electronically stored information;
+personal details, about a responsible person, means—
+(a) the person's name; or
+(b) the person's residential address or business address;
+responsible person, for a heavy vehicle, for the exercise of a power under this section in relation to a speeding offence, does not include—
+(a) a person mentioned in section 5, definition responsible person, paragraph (i), (j), (k) or (n); or
+Note—
+Those paragraphs deal with persons who pack, load or unload goods or containers, and owners and operators etc of weighbridges or weighbridge facilities.
+(b) an employer, employee, agent or subcontractor of that person;
+speeding offence means an offence committed by the driver of a heavy vehicle because the driver exceeded a speed limit applying to the driver.
+Division 5—Improvement notices
+571—Authorised officers to whom Division applies
+(1) This Division applies to an authorised officer who is a police officer only if the police officer has the relevant police commissioner's written authority to issue improvement notices under this Division.
+(2) This Division applies to an authorised officer who is not a police officer only if the officer's instrument of appointment provides that the authorised officer may issue improvement notices under this Division.
+572—Improvement notices
+(1) This section applies if an authorised officer reasonably believes a person has contravened or is contravening a provision of this Law in circumstances that make it likely that the contravention will continue or be repeated.
+(2) The authorised officer may give the person a notice (an improvement notice) requiring the person to take action within a stated period to stop the contravention from continuing or occurring again or to remedy the matters or activities occasioning the contravention.
+(3) The period stated in the improvement notice within which the person is required to comply with the notice must be at least 7 days after the notice is given unless the authorised officer is satisfied it is reasonable to require the person to comply with the notice in a shorter period because—
+(a) it is reasonably practicable for the person to comply with the notice within the shorter period; and
+(b) requiring the person to comply with the notice within the shorter period is not likely to involve—
+(i) a higher cost to the person to comply with the notice; or
+(ii) a more adverse effect on the person's business operations.
+(4) The improvement notice must be in the approved form and state the following:
+(a) that the authorised officer reasonably believes the person has contravened or is contravening a provision of this Law in circumstances that make it likely that the contravention will continue or be repeated;
+(b) the reasons for that belief;
+(c) the provision of this Law in relation to which that belief is held;
+(d) that the person must take action within a stated period to stop the contravention from continuing or occurring again or to remedy the matters or activities occasioning the contravention;
+(e) the review and appeal information for the decision to give the notice;
+(f) that the notice is given under this section.
+(5) The improvement notice may state the way the action is to be taken.
+573—Contravention of improvement notice
+(1) A person given an improvement notice must comply with the notice, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+(2) In a proceeding for an offence against subsection (1), it is a defence for the person charged to prove that the alleged contravention, or the matters or activities occasioning the alleged contravention, were remedied within the period stated in the improvement notice, though in a way different to that stated in the notice.
+(3) A person who is given an improvement notice in relation to a contravention of a provision of this Law cannot be proceeded against for an offence constituted by the contravention unless—
+(a) the person fails to comply with the improvement notice and does not have a reasonable excuse for the noncompliance; or
+(b) the improvement notice is revoked under section 575.
+574—Amendment of improvement notice
+(1) An improvement notice given by an authorised officer who is a police officer may be amended by any authorised officer who is a police officer and who has the relevant police commissioner's written authority to issue improvement notices under this Division.
+(2) An improvement notice given by an authorised officer who is not a police officer may be amended by any authorised officer who is not a police officer.
+(3) An amendment of an improvement notice given to a person is ineffective to the extent it purports to deal with a contravention of a different provision of this Law to that dealt with in the improvement notice when first given.
+(4) If an authorised officer decides to amend an improvement notice given to a person, the officer must give the person notice of the amendment stating the following:
+(a) the amendment;
+(b) the reasons for the amendment;
+(c) the review and appeal information for the decision to amend the improvement notice.
+Note—
+Section 23 of Schedule 1 allows for the amendment of an improvement notice.
+575—Revocation of an improvement notice
+(1) An improvement notice given to a person by an authorised officer who is a police officer may be revoked, by giving notice of the revocation to the person, by—
+(a) the relevant police commissioner; or
+(b) an authorised officer who—
+(i) is a police officer; and
+(ii) has the relevant police commissioner's written authority to issue improvement notices under this Division; and
+(iii) is more senior in rank to the police officer who gave the notice to the person.
+(2) An improvement notice given to a person by an authorised officer who is not a police officer may be revoked by the Regulator by giving notice of the revocation to the person.
+(3) Section 23 of Schedule 1 does not apply in relation to the revocation of the improvement notice.
+576—Clearance certificate
+(1) An approved authorised officer may issue a certificate (a clearance certificate) stating that all or stated requirements of an improvement notice have been complied with.
+(2) If a person to whom an improvement notice is given receives a clearance certificate about the improvement notice, each requirement of the improvement notice that the certificate states has been complied with stops being operative.
+(3) In this section—
+approved authorised officer means—
+(a) for an improvement notice given by an authorised officer who is a police officer—any authorised officer who is a police officer and who has the relevant police commissioner's written authority to issue improvement notices under this Division; or
+(b) for an improvement notice given by an authorised officer who is not a police officer—any authorised officer who is not a police officer.
+Division 6—Power to require reasonable help
+577—Power to require reasonable help
+(1) An authorised officer who enters a place under this Chapter may require an occupier of the place or a person at the place to give the officer reasonable help to exercise a power under this Chapter.
+(2) An authorised officer who is exercising a power under this Chapter in relation to a heavy vehicle on a road may require the vehicle's driver to give the officer reasonable help to exercise the power.
+(3) Without limiting subsection (1) or (2), a requirement under the subsection may be that the occupier, person or driver—
+(a) produce a document or give information to the authorised officer; or
+Example—
+The authorised officer wishes to obtain information relating to the purpose of the entry. Information of that type is stored or recorded on a computer at the place. The authorised officer may require the occupier to give reasonable help to produce a reproduction of the information from the computer.
+(b) help the authorised officer to find and gain access to a document or information, including electronically stored information; or
+Examples of documents or information—
+• a document about the heavy vehicle's performance, specifications (including the dimensions and other physical attributes of the vehicle or its fittings), functional capabilities (including the vehicle's GVM, GCM and speed capabilities) or authorised operations required to be kept in the vehicle under this Law or a heavy vehicle accreditation
+• a weighing document for a container loaded on to the heavy vehicle
+• a telephone record
+(c) help the authorised officer to weigh or measure—
+(i) a heavy vehicle or a component of a heavy vehicle; or
+(ii) the whole or part of a heavy vehicle's load or equipment; or
+(d) start or stop the engine of a heavy vehicle under section 523; or
+(e) help the authorised officer to operate equipment or facilities for a purpose relevant to the power being or proposed to be exercised; or
+(f) provide access free of charge to photocopying equipment for the purpose of copying any records or other material.
+(4) A person of whom a requirement is made under subsection (1) or (2) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+(5) Without limiting what may be a reasonable excuse for the purposes of subsection (4), it is a reasonable excuse for a person not to comply with a requirement made under subsection (1) or (2) if doing so would require the person to take action that is outside the scope of the business or other activities of the person.
+(6) It is not a reasonable excuse for a person to fail to comply with a requirement made under subsection (1) or (2), in relation to a document or information that is the subject of the requirement, if doing so might tend to incriminate the person or make the person liable to a penalty.
+(7) If a requirement made under subsection (1) or (2) is that the occupier of, or person at, a place start or stop the engine of a heavy vehicle—
+(a) it is immaterial that the occupier or person is not—
+(i) the operator of the vehicle; or
+(ii) authorised by the operator to drive the vehicle or start or stop its engine; or
+(iii) qualified to drive the vehicle or start or stop its engine; and
+(b) in starting or stopping the engine of the vehicle in compliance with the requirement, the occupier or person is exempt from a provision of an Australian road law to the extent the provision would require the occupier or person to be qualified to start or stop the engine.
+Part 5—Provisions about exercise of powers
+Division 1—Damage in exercising powers
+578—Duty to minimise inconvenience or damage
+(1) In exercising a power under this Law, an authorised officer must take all reasonable steps to cause as little inconvenience, and do as little damage, as possible.
+(2) Subsection (1) does not provide for a statutory right of compensation other than as provided under Division 2.
+Note—
+Division 2 provides for compensation for costs, damage or loss incurred because of the exercise of a power by an authorised officer under this Chapter.
+579—Restoring damaged thing
+(1) This section applies if—
+(a) an authorised officer damages something when exercising, or purporting to exercise, a power under this Law and the damage was caused by an improper or unreasonable exercise of the power or the use of unauthorised force; or
+(b) a person (the assistant) acting under the direction or authority of an authorised officer damages something and the damage was caused by an improper or unreasonable exercise of a power or the use of unauthorised force.
+(2) The authorised officer must take all reasonable steps to restore the thing to the condition it was in immediately before the officer exercised the power, or the assistant took action under the officer's direction or authority.
+580—Notice of damage
+(1) This section applies if—
+(a) an authorised officer damages something when exercising, or purporting to exercise, a power under this Law; or
+(b) a person (the assistant) acting under the direction or authority of an authorised officer damages something.
+(2) However, this section does not apply to damage if the authorised officer reasonably believes—
+(a) the thing has been restored to the condition it was in immediately before the officer exercised the power, or the assistant took action under the officer's direction or authority; or
+(b) the damage is trivial; or
+(c) there is no‑one apparently in possession of the thing; or
+(d) the thing has been abandoned; or
+(e) the damage was not caused by an improper or unreasonable exercise of a power or the use of unauthorised force.
+(3) The authorised officer must give notice of the damage to the person who appears to the officer to be an owner, or person in control, of the thing.
+(4) However, if for any reason it is not practicable to comply with subsection (3), the authorised officer must—
+(a) leave the notice at the place where the damage happened; and
+(b) ensure it is left in a conspicuous position and in a reasonably secure way.
+(5) The notice must state—
+(a) particulars of the damage; and
+(b) that the person who suffered the damage may claim compensation under section 581.
+(6) If the authorised officer believes the damage was caused by a latent defect in the thing or circumstances beyond the control of the officer or the assistant the officer may state the belief in the notice.
+(7) The authorised officer may delay complying with subsection (3) or (4) if the officer reasonably suspects complying with the subsection may frustrate or otherwise hinder an investigation by the officer under this Law.
+(8) The delay may be only for so long as the authorised officer continues to have the reasonable suspicion and remains in the vicinity of the place.
+Division 2—Compensation
+581—Compensation because of exercise of powers
+(1) A person may claim compensation from the Regulator if the person incurs costs, damage or loss because of the exercise, or purported exercise, of a power by or for an authorised officer, including costs, damage or loss incurred because of compliance with a requirement made of the person under this Chapter.
+(2) However, subsection (1) does not apply—
+(a) to costs, damage or loss incurred because of a lawful seizure or forfeiture; or
+(b) if the costs, damage or loss was not caused by an improper or unreasonable exercise of a power or the use of unauthorised force.
+(3) The compensation may be claimed and ordered in a proceeding—
+(a) brought in a court with jurisdiction for the recovery of the amount of compensation claimed; or
+(b) for an offence against this Law in relation to which the power was exercised or purportedly exercised.
+(4) A court may order the payment of compensation only if it is satisfied it is just to make the order in the circumstances of the particular case.
+(5) In considering whether it is just to order compensation, the court must have regard to any relevant offence committed by the claimant.
+(6) The national regulations may prescribe other matters that may, or must, be taken into account by the court when considering whether it is just to order compensation.
+Division 3—Provision about exercise of particular powers
+582—Duty to record particular information in driver's work diary
+(1) This section applies if, under this Law, an authorised officer directs the driver of a fatigue‑regulated heavy vehicle to stop the vehicle for compliance purposes.
+(2) If, for the exercise or purported exercise of a power under this Law, the authorised officer detains the driver for 5 minutes or longer, the driver may ask the officer to record the following details in the driver's work diary:
+(a) the officer's identifying details;
+(b) the time, date and place at which the driver stopped the heavy vehicle in compliance with the officer's direction;
+(c) the length of time the driver spent talking to the officer in the exercise or purported exercise of a power under this Law.
+(3) The authorised officer must comply with the request.
+(4) An authorised officer complies with subsection (2)(a) by recording either his or her name, or his or her identification number.
+Part 6—Miscellaneous provisions
+Division 1—Powers of Regulator
+583—Regulator may exercise powers of authorised officers
+(1) The Regulator may exercise a power that is conferred on authorised officers under this Law, and accordingly, the functions of the Regulator include the powers exercisable by the Regulator under this subsection.
+(2) Subsection (1) does not apply to a power that requires the physical presence of an authorised officer.
+Division 2—Other offences relating to authorised officers
+584—Obstructing authorised officer
+(1) A person must not obstruct—
+(a) an authorised officer, or someone helping an authorised officer, exercising a power under this Law; or
+(b) an assistant mentioned in section 518, 519 or 523 exercising a power under that section.
+Maximum penalty: $10 000.
+(2) In this section—
+obstruct includes assault, hinder, resist, attempt to obstruct and threaten to obstruct.
+585—Impersonating authorised officer
+A person must not impersonate an authorised officer.
+Maximum penalty: $10 000.
+Division 3—Other provisions
+586—Multiple requirements
+An authorised officer may—
+(a) on the same occasion—
+(i) give more than 1 direction or notice to, or make more than 1 requirement of, a person under a provision of this Chapter; or
+(ii) give a direction or notice to, or make a requirement of, a person under a provision of this Chapter and give a direction or notice to, or make a requirement of, the person under 1 or more other provisions of this Chapter; or
+(b) give a direction or notice to, or make a requirement of, a person under a provision and give a further direction or notice to, or make a further requirement of, the person under the same provision; or
+(ba) give a notice to a person in relation to a heavy vehicle under a provision of this Chapter and give a notice to a person in relation to the same heavy vehicle under the same provision or 1 or more other provisions of this Chapter; or
+(c) make a combination of directions, notices or requirements under paragraph (a)(i) or (ii), (b) or (ba).
+587—Compliance with particular requirements
+(1) A person is not excused from compliance with a requirement imposed by an authorised officer under this Chapter on the ground that compliance might incriminate the person or make the person liable to a penalty.
+(2) Subsection (1) has effect subject to section 588.
+588—Evidential immunity for individuals complying with particular requirements
+(1) This section applies to a requirement made by an authorised officer under section 569(1)(c) to (f), 570 or 577.
+(2) The following is not admissible in evidence against an individual in a criminal proceeding (except a proceeding for an offence against this Chapter):
+(a) information provided by an individual in compliance with the requirement;
+(b) information directly or indirectly derived from information mentioned in paragraph (a).
+(3) Any document produced by an individual in compliance with the requirement is not inadmissible in evidence against the individual in a criminal proceeding on the ground that the document might incriminate the individual.
+(4) Subsection (2) does not apply to a proceeding about the false or misleading nature of anything in the information or in which the false or misleading nature of the information is relevant evidence.
+589—Effect of withdrawal of consent to enter under this Chapter
+(1) This section applies if—
+(a) an authorised officer enters a place with the occupier's consent and has obtained evidence at the place; but
+(b) the occupier's consent is later withdrawn.
+(2) The evidence obtained (including any evidence seized) up to the time the consent is withdrawn is not invalid or inadmissible in proceedings for a contravention of this Law merely because the consent was withdrawn.
+Chapter 10—Sanctions and provisions about liability for offences
+Part 1—Formal warnings
+590—Formal warning
+(1) This section applies if an authorised officer reasonably believes—
+(a) a person has contravened this Law; and
+(b) the person had taken reasonable steps to prevent the contravention and was unaware of the contravention; and
+(c) the contravention may appropriately be dealt with by way of a warning under this section.
+(2) The authorised officer may give the person a written warning.
+(3) However, a warning must not be given for—
+(a) a contravention of a mass, dimension or loading requirement constituting a substantial risk breach or severe risk breach; or
+(b) a contravention of a maximum work requirement or a minimum rest requirement constituting a substantial risk breach, severe risk breach or a critical risk breach.
+(4) Subject to subsection (6), if a warning is given to a person under this section for a contravention of this Law, the person cannot be proceeded against for an offence against this Law constituted by the contravention.
+(5) A warning given under this section may, within 21 days after it is given, be withdrawn by an approved authorised officer by giving the person to whom the warning was given notice of the withdrawal.
+(6) After a warning given under this section is withdrawn under subsection (5), a proceeding may be taken against the person to whom the warning was given for the contravention for which the warning was given.
+(7) In this section—
+approved authorised officer means—
+(a) for a warning given under this section by an authorised officer who is a police officer—an authorised officer who is a police officer and who has the relevant police commissioner's written authority to withdraw warnings given under this section; or
+(b) for a warning given under this section by an authorised officer who is not a police officer—an authorised officer whose instrument of appointment provides that the authorised officer may withdraw warnings given under this section;
+proceeding includes action by way of an infringement notice.
+Part 2—Infringement notices
+591—Infringement notices
+(1) An authorised officer who reasonably believes that a person has committed a prescribed offence against this Law may serve the person with an infringement notice issued as an alternative to prosecution in court for the offence.
+(2) The procedures to be followed in connection with infringement notices issued for the purposes of this Law as applied in this jurisdiction are to be the procedures prescribed by or under the Infringement Notice Offences Law of this jurisdiction.
+(3) In this section—
+prescribed offence means an offence prescribed by a law of this jurisdiction for the purposes of this section.
+592—Recording information about infringement penalties
+(1) The Regulator may keep a record of—
+(a) each infringement notice issued for the purposes of this Law; and
+(b) the payment of a fine sought by an infringement notice by a person to whom the notice is issued for the purposes of this Law.
+(2) Information in a record kept under subsection (1) may be used only—
+(a) to accumulate aggregate data for research or education; or
+(b) in a proceeding relating to the offence for which the infringement notice was issued, including, for example, an appeal against the conviction for the offence; or
+(c) in a proceeding for an offence (the extended liability offence) where—
+(i) the extended liability offence arises in connection with another offence (the relevant offence) for which the infringement notice was issued; and
+(ii) a provision of this Law (for example, section 315(5)) provides that evidence of details stated in the infringement notice is evidence in the proceeding that the relevant offence happened at the time and place, and in the circumstances, stated in the infringement notice; or
+(d) for the purposes of section 601(b) or 608(b); or
+(e) as authorised under subsection (3).
+(3) Information in a record kept under subsection (1)(a) may be used by authorised officers in connection with the exercise of functions under this Law.
+Part 3—Court sanctions
+Division 1—General provisions
+593—Penalties court may impose
+(1) A court that finds a person guilty of an offence against this Law may impose any 1 or more of the penalties provided for in this Part.
+(2) Without limiting the court's discretion, when imposing 2 or more penalties under this Part, the court must take into account the combined effect of the penalties imposed.
+(3) This Part does not limit the powers or discretion of the court under another law.
+594—Matters court must consider when imposing sanction for noncompliance with mass, dimension or loading requirement
+(1) The purpose of this section is to bring to a court's attention the implications and consequences of a contravention of a mass, dimension or loading requirement when deciding the kind and level of sanction to be imposed for the contravention.
+(2) In deciding the sanction, including the level of a fine, to be imposed for the contravention, the court must consider the following matters:
+(a) a minor risk breach of a mass, dimension or loading requirement involves either or both of the following:
+(i) an appreciable risk of accelerated road wear;
+(ii) an appreciable risk of unfair commercial advantage;
+(b) a substantial risk breach of a mass, dimension or loading requirement involves 1 or more of the following:
+(i) a substantial risk of accelerated road wear;
+(ii) an appreciable risk of damage to road infrastructure;
+(iii) an appreciable risk of increased traffic congestion;
+(iv) an appreciable risk of diminished public amenity;
+(v) a substantial risk of unfair commercial advantage;
+(c) a severe risk breach of a mass, dimension or loading requirement involves 1 or more of the following:
+(i) an appreciable risk of harm to public safety or the environment;
+(ii) a serious risk of accelerated road wear;
+(iii) a serious risk of damage to road infrastructure;
+(iv) a serious risk of increased traffic congestion;
+(v) a serious risk of diminished public amenity;
+(vi) a serious risk of unfair commercial advantage.
+(3) This section does not limit the matters the court may consider in deciding the sanction for the contravention.
+(4) Nothing in this section authorises or requires the court to assign the contravention to a different risk category.
+(5) Nothing in this section requires evidence to be adduced about a matter mentioned in subsection (2).
+595—Court may treat noncompliance with mass, dimension or loading requirement as a different risk category
+(1) If a court is satisfied there has been a contravention of a mass, dimension or loading requirement but is not satisfied the contravention is a substantial risk breach or a severe risk breach, the court may treat the contravention as a minor risk breach.
+(2) If a court is satisfied there has been a contravention of a mass, dimension or loading requirement and that the contravention is at least a substantial risk breach but is not satisfied the contravention is a severe risk breach, the court may treat the contravention as a substantial risk breach.
+Division 2—Provisions about imposing fines
+596—Body corporate fines under penalty provision
+(1) This section applies to a provision of this Law that—
+(a) prescribes a maximum fine for an offence; and
+(b) does not expressly prescribe a maximum fine for a body corporate different to the maximum fine for an individual.
+(2) The maximum fine is taken only to be the maximum fine for an individual.
+(3) If a body corporate is found guilty of the offence, the court may impose a maximum fine of an amount equal to 5 times the maximum fine for an individual.
+Division 3—Commercial benefits penalty orders
+597—Commercial benefits penalty order
+(1) If a court convicts a person of an offence against this Law, the court may, on application by the prosecutor, make an order (a commercial benefits penalty order) requiring the person to pay, as a fine, an amount not exceeding 3 times the amount estimated by the court to be the gross commercial benefit—
+(a) received or receivable, by the person or by an associate of the person, from the commission of the offence; and
+(b) for a journey that was interrupted or not commenced because of action taken by an authorised officer in connection with the commission of the offence—that would have been received or receivable, by the person or by an associate of the person, from the commission of the offence had the journey been completed.
+(2) In estimating the gross commercial benefit, the court may take into account—
+(a) benefits of any kind, whether or not monetary; and
+(b) any other matters it considers relevant, including, for example—
+(i) the value of any goods involved in the offence; and
+(ii) the distance over which the goods were, or were to be, carried.
+(3) However, in estimating the gross commercial benefit, the court must disregard any costs, expenses or liabilities incurred by the person or by an associate of the person.
+(4) Nothing in this section prevents the court from ordering payment of an amount that is less than the estimated gross commercial benefit.
+Division 4—Cancelling or suspending registration
+598—Power to cancel or suspend vehicle registration
+(1) This section applies if a court convicts a person of—
+(a) an offence against this Law relating to a contravention of a mass, dimension or loading requirement constituting a severe risk breach; or
+(b) an offence against this Law other than an offence relating to a contravention of a mass, dimension or loading requirement.
+(2) The court may make an order that the registration of a heavy vehicle in relation to which the offence was committed and of which the person is a registered operator is—
+(a) cancelled; or
+(b) suspended for a stated period.
+(3) If the court makes an order under subsection (2) against a person, the court may also make an order that the person, or an associate of the person, is disqualified from applying for the registration of the heavy vehicle for a stated period.
+(4) If the court considers that another person who is not present in court may be substantially affected by an order under subsection (2) or (3), the court may issue a summons to that person to show cause why the order should not be made.
+(5) The court is to ensure that the Regulator is notified of the decision to make an order under subsection (2) or (3) and the terms of the order, but failure to do so does not invalidate the decision or the order.
+Division 5—Supervisory intervention orders
+599—Application of Division 5
+This Division applies if a court—
+(a) convicts a person (the convicted person) of an offence against this Law; and
+(b) considers the person to be, or likely to become, a systematic or persistent offender of this Law having regard to the circumstances of offences against this Law and previous corresponding laws for which the person has previously been convicted.
+600—Court may make supervisory intervention order
+(1) The court may, on application by the prosecutor or the Regulator, make an order (a supervisory intervention order) requiring the convicted person, at the person's own expense and for a stated period of not more than 1 year, to do 1 or more of the following:
+(a) stated things the court considers will improve the person's compliance with this Law, or stated aspects of this Law, including, for example—
+(i) appointing staff to, or removing staff from, particular positions; or
+(ii) training and supervising staff; or
+(iii) obtaining expert advice about maintaining compliance with this Law, or stated aspects of this Law; or
+(iv) installing equipment for monitoring or managing compliance with this Law, or stated aspects of this Law, including, for example, intelligent transport system equipment; or
+(v) implementing practices, systems or procedures for monitoring or ensuring compliance with this Law, or stated aspects of this Law;
+(b) implement stated practices, systems or procedures for monitoring or ensuring compliance with this Law, or stated aspects of this Law, subject to the direction of the Regulator or a person nominated by the Regulator;
+(c) give compliance reports about the convicted person to the Regulator or the court (or both), in a stated way and for stated periods;
+(d) appoint a person to have the following responsibilities:
+(i) helping the convicted person to improve the convicted person's compliance with this Law or stated aspects of this Law;
+(ii) monitoring the convicted person's compliance with this Law or stated aspects of this Law and with the order;
+(iii) giving compliance reports about the convicted person to the Regulator or the court (or both), in a stated way and for stated periods.
+(2) In this section—
+compliance report, about a person in relation to whom a supervisory intervention order is made, means a report about the person's compliance with this Law, stated aspects of this Law, or the order, including, for example, a report containing stated information about—
+(a) things done by the person to ensure compliance with this Law or stated aspects of this Law; and
+(b) the effect of the things mentioned in paragraph (a).
+601—Limitation on making supervisory intervention order
+The court may make a supervisory intervention order only if the court is satisfied the order is capable of improving the convicted person's ability or willingness to comply with this Law having regard to—
+(a) the offences against this Law or a previous corresponding law for which the person has previously been convicted; and
+(b) the offences against this Law or a previous corresponding law for which the person has been proceeded against by way of unwithdrawn infringement notices; and
+(c) any other offences or other matters that the court considers relevant to the person's conduct in connection with road transport.
+602—Supervisory intervention order may suspend other sanctions
+(1) A supervisory intervention order may direct that any other penalty or sanction imposed for the offence to which it relates is suspended until the order ends unless the court decides there has been a substantial failure to comply with the order.
+(2) For the purposes of subsection (1), a court may decide that a failure to comply with a supervisory intervention order is a substantial failure if the failure causes, or creates a risk of, serious harm to public safety, the environment or road infrastructure.
+603—Amendment or revocation of supervisory intervention order
+A court that makes a supervisory intervention order may, on application by the Regulator or the person to whom the order applies, amend or revoke the order if the court is satisfied there has been a change in circumstances warranting the amendment or revocation.
+604—Contravention of supervisory intervention order
+A person to whom a supervisory intervention order applies must comply with the order, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+605—Effect of supervisory intervention order if prohibition order applies to same person
+(1) This section applies if both a supervisory intervention order and a prohibition order is in force at the same time against the same person.
+(2) The supervisory intervention order has no effect while the prohibition order has effect.
+Division 6—Prohibition orders
+606—Application of Division 6
+This Division applies if a court—
+(a) convicts a person (the convicted person) of an offence against this Law; and
+(b) considers the person to be, or likely to become, a systematic or persistent offender of this Law having regard to the circumstances of offences against this Law and previous corresponding laws for which the person has previously been convicted.
+607—Court may make prohibition order
+(1) The court may, on application by the prosecutor or the Regulator, make an order (a prohibition order) prohibiting the convicted person, for a stated period of not more than 1 year, from having a stated role or responsibility associated with road transport.
+(2) However, the court cannot make a prohibition order prohibiting the convicted person from driving a vehicle or having a vehicle registered or licensed under an Australian road law in the convicted person's name.
+608—Limitation on making prohibition order
+The court may make a prohibition order only if the court is satisfied the convicted person should not continue to have the role or responsibilities prohibited by the order, and that a supervisory intervention order is not appropriate, having regard to—
+(a) the offences against this Law or a previous corresponding law for which the person has previously been convicted; and
+(b) the offences against this Law or a previous corresponding law for which the person has been proceeded against by way of unwithdrawn infringement notices; and
+(c) any other offences or other matters that the court considers relevant to the person's conduct in connection with road transport.
+609—Amendment or revocation of prohibition order
+A court that makes a prohibition order may, on application by the Regulator or the person to whom the order applies, amend or revoke the order if the court is satisfied there has been a change in circumstances warranting the amendment or revocation.
+610—Contravention of prohibition order
+A person to whom a prohibition order applies must comply with the order, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+Division 7—Compensation orders
+611—Court may make compensation order
+(1) A court that convicts a person (the convicted person) of an offence against this Law may make an order (a compensation order) requiring the convicted person to pay the road manager for a road, by way of compensation, an amount the court considers appropriate for loss incurred, or likely to be incurred, by the road manager for damage caused to road infrastructure as a result of the offence.
+(2) A compensation order may be made on the application of the prosecutor, the Regulator or the road manager.
+(3) The court may make a compensation order in relation to damage the court considers, on the balance of probabilities, was caused or partly caused by the commission of the offence.
+(4) The court may make a compensation order—
+(a) when the court gives its sentence for the offence; or
+(b) at a later time, but not after the end of the period within which a proceeding for the offence must start under this Law.
+Note—
+See section 707 for the period within which a proceeding for an offence against this Law must start.
+612—Assessment of compensation
+(1) In making a compensation order, the court may assess the amount of compensation required to be paid by the order in the way it considers appropriate, including, for example, by reference to the estimated cost of remedying the damage.
+(2) In assessing the amount of compensation, the court may have regard to—
+(a) evidence adduced in connection with the prosecution of the offence; and
+(b) any evidence not adduced in connection with the prosecution of the offence but adduced in connection with the making of the order; and
+(c) if the road manager is a public authority—
+(i) any certificate of the public authority stating that the authority is responsible for maintaining the road infrastructure in relation to which the order is sought; and
+(ii) any other certificate of the public authority, including, for example, a certificate—
+(A) estimating the monetary value of all or part of the road infrastructure in relation to which the order is sought; or
+(B) estimating the monetary value of, or the cost of remedying, the damage to the road infrastructure in relation to which the order is sought; or
+(C) estimating the extent to which the commission of the offence contributed to the damage to the road infrastructure in relation to which the order is sought; and
+(d) any other matters the court considers relevant.
+(3) A person who purportedly signs a certificate of a type mentioned in subsection (2)(c) on behalf of a public authority is presumed, unless the contrary is proved, to have been authorised by the public authority to sign the certificate on the public authority's behalf.
+613—Use of certificates in assessing compensation
+(1) If a public authority proposes to submit a certificate mentioned in section 612(2)(c) in a proceeding for the making of a compensation order, the public authority must give a copy of the certificate to the defendant at least 28 days before the day fixed for the hearing of the proceeding.
+(2) A certificate of the public authority cannot be used in a proceeding for the making of a compensation order unless the public authority has complied with subsection (1).
+(3) A defendant who intends to challenge a matter stated in a certificate mentioned in section 612(2)(c) in a proceeding for the making of a compensation order must—
+(a) give the public authority notice of the intention to challenge the matter; and
+(b) if the defendant is intending to challenge the accuracy of any measurement, analysis or reading in the certificate—
+(i) state the reason why the defendant alleges that it is inaccurate; and
+(ii) state the measurement, analysis or reading that the defendant considers to be correct.
+(4) The notice must be—
+(a) signed by the defendant; and
+(b) given at least 14 days before the day fixed for the hearing of the proceeding.
+(5) A defendant cannot challenge a matter stated in a certificate mentioned in section 612(2)(c) in a proceeding for the making of a compensation order unless—
+(a) the defendant has complied with subsections (3) and (4); or
+(b) the court gives leave to the defendant to challenge the matter, in the interests of justice.
+614—Limits on amount of compensation
+(1) If, in making a compensation order, the court is satisfied that the commission of the offence concerned contributed to damage to road infrastructure but that other factors not connected with the commission of the offence also contributed to the damage, the court must limit the amount of compensation payable under the order to the amount it assesses as being attributable to the defendant's conduct.
+(2) The amount of compensation payable under a compensation order cannot exceed the monetary jurisdictional limit of the court in civil proceedings.
+(3) The court may not include in a compensation order any amount for—
+(a) personal injury or death; or
+(b) loss of income (whether suffered by the road manager or another entity); or
+(c) damage to property that is not part of the road infrastructure concerned.
+615—Costs
+The court has the same power to award costs in relation to proceedings for the making of a compensation order as it has in relation to civil proceedings, and the relevant laws applying to costs in relation to civil proceedings before the court apply with any necessary changes to costs in relation to proceedings for the making of a compensation order.
+616—Enforcement of compensation order and costs
+A compensation order, and any award of costs in relation to a proceeding for the making of a compensation order, are taken to be, and are enforceable as, a judgment of the court sitting in civil proceedings.
+617—Relationship with orders or awards of other courts and tribunals
+(1) A compensation order may not be made in favour of a road manager for a road in relation to damage to road infrastructure if another court or tribunal has awarded compensatory damages or compensation in civil proceedings to the road manager in relation to the damage based on the same or similar facts.
+(2) If a court purports to make a compensation order contrary to subsection (1)—
+(a) the order is void to the extent it covers the same matters as the matters covered by the other award; and
+(b) any payments made under the order to the extent to which it is void must be repaid by the road manager.
+(3) The making of a compensation order in relation to damage to road infrastructure does not prevent another court or tribunal from later awarding damages or compensation in civil proceedings in relation to the damage based on the same or similar facts, but the court or tribunal must take the compensation order into account when making its award.
+(4) Nothing in this Division affects or limits any liability to pay compensation under another law, other than as provided by this section.
+Part 4—Provisions about liability
+Division 1—Reasonable steps defence
+618—Reasonable steps defence
+If, in relation to a provision of this Law, a person has the benefit of the reasonable steps defence, it is a defence to a charge for an offence against the provision for the person charged to prove that—
+(a) the person did not know, and could not reasonably be expected to have known, of the contravention concerned; and
+(b) either—
+(i) the person took all reasonable steps to prevent the contravention; or
+(ii) there were no steps the person could reasonably be expected to have taken to prevent the contravention.
+Note—
+Generally speaking, under various provisions of this Law, a person charged with an offence does not have the benefit of the mistake of fact defence if the person has the benefit of the reasonable steps defence for the offence. The reasonable steps defence is not provided in the case of certain offences that include the taking of reasonable steps as an ingredient of the offence.
+Division 2—Matters relating to reasonable steps
+619—Application of Division 2
+This Division applies in relation to the following:
+(a) a proceeding for an offence against a provision of this Law that may be committed by a person failing to take all reasonable steps;
+(b) a proceeding for an offence against a provision of this Law in relation to which a person charged has the benefit of the reasonable steps defence.
+620—Matters court may consider for deciding whether person took all reasonable steps—mass, dimension or loading offences
+(1) In deciding whether things done or omitted to be done by a person charged with a mass, dimension or loading offence constitute reasonable steps, the court may have regard to the following:
+(a) the circumstances of the alleged offence, including any risk category for the contravention constituting the offence;
+(b) without limiting paragraph (a), the measures available and measures taken for any or all of the following:
+(i) to accurately and safely weigh or measure the heavy vehicle or its load, or to safely restrain the load in the heavy vehicle;
+(ii) to provide and obtain sufficient and reliable evidence from which the weight or measurement of the heavy vehicle or its load might be calculated;
+(iii) to manage, reduce or eliminate a potential contravention arising from the location of the heavy vehicle, or from the location of the load in the heavy vehicle, or from the location of goods in the load;
+(iv) to manage, reduce or eliminate a potential contravention arising from weather and climatic conditions, or from potential weather and climatic conditions, affecting or potentially affecting the weight or measurement of the load;
+(v) to exercise supervision or control over others involved in activities leading to the contravention;
+(c) the measures available and measures taken for any or all of the following:
+(i) to include compliance assurance conditions in relevant commercial arrangements with other responsible persons for heavy vehicles;
+(ii) to provide information, instruction, training and supervision to employees to enable compliance with this Law;
+(iii) to maintain equipment and work systems to enable compliance with this Law;
+(iv) to address and remedy similar compliance problems that may have happened in the past;
+(d) whether the person charged had, either personally or through an employee or agent, custody or control of the heavy vehicle, its load, or any goods included or to be included in the load;
+(e) the personal expertise and experience that the person charged had or ought reasonably to have had or that an employee or agent of the person charged had or ought reasonably to have had.
+(2) This section does not limit the matters the court must or may consider when deciding whether things done or omitted to be done by a person charged with a mass, dimension or loading offence constitute reasonable steps.
+(3) In this section—
+mass, dimension or loading offence means an offence against Chapter 4.
+621—Reliance on container weight declaration—offences about mass
+(1) This section applies if the operator or driver of a heavy vehicle is charged with an offence involving a contravention of a mass requirement for the vehicle and is seeking to prove the reasonable steps defence in relation to the offence.
+(2) To the extent the weight of a freight container together with its contents is relevant to the offence, the person charged cannot rely on the weight stated in the relevant container weight declaration if the person knew or ought reasonably to have known that—
+(a) the weight stated in the relevant container weight declaration was less than the actual weight; or
+(b) the distributed weight of the container and its contents, together with either of the following would cause a contravention of a mass requirement applying to the heavy vehicle:
+(i) the mass or location of any other load;
+(ii) the mass of the vehicle or a component of it.
+622—Matters court may consider for deciding whether person took all reasonable steps—speeding or fatigue management offences
+(1) In deciding whether things done or omitted to be done by a person charged with a speeding offence or fatigue management offence constitute reasonable steps, the court may have regard to the following:
+(a) the nature of the activity to which the contravention constituting the offence relates;
+(b) the risks to public safety associated with the activity mentioned in paragraph (a);
+(c) the likelihood of the risks mentioned in paragraph (b) arising;
+(d) the degree of harm likely to result from the risks mentioned in paragraph (b) arising;
+(e) the circumstances of the alleged offence, including, for a fatigue management offence, any risk category for the contravention constituting the offence;
+(f) the measures available and measures taken—
+(i) to prevent, eliminate or minimise the likelihood of a potential contravention happening; or
+(ii) to eliminate or minimise the likelihood of risks to public safety arising from a potential contravention; or
+(iii) to manage, minimise or eliminate risks to public safety arising from a potential contravention;
+(g) the personal expertise and experience that the person charged had or ought reasonably to have had or that an employee or agent of that person had or ought reasonably to have had;
+(h) the degree of ability the person charged, or an employee or agent of that person, had to take a measure mentioned in paragraph (f);
+(i) the costs of measures mentioned in paragraph (f);
+(j) the measures available and measures taken for any or all of the following:
+(i) to include compliance assurance conditions in relevant commercial arrangements with other responsible persons for heavy vehicles;
+(ii) to provide information, instruction, training and supervision to employees to enable compliance with this Law;
+(iii) to maintain equipment and work systems to enable compliance with this Law;
+(iv) to address and remedy similar compliance problems that may have happened in the past.
+(2) In addition, in deciding whether things done or omitted to be done by a person charged with a fatigue management offence constitute reasonable steps, the court may have regard to any relevant body of fatigue knowledge.
+(3) This section does not limit the matters the court must or may consider when deciding whether things done or omitted to be done by a person charged with a speeding offence or fatigue management offence constitute reasonable steps.
+(4) In this section—
+fatigue management offence means an offence against Chapter 6;
+speeding offence means an offence against Chapter 5 Part 2 or section 219.
+623—When particular persons regarded to have taken all reasonable steps—speeding or fatigue management offences
+(1) A party in the chain of responsibility for a heavy vehicle charged with a speeding offence or fatigue management offence is to be regarded as having taken all reasonable steps if the party did all of the following to prevent the act or omission that led to the contravention to which the offence relates:
+(a) identified and assessed the aspects of the activities of the party, and relevant drivers for the party, that may lead to a relevant contravention by a relevant driver for the party;
+(b) for each aspect identified and assessed under paragraph (a), identified and assessed—
+(i) the risk of the aspect leading to a relevant contravention; and
+(ii) if there is a substantial risk of the aspect leading to a relevant contravention—the measures the party may take to eliminate the risk or, if it is not reasonably possible to eliminate the risk, to minimise the risk;
+(c) carried out the identification and assessment mentioned in paragraphs (a) and (b)—
+(i) at least annually; and
+(ii) after each event that indicated the way the activities the subject of the identification and assessment are being carried out have led, or may lead, to a relevant contravention;
+(d) took the measures identified and assessed under paragraph (b)(ii);
+(e) for each action mentioned in any of paragraphs (a) to (d) taken by the party—
+(i) kept a record of the action for at least 3 years after taking it; or
+(ii) if 3 years have not passed since taking the action, kept a record of the action since taking it.
+(2) This section does not limit the circumstances in which things done or omitted to be done by a person charged with a speeding offence or fatigue management offence constitute reasonable steps.
+(3) In this section—
+fatigue management offence means an offence against Chapter 6;
+party in the chain of responsibility—
+(a) for a heavy vehicle the subject of a speeding offence—has the meaning given by section 214; or
+(b) for a fatigue‑regulated heavy vehicle the subject of a fatigue management offence—has the meaning given by section 227;
+relevant contravention, for a party in the chain of responsibility for a heavy vehicle charged with a speeding offence or fatigue management offence, means a contravention of the type to which the offence relates;
+relevant driver, for a party in the chain of responsibility for a heavy vehicle charged with a speeding offence or fatigue management offence, means each driver of the heavy vehicle;
+speeding offence means an offence against Chapter 5 Part 2 or section 219.
+624—Regulation for section 623
+(1) For the purposes of section 623, the national regulations may provide for—
+(a) the ways, or examples of ways, a person may identify and assess the aspects of the activities of the person, and relevant drivers for the person, that may lead to a relevant contravention by a relevant driver for the person; and
+(b) the measures, or examples of measures, a person may take to eliminate or minimise the risks of aspects of activities of the person, or relevant drivers for the person, leading to a relevant contravention by the person or a relevant driver for the person.
+(2) In this section—
+fatigue management offence means an offence against Chapter 6;
+relevant contravention means a contravention constituting a fatigue management offence.
+625—Proof of compliance with registered industry code of practice
+(1) This section applies for deciding in—
+(a) a proceeding for an offence against a provision of this Law that may be committed by a person failing to take all reasonable steps—whether the person took all reasonable steps; or
+(b) a proceeding for an offence against a provision of this Law in relation to which a person charged has the benefit of the reasonable steps defence—whether the person took all reasonable steps.
+(2) Proof, as established by the person, that the person complied with all relevant standards and procedures under a registered industry code of practice, in relation to matters to which the offence relates is evidence that the person took all reasonable steps.
+(3) Subsection (2) does not apply unless the person has given the complainant notice of the intention to prove the matters mentioned in the subsection.
+(4) The notice must be—
+(a) signed by the person; and
+(b) given at least 28 days before the day fixed for the hearing of the charge.
+(5) In the case of an offence referred to in section 620 or 622, this section does not prevent the court from considering any of the matters referred to in the section concerned in deciding whether compliance with relevant standards and procedures under a registered industry code of practice, was reasonable in the circumstances in which the offence was alleged to have been committed.
+Division 3—Other defences
+626—Definition for Division 3
+In this Division—
+deficiency, of a vehicle, means—
+(a) a deficiency of the vehicle or a component of the vehicle, including, for example, the vehicle—
+(i) contravening a heavy vehicle standard; or
+(ii) being unsafe; or
+(b) a deficiency constituted by the absence of a particular thing required to be in, or displayed on, the vehicle, including, for example, a thing required to be in, or displayed on, the vehicle under—
+(i) a heavy vehicle standard; or
+(ii) a condition of a heavy vehicle accreditation or a mass or dimension authority.
+627—Defence for owner or operator of vehicle if offence committed while vehicle used by unauthorised person
+(1) This section applies in relation to an offence against this Law that may be committed by a person—
+(a) in the person's capacity as an owner or operator of a vehicle; and
+(b) in relation to the use of the vehicle by someone else.
+(2) Subject to subsection (3), in a proceeding for an offence mentioned in subsection (1), it is a defence for the person charged to prove that, at the relevant time, the vehicle was being used by—
+(a) a person not entitled (expressly, impliedly or otherwise) to use the vehicle, other than an employee or agent of the person; or
+(b) an employee of the person who was, at the relevant time, acting outside the scope of the employment; or
+(c) an agent of the person who was, at the relevant time, acting outside the scope of the agency.
+(3) If the offence relates to a deficiency of the vehicle, the defence under subsection (2) is not available unless the person charged also proves that—
+(a) the vehicle had not, before it ceased to be under the person's control, been driven on a road in contravention of this Law arising in connection with the deficiency; and
+(b) one or more material changes, resulting in the deficiency, had been made after the vehicle had ceased to be under the person's control.
+628—Defence for driver of vehicle subject to a deficiency
+(1) This section applies to an offence against this Law relating to a deficiency of a heavy vehicle.
+(2) In a proceeding for an offence mentioned in subsection (1) alleged to be committed by the driver of a heavy vehicle, it is a defence for the driver to prove that the driver—
+(a) did not cause the deficiency and had no responsibility for or control over the maintenance of the vehicle or its equipment at any relevant time; and
+(b) did not know and could not reasonably be expected to have known of the deficiency; and
+(c) could not reasonably be expected to have sought to ascertain whether there was or was likely to be a deficiency of the kind to which the offence relates.
+629—Defence of compliance with direction
+In a proceeding for an offence against this Law, it is a defence for the person charged to prove that the conduct constituting the offence was done in compliance with a direction given—
+(a) by an authorised officer; or
+(b) by the Regulator (including a delegate of the Regulator); or
+(c) by a person under a law of a State or Territory.
+630—Sudden or extraordinary emergency
+(1) In a proceeding for an offence against this Law, it is a defence for the person charged to prove that the conduct constituting the offence occurred in response to circumstances of sudden or extraordinary emergency.
+(2) This section applies if and only if the person carrying out the conduct reasonably believed that—
+(a) circumstances of sudden or extraordinary emergency existed; and
+(b) the conduct was the only reasonable way to deal with the emergency; and
+(c) the conduct was a reasonable response to the emergency.
+631—Lawful authority
+In a proceeding for an offence against this Law, it is a defence for the person charged to prove that the conduct constituting the offence is authorised or excused by or under a law.
+Division 4—Other provisions about liability
+632—Deciding whether person ought reasonably to have known something
+(1) This section applies in relation to a proceeding for an offence against this Law if it is relevant to prove that someone ought reasonably to have known something.
+(2) A court may consider the following when deciding whether the person ought reasonably to have known the thing:
+(a) the person's abilities, experience, expertise, knowledge, qualifications and training;
+(b) the circumstances of the offence;
+(c) any other relevant matter prescribed by the national regulations for the purposes of this section.
+633—Multiple offenders
+(1) This section applies if a provision of this Law provides that, for a particular act or omission or set of circumstances, each of 2 or more persons is liable for an offence against a provision of this Law.
+(2) Proceedings may be taken against all or any of the persons in relation to the act, omission or circumstances.
+(3) Proceedings may be taken against any of the persons in relation to the act, omission or circumstances—
+(a) regardless of whether or not proceedings have been started against any of the other persons in relation to the act, omission or circumstances; and
+(b) regardless of whether or not any proceedings taken against any of the other persons in relation to the act, omission or circumstances have ended; and
+(c) regardless of the outcome of any proceedings taken against any of the other persons in relation to the act, omission or circumstances.
+(4) This section is subject to section 634(1).
+634—Multiple offences
+(1) A person may be punished only once in relation to the same contravention of this Law by the person or a heavy vehicle, even if the person is liable in more than 1 capacity.
+(2) A person who has been punished for an act or omission or circumstances constituting an offence against this Law as it applies in another participating jurisdiction cannot be punished for an offence against this Law as it applies in this jurisdiction arising from the same act or omission or circumstances.
+(3) Despite any Act or other law (including subsections (1) and (2))—
+(a) a person may be punished for more than 1 contravention of a requirement of this Law if the contraventions relate to different parts of the same vehicle; and
+(b) a person may be punished for 1 or more contraventions of a requirement of this Law as it applies in another participating jurisdiction (interstate contraventions), and 1 or more contraventions of a requirement of this Law as it applies in this jurisdiction (local contraventions), if the interstate contraventions and local contraventions relate to different parts of the same vehicle.
+635—Responsibility for acts or omissions of representative
+(1) This section applies in a proceeding for an offence against this Law.
+(2) If it is relevant to prove a person's state of mind about a particular act or omission, it is enough to show—
+(a) the act was done or omitted to be done by a representative of the person within the scope of the representative's actual or apparent authority; and
+(b) the representative had the state of mind.
+(3) An act done or omitted to be done for a person by a representative of the person within the scope of the representative's actual or apparent authority is taken to have been done or omitted to be done also by the person, unless the person proves the person could not, by the exercise of reasonable diligence, have prevented the act or omission.
+(4) In this section—
+representative means—
+(a) for an individual—an employee or agent of the individual; or
+(b) for a corporation—an executive officer, employee or agent of the corporation or authority;
+state of mind, of a person, includes—
+(a) the person's knowledge, intention, opinion, belief or purpose; and
+(b) the person's reasons for the intention, opinion, belief or purpose.
+636—Liability of executive officers of corporation
+(1) If a corporation commits an offence against a provision of this Law specified in column 2 of Schedule 4, each executive officer of the corporation who knowingly authorised or permitted the conduct constituting the offence also commits an offence against the provision.
+Maximum penalty: the penalty for a contravention of the provision by an individual.
+(2) If a corporation commits an offence against a provision of this Law specified in column 3 of Schedule 4, each executive officer of the corporation who knew or ought reasonably to have known—
+(a) of the conduct constituting the offence; or
+(b) that there was a substantial risk that the offence would be committed,
+also commits an offence against the provision.
+Maximum penalty: the penalty for a contravention of the provision by an individual.
+(3) For the purposes of subsection (2), it is a defence for the executive officer to prove—
+(a) the officer exercised reasonable diligence to ensure the corporation complied with the provision; or
+(b) the officer was not in a position to influence the conduct of the corporation in relation to the offence.
+(4) An executive officer of a corporation may be proceeded against and convicted for an offence against the provision whether or not the corporation has been proceeded against or convicted under that provision.
+(5) Nothing in this section affects any liability imposed on a corporation for an offence committed by the corporation under the provision.
+(6) Nothing in this section affects the application of any other law relating to the criminal liability of any persons (whether or not executive officers of the corporation) who are accessories to the commission of an offence or are otherwise involved in the contravention giving rise to an offence.
+(7) This section does not apply to an executive officer acting on a voluntary basis, whether or not the officer is reimbursed for the expenses incurred by the officer for carrying out activities for the corporation.
+637—Treatment of unincorporated partnerships
+(1) This Law (other than section 636) applies to an unincorporated partnership as if it were a corporation, but with the changes set out in this section.
+(2) An obligation or liability that would otherwise be imposed on the partnership by this Law is imposed on each partner instead, but may be discharged by any of the partners.
+(3) An amount that would be payable under this Law by the partnership is jointly and severally payable by the partners.
+(4) An offence against this Law (other than an offence referred to in subsection (5)) that would otherwise be committed by the partnership is taken to have been committed by each partner who knowingly authorised or permitted the conduct constituting the offence.
+Maximum penalty: the penalty for a contravention of the provision by an individual.
+(5) An offence against a provision of this Law specified in column 3 of Schedule 4 that would otherwise be committed by the partnership is taken to have been committed by each partner who knew or ought reasonably to have known—
+(a) of the conduct constituting the offence; or
+(b) that there was a substantial risk that the offence would be committed.
+Maximum penalty: the penalty for a contravention of the provision by an individual.
+(6) For the purposes of subsection (5), it is a defence for the partner to prove—
+(a) the partner exercised reasonable diligence to ensure the partnership complied with the provision; or
+(b) the partner was not in a position to influence the conduct of the partnership in relation to the offence.
+(7) Nothing in this section affects the application of any other law relating to the criminal liability of any persons (whether or not partners in the partnership) who are accessories to the commission of an offence or are otherwise involved in the contravention giving rise to an offence.
+(8) Subsections (4) and (5) do not apply to a partner acting on a voluntary basis, whether or not the partner is reimbursed for the expenses incurred by the partner for carrying out activities for the partnership.
+(9) For the purposes of this section, a change in the composition of the partnership does not affect the continuity of the partnership.
+638—Treatment of other unincorporated bodies
+(1) This Law (other than section 636) applies to an unincorporated body as if it were a corporation, but with the changes set out in this section.
+(2) An obligation or liability that would otherwise be imposed on the unincorporated body by this Law is imposed on each management member of the body instead, but may be discharged by any of the management members.
+(3) An amount that would be payable under this Law by the unincorporated body is jointly and severally payable by the management members of the body.
+(4) An offence against this Law (other than an offence referred to in subsection (5)) that would otherwise be committed by the unincorporated body is taken to have been committed by each management member of the body who knowingly authorised or permitted the conduct constituting the offence.
+Maximum penalty: the penalty for a contravention of the provision by an individual.
+(5) An offence against a provision of this Law specified in column 3 of Schedule 4 that would otherwise be committed by the unincorporated body is taken to have been committed by each management member of the body who knew or ought reasonably to have known—
+(a) of the conduct constituting the offence; or
+(b) that there was a substantial risk that the offence would be committed.
+Maximum penalty: the penalty for a contravention of the provision by an individual.
+(6) For the purposes of subsection (5), it is a defence for the management member of the unincorporated body to prove—
+(a) the member exercised reasonable diligence to ensure the body complied with the provision; or
+(b) the member was not in a position to influence the conduct of the body in relation to the offence.
+(7) Nothing in this section affects the application of any other law relating to the criminal liability of any persons (whether or not management members of the unincorporated body) who are accessories to the commission of an offence or are otherwise involved in the contravention giving rise to an offence.
+(8) Subsections (4) and (5) do not apply to a management member of the unincorporated body acting on a voluntary basis, whether or not the member is reimbursed for the expenses incurred by the member for carrying out activities for the body.
+(9) For the purposes of this section, a change in the composition of the unincorporated body does not affect the continuity of the body.
+(10) In this section—
+management member, of an unincorporated body, means—
+(a) if the body has a management committee—each member of the management committee; or
+(b) otherwise—each member who is concerned with, or takes part in, the body's management, whatever name is given to the member's position in the body;
+unincorporated body includes an unincorporated local government authority, but does not include an unincorporated partnership.
+639—Liability of registered operator
+(1) This section applies to an offence against this Law that may be committed by the operator of a heavy vehicle (whether or not any other person can also commit the offence).
+(2) If an offence to which this section applies is committed, the following person is taken to be the operator of the heavy vehicle and, in that capacity, is taken to have committed the offence:
+(a) for a heavy vehicle that is not a combination—the registered operator of the vehicle;
+(b) for a heavy combination or the towing vehicle in a heavy combination—the registered operator of the towing vehicle in the combination;
+(c) for a trailer forming part of a heavy combination—the registered operator of the towing vehicle in the combination and the registered operator (if any) of the trailer.
+(3) The registered operator has the same excuses and defences available to the operator of the heavy vehicle under this Law or another law.
+(4) Subsection (2) does not apply if the registered operator gives the Regulator an operator declaration—
+(a) if an infringement notice for the offence is issued to the registered operator—within 14 days after the infringement notice is issued; or
+(b) if the registered operator is charged with the offence—
+(i) if the charge is to be heard 28 days or less after the charge comes to the operator's knowledge—as soon as practicable after the charge comes to the registered operator's knowledge; or
+(ii) if the charge is to be heard more than 28 days after the charge comes to the operator's knowledge—as soon as practicable after the charge comes to the registered operator's knowledge but at least 28 days before the charge is heard.
+(5) If the registered operator gives an operator declaration as mentioned in subsection (4)—
+(a) a proceeding for the offence may be started against the person named as the operator of the heavy vehicle in the operator declaration only if a copy of the operator declaration has been served on the person; and
+(b) in a proceeding for the offence against the person named as the operator of the heavy vehicle in the operator declaration, the operator declaration is evidence that the person was the operator of the heavy vehicle at the time of the offence; and
+(c) in a proceeding for the offence against the registered operator, a court must not find the registered operator guilty of the offence in the registered operator's capacity as the operator of the heavy vehicle if it is satisfied, whether on the statements in the operator declaration or otherwise, the registered operator was not the operator of the heavy vehicle at the time of the offence.
+(6) To remove any doubt, it is declared that this section does not affect the liability of the registered operator in a capacity other than as the operator of the heavy vehicle.
+(7) In this section—
+operator declaration means a statutory declaration, made by the registered operator of a vehicle that is or forms part of a heavy vehicle the subject of an offence against this Law, stating—
+(a) the registered operator was not the operator of the heavy vehicle at the time of the offence; and
+(b) the name and address of the operator of the heavy vehicle at the time of the offence;
+registered operator, of a vehicle other than a heavy vehicle, means the registered or licensed operator of the vehicle under an Australian road law.
+Chapter 11—Reviews and appeals
+Part 1—Preliminary
+640—Definitions for Chapter 11
+In this Chapter—
+public safety ground, for a reviewable decision, means the Regulator being satisfied that making the decision is necessary to prevent a significant risk to public safety;
+relevant appeal body means the relevant tribunal or court for the relevant jurisdiction;
+relevant jurisdiction, for an applicant for the review of a reviewable decision or an appellant for an appeal against a review decision, means—
+(a) for a reviewable decision made under Division 3 of Chapter 4 Part 5 or Division 4 of Chapter 4 Part 6, or a review decision relating to a reviewable decision made under Division 3 of Chapter 4 Part 5 or Division 4 of Chapter 4 Part 6—
+(i) if the areas or routes for which the authorisation the subject of the reviewable decision was sought are situated in the same participating jurisdiction—the jurisdiction in which the areas or routes are situated; or
+(ii) if the areas or routes for which the authorisation the subject of the reviewable decision was sought are situated in 2 or more participating jurisdictions—
+(A) the jurisdiction in which most of the areas or routes are situated, worked out by reference to the length of road covered by the areas or routes; or
+(B) if there is more than 1 jurisdiction for which subsubparagraph (A) is satisfied—any of the jurisdictions for which subsubparagraph (A) is satisfied chosen by the applicant or appellant; or
+(b) for another reviewable decision or review decision—
+(i) if the reviewable decision or review decision relates to only 1 heavy vehicle whose relevant garage address is in a participating jurisdiction—the jurisdiction in which the relevant garage address is located; or
+(ii) if the reviewable decision or review decision relates to 2 or more heavy vehicles whose relevant garage addresses are in the same participating jurisdiction—the jurisdiction in which the relevant garage addresses are located; or
+(iii) if the reviewable decision or review decision relates to 2 or more heavy vehicles whose relevant garage addresses are located in 2 or more participating jurisdictions—any of those jurisdictions chosen by the operator of the vehicles; or
+(iv) otherwise—the participating jurisdiction in which the applicant's or appellant's home address is located;
+review application means an application for review of a reviewable decision under Chapter 11 Part 2;
+review decision has the meaning given by section 645;
+reviewable decision means—
+(a) a decision mentioned in Schedule 3; or
+(b) a decision made under the national regulations prescribed as a reviewable decision for the purposes of this Chapter;
+reviewer means a person deciding a review of a reviewable decision under Chapter 11 Part 2.
+Part 2—Internal review
+641—Applying for internal review
+(1) A dissatisfied person for a reviewable decision may apply to the Regulator for a review of the decision.
+(2) A review application may be made only within 28 days after—
+(a) the day the person is notified of the decision; or
+(b) if the person applies for a statement of reasons under subsection (6)—the day the statement is given to the person.
+(3) However, the Regulator may, at any time, extend the time for making a review application.
+(4) A review application must—
+(a) be written; and
+(b) be accompanied by the prescribed fee for the application; and
+(c) state in detail the grounds on which the person wants the reviewable decision to be reviewed.
+(5) The person is entitled to receive a statement of reasons for the original decision whether or not the provision under which the decision is made requires that the person be given a statement of reasons for the decision.
+(6) If the person was not given an information notice for the original decision, the person may ask the Regulator for a statement of reasons for the decision and the Regulator must provide the statement within 28 days after the request is made.
+(7) The making of a review application does not affect the reviewable decision, or the carrying out of the reviewable decision, unless it is stayed under section 642.
+(8) In this section—
+dissatisfied person means—
+(a) for a reviewable decision of the Regulator made in relation to an application for an exemption, authorisation, approval or heavy vehicle accreditation under this Law—the applicant; or
+(b) for a reviewable decision of the Regulator not to make a decision sought in an application for an amendment of an exemption, authorisation, approval or heavy vehicle accreditation under this Law—the applicant; or
+(c) for a reviewable decision of the Regulator to amend, cancel or suspend an exemption, authorisation, approval or heavy vehicle accreditation under this Law—the person to whom the exemption, authorisation, approval or heavy vehicle accreditation was granted; or
+(d) for a reviewable decision of the Regulator not to give a replacement permit for an exemption or authorisation under this Law or not to give a replacement accreditation certificate for a heavy vehicle accreditation under this Law—the person to whom the exemption, authorisation or heavy vehicle accreditation was granted; or
+(e) for a reviewable decision of the Regulator that a thing or sample is forfeited to the Regulator—an owner of the thing or sample; or
+(f) for a reviewable decision of an authorised officer to give a person an improvement notice or to amend an improvement notice given to a person—the person to whom the improvement notice was given; or
+(g) for a reviewable decision of a relevant road manager for a mass or dimension authority—a person adversely affected by the decision; or
+(h) for a reviewable decision made under the national regulations—the person prescribed as the dissatisfied person for the decision under the national regulations.
+642—Stay of reviewable decisions made by Regulator or authorised officer
+(1) This section applies to—
+(a) a reviewable decision made by the Regulator other than a decision made on the basis of a public safety ground; or
+(b) a reviewable decision made by an authorised officer.
+(2) If a person makes a review application for the reviewable decision, the person may immediately apply for a stay of the decision to the relevant appeal body.
+(3) The relevant appeal body may stay the reviewable decision to secure the effectiveness of the review and any later appeal to the body.
+(4) In setting the time for hearing the stay application, the relevant appeal body must allow at least 3 business days between the day the application is filed with it and the hearing day.
+(5) The Regulator is a party to the application.
+(6) The person must serve a copy of the application showing the time and place of the hearing, and any document filed in the relevant appeal body with the application, on the Regulator at least 2 business days before the hearing.
+(7) The stay—
+(a) may be given on conditions the relevant appeal body considers appropriate; and
+(b) operates for the period specified by the relevant appeal body; and
+(c) may be revoked or amended by the relevant appeal body.
+(8) The period of a stay under this section must not extend past the time when the reviewer reviews the reviewable decision and any later period the relevant appeal body allows the applicant to enable the applicant to appeal against the decision.
+643—Referral of applications for review of decisions made by road managers
+(1) This section applies to a review application relating to a reviewable decision made by a road manager for a road.
+Note—
+In Schedule 3, only decisions made by a road manager (for a road) that is a public authority are reviewable decisions.
+(2) The Regulator must refer the application to the road manager for review within 2 business days after receiving it.
+644—Internal review
+(1) A review of a reviewable decision that was not made by the Regulator or a road manager personally must not be decided by—
+(a) the person who made the reviewable decision; or
+(b) a person who holds a less senior position than the person who made the reviewable decision.
+(2) The reviewer must conduct the review—
+(a) on the material before the person who made the reviewable decision; and
+(b) on the reasons for the reviewable decision; and
+(c) any other relevant material the reviewer allows.
+(3) For the review, the reviewer must give the applicant a reasonable opportunity to make written or oral representations to the reviewer.
+645—Review decision
+(1) The reviewer must, within the prescribed period, make a decision (the review decision) to—
+(a) confirm the reviewable decision; or
+(b) amend the reviewable decision; or
+(c) substitute another decision for the reviewable decision.
+(2) If the review decision confirms the reviewable decision, for the purpose of an appeal, the reviewable decision is taken to be the review decision.
+(3) If the review decision amends the reviewable decision, for the purpose of an appeal, the reviewable decision as amended is taken to be the review decision.
+(4) If the review decision substitutes another decision for the reviewable decision, the substituted decision is taken to be the review decision.
+(5) If the reviewer is a road manager for a road, the reviewer must, as soon as practicable, give the Regulator notice of the review decision stating—
+(a) the decision; and
+(b) the reasons for the decision.
+(6) In this section—
+prescribed period means—
+(a) for a review of a reviewable decision made by a road manager for a road—
+(i) 28 days after the application for the review is given to the road manager; or
+(ii) if the Regulator and road manager have agreed to a longer period, of not more than 3 months after the application for the review is given to the road manager, and the Regulator has given notice of the longer period to the applicant—the longer period; or
+(b) for a review of another reviewable decision—28 days after the application for the review is made.
+646—Notice of review decision
+(1) The Regulator must, within the prescribed period, give the applicant notice (the review notice) of the review decision.
+(2) If the review decision is not the decision sought by the applicant, the review notice must state the following:
+(a) the reasons for the decision;
+(b) for a review decision relating to a reviewable decision made by a road manager for a road—that the review decision is not subject to further review or appeal under this Law;
+(c) for a review decision relating to another reviewable decision—
+(i) that the applicant may appeal against the decision under Chapter 11 Part 3; and
+(ii) how to appeal;
+(d) for a review decision relating to a reviewable decision made under Division 3 of Chapter 4 Part 5 or Division 4 of Chapter 4 Part 6 if the areas or routes for which the authorisation the subject of the reviewable decision was sought are situated in 2 or more participating jurisdictions—the jurisdiction in which most of the areas or routes are situated, worked out by reference to the length of road covered by the areas or routes.
+(3) If the reviewer does not make a review decision within the period required under section 645, the reviewer is taken to have made a review decision confirming the reviewable decision.
+(4) In this section—
+prescribed period means—
+(a) for a review of a reviewable decision made by a road manager for a road—as soon as practicable, but not more than 7 days, after the reviewer gives the Regulator notice of the decision; or
+(b) for a review of another reviewable decision—as soon as practicable.
+Part 3—Appeals
+647—Appellable decisions
+(1) A person may appeal to the relevant appeal body against a review decision relating to a reviewable decision made by the Regulator or an authorised officer.
+(2) A person may appeal against the review decision only within 28 days after—
+(a) if a review notice is given to the person under section 646—the notice was given to the person; or
+(b) if the reviewer is taken to have confirmed the decision under section 646(3)—the period mentioned in that section ends.
+(3) However, the relevant appeal body may extend the period for appealing.
+(4) The filing of an appeal does not affect the review decision, or the carrying out of the review decision, unless it is stayed under section 648.
+648—Stay of review decision
+(1) This section applies if, under this Law, a person appeals to the relevant appeal body against a review decision relating to—
+(a) a reviewable decision made by the Regulator other than on the basis of a public safety ground; or
+(b) a reviewable decision made by an authorised officer.
+(2) The person may immediately apply to the relevant appeal body for a stay of the decision.
+(3) The relevant appeal body may stay the review decision to secure the effectiveness of the appeal.
+(4) In setting the time for hearing the stay application, the relevant appeal body must allow at least 3 business days between the day the application is filed with it and the hearing day.
+(5) The Regulator is a party to the application.
+(6) The person must serve a copy of the application showing the time and place of the hearing, and any document filed in the relevant appeal body with the application, on the Regulator at least 2 business days before the hearing.
+(7) The stay—
+(a) may be given on conditions the relevant appeal body considers appropriate; and
+(b) operates for the period specified by the relevant appeal body, but not extending past the time when it decides the appeal; and
+(c) may be revoked or amended by the relevant appeal body.
+649—Powers of relevant appeal body on appeal
+(1) In deciding, under this Law, an appeal against a review decision, the relevant appeal body—
+(a) has the same powers as the person who made the reviewable decision to which the review decision relates; and
+(b) is not bound by the rules of evidence; and
+(c) must comply with natural justice.
+(2) An appeal is by way of rehearing—
+(a) unaffected by the review decision; and
+(b) on the material before the person who made the review decision and any further evidence allowed by the relevant appeal body.
+(3) After hearing the appeal, the relevant appeal body must—
+(a) confirm the review decision; or
+(b) set aside the review decision and substitute another decision that it considers appropriate; or
+(c) set aside the review decision and return the issue to the person who made the reviewable decision to which the review decision relates with the directions that it considers appropriate.
+650—Effect of decision of relevant appeal body on appeal
+If, under this Law, the relevant appeal body substitutes another decision for a review decision, the substituted decision is, for the relevant provision of this Law, taken to be that of the person who made the reviewable decision to which the review decision relates.
+Chapter 12—Administration
+Part 1—Responsible Ministers
+651—Policy directions
+(1) The responsible Ministers may give directions to the Regulator about the policies to be applied by the Regulator in exercising its functions under this Law.
+(2) A direction under this section cannot be about—
+(a) a particular person; or
+(b) a particular heavy vehicle; or
+(c) a particular application or proceeding.
+(3) The Regulator must comply with a direction given to it by the responsible Ministers under this section.
+(4) A copy of a direction given by the responsible Ministers to the Regulator is to be published in the Regulator's annual report.
+652—Referral of matters etc by responsible Minister
+(1) The responsible Minister for a participating jurisdiction may—
+(a) refer a matter relevant to that jurisdiction to the Regulator for action under this Law; or
+(b) ask the Regulator for information about the exercise of the Regulator's functions under this Law as applied in that jurisdiction.
+(2) However, the Minister cannot—
+(a) refer a matter to the Regulator under subsection (1)(a) that may require the Regulator to take action that is inconsistent with—
+(i) a direction given by the responsible Ministers under section 651; or
+(ii) the approved guidelines; or
+(b) direct the Regulator to take or not to take particular action in relation to a matter referred to the Regulator under subsection (1)(a); or
+(c) otherwise influence the exercise of the Regulator's functions under this Law.
+(3) The Regulator may charge a fee for dealing with a referral or request made under subsection (1).
+(4) A fee charged by the Regulator under subsection (3) must be an amount—
+(a) the Regulator considers reasonable; and
+(b) that is no more than the reasonable cost of dealing with the referral or request.
+(5) Section 740(2) to (4) do not apply to a fee charged by the Regulator under subsection (3).
+653—Approved guidelines for exemptions, authorisations, permits and other authorities
+(1) The responsible Ministers may approve guidelines about any of the following:
+(a) granting registration exemptions;
+(b) granting vehicle standards exemptions;
+(c) granting mass or dimension exemptions;
+(d) granting class 2 heavy vehicle authorisations;
+(e) granting electronic recording system approvals;
+(f) granting work and rest hours exemptions;
+(g) granting work diary exemptions;
+(h) granting fatigue record keeping exemptions;
+(i) granting heavy vehicle accreditation;
+(j) granting or issuing an exemption, authorisation, permit or authority, or making a declaration, under the national regulations;
+(k) granting PBS design approvals and PBS vehicle approvals;
+(l) other matters as referred to in—
+(i) paragraph (a)(ii) of the definition road condition in section 154; or
+(ii) section 156(3)(a)(ii); or
+(iii) section 163(1)(b)(ii)(B); or
+(iv) section 174(1)(b); or
+(v) section 178(1)(b).
+(2) The guidelines, and any instrument amending or repealing the guidelines, must be published in the Commonwealth Gazette.
+(3) The Regulator must ensure a copy of the guidelines as in force from time to time and any document applied, adopted or incorporated by the guidelines is—
+(a) made available for inspection, without charge, during normal business hours at each office of the Regulator; and
+(b) published on the Regulator's website.
+654—Other approvals
+(1) The responsible Ministers may approve—
+(a) a standard for sleeper berths; or
+(b) standards and business rules for—
+(i) advanced fatigue management; or
+(ii) basic fatigue management; or
+(iii) heavy vehicle maintenance management; or
+(iv) heavy vehicle mass management; or
+(c) a class of auditors for the purposes of Chapter 8.
+(2) The approval, and any instrument amending or repealing the approval, must be published in the Commonwealth Gazette.
+(3) The Regulator must ensure a copy of an approval in force under subsection (1), and any document the subject of the approval, is—
+(a) made available for inspection, without charge, during normal business hours at each office of the Regulator; and
+(b) published on the Regulator's website.
+655—How responsible Ministers exercise functions
+(1) The responsible Ministers are to give a direction or approval, or make a recommendation, request or decision, for the purposes of a provision of this Law by a resolution passed by the responsible Ministers in accordance with the procedures decided by the responsible Ministers.
+(2) Subsection (1) applies subject to the following:
+(a) subsection (3);
+(b) a provision of this Law that provides how a direction or approval must be given, or a recommendation, request or decision must be made, by the responsible Ministers, including, for example, a provision that provides that a recommendation by the responsible Ministers must be unanimous.
+(3) The Commonwealth responsible Minister may decide whether or not to participate in the exercise of a function given to the responsible Ministers under this Law and, if the Commonwealth responsible Minister decides not to participate, the following apply in relation to the exercise of the function:
+(a) a reference in this Law to the responsible Ministers is taken to be a reference to a group of Ministers consisting of the responsible Minister for each participating jurisdiction;
+(b) a direction, approval, recommendation, request or decision by the responsible Ministers is taken to be unanimous if the responsible Minister for each participating jurisdiction agrees with the direction, approval, recommendation, request or decision.
+(4) An act or thing done by the responsible Ministers (whether by resolution, instrument or otherwise) does not cease to have effect merely because of a change in the Ministers comprising the responsible Ministers.
+655A—Delegation by responsible Ministers
+(1) The responsible Ministers may delegate to the Board the function of approving a minor amendment of—
+(a) a guideline mentioned in section 653; or
+(b) an approval mentioned in section 654.
+(2) In this section—
+minor amendment, of a guideline or approval, means an amendment of the guideline or approval in a minor respect—
+(a) for a formal or clerical reason; or
+(b) in another way that does not—
+(i) increase a safety risk; or
+(ii) increase a risk of damage to road infrastructure; or
+(iii) cause an adverse effect on public amenity; or
+(iv) make a person liable to a penalty.
+Part 2—National Heavy Vehicle Regulator
+Division 1—Establishment, functions and powers
+656—Establishment of National Heavy Vehicle Regulator
+(1) The National Heavy Vehicle Regulator is established.
+(2) It is the intention of the Parliament of this jurisdiction that this Law as applied by an Act of this jurisdiction, together with this Law as applied by Acts of the other participating jurisdictions, has the effect that the National Heavy Vehicle Regulator is one single national entity, with functions conferred by this Law as so applied.
+(3) The Regulator has power to do acts in or in relation to this jurisdiction in the exercise of a function expressed to be conferred on it by this Law as applied by Acts of each participating jurisdiction.
+(4) The Regulator may exercise its functions in relation to—
+(a) one participating jurisdiction; or
+(b) 2 or more or all participating jurisdictions collectively.
+657—Status of Regulator
+(1) The Regulator—
+(a) is a body corporate with perpetual succession; and
+(b) has a common seal; and
+(c) may sue and be sued in its corporate name.
+(2) The Regulator represents the State.
+658—General powers of Regulator
+(1) The Regulator has all the powers of an individual and, in particular, may—
+(a) enter into contracts; and
+(b) acquire, hold, dispose of, and deal with, real and personal property; and
+(c) do anything necessary or convenient to be done in the exercise of its functions.
+(2) Without limiting subsection (1), the Regulator may enter into an agreement with a State or Territory that makes provision for—
+(a) the State or Territory to provide services to the Regulator that assist the Regulator in exercising its functions; or
+(b) the Regulator to provide services to the State or Territory, including, for example, services relating to—
+(i) collecting vehicle registration duty; and
+(ii) ensuring compliance with third party insurance legislation, including, for example, by collecting third party insurance premiums.
+659—Functions of Regulator
+(1) The Regulator's main function is to achieve the object of this Law.
+(2) Without limiting subsection (1), the Regulator has the following functions:
+(a) to provide the necessary administrative services for the operation of this Law, including, for example—
+(i) services for the national registration of heavy vehicles; and
+(ii) collecting fees, charges and other amounts payable under this Law;
+(b) to monitor compliance with this Law;
+(c) to investigate contraventions or possible contraventions of provisions of this Law, including offences against this Law;
+(d) to bring and conduct proceedings in relation to contraventions or possible contraventions of provisions of this Law, including offences against this Law;
+(e) to bring and conduct, or conduct and defend, appeals from decisions in proceedings mentioned in paragraph (d);
+(f) to conduct reviews of particular decisions made under this Law by the Regulator or authorised officers;
+(g) to conduct and defend appeals from decisions on reviews mentioned in paragraph (f);
+(h) to implement and manage an audit program for heavy vehicle accreditations granted under this Law;
+(i) to monitor and review, and report to the responsible Ministers on, the operation of this Law, including, for example, monitoring, reviewing and reporting on—
+(i) the extent to which the object of this Law or particular aspects of this Law are being achieved; and
+(ii) the extent and nature of noncompliance with this Law; and
+(iii) the outcome of activities for monitoring and investigating compliance with this Law; and
+(iv) the effect of heavy vehicle accreditation on achieving the object of this Law or particular aspects of this Law; and
+(v) the effect of modifications to this Law as it applies in a particular participating jurisdiction on achieving the object of this Law or particular aspects of this Law;
+(j) to identify and promote best practice methods—
+(i) for complying with this Law; or
+(ii) for managing risks to public safety arising from the use of heavy vehicles on roads; or
+(iii) for the productive and efficient road transport of goods or passengers by heavy vehicles;
+(k) to encourage and promote safe and productive business practices of persons involved in the road transport of goods or passengers by heavy vehicles that do not compromise the object of this Law;
+(l) to work collaboratively with other law enforcement agencies to ensure a nationally consistent approach for enforcing contraventions of laws involving heavy vehicles;
+(m) to work collaboratively with road managers, the National Transport Commission and industry bodies to ensure a wide understanding of the object of this Law or particular aspects of this Law, and encourage participation in achieving the object;
+(n) the other functions conferred on it under this Law.
+660—Cooperation with participating jurisdictions and Commonwealth
+(1) The Regulator may exercise any of its functions in cooperation with or with the assistance of a participating jurisdiction or the Commonwealth, including in cooperation with or with the assistance of a government agency of a participating jurisdiction or of the Commonwealth.
+(2) In particular, the Regulator may—
+(a) ask a government agency of a participating jurisdiction or the Commonwealth for information that the Regulator requires to exercise its functions under this Law; and
+(b) use the information provided to exercise its functions under this Law.
+(3) A government agency that receives a request for information under this section from the Regulator is authorised to give the information to the Regulator.
+661—Delegation
+(1) The Regulator may delegate any of its functions to—
+(a) the chief executive of an entity or a department of government of a participating jurisdiction or the Commonwealth; or
+(b) the chief executive officer or another member of the staff of the Regulator; or
+(c) a person engaged as a contractor by the Regulator; or
+(d) any other person whom the Regulator considers is appropriately qualified to exercise the function.
+(2) A delegation of a function may permit the subdelegation of the function to an appropriately qualified person.
+Note—
+See section 29 of Schedule 1 which provides for matters relating to the delegation and subdelegation of functions.
+Division 2—Governing board of Regulator
+Subdivision 1—Establishment and functions
+662—Establishment of National Heavy Vehicle Regulator Board
+(1) The Regulator has a governing board known as the National Heavy Vehicle Regulator Board.
+(2) It is the intention of the Parliament of this jurisdiction that this Law as applied by an Act of this jurisdiction, together with this Law as applied by Acts of the other participating jurisdictions, has the effect that the National Heavy Vehicle Regulator Board is one single national entity, with functions conferred by this Law as so applied.
+(3) The Board has power to do acts in or in relation to this jurisdiction in the exercise of a function expressed to be conferred on it by this Law as applied by Acts of each participating jurisdiction.
+(4) The Board may exercise its functions in relation to—
+(a) one participating jurisdiction; or
+(b) 2 or more or all participating jurisdictions collectively.
+663—Membership of Board
+(1) The Board consists of 5 members appointed by the Queensland Minister on the unanimous recommendation of the responsible Ministers.
+(2) The members of the Board must consist of—
+(a) at least 1 member who has expertise in transportation policy; and
+(b) at least 1 other member who has expertise in economics, law, accounting, social policy or education and training; and
+(c) at least 1 other member who has experience in managing risks to public safety arising from the use of vehicles on roads; and
+(d) at least 1 other member who has financial management skills, business skills, administrative expertise or other skills or experience the responsible Ministers believe is appropriate.
+(3) Of the members of the Board, one is to be appointed by the Queensland Minister, on the unanimous recommendation of the responsible Ministers, as the Chairperson of the Board and another as the Deputy Chairperson.
+664—Functions of Board
+(1) The affairs of the Regulator are to be controlled by the Board.
+(2) Without limiting subsection (1), the Board's functions include the following:
+(a) subject to any directions of the responsible Ministers, deciding the policies of the Regulator;
+(b) ensuring the Regulator exercises its functions in a proper, effective and efficient way.
+(3) All acts and things done in the name of, or on behalf of, the Regulator by or with the authority of the Board are taken to have been done by the Regulator.
+(4) The Board has any other functions given to the Board under this Law.
+Subdivision 2—Members
+665—Terms of office of members
+(1) Subject to this Division, a member of the Board holds office for the period, not more than 3 years, specified in the member's instrument of appointment.
+(2) If otherwise qualified, a member of the Board is eligible for reappointment.
+666—Remuneration
+A member of the Board is entitled to be paid the remuneration and allowances decided by the responsible Ministers from time to time.
+667—Vacancy in office of member
+(1) The office of a member of the Board becomes vacant if the member—
+(a) completes a term of office; or
+(b) resigns the office by signed notice given to the responsible Ministers; or
+(c) has been found guilty of an offence, whether in a participating jurisdiction or elsewhere, that the responsible Ministers consider renders the member unfit to continue to hold the office of member; or
+(d) becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with the member's creditors or makes an assignment of the member's remuneration for their benefit; or
+(e) is absent, without leave first being granted by the relevant entity, from 3 or more consecutive meetings of the Board of which reasonable notice has been given to the member personally or by post; or
+(f) is removed from office by the Queensland Minister under this section; or
+(g) dies.
+(2) The Queensland Minister may remove a member of the Board from office if the responsible Ministers recommend the removal of the member on the basis that the member has engaged in misconduct or has failed to or is unable to properly exercise the member's functions as a member of the Board.
+(3) In this section—
+relevant entity means—
+(a) for a member who is the Chairperson of the Board—the responsible Ministers; or
+(b) for another member—the Chairperson of the Board.
+668—Board member to give responsible Ministers notice of certain events
+A member of the Board must, within 7 days of either of the following events occurring, give the responsible Ministers notice of the event:
+(a) the member is convicted of an offence;
+(b) the member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with the member's creditors or makes an assignment of the member's remuneration for their benefit.
+669—Extension of term of office during vacancy in membership
+(1) If the office of a member of the Board becomes vacant because the member has completed the member's term of office, the member is taken to continue to be a member during that vacancy until the date on which the vacancy is filled, whether by re‑appointment of the member or appointment of a successor to the member.
+(2) However, this section ceases to apply to the member if—
+(a) the member resigns the member's office by signed notice given to the responsible Ministers; or
+(b) the responsible Ministers decide the services of the member are no longer required.
+(3) The maximum period for which a member of the Board is taken to continue to be a member under this section after completion of the member's term of office is 6 months.
+670—Members to act in public interest
+A member of the Board is to act impartially and in the public interest in the exercise of the member's functions as a member.
+671—Disclosure of conflict of interest
+(1) If a member of the Board has a direct or indirect pecuniary or other interest that conflicts or may conflict with the exercise of the member's functions as a member, the member must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the member's interest and the conflict to—
+(a) for a member who is the Chairperson of the Board—the responsible Ministers; or
+(b) for another member—the Chairperson of the Board.
+(2) If a disclosure is made under subsection (1), the entity to whom the disclosure is made must notify the Board of the disclosure.
+(3) Particulars of any disclosure made under subsection (1) must be recorded by the Board in a register of interests kept for the purpose.
+(4) After a member of the Board has disclosed the nature of an interest and conflict or potential conflict under subsection (1), the member must not be present during any deliberation of the Board with respect to any matter that is, or may be, affected by the conflict, or take part in any decision of the Board with respect to any matter that is, or may be, affected by the conflict, unless—
+(a) for a member who is the Chairperson of the Board, the responsible Ministers otherwise decide; or
+(b) for another member, the Board otherwise decides.
+(5) For the purposes of the making of a decision by the Board under subsection (4) in relation to a matter, a member of the Board who has a direct or indirect pecuniary or other interest that conflicts or may conflict with the exercise of the member's functions as a member with respect to the matter must not—
+(a) be present during any deliberation of the Board for the purpose of making the decision; or
+(b) take part in the making of the decision by the Board.
+(6) A contravention of this section does not invalidate any decision of the Board but if the Board becomes aware a member of the Board contravened this section, the Board must reconsider any decision made by the Board in which the member took part in contravention of this section.
+Subdivision 3—Meetings
+672—General procedure
+(1) The procedure for the calling of meetings of the Board and for the conduct of business at the meetings is, subject to this Law, to be decided by the Board.
+(2) Without limiting subsection (1), the Chairperson of the Board—
+(a) may at any time call a meeting of the Board; and
+(b) must call a meeting if asked, in writing, by at least 3 other members of the Board.
+673—Quorum
+The quorum for a meeting of the Board is a majority of its members.
+674—Chief executive officer may attend meetings
+(1) The chief executive officer of the Regulator may attend meetings of the Board and participate in discussions of the Board.
+(2) However, the chief executive officer—
+(a) must, as soon as possible after becoming aware that the chief executive officer has a direct personal interest in a matter to be considered by the Board, disclose the interest to the Chairperson of the Board; and
+(b) is not entitled to be present during the consideration by the Board of any matter in which the chief executive officer has a direct personal interest; and
+(c) is not entitled to vote at a meeting.
+675—Presiding member
+(1) The Chairperson of the Board is to preside at a meeting of the Board.
+(2) However, in the absence of the Chairperson of the Board the following person is to preside at a meeting of the Board:
+(a) if the Deputy Chairperson of the Board is present at the meeting, the Deputy Chairperson;
+(b) otherwise, a person elected by the members of the Board who are present at the meeting.
+(3) The presiding member has a deliberative vote and, in the event of an equality of votes, has a second or casting vote.
+676—Voting
+A decision supported by a majority of the votes cast at a meeting of the Board at which a quorum is present is the decision of the Board.
+677—Minutes
+The Chairperson or other member of the Board presiding at a meeting of the Board must ensure minutes of the meeting are taken.
+678—First meeting
+The Chairperson of the Board may call the first meeting of the Board in any way the Chairperson thinks fit.
+679—Defects in appointment of members
+A decision of the Board is not invalidated by any defect or irregularity in the appointment of any member of the Board.
+Subdivision 4—Committees
+680—Committees
+(1) The Board may establish committees to assist the Board in exercising its functions.
+(2) The members of a committee need not be members of the Board.
+(3) A member of a committee is appointed on the terms and conditions the Board considers appropriate, including terms about remuneration.
+(4) The procedure for the calling of meetings of a committee and for the conduct of business at the meetings may be decided by the Board or, subject to any decision of the Board, by the committee.
+Division 3—Chief executive officer
+681—Chief executive officer
+(1) There is to be a chief executive officer of the Regulator.
+(2) The chief executive officer is to be appointed by the Board.
+(3) The chief executive officer is to be appointed for a period, not more than 5 years, specified in the officer's instrument of appointment.
+(4) The chief executive officer is eligible for re‑appointment.
+(5) The chief executive officer is taken, while holding that office, to be a member of the staff of the Regulator.
+682—Functions of chief executive officer
+The chief executive officer of the Regulator—
+(a) is responsible for the day‑to‑day management of the Regulator; and
+(b) has any other functions conferred on the chief executive officer by the Board.
+683—Delegation by chief executive officer
+The chief executive officer of the Regulator may delegate any of the functions conferred on the officer, other than this power of delegation, to—
+(a) an appropriately qualified member of the staff of the Regulator; or
+(b) the chief executive of an entity or a department of government of a participating jurisdiction.
+Division 4—Staff
+684—Staff
+(1) The Regulator may, for the purpose of exercising its functions, employ staff.
+(2) The staff of the Regulator are to be employed on the terms and conditions decided by the Regulator from time to time.
+(3) Subsection (2) is subject to any relevant industrial award or agreement that applies to the staff.
+685—Staff seconded to Regulator
+The Regulator may make arrangements for the services of any of the following persons to be made available to the Regulator in connection with the exercise of its functions:
+(a) a member of the staff of a government agency of the Commonwealth, a State or a Territory;
+(b) a member of the staff of a local government authority.
+686—Consultants and contractors
+(1) The Regulator may engage persons with suitable qualifications and experience as consultants or contractors.
+(2) The terms and conditions of engagement of consultants or contractors are as decided by the Regulator from time to time.
+Part 3—Miscellaneous
+Division 1—Finance
+687—National Heavy Vehicle Regulator Fund
+(1) The National Heavy Vehicle Regulator Fund is established.
+(2) The Fund is to be administered by the Regulator.
+(3) The Regulator may establish accounts with any financial institution for money in the Fund.
+(4) The Fund does not form part of the consolidated fund or consolidated account (however described) of a participating jurisdiction or the Commonwealth.
+688—Payments into Fund
+(1) There is payable into the Fund (except as provided by subsection (2))—
+(a) all money appropriated by the Parliament of any participating jurisdiction or the Commonwealth for the purposes of the Fund; and
+(b) all fees, charges, costs and expenses paid to or recovered by the Regulator under this Law; and
+(c) the proceeds of the investment of money in the Fund; and
+(d) all grants, gifts and donations made to the Regulator, but subject to any trusts declared in relation to the grants, gifts or donations; and
+(e) all money directed or authorised to be paid into the Fund under this Law, any law of a participating jurisdiction or any law of the Commonwealth; and
+(f) any other money or property received by the Regulator in connection with the exercise of its functions; and
+(g) any money paid to the Regulator for the provision of services to a State or Territory under an agreement mentioned in section 658(2)(b).
+(2) The following money is not payable into the Fund:
+(a) the road use component of the charges payable for the registration of heavy vehicles;
+(b) money that is received by the Regulator under an agreement mentioned in section 658(2)(b) and that is payable to another entity under such an agreement.
+Note—
+Section 692 deals with the money mentioned in subsection (2).
+(3) In this section—
+road use component, of the charges payable for the registration of heavy vehicles, means those charges other than so much of them as is, or is of a kind, prescribed by the national regulations as the regulatory component of those charges.
+689—Payments out of Fund
+Payments may be made from the Fund for the purpose of—
+(a) paying any costs or expenses, or discharging any liabilities, incurred in the administration or enforcement of this Law, including, for example, payments made to a State or Territory for the provision of services under an agreement mentioned in section 658(2)(a); and
+(b) paying any money directed or authorised to be paid out of the Fund under this Law; and
+(c) making any other payments recommended by the Regulator and approved by the responsible Ministers.
+690—Investment by Regulator
+(1) The Regulator must invest its funds in a way that is secure and provides a low risk so that the Regulator's exposure to the loss of funds is minimised.
+(2) The Regulator must keep records that show it has invested in a way that complies with subsection (1).
+691—Financial management duties of Regulator
+The Regulator must—
+(a) ensure its operations are carried out efficiently, effectively and economically; and
+(b) keep proper books and records in relation to the Fund and other money received by the Regulator; and
+(c) ensure expenditure is made from the Fund for lawful purposes only and, as far as possible, that reasonable value is obtained for money expended from the Fund; and
+(d) ensure its procedures, including internal control procedures, afford adequate safeguards with respect to—
+(i) the correctness, regularity and propriety of payments made from the Fund; and
+(ii) receiving and accounting for payments made to the Fund; and
+(iii) prevention of fraud or mistake; and
+(e) take any action necessary to ensure the preparation of accurate financial statements in accordance with Australian Accounting Standards for inclusion in its annual report; and
+(f) take any action necessary to facilitate the audit of the financial statements under this Law; and
+(g) arrange for any further audit by a qualified person of the books and records kept by the Regulator if directed to do so by the responsible Ministers.
+692—Amounts payable to other entities
+(1) The Regulator may establish accounts with any financial institution for money referred to in section 688(2), pending payment of the money to States, Territories or other entities entitled to receive it under—
+(a) applicable agreements mentioned in section 658(2)(b); or
+(b) arrangements approved by the responsible Ministers, to the extent applicable agreements do not make provision for payment.
+(2) Money in an account established under this section does not form part of the consolidated fund or consolidated account (however described) of a participating jurisdiction or the Commonwealth.
+Division 2—Reporting and planning arrangements
+693—Annual report
+(1) The Regulator must, within 3 months after the end of each financial year, give the responsible Ministers an annual report for the financial year.
+(2) The annual report must—
+(a) include for the period to which the report relates—
+(i) the financial statements that have been audited by an auditor decided by the responsible Ministers; and
+(ii) a statement of actual performance measured against the National Performance Measures (Standards and Indicators) outlined in the current corporate plan under section 695; and
+(iii) a statement of exceptions where the National Performance Measures (Standards and Indicators) were not achieved, including a statement of issues that impacted on the achievement of the measures; and
+(iv) a statement of trend analysis relating to performance measured against the National Performance Measures (Standards and Indicators); and
+(v) a statement of the outcome of consultation strategies and activities, including a summary of industry comments; and
+(vi) a statement of the achievements attained in implementing, and the challenges encountered in implementing, the Regulator's objectives stated in the current corporate plan; and
+(vii) a statement of the achievements attained in the exercise of the Regulator's functions; and
+(viii) a statement of arrangements in place to secure collaboration with State and Territory agencies and the effectiveness of those arrangements; and
+(ix) a statement indicating the nature of any reports requested by the responsible Ministers under section 694; and
+(x) other matters required by the national regulations; and
+(b) be prepared in the way required by the national regulations.
+(3) Without limiting subsection (2)(b), the national regulations may provide—
+(a) that the financial statements are to be prepared in accordance with Australian Accounting Standards; and
+(b) for the auditing of the financial statements.
+(4) The responsible Ministers are to make arrangements for the tabling of the Regulator's annual report in each House of the Parliament of each participating jurisdiction and of the Commonwealth.
+(5) As soon as practicable after the annual report has been tabled in at least one House of the Parliament of a participating jurisdiction, the Regulator must publish a copy of the report on the Regulator's website.
+694—Other reports
+The responsible Ministers may, by written direction given to the Regulator, require the Regulator to give to the responsible Ministers, within the period stated in the direction, a report about any matter that relates to the exercise by the Regulator of its functions.
+695—Corporate plans
+(1) The Regulator must, on an annual basis, prepare and give to the responsible Ministers for approval by the Ministers a corporate plan for each 3 year period.
+(2) The corporate plan must—
+(a) outline the Regulator's objectives for the 3 year period; and
+(b) state how the Regulator's objectives will be implemented during the 3 year period; and
+(c) contain a statement outlining the National Performance Measures (Standards and Indicators), determined by the Regulator under subsection (4), for the 3 year period, including (but not limited to) annual measures for each of the 3 years specifying—
+(i) the standards expected to be complied with for each year; and
+(ii) the performance indicators proposed to be used for measuring the Regulator's progress in implementing the Regulator's objectives during the year; and
+(d) identify any challenges and risks that the Regulator reasonably believes may have a significant impact, during the 3 year period, on—
+(i) the Regulator's ability to implement the Regulator's objectives; and
+(ii) the achievement of the object of this Law; and
+(iii) the exercise of the Regulator's functions; and
+(e) include the Regulator's proposed budget for each financial year commencing within the 3 year period.
+(3) The Regulator must, by notice given to the responsible Ministers, advise the Ministers if either of the following occurs:
+(a) the Regulator makes a significant amendment to its corporate plan;
+(b) the Regulator becomes aware of an issue that will have a significant impact on its ability to implement the objectives stated in the corporate plan.
+(4) The Regulator must publish documentation for National Performance Measures on the Regulator's website and determine National Performance Measures (Standards and Indicators) in accordance with the documentation.
+Division 3—Oversight of the Regulator and Board
+696—Application of particular Queensland Acts to this Law
+(1) The following Acts, as in force from time to time, apply for the purposes of this Law:
+(a) the Information Privacy Act 2009 of Queensland;
+(b) the Public Records Act 2002 of Queensland;
+(c) the Right to Information Act 2009 of Queensland.
+(2) However, the Acts mentioned in subsection (1) do not apply for the purposes of this Law to the extent that—
+(a) functions under this Law are being exercised by a State or Territory entity; or
+(b) without limiting paragraph (a), functions are being exercised by a State or Territory entity under an agreement mentioned in section 658(2)(a) or under a delegation under this Law.
+(3) The national regulations may modify an Act mentioned in subsection (1) for the purposes of this Law.
+(4) Without limiting subsection (3), the national regulations may—
+(a) provide that the Act applies as if a provision of the Act specified in the regulations were omitted; or
+(b) provide that the Act applies as if an amendment to the Act made by a law of Queensland, and specified in the regulations, had not taken effect; or
+(c) confer a function on a State or Territory entity; or
+(d) confer jurisdiction on a tribunal or court of a participating jurisdiction.
+(5) An Act mentioned in subsection (1) applies for the purposes of this Law as if the Minister responsible for a government agency were the responsible Ministers in relation to a body established by this Law.
+(6) Subsection (5) applies to an Act mentioned in subsection (1) with the modifications (if any) mentioned in subsection (3), but does not apply in relation to any provisions of that Act specified in the national regulations for the purposes of this subsection.
+(7) In this section—
+State or Territory entity does not include the Regulator.
+Division 4—Provisions relating to persons exercising functions under Law
+697—General duties of persons exercising functions under this Law
+(1) A person exercising functions under this Law must, when exercising the functions, act honestly and with integrity.
+(2) A person exercising functions under this Law must exercise the person's functions under this Law—
+(a) in good faith; and
+(b) with a reasonable degree of care, diligence and skill.
+(3) A person exercising functions under this Law must not make improper use of the person's position or of information that comes to the person's knowledge in the course of, or because of, the person's exercise of the functions—
+(a) to gain an advantage for himself or herself or another person; or
+(b) to cause a detriment to the implementation or operation of this Law.
+Maximum penalty for the purposes of subsection (3): $10 000.
+698—Protection from personal liability for persons exercising Regulator's or Board's functions under this Law
+(1) A person who is or was a protected person does not incur civil liability personally for anything done or omitted to be done in good faith—
+(a) in the exercise of a function of the Regulator or the Board under this Law; or
+(b) in the reasonable belief that the act or omission was the exercise of a function of the Regulator or the Board under this Law.
+(2) Any liability resulting from an act or omission that would, but for the purposes of subsection (1), attach to a protected person attaches instead to the Regulator.
+(3) In this section—
+protected person means an individual who is any of the following:
+(a) a member of the Board;
+(b) a member of a committee of the Board;
+(c) a member of the staff of the Regulator;
+(d) an authorised officer;
+(e) a person to whom the Regulator has delegated any of its functions or to whom functions delegated by the Regulator have been subdelegated;
+(f) a person acting under the direction or authority of a person mentioned in paragraphs (a) to (e), including, for example, a person helping an authorised officer or an assistant mentioned in section 518, 519 or 523;
+(g) a person—
+(i) who constitutes a body corporate that exercises functions of the Regulator under this Law; and
+(ii) who is, or is of a class, prescribed by the national regulations;
+(h) any other person exercising functions of the Regulator under this Law.
+Chapter 13—General
+Part 1—General offences
+Division 1—Offence about discrimination or victimisation
+699—Discrimination against or victimisation of employees
+(1) An employer must not dismiss an employee, or otherwise prejudice an employee in the employee's employment, for the reason that the employee—
+(a) has helped or given information to a public authority or law enforcement agency in relation to a contravention or alleged contravention of this Law; or
+(b) has made a complaint about a contravention or alleged contravention of this Law to an employer, former employer, fellow employee, former fellow employee, union or public authority or law enforcement agency.
+Examples of prejudicial conduct in relation to an employee's employment—
+• demotion of the employee
+• unwarranted transfer of the employee
+• reducing the employee's terms of employment
+Maximum penalty: $10 000.
+(2) An employer must not fail to offer employment to a prospective employee, or in offering employment to a prospective employee treat the prospective employee less favourably than another prospective employee would be treated in similar circumstances, for the reason that the prospective employee—
+(a) has helped or given information to a public authority or law enforcement agency in relation to a contravention or alleged contravention of this Law; or
+(b) has made a complaint about a contravention or alleged contravention of this Law to an employer, former employer, fellow employee, former fellow employee, union or public authority or law enforcement agency.
+Maximum penalty: $10 000.
+(3) In a proceeding for an offence against subsection (1) or (2), if all the facts constituting the offence other than the reason for the defendant's action are proved, the defendant has the onus of proving that the defendant's action was not for the reason alleged in the charge for the offence.
+(4) In this section—
+employee includes an individual who works under a contract for services;
+employer, of a prospective employee, includes a prospective employer of the employee.
+700—Order for damages or reinstatement
+(1) This section applies if a court convicts an employer of an offence against section 699 in relation to an employee or prospective employee.
+(2) In addition to imposing a penalty, the court may make 1 or more of the following orders:
+(a) an order that the employer pay, within a stated period, the employee or prospective employee the damages the court considers appropriate to compensate the employee or prospective employee;
+(b) for an employee—an order that the employee be reinstated or re‑employed in the employee's former position or, if that position is not available, in a similar position;
+(c) for a prospective employee—an order that the prospective employee be employed in the position for which the prospective employee applied or, if that position is not available, in a similar position.
+(3) An order for damages under subsection (2)(a)—
+(a) cannot be for an amount exceeding the monetary jurisdictional limit of the court in civil proceedings; and
+(b) is taken to be, and is enforceable as, a judgment of the court sitting in civil proceedings.
+(4) A person against whom an order is made under subsection (2)(b) or (c) must comply with the order.
+Maximum penalty: $10 000.
+(5) In this section—
+employee includes an individual who works under a contract for services;
+employer, of a prospective employee, includes a prospective employer of the employee.
+Division 2—Offences about false or misleading information
+701—False or misleading statements
+(1) A person commits an offence if the person makes a statement to an official that the person knows is false or misleading in a material particular.
+Maximum penalty: $10 000.
+(2) A person commits an offence if the person—
+(a) makes a statement to an official that is false or misleading in a material particular; and
+(b) is reckless as to whether the statement is false or misleading in a material particular.
+Maximum penalty: $8 000.
+(3) Subsections (1) and (2) apply even if the statement was not given in response to, or in purported compliance with, a direction or requirement under this Law.
+(4) In a proceeding for an offence against subsection (1) or (2), it is enough for a charge to state that the statement made was 'false or misleading', without specifying whether it was false or whether it was misleading.
+(5) In this section—
+official includes—
+(a) TCA exercising a function under Chapter 7; and
+(b) a person exercising a function under this Law under the direction or authority of an official.
+702—False or misleading documents
+(1) A person commits an offence if the person gives an official a document containing information the person knows is false or misleading in a material particular.
+Maximum penalty: $10 000.
+(2) Subsection (1) does not apply if the person, when giving the document—
+(a) tells the official how information contained in the document is false or misleading; and
+(b) if the person has the correct information—gives the correct information.
+(3) A person commits an offence if the person—
+(a) gives an official a document containing information that is false or misleading in a material particular; and
+(b) is reckless as to whether information contained in the document is false or misleading in a material particular.
+Maximum penalty: $8 000.
+(4) Subsections (1) and (3) apply even if the document was not given in response to, or in purported compliance with, a direction or requirement under this Law.
+(5) In a proceeding for an offence against subsection (1) or (3), it is enough for a charge to state that the information was 'false or misleading', without specifying whether it was false or whether it was misleading.
+(6) In this section—
+official includes—
+(a) TCA exercising a function under Chapter 7; and
+(b) a person exercising a function under this Law under the direction or authority of an official.
+703—False or misleading information given by responsible person to another responsible person
+(1) A responsible person for a heavy vehicle (the information giver) must not give another responsible person for a heavy vehicle (the affected person) information the information giver knows, or ought reasonably to know, is false or misleading in a material particular.
+Maximum penalty: $10 000.
+Note—
+See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+(2) A responsible person for a heavy vehicle (also the information giver) must not give another responsible person for a heavy vehicle (the affected person) information that is false or misleading in a material particular if the information giver does so recklessly as to whether the information is false or misleading in the material particular.
+Maximum penalty: $8 000.
+(3) Subsections (1) and (2) do not apply if the affected person knew, or ought reasonably to have known, that the information was false or misleading in the material particular.
+(4) Subsection (1) or (2) does not apply if the information giver gives the information in writing and, when giving the information—
+(a) tells the affected person how it is false or misleading; and
+(b) if the information giver has the correct information—gives the correct information in writing.
+(5) Subsection (1) or (2) applies even if the information was not given in response to, or in purported compliance with, a direction or requirement under this Law.
+(6) In a proceeding for an offence against subsection (1) or (2)—
+(a) it is enough for a charge to state that the statement made was 'false or misleading', without specifying whether it was false or whether it was misleading; and
+(b) it is enough for a charge to state that the information given was false or misleading to the information giver's knowledge, without specifying whether the information giver knew or ought reasonably to have known the information was false or misleading.
+(7) In this section—
+information means information in any form, whether or not in writing;
+material particular means a particular relating to an element of an offence against this Law that is or could be committed by a person mentioned in paragraph (a) or (b) if the person relies, or were to rely, on the particular—
+(a) the responsible person for a heavy vehicle to whom the information is given;
+(b) any other responsible person for a heavy vehicle who, at any time, is given the false or misleading information.
+704—Offence to falsely represent that heavy vehicle authority is held etc
+(1) A person must not represent—
+(a) that the person has been granted a heavy vehicle authority the person has not been granted; or
+(b) that a heavy vehicle authority has been granted in relation to a thing for which it has not been granted; or
+(c) that the person is operating under a heavy vehicle authority that the person is not entitled to operate under; or
+(d) that a thing is operating under a heavy vehicle authority that the thing is not authorised to operate under.
+Maximum penalty: $10 000.
+(2) A person must not represent that the person or a thing is operating under a heavy vehicle authority if the authority is no longer in force.
+Maximum penalty: $10 000.
+(3) A person must not possess a document that falsely purports to be—
+(a) an accreditation certificate for a heavy vehicle accreditation; or
+(b) a document mentioned in section 468(1)(b) or (c); or
+(c) a document evidencing the grant of an electronic recording system approval, exemption, authorisation, permit or other authority under this Law; or
+Examples—
+a Commonwealth Gazette notice, a permit
+(d) a copy of a document mentioned in paragraph (a), (b) or (c).
+Maximum penalty: $10 000.
+(4) In this section—
+heavy vehicle authority means—
+(a) a heavy vehicle accreditation; or
+(b) an electronic recording system approval, exemption, authorisation, permit or other authority under this Law.
+Part 2—Industry codes of practice
+705—Guidelines for industry codes of practice
+(1) The Regulator may make guidelines about the preparation and content of an industry code of practice that may be registered under this Law.
+(2) Without limiting subsection (1), the guidelines may provide that an industry code of practice registered under this Law must provide for the review of the code of practice.
+(3) The Regulator must—
+(a) keep a copy of the guidelines available for inspection by the public, during office hours on business days, at the Regulator's head office; and
+(b) publish a copy of the guidelines on the Regulator's website.
+706—Registration of industry codes of practice
+(1) The Regulator may register an industry code of practice for the purposes of this Law prepared in accordance with guidelines in force under section 705.
+(2) The registration may be subject to the following conditions imposed by the Regulator:
+(a) that the industry code of practice must be reviewed after a stated period;
+(b) that a stated person, or a person of a stated class, must be appointed to maintain the industry code of practice and ensure it is updated following changes to best practice methods for the industry to which it relates;
+(c) that the industry code of practice must be updated following changes to the guidelines for the preparation and content of the industry code of practice in force under section 705.
+(3) The registration may be subject to other conditions the Regulator considers appropriate.
+(4) Subsection (5) applies if—
+(a) a condition applying to the registration of an industry code of practice is contravened; or
+(b) the guidelines in force under section 705 about the preparation and content of an industry code of practice are changed and a registered industry code of practice does not comply with the guidelines as amended.
+(5) The Regulator may—
+(a) amend the conditions of the registration, including by adding new conditions; or
+Example of a condition for the purposes of paragraph (a)—
+that the registered industry code of practice be amended in a stated way to reflect a change to the guidelines for the preparation and content of the code of practice in force under section 705
+(b) cancel the registration.
+(6) Conditions mentioned in subsection (2) can be amended under subsection (5) so long as the amended conditions conform with subsection (2), but cannot otherwise be amended.
+(7) The Regulator incurs no liability for loss or damage suffered by a person because the person relied on a registered industry code of practice.
+Part 3—Legal proceedings
+Division 1—Proceedings
+707—Proceedings for offences
+(1) A proceeding for an offence against this Law is to be by way of a summary proceeding before a court of summary jurisdiction.
+(2) The proceeding must start within the later of the following periods to end:
+(a) 2 years after the commission of the offence;
+(b) 1 year after the offence comes to the complainant's knowledge, but within 3 years after the commission of the offence.
+(3) A statement in a complaint for an offence against this Law that the matter of the complaint came to the knowledge of the complainant on a stated day is evidence of when the matter came to the complainant's knowledge.
+(4) In this section—
+complaint means a complaint, notice, charge or other process by which a proceeding for an offence is started.
+Division 2—Evidence
+708—Proof of appointments unnecessary
+For the purposes of this Law, it is not necessary to prove the appointment of the following persons:
+(a) an official;
+(b) a police commissioner.
+709—Proof of signatures unnecessary
+For the purposes of this Law, a signature purporting to be the signature of 1 of the following persons is evidence of the signature it purports to be:
+(a) an official;
+(b) a police commissioner.
+710—Averments
+(1) In a proceeding for an offence against this Law, a statement in the complaint for the offence that, at a stated time or during a stated period—
+(a) a stated vehicle or a stated combination was a heavy vehicle; or
+(b) a stated vehicle or a stated combination was of a stated category of heavy vehicle; or
+(c) a stated person was the registered operator of a stated heavy vehicle; or
+(d) a stated person held a permit for a mass or dimension authority, a heavy vehicle accreditation or another authority under this Law; or
+(e) a stated location was, or was a part of, a road or road‑related area; or
+(f) a stated location was, under a stated provision of this Law or another stated law, subject to a stated prohibition, restriction or other requirement about the use of heavy vehicles or stated categories of heavy vehicles,
+is evidence of the matter.
+(2) In a proceeding for an offence against this Law, a statement or allegation in the complaint for the offence that the act or omission constituting the alleged offence was done or made in a stated place, at a stated time, on a stated date or during a stated period, is evidence of the matter.
+(3) In this section—
+complaint means a complaint, notice, charge or other process by which a proceeding for an offence is started.
+711—Evidence by certificate by Regulator generally
+(1) A certificate purporting to be issued by the Regulator and stating that, at a stated time or during a stated period—
+(a) a stated vehicle was or was not registered under this Law; or
+(b) a stated vehicle was or was not registered under this Law on the basis it is a heavy vehicle; or
+(c) a stated vehicle registered under this Law was or was not registered as a heavy vehicle of a stated category; or
+(d) a stated person was or was not the registered operator of a stated vehicle registered under this Law; or
+(e) a stated person held or did not hold a heavy vehicle accreditation granted under this Law; or
+(f) a stated exemption or authorisation under this Law applied or did not apply to a stated person or a stated heavy vehicle; or
+(g) a stated person is the holder of a stated permit or other authority under this Law; or
+(h) a stated registration, heavy vehicle accreditation, exemption, authorisation, permit or other authority under this Law was or was not amended, suspended or cancelled under this Law; or
+(i) a stated penalty, fee, charge or other amount was or was not, or is or is not, payable under this Law by a stated person; or
+(j) a stated fee, charge or other amount payable under this Law was or was not paid to the Regulator; or
+(k) a stated person has or has not notified the Regulator of any, or a stated, change of the person's address; or
+(l) a stated identification card (however called) was issued by the Regulator to a stated person and was or was not current; or
+(m) a stated authorised officer (other than an authorised officer who is a police officer) was authorised to exercise a stated power under this Law and—
+(i) was not restricted in the exercise of the power by the officer's conditions of appointment or a direction of the Regulator; or
+(ii) was not restricted in a stated way in the exercise of the power by the officer's conditions of appointment or a direction of the Regulator; or
+(n) a stated industry code of practice was or was not registered under section 706; or
+(o) a stated road or road‑related area, or a stated part of a road or road‑related area, was in an area or on a route declared under a stated provision of this Law or the national regulations; or
+(p) a stated heavy vehicle, or a stated component of a stated heavy vehicle, was weighed by or in the presence of a stated authorised officer on a stated weighbridge or weighing facility or by the use of a stated weighing device, and that a stated mass was the mass of the vehicle or component; or
+(q) a stated mathematical or statistical procedure was carried out in relation to stated information generated, recorded, stored, displayed, analysed, transmitted or reported by an approved intelligent transport system and the results of the procedure being carried out;
+is evidence of the matter.
+(2) A procedure specified in a certificate under subsection (1)(q) is presumed, unless the contrary is proved—
+(a) to be valid and reliable for the purpose for which it was used; and
+(b) to have been carried out correctly.
+712—Evidence by certificate by road authority
+A certificate purporting to be issued by a road authority and stating that, at a stated time or during a stated period—
+(a) a stated vehicle was or was not registered or licensed under a law administered by the authority; or
+(b) a stated person was the person in whose name a stated vehicle was registered or licensed under a law administered by the authority; or
+(c) a stated vehicle was not registered or licensed under a law administered by the authority in a stated person's name; or
+(d) a stated location—
+(i) was, or was part of, a road or road‑related area; or
+(ii) was not a road or road‑related area or part of a road or road‑related area; or
+(e) a stated location was or was not, under a stated law of a stated participating jurisdiction, subject to a stated prohibition, restriction or other requirement about the use of heavy vehicles or stated categories of heavy vehicles,
+is evidence of the matter.
+713—Evidence by certificate by Regulator about matters stated in or worked out from records
+(1) A certificate purporting to be issued by the Regulator and stating any of the following matters is evidence of the matter:
+(a) a stated matter appears in a stated record kept by the Regulator for the administration or enforcement of this Law;
+(b) a stated matter appears in a stated record accessed by the Regulator for the administration or enforcement of this Law.
+(2) A certificate purporting to be issued by the Regulator and stating that a matter that has been worked out from either of the following is evidence of the matter:
+(a) a stated record kept by the Regulator for the administration or enforcement of this Law;
+(b) a stated record accessed by the Regulator for the administration or enforcement of this Law.
+(3) This section does not limit section 711.
+714—Evidence by certificate by authorised officer about instruments
+(1) A certificate purporting to be issued by an authorised officer and stating that, on a stated day or at a stated time on a stated day, a stated instrument—
+(a) was in a proper condition; or
+(b) had a stated level of accuracy,
+is evidence of those matters on the stated day or at the stated time.
+(2) Evidence of the condition of the instrument, or the way in which it was operated, is not required unless evidence that the instrument was not in proper condition or was not properly operated has been given.
+(3) A defendant in a proceeding for an offence against this Law who intends to challenge the condition of an instrument, or the way in which it was operated, must give the complainant notice of the intention to challenge.
+(4) The notice must be—
+(a) signed by the defendant; and
+(b) given at least 14 days before the day fixed for the hearing of the charge.
+(5) In this section—
+instrument means—
+(a) a weighing device; or
+(b) an intelligent transport system.
+715—Challenging evidence by certificate
+(1) A defendant in a proceeding for an offence against this Law who intends to challenge a matter stated in a certificate mentioned in section 711, 712, 713 or 714(1) must give the complainant notice of the intention to challenge.
+(2) The notice must be—
+(a) signed by the defendant; and
+(b) given at least 14 days before the day fixed for the hearing of the charge.
+(3) If the matter intended to be challenged is the accuracy of a measurement, an analysis or a reading from a device, the notice must state—
+(a) the basis on which the defendant intends to challenge the accuracy of the measurement, analysis or reading; and
+(b) the measurement, analysis or reading the defendant considers to be the correct measurement, analysis or reading.
+(4) A defendant in a proceeding for an offence against this Law cannot challenge a matter stated in a certificate mentioned in section 711, 712, 713 or 714(1) unless—
+(a) the defendant has complied with this section; or
+(b) the court gives leave to the defendant to challenge the matter, in the interests of justice.
+(5) This section applies only if the defendant is given a copy of the certificate at least 28 days before the appointed date for the hearing of the charge.
+716—Evidence by record about mass
+A record of the mass of a heavy vehicle, or a component of a heavy vehicle, purporting to be made by the operator of a weighbridge or weighing facility at which the vehicle or component was weighed, or by the operator's employee—
+(a) is admissible in a proceeding under this Law; and
+(b) is evidence of the mass of the vehicle or component at the time it was weighed.
+717—Manufacturer's statements
+(1) A written statement of the recommended maximum loaded mass (mass rating) for a heavy vehicle, or a component of a heavy vehicle, purporting to be made by the manufacturer of the vehicle or component is admissible in a proceeding under this Law and is evidence—
+(a) of the mass rating; and
+(b) of any conditions, stated in the statement, to which the mass rating is subject; and
+(c) that the statement was made by the manufacturer.
+(2) A written statement of the strength or performance rating of equipment used to restrain a load and designed for use on a heavy vehicle, or on a component of a heavy vehicle, purporting to be made by the manufacturer of the equipment is admissible in a proceeding under this Law and is evidence—
+(a) that the equipment was designed for the use; and
+(b) of the strength or performance rating of the equipment; and
+(c) of any conditions, stated in the statement, to which the rating is subject; and
+(d) that the statement was made by the manufacturer.
+Example of equipment used to restrain a load—
+a chain or strap
+718—Measurement of weight on tyre
+(1) A mark or print on a tyre purporting to be the maximum load capacity decided by the manufacturer of the tyre is evidence of the maximum load capacity for the tyre at cold inflation pressure decided by the manufacturer.
+(2) If it is impracticable to work out the mass on each tyre in an axle or axle group, the mass on the axle or axle group divided by the number of tyres in the axle or axle group is taken to be the mass on the tyre in the absence of evidence to the contrary.
+719—Transport and journey documentation
+(1) Transport documentation and journey documentation are admissible in a proceeding under this Law and are evidence of—
+(a) the identity and status of the parties to the transaction to which the documentation relates; and
+(b) the destination or intended destination of the load to which the documentation relates; and
+(c) either or both the date on which and the time at which—
+(i) any document in the documentation was created; or
+(ii) any transaction mentioned in the documentation was effected or carried out; or
+(iii) any journey mentioned in the documentation was started, carried out or finished; or
+(iv) any other matter mentioned in the documentation was effected, started, carried out or finished; and
+(d) the location of any person, heavy vehicle, goods or other matter or thing mentioned in the documentation; and
+(e) the date and time at which any person, heavy vehicle, goods or other matter or thing mentioned in the documentation was present at a particular place.
+(2) In this section—
+status, of the parties to a transaction, includes the status of each of the parties as a responsible person for the heavy vehicle used or intended to be used for transporting the goods the subject of the transaction.
+720—Evidence not affected by nature of vehicle
+Evidence obtained in relation to a vehicle because of the exercise of a power under this Law in the belief or suspicion that the vehicle is a heavy vehicle is not affected merely because the vehicle is not a heavy vehicle.
+721—Certificates of TCA
+(1) A certificate purporting to be signed by a person on behalf of TCA stating any of the following matters is evidence of the matter:
+(a) a stated intelligent transport system was or was not an approved intelligent transport system on a stated date or during a stated period;
+(b) a stated person was or was not an intelligent access program service provider on a stated date or during a stated period;
+(c) a stated person was or was not an intelligent access program auditor on a stated date or during a stated period.
+(2) A person who purportedly signs a certificate of a type mentioned in subsection (1) on behalf of TCA is presumed, unless the contrary is proved, to have been authorised by TCA to sign the certificate on TCA's behalf.
+722—Approved intelligent transport system
+(1) An approved intelligent transport system, including all the equipment and software that makes up the system, is presumed, unless the contrary is proved, to have operated properly on any particular occasion.
+(2) Without limiting subsection (1), information generated, recorded, stored, displayed, analysed, transmitted and reported by an approved intelligent transport system is presumed, unless the contrary is proved, to have been correctly generated, recorded, stored, displayed, analysed, transmitted and reported by the system.
+(3) Without limiting subsection (1) or (2), information generated by an approved intelligent transport system is presumed, unless the contrary is proved, not to have been changed by being recorded, stored, displayed, analysed, transmitted or reported by the system.
+(4) If in a proceeding it is established by contrary evidence that particular information recorded or stored by an approved intelligent transport system is not a correct representation of the information generated by the system, the presumption mentioned in subsection (3) continues to apply to the remaining information recorded or stored by the system despite that contrary evidence.
+(5) If a defendant in a proceeding for an offence against this Law intends to challenge any of the following matters, the defendant must give the complainant notice of the intention to challenge:
+(a) that an approved intelligent transport system has operated properly;
+(b) that information generated, recorded, stored, displayed, analysed, transmitted or reported by an approved intelligent transport system has been correctly generated, recorded, stored, displayed, analysed, transmitted or reported by the system;
+(c) that information generated by an approved intelligent transport system has not been changed by being recorded, stored, displayed, analysed, transmitted or reported by the system.
+(6) The notice must—
+(a) be signed by the defendant; and
+(b) state the grounds on which the defendant intends to rely to challenge a matter mentioned in subsection (5)(a), (b) or (c); and
+(c) be given at least 14 days before the day fixed for the hearing of the charge.
+(7) This section does not limit section 714.
+723—Evidence as to intelligent access map
+(1) A certificate purporting to be signed by a person on behalf of TCA stating that a particular map was or was not the intelligent access map as issued by TCA on a stated date or during a stated period is conclusive evidence of the matter stated in the certificate.
+(2) The intelligent access map, as issued by TCA at a particular time, is presumed, unless evidence sufficient to raise doubt about the presumption is adduced, to be a correct representation of the national road network at the time of its issue.
+(3) A person who purportedly signs a certificate of the kind referred to in subsection (1) on behalf of TCA is presumed, unless evidence sufficient to raise doubt about the presumption is adduced, to have been authorised by TCA to sign the certificate on TCA's behalf.
+724—Reports and statements made by approved intelligent transport system
+(1) A report purporting to be made by an approved intelligent transport system—
+(a) is presumed, unless the contrary is proved—
+(i) to have been properly made by the system; and
+(ii) to be a correct representation of the information generated, recorded, stored, displayed, analysed, transmitted and reported by the system; and
+(b) is admissible in a proceeding under this Law; and
+(c) is evidence of the matters stated in it.
+(2) However, subsection (1)(c) does not apply to information stated in a report made by an approved intelligent transport system that has been manually entered into the system by an operator or driver of a heavy vehicle.
+Example—
+If the driver of a heavy vehicle enters the mass of the vehicle into the intelligent transport system, the information about the mass of the vehicle stated in a report made by the system is not evidence of the mass of the vehicle.
+(3) Also, if in a proceeding it is established by contrary evidence that part of a report made by an approved intelligent transport system is not a correct representation of particular information generated, recorded, stored, displayed, analysed, transmitted or reported by the system, the presumption mentioned in subsection (1)(a) continues to apply to the remaining parts of the report despite that contrary evidence.
+(4) If a defendant in a proceeding for an offence against this Law intends to challenge any of the following matters, the defendant must give the complainant notice of the intention to challenge:
+(a) that a report made by an approved intelligent transport system has been properly made;
+(b) that a report made by an approved intelligent transport system is a correct representation of the information generated, recorded, stored, displayed, analysed, transmitted and reported by the system;
+(c) the correctness of a statement of a vehicle's position on the surface of the earth at a particular time that is made by an approved intelligent transport system.
+(5) The notice must—
+(a) be signed by the defendant; and
+(b) state the grounds on which the defendant intends to rely to challenge the matter mentioned in subsection (4)(a), (b) or (c); and
+(c) be given at least 14 days before the day fixed for the hearing of the charge.
+(6) This section does not limit section 714.
+725—Documents produced by an electronic recording system
+(1) This section applies to an approved electronic recording system constituting an electronic work diary or of which an electronic work diary is a part.
+(2) A document purporting to be made by the approved electronic recording system—
+(a) is presumed, unless the contrary is proved—
+(i) to have been properly made by the system; and
+(ii) to be a correct representation of the information generated, recorded, stored, displayed, analysed, transmitted and reported by the system; and
+(b) is admissible in a proceeding under this Law relating to a fatigue‑regulated heavy vehicle; and
+(c) is evidence of the matters stated in it.
+726—Statement by person involved with use or maintenance of approved electronic recording system
+(1) This section applies to an approved electronic recording system constituting an electronic work diary or of which an electronic work diary is a part.
+(2) A written statement about how the approved electronic recording system has been used or maintained, and purporting to be made by the person purporting to be involved in the use or maintenance—
+(a) is admissible in a proceeding under this Law relating to a fatigue‑regulated heavy vehicle; and
+(b) is evidence of the matters included in the statement.
+Examples of statements—
+• a statement made by the driver of a fatigue‑regulated heavy vehicle who uses an electronic work diary about how the driver operated the work diary
+• a statement made by an owner of an approved electronic recording system about how the owner has maintained the system
+• a statement made by the record keeper (within the meaning given by section 317) of the driver of a fatigue‑regulated heavy vehicle who uses an electronic work diary about how information was transmitted from the electronic work diary to the record keeper
+Part 4—Protected information
+727—Definitions for Chapter 13 Part 4
+(1) In this Part—
+authorised use, for protected information, means—
+(a) use by a person—
+(i) in the exercise of a function under this Law; or
+(ii) where use of the information is required or authorised under this Law (whether explicitly or by implication); or
+(b) use by a public authority or law enforcement agency—
+(i) for the administration or enforcement of a law or the exercise of another function of the authority or agency, including, for example, investigating a contravention or suspected contravention of a law; or
+(ii) if a law authorises, requires or permits the disclosure of the information to, and the use of the information by, the authority or agency; or
+(c) use by a court or tribunal in a proceeding under an Australian road law; or
+(d) use by a court or tribunal if an order of the court or tribunal requires the disclosure of the information to the court or tribunal; or
+(e) an activity associated with preventing or minimising—
+(i) a risk of danger to the life of a person; or
+(ii) a risk of serious harm to the health of a person; or
+(iii) a risk to public safety; or
+(f) a use authorised by the person to whom the information relates; or
+(g) research purposes if the information contains no personal information; or
+(h) use by an entity (whether public or private) in connection with road tolls; or
+(i) use by an entity (whether public or private) in connection with the administration of third party insurance legislation; or
+(j) use by an entity (whether public or private) for the purpose of determining the registration status of a heavy vehicle; or
+(k) a use required or authorised under a relevant law of a participating jurisdiction; or
+(l) a use prescribed by the national regulations; or
+(m) a use referred to in subsection (2);
+driver fatigue compliance function means a function exercised for the purpose of—
+(a) the administration or enforcement of a driver fatigue provision; or
+(b) education, evaluation and similar activities supporting administration or enforcement of a driver fatigue provision;
+driver fatigue provision means any of the following:
+(a) Chapter 6;
+(b) Chapter 8 to the extent the Chapter relates to BFM accreditation or AFM accreditation;
+(c) Division 8 of Chapter 9 Part 3;
+(d) Chapter 9, other than Division 8 of Chapter 9 Part 3, to the extent the Chapter applies to the enforcement of provisions mentioned in paragraphs (a) and (b);
+electronic work diary authorised use, for electronic work diary protected information, means—
+(a) use by a person—
+(i) in the exercise of a driver fatigue compliance function; or
+(ii) not in the exercise of a driver fatigue compliance function but authorised under a warrant mentioned in section 729B; or
+(b) use by a person in the exercise of a function under another law if a warrant issued by a judge or magistrate under the other law or a different law authorises or permits the use of the information by the person; or
+(c) use by a court or tribunal in a proceeding under an Australian road law; or
+(d) use by a court or tribunal if an order of the court or tribunal requires the disclosure of the information to the court or tribunal; or
+(e) research purposes if the information contains no personal information; or
+(f) use prescribed by the national regulations; or
+(g) use referred to in subsection (3);
+electronic work diary information means information generated, recorded, stored, displayed, analysed, transmitted or reported by an approved electronic recording system that constitutes an electronic work diary, or of which an electronic work diary is a part;
+electronic work diary protected information—
+(a) means electronic work diary information; but
+(b) does not include—
+(i) information obtained, collected or recorded other than for the purposes of Chapter 6 of this Law, even if the information is—
+(A) coincidentally relevant for a purpose under Chapter 6; and
+(B) recorded in an electronic work diary; or
+(ii) information relating to proceedings before a relevant tribunal or court that are or were open to the public;
+police agency means a police force or police service (however called) of a participating jurisdiction, and includes an entity prescribed by the Application Act of this jurisdiction as an entity included in this definition;
+protected information—
+(a) means information obtained in the course of administering this Law or because of an opportunity provided by involvement in administering this Law; but
+(b) does not include—
+(i) intelligent access program information; or
+Note—
+See Chapter 7 for the restrictions on the use and disclosure of intelligent access program information.
+(ii) information mentioned in paragraph (a) in a form that does not identify a person; or
+(iii) information relating to proceedings before a relevant tribunal or court that are or were open to the public; or
+(iv) electronic work diary protected information;
+relevant law, of a participating jurisdiction, means a law specified for this definition in a law of the jurisdiction.
+(2) It is also an authorised use, for protected information disclosed to or otherwise held by a police agency for any purpose or for a particular purpose, to disclose the information to another police agency authorised to hold protected information (whether or not for the same purpose).
+(3) It is also an authorised use, for electronic work diary protected information disclosed to or otherwise held by a police agency for the purpose of the exercise of a driver fatigue compliance function, to disclose the information to another police agency authorised to hold electronic work diary protected information for the purpose of the exercise of a driver fatigue compliance function.
+(4) To remove any doubt, it is declared that a reference in this Part to the disclosure of protected information or electronic work diary protected information to an entity includes a reference to the disclosure of the information to a duly authorised employee or agent of the entity.
+728—Duty of confidentiality for protected information
+(1) A person who is, or has been, a person exercising functions under this Law must not disclose protected information to another person.
+Maximum penalty: $20 000.
+(2) However, subsection (1) does not apply to the Regulator—
+(a) disclosing protected information in the form of a confirmation that a stated person is the registered operator of a stated heavy vehicle; or
+(b) disclosing details of heavy vehicles registered in a person's name to an executor or administrator of that person's deceased estate.
+(3) Also, subsection (1) does not apply if—
+(a) the disclosure is to an entity for an authorised use; or
+(b) the disclosure is to, or made with the agreement of, the person to whom the information relates.
+728A—Duty of confidentiality for electronic work diary protected information
+(1) A person who is, or has been, a person exercising functions under this Law must not disclose electronic work diary protected information to another person.
+Maximum penalty: $20 000.
+(2) Subsection (1) does not apply if—
+(a) the disclosure is to an entity for an electronic work diary authorised use; or
+(b) the disclosure is to, or made with the agreement of, the person to whom the information relates.
+729—Protected information only to be used for authorised use
+(1) A person who is, or has been, a person exercising functions under this Law must not use protected information other than for an authorised use.
+Maximum penalty: $20 000.
+(2) However, subsection (1) does not apply to the Regulator using protected information for making a disclosure mentioned in section 728(2).
+(3) A person to whom protected information is disclosed under section 728(3)(a) must not use the protected information other than for the authorised use for which it was disclosed to the person.
+Maximum penalty: $20 000.
+729A—Electronic work diary protected information only to be used for electronic work diary authorised use
+(1) A person who is, or has been, a person exercising functions under this Law must not use electronic work diary protected information other than for an electronic work diary authorised use.
+Maximum penalty: $20 000.
+(2) A person to whom electronic work diary protected information is disclosed under section 728A(2)(a) must not use the information other than for the electronic work diary authorised use for which it was disclosed to the person.
+Maximum penalty: $20 000.
+729B—Warrant authorising use of electronic work diary protected information
+(1) A warrant issued under section 507 by an authorised warrant official who is a judge or magistrate may authorise electronic work diary protected information to be seized under the warrant.
+(2) The warrant must state the purpose for which the information may be used.
+(3) An authorised officer may apply for, and the authorised warrant official who is a judge or magistrate may issue, the warrant for entry of a vehicle at a place stated in the warrant or, despite sections 506(1) and 507(2)(a), wherever the vehicle is located.
+(4) Chapter 9 does not authorise an authorised officer to obtain electronic work diary protected information for a purpose other than the enforcement of a driver fatigue provision unless the information is authorised to be seized under a warrant mentioned in subsection (1).
+Part 5—National regulations
+730—National regulations
+(1) For the purposes of this section, the designated authority is the Queensland Governor acting with the advice of the Executive Council of Queensland and on the unanimous recommendation of the responsible Ministers.
+(2) The designated authority may make regulations for the purposes of this Law.
+(3) The regulations may provide for—
+(a) any matter a provision of this Law states may be provided for in the regulations; and
+(b) the imposition of a maximum fine for a contravention of a provision of the regulations of not more than—
+(i) for a contravention by an individual—$4 000; or
+(ii) in any other case—$20 000; and
+(c) any other matter that is necessary or convenient to be prescribed for carrying out or giving effect to this Law.
+(4) Subsection (3)(b) does not require a provision of the regulations prescribing a maximum fine for an offence to expressly prescribe a maximum fine for a body corporate different to the maximum fine for an individual.
+Note—
+See section 596 in relation to a provision of the regulations prescribing a maximum fine that does not expressly prescribe a maximum fine for a body corporate different to the maximum fine for an individual.
+(5) In this section—
+Queensland Governor means the Governor of the State of Queensland and includes—
+(a) a person acting under a delegation under section 40 of the Constitution of Queensland 2001; and
+(b) a person for the time being administering the Government of Queensland under section 41 of the Constitution of Queensland 2001.
+731—National regulations for approved vehicle examiners
+(1) Without limiting any other provision of this Law, the national regulations may provide for—
+(a) the approval of classes of vehicle examiners to inspect vehicles for the purposes of this Law; and
+(b) the role of the Regulator in approving classes of vehicle examiners and persons as vehicle examiners; and
+(c) probity requirements for becoming and being approved vehicle examiners; and
+(d) the functions of approved vehicle examiners or classes of approved vehicle examiners, including, for example—
+(i) the examination and testing of heavy vehicles and equipment; and
+(ii) the oversight of entities involved in the inspection or repair of heavy vehicles; and
+(iii) the clearance of vehicle defect notices; and
+(e) the premises or location where functions of approved vehicle examiners are permitted to be conducted and any matters relating to the premises or location where those functions are conducted; and
+(f) the facilities and equipment that approved vehicle examiners are required to have in connection with the exercise of their functions; and
+(g) the terms and conditions of approval of persons as vehicle examiners (including, for example, fees, qualifications and responsibilities); and
+(h) procedures for monitoring and auditing compliance with—
+(i) the terms and conditions of approval of a person as a vehicle examiner; and
+(ii) the relevant provisions of this Law and any applicable code of practice prescribed by the national regulations; and
+(iii) any other relevant requirements; and
+(i) the discipline of, and disciplinary procedures applying to, approved vehicle examiners and entities having responsibility for their functions (including directors, managers and employees), whether—
+(i) by way of monetary penalties, restriction on functions, imposition of conditions, variation of terms of appointment, suspension of appointment, cancellation of appointment; or
+(ii) in some other way.
+(2) The national regulations may make provision with respect to vehicle examiners (however described) appointed or authorised under a law of any participating jurisdiction and entities having responsibility for their functions (including directors, managers and employees), including processes relating to discipline and disciplinary procedures applying to them.
+732—National regulations for publication of agreements for services to States or Territories
+Without limiting any other provision of this Law, the national regulations may provide that particular matters contained in or relating to agreements referred to in section 658(2) are to be published on the Regulator's website.
+733—Publication of national regulations
+(1) The national regulations are to be published on the NSW legislation website in accordance with Part 6A of the Interpretation Act 1987 of New South Wales.
+(2) A regulation commences on the day or days specified in the regulation for its commencement (being not earlier than the date it is published).
+734—Scrutiny of national regulations
+(1) The responsible Minister for a participating jurisdiction is to refer any adverse report about a national regulation from a legislation scrutiny body for that jurisdiction to the responsible Ministers for consideration and advice.
+(2) The responsible Ministers are to prepare advice on the adverse report and provide a report to the relevant responsible Minister about the issues raised.
+(3) The report by the responsible Ministers is to be provided to the responsible Minister in sufficient time to ensure the responsible Minister can provide the response to the relevant scrutiny body within a period that is appropriate in the circumstances.
+(4) Subsections (1) to (3) do not affect any legislative or other arrangements regarding scrutiny and disallowance in jurisdictions and do not limit a responsible Minister's ability to respond independently to any issues raised by a legislation scrutiny body.
+(5) In this section—
+legislation scrutiny body means a parliamentary committee (or other parliamentary body) whose functions include the scrutiny of regulations and other subordinate legislation.
+Part 6—Other
+735—Approved forms
+(1) The Regulator may approve forms for use under this Law.
+(2) The approval of a form must be notified on the Regulator's website.
+(3) Failure to comply with subsection (2) does not affect a form's validity.
+(4) The function of approving forms includes the function of approving the format of forms.
+736—Penalty at end of provision
+In this Law, a penalty stated at the end of a provision indicates that an offence mentioned in the provision is punishable on conviction or, if no offence is mentioned, a contravention of the provision constitutes an offence against the provision that is punishable on conviction, by a penalty not more than the stated penalty.
+Note—
+See also section 596 in relation to maximum fines for bodies corporate.
+737—Increase of penalty amounts
+(1) This section applies to the penalty stated at the end of a provision for an offence (including a penalty whose amount has already been increased by a previous application or applications of this section).
+(2) At the start of 1 July of each year, beginning with 1 July 2014, the amount of each penalty is increased, from the amount that applied immediately before that 1 July, in accordance with the method prescribed by the national regulations for the purposes of this section.
+Note—
+In some circumstances, the operation of the method can result in no increases occurring on a particular 1 July.
+(3) A recommendation of the responsible Ministers for national regulations prescribing a method for the increase of penalties cannot be made unless the responsible Ministers are satisfied that the method generally accords with increases in relevant inflation indexes or similar indexes.
+(4) As soon as practicable but before 1 July of each year, the Regulator must publish on the Regulator's website the amounts of each penalty applying as from that date.
+738—Service of documents
+(1) If this Law requires or permits a document to be served on a person, the document may be served—
+(a) on an individual—
+(i) by delivering it to the individual personally; or
+(ii) by leaving it at, or by sending it by post to, the address of the place of residence or business of the individual last known to the person serving the document; or
+(iii) by sending it by fax to a fax number notified to the sender by the individual as an address at which service of documents under this Law will be accepted; or
+(iv) by sending it by email to an Internet address notified to the sender by the individual as an address at which service of documents under this Law will be accepted; or
+(b) on another person—
+(i) by leaving it at, or by sending it by post to, the head office, a registered office or a principal office of the person; or
+(ii) by sending it by fax to a fax number notified to the sender by the person as an address at which service of documents under this Law will be accepted; or
+(iii) by sending it by email to an Internet address notified to the sender by the person as an address at which service of documents under this Law will be accepted.
+(2) Subsection (1) applies whether the expression "deliver", "give", "notify", "send" or "serve" or another expression is used.
+(3) Subsection (1) does not affect—
+(a) the operation of another law that authorises the service of a document otherwise than as provided in the subsection; or
+(b) the power of a court or tribunal to authorise service of a document otherwise than as provided in the subsection.
+739—Service by post
+(1) If a document authorised or required to be served on a person under this Law is served by post, service of the document—
+(a) may be effected by properly addressing, prepaying and posting the document as a letter; and
+(b) is taken to have been effected at the time at which the letter would be delivered in the ordinary course of post, unless the contrary is proved.
+(2) Subsection (1) applies whether the expression 'deliver', 'give', 'notify', 'send' or 'serve' or another expression is used.
+740—Fees
+(1) The national regulations may prescribe the fees payable for the following:
+(a) an application under this Law (whether or not another provision of this Law refers to payment of the prescribed fee for the application);
+(b) the issue of a work diary for the driver of a fatigue‑regulated heavy vehicle.
+(2) The Regulator may set fees payable for the provision of a service in connection with the administration of this Law (other than fees mentioned in subsection (1)).
+(3) The national regulations may provide that stated kinds of fees may be set by the Regulator for inspection services, except so far as those fees are provided for under another law of this jurisdiction.
+(4) A fee set by the Regulator under subsection (2) or (3) must be an amount—
+(a) the Regulator considers reasonable; and
+(b) that is no more than the reasonable cost of providing the service.
+(5) The Regulator must publish a fee set by the Regulator under subsection (2) or (3)—
+(a) in the Commonwealth Gazette; and
+(b) on the Regulator's website.
+(6) The Regulator may waive payment of the whole or part of a fee in circumstances, or in circumstances of a kind, prescribed by the national regulations.
+(7) If a fee is prescribed for an application or any other matter under this Law, the decision-maker may decline to deal with the application or proceed with the other matter until the fee is paid.
+740A—Increase of fee amounts
+(1) This section applies to a fee payable under section 740, including a fee whose amount has already been increased by a previous application or applications of this section.
+(2) At the start of 1 July of each year, starting with 1 July 2016, the amount of the fee is increased from the amount that applied immediately before that 1 July, in accordance with the method prescribed by the national regulations for the purposes of this section.
+Note—
+In some circumstances, the operation of the method can result in no increases occurring on a particular 1 July.
+(3) A recommendation of the responsible Ministers for national regulations prescribing a method for the increase of fees may not be made unless the responsible Ministers are satisfied the method generally accords with increases in relevant inflation indexes or similar indexes.
+(4) As soon as practicable, but before 1 July of each year, the Regulator must, by public notice, publish the amounts of each fee applying as from that date.
+741—Recovery of amounts payable under Law
+(1) A fee, charge or other amount payable under this Law is a debt due to the Regulator and may be recovered by action for a debt in a court of competent jurisdiction.
+(2) A fee, charge or other amount payable under this Law may also be recovered in a proceeding for an offence against this Law.
+(3) An order made under subsection (2)—
+(a) cannot be for an amount exceeding the monetary jurisdictional limit of the court in civil proceedings; and
+(b) is taken to be, and is enforceable as, a judgment of the court sitting in civil proceedings.
+742—Contracting out prohibited
+(1) A contract is void to the extent to which it—
+(a) is contrary to this Law; or
+(b) purports to annul, exclude, restrict or otherwise change the effect of a provision of this Law; or
+(c) purports to require the payment or reimbursement by a person of all or part of a penalty that another person has been ordered to pay under this Law.
+(2) This section does not prevent the parties to a contract from including provisions in the contract imposing greater or more onerous obligations on an entity than are imposed by the requirements of this Law.
+(3) This section applies to contracts entered into before or after the commencement of this section.
+(4) In this section—
+contract means contract or other agreement.
+743—Other powers not affected
+(1) Unless otherwise provided in this Law, nothing in this Law affects any power a court, tribunal or official has apart from this Law.
+(2) Without limiting subsection (1), nothing in this Law affects a power or obligation under another law to amend, suspend, cancel or otherwise deal with the registration of a heavy vehicle.
+Chapter 14—Savings and transitional provisions
+Part 1—Interim provisions relating to Ministers and Board
+744—Responsible Ministers
+(1) This section applies if a jurisdiction—
+(a) is not a participating jurisdiction; but
+(b) has signed the Inter‑governmental Agreement on Heavy Vehicle Regulatory Reform, as in force from time to time, between the Commonwealth of Australia and the States and Territories of Australia.
+(2) The jurisdiction may nominate a Minister to be the responsible Minister for the jurisdiction for the purposes of this Law until the prescribed day for the jurisdiction.
+(3) Until the prescribed day for the jurisdiction, the relevant provisions of this Law apply as if—
+(a) the jurisdiction were a participating jurisdiction; and
+(b) the Minister nominated under subsection (2) were the responsible Minister for the jurisdiction for the purposes of this Law.
+(4) To remove any doubt, it is declared that this section does not prevent the Minister nominated under subsection (2) being nominated as the responsible Minister for the jurisdiction after the participation day for the jurisdiction.
+(5) In this section—
+participation day, for a participating jurisdiction, means the day the jurisdiction became a participating jurisdiction;
+prescribed day, for a jurisdiction, means the earlier of the following:
+(a) the participation day for the jurisdiction;
+(b) 30 June 2014;
+relevant provisions means the provisions of this Law relating to the functions of responsible Ministers under this Law other than section 652.
+745—Exercise of powers by Board between enactment and commencement
+(1) This section applies if—
+(a) under section 30 of Schedule 1, the Queensland Minister, on the unanimous recommendation of the responsible Ministers, appoints the members of the Board before section 663 commences; and
+(b) a provision of this Law conferring a function on the Board (a relevant provision) has not commenced.
+(2) The members—
+(a) may meet and exercise the function under the relevant provision in the same way and subject to the same conditions that would apply if the relevant provision had commenced; and
+(b) in doing so, are entitled to be paid the remuneration and allowances to which the members are entitled under section 666 whether or not that section has commenced.
+(3) For the purposes of deciding the duration of the term of office of a member of the Board, the term does not start until section 663 commences despite the exercise of any function by the member under subsection (2).
+(4) The exercise of a function under a relevant provision does not confer a right, or impose a liability, on a person before the relevant provision commences.
+(5) This section does not limit section 30 of Schedule 1.
+Part 2—General provisions
+746—Application of Part 2
+(1) This Part has effect in relation to this jurisdiction except to the extent any law of this jurisdiction expressly or impliedly overrides a provision of this Part.
+(2) Nothing in this Part limits section 34 of Schedule 1, except to the extent that the context or subject matter otherwise indicates or requires.
+747—Definitions for Part 2
+In this Part—
+commencement day, for this jurisdiction, means, with respect to a provision of this Law, the day this jurisdiction became a participating jurisdiction in relation to that provision;
+current PBS scheme means the scheme in operation immediately before the commencement day relating to compliance with legislative requirements for heavy vehicles by reference to performance based standards, and comprises such of the following instruments as are in force immediately before the commencement day—
+(a) the Standards and Vehicle Assessment Rules as at 10 November 2008;
+(b) the Assessor Accreditation Rules (July 2007);
+(c) the Vehicle Certification Rules (July 2007);
+(d) the Network Classification Guidelines (July 2007);
+(e) the Guidelines for Determining National Operating Conditions (July 2007);
+former legislation, of this jurisdiction, means legislation of this jurisdiction that is repealed on the participation day for this jurisdiction or is superseded by provisions of this Law on that day;
+participation day, for this jurisdiction, means the day this jurisdiction became a participating jurisdiction;
+relevant instrument—
+(a) means an application, permit, notice, authority or any other document; and
+(b) without limiting paragraph (a), includes any document prescribed by a law of this jurisdiction as being within this definition; but
+(c) does not include any document prescribed by a law of this jurisdiction as not being within this definition.
+748—General savings and transitional provisions
+(1) This section applies if a provision of this Law corresponds to a provision of the former legislation.
+(2) Anything done under the provision of the former legislation before the commencement day has effect as if—
+(a) this Law had been in force when the thing was done; and
+(b) the thing had been done under this Law; and
+(c) any reference to a person in, or in relation to, the provision were a reference to the nearest equivalent person under this Law; and
+(d) any reference in, or in relation to, the provision to another provision of the former legislation were a reference to the corresponding provision of this Law; and
+(e) any other adaptations necessary to enable the thing to be effective under this Law have been made,
+and accordingly the thing is taken to have been done under this Law.
+(3) Subsection (2) does not apply to the following:
+(a) any appointment of a person as an authorised officer;
+(b) any appointment of any other person who was employed by the department or body administering the former legislation;
+(c) any prosecution of an offence that had not been completed immediately before the commencement day;
+(d) any review or appeal, or anything related to a review or appeal, that was unresolved immediately before the commencement day;
+(e) anything excluded from the operation of this section by the national regulations.
+(4) Any prosecution, review or appeal referred to in subsection (3)(c) or (d) is to proceed as if the former legislation were still in force in the form it was in at the relevant time before the commencement day.
+(5) On the final completion of any prosecution, review or appeal referred to in subsection (3)(c) or (d), it is to be treated as if it had occurred under this Law.
+(6) The Regulator is not liable for anything the Regulator is taken to have done under this section that was done before the commencement day.
+(7) Proceedings are not to be commenced by the Regulator for an offence arising from any action or inaction that was completed before the commencement day, but nothing in this section affects the commencement of proceedings by another person.
+(8) The national regulations may provide for, and from commencement day could always provide for—
+(a) the issue of mass or dimension authorities or HML declarations in replacement of instruments or authorisations preserved under subsection (2), without further procedural requirements under the Law; and
+(b) the further preservation of anything not covered by the replacement.
+(9) In this section—
+HML declarations means HML declarations under the Heavy Vehicle (Mass, Dimension and Loading) National Regulation.
+749—Expiry of certain permits, exemptions, notices and authorities
+(1) This section applies if a permit, exemption, notice or authority—
+(a) is taken to have been made under this Law under section 748; and
+(b) is not subject to an expiry date, or is subject to an expiry date—
+(i) that, in the case of a permit, exceeds 3 years after the commencement day; or
+(ii) that in any other case exceeds 5 years after the commencement day.
+(2) In the case of a permit, it expires 3 years after the commencement day, unless it is cancelled before that day.
+(3) In the case of an exemption, notice or authority, it expires 5 years after the commencement day, unless it is cancelled before that day.
+(4) Despite subsections (2) and (3), a modification approval granted in respect of a vehicle is to continue for the life of the vehicle.
+(5) For the purposes of this section, a permit that solely provides an exemption is to be considered to be an exemption.
+750—Amendment or cancellation of instruments carried over from former legislation
+(1) This section applies to any instrument—
+(a) that is taken to have been made under this Law under section 748; and
+(b) that applies to more than one person and that confers a benefit on at least one person; and
+(c) that is of a class of instrument that is specified by the national regulations for the purposes of this section.
+(2) An amendment or cancellation of part of the instrument by implication does not affect the remainder of the instrument.
+Example—
+If an instrument relates to mass and fatigue exemptions, a notice cancelling only the fatigue exemptions will not cancel the mass exemptions. The mass exemptions, and their associated conditions, will continue in force until they are separately amended, or until they expire.
+(3) Despite anything to the contrary in this Law, if the instrument is amended or cancelled and the amendment or cancellation has the effect of removing or reducing the benefit previously conferred on a person by the instrument, the person may continue to enjoy the benefit as if the amendment or cancellation had not occurred until the instrument would have expired had the amendment or cancellation not occurred.
+(4) Despite anything to the contrary in this Law other than subsection (3), the Regulator may amend or cancel the instrument simply by publishing notice of the amendment or cancellation—
+(a) in—
+(i) the Commonwealth Gazette; and
+(ii) a newspaper circulating generally throughout each relevant participating jurisdiction; and
+(b) on the Regulator's website; and
+(c) in any other newspaper the Regulator considers appropriate.
+(5) The amendment or cancellation takes effect—
+(a) 28 days after the Commonwealth Gazette notice is published under subsection (4); or
+(b) if a later time is stated in the Commonwealth Gazette notice, at the later time.
+(6) This section applies even to amendments and cancellations that occur by implication, and it is not necessary that the instrument being amended or cancelled be identified in the amending or cancelling notice.
+751—Expiry of industry codes of practice
+(1) This section applies if a code of practice—
+(a) is taken to have been made under this Law under section 748; and
+(b) is not subject to a review date, or is subject to a review date that exceeds 3 years after the commencement day.
+(2) The code of practice expires 3 years after the commencement day, unless it is cancelled before that day.
+752—Pending matters
+(1) This section applies if—
+(a) section 748 applies to a relevant instrument (for example, an application); and
+(b) any matter (for example, the determination of an application) is pending in respect of the instrument immediately before the participation day for this jurisdiction.
+(2) When the matter is being dealt with on or after the participation day for this jurisdiction—
+(a) the Regulator (or other person having functions under this Law in relation to the matter) may have regard to any relevant provisions of the former legislation for this jurisdiction; and
+(b) this Law applies in relation to the matter—
+(i) with any adaptations the Regulator (or other person) considers appropriate to achieve consistency with provisions of the former legislation; and
+(ii) with any necessary adaptations.
+753—Preservation of current PBS scheme
+(1) The instruments that comprise the current PBS scheme—
+(a) continue in force on and from the commencement day despite the commencement of any provision of this Law; and
+(b) apply with any necessary or appropriate modifications with respect to any relevant provisions of this Law or any relevant functions of the Regulator; and
+(c) so apply as if a reference in the instruments to the National Transport Commission included a reference to the Regulator.
+(2) This section ceases to apply to an instrument if it is replaced by approved guidelines or it is otherwise dispensed with.
+754—Preservation of contracts for current PBS scheme
+(1) This section applies to a contract between the National Transport Commission and another person that relates to the appointment or functions of the person for the purposes of the current PBS scheme and that is in force immediately before the commencement day.
+(2) A contract to which this section applies and the arrangements to which the contract relates—
+(a) continue in force on and from the commencement day despite the commencement of any provision of this Law; and
+(b) apply with any necessary or appropriate modifications with respect to any relevant provisions of this Law or any relevant functions of the Regulator; and
+(c) so apply as if a reference in the contract to the National Transport Commission included a reference to the Regulator.
+(3) This section ceases to apply to a contract with another person referred to in subsection (1) if—
+(a) the contract is terminated; or
+(b) a subsequent contract is entered into with the Regulator and the other person for a similar or a corresponding purpose.
+755—National regulations for savings and transitional matters
+(1) The national regulations may contain provisions of a savings and transitional nature consequent on the enactment or commencement of provisions of this Law in a jurisdiction.
+(2) Any such provision may, if the national regulations so provide, take effect in relation to this jurisdiction from the participation day for this jurisdiction or a later day.
+(3) To the extent any such provision takes effect from a day that is earlier than the date of its publication, the provision does not operate so as—
+(a) to affect, in a manner prejudicial to any person (other than this jurisdiction or an authority of this jurisdiction), the rights of that person existing before the date of its publication; or
+(b) to impose liabilities on any person (other than this jurisdiction or an authority of this jurisdiction) in respect of anything done or omitted to be done before the date of its publication.
+(4) Without limiting subsections (1) to (3), the national regulations may contain provisions of a savings or transitional nature that—
+(a) have effect in circumstances where some but not all the provisions of this Law are commenced; and
+(b) without limiting paragraph (a), modify the operation of the commenced provisions pending and after commencement of the uncommenced provisions.
+Part 3—Heavy Vehicle National Law Amendment Act 2015 (Queensland)
+756—Application of section 87A to previously fitted plate or label
+Section 87A applies to tampering with a plate or label fitted or affixed to a heavy vehicle under section 86(2) or 87(3) before the commencement of section 87A.
+757—Saving of stated map and other matters under section 119 or 142
+(1) Subsections (2) to (5) apply to the following:
+(a) a stated map applied under unamended section 119(2) in a mass or dimension exemption (notice) in existence immediately before the commencement;
+(b) the areas or routes shown on the stated map immediately before the commencement;
+(c) a list of areas or routes applied, adopted or incorporated under Schedule 1, section 24(1) in a mass or dimension exemption (notice) in existence immediately before the commencement;
+(d) road conditions or travel conditions shown on a stated map or list mentioned in paragraph (a) or (c).
+(2) The stated map is taken to be a stated map applied under amended section 119(2).
+(3) The list of areas or routes is taken to be a stated list applied under amended section 119(2).
+(4) The road conditions or travel conditions are taken to be imposed under amended section 119(3).
+(5) The areas, routes, road conditions and travel conditions shown on the stated map mentioned in subsection (2) or stated list mentioned in subsection (3) may only be amended under amended section 119 and section 119A.
+(6) Subsections (7) to (10) apply to the following:
+(a) a stated map applied under unamended section 142(2) in a class 2 heavy vehicle authorisation (notice) in existence immediately before the commencement;
+(b) the areas or routes shown on the stated map immediately before the commencement;
+(c) a list of areas or routes applied, adopted or incorporated under Schedule 1, section 24(1) in a class 2 heavy vehicle authorisation (notice) in existence immediately before the commencement;
+(d) road conditions or travel conditions shown on a stated map or list mentioned in paragraph (a) or (c).
+(7) The stated map is taken to be a stated map applied under amended section 142(2).
+(8) The list of areas or routes is taken to be a stated list applied under amended section 142(2).
+(9) The road conditions or travel conditions are taken to be imposed under amended section 142(3).
+(10) The areas, routes, road conditions and travel conditions shown on the stated map mentioned in subsection (7) or the stated list mentioned in subsection (8) may only be amended under amended section 142 and section 142A.
+(11) In this section—
+amended, in relation to a section, means the section as amended by the amendment Act;
+amendment Act means the Heavy Vehicle National Law Amendment Act 2015 (Queensland);
+commencement means—
+(a) for the purposes of subsection (1)—the commencement of the amendment of section 119 under the amendment Act; or
+(b) for the purposes of subsection (6)—the commencement of the amendment of section 142 under the amendment Act;
+road conditions means road conditions required by the relevant road manager under section 160;
+travel conditions means travel conditions required by the relevant road manager under section 161;
+unamended, in relation to a section, means the section as it existed immediately before it was amended by the amendment Act.
+758—Application of section 737 to a new penalty
+(1) The repeal of an old penalty by the amendment Act repeals any increase, in force immediately before the repeal, in the amount of penalty applying under section 737.
+(2) The enactment of a new penalty includes the enactment of an increase, to take effect immediately on the commencement of the new penalty, in the amount of penalty applying under section 737.
+(3) For the purpose of applying section 737 under subsection (2) to a new penalty, the amount of penalty applying under section 737 is to be calculated as if—
+(a) the new penalty had commenced before 1 July 2014; and
+(b) the amount of penalty applying had been increased under section 737(2) on 1 July 2014 and any later 1 July happening before the new penalty actually commences.
+(4) Before the commencement of the new penalties, the Regulator must publish on the Regulator's website the amounts of each penalty applying under subsections (2) and (3) and under section 737 on the commencement of the new penalties.
+Note—
+A list of all penalties to which section 737 applies must be published.
+(5) In this section—
+amendment Act means the Heavy Vehicle National Law Amendment Act 2015 (Queensland);
+old penalty means a penalty that applied before the commencement of the amendment Act;
+new penalty means a penalty that applies after the commencement of the amendment Act.
+Part 4—Heavy Vehicle National Law and Other Legislation Amendment Act 2016 (Queensland)
+759—Application of section 737 to a new penalty
+(1) The enactment of a new penalty by the amendment Act includes the enactment of an increase in the amount of penalty applying under section 737, to take effect when the new penalty commences.
+(2) For the purpose of applying section 737 under subsection (1) to a new penalty, the amount of penalty applying under section 737 is to be calculated as if—
+(a) the new penalty had commenced before 1 July 2014; and
+(b) the amount of penalty applying had been increased under section 737(2) on 1 July 2014 and any later 1 July happening before the new penalty actually commences.
+(3) In this section—
+amendment Act means the Heavy Vehicle National Law and Other Legislation Amendment Act 2016 (Queensland);
+new penalty means a penalty stated at the end of a provision enacted by the amendment Act.
+Schedule 1—Miscellaneous provisions relating to interpretation
+section 10
+Part 1—Preliminary
+1—Displacement of Schedule by contrary intention
+The application of this Schedule may be displaced, wholly or partly, by a contrary intention appearing in this Law.
+Part 2—General
+2—Law to be construed not to exceed legislative power of Parliament
+(1) This Law is to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Parliament of this jurisdiction.
+(2) If a provision of this Law, or the application of a provision of this Law to a person, subject matter or circumstance, would, but for this section, be construed as being in excess of the legislative power of the Parliament of this jurisdiction—
+(a) it is a valid provision to the extent to which it is not in excess of the power; and
+(b) the remainder of this Law, and the application of the provision to other persons, subject matters or circumstances, is not affected.
+(3) This section applies to this Law in addition to, and without limiting the effect of, any provision of this Law.
+3—Every section to be a substantive enactment
+Every section of this Law has effect as a substantive enactment without introductory words.
+4—Material that is, and is not, part of this Law
+(1) The heading to a Chapter, Part, Division or Subdivision into which this Law is divided is part of this Law.
+(2) A Schedule to this Law is part of this Law.
+(3) Punctuation in this Law is part of this Law.
+(4) A heading to a section or subsection of this Law does not form part of this Law.
+(5) Notes included in this Law (including footnotes and endnotes) do not form part of this Law.
+5—References to particular Acts and to enactments
+In this Law—
+(a) an Act of this jurisdiction may be cited—
+(i) by its short title; or
+(ii) by reference to the year in which it was passed and its number; and
+(b) a Commonwealth Act may be cited—
+(i) by its short title; or
+(ii) in another way sufficient in a Commonwealth Act for the citation of such an Act,
+together with a reference to the Commonwealth; and
+(c) an Act of another jurisdiction may be cited—
+(i) by its short title; or
+(ii) in another way sufficient in an Act of the jurisdiction for the citation of such an Act,
+together with a reference to the jurisdiction.
+6—References taken to be included in Law or Act citation etc
+(1) A reference in this Law to this Law or an Act includes a reference to—
+(a) this Law or the Act as originally enacted, and as amended from time to time since its original enactment; and
+(b) if this Law or the Act has been repealed and re‑enacted (with or without modification) since the enactment of the reference—this Law or the Act as re‑enacted, and as amended from time to time since its re‑enactment.
+(2) A reference in this Law to a provision of this Law or of an Act includes a reference to—
+(a) the provision as originally enacted, and as amended from time to time since its original enactment; and
+(b) if the provision has been omitted and re‑enacted (with or without modification) since the enactment of the reference—the provision as re‑enacted, and as amended from time to time since its re‑enactment.
+(3) Subsections (1) and (2) apply to a reference in this Law to a law of the Commonwealth or another jurisdiction as they apply to a reference in this Law to an Act and to a provision of an Act.
+7—Interpretation best achieving Law's purpose or object
+(1) In the interpretation of a provision of this Law, the interpretation that will best achieve the purpose or object of this Law is to be preferred to any other interpretation.
+(2) Subsection (1) applies whether or not the purpose or object is expressly stated in this Law.
+8—Use of extrinsic material in interpretation
+(1) In this section—
+extrinsic material means relevant material not forming part of this Law, including, for example—
+(a) material that is set out in the document containing the text of this Law as printed by the Government Printer; and
+(b) a relevant report of a Royal Commission, Law Reform Commission, commission or committee of inquiry, or a similar body, that was laid before the Parliament of this jurisdiction before the provision concerned was enacted; and
+(c) a relevant report of a committee of the Parliament of this jurisdiction that was made to the Parliament before the provision was enacted; and
+(d) a treaty or other international agreement that is mentioned in this Law; and
+(e) an explanatory note or memorandum relating to the Bill that contained the provision, or any relevant document, that was laid before, or given to the members of, the Parliament of this jurisdiction by the member bringing in the Bill before the provision was enacted; and
+(f) the speech made to the Parliament of this jurisdiction by the member in moving a motion that the Bill be read a second time; and
+(g) material in the Votes and Proceedings of the Parliament of this jurisdiction or in any official record of debates in the Parliament of this jurisdiction; and
+(h) a document that is declared by this Law to be a relevant document for the purposes of this section;
+ordinary meaning means the ordinary meaning conveyed by a provision having regard to its context in this Law and to the purpose of this Law.
+(2) Subject to subsection (3), in the interpretation of a provision of this Law, consideration may be given to extrinsic material capable of assisting in the interpretation—
+(a) if the provision is ambiguous or obscure—to provide an interpretation of it; or
+(b) if the ordinary meaning of the provision leads to a result that is manifestly absurd or is unreasonable—to provide an interpretation that avoids such a result; or
+(c) in any other case—to confirm the interpretation conveyed by the ordinary meaning of the provision.
+(3) In determining whether consideration should be given to extrinsic material, and in determining the weight to be given to extrinsic material, regard is to be had to—
+(a) the desirability of a provision being interpreted as having its ordinary meaning; and
+(b) the undesirability of prolonging proceedings without compensating advantage; and
+(c) other relevant matters.
+9—Effect of change of drafting practice
+If—
+(a) a provision of this Law expresses an idea in particular words; and
+(b) a provision enacted later appears to express the same idea in different words for the purpose of implementing a different legislative drafting practice, including, for example—
+(i) the use of a clearer or simpler style; or
+(ii) the use of gender‑neutral language,
+the ideas must not be taken to be different merely because different words are used.
+10—Use of examples
+If this Law includes an example of the operation of a provision—
+(a) the example is not exhaustive; and
+(b) the example does not limit, but may extend, the meaning of the provision; and
+(c) the example and the provision are to be read in the context of each other and the other provisions of this Law, but, if the example and the provision so read are inconsistent, the provision prevails.
+11—Compliance with forms
+(1) If a form is prescribed or approved by or for the purpose of this Law, strict compliance with the form is not necessary and substantial compliance is sufficient.
+(2) If a form prescribed or approved by or for the purpose of this Law requires—
+(a) the form to be completed in a specified way; or
+(b) specified information or documents to be included in, attached to or given with the form; or
+(c) the form, or information or documents included in, attached to or given with the form, to be verified in a specified way,
+the form is not properly completed unless the requirement is complied with.
+Part 3—Terms and references
+12—Definitions
+(1) In this Law—
+Act means an Act of the Parliament of this jurisdiction;
+adult means an individual who is 18 or more;
+affidavit, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise;
+amend includes—
+(a) omit or omit and substitute; or
+(b) alter or vary; or
+(c) amend by implication;
+appoint includes reappoint;
+Australia means the Commonwealth of Australia but, when used in a geographical sense, does not include an external Territory;
+business day means a day that is not—
+(a) a Saturday or Sunday; or
+(b) a public holiday, special holiday or bank holiday in the place in which any relevant act is to be or may be done;
+calendar month means a period starting at the beginning of any day of one of the 12 named months and ending—
+(a) immediately before the beginning of the corresponding day of the next named month; or
+(b) if there is no such corresponding day—at the end of the next named month;
+calendar year means a period of 12 months beginning on 1 January;
+commencement, in relation to this Law or an Act or a provision of this Law or an Act, means the time at which this Law, the Act or provision comes into operation;
+Commonwealth means the Commonwealth of Australia but, when used in a geographical sense, does not include an external Territory;
+confer, in relation to a function, includes impose;
+contravene includes fail to comply with;
+country includes—
+(a) a federation; or
+(b) a state, province or other part of a federation;
+date of assent, in relation to an Act, means the day on which the Act receives the Royal Assent;
+definition means a provision of this Law (however expressed) that—
+(a) gives a meaning to a word or expression; or
+(b) limits or extends the meaning of a word or expression;
+document includes—
+(a) any paper or other material on which there is writing; and
+(b) any paper or other material on which there are marks, figures, symbols or perforations having a meaning for a person qualified to interpret them; and
+(c) any disc, tape or other article or any material from which sounds, images, writings or messages are capable of being reproduced (with or without the aid of another article or device);
+electronic communication means—
+(a) a communication of information in the form of data, text or images by means of guided or unguided electromagnetic energy, or both; or
+(b) a communication of information in the form of sound by means of guided or unguided electromagnetic energy, or both, where the sound is processed at its destination by an automated voice recognition system;
+estate includes easement, charge, right, title, claim, demand, lien or encumbrance, whether at law or in equity;
+expire includes lapse or otherwise cease to have effect;
+external Territory means a Territory, other than an internal Territory, for the government of which as a Territory provision is made by a Commonwealth Act;
+fail includes refuse;
+financial year means a period of 12 months beginning on 1 July;
+foreign country means a country (whether or not an independent sovereign State) outside Australia and the external Territories;
+function includes a power or duty;
+Government Printer means the Government Printer of this jurisdiction, and includes any other person authorised by the Government of this jurisdiction to print an Act or instrument;
+individual means a natural person;
+information system means a system for generating, sending, receiving, storing or otherwise processing electronic communications;
+insert, in relation to a provision of this Law, includes substitute;
+instrument includes a statutory instrument;
+interest, in relation to land or other property, means—
+(a) a legal or equitable estate in the land or other property; or
+(b) a right, power or privilege over, or in relation to, the land or other property;
+internal Territory means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory;
+Jervis Bay Territory means the Territory mentioned in the Jervis Bay Territory Acceptance Act 1915 of the Commonwealth;
+make includes issue or grant;
+minor means an individual who is under 18;
+modification includes addition, omission or substitution;
+month means a calendar month;
+named month means 1 of the 12 months of the year;
+Northern Territory means the Northern Territory of Australia;
+number means—
+(a) a number expressed in figures or words; or
+(b) a letter; or
+(c) a combination of a number so expressed and a letter;
+oath, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration or promise;
+office includes position;
+omit, in relation to a provision of this Law or an Act, includes repeal;
+party includes an individual or a body politic or corporate;
+penalty includes forfeiture or punishment;
+person includes an individual or a body politic or corporate;
+power includes authority;
+prescribed means prescribed by, or by regulations made or in force for the purposes of or under, this Law;
+printed includes typewritten, lithographed or reproduced by any mechanical means;
+proceeding means a legal or other action or proceeding;
+property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes things in action;
+provision, in relation to this Law or an Act, means words or other matter that form or forms part of this Law or the Act, and includes—
+(a) a Chapter, Part, Division, Subdivision, section, subsection, paragraph, subparagraph, subsubparagraph or Schedule of or to this Law or the Act; and
+(b) a section, clause, subclause, item, column, table or form of or in a Schedule to this Law or the Act; and
+(c) the long title and any preamble to the Act;
+record includes information stored or recorded by means of a computer;
+repeal includes—
+(a) revoke or rescind; and
+(b) repeal by implication; and
+(c) abrogate or limit the effect of this Law or the instrument concerned; and
+(d) exclude from, or include in, the application of this Law or the instrument concerned any person, subject matter or circumstance;
+sign includes the affixing of a seal or the making of a mark;
+statutory declaration means a declaration made under an Act, or under a Commonwealth Act or an Act of another jurisdiction, that authorises a declaration to be made otherwise than in the course of a judicial proceeding;
+statutory instrument means an instrument (including a regulation) made or in force under or for the purposes of this Law, and includes an instrument made or in force under any such instrument;
+swear, in relation to a person allowed by law to affirm, declare or promise, includes affirm, declare or promise;
+word includes any symbol, figure or drawing;
+writing includes any mode of representing or reproducing words in a visible form;
+year, without specifying the type of year, means calendar year.
+(2) In a statutory instrument—
+the Law means this Law.
+13—Provisions relating to defined terms and gender and number
+(1) If this Law defines a word or expression, other parts of speech and grammatical forms of the word or expression have corresponding meanings.
+(2) Definitions in or applicable to this Law apply except so far as the context or subject matter otherwise indicates or requires.
+(3) In this Law, words indicating a gender include each other gender.
+(4) In this Law—
+(a) words in the singular include the plural; and
+(b) words in the plural include the singular.
+14—Meaning of 'may' and 'must'
+(1) In this Law, the word may, or a similar word or expression, used in relation to a power indicates that the power may be exercised or not exercised, at discretion.
+(2) In this Law, the word must, or a similar word or expression, used in relation to a power indicates that the power is required to be exercised.
+(3) This section has effect despite any rule of construction to the contrary.
+15—Words and expressions used in statutory instruments
+(1) Words and expressions used in a statutory instrument have the same meanings as they have, from time to time, in this Law, or relevant provisions of this Law, under or for the purposes of which the instrument is made or in force.
+(2) This section has effect in relation to a statutory instrument except so far as the contrary intention appears in the instrument.
+16—Effect of express references to bodies corporate and individuals
+In this Law, a reference to a person generally (whether the expression “person”, “party”, “someone”, “anyone”, “no‑one”, “one”, “another” or “whoever” or another expression is used)—
+(a) does not exclude a reference to a body corporate or an individual merely because elsewhere in this Law there is particular reference to a body corporate (however expressed); and
+(b) does not exclude a reference to a body corporate or an individual merely because elsewhere in this Law there is particular reference to an individual (however expressed).
+17—Production of records kept in computers etc
+If a person who keeps a record of information by means of a mechanical, electronic or other device is required by or under this Law—
+(a) to produce the information or a document containing the information to a court, tribunal or person; or
+(b) to make a document containing the information available for inspection by a court, tribunal or person,
+then, unless the court, tribunal or person otherwise directs—
+(c) the requirement obliges the person to produce or make available for inspection, as the case may be, a document that reproduces the information in a form capable of being understood by the court, tribunal or person; and
+(d) the production to the court, tribunal or person of the document in that form complies with the requirement.
+18—References to this jurisdiction to be implied
+In this Law—
+(a) a reference to an officer, office or statutory body is a reference to such an officer, office or statutory body in and for this jurisdiction; and
+(b) a reference to a locality or other matter or thing is a reference to such a locality or other matter or thing in and of this jurisdiction.
+19—References to officers and holders of offices
+In this Law, a reference to a particular officer, or to the holder of a particular office, includes a reference to the person for the time being occupying or acting in the office concerned.
+20—Reference to certain provisions of Law
+If a provision of this Law refers—
+(a) to a Chapter, Part, section or Schedule by a number and without reference to this Law—the reference is a reference to the Chapter, Part, section or Schedule, designated by the number, of or to this Law; or
+(b) to a Schedule without reference to it by a number and without reference to this Law—the reference, if there is only one Schedule to this Law, is a reference to the Schedule; or
+(c) to a Division, Subdivision, subsection, paragraph, subparagraph, subsubparagraph, clause, subclause, item, column, table or form by a number and without reference to this Law—the reference is a reference to—
+(i) the Division, designated by the number, of the Part in which the reference occurs; and
+(ii) the Subdivision, designated by the number, of the Division in which the reference occurs; and
+(iii) the subsection, designated by the number, of the section in which the reference occurs; and
+(iv) the paragraph, designated by the number, of the section, subsection, Schedule or other provision in which the reference occurs; and
+(v) the paragraph, designated by the number, of the clause, subclause, item, column, table or form of or in the Schedule in which the reference occurs; and
+(vi) the subparagraph, designated by the number, of the paragraph in which the reference occurs; and
+(vii) the subsubparagraph, designated by the number, of the subparagraph in which the reference occurs; and
+(viii) the section, clause, subclause, item, column, table or form, designated by the number, of or in the Schedule in which the reference occurs,
+as the case requires.
+21—Reference to provisions of this Law or an Act is inclusive
+In this Law, a reference to a portion of this Law or an Act includes—
+(a) a reference to the Chapter, Part, Division, Subdivision, section, subsection or other provision of this Law or the Act referred to that forms the beginning of the portion; and
+(b) a reference to the Chapter, Part, Division, Subdivision, section, subsection or other provision of this Law or the Act referred to that forms the end of the portion.
+Example—
+A reference to “sections 5 to 9” includes both section 5 and section 9. It is not necessary to refer to “sections 5 to 9 (both inclusive)” to ensure that the reference is given an inclusive interpretation.
+Part 4—Functions and powers
+22—Exercise of statutory functions
+(1) If this Law confers a function on a person or body, the function may be exercised from time to time as occasion requires.
+(2) If this Law confers a function on a particular officer or the holder of a particular office, the function may be exercised by the person for the time being occupying or acting in the office concerned.
+(3) If this Law confers a function on a body (whether or not incorporated), the exercise of the function is not affected merely because of vacancies in the membership of the body.
+23—Power to make instrument or decision includes power to amend or repeal
+If this Law authorises or requires the making of an instrument or decision—
+(a) the power includes power to amend or repeal the instrument or decision; and
+(b) the power to amend or repeal the instrument or decision is exercisable in the same way, and subject to the same conditions, as the power to make the instrument or decision.
+24—Matters for which statutory instruments may make provision
+(1) If this Law authorises or requires the making of a statutory instrument in relation to a matter, a statutory instrument made under this Law may make provision for the matter by applying, adopting or incorporating (with or without modification) the provisions of—
+(a) an Act or statutory instrument; or
+(b) another document (whether of the same or a different kind),
+as in force at a particular time or as in force from time to time.
+(2) If a statutory instrument applies, adopts or incorporates the provisions of a document, the statutory instrument applies, adopts or incorporates the provisions as in force from time to time, unless the statutory instrument otherwise expressly provides.
+(3) A statutory instrument may—
+(a) apply generally throughout this jurisdiction or be limited in its application to a particular part of this jurisdiction; or
+(b) apply generally to all persons, matters or things or be limited in its application to—
+(i) particular persons, matters or things; or
+(ii) particular classes of persons, matters or things; or
+(c) otherwise apply generally or be limited in its application by reference to specified exceptions or factors.
+(4) A statutory instrument may—
+(a) apply differently according to different specified factors; or
+(b) otherwise make different provision in relation to—
+(i) different persons, matters or things; or
+(ii) different classes of persons, matters or things.
+(5) A statutory instrument may authorise a matter or thing to be from time to time determined, applied or regulated by a specified person or body.
+(6) If this Law authorises or requires a matter to be regulated by statutory instrument, the power may be exercised by prohibiting by statutory instrument the matter or any aspect of the matter.
+(7) If this Law authorises or requires provision to be made with respect to a matter by statutory instrument, a statutory instrument made under this Law may make provision with respect to a particular aspect of the matter despite the fact that provision is made by this Law in relation to another aspect of the matter or in relation to another matter.
+(8) A statutory instrument may provide for the review of, or a right of appeal against, a decision made under the statutory instrument, or this Law, and may, for that purpose, confer jurisdiction on any court, tribunal, person or body.
+(9) A statutory instrument may require a form prescribed by or under the statutory instrument, or information or documents included in, attached to or given with the form, to be verified by statutory declaration.
+25—Presumption of validity and power to make
+(1) All conditions and preliminary steps required for the making of a statutory instrument are presumed to have been satisfied and performed in the absence of evidence to the contrary.
+(2) A statutory instrument is taken to be made under all powers under which it may be made, even though it purports to be made under this Law or a particular provision of this Law.
+26—Appointments may be made by name or office
+(1) If this Law authorises or requires a person or body—
+(a) to appoint a person to an office; or
+(b) to appoint a person or body to exercise a power; or
+(c) to appoint a person or body to do another thing,
+the person or body may make the appointment by—
+(d) appointing a person or body by name; or
+(e) appointing a particular officer, or the holder of a particular office, by reference to the title of the office concerned.
+(2) An appointment of a particular officer, or the holder of a particular office, is taken to be the appointment of the person for the time being occupying or acting in the office concerned.
+27—Acting appointments
+(1) If this Law authorises a person or body to appoint a person to act in an office, the person or body may, in accordance with this Law, appoint—
+(a) a person by name; or
+(b) a particular officer, or the holder of a particular office, by reference to the title of the office concerned,
+to act in the office.
+(2) The appointment may be expressed to have effect only in the circumstances specified in the instrument of appointment.
+(3) The appointer may—
+(a) determine the terms and conditions of the appointment, including remuneration and allowances; and
+(b) terminate the appointment at any time.
+(4) The appointment, or the termination of the appointment, must be in, or evidenced by, writing signed by the appointer.
+(5) The appointee must not act for more than 1 year during a vacancy in the office.
+(6) If the appointee is acting in the office otherwise than because of a vacancy in the office and the office becomes vacant, then, subject to subsection (2), the appointee may continue to act until—
+(a) the appointer otherwise directs; or
+(b) the vacancy is filled; or
+(c) the end of a year from the day of the vacancy,
+whichever happens first.
+(7) The appointment ceases to have effect if the appointee resigns by writing signed and delivered to the appointer.
+(8) While the appointee is acting in the office—
+(a) the appointee has all the powers and functions of the holder of the office; and
+(b) this Law and other laws apply to the appointee as if the appointee were the holder of the office.
+(9) Anything done by or in relation to a person purporting to act in the office is not invalid merely because—
+(a) the occasion for the appointment had not arisen; or
+(b) the appointment had ceased to have effect; or
+(c) the occasion for the person to act had not arisen or had ceased.
+(10) If this Law authorises the appointer to appoint a person to act during a vacancy in the office, an appointment to act in the office may be made by the appointer whether or not an appointment has previously been made to the office.
+28—Powers of appointment imply certain incidental powers
+(1) If this Law authorises or requires a person or body to appoint a person to an office—
+(a) the power may be exercised from time to time as occasion requires; and
+(b) the power includes—
+(i) power to remove or suspend, at any time, a person appointed to the office; and
+(ii) power to appoint another person to act in the office if a person appointed to the office is removed or suspended; and
+(iii) power to reinstate or reappoint a person removed or suspended; and
+(iv) power to appoint a person to act in the office if it is vacant (whether or not the office has ever been filled); and
+(v) power to appoint a person to act in the office if the person appointed to the office is absent or is unable to discharge the functions of the office (whether because of illness or otherwise).
+(2) The power to remove or suspend a person under subsection (1)(b) may be exercised even if this Law provides that the holder of the office to which the person was appointed is to hold office for a specified period.
+(3) The power to make an appointment under subsection (1)(b) may be exercised from time to time as occasion requires.
+(4) An appointment under subsection (1)(b) may be expressed to have effect only in the circumstances specified in the instrument of appointment.
+29—Delegation of functions
+(1) If this Law authorises a person or body to delegate a function, the person or body may, in accordance with this Law and any other applicable law, delegate the function to—
+(a) a person or body by name; or
+(b) a specified officer, or the holder of a specified office, by reference to the title of the office concerned.
+(2) The delegation may be—
+(a) general or limited; and
+(b) made from time to time; and
+(c) revoked, wholly or partly, by the delegator.
+(3) The delegation, or a revocation of the delegation, must be in, or evidenced by, writing signed by the delegator or, if the delegator is a body, by a person authorised by the body for the purpose.
+(4) A delegated function may be exercised only in accordance with any conditions to which the delegation is subject.
+(5) The delegate may, in the exercise of a delegated function, do anything that is incidental to the delegated function.
+(6) A delegated function that purports to have been exercised by the delegate is taken to have been properly exercised by the delegate unless the contrary is proved.
+(7) A delegated function that is properly exercised by the delegate is taken to have been exercised by the delegator.
+(8) If, when exercised by the delegator, a function is dependent on the delegator's opinion, belief or state of mind, then, when exercised by the delegate, the function is dependent on the delegate's opinion, belief or state of mind.
+(9) If—
+(a) the delegator is a specified officer or the holder of a specified office; and
+(b) the person who was the specified officer or holder of the specified office when the delegation was made ceases to be the holder of the office,
+then—
+(c) the delegation continues in force; and
+(d) the person for the time being occupying or acting in the office concerned is taken to be the delegator for the purposes of this section.
+(10) If—
+(a) the delegator is a body; and
+(b) there is a change in the membership of the body,
+then—
+(c) the delegation continues in force; and
+(d) the body as constituted for the time being is taken to be the delegator for the purposes of this section.
+(11) If a function is delegated to a specified officer or the holder of a specified office—
+(a) the delegation does not cease to have effect merely because the person who was the specified officer or the holder of the specified office when the function was delegated ceases to be the officer or the holder of the office; and
+(b) the function may be exercised by the person for the time being occupying or acting in the office concerned.
+(12) A function that has been delegated may, despite the delegation, be exercised by the delegator.
+(13) The delegation of a function does not relieve the delegator of the delegator's obligation to ensure that the function is properly exercised.
+(14) Subject to subsection (15), this section applies to a subdelegation of a function in the same way as it applies to a delegation of a function.
+(15) If this Law authorises the delegation of a function, the function may be subdelegated only if the Law expressly authorises the function to be subdelegated.
+30—Exercise of powers between enactment and commencement
+(1) If a provision of this Law (the empowering provision) that does not commence on its enactment would, had it commenced, confer a power—
+(a) to make an appointment; or
+(b) to make a statutory instrument of a legislative or administrative character; or
+(c) to do another thing,
+then—
+(d) the power may be exercised; and
+(e) anything may be done for the purpose of enabling the exercise of the power or of bringing the appointment, instrument or other thing into effect,
+before the empowering provision commences.
+(2) If a provision of a Queensland Act (the empowering provision) that does not commence on its enactment would, had it commenced, amend a provision of this Law so that it would confer a power—
+(a) to make an appointment; or
+(b) to make a statutory instrument of a legislative or administrative character; or
+(c) to do another thing,
+then—
+(d) the power may be exercised; and
+(e) anything may be done for the purpose of enabling the exercise of the power or of bringing the appointment, instrument or other thing into effect,
+before the empowering provision commences.
+(3) If—
+(a) this Law has commenced and confers a power to make a statutory instrument (the basic instrument‑making power); and
+(b) a provision of a Queensland Act that does not commence on its enactment would, had it commenced, amend this Law so as to confer additional power to make a statutory instrument (the additional instrument‑making power),
+then—
+(c) the basic instrument‑making power and the additional instrument‑making power may be exercised by making a single instrument; and
+(d) any provision of the instrument that required an exercise of the additional instrument‑making power is to be treated as made under subsection (2).
+(4) If an instrument, or a provision of an instrument, is made under subsection (1) or (2) that is necessary for the purpose of—
+(a) enabling the exercise of a power mentioned in the subsection; or
+(b) bringing an appointment, instrument or other thing made or done under such a power into effect,
+the instrument or provision takes effect—
+(c) on the making of the instrument; or
+(d) on such later day (if any) on which, or at such later time (if any) at which, the instrument or provision is expressed to take effect.
+(5) If—
+(a) an appointment is made under subsection (1) or (2); or
+(b) an instrument, or a provision of an instrument, made under subsection (1) or (2) is not necessary for a purpose mentioned in subsection (4),
+the appointment, instrument or provision takes effect—
+(c) on the commencement of the relevant empowering provision; or
+(d) on such later day (if any) on which, or at such later time (if any) at which, the appointment, instrument or provision is expressed to take effect.
+(6) Anything done under subsection (1) or (2) does not confer a right, or impose a liability, on a person before the relevant empowering provision commences.
+(7) After the enactment of a provision mentioned in subsection (2) but before the provision's commencement, this section applies as if the references in subsections (2) and (5) to the commencement of the empowering provision were references to the commencement of the provision mentioned in subsection (2) as amended by the empowering provision.
+(8) In the application of this section to a statutory instrument, a reference to the enactment of the instrument is a reference to the making of the instrument.
+Part 5—Distance, time and age
+31—Matters relating to distance, time and age
+(1) In the measurement of distance for the purposes of this Law, the distance is to be measured along the shortest road ordinarily used for travelling.
+(2) If a period beginning on a given day, act or event is provided or allowed for a purpose by this Law, the period is to be calculated by excluding the day, or the day of the act or event, and—
+(a) if the period is expressed to be a specified number of clear days or at least a specified number of days—by excluding the day on which the purpose is to be fulfilled; and
+(b) in any other case—by including the day on which the purpose is to be fulfilled.
+(3) If the last day of a period provided or allowed by this Law for doing anything is not a business day in the place in which the thing is to be or may be done, the thing may be done on the next business day in the place.
+(4) If the last day of a period provided or allowed by this Law for the filing or registration of a document is a day on which the office is closed where the filing or registration is to be or may be done, the document may be filed or registered at the office on the next day that the office is open.
+(5) If no time is provided or allowed for doing anything, the thing is to be done as soon as possible, and as often as the prescribed occasion happens.
+(6) If, in this Law, there is a reference to time, the reference is, in relation to the doing of anything in a jurisdiction, a reference to the legal time in the jurisdiction.
+(7) For the purposes of this Law, a person attains an age in years at the beginning of the person's birthday for the age.
+Part 6—Effect of repeal, amendment or expiration
+32—Time of Law ceasing to have effect
+If a provision of this Law is expressed—
+(a) to expire on a specified day; or
+(b) to remain or continue in force, or otherwise have effect, until a specified day,
+the provision has effect until the last moment of the specified day.
+33—Repealed Law provisions not revived
+If a provision of this Law is repealed or amended by a Queensland Act, or a provision of a Queensland Act, the provision is not revived merely because the Queensland Act or the provision of the Queensland Act—
+(a) is later repealed or amended; or
+(b) later expires.
+34—Saving of operation of repealed Law provisions
+(1) The repeal, amendment or expiry of a provision of this Law does not—
+(a) revive anything not in force or existing at the time the repeal, amendment or expiry takes effect; or
+(b) affect the previous operation of the provision or anything suffered, done or begun under the provision; or
+(c) affect a right, privilege or liability acquired, accrued or incurred under the provision; or
+(d) affect a penalty incurred in relation to an offence arising under the provision; or
+(e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
+(2) Any such penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced, as if the provision had not been repealed or amended or had not expired.
+35—Continuance of repealed provisions
+If a Queensland Act repeals some provisions of this Law and enacts new provisions in substitution for the repealed provisions, the repealed provisions continue in force until the new provisions commence.
+36—Law and amending Acts to be read as one
+This Law and all Queensland Acts amending this Law are to be read as one.
+Part 7—Instruments under Law
+37—Schedule applies to statutory instruments
+(1) This Schedule applies to a statutory instrument, and to things that may be done or are required to be done under a statutory instrument, in the same way as it applies to this Law, and things that may be done or are required to be done under this Law, except so far as the context or subject matter otherwise indicates or requires.
+(2) The fact that a provision of this Schedule refers to this Law and not also to a statutory instrument does not, by itself, indicate that the provision is intended to apply only to this Law.
+Part 8—Application to coastal waters
+38—Application
+This Law has effect in and in relation to the coastal waters of this jurisdiction as if the coastal waters were part of this jurisdiction.
+Schedule 2—Subject matter for conditions of mass or dimension authorities
+sections 119, 125 and 146
+1 │ the maximum permissible mass of a heavy vehicle, a heavy vehicle together with its load, or a component of a heavy vehicle, being used on a road │
+2 │ the maximum permissible dimensions of a heavy vehicle (including its equipment), or a component or load of a heavy vehicle, being used on a road │
+3 │ the configuration of a heavy vehicle │
+4 │ the types of loads a heavy vehicle may carry │
+5 │ the use of signs and warning devices │
+6 │ the use of a pilot vehicle or escort vehicle │
+7 │ the times when a heavy vehicle may be used on a road │
+8 │ the maximum speed at which a heavy vehicle may be driven on a road │
+9 │ requirements about monitoring the movement of a heavy vehicle │
+10 │ the use of stated technology to— │
+│ (a) ensure the safe use of a heavy vehicle; or │
+│ (b) ensure a heavy vehicle will not cause damage to road infrastructure; or │
+│ (c) minimise the adverse effect of the use of a heavy vehicle on public amenity │
+Schedule 3—Reviewable decisions
+section 640, definition reviewable decision
+Part 1—Decisions of Regulator
+Section under which decision made │ Description of decision │
+section 22 │ decision of Regulator not to grant a PBS design approval │
+section 22 │ decision of Regulator to impose a condition in relation to a PBS design approval, except to the extent the decision relates to a condition imposed as a result of a ministerial notice under section 21 │
+section 23 │ decision of Regulator not to grant a PBS vehicle approval │
+section 23 │ decision of Regulator to impose a condition in relation to a PBS vehicle approval, except to the extent the decision relates to a condition imposed as a result of a ministerial notice under section 21 │
+section 68 │ decision of Regulator not to grant a vehicle standards exemption (permit) │
+section 68 │ decision of Regulator to grant a vehicle standards exemption (permit) for a period less than the period of not more than 3 years sought by the applicant │
+section 71 │ decision of Regulator to impose on a vehicle standards exemption (permit) a condition not sought by the applicant │
+section 75 │ decision of Regulator not to make a decision sought in an application for amendment or cancellation of a vehicle standards exemption (permit) │
+section 76 │ decision of Regulator to amend or cancel a vehicle standards exemption (permit) │
+section 77 │ decision of Regulator to immediately suspend a vehicle standards exemption (permit) │
+section 80 │ decision of Regulator not to give a replacement permit for a vehicle standards exemption (permit) │
+section 122 │ decision of Regulator not to grant a mass or dimension exemption (permit) other than because a relevant road manager for the exemption did not consent to the grant │
+section 122 │ decision of Regulator to grant a mass or dimension exemption (permit) for a period less than the period of not more than 3 years sought by the applicant │
+section 125 │ decision of Regulator to impose on a mass or dimension exemption (permit) a condition not sought by the applicant and not a road condition or travel condition required by a relevant road manager for the exemption │
+section 143 │ decision of Regulator not to grant a class 2 heavy vehicle authorisation (permit) other than because a relevant road manager for the authorisation did not consent to the grant │
+section 143 │ decision of Regulator to grant a class 2 heavy vehicle authorisation (permit) for a period less than the period of not more than 3 years sought by the applicant │
+section 146 │ decision of Regulator to impose on a class 2 heavy vehicle authorisation (permit) a condition not sought by the applicant and not a road condition or travel condition required by a relevant road manager for the authorisation │
+section 176 │ decision of Regulator not to make a decision sought in an application for amendment of a mass or dimension authority granted by giving a person a permit │
+section 177 │ decision of Regulator to amend or cancel a mass or dimension authority granted by giving a person a permit, other than at the request of a relevant road manager │
+section 179 │ decision of Regulator to immediately suspend a mass or dimension authority granted by giving a person a permit │
+section 182 │ decision of Regulator not to give a replacement permit for a mass or dimension authority │
+section 273 │ decision of Regulator not to grant a work and rest hours exemption (permit) │
+section 273 │ decision of Regulator to grant a work and rest hours exemption (permit) that does not cover all of the drivers sought by the applicant │
+section 273 │ decision of Regulator to grant a work and rest hours exemption (permit) setting maximum work times or minimum rest times different to the maximum work times or minimum rest times sought by the applicant │
+section 273 │ decision of Regulator to grant a work and rest hours exemption (permit) for a period less than the period of not more than 3 years sought by the applicant │
+section 276 │ decision of Regulator to impose on a work and rest hours exemption (permit) a condition not sought by the applicant │
+section 280 │ decision of Regulator not to make a decision sought in an application for the amendment or cancellation of a work and rest hours exemption (permit) │
+section 281 │ decision of Regulator to amend or cancel a work and rest hours exemption (permit) │
+section 282 │ decision of Regulator to immediately suspend a work and rest hours exemption (permit) │
+section 285 │ decision of Regulator not to give a replacement permit for a work and rest hours exemption (permit) │
+section 343 │ decision of Regulator not to grant an electronic recording system approval │
+section 343 │ decision of Regulator to impose on an electronic recording system approval a condition not sought by the applicant │
+section 351 │ decision of Regulator not to make a decision sought in an application for amendment or cancellation of an electronic recording system approval │
+section 352 │ decision of Regulator to amend or cancel an electronic recording system approval │
+section 363 │ decision of Regulator not to grant a work diary exemption (permit) │
+section 363 │ decision of Regulator to grant a work diary exemption (permit) for a period less than the period of not more than 3 years sought by the applicant │
+section 366 │ decision of Regulator to impose on a work diary exemption (permit) a condition not sought by the applicant │
+section 370 │ decision of Regulator not to make a decision sought in an application for the amendment or cancellation of a work exemption (permit) │
+section 371 │ decision of Regulator to amend or cancel a work diary exemption (permit) │
+section 374 │ decision of Regulator not to give a replacement permit for work diary exemption (permit) │
+section 379 │ decision of Regulator to impose a condition on a fatigue record keeping exemption (notice) │
+section 383 │ decision of Regulator to grant a fatigue record keeping exemption (permit) in a way that does not cover all the drivers sought by the applicant │
+section 383 │ decision of Regulator to grant a fatigue record keeping exemption (permit) setting conditions different from those sought by the applicant │
+section 385 │ decision of Regulator to impose a condition on a fatigue record keeping exemption (permit) │
+section 387 │ decision of Regulator to give a fatigue record keeping exemption (permit) for a period less than the period of not more than 3 years sought by the applicant │
+section 388 │ decision of Regulator not to grant a fatigue record keeping exemption (permit) │
+section 389 │ decision of Regulator not to make a decision sought in an application for amendment or cancellation of a fatigue record keeping exemption (permit) │
+section 390 │ decision of Regulator to amend or cancel a fatigue record keeping exemption (permit) │
+section 393 │ decision of Regulator not to give a replacement fatigue record keeping exemption permit │
+section 458 │ decision of Regulator not to grant a heavy vehicle accreditation │
+section 458 │ decision of Regulator to grant a heavy vehicle accreditation for a period less than the period of not more than 3 years sought by the applicant │
+section 458 │ decision of Regulator to grant an AFM accreditation setting maximum work times and minimum rest times different to the maximum work times and minimum rest times sought by the applicant │
+section 462(2) │ decision of Regulator to impose on a heavy vehicle accreditation a condition not sought by the applicant │
+section 472 │ decision of Regulator not to make a decision sought in an application for amendment or cancellation of a heavy vehicle accreditation │
+section 473 │ decision of Regulator to amend, suspend or cancel a heavy vehicle accreditation │
+section 474 │ decision of Regulator to immediately suspend a heavy vehicle accreditation │
+section 477 │ decision of Regulator not to give a replacement accreditation certificate │
+section 561 │ decision of Regulator that a thing or sample is forfeited to the Regulator │
+Part 2—Decisions of authorised officers
+Section under which decision made │ Description of decision │
+section 572 │ decision of an authorised officer who is not a police officer to give a person an improvement notice │
+sections 572 and 574 │ decision of an authorised officer who is not a police officer to amend an improvement notice given to a person │
+Part 3—Decisions of relevant road managers
+Section under which decision made │ Description of decision │
+section 156 │ decision of a relevant road manager for a mass or dimension authority, that is a public authority, not to consent to the grant of the authority │
+section 160 │ decision of a relevant road manager for a mass or dimension authority, that is a public authority, to consent to the grant of the authority subject to a condition that a road condition be imposed on the authority │
+section 161 │ decision of a relevant road manager for a mass or dimension authority, that is a public authority, to consent to the grant of the authority subject to a condition that a travel condition be imposed on the authority │
+section 174 │ decision of a relevant road manager for a mass or dimension authority (granted by Commonwealth Gazette notice), that is a public authority, to request the authority be amended or cancelled │
+section 178 │ decision of a relevant road manager for a mass or dimension authority (granted by giving a person a permit), that is a public authority, to request the authority be amended or cancelled │
+Schedule 4—Provisions specified for liability of executive officers for offences by corporations
+section 636
+The provisions specified in column 2 of the following table are specified for the purposes of section 636(1). The provisions specified in column 3 of the table are specified for the purposes of section 636(2).
+Column 1 │ Column 2 │ Column 3 │
+Section of this Law │ Provision specified for the purposes of section 636(1) │ Provision specified for the purposes of section 636(2) │
+30 │ 30(1) │ 30(1) │
+50 │ 50(1), 50(2) │ — │
+60 │ 60(1) │ 60(1) │
+79 │ 79(2) │ 79(2) │
+81 │ 81(1), 81(2), 81(3) │ 81(1), 81(2), 81(3) │
+85 │ 85(1), 85(2) │ 85(2) │
+89 │ 89(1) │ 89(1) │
+93 │ 93(1) │ 93(1) │
+129 │ 129(1), 129(2), 129(3) │ 129(1), 129(2), 129(3) │
+130 │ 130(3) │ 130(3) │
+137 │ 137 │ 137 │
+150 │ 150(1) │ 150(1) │
+181 │ 181(3) │ — │
+183 │ 183(2) │ 183(2) │
+185 │ 185(1), 185(2) │ 185(1), 185(2) │
+186 │ 186(2), 186(3), 186(4), 186(5) │ 186(2), 186(3), 186(4), 186(5) │
+187 │ 187(2), 187(3) │ 187(2), 187(3) │
+190 │ 190(1) │ 190(1) │
+191 │ 191(1), 191(3) │ 191(1), 191(3) │
+193 │ 193(2) │ 193(2) │
+194 │ 194(1) │ 194(1) │
+204 │ 204(1) │ 204(1) │
+205 │ 205(1) │ 205(1) │
+206 │ 206(2) │ 206(2) │
+207 │ 207(1) │ 207(1) │
+208 │ 208(1) │ 208(1) │
+209 │ 209(1) │ 209(1) │
+212 │ 212(1), 212(2) │ 212(1), 212(2) │
+213 │ 213 │ 213 │
+215 │ 215 │ 215 │
+216 │ 216(1), 216(2) │ 216(1), 216(2) │
+219 │ 219(1) │ 219(1) │
+229 │ 229(1) │ 229(1) │
+230 │ 230(1) │ 230(1) │
+231 │ 231(1) │ 231(1) │
+232 │ 232(2) │ 232(2) │
+233 │ 233(1) │ 233(1) │
+234 │ 234(1) │ 234(1) │
+235 │ 235(1), 235(2) │ 235(1), 235(2) │
+236 │ 236(1) │ 236(1) │
+237 │ 237(1) │ 237(1) │
+238 │ 238(1) │ 238(1) │
+239 │ 239(2) │ 239(2) │
+240 │ 240 │ 240 │
+241 │ 241(1), 241(2) │ 241(1), 241(2) │
+261 │ 261(2) │ 261(2) │
+264 │ 264(2) │ 264(2) │
+284 │ 284(2) │ 284(2) │
+286 │ 286(1) │ 286(1) │
+310 │ 310(2) │ 310(2) │
+311 │ 311(2) │ 311(2) │
+312 │ 312(2) │ 312(2) │
+313 │ 313(2), 313(3) │ 313(2) │
+314 │ 314(3) │ — │
+315 │ 315(2) │ 315(2) │
+319 │ 319(1) │ 319(1) │
+321 │ 321(1), 321(3) │ 321(1), 321(3) │
+322 │ 322(4) │ 322(4) │
+323 │ 323(3) │ 323(3) │
+324 │ 324(2) │ 324(2) │
+327 │ 327 │ 327 │
+328 │ 328 │ — │
+329 │ 329 │ — │
+330 │ 330(1) │ — │
+331 │ 331 │ — │
+332 │ 332 │ — │
+335 │ 335(1) │ 335(1) │
+336 │ 336(1) │ 336(1) │
+337 │ 337(2) │ 337(2) │
+341 │ 341(1), 341(2), 341(3), 341(4) │ 341(1), 341(2), 341(3), 341(4) │
+347 │ 347 │ — │
+354 │ 354(3), 354(5) │ 354(3), 354(5) │
+355 │ 355(2), 355(4), 355(6) │ 355(2), 355(4), 355(6) │
+373 │ 373(2) │ — │
+375 │ 375 │ 375 │
+396 │ 396(2) │ 396(2) │
+398 │ 398(2) │ 398(2) │
+399 │ 399(2) │ 399(2) │
+404 │ 404(1), 404(4) │ 404(1), 404(4) │
+405 │ 405(1) │ — │
+406 │ 406(1), 406(2) │ 406(1) │
+417 │ 417 │ — │
+422 │ 422(2) │ 422(2) │
+423 │ 423(1) │ 423(1) │
+424 │ 424(1), 424(3) │ 424(1), 424(3) │
+451 │ 451 │ 451 │
+452 │ 452 │ 452 │
+453 │ 453(1), 453(2) │ 453(1), 453(2) │
+454 │ 454(1), 454(2) │ 454(1), 454(2) │
+467 │ 467 │ 467 │
+470 │ 470(2), 470(3), 470(4), 470(5), 470(6) │ 470(2), 470(3), 470(4), 470(5), 470(6) │
+471 │ 471(2) │ 471(2) │
+476 │ 476(2) │ 476(2) │
+478 │ 478(1), 478(2), 478(3), 478(4) │ — │
+514 │ 514(3) │ — │
+516 │ 516(3) │ — │
+517 │ 517(4) │ — │
+528 │ 528(3) │ — │
+529 │ 529 │ 529 │
+533 │ 533(7) │ — │
+534 │ 534(5) │ — │
+535 │ 535(5) │ — │
+553 │ 553(3) │ — │
+558 │ 558(1), 558(3) │ 558(1), 558(3) │
+559 │ 559(3), 559(4), 559(5) │ 559(3), 559(4), 559(5) │
+567 │ 567(4) │ — │
+568 │ 568(7) │ — │
+569 │ 569(2), 569(7) │ — │
+570 │ 570(3) │ — │
+573 │ 573(1) │ 573(1) │
+577 │ 577(4) │ — │
+604 │ 604 │ 604 │
+610 │ 610 │ 610 │
+699 │ 699(1), 699(2) │ 699(1), 699(2) │
+700 │ 700(4) │ 700(4) │
+702 │ 702(1), 702(3) │ — │
+703 │ 703(1), 703(2) │ — │
+704 │ 704(1), 704(2), 704(3) │ — │
+728 │ 728(1) │ 728(1) │
+728A │ 728A(1) │ — │
+729 │ 729(1), 729(3) │ 729(1), 729(3) │
+729A │ 729A(1), 729A(2) │ — │
