@@ -33,7 +33,7 @@ Division 3B—Provisions relating to breaches of light vehicle mass, dimension a
 Subdivision 1—Preliminary
 Subdivision 3—Liability for breaches of light vehicle mass, dimension or load restraint requirements
 Division 4—Enforcement powers
-Subdivision 1—Defect notices relating to breaches of vehicle standards or maintenance requirements
+Subdivision 1—Defect notices relating to breaches of light vehicle standards or maintenance requirements
 Subdivision 2—Powers relating to breaches of light vehicle mass, dimension or load restraint requirements
 Division 5—Further safety provisions
 Division 7—Power of exemption
