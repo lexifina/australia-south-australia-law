@@ -33,6 +33,7 @@ Part 4—Contact arrangements in respect of children and young people
 Part 5—Voluntary custody agreements
 Part 6—Foster care agencies
 Part 7—Licensed children's residential facilities
+Part 7A—Assessment of employees in other residential facilities
 Part 8—Provision of assistance to care leavers
 Part 9—Miscellaneous
 Chapter 8—Providing safe environments for children and young people
