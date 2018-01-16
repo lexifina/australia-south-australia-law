@@ -25,6 +25,7 @@ This Law commences in a participating jurisdiction as provided by the Act of tha
 An entity that has functions under this Law is to exercise its functions having regard to the objectives and guiding principles of the national registration and accreditation scheme set out in section 3.
 5—Definitions
 In this Law—
+ACC means the Australian Crime Commission established under section 7 of the Australian Crime Commission Act 2002 of the Commonwealth.
 accreditation authority means—
 (a) an external accreditation entity; or
 (b) an accreditation committee.
@@ -71,7 +72,6 @@ criminal history, of a person, means the following—
 (b) every plea of guilty or finding of guilt by a court of the person for an offence, in a participating jurisdiction or elsewhere, and whether before or after the commencement of this Law and whether or not a conviction is recorded for the offence;
 (c) every charge made against the person for an offence, in a participating jurisdiction or elsewhere, and whether before or after the commencement of this Law.
 criminal history law means a law of a participating jurisdiction that provides that spent or other convictions do not form part of a person's criminal history and prevents or does not require the disclosure of those convictions.
-CrimTrac means the CrimTrac agency established under section 65 of the Public Service Act 1999 of the Commonwealth.
 division, of a health profession, means a part of a health profession for which a Division is included in the National Register kept for the profession.
 education provider means—
 (a) a university; or
@@ -128,7 +128,7 @@ impairment, in relation to a person, means the person has a physical or mental i
 local registration authority means an entity having functions under a law of a State or Territory that include the registration of persons as health practitioners.
 mandatory notification means a notification an entity is required to make to the National Agency under Division 2 of Part 8.
 medical practitioner means a person who is registered under this Law in the medical profession.
-Ministerial Council means the Australian Health Workforce Ministerial Council comprising Ministers of the governments of the participating jurisdictions and the Commonwealth with portfolio responsibility for health.
+Ministerial Council means the COAG Health Council, or a successor of the Council by whatever name called, constituted by Ministers of the governments of the participating jurisdictions and the Commonwealth with portfolio responsibility for health.
 National Agency means the Australian Health Practitioner Regulation Agency established by section 23.
 National Board means a National Health Practitioner Board established by section 31.
 National Register means the Register kept by a National Board under section 222.
@@ -158,6 +158,11 @@ professional misconduct, of a registered health practitioner, includes—
 (b) more than one instance of unprofessional conduct that, when considered together, amounts to conduct that is substantially below the standard reasonably expected of a registered health practitioner of an equivalent level of training or experience; and
 (c) conduct of the practitioner, whether occurring in connection with the practice of the health practitioner's profession or not, that is inconsistent with the practitioner being a fit and proper person to hold registration in the profession.
 program of study means a program of study provided by an education provider.
+prohibition order means—
+(a) a decision by a responsible tribunal of this jurisdiction under section 196(4)(b); or
+(b) a decision by a responsible tribunal of another participating jurisdiction under section 196(4)(b) as it applies in the other jurisdiction; or
+(c) a prohibition order under section 149C(5) of the Health Practitioner Regulation National Law (NSW); or
+(d) a decision under section 107(4)(b) of the Health Ombudsman Act 2013 of Queensland.
 psychologist means a person registered under this Law in the psychology profession.
 public health facility includes—
 (a) a public hospital; and
@@ -733,6 +738,12 @@ Division 4—Limited registration
 (c) the individual is a suitable person to hold limited registration in the profession; and
 (d) the individual is not disqualified under this Law or a law of a co‑regulatory jurisdiction from applying for registration, or being registered, in the health profession; and
 (e) the individual meets any other requirements for registration stated in an approved registration standard for the health profession.
+(1a) Subsection (1b) applies if—
+(a) an individual is registered in a health profession for which divisions are included in the National Register kept for the profession; and
+(b) the individual holds general or limited registration in a division.
+(1b) Despite subsection (1)(a) and (b), the individual is eligible for limited registration in another division of the profession if the individual—
+(a) is not qualified for general registration under the other division; and
+(b) is qualified under this Division for limited registration under the other division.
 (2) Without limiting subsection (1), the National Board established for the health profession may decide the individual is eligible for registration in the profession by imposing conditions on the registration under section 83.
 66—Limited registration for postgraduate training or supervised practice
 (1) An individual may apply for limited registration to enable the individual to undertake a period of postgraduate training or supervised practice in a health profession, or to undertake assessment or sit an examination, approved by the National Board established for the profession.
@@ -758,7 +769,10 @@ health services means the provision of services by health practitioners in a par
 (1) Section 55 applies to a decision by a National Board that an individual is not a suitable person to hold limited registration in a health profession.
 (2) For the purposes of subsection (1), a reference in section 55 to general registration in the health profession is taken to be a reference to limited registration in the health profession.
 71—Limited registration not to be held for more than one purpose
-An individual may not hold limited registration in the same health profession for more than one purpose under this Division at the same time.
+(1) Subsection (2) applies to a health profession for which a division is not included in the National Register kept for the profession.
+(2) An individual registered in the health profession may not hold limited registration in the same health profession for more than one purpose under this Division at the same time.
+(3) Subsection (4) applies to a health profession for which divisions are included in the National Register kept for the profession.
+(4) An individual registered in the health profession may not hold limited registration in the same division of the profession for more than one purpose under this Division at the same time.
 72—Period of limited registration
 (1) The period of registration that is to apply to a health practitioner granted limited registration in a health profession is the period (the registration period), not more than 12 months, decided by the National Board established for the profession and published on the Board's website.
 (2) If the National Board decides to register a health practitioner in the health profession during a registration period, the registration—
@@ -814,7 +828,7 @@ See the definition of criminal history which applies to offences in participatin
 79—Power to check applicant's criminal history
 (1) Before deciding an application for registration, a National Board must check the applicant's criminal history.
 (2) For the purposes of checking an applicant's criminal history, a National Board may obtain a written report about the criminal history of the applicant from any of the following—
-(a) CrimTrac;
+(a) ACC;
 (b) a police commissioner;
 (c) an entity in a jurisdiction outside Australia that has access to records about the criminal history of persons in that jurisdiction.
 (3) A criminal history law does not apply to a report about an applicant's criminal history under subsection (2).
@@ -1219,7 +1233,7 @@ Maximum penalty:
 (b) in the case of a body corporate—$60 000.
 (2) A person must not knowingly or recklessly—
 (a) take or use the title of "specialist health practitioner", whether with or without any other words, in relation to another person who is not a specialist health practitioner; or
-(b) take or use a title, name, initial, symbol, word or description in relation to another person that, having regard to the circumstances in which it is taken or used, indicates or could be reasonably understood to indicate—
+(b) take or use a title, name, initial, symbol, word or description in relation to another person who is not a specialist health practitioner that, having regard to the circumstances in which it is taken or used, indicates or could be reasonably understood to indicate—
 (i) the other person is a specialist health practitioner; or
 (ii) the other person is authorised or qualified to practise in a recognised specialty; or
 (c) claim another person is registered under this Law in a recognised specialty or hold the other person out as being registered under this Law in a recognised specialty if the other person is not registered in that recognised specialty; or
@@ -1357,7 +1371,7 @@ Subdivision 2—Review of conditions and undertakings
 (ii) to change or revoke an undertaking given by the student to the Board.
 (2) However, the registered health practitioner or student may not make an application—
 (a) during a review period applying to the condition or undertaking, unless the practitioner or student reasonably believes there has been a material change in the practitioner's or student's circumstances; or
-(b) for a condition imposed by an adjudication body for a co-regulatory jurisdiction, unless the adjudication body decided, when imposing the condition, that this Subdivision applied to the condition.
+(b) for a condition imposed by an adjudication body for a co-regulatory jurisdiction, unless the adjudication body decided, when imposing the condition or at a later time, that this Subdivision applied to the condition.
 (3) An application under subsection (1) must—
 (a) be in the form approved by the National Board; and
 (b) be accompanied by any other information reasonably required by the Board.
@@ -1377,7 +1391,7 @@ Subdivision 2—Review of conditions and undertakings
 (d) that the practitioner or student may, within 30 days after receipt of the notice, make written or verbal submissions to the Board about why the condition should not be changed.
 (3) However, the condition may not be changed—
 (a) during a review period applying to the condition, unless the National Board reasonably believes there has been a material change in the registered health practitioner's or student's circumstances; or
-(b) if the condition was imposed by an adjudication body for a co‑regulatory jurisdiction, unless the adjudication body decided, when imposing the condition, that this Subdivision applied to the condition.
+(b) if the condition was imposed by an adjudication body for a co‑regulatory jurisdiction, unless the adjudication body decided, when imposing the condition or at a later time, that this Subdivision applied to the condition.
 (4) The registered health practitioner or student may make written or verbal submissions about the proposed change to the condition as stated in the notice.
 (5) The National Board must consider any submissions made under subsection (4) and decide whether or not to change the condition.
 (6) As soon as practicable after making its decision the National Board must give written notice of the decision to the registered health practitioner or student.
@@ -1467,7 +1481,7 @@ Subdivision 5—Board's powers to check identity and criminal history
 (6) An entity given a notice under subsection (5) is authorised to provide the information requested.
 135—Criminal history check
 (1) A National Board may, at any time, obtain a written report about a registered health practitioner's criminal history from any of the following—
-(a) CrimTrac;
+(a) ACC;
 (b) a police commissioner;
 (c) an entity in a jurisdiction outside Australia that has access to records about the criminal history of persons in that jurisdiction.
 (2) Without limiting subsection (1), a report may be obtained under that subsection—
@@ -1625,7 +1639,10 @@ Division 5—Preliminary assessment
 (b) given the amount of time that has elapsed since the matter the subject of the notification occurred, it is not practicable for the Board to investigate or otherwise deal with the notification; or
 (c) the person to whom the notification relates has not been, or is no longer, registered by the Board and it is not in the public interest for the Board to investigate or otherwise deal with the notification; or
 (d) the subject matter of the notification has already been dealt with adequately by the Board; or
-(e) the subject matter of the notification is being dealt with, or has already been dealt with, adequately by another entity.
+(e) the subject matter of the notification—
+(i) is being dealt with, or has already been dealt with, by another entity; or
+(ii) has been referred by the Board to another entity to be dealt with by that entity; or
+(f) the health practitioner to whom the notification relates has taken appropriate steps to remedy the matter the subject of the notification and the Board reasonably believes no further action is required in relation to the notification.
 (2) A decision by a National Board to decide to take no further action in relation to a notification does not prevent a National Board or adjudication body taking the notification into consideration at a later time as part of a pattern of conduct or practice by the health practitioner.
 (3) If a National Board decides to take no further action in relation to a notification it must give written notice of the decision to the notifier.
 (4) A notice under subsection (3) must state—
@@ -1985,7 +2002,22 @@ The responsible tribunal may make any order about costs it considers appropriate
 (3) If the responsible tribunal decides to impose a condition on the practitioner's registration, the tribunal must also decide a review period for the condition.
 (4) If the tribunal decides to cancel a person's registration under this Law or the person does not hold registration under this Law, the tribunal may also decide to—
 (a) disqualify the person from applying for registration as a registered health practitioner for a specified period; or
-(b) prohibit the person from using a specified title or providing a specified health service.
+(b) prohibit the person, either permanently or for a stated period, from—
+(i) providing any health service or a specified health service; or
+(ii) using any title or a specified title.
+196A—Offences relating to prohibition orders
+(1) A person must not contravene a prohibition order.
+Maximum penalty: $30 000.
+(2) A person who is subject to a prohibition order (the prohibited person) must, before providing a health service, give written notice of the order to the following persons—
+(a) the person to whom the prohibited person intends to provide the health service or, if that person is under 16 years of age or under guardianship, a parent or guardian of the person;
+(b) if the health service is to be provided by the prohibited person as an employee—the person's employer;
+(c) if the health service is to be provided by the prohibited person under a contract for services or any other arrangement with an entity—that entity;
+(d) if the health service is to be provided by the prohibited person as a volunteer for or on behalf of an entity—that entity.
+Maximum penalty: $5 000.
+(3) A person must not advertise a health service to be provided by a prohibited person unless the advertisement states that the prohibited person is subject to a prohibition order.
+Maximum penalty—
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
 197—Decision by responsible tribunal about student
 (1) After hearing a matter about a student, a responsible tribunal may decide—
 (a) the student has an impairment; or
@@ -2180,9 +2212,13 @@ information management agency means a Commonwealth, State or Territory agency th
 (b) the provision of the protected information to the entity is necessary to enable the entity to exercise its functions.
 220—Disclosure to protect health or safety of patients or other persons
 (1) This section applies if a National Board reasonably believes that—
-(a) a registered health practitioner poses, or may pose, a risk to public health; or
-(b) the health or safety of a patient or a class of patients is or may be at risk because of a registered health practitioner's practice as a health practitioner.
-(2) The National Board may give written notice of the risk and any relevant information about the registered health practitioner to an entity of the Commonwealth or of a State or Territory that the Board considers may be required to take action in relation to the risk.
+(a) either of the following poses, or may pose, a risk to public health—
+(i) a registered health practitioner;
+(ii) a person who provides a health service but is not a registered health practitioner; or
+(b) the health or safety of a patient or class of patients is or may be at risk because of—
+(i) a registered health practitioner's practice as a health practitioner; or
+(ii) the provision of a health service by a person who is not a registered health practitioner.
+(2) The National Board may give written notice of the risk and any relevant information about a person mentioned in subsection (1)(a) or (b) to an entity of the Commonwealth or a State or Territory that the Board considers may be required to take action in relation to the risk.
 221—Disclosure to registration authorities
 A person exercising functions under this Law may disclose protected information to a registration authority if the disclosure is necessary for the authority to exercise its functions.
 Division 3—Registers in relation to registered health practitioner
@@ -2413,9 +2449,15 @@ Division 4—Regulations
 (5) In this section—
 Victorian Government Printer means the person appointed to be the Government Printer for Victoria under section 72 of the Constitution Act 1975 of Victoria.
 246—Parliamentary scrutiny of national regulations
-(1) A regulation made under this Law may be disallowed in a participating jurisdiction by a House of the Parliament of that jurisdiction—
-(a) in the same way that a regulation made under an Act of that jurisdiction may be disallowed; and
-(b) as if the regulation had been tabled in the House on the first sitting day after the regulation was published by the Victorian Government Printer.
+(1) A regulation made under this Law must be tabled in, or notice of its making given to, the Parliament of each participating jurisdiction—
+(a) if a regulation made under an Act of that jurisdiction must be tabled in the Parliament of that jurisdiction—in the same way a regulation must be tabled in that jurisdiction; or
+(b) if notice of the making of a regulation made under an Act of that jurisdiction must be given to the Parliament of that jurisdiction—in the same way notice must be given in that jurisdiction.
+(1a) However, failure to comply with subsection (1) does not affect the validity of the regulation.
+(1b) The regulation may be disallowed in a participating jurisdiction by a House of the Parliament of that jurisdiction in the same way that a regulation made under an Act of that jurisdiction may be disallowed.
+(1c) However, subsection (1d) applies if—
+(a) a regulation is not tabled in accordance with the law of a participating jurisdiction; and
+(b) under the law of that jurisdiction a regulation may be disallowed only after its tabling.
+(1d) The regulation is taken to be have been tabled in the Parliament of that jurisdiction on the first sitting day after the regulation was required to be tabled under the law of the jurisdiction.
 (2) A regulation disallowed under subsection (1) does not cease to have effect in the participating jurisdiction, or any other participating jurisdiction, unless the regulation is disallowed in a majority of the participating jurisdictions.
 (3) If a regulation is disallowed in a majority of the participating jurisdictions, it ceases to have effect in all participating jurisdictions on the date of its disallowance in the last of the jurisdictions forming the majority.
 (4) In this section—
@@ -2769,3 +2811,1177 @@ Division 16—Savings and transitional regulations
 (b) to otherwise allow or facilitate the change from the operation of a law of the participating jurisdiction relating to health practitioners to the operation of this Law.
 (2) Savings and transitional provisions may have retrospective operation to a day not earlier than the participation day for that participating jurisdiction.
 (3) This section and any savings and transitional provisions expire on 30 June 2015.
+Part 13—Transitional and other provisions for Health Practitioner Regulation National Law (South Australia) (Amendment of Law) Regulations 2017
+Division 1—Paramedicine Board and registration of paramedics
+306—Definitions
+In this Division—
+Ambulance Service of New South Wales, for the issue of a Diploma of Paramedical Science, includes another entity prescribed by regulation for issuing the diploma;
+Diploma of Paramedical Science—see section 312(5);
+Paramedicine Board means—
+(a) the Paramedicine Board of Australia established under section 307; or
+(b) the Board continued in force on the participation day by a regulation made under section 31; or
+(c) if, after the participation day, the Paramedicine Board is dissolved and replaced by another Board established for the health profession of paramedicine by a regulation made under section 31—the other Board;
+participation day means a day prescribed by regulation after which an individual may be registered in paramedicine under this Law;
+relevant day means the day that is 3 years after the participation day.
+307—Establishment of Paramedicine Board
+(1) The Paramedicine Board of Australia is established as a National Health Practitioner Board for the health profession of paramedicine.
+(2) The Board—
+(a) is a body corporate with perpetual succession; and
+(b) has a common seal; and
+(c) may sue and be sued in its corporate name.
+(3) The Board represents the State.
+(4) This section applies until the Board is continued in force by a regulation made under section 31.
+308—Powers and functions of Paramedicine Board
+(1) Sections 32, 33, 34, 37, 40, 234 and Schedule 4 apply to the Paramedicine Board until the participation day.
+(2) However, for section 34, the Ministerial Council may, until the participation day, appoint as practitioner members persons who the Council is satisfied have skills and experience in paramedicine relevant to the Board’s functions.
+(3) The Paramedicine Board may perform the following functions until the participation day—
+(a) develop and recommend one or more registration standards to the Ministerial Council under section 38 for its approval under section 12;
+(b) develop and approve codes and guidelines under section 39;
+(c) decide the day after which individuals may apply for registration in paramedicine;
+(d) do anything under Part 6 in relation to accreditation for paramedicine;
+(e) do anything under Part 7 to register individuals in paramedicine;
+(f) anything else the Board may do under this Division.
+309—Paramedicine Board taken to be a National Board for stated matters
+The Paramedicine Board is taken to be a National Board for the following provisions of this Law until the participation day—
+(a) Part 2;
+(b) Part 4;
+(c) Part 9;
+(d) Part 10, except for Division 3;
+(e) section 236.
+310—CAA accredited programs of study
+(1) The Paramedicine Board may, until the relevant day, approve, or refuse to approve, a CAA accredited program of study as providing a qualification for the purposes of registration in paramedicine.
+(2) An approval of a program of study under subsection (1)—
+(a) may be granted subject to the conditions the Board considers necessary or desirable in the circumstances; and
+(b) does not take effect until the program is included in the list published under subsection (3).
+(3) A program of study approved by the Board under subsection (1) must—
+(a) be published in a list on the National Agency's website; and
+(b) include, for each program of study, the name of the education provider that provides the program.
+(4) A program of study approved under this section is taken to be an approved program of study for this Law.
+(5) This section applies despite section 49(1).
+(6) In this section—
+CAA accredited program of study means a program of study accredited by the Council of Ambulance Authorities Inc. and published on the Council’s website—
+(a) immediately before the commencement; or
+(b) between the commencement and the participation day.
+311—Qualifications for general registration in paramedicine for a limited period
+(1) For the purposes of section 52(1)(a), an individual who applies for registration in paramedicine before the relevant day is qualified for general registration in paramedicine if the individual—
+(a) holds a qualification or has completed training in paramedicine, whether in a participating jurisdiction or elsewhere, that the Paramedicine Board considers is adequate for the purposes of practising the profession; or
+(b) holds a qualification or has completed training in paramedicine, whether in a participating jurisdiction or elsewhere, and has completed any further study, training or supervised practice in the profession required by the Paramedicine Board for the purposes of this section; or
+(c) has practised paramedicine during the 10 years before the participation day for a consecutive period of 5 years or for any periods which together amount to 5 years and satisfies the Paramedicine Board that he or she is competent to practise paramedicine.
+(2) This section applies despite section 53.
+312—Accepted qualification for general registration in paramedicine
+(1) This section applies to an individual who holds a Diploma of Paramedical Science issued by the Ambulance Service of New South Wales.
+(2) The individual is qualified for general registration in paramedicine for the purposes of section 52(1)(a).
+(3) This section applies despite section 53.
+(4) Nothing in this section makes a Diploma of Paramedical Science issued by the Ambulance Service of New South Wales an approved qualification for section 53(b).
+(5) In this section—
+Diploma of Paramedical Science means any of the following:
+(a) a Diploma of Paramedical Science;
+(b) a Diploma of Paramedical Science (Ambulance) or an Advanced Diploma of Paramedical Science (Ambulance);
+(c) a Diploma in Paramedical Science (Pre‑Hospital Care) or an Advanced Diploma Paramedical Sciences (Pre‑Hospital Care);
+(d) a qualification—
+(i) that has replaced the diploma mentioned in paragraph (a) and is prescribed by regulation; and
+(ii) issued by the Ambulance Service of New South Wales.
+313—Provisions that apply to student registration for Diploma of Paramedical Science
+A Diploma of Paramedical Science issued by the Ambulance Service of New South Wales is taken to be an approved program of study for Part 7, Division 7, Subdivisions 1 and 3.
+314—Applications for registration in paramedicine and period of registration
+(1) An individual may apply to the Paramedicine Board for registration in paramedicine—
+(a) before the participation day; and
+(b) after the day decided by the Board under section 308(3)(c).
+(2) Subsection (3) applies if an individual applies for registration in paramedicine under subsection (1) and the Board grants the application under Part 7.
+(3) Despite section 56, the registration period—
+(a) does not start until the participation day; and
+(b) may be a period of not more than 2 years decided by the Board.
+315—Applications for registration in paramedicine made but not decided before participation day
+(1) This section applies if—
+(a) before the participation day an individual applies to the Paramedicine Board for registration in paramedicine; and
+(b) the application is not decided by the Board by the participation day; and
+(c) while the application for registration is being decided, the individual takes or uses a title, or does anything else, relating to paramedicine, that would contravene section 113 or 116.
+(2) The individual does not commit an offence against section 113 or 116 while the application is being decided.
+Note—
+See section 85 for when an application not decided by a National Board is taken to be a decision to refuse the application.
+316—Period after participation day during which an individual does not commit an offence under sections 113 and 116
+(1) This section applies if an individual eligible for registration in paramedicine—
+(a) has not applied to the Paramedicine Board for registration in paramedicine before the participation day; and
+(b) takes or uses a title, or does anything else, relating to paramedicine, that would contravene section 113 or 116.
+Note—
+An individual may be qualified for general registration in paramedicine under section 311 or 312.
+(2) The individual does not commit an offence against section 113 or 116 during the period of 90 days after the participation day.
+317—Application of sections 113 and 116 to individual temporarily practising paramedicine in another jurisdiction
+(1) This section applies to an individual who—
+(a) usually practises paramedicine in a participating jurisdiction that has yet to enact a law that substantially corresponds with the provisions of this Law about paramedicine; and
+(b) temporarily takes or uses a title or does anything else, relating to paramedicine in another jurisdiction, that would contravene section 113 or 116; and
+(c) complies with any regulation made under this Law about temporarily taking or using a title or doing anything else, relating to paramedicine in another jurisdiction.
+(2) The individual does not commit an offence against section 113 or 116.
+(3) In this section—
+another jurisdiction means a participating jurisdiction in which the provisions of this Law about paramedicine apply.
+Division 2—Other transitional provisions
+321—Offences relating to prohibition orders made before commencement
+Section 196A also applies to a prohibition order made before the commencement.
+Schedule 1—Constitution and procedure of Advisory Council
+(Section 22)
+Part 1—General
+1—Definitions
+In this Schedule—
+Chairperson means the Chairperson of the Advisory Council.
+member means a member of the Advisory Council.
+Part 2—Constitution
+2—Terms of office of members
+Subject to this Schedule, a member holds office for the period (not exceeding 3 years) specified in the member's instrument of appointment, but is eligible (if otherwise qualified) for reappointment.
+3—Remuneration
+A member is entitled to be paid such remuneration (including travelling and subsistence allowances) as the Ministerial Council may from time to time determine with respect to the member.
+4—Vacancy in office of member
+(1) The office of a member becomes vacant if the member—
+(a) completes the member's term of office; or
+(b) resigns the office by instrument in writing addressed to the Chairperson of the Ministerial Council; or
+(c) is removed from office by the Chairperson of the Ministerial Council under this clause; or
+(d) dies.
+(2) The Chairperson of the Ministerial Council may remove a member from office if—
+(a) the member has been found guilty of an offence (whether in a participating jurisdiction or elsewhere) that, in the opinion of the Chairperson of the Ministerial Council, renders the member unfit to continue to hold the office of member; or
+(b) the member ceases to be a registered health practitioner as a result of the member's misconduct, impairment or incompetence; or
+(c) the Advisory Council recommends the removal of the member, on the basis that the member has engaged in misconduct or has failed or is unable to properly exercise the member's functions as a member.
+(3) In addition, the Chairperson of the Ministerial Council may remove the Chairperson of the Advisory Council from office as a member if the Chairperson of the Advisory Council becomes a registered health practitioner.
+5—Extension of term of office during vacancy in membership
+(1) If the office of a member becomes vacant because the member has completed the member's term of office, the member is taken to continue to be a member during that vacancy until the date on which the vacancy is filled (whether by reappointment of the member or appointment of a successor to the member).
+(2) However, this clause ceases to apply to the member if—
+(a) the member resigns the member's office by instrument in writing addressed to the Chairperson of the Ministerial Council; or
+(b) the Chairperson of the Ministerial Council determines that the services of the member are no longer required.
+(3) The maximum period for which a member is taken to continue to be a member under this clause after completion of the member's term of office is 6 months.
+6—Disclosure of conflict of interest
+(1) If—
+(a) a member has a direct or indirect pecuniary or other interest in a matter being considered or about to be considered at a meeting of the Advisory Council; and
+(b) the interest appears to raise a conflict with the proper performance of the member's duties in relation to the consideration of the matter;
+the member must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the Advisory Council.
+(2) Particulars of any disclosure made under this clause must be recorded by the Advisory Council in a book kept for the purpose.
+(3) After a member has disclosed the nature of an interest in any matter, the member must not, unless the Ministerial Council or the Advisory Council otherwise determines—
+(a) be present during any deliberation of the Advisory Council with respect to the matter; or
+(b) take part in any decision of the Advisory Council with respect to the matter.
+(4) For the purposes of the making of a determination by the Advisory Council under subclause (3), a member who has a direct or indirect pecuniary or other interest in a matter to which the disclosure relates must not—
+(a) be present during any deliberation of the Advisory Council for the purpose of making the determination; or
+(b) take part in the making of the determination by the Advisory Council.
+(5) A contravention of this clause does not invalidate any decision of the Advisory Council.
+Part 3—Procedure
+7—General procedure
+The procedure for the calling of meetings of the Advisory Council and for the conduct of business at those meetings is, subject to this Law, to be as determined by the Advisory Council.
+8—Quorum
+The quorum for a meeting of the Advisory Council is a majority of its members for the time being.
+9—Presiding member
+The Chairperson (or, in the absence of the Chairperson, a person elected by the members of the Advisory Council who are present at a meeting of the Advisory Council) is to preside at a meeting of the Advisory Council.
+10—Transaction of business outside meetings or by telecommunication
+(1) The Advisory Council may, if it thinks fit, transact any of its business by the circulation of papers among all the members of the Advisory Council for the time being, and a resolution in writing approved in writing by a majority of those members is taken to be a decision of the Advisory Council.
+(2) The Advisory Council may, if it thinks fit, transact any of its business at a meeting at which members (or some members) participate by telephone, closed-circuit television or other means, but only if any member who speaks on a matter before the meeting can be heard by the other members.
+(3) For the purposes of—
+(a) the approval of a resolution under subclause (1); or
+(b) a meeting held in accordance with subclause (2);
+the Chairperson and each member have the same voting rights as they have at an ordinary meeting of the Advisory Council.
+(4) Papers may be circulated among the members for the purposes of subclause (1) by facsimile, email or other transmission of the information in the papers concerned.
+11—First meeting
+The Chairperson may call the first meeting of the Advisory Council in any manner the Chairperson thinks fit.
+Schedule 2—Agency Management Committee
+(Section 29)
+Part 1—General
+1—Definitions
+In this Schedule—
+Chairperson means the Chairperson of the Committee.
+Committee means the Agency Management Committee.
+member means a member of the Committee.
+Part 2—Constitution
+2—Terms of office of members
+Subject to this Schedule, a member holds office for the period (not exceeding 3 years) specified in the member's instrument of appointment, but is eligible (if otherwise qualified) for reappointment.
+3—Remuneration
+A member is entitled to be paid such remuneration (including travelling and subsistence allowances) as the Ministerial Council may from time to time determine with respect to the member.
+4—Vacancy in office of member
+(1) The office of a member becomes vacant if the member—
+(a) completes a term of office; or
+(b) resigns the office by instrument in writing addressed to the Chairperson of the Ministerial Council; or
+(c) is removed from office by the Chairperson of the Ministerial Council under this clause; or
+(d) is absent, without leave first being granted by the Chairperson of the Committee, from 3 or more consecutive meetings of the Committee of which reasonable notice has been given to the member personally or by post; or
+(e) dies.
+(2) The Chairperson of the Ministerial Council may remove a member from office if—
+(a) the member has been found guilty of an offence (whether in a participating jurisdiction or elsewhere) that, in the opinion of the Chairperson of the Ministerial Council, renders the member unfit to continue to hold the office of member; or
+(b) the member ceases to be a registered health practitioner as a result of the member's misconduct, impairment or incompetence; or
+(c) the member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with the member's creditors or makes an assignment of the member's remuneration for their benefit; or
+(d) the Committee recommends the removal of the member, on the basis that the member has engaged in misconduct or has failed or is unable to properly exercise the member's functions as a member.
+(3) In addition, the Chairperson of the Ministerial Council may remove the Chairperson of the Committee from office as a member if the Chairperson of the Committee becomes a registered health practitioner.
+5—Vacancies to be advertised
+(1) Before the Ministerial Council appoints a member of the Committee, the vacancy to be filled is to be publicly advertised.
+(2) It is not necessary to advertise a vacancy in the membership of the Committee before appointing a person to act in the office of a member.
+Note—
+The general interpretation provisions applicable to this Law under section 6 confer power to appoint acting members of the Agency Management Committee.
+6—Extension of term of office during vacancy in membership
+(1) If the office of a member becomes vacant because the member has completed the member's term of office, the member is taken to continue to be a member during that vacancy until the date on which the vacancy is filled (whether by reappointment of the member or appointment of a successor to the member).
+(2) However, this clause ceases to apply to the member if—
+(a) the member resigns the member's office by instrument in writing addressed to the Chairperson of the Ministerial Council; or
+(b) the Chairperson of the Ministerial Council determines that the services of the member are no longer required.
+(3) The maximum period for which a member is taken to continue to be a member under this clause after completion of the member's term of office is 6 months.
+7—Members to act in public interest
+(1) A member of the Committee is to act impartially and in the public interest in the exercise of the member's functions as a member.
+(2) Accordingly, a member of the Committee is to put the public interest before the interests of particular health practitioners or any body or organisation that represents health practitioners.
+8—Disclosure of conflict of interest
+(1) If—
+(a) a member has a direct or indirect pecuniary or other interest in a matter being considered or about to be considered at a meeting of the Committee; and
+(b) the interest appears to raise a conflict with the proper performance of the member's duties in relation to the consideration of the matter;
+the member must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the Committee.
+(2) Particulars of any disclosure made under this clause must be recorded by the Committee in a book kept for the purpose.
+(3) After a member has disclosed the nature of an interest in any matter, the member must not, unless the Ministerial Council or the Committee otherwise determines—
+(a) be present during any deliberation of the Committee with respect to the matter; or
+(b) take part in any decision of the Committee with respect to the matter.
+(4) For the purposes of the making of a determination by the Committee under subclause (3), a member who has a direct or indirect pecuniary or other interest in a matter to which the disclosure relates must not—
+(a) be present during any deliberation of the Committee for the purpose of making the determination; or
+(b) take part in the making of the determination by the Committee.
+(5) A contravention of this clause does not invalidate any decision of the Committee.
+Part 3—Procedure
+9—General procedure
+The procedure for the calling of meetings of the Committee and for the conduct of business at those meetings is, subject to this Law, to be as determined by the Committee.
+10—Quorum
+The quorum for a meeting of the Committee is a majority of its members for the time being.
+11—Chief executive officer may attend meetings
+The chief executive officer of the National Agency may attend meetings of the Committee and may participate in discussions of the Committee, but is not entitled to vote at a meeting.
+12—Presiding member
+(1) The Chairperson (or, in the absence of the Chairperson, a person elected by the members of the Committee who are present at a meeting of the Committee) is to preside at a meeting of the Committee.
+(2) The presiding member has a deliberative vote and, in the event of an equality of votes, has a second or casting vote.
+13—Voting
+A decision supported by a majority of the votes cast at a meeting of the Committee at which a quorum is present is the decision of the Committee.
+14—Transaction of business outside meetings or by telecommunication
+(1) The Committee may, if it thinks fit, transact any of its business by the circulation of papers among all the members of the Committee for the time being, and a resolution in writing approved in writing by a majority of those members is taken to be a decision of the Committee.
+(2) The Committee may, if it thinks fit, transact any of its business at a meeting at which members (or some members) participate by telephone, closed‑circuit television or other means, but only if any member who speaks on a matter before the meeting can be heard by the other members.
+(3) For the purposes of—
+(a) the approval of a resolution under subclause (1); or
+(b) a meeting held in accordance with subclause (2);
+the Chairperson and each member have the same voting rights as they have at an ordinary meeting of the Committee.
+(4) Papers may be circulated among the members for the purposes of subclause (1) by facsimile, email or other transmission of the information in the papers concerned.
+15—First meeting
+The Chairperson may call the first meeting of the Committee in any manner the Chairperson thinks fit.
+16—Defects in appointment of members
+A decision of the Committee is not invalidated by any defect or irregularity in the appointment of any member (or acting member) of the Committee.
+Schedule 3—National Agency
+(Section 23)
+Part 1—Chief executive officer
+1—Chief executive officer
+(1) The Agency Management Committee is to appoint a person as chief executive officer of the National Agency.
+(2) The chief executive officer of the National Agency is to be appointed for a period, not more than 5 years, specified in the officer's instrument of appointment, but is eligible for reappointment.
+(3) The chief executive officer of the National Agency is taken, while holding that office, to be a member of the staff of the National Agency.
+2—Functions of chief executive officer
+(1) The chief executive officer of the National Agency has the functions conferred on the chief executive officer by written instrument of the Agency Management Committee.
+(2) The Agency Management Committee may delegate any of the functions of the National Agency, or of the Agency Management Committee, to the chief executive officer of the National Agency, other than this power of delegation.
+3—Delegation and subdelegation by chief executive officer
+(1) The chief executive officer of the National Agency may delegate any of the functions conferred on the officer under clause 2(1) to a member of the staff of the National Agency, other than this power of delegation.
+(2) The chief executive officer of the National Agency may subdelegate any function delegated to the officer under clause 2(2) to any member of the staff of the National Agency if the chief executive officer is authorised to do so by the Agency Management Committee.
+4—Vacancy in office
+(1) The office of the chief executive officer of the National Agency becomes vacant if—
+(a) the chief executive officer resigns the officer's office by written instrument addressed to the Chairperson of the Agency Management Committee; or
+(b) the appointment of the chief executive officer is terminated by the Agency Management Committee under this clause.
+(2) The Agency Management Committee may, at any time and for any reason, terminate the appointment of the chief executive officer of the National Agency by written notice given to the chief executive officer.
+Part 2—Staff, consultants and contractors
+5—Staff of National Agency
+(1) The National Agency may, for the purpose of performing its functions, employ staff.
+(2) The staff of the National Agency are to be employed on the terms and conditions decided by the National Agency from time to time.
+(3) Subclause (2) is subject to any relevant industrial award or agreement that applies to the staff.
+6—Staff seconded to National Agency
+The National Agency may make arrangements for the services of any of the following persons to be made available to the National Agency in connection with the exercise of its functions—
+(a) a person who is a member of the staff of a government agency of a participating jurisdiction or the Commonwealth;
+(b) a person who is a member of the staff of a local registration authority.
+7—Consultants and contractors
+(1) The National Agency may engage persons with suitable qualifications and experience as consultants or contractors.
+(2) The terms and conditions of engagement of consultants or contractors are as decided by the National Agency from time to time.
+Part 3—Reporting obligations
+8—Annual report
+(1) The National Agency must, within 3 months after the end of each financial year, submit an annual report for the financial year to the Ministerial Council.
+(2) The annual report must include—
+(a) a financial statement for the National Agency, and each National Board, for the period to which the report relates; and
+(b) a report about the Agency's performance of its functions under this Law during the period to which the annual report relates.
+(3) The financial statement is to be prepared in accordance with Australian Accounting Standards.
+(4) The financial statement is to be audited by a public sector auditor and a report is to be provided by the auditor.
+(5) The Ministerial Council is to make arrangements for the tabling of the annual report of the National Agency, and the report of the public sector auditor with respect to the financial statement in the report, in the Parliament of each participating jurisdiction and the Commonwealth.
+(6) The Ministerial Council may extend, or further extend, the period for submission of an annual report to the Council by a total period of up to 3 months.
+(7) In this clause—
+public sector auditor means—
+(a) the Auditor-General (however described) of a participating jurisdiction; or
+(b) an auditor employed, appointed or otherwise engaged by an Auditor-General of a participating jurisdiction.
+9—Reporting by National Boards
+(1) A National Board must, if asked by the National Agency, give the National Agency the information the National Agency requires to compile its annual report, including—
+(a) a report about the National Board's performance of its functions under this Law during the period to which the annual report relates; and
+(b) a statement of the income and expenditure of the National Board for the period to which the annual report relates, presented by reference to the budget of the National Board for that period.
+(2) The information provided by the National Board is to be incorporated in the relevant annual report for the National Agency.
+Schedule 4—National Boards
+(Section 33)
+Part 1—General
+1—Definitions
+In this Schedule—
+Chairperson means the Chairperson of a National Board.
+community member means a member of a National Board appointed as a community member.
+member means a member of a National Board.
+Part 2—Constitution
+2—Terms of office of members
+Subject to this Schedule, a member holds office for the period (not exceeding 3 years) specified in the member's instrument of appointment, but is eligible (if otherwise qualified) for reappointment.
+3—Remuneration
+A member is entitled to be paid such remuneration (including travelling and subsistence allowances) as the Ministerial Council may from time to time determine with respect to the member.
+4—Vacancy in office of member
+(1) The office of a member becomes vacant if the member—
+(a) completes a term of office; or
+(b) resigns the office by instrument in writing addressed to the Chairperson of the Ministerial Council; or
+(c) is removed from office by the Chairperson of the Ministerial Council under this clause; or
+(d) is absent, without leave first being granted by the Chairperson of the Board, from 3 or more consecutive meetings of the National Board of which reasonable notice has been given to the member personally or by post; or
+(e) dies.
+(2) The Chairperson of the Ministerial Council may remove a member from office if—
+(a) the member has been found guilty of an offence (whether in a participating jurisdiction or elsewhere) that, in the opinion of the Chairperson of the Ministerial Council, renders the member unfit to continue to hold the office of member; or
+(b) the member ceases to be a registered health practitioner as a result of the member's misconduct, impairment or incompetence; or
+(c) the member ceases to be eligible for appointment to the office that the member holds on the National Board; or
+(d) the member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with member's creditors or makes an assignment of the member's remuneration for their benefit; or
+(e) the National Board recommends the removal of the member, on the basis that the member has engaged in misconduct or has failed or is unable to properly exercise the member's functions as a member.
+5—Vacancies to be advertised
+(1) Before the Ministerial Council appoints a member of a National Board, the vacancy to be filled is to be publicly advertised.
+(2) The National Agency may assist the Ministerial Council in the process of appointing members of a National Board, including in the advertising of vacancies.
+(3) It is not necessary to advertise a vacancy in the membership of a National Board before appointing a person to act in the office of a member.
+Note—
+The general interpretation provisions applicable to this Law under section 6 confer power to appoint acting members of a National Board.
+6—Extension of term of office during vacancy in membership
+(1) If the office of a member becomes vacant because the member has completed the member's term of office, the member is taken to continue to be a member during that vacancy until the date on which the vacancy is filled (whether by reappointment of the member or appointment of a successor to the member).
+(2) However, this clause ceases to apply to the member if—
+(a) the member resigns the member's office by instrument in writing addressed to the Chairperson of the Ministerial Council; or
+(b) the Chairperson of the Ministerial Council determines that the services of the member are no longer required.
+(3) The maximum period for which a member is taken to continue to be a member under this clause after completion of the member's term of office is 6 months.
+7—Members to act in public interest
+(1) A member of a National Board is to act impartially and in the public interest in the exercise of the member's functions as a member.
+(2) Accordingly, a member of a National Board is to put the public interest before the interests of particular health practitioners or any entity that represents health practitioners.
+8—Disclosure of conflict of interest
+(1) If—
+(a) a member has a direct or indirect pecuniary or other interest in a matter being considered or about to be considered at a meeting of the National Board; and
+(b) the interest appears to raise a conflict with the proper performance of the member's duties in relation to the consideration of the matter;
+the member must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the National Board.
+(2) Particulars of any disclosure made under this clause must be recorded by the National Board in a book kept for the purpose.
+(3) After a member has disclosed the nature of an interest in any matter, the member must not, unless the Ministerial Council or the National Board otherwise determines—
+(a) be present during any deliberation of the National Board with respect to the matter; or
+(b) take part in any decision of the National Board with respect to the matter.
+(4) For the purposes of the making of a determination by the National Board under subclause (3), a member who has a direct or indirect pecuniary or other interest in a matter to which the disclosure relates must not—
+(a) be present during any deliberation of the National Board for the purpose of making the determination; or
+(b) take part in the making of the determination by the National Board.
+(5) A contravention of this clause does not invalidate any decision of the National Board.
+(6) This clause applies to a member of a committee of a National Board and the committee in the same way as it applies to a member of the National Board and the National Board.
+Part 3—Functions and powers
+9—Requirement to consult other National Boards
+If a National Board (the first Board) proposes to make a recommendation to the Ministerial Council about a matter that may reasonably be expected to be of interest to another National Board (the other Board), the first Board must—
+(a) consult with the other Board about the proposed recommendation; and
+(b) if the first Board makes the recommendation to the Ministerial Council, advise the Council about any contrary views expressed by the other Board about the recommendation.
+10—Boards may obtain assistance
+A National Board may, for the purposes of exercising its functions, obtain the assistance of or advice from a local registration authority or another entity having knowledge of matters relating to the health profession for which it is established.
+11—Committees
+A National Board may establish committees to do any of the following—
+(a) to develop registration standards for the health profession for which the Board is established;
+(b) to develop codes or guidelines for the health profession for which the Board is established;
+(c) to exercise any other functions of the Board or to provide assistance or advice to the Board in the exercise of its functions.
+Part 4—Procedure
+12—General procedure
+The procedure for the calling of meetings of the National Board and for the conduct of business at those meetings is, subject to this Law, to be as determined by the National Board.
+13—Quorum
+The quorum for a meeting of the National Board is a majority of its members for the time being, at least one of whom is a community member.
+14—Presiding member
+(1) The Chairperson (or, in the absence of the Chairperson, a person elected by the members of the National Board who are present at a meeting of the National Board) is to preside at a meeting of the National Board.
+(2) The presiding member has a deliberative vote and, in the event of an equality of votes, has a second or casting vote.
+15—Voting
+A decision supported by a majority of the votes cast at a meeting of the National Board at which a quorum is present is the decision of the National Board.
+16—Transaction of business outside meetings or by telecommunication
+(1) The National Board may, if it thinks fit, transact any of its business by the circulation of papers among all the members of the National Board for the time being, and a resolution in writing approved in writing by a majority of those members is taken to be a decision of the National Board.
+(2) The National Board may, if it thinks fit, transact any of its business at a meeting at which members (or some members) participate by telephone, closed-circuit television or other means, but only if any member who speaks on a matter before the meeting can be heard by the other members.
+(3) For the purposes of—
+(a) the approval of a resolution under subclause (1); or
+(b) a meeting held in accordance with subclause (2);
+the Chairperson and each member have the same voting rights as they have at an ordinary meeting of the National Board.
+(4) Papers may be circulated among the members for the purposes of subclause (1) by facsimile, email or other transmission of the information in the papers concerned.
+17—First meeting
+The Chairperson may call the first meeting of the National Board in any manner the Chairperson thinks fit.
+18—Defects in appointment of members
+A decision of the National Board or of a committee of the National Board is not invalidated by any defect or irregularity in the appointment of any member (or acting member) of the National Board or of a committee of the National Board.
+Schedule 5—Investigators
+(Section 163)
+Part 1—Power to obtain information
+1—Powers of investigators
+For the purposes of conducting an investigation, an investigator may, by written notice given to a person, require the person to—
+(a) give stated information to the investigator within a stated reasonable time and in a stated reasonable way; or
+(b) attend before the investigator at a stated time and a stated place to answer questions or produce documents.
+2—Offence for failing to produce information or attend before investigator
+(1) A person required to give stated information to an investigator under clause 1(a) must not fail, without reasonable excuse, to give the information as required by the notice.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(2) A person given a notice to attend before an investigator must not fail, without reasonable excuse, to—
+(a) attend as required by the notice; and
+(b) continue to attend as required by the investigator until excused from further attendance; and
+(c) answer a question the person is required to answer by the investigator; and
+(d) produce a document the person is required to produce by the notice.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(3) For the purposes of subclauses (1) and (2), it is a reasonable excuse for an individual to fail to give stated information, answer a question or to produce a document, if giving the information, answering the question or producing the document might tend to incriminate the individual.
+3—Inspection of documents
+(1) If a document is produced to an investigator, the investigator may—
+(a) inspect the document; and
+(b) make a copy of, or take an extract from, the document; and
+(c) keep the document while it is necessary for the investigation.
+(2) If the investigator keeps the document, the investigator must permit a person otherwise entitled to possession of the document to inspect, make a copy of, or take an extract from, the document at the reasonable time and place decided by the investigator.
+Part 2—Power to enter places
+4—Entering places
+For the purposes of conducting an investigation, an investigator may enter a place if—
+(a) its occupier consents to the entry of the place; or
+(b) it is a public place and the entry is made when it is open to the public; or
+(c) the entry is authorised by a warrant.
+5—Application for warrant
+(1) An investigator may apply to a magistrate of a participating jurisdiction for a warrant for a place.
+(2) The investigator must prepare a written application that states the grounds on which the warrant is sought.
+(3) The written application must be sworn.
+(4) The magistrate may refuse to consider the application until the investigator gives the magistrate all the information the magistrate requires about the application in the way the magistrate requires.
+6—Issue of warrant
+(1) The magistrate may issue the warrant only if the magistrate is satisfied there are reasonable grounds for suspecting there is evidence about a matter being investigated by the investigator at the place.
+(2) The warrant must state—
+(a) that a stated investigator may, with necessary and reasonable help and force—
+(i) enter the place and any other place necessary for entry; and
+(ii) exercise the investigator's powers under this Part; and
+(b) the matter for which the warrant is sought; and
+(c) the evidence that may be seized under the warrant; and
+(d) the hours of the day or night when the place may be entered; and
+(e) the date, within 14 days after the warrant's issue, the warrant ends.
+7—Application by electronic communication
+(1) An investigator may apply for a warrant by phone, facsimile, email, radio, video conferencing or another form of communication if the investigator considers it necessary because of—
+(a) urgent circumstances; or
+(b) other special circumstances, including the investigator's remote location.
+(2) The application—
+(a) may not be made before the investigator prepares the written application under clause 5(2); but
+(b) may be made before the written application is sworn.
+(3) The magistrate may issue the warrant (the original warrant) only if the magistrate is satisfied—
+(a) it was necessary to make the application under subclause (1); and
+(b) the way the application was made under subclause (1) was appropriate.
+(4) After the magistrate issues the original warrant—
+(a) if there is a reasonably practicable way of immediately giving a copy of the warrant to the investigator, for example, by sending a copy by fax or email, the magistrate must immediately give a copy of the warrant to the investigator; or
+(b) otherwise—
+(i) the magistrate must tell the investigator the date and time the warrant is issued and the other terms of the warrant; and
+(ii) the investigator must complete a form of warrant including by writing on it—
+(A) the magistrate's name; and
+(B) the date and time the magistrate issued the warrant; and
+(C) the other terms of the warrant.
+(5) The copy of the warrant referred to in subclause (4)(a), or the form of warrant completed under subclause (4)(b) (in either case the duplicate warrant), is a duplicate of, and as effectual as, the original warrant.
+(6) The investigator must, at the first reasonable opportunity, send to the magistrate—
+(a) the written application complying with clause 5(2) and (3); and
+(b) if the investigator completed a form of warrant under subclause (4)(b), the completed form of warrant.
+(7) The magistrate must keep the original warrant and, on receiving the documents under subclause (6), file the original warrant and documents in the court.
+(8) Despite subclause (5), if—
+(a) an issue arises in a proceeding about whether an exercise of a power was authorised by a warrant issued under this clause; and
+(b) the original warrant is not produced in evidence;
+the onus of proof is on the person relying on the lawfulness of the exercise of the power to prove a warrant authorised the exercise of the power.
+(9) This clause does not limit clause 5.
+8—Procedure before entry under warrant
+(1) Before entering a place under a warrant, an investigator must do or make a reasonable attempt to do the following—
+(a) identify himself or herself to a person present at the place who is an occupier of the place by producing the investigator's identity card or another document evidencing the investigator's appointment;
+(b) give the person a copy of the warrant;
+(c) tell the person the investigator is permitted by the warrant to enter the place;
+(d) give the person an opportunity to allow the investigator immediate entry to the place without using force.
+(2) However, the investigator need not comply with subclause (1) if the investigator reasonably believes that immediate entry to the place is required to ensure the effective execution of the warrant is not frustrated.
+9—Powers after entering places
+(1) This clause applies if an investigator enters a place under clause 4.
+(2) The investigator may for the purposes of the investigation do the following—
+(a) search any part of the place;
+(b) inspect, measure, test, photograph or film any part of the place or anything at the place;
+(c) take a thing, or a sample of or from a thing, at the place for analysis, measurement or testing;
+(d) copy, or take an extract from, a document, at the place;
+(e) take into or onto the place any person, equipment and materials the investigator reasonably requires for exercising a power under this Part;
+(f) require the occupier of the place, or a person at the place, to give the investigator reasonable help to exercise the investigator's powers under paragraphs (a) to (e);
+(g) require the occupier of the place, or a person at the place, to give the investigator information to help the investigator in conducting the investigation.
+(3) When making a requirement referred to in subclause (2)(f) or (g), the investigator must warn the person it is an offence to fail to comply with the requirement unless the person has a reasonable excuse.
+10—Offences for failing to comply with requirement under clause 9
+(1) A person required to give reasonable help under clause 9(2)(f) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(2) A person of whom a requirement is made under clause 9(2)(g) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(3) It is a reasonable excuse for an individual not to comply with a requirement under clause 9(2)(f) or (g) that complying with the requirement might tend to incriminate the individual.
+11—Seizure of evidence
+(1) An investigator who enters a public place when the place is open to the public may seize a thing at the place if the investigator reasonably believes the thing is evidence that is relevant to the investigation being conducted by the investigator.
+(2) If an investigator enters a place with the occupier's consent, the investigator may seize a thing at the place if—
+(a) the investigator reasonably believes the thing is evidence that is relevant to the investigation being conducted by the investigator; and
+(b) seizure of the thing is consistent with the purpose of the entry as told to the occupier when asking for the occupier's consent.
+(3) If an investigator enters a place with a warrant, the investigator may seize the evidence for which the warrant was issued.
+(4) For the purposes of subclauses (2) and (3), the investigator may also seize anything else at the place if the investigator reasonably believes—
+(a) the thing is evidence that is relevant to the investigation; and
+(b) the seizure is necessary to prevent the thing being hidden, lost or destroyed.
+12—Securing seized things
+Having seized a thing, an investigator may—
+(a) move the thing from the place where it was seized; or
+(b) leave the thing at the place where it was seized but take reasonable action to restrict access to it.
+13—Receipt for seized things
+(1) As soon as practicable after an investigator seizes a thing, the investigator must give a receipt for it to the person from whom it was seized.
+(2) However, if for any reason it is not practicable to comply with subclause (1), the investigator must leave the receipt at the place of seizure in a conspicuous position and in a reasonably secure way.
+(3) The receipt must describe generally the seized thing and its condition.
+(4) This clause does not apply to a thing if it is impracticable or would be unreasonable to give the receipt given the thing's nature, condition and value.
+14—Forfeiture of seized thing
+(1) A seized thing is forfeited to the National Agency if the investigator who seized the thing—
+(a) cannot find its owner, after making reasonable inquiries; or
+(b) cannot return it to its owner, after making reasonable efforts.
+(2) In applying subclause (1)—
+(a) subclause (1)(a) does not require the investigator to make inquiries if it would be unreasonable to make inquiries to find the owner; and
+(b) subclause (1)(b) does not require the investigator to make efforts if it would be unreasonable to make efforts to return the thing to its owner.
+(3) Regard must be had to a thing's nature, condition and value in deciding—
+(a) whether it is reasonable to make inquiries or efforts; and
+(b) if making inquiries or efforts, what inquiries or efforts, including the period over which they are made, are reasonable.
+15—Dealing with forfeited things
+(1) On the forfeiture of a thing to the National Agency, the thing becomes the Agency's property and may be dealt with by the Agency as the Agency considers appropriate.
+(2) Without limiting subclause (1), the National Agency may destroy or dispose of the thing.
+16—Return of seized things
+(1) If a seized thing has not been forfeited, the investigator must return it to its owner—
+(a) at the end of 6 months; or
+(b) if proceedings involving the thing are started within 6 months, at the end of the proceedings and any appeal from the proceedings.
+(2) Despite subclause (1), unless the thing has been forfeited, the investigator must immediately return a thing seized as evidence to its owner if the investigator is no longer satisfied its continued retention as evidence is necessary.
+17—Access to seized things
+(1) Until a seized thing is forfeited or returned, an investigator must allow its owner to inspect it and, if it is a document, to copy it.
+(2) Subclause (1) does not apply if it is impracticable or would be unreasonable to allow the inspection or copying.
+Part 3—General matters
+18—Damage to property
+(1) This clause applies if—
+(a) an investigator damages property when exercising or purporting to exercise a power; or
+(b) a person (the other person) acting under the direction of an investigator damages property.
+(2) The investigator must promptly give written notice of particulars of the damage to the person who appears to the investigator to be the owner of the property.
+(3) If the investigator believes the damage was caused by a latent defect in the property or circumstances beyond the investigator's or other person's control, the investigator must state the belief in the notice.
+(4) If, for any reason, it is impracticable to comply with subclause (2), the investigator must leave the notice in a conspicuous position and in a reasonably secure way where the damage happened.
+(5) This clause does not apply to damage the investigator reasonably believes is trivial.
+(6) In this clause—
+owner, of property, includes the person in possession or control of it.
+19—Compensation
+(1) A person may claim compensation from the National Agency if the person incurs loss or expense because of the exercise or purported exercise of a power under this Schedule by the investigator.
+(2) Without limiting subclause (1), compensation may be claimed for loss or expense incurred in complying with a requirement made of the person under this Schedule.
+(3) Compensation may be claimed and ordered to be paid in a proceeding brought in a court with jurisdiction for the recovery of the amount of compensation claimed.
+(4) A court may order compensation to be paid only if it is satisfied it is fair to make the order in the circumstances of the particular case.
+20—False or misleading information
+A person must not state anything to an investigator that the person knows is false or misleading in a material particular.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+21—False or misleading documents
+(1) A person must not give an investigator a document containing information the person knows is false or misleading in a material particular.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(2) Subclause (1) does not apply to a person who, when giving the document—
+(a) informs the investigator, to the best of the person's ability, how it is false or misleading; and
+(b) gives the correct information to the investigator if the person has, or can reasonably obtain, the correct information.
+22—Obstructing investigators
+(1) A person must not obstruct an investigator in the exercise of a power, unless the person has a reasonable excuse.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(2) If a person has obstructed an investigator and the investigator decides to proceed with the exercise of the power, the investigator must warn the person that—
+(a) it is an offence to obstruct the investigator, unless the person has a reasonable excuse; and
+(b) the investigator considers the person's conduct is an obstruction.
+(3) In this clause—
+obstruct includes hinder and attempt to obstruct or hinder.
+23—Impersonation of investigators
+A person must not pretend to be an investigator.
+Maximum penalty: $5 000.
+Schedule 6—Inspectors
+(Section 238)
+Part 1—Power to obtain information
+1—Powers of inspectors
+(1) This clause applies if an inspector reasonably believes—
+(a) an offence against this Law has been committed; and
+(b) a person may be able to give information about the offence.
+(2) The inspector may, by written notice given to a person, require the person to—
+(a) give stated information to the inspector within a stated reasonable time and in a stated reasonable way; or
+(b) attend before the inspector at a stated time and a stated place to answer questions or produce documents.
+2—Offence for failing to produce information or attend before inspector
+(1) A person required to give stated information to an inspector under clause 1(2)(a) must not fail, without reasonable excuse, to give the information as required by the notice.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(2) A person given a notice to attend before an inspector must not fail, without reasonable excuse, to—
+(a) attend as required by the notice; and
+(b) continue to attend as required by the inspector until excused from further attendance; and
+(c) answer a question the person is required to answer by the inspector; and
+(d) produce a document the person is required to produce by the notice.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(3) For the purposes of subclauses (1) and (2), it is a reasonable excuse for an individual to fail to give stated information, answer a question or to produce a document, if giving the information, answering the question or producing the document might tend to incriminate the individual.
+3—Inspection of documents
+(1) If a document is produced to an inspector, the inspector may—
+(a) inspect the document; and
+(b) make a copy of, or take an extract from, the document; and
+(c) keep the document while it is necessary for the investigation.
+(2) If the inspector keeps the document, the inspector must permit a person otherwise entitled to possession of the document to inspect, make a copy of, or take an extract from, the document at the reasonable time and place decided by the inspector.
+Part 2—Power to enter places
+4—Entering places
+An inspector may enter a place if—
+(a) its occupier consents to the entry of the place; or
+(b) it is a public place and the entry is made when it is open to the public; or
+(c) the entry is authorised by a warrant.
+5—Application for warrant
+(1) An inspector may apply to a magistrate of a participating jurisdiction for a warrant for a place.
+(2) The inspector must prepare a written application that states the grounds on which the warrant is sought.
+(3) The written application must be sworn.
+(4) The magistrate may refuse to consider the application until the inspector gives the magistrate all the information the magistrate requires about the application in the way the magistrate requires.
+6—Issue of warrant
+(1) The magistrate may issue the warrant only if the magistrate is satisfied there are reasonable grounds for suspecting there is a particular thing or activity that may provide evidence of an offence against this Law at the place.
+(2) The warrant must state—
+(a) that a stated inspector may, with necessary and reasonable help and force—
+(i) enter the place and any other place necessary for entry; and
+(ii) exercise the inspector's powers under this Part; and
+(b) the matter for which the warrant is sought; and
+(c) the evidence that may be seized under the warrant; and
+(d) the hours of the day or night when the place may be entered; and
+(e) the date, within 14 days after the warrant's issue, the warrant ends.
+7—Application by electronic communication
+(1) An inspector may apply for a warrant by phone, facsimile, email, radio, video conferencing or another form of communication if the inspector considers it necessary because of—
+(a) urgent circumstances; or
+(b) other special circumstances, including the inspector's remote location.
+(2) The application—
+(a) may not be made before the inspector prepares the written application under clause 5(2); but
+(b) may be made before the written application is sworn.
+(3) The magistrate may issue the warrant (the original warrant) only if the magistrate is satisfied—
+(a) it was necessary to make the application under subclause (1); and
+(b) the way the application was made under subclause (1) was appropriate.
+(4) After the magistrate issues the original warrant—
+(a) if there is a reasonably practicable way of immediately giving a copy of the warrant to the inspector, for example, by sending a copy by fax or email, the magistrate must immediately give a copy of the warrant to the inspector; or
+(b) otherwise—
+(i) the magistrate must tell the inspector the date and time the warrant is issued and the other terms of the warrant; and
+(ii) the inspector must complete a form of warrant including by writing on it—
+(A) the magistrate's name; and
+(B) the date and time the magistrate issued the warrant; and
+(C) the other terms of the warrant.
+(5) The copy of the warrant referred to in subclause (4)(a), or the form of warrant completed under subclause (4)(b) (in either case the duplicate warrant), is a duplicate of, and as effectual as, the original warrant.
+(6) The inspector must, at the first reasonable opportunity, send to the magistrate—
+(a) the written application complying with clause 5(2) and (3); and
+(b) if the inspector completed a form of warrant under subclause (4)(b), the completed form of warrant.
+(7) The magistrate must keep the original warrant and, on receiving the documents under subclause (6), file the original warrant and documents in the court.
+(8) Despite subclause (5), if—
+(a) an issue arises in a proceeding about whether an exercise of a power was authorised by a warrant issued under this clause; and
+(b) the original warrant is not produced in evidence;
+the onus of proof is on the person relying on the lawfulness of the exercise of the power to prove a warrant authorised the exercise of the power.
+(9) This clause does not limit clause 5.
+8—Procedure before entry under warrant
+(1) Before entering a place under a warrant, an inspector must do or make a reasonable attempt to do the following—
+(a) identify himself or herself to a person present at the place who is an occupier of the place by producing the inspector's identity card or another document evidencing the inspector's appointment;
+(b) give the person a copy of the warrant;
+(c) tell the person the inspector is permitted by the warrant to enter the place;
+(d) give the person an opportunity to allow the inspector immediate entry to the place without using force.
+(2) However, the inspector need not comply with subclause (1) if the inspector reasonably believes that immediate entry to the place is required to ensure the effective execution of the warrant is not frustrated.
+9—Powers after entering places
+(1) This clause applies if an inspector enters a place under clause 4.
+(2) The inspector may for the purposes of the investigation do the following—
+(a) search any part of the place;
+(b) inspect, measure, test, photograph or film any part of the place or anything at the place;
+(c) take a thing, or a sample of or from a thing, at the place for analysis, measurement or testing;
+(d) copy, or take an extract from, a document, at the place;
+(e) take into or onto the place any person, equipment and materials the inspector reasonably requires for exercising a power under this Part;
+(f) require the occupier of the place, or a person at the place, to give the inspector reasonable help to exercise the inspector's powers under paragraphs (a) to (e);
+(g) require the occupier of the place, or a person at the place, to give the inspector information to help the inspector ascertain whether this Law is being complied with.
+(3) When making a requirement referred to in subclause (2)(f) or (g), the inspector must warn the person it is an offence to fail to comply with the requirement unless the person has a reasonable excuse.
+10—Offences for failing to comply with requirement under clause 9
+(1) A person required to give reasonable help under clause 9(2)(f) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(2) A person of whom a requirement is made under clause 9(2)(g) must comply with the requirement, unless the person has a reasonable excuse.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(3) It is a reasonable excuse for an individual not to comply with a requirement under clause 9(2)(f) or (g) that complying with the requirement might tend to incriminate the individual.
+11—Seizure of evidence
+(1) An inspector who enters a public place when the place is open to the public may seize a thing at the place if the inspector reasonably believes the thing is evidence that is relevant to the investigation being conducted by the inspector.
+(2) If an inspector enters a place with the occupier's consent, the inspector may seize a thing at the place if—
+(a) the inspector reasonably believes the thing is evidence that is relevant to the investigation being conducted by the inspector; and
+(b) seizure of the thing is consistent with the purpose of the entry as told to the occupier when asking for the occupier's consent.
+(3) If an inspector enters a place with a warrant, the inspector may seize the evidence for which the warrant was issued.
+(4) For the purposes of subclauses (2) and (3), the inspector may also seize anything else at the place if the inspector reasonably believes—
+(a) the thing is evidence that is relevant to the investigation; and
+(b) the seizure is necessary to prevent the thing being hidden, lost or destroyed.
+12—Securing seized things
+Having seized a thing, an inspector may—
+(a) move the thing from the place where it was seized; or
+(b) leave the thing at the place where it was seized but take reasonable action to restrict access to it.
+13—Receipt for seized things
+(1) As soon as practicable after an inspector seizes a thing, the inspector must give a receipt for it to the person from whom it was seized.
+(2) However, if for any reason it is not practicable to comply with subclause (1), the inspector must leave the receipt at the place of seizure in a conspicuous position and in a reasonably secure way.
+(3) The receipt must describe generally the seized thing and its condition.
+(4) This clause does not apply to a thing if it is impracticable or would be unreasonable to give the receipt given the thing's nature, condition and value.
+14—Forfeiture of seized thing
+(1) A seized thing is forfeited to the National Agency if the inspector who seized the thing—
+(a) cannot find its owner, after making reasonable inquiries; or
+(b) cannot return it to its owner, after making reasonable efforts.
+(2) In applying subclause (1)—
+(a) subclause (1)(a) does not require the inspector to make inquiries if it would be unreasonable to make inquiries to find the owner; and
+(b) subclause (1)(b) does not require the inspector to make efforts if it would be unreasonable to make efforts to return the thing to its owner.
+(3) Regard must be had to a thing's nature, condition and value in deciding—
+(a) whether it is reasonable to make inquiries or efforts; and
+(b) if making inquiries or efforts, what inquiries or efforts, including the period over which they are made, are reasonable.
+15—Dealing with forfeited things
+(1) On the forfeiture of a thing to the National Agency, the thing becomes the Agency's property and may be dealt with by the Agency as the Agency considers appropriate.
+(2) Without limiting subclause (1), the National Agency may destroy or dispose of the thing.
+16—Return of seized things
+(1) If a seized thing has not been forfeited, the inspector must return it to its owner—
+(a) at the end of 6 months; or
+(b) if proceedings involving the thing are started within 6 months, at the end of the proceedings and any appeal from the proceedings.
+(2) Despite subclause (1), unless the thing has been forfeited, the inspector must immediately return a thing seized as evidence to its owner if the inspector is no longer satisfied its continued retention as evidence is necessary.
+17—Access to seized things
+(1) Until a seized thing is forfeited or returned, an inspector must allow its owner to inspect it and, if it is a document, to copy it.
+(2) Subclause (1) does not apply if it is impracticable or would be unreasonable to allow the inspection or copying.
+Part 3—General matters
+18—Damage to property
+(1) This clause applies if—
+(a) an inspector damages property when exercising or purporting to exercise a power; or
+(b) a person (the other person) acting under the direction of an inspector damages property.
+(2) The inspector must promptly give written notice of particulars of the damage to the person who appears to the inspector to be the owner of the property.
+(3) If the inspector believes the damage was caused by a latent defect in the property or circumstances beyond the inspector's or other person's control, the inspector must state the belief in the notice.
+(4) If, for any reason, it is impracticable to comply with subclause (2), the inspector must leave the notice in a conspicuous position and in a reasonably secure way where the damage happened.
+(5) This clause does not apply to damage the inspector reasonably believes is trivial.
+(6) In this clause—
+owner, of property, includes the person in possession or control of it.
+19—Compensation
+(1) A person may claim compensation from the National Agency if the person incurs loss or expense because of the exercise or purported exercise of a power under this Schedule by the inspector.
+(2) Without limiting subclause (1), compensation may be claimed for loss or expense incurred in complying with a requirement made of the person under this Schedule.
+(3) Compensation may be claimed and ordered to be paid in a proceeding brought in a court with jurisdiction for the recovery of the amount of compensation claimed.
+(4) A court may order compensation to be paid only if it is satisfied it is fair to make the order in the circumstances of the particular case.
+20—False or misleading information
+A person must not state anything to an inspector that the person knows is false or misleading in a material particular.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+21—False or misleading documents
+(1) A person must not give an inspector a document containing information the person knows is false or misleading in a material particular.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(2) Subclause (1) does not apply to a person who, when giving the document—
+(a) informs the inspector, to the best of the person's ability, how it is false or misleading; and
+(b) gives the correct information to the inspector if the person has, or can reasonably obtain, the correct information.
+22—Obstructing inspectors
+(1) A person must not obstruct an inspector in the exercise of a power, unless the person has a reasonable excuse.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(2) If a person has obstructed an inspector and the inspector decides to proceed with the exercise of the power, the inspector must warn the person that—
+(a) it is an offence to obstruct the inspector, unless the person has a reasonable excuse; and
+(b) the inspector considers the person's conduct is an obstruction.
+(3) In this clause—
+obstruct includes hinder and attempt to obstruct or hinder.
+23—Impersonation of inspectors
+A person must not pretend to be an inspector.
+Maximum penalty: $5 000.
+Schedule 7—Miscellaneous provisions relating to interpretation
+(Section 6)
+Part 1—Preliminary
+1—Displacement of Schedule by contrary intention
+The application of this Schedule may be displaced, wholly or partly, by a contrary intention appearing in this Law.
+Part 2—General
+2—Law to be construed not to exceed legislative power of Legislature
+(1) This Law is to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction.
+(2) If a provision of this Law, or the application of a provision of this Law to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction—
+(a) it is a valid provision to the extent to which it is not in excess of the power; and
+(b) the remainder of this Law, and the application of the provision to other persons, subject matters or circumstances, is not affected.
+(3) This clause applies to this Law in addition to, and without limiting the effect of, any provision of this Law.
+3—Every section to be a substantive enactment
+Every section of this Law has effect as a substantive enactment without introductory words.
+4—Material that is, and is not, part of this Law
+(1) The heading to a Part, Division or Subdivision into which this Law is divided is part of this Law.
+(2) A Schedule to this Law is part of this Law.
+(3) Punctuation in this Law is part of this Law.
+(4) A heading to a section or subsection of this Law does not form part of this Law.
+(5) Notes included in this Law (including footnotes and endnotes) do not form part of this Law.
+5—References to particular Acts and to enactments
+In this Law—
+(a) an Act of this jurisdiction may be cited—
+(i) by its short title; or
+(ii) by reference to the year in which it was passed and its number; and
+(b) a Commonwealth Act may be cited—
+(i) by its short title; or
+(ii) in another way sufficient in a Commonwealth Act for the citation of such an Act;
+together with a reference to the Commonwealth; and
+(c) an Act of another jurisdiction may be cited—
+(i) by its short title; or
+(ii) in another way sufficient in an Act of the jurisdiction for the citation of such an Act;
+together with a reference to the jurisdiction.
+6—References taken to be included in Act or Law citation etc
+(1) A reference in this Law to an Act includes a reference to—
+(a) the Act as originally enacted, and as amended from time to time since its original enactment; and
+(b) if the Act has been repealed and re-enacted (with or without modification) since the enactment of the reference—the Act as re‑enacted, and as amended from time to time since its re‑enactment.
+(2) A reference in this Law to a provision of this Law or of an Act includes a reference to—
+(a) the provision as originally enacted, and as amended from time to time since its original enactment; and
+(b) if the provision has been omitted and re‑enacted (with or without modification) since the enactment of the reference—the provision as re‑enacted, and as amended from time to time since its re‑enactment.
+(3) Subclauses (1) and (2) apply to a reference in this Law to a law of the Commonwealth or another jurisdiction as they apply to a reference in this Law to an Act and to a provision of an Act.
+7—Interpretation best achieving Law's purpose
+(1) In the interpretation of a provision of this Law, the interpretation that will best achieve the purpose or object of this Law is to be preferred to any other interpretation.
+(2) Subclause (1) applies whether or not the purpose is expressly stated in this Law.
+8—Use of extrinsic material in interpretation
+(1) In this clause—
+extrinsic material means relevant material not forming part of this Law, including, for example—
+(a) material that is set out in the document containing the text of this Law as printed by the Government Printer; and
+(b) a relevant report of a Royal Commission, Law Reform Commission, commission or committee of inquiry, or a similar body, that was laid before the Parliament of this jurisdiction before the provision concerned was enacted; and
+(c) a relevant report of a committee of the Parliament of this jurisdiction that was made to the Parliament before the provision was enacted; and
+(d) a treaty or other international agreement that is mentioned in this Law; and
+(e) an explanatory note or memorandum relating to the Bill that contained the provision, or any relevant document, that was laid before, or given to the members of, the Parliament of this jurisdiction by the member bringing in the Bill before the provision was enacted; and
+(f) the speech made to the Parliament of this jurisdiction by the member in moving a motion that the Bill be read a second time; and
+(g) material in the Votes and Proceedings of the Parliament of this jurisdiction or in any official record of debates in the Parliament of this jurisdiction; and
+(h) a document that is declared by this Law to be a relevant document for the purposes of this clause.
+ordinary meaning means the ordinary meaning conveyed by a provision having regard to its context in this Law and to the purpose of this Law.
+(2) Subject to subclause (3), in the interpretation of a provision of this Law, consideration may be given to extrinsic material capable of assisting in the interpretation—
+(a) if the provision is ambiguous or obscure—to provide an interpretation of it; or
+(b) if the ordinary meaning of the provision leads to a result that is manifestly absurd or is unreasonable—to provide an interpretation that avoids such a result; or
+(c) in any other case—to confirm the interpretation conveyed by the ordinary meaning of the provision.
+(3) In determining whether consideration should be given to extrinsic material, and in determining the weight to be given to extrinsic material, regard is to be had to—
+(a) the desirability of a provision being interpreted as having its ordinary meaning; and
+(b) the undesirability of prolonging proceedings without compensating advantage; and
+(c) other relevant matters.
+9—Effect of change of drafting practice and use of examples
+If—
+(a) a provision of this Law expresses an idea in particular words; and
+(b) a provision enacted later appears to express the same idea in different words for the purpose of implementing a different legislative drafting practice, including, for example—
+(i) the use of a clearer or simpler style; or
+(ii) the use of gender-neutral language;
+the ideas must not be taken to be different merely because different words are used.
+10—Use of examples
+If this Law includes an example of the operation of a provision—
+(a) the example is not exhaustive; and
+(b) the example does not limit, but may extend, the meaning of the provision; and
+(c) the example and the provision are to be read in the context of each other and the other provisions of this Law, but, if the example and the provision so read are inconsistent, the provision prevails.
+11—Compliance with forms
+(1) If a form is prescribed or approved by or for the purpose of this Law, strict compliance with the form is not necessary and substantial compliance is sufficient.
+(2) If a form prescribed or approved by or for the purpose of this Law requires—
+(a) the form to be completed in a specified way; or
+(b) specified information or documents to be included in, attached to or given with the form; or
+(c) the form, or information or documents included in, attached to or given with the form, to be verified in a specified way,
+the form is not properly completed unless the requirement is complied with.
+Part 3—Terms and references
+12—Definitions
+(1) In this Law—
+Act means an Act of the Legislature of this jurisdiction.
+adult means an individual who is 18 or more.
+affidavit, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise.
+amend includes—
+(a) omit or omit and substitute; or
+(b) alter or vary; or
+(c) amend by implication.
+appoint includes reappoint.
+Australia means the Commonwealth of Australia but, when used in a geographical sense, does not include an external Territory.
+business day means a day that is not—
+(a) a Saturday or Sunday; or
+(b) a public holiday, special holiday or bank holiday in the place in which any relevant act is to be or may be done.
+calendar month means a period starting at the beginning of any day of one of the 12 named months and ending—
+(a) immediately before the beginning of the corresponding day of the next named month; or
+(b) if there is no such corresponding day—at the end of the next named month.
+calendar year means a period of 12 months beginning on 1 January.
+commencement, in relation to this Law or an Act or a provision of this Law or an Act, means the time at which this Law, the Act or provision comes into operation.
+Commonwealth means the Commonwealth of Australia but, when used in a geographical sense, does not include an external Territory.
+confer, in relation to a function, includes impose.
+contravene includes fail to comply with.
+country includes—
+(a) a federation; or
+(b) a state, province or other part of a federation.
+date of assent, in relation to an Act, means the day on which the Act receives the Royal Assent.
+definition means a provision of this Law (however expressed) that—
+(a) gives a meaning to a word or expression; or
+(b) limits or extends the meaning of a word or expression.
+document includes—
+(a) any paper or other material on which there is writing; or
+(b) any paper or other material on which there are marks, figures, symbols or perforations having a meaning for a person qualified to interpret them; or
+(c) any disc, tape or other article or any material from which sounds, images, writings or messages are capable of being reproduced (with or without the aid of another article or device).
+electronic communication means—
+(a) a communication of information in the form of data, text or images by means of guided or unguided electromagnetic energy, or both; or
+(b) a communication of information in the form of sound by means of guided or unguided electromagnetic energy, or both, where the sound is processed at its destination by an automated voice recognition system.
+estate includes easement, charge, right, title, claim, demand, lien or encumbrance, whether at law or in equity.
+expire includes lapse or otherwise cease to have effect.
+external Territory means a Territory, other than an internal Territory, for the government of which as a Territory provision is made by a Commonwealth Act.
+fail includes refuse.
+financial year means a period of 12 months beginning on 1 July.
+foreign country means a country (whether or not an independent sovereign State) outside Australia and the external Territories.
+function includes a power, authority or duty.
+Gazette means the Government Gazette of this jurisdiction.
+gazetted means published in the Gazette.
+Gazette notice means notice published in the Gazette.
+Government Printer means the Government Printer of this jurisdiction, and includes any other person authorised by the Government of this jurisdiction to print an Act or instrument.
+individual means a natural person.
+information system means a system for generating, sending, receiving, storing or otherwise processing electronic communications.
+insert, in relation to a provision of this Law, includes substitute.
+instrument includes a statutory instrument.
+interest, in relation to land or other property, means—
+(a) a legal or equitable estate in the land or other property; or
+(b) a right, power or privilege over, or in relation to, the land or other property. internal Territory means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory.
+internal Territory means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory.
+Jervis Bay Territory means the Territory mentioned in the Jervis Bay Territory Acceptance Act 1915 (Cwlth).
+make includes issue or grant.
+minor means an individual who is under 18.
+modification includes addition, omission or substitution.
+month means a calendar month.
+named month means 1 of the 12 months of the year.
+Northern Territory means the Northern Territory of Australia.
+number means—
+(a) a number expressed in figures or words; or
+(b) a letter; or
+(c) a combination of a number so expressed and a letter.
+oath, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration or promise.
+office includes position.
+omit, in relation to a provision of this Law or an Act, includes repeal.
+party includes an individual or a body politic or corporate.
+penalty includes forfeiture or punishment.
+person includes an individual or a body politic or corporate.
+power includes authority.
+prescribed means prescribed by, or by regulations made or in force for the purposes of or under, this Law.
+printed includes typewritten, lithographed or reproduced by any mechanical means.
+proceeding means a legal or other action or proceeding.
+property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes things in action.
+provision, in relation to this Law or an Act, means words or other matter that form or forms part of this Law or the Act, and includes—
+(a) a Chapter, Part, Division, Subdivision, section, subsection, paragraph, subparagraph, sub-subparagraph or Schedule of or to this Law or the Act; or
+(b) a section, clause, subclause, item, column, table or form of or in a Schedule to this Law or the Act; or
+(c) the long title and any preamble to the Act.
+record includes information stored or recorded by means of a computer.
+repeal includes—
+(a) revoke or rescind; or
+(b) repeal by implication; or
+(c) abrogate or limit the effect of this Law or instrument concerned; or
+(d) exclude from, or include in, the application of this Law or instrument concerned any person, subject matter or circumstance.
+sign includes the affixing of a seal or the making of a mark.
+statutory declaration means a declaration made under an Act, or under a Commonwealth Act or an Act of another jurisdiction, that authorises a declaration to be made otherwise than in the course of a judicial proceeding.
+statutory instrument means an instrument (including a regulation) made or in force under or for the purposes of this Law, and includes an instrument made or in force under any such instrument.
+swear, in relation to a person allowed by law to affirm, declare or promise, includes affirm, declare or promise.
+word includes any symbol, figure or drawing.
+writing includes any mode of representing or reproducing words in a visible form.
+(2) In a statutory instrument—
+the Law means this Law.
+13—Provisions relating to defined terms and gender and number
+(1) If this Law defines a word or expression, other parts of speech and grammatical forms of the word or expression have corresponding meanings.
+(2) Definitions in or applicable to this Law apply except so far as the context or subject matter otherwise indicates or requires.
+(3) In this Law, words indicating a gender include each other gender.
+(4) In this Law—
+(a) words in the singular include the plural; and
+(b) words in the plural include the singular.
+14—Meaning of "may" and "must" etc
+(1) In this Law, the word may, or a similar word or expression, used in relation to a power indicates that the power may be exercised or not exercised, at discretion.
+(2) In this Law, the word must, or a similar word or expression, used in relation to a power indicates that the power is required to be exercised.
+(3) This clause has effect despite any rule of construction to the contrary.
+15—Words and expressions used in statutory instruments
+(1) Words and expressions used in a statutory instrument have the same meanings as they have, from time to time, in this Law, or relevant provisions of this Law, under or for the purposes of which the instrument is made or in force.
+(2) This clause has effect in relation to an instrument except so far as the contrary intention appears in the instrument.
+16—Effect of express references to bodies corporate and individuals
+In this Law, a reference to a person generally (whether the expression "person", "party", "someone", "anyone", "no-one", "one", "another" or "whoever" or another expression is used)—
+(a) does not exclude a reference to a body corporate or an individual merely because elsewhere in this Law there is particular reference to a body corporate (however expressed); and
+(b) does not exclude a reference to a body corporate or an individual merely because elsewhere in this Law there is particular reference to an individual (however expressed).
+17—Production of records kept in computers etc
+If a person who keeps a record of information by means of a mechanical, electronic or other device is required by or under this Law—
+(a) to produce the information or a document containing the information to a court, tribunal or person; or
+(b) to make a document containing the information available for inspection by a court, tribunal or person;
+then, unless the court, tribunal or person otherwise directs—
+(c) the requirement obliges the person to produce or make available for inspection, as the case may be, a document that reproduces the information in a form capable of being understood by the court, tribunal or person; and
+(d) the production to the court, tribunal or person of the document in that form complies with the requirement.
+18—References to this jurisdiction to be implied
+In this Law—
+(a) a reference to an officer, office or statutory body is a reference to such an officer, office or statutory body in and for this jurisdiction; and
+(b) a reference to a locality or other matter or thing is a reference to such a locality or other matter or thing in and of this jurisdiction.
+19—References to officers and holders of offices
+In this Law, a reference to a particular officer, or to the holder of a particular office, includes a reference to the person for the time being occupying or acting in the office concerned.
+20—Reference to certain provisions of Law
+If a provision of this Law refers—
+(a) to a Part, section or Schedule by a number and without reference to this Law—the reference is a reference to the Part, section or Schedule, designated by the number, of or to this Law; or
+(b) to a Schedule without reference to it by a number and without reference to this Law—the reference, if there is only one Schedule to this Law, is a reference to the Schedule; or
+(c) to a Division, Subdivision, subsection, paragraph, subparagraph, sub-subparagraph, clause, subclause, item, column, table or form by a number and without reference to this Law—the reference is a reference to—
+(i) the Division, designated by the number, of the Part in which the reference occurs; and
+(ii) the Subdivision, designated by the number, of the Division in which the reference occurs; and
+(iii) the subsection, designated by the number, of the section in which the reference occurs; and
+(iv) the paragraph, designated by the number, of the section, subsection, Schedule or other provision in which the reference occurs; and
+(v) the paragraph, designated by the number, of the clause, subclause, item, column, table or form of or in the Schedule in which the reference occurs; and
+(vi) the subparagraph, designated by the number, of the paragraph in which the reference occurs; and
+(vii) the sub-subparagraph, designated by the number, of the subparagraph in which the reference occurs; and
+(viii) the section, clause, subclause, item, column, table or form, designated by the number, of or in the Schedule in which the reference occurs;
+as the case requires.
+21—Reference to provisions of this Law or an Act is inclusive
+In this Law, a reference to a portion of this Law or an Act includes—
+(a) a reference to the Chapter, Part, Division, Subdivision, section, subsection or other provision of this Law or the Act referred to that forms the beginning of the portion; and
+(b) a reference to the Chapter, Part, Division, Subdivision, section, subsection or other provision of this Law or the Act referred to that forms the end of the portion.
+Example—
+A reference to "sections 5 to 9" includes both section 5 and section 9. It is not necessary to refer to "sections 5 to 9 (both inclusive)" to ensure that the reference is given an inclusive interpretation.
+Part 4—Functions and powers
+22—Performance of statutory functions
+(1) If this Law confers a function or power on a person or body, the function may be performed, or the power may be exercised, from time to time as occasion requires.
+(2) If this Law confers a function or power on a particular officer or the holder of a particular office, the function may be performed, or the power may be exercised, by the person for the time being occupying or acting in the office concerned.
+(3) If this Law confers a function or power on a body (whether or not incorporated), the performance of the function, or the exercise of the power, is not affected merely because of vacancies in the membership of the body.
+23—Power to make instrument or decision includes power to amend or repeal
+If this Law authorises or requires the making of an instrument or decision—
+(a) the power includes power to amend or repeal the instrument or decision; and
+(b) the power to amend or repeal the instrument or decision is exercisable in the same way, and subject to the same conditions, as the power to make the instrument or decision.
+24—Matters for which statutory instruments may make provision
+(1) If this Law authorises or requires the making of a statutory instrument in relation to a matter, a statutory instrument made under this Law may make provision for the matter by applying, adopting or incorporating (with or without modification) the provisions of—
+(a) an Act or statutory instrument; or
+(b) another document (whether of the same or a different kind);
+as in force at a particular time or as in force from time to time.
+(2) If a statutory instrument applies, adopts or incorporates the provisions of a document, the statutory instrument applies, adopts or incorporates the provisions as in force from time to time, unless the statutory instrument otherwise expressly provides.
+(3) A statutory instrument may—
+(a) apply generally throughout this jurisdiction or be limited in its application to a particular part of this jurisdiction; or
+(b) apply generally to all persons, matters or things or be limited in its application to—
+(i) particular persons, matters or things; or
+(ii) particular classes of persons, matters or things; or
+(c) otherwise apply generally or be limited in its application by reference to specified exceptions or factors.
+(4) A statutory instrument may—
+(a) apply differently according to different specified factors; or
+(b) otherwise make different provision in relation to—
+(i) different persons, matters or things; or
+(ii) different classes of persons, matters or things.
+(5) A statutory instrument may authorise a matter or thing to be from time to time determined, applied or regulated by a specified person or body.
+(6) If this Law authorises or requires a matter to be regulated by statutory instrument, the power may be exercised by prohibiting by statutory instrument the matter or any aspect of the matter.
+(7) If this Law authorises or requires provision to be made with respect to a matter by statutory instrument, a statutory instrument made under this Law may make provision with respect to a particular aspect of the matter despite the fact that provision is made by this Law in relation to another aspect of the matter or in relation to another matter.
+(8) A statutory instrument may provide for the review of, or a right of appeal against, a decision made under the statutory instrument, or this Law, and may, for that purpose, confer jurisdiction on any court, tribunal, person or body.
+(9) A statutory instrument may require a form prescribed by or under the statutory instrument, or information or documents included in, attached to or given with the form, to be verified by statutory declaration.
+25—Presumption of validity and power to make
+(1) All conditions and preliminary steps required for the making of a statutory instrument are presumed to have been satisfied and performed in the absence of evidence to the contrary.
+(2) A statutory instrument is taken to be made under all powers under which it may be made, even though it purports to be made under this Law or a particular provision of this Law.
+26—Appointments may be made by name or office
+(1) If this Law authorises or requires a person or body—
+(a) to appoint a person to an office; or
+(b) to appoint a person or body to exercise a power; or
+(c) to appoint a person or body to do another thing;
+the person or body may make the appointment by—
+(d) appointing a person or body by name; or
+(e) appointing a particular officer, or the holder of a particular office, by reference to the title of the office concerned.
+(2) An appointment of a particular officer, or the holder of a particular office, is taken to be the appointment of the person for the time being occupying or acting in the office concerned.
+27—Acting appointments
+(1) If this Law authorises a person or body to appoint a person to act in an office, the person or body may, in accordance with this Law, appoint—
+(a) a person by name; or
+(b) a particular officer, or the holder of a particular office, by reference to the title of the office concerned;
+to act in the office.
+(2) The appointment may be expressed to have effect only in the circumstances specified in the instrument of appointment.
+(3) The appointer may—
+(a) determine the terms and conditions of the appointment, including remuneration and allowances; and
+(b) terminate the appointment at any time.
+(4) The appointment, or the termination of the appointment, must be in, or evidenced by, writing signed by the appointer.
+(5) The appointee must not act for more than 1 year during a vacancy in the office.
+(6) If the appointee is acting in the office otherwise than because of a vacancy in the office and the office becomes vacant, then, subject to subclause (2), the appointee may continue to act until—
+(a) the appointer otherwise directs; or
+(b) the vacancy is filled; or
+(c) the end of a year from the day of the vacancy;
+whichever happens first.
+(7) The appointment ceases to have effect if the appointee resigns by writing signed and delivered to the appointer.
+(8) While the appointee is acting in the office—
+(a) the appointee has all the powers and functions of the holder of the office; and
+(b) this Law and other laws apply to the appointee as if the appointee were the holder of the office.
+(9) Anything done by or in relation to a person purporting to act in the office is not invalid merely because—
+(a) the occasion for the appointment had not arisen; or
+(b) the appointment had ceased to have effect; or
+(c) the occasion for the person to act had not arisen or had ceased.
+(10) If this Law authorises the appointer to appoint a person to act during a vacancy in the office, an appointment to act in the office may be made by the appointer whether or not an appointment has previously been made to the office.
+28—Powers of appointment imply certain incidental powers
+(1) If this Law authorises or requires a person or body to appoint a person to an office—
+(a) the power may be exercised from time to time as occasion requires; and
+(b) the power includes—
+(i) power to remove or suspend, at any time, a person appointed to the office; and
+(ii) power to appoint another person to act in the office if a person appointed to the office is removed or suspended; and
+(iii) power to reinstate or reappoint a person removed or suspended; and
+(iv) power to appoint a person to act in the office if it is vacant (whether or not the office has ever been filled); and
+(v) power to appoint a person to act in the office if the person appointed to the office is absent or is unable to discharge the functions of the office (whether because of illness or otherwise).
+(2) The power to remove or suspend a person under subclause (1)(b) may be exercised even if this Law provides that the holder of the office to which the person was appointed is to hold office for a specified period.
+(3) The power to make an appointment under subclause (1)(b) may be exercised from time to time as occasion requires.
+(4) An appointment under subclause (1)(b) may be expressed to have effect only in the circumstances specified in the instrument of appointment.
+29—Delegation of functions
+(1) If this Law authorises a person or body to delegate a function, the person or body may, in accordance with this Law and any other applicable law, delegate the function to—
+(a) a person or body by name; or
+(b) a specified officer, or the holder of a specified office, by reference to the title of the office concerned.
+(2) The delegation may be—
+(a) general or limited; and
+(b) made from time to time; and
+(c) revoked, wholly or partly, by the delegator.
+(3) The delegation, or a revocation of the delegation, must be in, or evidenced by, writing signed by the delegator or, if the delegator is a body, by a person authorised by the body for the purpose.
+(4) A delegated function may be exercised only in accordance with any conditions to which the delegation is subject.
+(5) The delegate may, in the performance of a delegated function, do anything that is incidental to the delegated function.
+(6) A delegated function that purports to have been exercised by the delegate is taken to have been properly exercised by the delegate unless the contrary is proved.
+(7) A delegated function that is properly exercised by the delegate is taken to have been exercised by the delegator.
+(8) If, when exercised by the delegator, a function is dependent on the delegator's opinion, belief or state of mind, then, when exercised by the delegate, the function is dependent on the delegate's opinion, belief or state of mind.
+(9) If—
+(a) the delegator is a specified officer or the holder of a specified office; and
+(b) the person who was the specified officer or holder of the specified office when the delegation was made ceases to be the holder of the office;
+then—
+(c) the delegation continues in force; and
+(d) the person for the time being occupying or acting in the office concerned is taken to be the delegator for the purposes of this section.
+(10) If—
+(a) the delegator is a body; and
+(b) there is a change in the membership of the body;
+then—
+(c) the delegation continues in force; and
+(d) the body as constituted for the time being is taken to be the delegator for the purposes of this section.
+(11) If a function is delegated to a specified officer or the holder of a specified office—
+(a) the delegation does not cease to have effect merely because the person who was the specified officer or the holder of the specified office when the function was delegated ceases to be the officer or the holder of the office; and
+(b) the function may be exercised by the person for the time being occupying or acting in the office concerned.
+(12) A function that has been delegated may, despite the delegation, be exercised by the delegator.
+(13) The delegation of a function does not relieve the delegator of the delegator's obligation to ensure that the function is properly exercised.
+(14) Subject to subsection (15), this clause applies to a subdelegation of a function in the same way as it applies to a delegation of a function.
+(15) If this Law authorises the delegation of a function, the function may be subdelegated only if the Law expressly authorises the function to be subdelegated.
+30—Exercise of powers between enactment and commencement
+(1) If a provision of this Law (the empowering provision) that does not commence on its enactment would, had it commenced, confer a power—
+(a) to make an appointment; or
+(b) to make a statutory instrument of a legislative or administrative character; or
+(c) to do another thing;
+then—
+(d) the power may be exercised; and
+(e) anything may be done for the purpose of enabling the exercise of the power or of bringing the appointment, instrument or other thing into effect;
+before the empowering provision commences.
+(2) If a provision of a Queensland Act (the empowering provision) that does not commence on its enactment would, had it commenced, amend a provision of this Law so that it would confer a power—
+(a) to make an appointment; or
+(b) to make a statutory instrument of a legislative or administrative character; or
+(c) to do another thing;
+then—
+(d) the power may be exercised; and
+(e) anything may be done for the purpose of enabling the exercise of the power or of bringing the appointment, instrument or other thing into effect;
+before the empowering provision commences.
+(3) If—
+(a) this Law has commenced and confers a power to make a statutory instrument (the basic instrument-making power); and
+(b) a provision of a Queensland Act that does not commence on its enactment would, had it commenced, amend this Law so as to confer additional power to make a statutory instrument (the additional instrument-making power);
+then—
+(c) the basic instrument‑making power and the additional instrument‑making power may be exercised by making a single instrument; and
+(d) any provision of the instrument that required an exercise of the additional instrument‑making power is to be treated as made under subclause (2).
+(4) If an instrument, or a provision of an instrument, is made under subclause (1) or (2) that is necessary for the purpose of—
+(a) enabling the exercise of a power mentioned in the subclause; or
+(b) bringing an appointment, instrument or other thing made or done under such a power into effect;
+the instrument or provision takes effect—
+(c) on the making of the instrument; or
+(d) on such later day (if any) on which, or at such later time (if any) at which, the instrument or provision is expressed to take effect.
+(5) If—
+(a) an appointment is made under subclause (1) or (2); or
+(b) an instrument, or a provision of an instrument, made under subclause (1) or (2) is not necessary for a purpose mentioned in subclause (4);
+the appointment, instrument or provision takes effect—
+(c) on the commencement of the relevant empowering provision; or
+(d) on such later day (if any) on which, or at such later time (if any) at which, the appointment, instrument or provision is expressed to take effect.
+(6) Anything done under subclause (1) or (2) does not confer a right, or impose a liability, on a person before the relevant empowering provision commences.
+(7) After the enactment of a provision mentioned in subclause (2) but before the provision's commencement, this clause applies as if the references in subclauses (2) and (5) to the commencement of the empowering provision were references to the commencement of the provision mentioned in subclause (2) as amended by the empowering provision.
+(8) In the application of this clause to a statutory instrument, a reference to the enactment of the instrument is a reference to the making of the instrument.
+Part 5—Distance, time and age
+31—Matters relating to distance, time and age
+(1) In the measurement of distance for the purposes of this Law, the distance is to be measured along the shortest road ordinarily used for travelling.
+(2) If a period beginning on a given day, act or event is provided or allowed for a purpose by this Law, the period is to be calculated by excluding the day, or the day of the act or event, and—
+(a) if the period is expressed to be a specified number of clear days or at least a specified number of days—by excluding the day on which the purpose is to be fulfilled; and
+(b) in any other case—by including the day on which the purpose is to be fulfilled.
+(3) If the last day of a period provided or allowed by this Law for doing anything is not a business day in the place in which the thing is to be or may be done, the thing may be done on the next business day in the place.
+(4) If the last day of a period provided or allowed by this Law for the filing or registration of a document is a day on which the office is closed where the filing or registration is to be or may be done, the document may be filed or registered at the office on the next day that the office is open.
+(5) If no time is provided or allowed for doing anything, the thing is to be done as soon as possible, and as often as the prescribed occasion happens.
+(6) If, in this Law, there is a reference to time, the reference is, in relation to the doing of anything in a jurisdiction, a reference to the legal time in the jurisdiction.
+(7) For the purposes of this Law, a person attains an age in years at the beginning of the person's birthday for the age.
+Part 6—Effect of repeal, amendment or expiration
+32—Time of Law ceasing to have effect
+If a provision of this Law is expressed—
+(a) to expire on a specified day; or
+(b) to remain or continue in force, or otherwise have effect, until a specified day;
+this provision has effect until the last moment of the specified day.
+33—Repealed Law provisions not revived
+If a provision of this Law is repealed or amended by a Queensland Act, or a provision of a Queensland Act, the provision is not revived merely because the Queensland Act or the provision of the Queensland Act—
+(a) is later repealed or amended; or
+(b) later expires.
+34—Saving of operation of repealed Law provisions
+(1) The repeal, amendment or expiry of a provision of this Law does not—
+(a) revive anything not in force or existing at the time the repeal, amendment or expiry takes effect; or
+(b) affect the previous operation of the provision or anything suffered, done or begun under the provision; or
+(c) affect a right, privilege or liability acquired, accrued or incurred under the provision; or
+(d) affect a penalty incurred in relation to an offence arising under the provision; or
+(e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
+(2) Any such penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced, as if the provision had not been repealed or amended or had not expired.
+35—Continuance of repealed provisions
+If a Queensland Act repeals some provisions of this Law and enacts new provisions in substitution for the repealed provisions, the repealed provisions continue in force until the new provisions commence.
+36—Law and amending Acts to be read as one
+This Law and all Queensland Acts amending this Law are to be read as one.
+Part 7—Instruments under Law
+37—Schedule applies to statutory instruments
+(1) This Schedule applies to a statutory instrument, and to things that may be done or are required to be done under a statutory instrument, in the same way as it applies to this Law, and things that may be done or are required to be done under this Law, except so far as the context or subject matter otherwise indicates or requires.
+(2) The fact that a provision of this Schedule refers to this Law and not also to a statutory instrument does not, by itself, indicate that the provision is intended to apply only to this Law.
+Part 8—Application to coastal sea
+38—Application
+This Law has effect in and relation to the coastal sea of this jurisdiction as if that coastal sea were part of this jurisdiction.
