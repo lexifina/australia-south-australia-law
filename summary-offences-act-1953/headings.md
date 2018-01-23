@@ -7,6 +7,7 @@ Part 5—Offences against decency and morality
 Part 5A—Filming and sexting offences
 Part 6—Brothels
 Part 7—Indecent or offensive material
+Part 7A—Extremist material
 Part 8—Fraud, unlawful possession etc
 Part 9—Offences with respect to property
 Part 10—Nuisances and annoyances
