@@ -52,8 +52,8 @@ Division 1—Registrable dealings
 Division 2—The public register
 Division 3—The commercial register
 Part 14—Investigation and enforcement
-Part 15—Reconsideration and appeal
+Part 15—Reconsideration and reviews
 Division 1—Application of this Part
 Division 2—Reconsideration
-Division 3—Appeal
+Division 3—Reviews
 Part 16—Miscellaneous
