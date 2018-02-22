@@ -8,5 +8,5 @@ Division 4—Controls during rationing periods
 Division 5—Limit on proceedings against Minister
 Division 6—Conservation of petroleum products
 Part 8—Authorised officers
-Part 9—Appeals
+Part 9—Reviews
 Part 11—Miscellaneous
