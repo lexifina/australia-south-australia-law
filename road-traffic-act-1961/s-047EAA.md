@@ -10,7 +10,7 @@ a police officer may require the person to submit to an oral fluid analysis or a
 Maximum penalty: $2 900.
 (5) Without derogating from section 47DA or 47EA, a drug screening test, oral fluid analysis or blood test to which a person has been required to submit under this section may not be commenced more than 8 hours after the conduct of the person giving rise to the requirement that the person submit to the alcotest or breath analysis.
 (6) The performance of a drug screening test, oral fluid analysis or blood test that has been required under this section commences when a direction is first given by a police officer that the person concerned provide a sample of oral fluid or blood (as the case may be) to be used for the drug screening test, oral fluid analysis or blood test.
-(7) A drug screening test or an oral fluid analysis may only be conducted by a police officer authorised by the Commissioner of Police to conduct such tests or analyses.
+(7) A drug screening test may only be conducted by a police officer.
 (8) The regulations may prescribe the manner in which a drug screening test, oral fluid analysis or blood test is to be conducted.
 (9) A person required under this section to submit to a drug screening test, oral fluid analysis or blood test must not refuse or fail to comply with all reasonable directions of a police officer in relation to the requirement and, in particular, must not refuse or fail to allow a sample of oral fluid or blood to be taken in accordance with the directions of a police officer.
 Penalty:
@@ -58,6 +58,6 @@ by any medical practitioner who is available to take the sample.
 (17) In determining whether an offence is a first or subsequent offence for the purposes of this section, any previous drink driving offence or drug driving offence for which the defendant has been convicted will be taken into account, but only if the previous offence was committed within the prescribed period immediately preceding the date on which the offence under consideration was committed.
 (18) If a person—
 (a) refuses or fails to comply with a requirement or direction under this section; or
-(b) submits to a drug screening test or oral fluid analysis and the drug screening test or preliminary result of the oral fluid analysis indicates the presence of a prescribed drug in the person's oral fluid,
+(b) submits to a drug screening test and the drug screening test indicates the presence of a prescribed drug in the person's oral fluid,
 there will be reasonable ground to suspect that a prescribed drug is present in the person's oral fluid for the purposes of the exercise of any power conferred on a police officer (including a power of arrest) to prevent the person committing an offence by driving a vehicle in contravention of this Division.
 (19) Subsection (18) does not limit the circumstances in which such a power may otherwise be exercised by a police officer under this or any other Act.
