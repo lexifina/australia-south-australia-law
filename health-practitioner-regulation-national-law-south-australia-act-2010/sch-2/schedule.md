@@ -676,7 +676,9 @@ relevant law means—
 56—Period of general registration
 (1) The period of registration that is to apply to a health practitioner granted general registration in a health profession is the period (the registration period), not more than 12 months, decided by the National Board established for the profession and published on the Board's website.
 (2) If the National Board decides to register a health practitioner in the health profession during a registration period, the registration—
-(a) starts when the Board makes the decision; and
+(a) starts—
+(i) when the Board makes the decision; or
+(ii) on the later day stated by the Board, not more than 90 days after the day the Board makes the decision; and
 (b) expires at the end of the last day of the registration period.
 Division 2—Specialist registration
 57—Eligibility for specialist registration
@@ -1377,7 +1379,10 @@ Subdivision 2—Review of conditions and undertakings
 (b) be accompanied by any other information reasonably required by the Board.
 (4) For the purposes of deciding the application, the National Board may exercise a power under section 80 as if the application were an application for registration as a registered health practitioner.
 (5) The National Board must decide to grant the application or refuse to grant the application.
-(6) As soon as practicable after making the decision under subsection (5), the National Board must give the registered health practitioner or student written notice of the Board's decision.
+(6) If the National Board's decision results in the registration or endorsement being subject to a condition, or an undertaking is still in place, the Board may decide a review period for the condition or undertaking.
+(6A) As soon as practicable after making the decision under subsection (5), the National Board must give written notice to the registered health practitioner or student of—
+(a) the decision; and
+(b) if the Board has decided a review period for a condition or undertaking—details of the review period.
 (7) If the National Board decides to refuse to grant the application, the notice must state—
 (a) the decision made by the Board; and
 (b) that the registered health practitioner or student may appeal against the decision; and
@@ -1394,7 +1399,10 @@ Subdivision 2—Review of conditions and undertakings
 (b) if the condition was imposed by an adjudication body for a co‑regulatory jurisdiction, unless the adjudication body decided, when imposing the condition or at a later time, that this Subdivision applied to the condition.
 (4) The registered health practitioner or student may make written or verbal submissions about the proposed change to the condition as stated in the notice.
 (5) The National Board must consider any submissions made under subsection (4) and decide whether or not to change the condition.
-(6) As soon as practicable after making its decision the National Board must give written notice of the decision to the registered health practitioner or student.
+(6) If the National Board's decision results in the registration being subject to a condition, the Board may decide a review period for the condition.
+(6A) As soon as practicable after making the decision under subsection (5), the National Board must give written notice to the registered health practitioner or student of—
+(a) the decision; and
+(b) if the Board has decided a review period for a condition—details of the review period.
 (7) If the National Board decides to change the condition, the notice must state—
 (a) the decision made by the Board; and
 (b) that the registered health practitioner or student may appeal against the decision; and
@@ -1409,6 +1417,17 @@ Subdivision 2—Review of conditions and undertakings
 (b) for a condition imposed by an adjudication body for a co‑regulatory jurisdiction, unless the adjudication body decided, when imposing the condition, that this Subdivision applied to the condition.
 (4) As soon as practicable after making the decision the National Board must give notice of the decision to the registered health practitioner or student.
 (5) The decision takes effect on the date stated in the notice.
+127A—When matters under this Subdivision may be decided by review body of a co-regulatory jurisdiction
+(1) This section applies if—
+(a) a condition has been imposed on a registered health practitioner's or student's registration or endorsement, or an undertaking has been given by the practitioner or student; and
+(b) a change or removal of the condition, or change or revocation of the undertaking, would usually be decided under this Subdivision; and
+(c) the National Board that imposed the condition, or to which the undertaking was given, considers the change or removal, or change or revocation, should be decided by a review body of a co‑regulatory jurisdiction.
+(2) The National Board may—
+(a) decide that any change or removal, or change or revocation, may be decided by the review body of a co‑regulatory jurisdiction; and
+(b) give any relevant documents or information held by the Board to the review body.
+(3) If a review body of a co‑regulatory jurisdiction is to decide a matter instead of the Board, the review body must decide the matter under the laws of that jurisdiction.
+(4) In this section—
+review body means an entity declared by an Act or regulation of a co‑regulatory jurisdiction to be a review body for this section.
 Subdivision 3—Obligations of registered health practitioners and students
 128—Continuing professional development
 (1) A registered health practitioner must undertake the continuing professional development required by an approved registration standard for the health profession in which the practitioner is registered.
@@ -1670,7 +1689,9 @@ In this Division—
 immediate action, in relation to a registered health practitioner or student, means—
 (a) the suspension, or imposition of a condition on, the health practitioner's or student's registration; or
 (b) accepting an undertaking from the health practitioner or student; or
-(c) accepting the surrender of the health practitioner's or student's registration.
+(c) accepting the surrender of the health practitioner's or student's registration; or
+(d) if immediate action has previously been taken suspending a health practitioner's or student's registration—the revocation of the suspension and the imposition of a condition on the registration; or
+(e) if immediate action has previously been taken imposing a condition on a health practitioner's or student's registration—the suspension of the registration instead of the condition.
 156—Power to take immediate action
 (1) A National Board may take immediate action in relation to a registered health practitioner or student registered by the Board if—
 (a) the National Board reasonably believes that—
@@ -1683,7 +1704,10 @@ immediate action, in relation to a registered health practitioner or student, me
 (C) has, or may have, contravened a condition of the student's registration or an undertaking given by the student to a National Board; and
 (ii) it is necessary to take immediate action to protect public health or safety; or
 (c) the registered health practitioner's registration was improperly obtained because the practitioner or someone else gave the National Board information or a document that was false or misleading in a material particular; or
-(d) the registered health practitioner's or student's registration has been cancelled or suspended under the law of a jurisdiction, whether in Australia or elsewhere, that is not a participating jurisdiction.
+(d) the registered health practitioner's or student's registration has been cancelled or suspended under the law of a jurisdiction, whether in Australia or elsewhere, that is not a participating jurisdiction; or
+(e) the National Board reasonably believes the action is otherwise in the public interest.
+Example of when action may be taken in the public interest—
+A registered health practitioner is charged with a serious criminal offence, unrelated to the practitioner's practice, for which immediate action is required to be taken to maintain public confidence in the provision of services by health practitioners.
 (2) However, the National Board may take immediate action that consists of suspending, or imposing a condition on, the health practitioner's or student's registration only if the Board has complied with section 157.
 157—Show cause process
 (1) If a National Board is proposing to take immediate action that consists of suspending, or imposing a condition on, a registered health practitioner's or student's registration under section 156, the Board must—
@@ -1869,6 +1893,7 @@ Division 11—Panels
 (1) A National Board may establish a health panel if—
 (a) the Board reasonably believes, because of a notification or for any other reason, that a registered health practitioner or student has or may have an impairment; and
 (b) the Board decides it is necessary or appropriate for the matter to be referred to a panel.
+(1A) Also, a National Board must establish a health panel if the suspension of a practitioner's or student's registration is to be reconsidered under section 191(4A) or 191A(2)(c).
 (2) A health panel must consist of the following members chosen from a list referred to in section 183—
 (a) at least one member who is a registered health practitioner in the health profession for which the Board is established;
 (b) at least one member who is a medical practitioner with expertise relevant to the matter the subject of the hearing;
@@ -1893,7 +1918,7 @@ Division 11—Panels
 (2) To the extent practicable, individuals appointed under subsection (1) should not—
 (a) for registered health practitioners, be individuals whose principal place of practice is in a co‑regulatory jurisdiction; or
 (b) otherwise, be individuals who live in a co‑regulatory jurisdiction.
-184—Notice to be given to registered health practitioner or student
+184—Notice to be given to registered practitioner or student
 (1) A panel must give notice of its hearing of a matter to the registered health practitioner or student the subject of the hearing.
 (2) The notice must state—
 (a) the day, time and place at which the hearing is to be held; and
@@ -1902,6 +1927,16 @@ Division 11—Panels
 (d) that the registered health practitioner may be accompanied at the hearing by an Australian legal practitioner or other person; and
 (e) that if the registered health practitioner or student fails to attend the hearing the hearing may continue, and the panel may make a decision, in the practitioner's or student's absence; and
 (f) the types of decision the panel may make at the end of the hearing.
+(3) For a panel established under section 181(1A), the panel—
+(a) may decide the hearing may be decided entirely on the basis of documents, without parties, their representatives or witnesses appearing at the hearing; and
+(b) if the hearing is to be decided entirely on the basis of documents—must give written notice of the decision to the registered health practitioner or student the subject of the hearing.
+(4) The health practitioner or student may within 14 days after receiving the notice under subsection (3)(b) give a written notice to the panel—
+(a) requesting a hearing; and
+(b) undertaking to be available to attend the hearing within 28 days after giving the notice.
+(5) If the health practitioner or student gives a notice under subsection (4), the panel must give the health practitioner or student notice under subsection (1) stating a day for the hearing that is not more than 28 days after the practitioner's or student's notice was given.
+(6) Subsection (1) does not apply if—
+(a) the panel makes a decision under subsection (3); and
+(b) the health practitioner or student does not give notice under subsection (4).
 185—Procedure of panel
 (1) Subject to this Division, a panel may decide its own procedures.
 (2) A panel is required to observe the principles of natural justice but is not bound by the rules of evidence.
@@ -1948,9 +1983,31 @@ A panel must stop hearing a matter and require the National Board that establish
 (b) for a health panel, suspend the practitioner's or student's registration;
 (c) for a performance and professional standards panel, caution or reprimand the practitioner.
 (4) If a panel decides to impose a condition on a registered health practitioner's or student's registration, the panel must also decide a review period for the condition.
+(4A) If a panel suspends a health practitioner's or student's registration, the panel must decide a date (the reconsideration date) by which the suspension must be reconsidered by a panel established under section 181(1A).
 (5) A decision by a panel that a registered health practitioner has no case to answer in relation to a matter does not prevent a National Board or adjudication body taking the matter into consideration at a later time as part of a pattern of conduct or practice by the health practitioner.
+191A—Decision of panel after reconsideration of suspension
+(1) This section applies if the suspension of a health practitioner's or student's registration is reconsidered by a panel established under section 181(1A).
+(2) The panel may—
+(a) revoke the suspension; or
+(b) revoke the suspension, impose conditions under section 191(3)(a) and decide a review period for the conditions under section 191(4); or
+(c) not revoke the suspension and decide a new reconsideration date.
+191B—Change of reconsideration date for suspension of registration
+(1) This section applies if the suspension of a health practitioner's or student's registration is to be reconsidered by a panel established under section 181(1A) on a reconsideration date.
+(2) The panel may decide an earlier reconsideration date if—
+(a) the health practitioner or student advises the panel of a material change in the practitioner's or student's circumstances and requests an earlier reconsideration date because of the change; and
+(b) the panel is reasonably satisfied an earlier reconsideration date is necessary because of the change in circumstances.
+(3) For subsection (2), the panel must give the practitioner or student written notice of—
+(a) if the panel decides an earlier reconsideration date—the earlier date; or
+(b) if the panel decides to refuse the request for an earlier reconsideration date—the panel’s decision and the reasons for the decision.
+(4) The panel may decide a later reconsideration date if the panel is reasonably satisfied it is necessary to enable the panel to reconsider the suspension.
+Examples of when the panel may be reasonably satisfied a later reconsideration date may be decided—
+(a) the health practitioner or student is required for a hearing and cannot attend because of illness;
+(b) the panel requires extra time to consider further evidence supplied by the health practitioner or student;
+(c) extra time is required to appoint a panel member for a panel member who is ill.
+(5) For subsection (4), the panel must give the health practitioner or student written notice of the later reconsideration date and the reasons for the decision.
+(6) The suspension of the health practitioner's or student's registration remains in force until the panel makes a decision to revoke the suspension.
 192—Notice to be given about panel's decision
-(1) As soon as practicable after making a decision under section 191, a panel must give notice of its decision to the National Board that established it.
+(1) As soon as practicable after making a decision under section 191 or 191A, a panel must give notice of its decision to the National Board that established it.
 (2) The National Board must, within 30 days after the panel makes its decision, give written notice of the decision to—
 (a) the registered health practitioner or student the subject of the hearing; and
 (b) if the hearing related to a notification, the notifier.
@@ -2042,6 +2099,7 @@ Division 13—Appeals
 (h) a decision by a National Board to suspend the person's registration;
 (i) a decision by a panel to impose a condition on the person's registration;
 (j) a decision by a health panel to suspend the person's registration;
+(ja) a decision by a health panel not to revoke a suspension;
 (k) a decision by a performance and professional standards panel to reprimand the person.
 (2) For the purposes of subsection (1), the appropriate responsible tribunal for an appellable decision is—
 (a) for a decision to take health, conduct or performance action in relation to a registered health practitioner or student—
@@ -2915,6 +2973,18 @@ An individual may be qualified for general registration in paramedicine under se
 (3) In this section—
 another jurisdiction means a participating jurisdiction in which the provisions of this Law about paramedicine apply.
 Division 2—Other transitional provisions
+318—Deciding review period for decision on application made under section 125 before commencement
+(1) This section applies if—
+(a) before the commencement, a registered health practitioner or student applied to a National Board under section 125 to change or remove a condition or change or revoke an undertaking; and
+(b) immediately before the commencement, the application had not been decided by the Board; and
+(c) after the commencement, the Board's decision results in a registration or endorsement being subject to a condition, or an undertaking is still in place.
+(2) The National Board may decide a review period for the condition or undertaking under section 125(6) and give the registered health practitioner or student notice under section 125(6A).
+319—Deciding review period for decision after notice given under section 126 before commencement
+(1) This section applies if—
+(a) before the commencement, a National Board had given notice to a registered health practitioner or student under section 126 about changing a condition on the practitioner's or student's registration; and
+(b) immediately before the commencement the Board had not made a decision in relation to the matter; and
+(c) after the commencement, the Board's decision results in the practitioner's or student's registration being subject to a condition.
+(2) The National Board may decide a review period for the condition under section 126(6) and give the registered health practitioner or student notice under section 126(6A).
 321—Offences relating to prohibition orders made before commencement
 Section 196A also applies to a prohibition order made before the commencement.
 Schedule 1—Constitution and procedure of Advisory Council
