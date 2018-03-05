@@ -85,25 +85,6 @@ Division 2—Attempts
 Division 3—Assaults with intent
 Division 4—Preparatory conduct
 Division 5—Apprehension of offenders
-Division 6—Informations
-Division 7—Saving and transitional provisions
-Division 8—Pleas and proceedings on trial
-Division 9—Proceedings against corporations
-Division 10—Verdicts and abolition of forfeiture etc
-Division 11—Witness fees and expenses
-Division 12—Orders relating to firearms and other offensive weapons
 Division 13—Abolition of presumption of marital coercion
 Division 14—Provision as to persons convicted of offence
-Division 15—Overlapping offences
-Part 10—Limitations on rules relating to double jeopardy
-Division 1—Preliminary
-Division 2—Circumstances in which police may investigate conduct relating to offence of which person previously acquitted
-Division 3—Circumstances in which trial or retrial of offence will not offend against rules of double jeopardy
-Division 4—Prohibition on making certain references in retrial
-Part 10A—Appeal against sentence
-Part 11—Appellate proceedings
-Division 1—Preliminary
-Division 2—Reference of questions of law
-Division 3—Appeals
-Division 5—References on petitions for mercy
 Part 12—Regulations
