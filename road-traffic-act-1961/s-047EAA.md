@@ -24,7 +24,7 @@ Penalty:
 (A) a drug screening test or an oral fluid analysis—the person's right to request the taking of a blood sample under subsection (11); or
 (B) a blood test—the person's right to request an oral fluid analysis under subsection (12); or
 (c) there was, in the circumstances of the case, good cause for the refusal or failure of the defendant to comply with the requirement or direction.
-(11) If a person of whom a requirement is made or to whom a direction is given under this section relating to a drug screening test or oral fluid analysis refuses or fails to comply with the requirement or direction by reason of some physical or medical condition of the person and forthwith makes a request of a police officer that a sample of his or her blood be taken by a medical practitioner, a police officer must do all things reasonably necessary to facilitate the taking of a sample of the person's blood—
+(11) If a person of whom a requirement is made or to whom a direction is given under this section relating to a drug screening test or oral fluid analysis refuses or fails to comply with the requirement or direction by reason of some physical or medical condition of the person and forthwith makes a request of a police officer that a sample of the person's blood be taken by a medical practitioner, a police officer must do all things reasonably necessary to facilitate the taking of a sample of the person's blood—
 (a) by a medical practitioner nominated by the person; or
 (b) if—
 (i) it becomes apparent to the police officer that there is no reasonable likelihood that a medical practitioner nominated by the person will be available to take the sample within 1 hour of the time of the request at some place not more than 10 kilometres distant from the place of the request; or
@@ -33,10 +33,10 @@ by any medical practitioner who is available to take the sample.
 (12) If a person of whom a requirement is made or to whom a direction is given under this section relating to a blood test refuses or fails to comply with the requirement or direction by reason of some physical or medical condition of the person and forthwith makes a request of a police officer that an oral fluid analysis be conducted, a police officer must do all things reasonably necessary to facilitate the conduct of an oral fluid analysis unless—
 (a) a requirement or direction under this section relating to a drug screening test or oral fluid analysis has been made of, or been given to, the person; and
 (b) —
-(i) the person refused or failed to comply with that requirement or direction on the ground of some physical or medical condition of the person and made a request under subsection (11) for a sample of his or her blood to be taken in accordance with that subsection; or
+(i) the person refused or failed to comply with that requirement or direction on the ground of some physical or medical condition of the person and made a request under subsection (11) for a sample of the person's blood to be taken in accordance with that subsection; or
 (ii) the person was unable to produce sufficient oral fluid for a sample to be taken.
 (13) No person is entitled to refuse or fail to comply with a requirement or direction under this section on the ground that—
-(a) the person would, or might, by complying with that requirement or direction, furnish evidence that could be used against himself or herself; or
+(a) the person would, or might, by complying with that requirement or direction, furnish evidence that could be used against themself; or
 (b) the person consumed a prescribed drug after the person last drove a motor vehicle or attempted to put a motor vehicle in motion and before the requirement was made or the direction given.
 (14) A person may not raise a defence that the person had good cause for a refusal or failure to comply with a requirement or direction under this section relating to a drug screening test or oral fluid analysis by reason of some physical or medical condition of the person unless—
 (a) a sample of the person's blood was taken in accordance with subsection (11); or
@@ -50,8 +50,8 @@ by any medical practitioner who is available to take the sample.
 (c) the taking of a sample of the person's oral fluid in accordance with subsection (12) was not possible or reasonably advisable or practicable in the circumstances by reason of some physical or medical condition of the person.
 (16) If a court convicts a person of an offence against subsection (9), the following provisions apply:
 (a) the court must order that the person be disqualified from holding or obtaining a driver's licence—
-(i) in the case of a first offence—for such period, being not less than 6 months, as the court thinks fit; or
-(ii) in the case of a subsequent offence—for such period, being not less than 2 years, as the court thinks fit;
+(i) in the case of a first offence—for such period, being not less than 12 months, as the court thinks fit; or
+(ii) in the case of a subsequent offence—for such period, being not less than 3 years, as the court thinks fit;
 (b) the disqualification prescribed by paragraph (a) cannot be reduced or mitigated in any way or be substituted by any other penalty or sentence unless, in the case of a first offence, the court is satisfied, by evidence given on oath, that the offence is trifling, in which case the court may order a period of disqualification that is less than the prescribed minimum period but not less than one month;
 (c) if the person is the holder of a driver's licence—the disqualification operates to cancel the licence as from the commencement of the period of disqualification;
 (d) the court may, if it thinks fit to do so, order that conditions imposed by section 81A or 81AB of the Motor Vehicles Act 1959 on any driver's licence issued to the person after the period of disqualification be effective for a period greater than the period prescribed by that section.
