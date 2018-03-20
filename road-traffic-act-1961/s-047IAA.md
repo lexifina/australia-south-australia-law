@@ -35,7 +35,7 @@ then—
 (b) the relevant period ends—
 (i) if the Magistrates Court, on application under section 47IAB, makes an order that the person given the notice is not disqualified, or that the driver's licence held by the person is not suspended, by the notice; or
 (ii) if the Magistrates Court reduces the period of disqualification or suspension on application under section 47IAB, when that period ends; or
-(iia) if the person given the notice is notified in writing by or on behalf of the Commissioner of Police (whether that notification is given personally or by post) that he or she is not to be charged with any offence to which this section applies arising out of the course of conduct to which the notice of immediate licence disqualification or suspension relates; or
+(iia) if the person given the notice is notified in writing by or on behalf of the Commissioner of Police (whether that notification is given personally or by post) that the person is not to be charged with any offence to which this section applies arising out of the course of conduct to which the notice of immediate licence disqualification or suspension relates; or
 (iii) if proceedings for the offence to which the notice relates are determined by a court or are withdrawn or otherwise discontinued; or
 (iv) in any event—
 (A) if the offence to which the notice relates is a category 2 offence or an offence against section 47EAA(9)—at the end of 6 months from the commencement of the relevant period; or

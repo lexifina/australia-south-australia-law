@@ -1,5 +1,5 @@
 98AAA—Duty to carry licence when driving heavy vehicle
-(1) A person must carry his or her driver's licence at all times while driving a heavy vehicle on a road and must produce the licence forthwith if requested to do so by a police officer.
+(1) A person must carry the person's driver's licence at all times while driving a heavy vehicle on a road and must produce the licence forthwith if requested to do so by a police officer.
 Maximum penalty: $1 250.
 (1a) In subsection (1)—
 police officer includes an authorised officer.
