@@ -2,8 +2,9 @@
 (1) This section applies to the following offences:
 (a) a category 2 offence;
 (b) a category 3 offence;
-(c) an offence against section 47E(3);
-(ca) an offence against section 47EAA(9);
+(c) an offence against section 47E(3) or (3a);
+(ca) an offence against section 47EAA(9) or (9a);
+(cb) an offence against section 47I(7);
 (d) an offence against section 47I(14) committed by a person who was the driver of a motor vehicle involved in the accident.
 (2) Subject to this section, if a police officer reasonably believes that a person has, after the commencement of this section, committed an offence to which this section applies, the police officer may give the person a notice of immediate licence disqualification or suspension in the prescribed form.
 (3) The notice must specify the offence to which the notice relates.
@@ -38,7 +39,7 @@ then—
 (iia) if the person given the notice is notified in writing by or on behalf of the Commissioner of Police (whether that notification is given personally or by post) that the person is not to be charged with any offence to which this section applies arising out of the course of conduct to which the notice of immediate licence disqualification or suspension relates; or
 (iii) if proceedings for the offence to which the notice relates are determined by a court or are withdrawn or otherwise discontinued; or
 (iv) in any event—
-(A) if the offence to which the notice relates is a category 2 offence or an offence against section 47EAA(9)—at the end of 6 months from the commencement of the relevant period; or
+(A) if the offence to which the notice relates is a category 2 offence or an offence against section 47EAA(9) or (9a)—at the end of 6 months from the commencement of the relevant period; or
 (B) in any other case—at the end of 12 months from the commencement of the relevant period.
 (14) The Commissioner of Police must establish procedures to be followed by police officers giving notices of immediate licence disqualification or suspension under this section for the purpose of determining whether the commencement of the relevant period should be postponed under subsection (12)(a)(i).
 (15) A regulation made before the commencement of this subsection prescribing the form of a notice of immediate licence disqualification or suspension under this section or varying such a form is declared to be, and to have always been, valid.

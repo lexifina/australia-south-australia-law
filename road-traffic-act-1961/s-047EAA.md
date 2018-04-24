@@ -16,7 +16,13 @@ Maximum penalty: $2 900.
 Penalty:
 (a) for a first offence—a fine of not less than $900 and not more than $1 300;
 (b) for a subsequent offence—a fine of not less than $1 500 and not more than $2 200.
-(10) It is a defence to a prosecution under subsection (9) that—
+(9a) If—
+(a) a person has engaged in conduct of a kind described in section 47E(1)(a), (b) or (c) involving a motor vehicle; and
+(b) such conduct occurred while a child under the age of 16 years was present in or on that vehicle; and
+(c) the person refuses or fails to comply with a direction of a police officer (given in relation to such conduct) in contravention of subsection (9),
+the person commits an offence against this subsection and is liable to the same penalty as is prescribed for an offence against subsection (9).
+(9b) If a person is charged with an offence against subsection (9a) but the court is not satisfied that an offence against that subsection has been established beyond reasonable doubt, the person may be convicted, on that charge, of an offence against subsection (9) if the court is satisfied that an offence against subsection (9) has been so established.
+(10) It is a defence to a prosecution under subsection (9) or (9a) that—
 (a) the requirement or direction to which the prosecution relates was not lawfully made; or
 (b) the person was not allowed the opportunity to comply with the requirement or direction after having been given the prescribed oral advice in relation to—
 (i) the consequences of refusing or failing to comply with the requirement or direction; and
@@ -48,7 +54,7 @@ by any medical practitioner who is available to take the sample.
 (a) an oral fluid analysis was conducted in accordance with subsection (12); or
 (b) the person made a request as referred to in subsection (12), but a police officer failed to facilitate the conduct of an oral fluid analysis as required by that subsection; or
 (c) the taking of a sample of the person's oral fluid in accordance with subsection (12) was not possible or reasonably advisable or practicable in the circumstances by reason of some physical or medical condition of the person.
-(16) If a court convicts a person of an offence against subsection (9), the following provisions apply:
+(16) If a court convicts a person of an offence against subsection (9) or (9a), the following provisions apply:
 (a) the court must order that the person be disqualified from holding or obtaining a driver's licence—
 (i) in the case of a first offence—for such period, being not less than 12 months, as the court thinks fit; or
 (ii) in the case of a subsequent offence—for such period, being not less than 3 years, as the court thinks fit;
