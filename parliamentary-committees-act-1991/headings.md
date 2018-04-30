@@ -33,3 +33,11 @@ Part 6—General provisions
 Division 1—References, reports and Ministerial response
 Division 2—Term of office, proceedings and powers of Committees
 Division 3—Miscellaneous
+Part 3—Transitional provisions
+(1) A matter that was the subject of inquiry by a former committee may, if that committee had not completed its inquiry or reported on the matter before the commencement of this Act, be referred to a Committee under this Act.
+(2) Where a matter is referred to a Committee as referred to in subclause (1), the Committee may continue and complete the proceedings and consider and report on the matter under this Act as if all the evidence given in respect of the matter before the former committee had been given before the Committee under this Act.
+(3) In subclauses (1) and (2)—
+former committee means—
+(a) the Joint Committee on Subordinate Legislation;
+(b) the Public Accounts Committee;
+(c) the Parliamentary Standing Committee on Public Works.
