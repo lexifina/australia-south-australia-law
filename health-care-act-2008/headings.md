@@ -24,4 +24,5 @@ Part 7—Quality improvement and research
 Part 8—Analysis of adverse incidents
 Part 9—Testamentary gifts and trusts
 Part 10—Private hospitals
+Part 10A—Private day procedure centres
 Part 11—Miscellaneous
