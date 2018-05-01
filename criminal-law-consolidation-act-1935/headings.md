@@ -30,6 +30,7 @@ Part 3B—Offences relating to criminal organisations
 Division 1—Participation in criminal organisation
 Division 2—Public places, prescribed places and prescribed events
 Part 3C—Protection for working animals
+Part 3D—Explosives offences
 Part 4—Offences with respect to property
 Part 4A—Computer offences
 Part 5—Offences of dishonesty
