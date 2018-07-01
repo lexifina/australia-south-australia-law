@@ -23,4 +23,5 @@ Division 4—Miscellaneous
 Part 4AA—Corporate group exemptions
 Part 4A—Abolition of various duties
 Division 3—Abolition of duty on conveyance or transfer of property other than land
+Division 6—Abolition of duty on designated real property transfers
 Part 5—Miscellaneous provisions
