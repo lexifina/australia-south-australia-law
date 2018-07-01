@@ -14,7 +14,7 @@ The object of this Law is to establish a national scheme for facilitating and re
 4—Regulatory framework to achieve object
 The object of this Law is to be achieved by a regulatory framework that—
 (a) establishes an entity (the National Heavy Vehicle Regulator) with functions directed at ensuring the object is achieved; and
-(b) provides for the national registration of heavy vehicles; and
+(b) provides for a database of heavy vehicles; and
 (c) prescribes requirements about the following:
 (i) the standards heavy vehicles must meet when on roads;
 (ii) the maximum permissible mass and dimensions of heavy vehicles used on roads;
@@ -166,7 +166,6 @@ component, of a heavy vehicle that is a combination, means—
 (b) a component of any component vehicle of the combination;
 component vehicle, of a heavy combination, means the towing vehicle or another vehicle in the combination;
 condition includes a restriction;
-conditionally registered, for a heavy vehicle, means the vehicle is registered under this Law subject to conditions;
 conduct means an act, an omission to perform an act, or a state of affairs;
 consent includes an approval or concurrence;
 consign and consignor—
@@ -200,6 +199,7 @@ corporation includes a body politic or corporate;
 corresponding fatigue law, for the purposes of Chapter 6, has the meaning given by section 221;
 critical risk breach, for a maximum work requirement or minimum rest requirement, has the meaning given by section 222(4);
 daily sheet, for a written work diary, for the purposes of Chapter 6, has the meaning given by section 338(2)(b);
+database of heavy vehicles means the database of heavy vehicles kept under section 686A;
 daytime means the period of a day between sunrise and sunset;
 de facto partner, of a person, means a person (whether of the same gender or a different gender) who is in a de facto relationship, within the meaning given by section 2F of the Acts Interpretation Act 1901 of the Commonwealth, with the person;
 defective heavy vehicle, for the purposes of Chapter 9 Part 3 Division 6, has the meaning given by section 525;
@@ -283,7 +283,7 @@ garage address, of a heavy vehicle, means—
 (a) for a heavy vehicle normally kept at a depot when not in use—the principal depot of the vehicle; or
 (b) for a heavy vehicle not normally kept at a depot when not in use—the address of the place of business or residence at which the vehicle is normally kept when not in use;
 GCM (gross combination mass), of a motor vehicle, means the total maximum loaded mass of the motor vehicle and any vehicles it may lawfully tow at any given time—
-(a) if the Regulator has, under section 56, specified the total maximum loaded mass of the motor vehicle and any vehicles it may lawfully tow at any given time—specified by the Regulator under that section; or
+(a) if the registration authority has specified the total maximum loaded mass of the motor vehicle and any vehicles it may lawfully tow at any given time—specified by the registration authority; or
 (b) otherwise—stated by the motor vehicle's manufacturer;
 goods—
 (a) includes—
@@ -294,7 +294,7 @@ goods—
 (ii) fuel, water, lubricants and readily removable equipment required for the normal use of the vehicle or combination in which they are carried; or
 (iii) personal items used by the driver of the vehicle or combination, or someone else necessary for the normal use of the vehicle, in which they are carried;
 GVM (gross vehicle mass), of a vehicle, means the maximum loaded mass of the vehicle—
-(a) if the Regulator has specified the vehicle's maximum loaded mass under section 57—specified by the Regulator under that section; or
+(a) if the registration authority has specified the vehicle's maximum loaded mass—specified by the registration authority; or
 (b) otherwise—stated by the vehicle's manufacturer;
 hauling unit means a motor vehicle that forms part of a combination, but does not include a prime mover;
 heavy combination means a combination that is a heavy vehicle;
@@ -332,7 +332,6 @@ Infringement Notice Offences Law, for a participating jurisdiction, means the la
 inspect, a thing, includes—
 (a) open the thing and examine its contents; and
 (b) test the thing or its contents or both;
-insurer, for the purposes of Chapter 2 Part 5, has the meaning given by section 54;
 intelligent access map means the spatial data set in electronic form, issued by TCA from time to time, that defines the national public road system;
 intelligent access program agreement, for the purposes of Chapter 7, has the meaning given by section 403;
 intelligent access program audit, for the purposes of Chapter 7, has the meaning given by section 403;
@@ -571,14 +570,11 @@ record keeper, for the purposes of Chapter 6, has the meaning given by section 3
 record location, of the driver of a fatigue‑regulated heavy vehicle, for the purposes of Chapter 6, has the meaning given by section 290;
 registered industry code of practice means an industry code of practice registered under section 706;
 registered interest means an interest registered under the Personal Property Securities Act 2009 of the Commonwealth by a secured party for which the thing or sample is collateral;
-registered operator, of a heavy vehicle, means the person recorded on the vehicle register as the person responsible for the vehicle;
-registration, of a heavy vehicle, means registration of the vehicle under this Law;
-registration authority, for the purposes of Chapter 9 Part 3 Division 6, has the meaning given by section 525;
-registration exemption means an exemption under Chapter 2 Part 2 Division 4 from the requirement for a heavy vehicle to be registered;
-registration item means a document, number plate, label or other thing relating to—
-(a) the registration or purported registration of a heavy vehicle; or
-(b) an unregistered heavy vehicle permit for a heavy vehicle;
-registration number, for a heavy vehicle, means letters, numbers or characters, or a combination of 1 or more letters, numbers or characters, issued for the vehicle by the Regulator and recorded on the vehicle register;
+registered operator, of a heavy vehicle, means the person recorded on a vehicle register as the person responsible for the vehicle, however named, kept under another Australian road law;
+registration, of a heavy vehicle, means registration of the vehicle under an Australian road law;
+registration authority, for a heavy vehicle, means the authority responsible for the registration of the vehicle under an Australian road law;
+registration item means a document, number plate, label or other thing relating to the registration or purported registration of a heavy vehicle;
+registration number, for a heavy vehicle, means the identifying registration number, however described, given to the vehicle under an Australian road law;
 regular loading or unloading premises—
 1 Regular loading or unloading premises, for heavy vehicles, means premises at or from which an average of at least 5 heavy vehicles are loaded or unloaded on each day the premises are operated for loading or unloading heavy vehicles.
 2 For the purposes of paragraph 1, an average of at least 5 heavy vehicles are loaded or unloaded at or from premises on each day the premises are operated for loading or unloading heavy vehicles if—
@@ -810,16 +806,11 @@ A person unloads goods in a heavy vehicle, and is an unloader of goods in a heav
 (a) unloads from the vehicle, or any container that is in or part of the vehicle, goods that have been transported by road; or
 (b) unloads from the vehicle a freight container, whether or not it contains goods, that has been transported by road;
 unregistered heavy vehicle means a heavy vehicle that is not registered;
-unregistered heavy vehicle permit means a permit issued under the national regulations authorising the use of an unregistered heavy vehicle on a road;
+unregistered heavy vehicle permit means a permit granted or issued under an Australian road law authorising the use of an unregistered heavy vehicle on a road;
 use, a heavy vehicle on a road, includes standing the vehicle on the road;
 vehicle condition has the meaning given by section 154;
 vehicle defect notice means a major defect notice or a minor defect notice;
 vehicle identifier, for the purposes of Chapter 9 Part 3 Division 6, has the meaning given by section 525;
-vehicle register means the vehicle register kept under Chapter 2 Part 3;
-vehicle registration duty—
-(a) includes any duties, levies, fees or charges (however called) payable under a law of a participating jurisdiction at the time of registration of a vehicle on an application for the registration of, the renewal of registration of, or the transfer of the registration of, a vehicle; and
-(b) includes, by way of example, emergency service levies;
-vehicle registration duty legislation means legislation about payment of vehicle registration duty;
 vehicle standards exemption means—
 (a) a vehicle standards exemption (notice); or
 (b) a vehicle standards exemption (permit);
@@ -846,12 +837,10 @@ work diary exemption (notice) has the meaning given by section 357(2);
 work diary exemption (permit) has the meaning given by section 363(2);
 work record, for the purposes of Chapter 6, has the meaning given by section 221;
 work time, for the purposes of Chapter 6, has the meaning given by section 221;
-wrecked, in relation to a heavy vehicle, for the purposes of Chapter 2 Part 5, has the meaning given by section 54;
-written‑off, in relation to a heavy vehicle, for the purposes of Chapter 2 Part 5, has the meaning given by section 54;
 written work diary, for the purposes of Chapter 6, has the meaning given by section 221.
 6—Meaning of heavy vehicle
 (1) For the purposes of this Law, a vehicle is a heavy vehicle if it has a GVM or ATM of more than 4.5t.
-(2) Also, for the purposes of this Law other than in relation to registration under this Law, a combination that includes a vehicle with a GVM or ATM of more than 4.5t is a heavy vehicle.
+(2) Also, for the purposes of this Law, a combination that includes a vehicle with a GVM or ATM of more than 4.5t is a heavy vehicle.
 (3) However, rolling stock is not a heavy vehicle for the purposes of this Law.
 (4) In this section—
 rolling stock—
@@ -1000,285 +989,6 @@ The national regulations may provide for—
 (b) the procedures for cancelling or modifying a PBS design approval or PBS vehicle approval; and
 (c) performance based standards, and assessment and certification rules, relating to PBS design approvals or PBS vehicle approvals; and
 (d) the appointment, functions and management of persons as PBS assessors and PBS vehicle certifiers.
-Chapter 2—Registration
-Note—
-If this Chapter is not to commence at the same time as other provisions of this Law but at a later time, transitional provisions for this jurisdiction relating to and consequential on the delayed commencement are intended to be dealt with by national regulations or by legislation of this jurisdiction.
-Note—
-Chapter 2 had not come into operation at the date of the publication of this version.
-Part 1—Preliminary
-27—Main purpose of Chapter 2
-The main purpose of this Chapter is to establish a scheme for the national registration of heavy vehicles that—
-(a) allows for the registration of heavy vehicles of a standard and in a condition that prevents or minimises safety risks; and
-(b) recognises that unregistered heavy vehicles may be used on roads in particular circumstances without posing significant safety risks; and
-(c) provides for identifying heavy vehicles and the persons responsible for them; and
-(d) ensures compliance with—
-(i) vehicle registration duty legislation; and
-(ii) third party insurance legislation.
-Part 2—Registration scheme
-Division 1—Preliminary
-28—Scheme for registration of heavy vehicles
-(1) The national regulations may prescribe procedures for the registration of heavy vehicles.
-(2) Without limiting subsection (1), the national regulations may prescribe—
-(a) the persons who are eligible to have heavy vehicles registered in their name; and
-(b) the heavy vehicles that are eligible to be registered; and
-(c) the circumstances in which heavy vehicles may be registered without conditions; and
-(d) the circumstances in which heavy vehicles may be registered subject to conditions; and
-(e) the period for which heavy vehicles may be registered; and
-(f) the circumstances in which unregistered heavy vehicle permits may be issued for heavy vehicles, and conditions that may be imposed on the permits; and
-(g) the charges payable for the registration of heavy vehicles, and refunds of part of the charges paid for a heavy vehicle's registration if the registration is surrendered before it expires; and
-(h) requirements about the display of plates and labels on heavy vehicles to identify the vehicles' registration; and
-(i) matters about—
-(i) the renewal of the registration of heavy vehicles; and
-(ii) the transfer or surrender of the registration of heavy vehicles; and
-(iii) the amendment, suspension or cancellation of the registration of heavy vehicles or unregistered heavy vehicle permits for heavy vehicles; and
-(iv) the refusal of the registration or renewal of the registration, or the suspension or cancellation of the registration, of heavy vehicles for—
-(A) noncompliance with requirements of vehicle registration duty legislation or third party insurance legislation of the State or Territory in which a vehicle's garage address is located; or
-(B) not providing adequate proof of compliance with any of the requirements referred to in subsubparagraph (A); and
-(v) without limiting subparagraph (iv), the suspension or cancellation of the registration of heavy vehicles for—
-(A) noncompliance with any of the requirements referred to in that subparagraph if a vehicle's garage address changes during the period of registration; or
-(B) not providing adequate proof of compliance with any of the requirements referred to in subsubparagraph (A); and
-(j) matters about the provision of the Regulator's services to States and Territories, under agreements mentioned in section 658(2)(b), relating to—
-(i) collecting vehicle registration duty; or
-(ii) ensuring compliance with third party insurance legislation, including, for example, by collecting third party insurance premiums.
-29—Registration not evidence of title
-The registration of a heavy vehicle under this Law is not evidence of title to the heavy vehicle.
-Division 2—Requirement for heavy vehicle to be registered
-30—Registration requirement
-(1) A person must not use, or permit to be used, on a road—
-(a) an unregistered heavy vehicle; or
-(b) a heavy vehicle whose registration is suspended under the national regulations.
-Maximum penalty: $10 000.
-(2) Subsection (1) does not apply to the use of an unregistered heavy vehicle on a road if—
-(a) the vehicle is being used under an unregistered heavy vehicle permit; or
-(b) the use of the vehicle on the road is authorised under Division 3.
-Division 3—Authorised use of unregistered heavy vehicle
-31—Purpose of Division 3
-The purpose of this Division is to state, for the purposes of section 30(2)(b), the circumstances in which an unregistered heavy vehicle is authorised to be used on a road.
-32—Unregistered heavy vehicle on journey for obtaining registration
-(1) An unregistered heavy vehicle may be used on a road when—
-(a) any of the following apply:
-(i) it is on a journey to the nearest registration place and is travelling on the most direct and convenient route to the registration place from where the journey began;
-(ii) it is on a journey to the nearest registration place by way of the nearest inspection place to the registration place and is travelling on the most direct and convenient route to the inspection place from where the journey began;
-(iii) it is on a journey to the nearest registration place by way of the nearest inspection place from where the journey began and is travelling on the most direct and convenient route to the registration place from the inspection place; and
-(b) it does not have any goods in it; and
-(c) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
-(2) In this section—
-inspection place means a place where the heavy vehicle can be taken for the purpose of inspecting or weighing the vehicle for registration purposes;
-registration place means a place where the heavy vehicle is required to be taken for the purpose of obtaining registration of the vehicle (whether or not it is also an inspection place).
-33—Unregistered heavy vehicle temporarily in Australia
-(1) An unregistered heavy vehicle may be used on a road if—
-(a) the vehicle—
-(i) is temporarily in Australia; and
-(ii) is registered in a foreign country; and
-(b) the foreign number plates and labels for the vehicle are conspicuously displayed on the vehicle and in the way (if any) required by a law of the foreign country; and
-(c) so far as is reasonably practicable, the vehicle is used in accordance with any conditions of the registration in the foreign country; and
-(d) the driver of the vehicle keeps in the driver's possession proof of an applicable temporary admission carnet; and
-(e) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
-(2) In this section—
-foreign number plates and labels, for a heavy vehicle registered in a foreign country, means the number plates and labels required, under a law of the foreign country, to be displayed on the vehicle if it is used on a road in the foreign country;
-temporary admission carnet means a document that is or is of the same nature as a carnet de passages en douane, relating to the presence in Australia of a heavy vehicle registered in a foreign country.
-34—Unregistered heavy vehicle used for short term only
-(1) An unregistered heavy vehicle may be used on a road if—
-(a) a road authority has, under a law of a participating jurisdiction, authorised the use of the vehicle on the road for short‑term purposes; and
-(b) the short‑term number plates for the vehicle are conspicuously displayed on the vehicle in the way (if any) required under that law; and
-(c) the vehicle is used in accordance with any conditions imposed by the road authority on the authorisation; and
-(d) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
-(2) In this section—
-short‑term number plates, for a heavy vehicle authorised by a road authority to be used on a road as mentioned in subsection (1)(a), means the number plates (usually called 'trade plates') issued by the road authority and required under the law under which the authorisation is given to be displayed on the vehicle if it is used on a road under the authorisation.
-35—Unregistered heavy vehicle used locally only
-(1) An unregistered heavy vehicle may be used on a road if—
-(a) the vehicle is on a journey between 2 parcels of land used solely, or mainly, for primary production and is travelling by the most direct or convenient route between the places; and
-(b) for any one use, the total distance travelled on a road is not more than 500m; and
-(c) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
-(2) In this section—
-primary production means primary production for agriculture or fishing.
-36—Unregistered heavy vehicle that is an agricultural vehicle
-An unregistered heavy vehicle may be used on a road if—
-(a) it is—
-(i) an agricultural implement being towed by—
-(A) an agricultural machine that is registered; or
-(B) another registered heavy vehicle; or
-(ii) an agricultural trailer being towed by—
-(A) an agricultural machine that is being used to perform agricultural tasks for which it was built and is registered; or
-(B) a conditionally registered heavy vehicle; and
-(b) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
-37—Unregistered heavy vehicle being towed
-An unregistered heavy vehicle may be used on a road if—
-(a) it is being lawfully towed by a tow truck; and
-(b) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
-38—Unregistered heavy vehicle to which exemption under Division 4 applies
-An unregistered heavy vehicle may be used on a road if—
-(a) it is of a category of heavy vehicles exempted from the requirement to be registered under Division 4; and
-(b) it complies with, or is being used in compliance with, any applicable conditions referred to in Division 4; and
-(c) the requirements (if any) of third party insurance legislation applying to the vehicle are complied with.
-39—Driver to carry proof of compliance with third party insurance legislation
-(1) This section applies if use of an unregistered heavy vehicle in any of the circumstances referred to in sections 32 to 38 is dependent on compliance with the requirements of third party insurance legislation applying to the vehicle.
-(2) A person must not use, or permit to be used, the unregistered heavy vehicle on a road in any of those circumstances if the driver does not have in the driver's possession proof that the requirements of third party insurance legislation applying to the vehicle are complied with.
-Maximum penalty: $3 000.
-Division 4—Exemption from requirement to be registered
-Subdivision 1—Exemption by Regulator
-40—Regulator's power to exempt category of heavy vehicles from requirement to be registered
-(1) The Regulator may, by Commonwealth Gazette notice complying with section 44, exempt a category of heavy vehicles from the requirement to be registered, for a period of not more than 1 year.
-(2) An exemption under subsection (1) is a registration exemption.
-41—Restriction on grant of registration exemption
-(1) The Regulator may grant a registration exemption under this Subdivision only if the Regulator is satisfied—
-(a) it is not reasonable to require heavy vehicles of the category to be registered; and
-(b) the use of heavy vehicles of the category on a road without being registered will not pose a significant safety risk.
-(2) In deciding whether to grant a registration exemption, the Regulator must have regard to the approved guidelines for granting registration exemptions.
-42—Conditions of registration exemption
-A registration exemption under this Subdivision may be subject to any conditions the Regulator considers appropriate, including, for example, 1 or more of the following conditions:
-(a) that a heavy vehicle may be used on a road under the exemption only—
-(i) on stated routes; or
-(ii) during stated hours of stated days;
-(b) that the driver of a heavy vehicle who is driving the vehicle on a road under the exemption must keep in the driver's possession—
-(i) a copy of the Commonwealth Gazette notice for the exemption; or
-(ii) an information sheet about the exemption published by the Regulator on the Regulator's website;
-(c) that stated signs or other things must be displayed on a heavy vehicle being used on a road under the exemption.
-43—Period for which registration exemption applies
-A registration exemption under this Subdivision—
-(a) takes effect—
-(i) when the Commonwealth Gazette notice for the exemption is published; or
-(ii) if a later time is stated in the Commonwealth Gazette notice, at the later time; and
-(b) applies for the period stated in the Commonwealth Gazette notice.
-44—Requirements about Commonwealth Gazette notice
-(1) A Commonwealth Gazette notice for a registration exemption under this Subdivision must state the following:
-(a) the category of heavy vehicles to which the exemption applies;
-(b) the conditions of the exemption;
-(c) the period for which the exemption applies.
-(2) The Regulator must publish a copy of the Commonwealth Gazette notice on the Regulator's website.
-45—Amendment or cancellation of registration exemption
-(1) Each of the following is a ground for amending or cancelling a registration exemption granted under this Subdivision:
-(a) the use of heavy vehicles on a road under the exemption has caused, or is likely to cause, a significant safety risk;
-(b) since the exemption was granted, there has been a change in the circumstances that were relevant to the Regulator's decision to grant the exemption and, had the changed circumstances existed when the exemption was granted, the Regulator would not have granted the exemption, or would have granted the exemption subject to conditions or different conditions.
-(2) If the Regulator considers a ground exists to amend or cancel a registration exemption, the Regulator may amend or cancel the exemption by complying with subsections (3) to (5).
-(3) The Regulator must publish a public notice—
-(a) stating that the Regulator believes a ground mentioned in subsection (1)(a) or (b) for amending or cancelling the exemption exists; and
-(b) outlining the facts and circumstances forming the basis for the belief; and
-(c) stating the action the Regulator is proposing to take under this section (the proposed action); and
-(d) inviting persons who will be affected by the proposed action to make, within a stated time of at least 14 days after the Commonwealth Gazette notice is published, written representations about why the proposed action should not be taken.
-(4) If, after considering all written representations made under subsection (3)(d), the Regulator still considers a ground exists to take the proposed action, the Regulator may—
-(a) if the proposed action was to amend the exemption—amend the exemption, including, for example, by imposing additional conditions on the exemption, in a way that is not substantially different from the proposed action; or
-(b) if the proposed action was to cancel the exemption—
-(i) amend the exemption, including, for example, by imposing additional conditions on the exemption; or
-(ii) cancel the exemption.
-(5) The Regulator must publish a public notice of the amendment or cancellation.
-(6) The amendment or cancellation takes effect—
-(a) 28 days after the Commonwealth Gazette notice is published under subsection (5); or
-(b) if a later time is stated in the Commonwealth Gazette notice, at the later time.
-46—Immediate suspension
-(1) This section applies if the Regulator considers it is necessary to suspend a registration exemption granted under this Subdivision immediately to prevent or minimise serious harm to public safety or significant damage to road infrastructure.
-(2) The Regulator may, by public notice, immediately suspend the exemption until the earliest of the following:
-(a) the end of 56 days after the day the public notice is published;
-(b) the Regulator publishes a notice under section 45(5) and the amendment or cancellation takes effect under section 45(6);
-(c) the Regulator cancels the suspension by public notice.
-(4) The suspension, and (where relevant) the cancellation of the suspension, takes effect immediately after the Commonwealth Gazette notice is published under subsection (3).
-(5) This section applies despite section 45.
-Subdivision 2—Exemption by national regulations
-47—National regulations exempting heavy vehicles from requirement to be registered
-(1) The national regulations may provide for the exemption of heavy vehicles from the requirement to be registered.
-(2) An exemption under subsection (1) is a registration exemption.
-(3) Without limiting subsection (1), the national regulations may prescribe matters about—
-(a) the registration exemptions for categories of heavy vehicles; and
-(b) the amendment, suspension or cancellation of registration exemptions; and
-(c) the imposition, amendment or cancellation of the conditions (if any) to which a registration exemption is subject, whether any such condition is stated in, or is of a kind authorised to be made under, the national regulations.
-Part 3—Vehicle register
-48—Vehicle register
-(1) The Regulator must keep a register of heavy vehicles (the vehicle register) that enables the identification of a heavy vehicle used on a road and of the person who is responsible for it.
-(2) The vehicle register must—
-(a) be kept in the way prescribed by the national regulations; and
-(b) contain the particulars prescribed by the national regulations.
-(3) The Regulator may include in the vehicle register other information the Regulator considers reasonable and relevant to the purposes of this Law.
-Part 4—Other provisions relating to registration
-49—Ownership of registration items
-A registration item issued by the Regulator remains the property of the Regulator.
-50—Obtaining registration or registration items by false statements etc
-(1) A person must not attempt to have a heavy vehicle registered, or to have the registration of a heavy vehicle renewed or transferred, or to be issued with an unregistered heavy vehicle permit, under this Law—
-(a) by making a statement or representation the person knows is false or misleading in a material particular; or
-(b) in another dishonest way.
-Maximum penalty: $10 000.
-(2) A person must not, without a reasonable excuse, possess a registration item obtained—
-(a) by making a statement or representation the person knows is false or misleading in a material particular; or
-(b) in another dishonest way.
-Maximum penalty: $10 000.
-(3) The registration of a heavy vehicle is void if a person contravenes subsection (1) in relation to the registration or the renewal or transfer of the registration of the vehicle.
-(4) A registration item is void if a person contravenes subsection (2) in relation to obtaining the item.
-51—Replacement and recovery of certain registration items
-(1) This section applies if the Regulator is reasonably satisfied a registration item (the relevant item) issued by the Regulator for the purposes of this Law is incorrect, is a duplicate, is of poor quality or is difficult to read.
-(2) The Regulator may cancel the relevant item and, if the Regulator considers it is appropriate—
-(a) issue a replacement registration item to the registered operator of the heavy vehicle; or
-(b) by notice, require the registered operator of the heavy vehicle to return the relevant item to the Regulator.
-(3) A person who is given a notice under subsection (2)(b) must comply with the notice, unless the person has a reasonable excuse.
-Maximum penalty: $4 000.
-52—Verification of particular records
-(1) This section applies in relation to a heavy vehicle—
-(a) registered under this Law; or
-(b) the subject of an unregistered heavy vehicle permit.
-(2) The Regulator may, by notice, require a registered operator of the heavy vehicle or the holder of an unregistered heavy vehicle permit for the vehicle—
-(a) to produce documents about, or otherwise verify, a matter about the vehicle included in the vehicle register or other records kept by the Regulator for the purposes of this Law; or
-(b) at a stated reasonable time and place, to—
-(i) present the heavy vehicle for inspection by the Regulator; or
-(ii) personally attend on the Regulator for identification purposes.
-(3) Without limiting subsection (2)(a), the Regulator may require the production of documents or other verification relating to any of the following:
-(a) the identity, description or condition of the heavy vehicle;
-(b) the origin or history of the heavy vehicle;
-(c) the identity and address of the operator of the heavy vehicle;
-(d) the garage address of the heavy vehicle;
-(e) the currency of any compulsory third party insurance required for the heavy vehicle under third party insurance legislation.
-(4) A person given a notice under subsection (2) must comply with the notice, unless the person has a reasonable excuse.
-Maximum penalty: $3 000.
-Part 5—Written‑off and wrecked heavy vehicles
-53—Purpose of Chapter 2 Part 5
-The purpose of this Part is to provide for the collection and recording of information about written‑off or wrecked heavy vehicles to ensure a previously written‑off or wrecked heavy vehicle is registered only if—
-(a) the identity of the vehicle and its operator is certain; and
-(b) the vehicle is safe.
-54—Definitions for Chapter 2 Part 5
-In this Part—
-insurer means a body corporate authorised under the Insurance Act 1973 of the Commonwealth to carry on insurance business;
-wrecked, for a heavy vehicle, means the vehicle is—
-(a) demolished or dismantled; or
-(b) in a state or condition prescribed by the national regulations;
-written‑off, for a heavy vehicle, means the vehicle cannot reasonably be expected to be repaired, including because—
-(a) an insurer has decided the vehicle should not be repaired; or
-(b) the vehicle is in a state or condition prescribed by the national regulations.
-55—Written‑off and wrecked heavy vehicles register
-(1) The Regulator must keep a register of written‑off and wrecked heavy vehicles (the written‑off and wrecked vehicles register).
-(2) The written‑off and wrecked vehicles register must—
-(a) be kept in the way prescribed by the national regulations; and
-(b) contain the particulars prescribed by the national regulations, to the extent the particulars apply, for each heavy vehicle that is written‑off or wrecked.
-(3) The Regulator may include in the written‑off and wrecked vehicles register other information the Regulator considers reasonable and relevant to the purpose of this Part.
-(4) The national regulations may provide for—
-(a) the written‑off and wrecked vehicles register to be kept in a form allowing other entities to make entries in it, and the making of the entries; and
-(b) access to the written‑off and wrecked vehicles register by particular entities, with or without conditions; and
-(c) the giving of information contained in the written‑off and wrecked vehicles register to particular entities, with or without conditions; and
-(d) creating an offence of driving written‑off and wrecked heavy vehicles; and
-(e) notifying the Regulator about written‑off and wrecked heavy vehicles.
-Part 6—Other provisions
-56—Regulator may specify GCM in particular circumstances
-(1) This section applies if—
-(a) under the national regulations, a person applies for—
-(i) the registration or the renewal of the registration of a heavy motor vehicle; or
-(ii) an unregistered heavy vehicle permit for a heavy motor vehicle; and
-(b) the total maximum loaded mass of the heavy motor vehicle and any vehicles it may lawfully tow at any given time—
-(i) is not stated by the heavy motor vehicle's manufacturer on the vehicle's identification plate or another place on the vehicle; or
-(ii) is stated as mentioned in subparagraph (i) but is no longer appropriate because the vehicle has been modified since the total maximum loaded mass was stated as mentioned in subparagraph (i).
-(2) The Regulator may specify the total maximum loaded mass for the heavy motor vehicle and any vehicles it may lawfully tow at any given time for the purposes of this Law.
-Note—
-Under the national regulations—
-(a) if the Regulator registers a heavy motor vehicle, the Regulator must give the registered operator a certificate of registration, and a registration label, for the vehicle stating the vehicle's GCM, and record the vehicle's GCM in the vehicle register; and
-(b) if the Regulator issues an unregistered heavy vehicle permit for a heavy motor vehicle, the permit must state the vehicle's GCM, and the Regulator must record the vehicle's GCM in the vehicle register.
-57—Regulator may specify GVM in particular circumstances
-(1) This section applies if—
-(a) under the national regulations, a person applies for—
-(i) the registration or the renewal of the registration of a heavy vehicle; or
-(ii) an unregistered heavy vehicle permit for a heavy vehicle; and
-(b) either the vehicle does not have an identification plate or the vehicle's maximum loaded mass—
-(i) is not stated on the vehicle's identification plate; or
-(ii) is stated on the vehicle's identification plate but is no longer appropriate because the vehicle has been modified since the maximum loaded mass was stated on the vehicle's identification plate.
-(2) The Regulator may specify the vehicle's maximum loaded mass for the purposes of this Law.
-Note—
-Under the national regulations—
-(a) if the Regulator registers a heavy vehicle, the Regulator must give the registered operator a certificate of registration, and a registration label, for the vehicle stating the vehicle's GVM, and record the vehicle's GVM in the vehicle register; and
-(b) if the Regulator issues an unregistered heavy vehicle permit for a heavy vehicle, the permit must state the vehicle's GVM, and the Regulator must record the vehicle's GVM in the vehicle register.
 Chapter 3—Vehicle operations—standards and safety
 Part 1—Preliminary
 58—Main purpose of Chapter 3
@@ -1311,12 +1021,12 @@ The subparagraph does not operate to exempt a person from complying with the req
 (A) it has a quantity of goods that is necessary or appropriate for the conduct of the testing or analysis; and
 (B) without limiting subparagraph (iv), there are no reasonable grounds to believe the vehicle laden with those goods poses a significant safety risk; and
 (iv) is used on a road in a way that does not pose a safety risk.
-(3) A person does not commit an offence against subsection (1) in relation to a heavy vehicle's noncompliance with a heavy vehicle standard if, and to the extent, the noncompliance relates to a noncompliance known to the Regulator when the vehicle was registered under the national regulations.
-(4) For the purposes of subsection (3), the Regulator is taken to know of a heavy vehicle's noncompliance with a heavy vehicle standard when the vehicle was registered under the national regulations if the noncompliance is mentioned in—
-(a) an operations plate that was installed on the vehicle when it was registered; or
-(b) a certificate of approved operations issued for the vehicle and in force when the vehicle was registered; or
-(c) a document obtained by the Regulator under the national regulations in connection with the registration of the vehicle.
-(5) Subsection (3) applies only if the heavy vehicle, and its use on a road, complies with the conditions of the registration.
+(3) A person does not commit an offence against subsection (1) in relation to a heavy vehicle's noncompliance with a heavy vehicle standard if, and to the extent, the noncompliance relates to a noncompliance known to the registration authority for the heavy vehicle at the time the registration authority registered the vehicle under an Australian road law.
+(4) For the purposes of subsection (3), the registration authority is taken to have known of the heavy vehicle's noncompliance with a heavy vehicle standard at the time the registration authority registered the vehicle if the noncompliance was mentioned in—
+(a) an operations plate that was installed on the vehicle at the time it was registered; or
+(b) a certificate of approved operations issued for the vehicle and in force at the time the vehicle was registered; or
+(c) a document obtained by the registration authority under an Australian road law in connection with the registering of the vehicle.
+(5) Subsection (3) applies only if the heavy vehicle, and its use on a road, complies with the conditions of the heavy vehicle's registration under an Australian road law.
 (6) If a PBS vehicle is exempt from vehicle standards stated in its PBS vehicle approval but it complies with the other applicable vehicle standards, the vehicle is regarded for the purposes of this Law as complying with the vehicle standards applying to the vehicle.
 Note—
 See also section 81(4) to (6) for the effect of a vehicle standards exemption on compliance with subsection (1).
@@ -6528,7 +6238,7 @@ Division 4—Inspecting and searching heavy vehicles
 (1) An authorised officer may enter and inspect a heavy vehicle for monitoring purposes.
 (2) Without limiting subsection (1), the authorised officer may—
 (a) inspect, examine or film any part of the heavy vehicle or any part of its equipment or load; and
-(b) without limiting paragraph (a), look for, check the details of, or film a number plate, label or other thing required to be displayed on the heavy vehicle under this Law; and
+(b) without limiting paragraph (a), look for, check the details of, or film a registration item, label or other thing required to be displayed on the heavy vehicle under an Australian road law; and
 (c) inspect a relevant document in the heavy vehicle; and
 (d) copy, or take an extract from, a relevant document in the heavy vehicle; and
 (e) produce an image or writing in or near the vehicle from an electronic relevant document in the vehicle or, if it is not practicable to produce the image or writing in or near the vehicle, take a thing containing the electronic relevant document somewhere else to produce the image or writing; and
@@ -6557,7 +6267,7 @@ relevant information means information relating to a heavy vehicle required to b
 (3) Without limiting subsection (1), the authorised officer may—
 (a) search any part of the heavy vehicle or any part of its equipment or load for evidence of an offence against this Law; and
 (b) inspect, examine or film any part of the heavy vehicle or any part of its equipment or load; and
-(c) without limiting paragraph (b), look for, check the details of, or film a number plate, label or other thing required to be displayed on the heavy vehicle under this Law; and
+(c) without limiting paragraph (b), look for, check the details of, or film a registration item, label or other thing required to be displayed on the heavy vehicle under an Australian road law; and
 (d) search for and inspect a document, device or other thing in the heavy vehicle; and
 (e) take an extract from a document, device or other thing in the heavy vehicle, including, for example—
 (i) by taking a copy of, or an extract from, a readout or other data obtained from a device or other thing in the vehicle; or
@@ -6601,7 +6311,6 @@ Examples of documents for the purposes of paragraphs (e) and (f)—
 (a) subject to paragraph (b), at the place and time stated in the notice served on the person; or
 (b) if the notice has been varied under this section, at the place and time stated in the notice as varied.
 Maximum penalty: $6 000.
-(6) Failure to produce or allow a heavy vehicle to be inspected as required under this section is a ground for suspending the registration of the vehicle.
 Division 5—Other powers in relation to all heavy vehicles
 523—Starting or stopping heavy vehicle engine
 (1) To enable an authorised officer to effectively exercise a power under this Law in relation to a heavy vehicle, the officer may enter the vehicle and start or stop its engine (take the prescribed action) or authorise someone else (the assistant) to enter the vehicle and take the prescribed action if—
@@ -6654,7 +6363,6 @@ defective vehicle label means a label—
 identification details, for an authorised officer, means details to identify the authorised officer, including, for example—
 (a) the officer's name; or
 (b) an identification number allocated to the officer under this Law or another law;
-registration authority means an authority responsible for the registration of heavy vehicles;
 vehicle identifier means—
 (a) a VIN; or
 (b) engine number; or
@@ -6686,7 +6394,7 @@ Maximum penalty: $3 000.
 (f) the nature of the inspection that led to the notice being issued;
 (g) whether an infringement notice was also given when the notice was issued;
 (h) the identification details for the authorised officer who issued the notice;
-(i) that, if the notice is not cleared by the Regulator under section 530, the vehicle's registration may be suspended and subsequently cancelled under this Law;
+(i) that, if the notice is not cleared by the Regulator under section 530, the vehicle's registration may be suspended and subsequently cancelled by a registration authority under an Australian road law;
 (j) any conditions imposed under subsection (2).
 (2) The authorised officer issuing a vehicle defect notice may impose any conditions on the use of the defective heavy vehicle the officer considers appropriate for use of the vehicle on a road.
 (3) Any conditions imposed under subsection (2) are taken to form part of the vehicle defect notice concerned.
@@ -6975,15 +6683,15 @@ An authorised officer who takes a thing or sample for examination under section 
 551—Seizure of number plates
 (1) Without limiting any other provision of this Chapter, a power under this Chapter for an authorised officer to seize a thing includes a power to seize a number plate for a heavy vehicle under subsection (2) or (3).
 (2) An authorised officer may seize a number plate (whether or not displayed on a heavy vehicle) if the officer reasonably believes—
-(a) that the number plate is being used other than in accordance with this Law or any other applicable law; or
-(b) that the number plate was not issued in accordance with this Law or any other applicable law.
+(a) that the number plate is being used other than in accordance with an Australian road law; or
+(b) that the number plate was not issued in accordance with an Australian road law.
 (3) An authorised officer may seize a number plate if it is displayed on a heavy vehicle and the officer reasonably believes—
 (a) that the number plate does not bear the registration number last assigned to the vehicle; or
 (b) that—
 (i) the vehicle is not registered or exempted from registration; and
 (ii) the period during which the registration of the vehicle may be renewed has expired.
 (4) An authorised officer may retain—
-(a) a number plate seized under subsection (2) until the officer is satisfied that it was not being so used and that it was issued in accordance with this Law or any other applicable law; or
+(a) a number plate seized under subsection (2) until the officer is satisfied that it was not being so used and that it was issued in accordance with an Australian road law; or
 (b) a number plate seized under (3) until the officer is satisfied that circumstances exist that allow it to be used without being subject to retention under this subsection.
 (5) An authorised officer must return a number plate seized under subsection (2) or (3) to—
 (a) the driver or operator of the vehicle, if the officer is satisfied as to the relevant matters referred to in subsection (4); or
@@ -7249,7 +6957,7 @@ Maximum penalty: $3 000.
 (ii) the ownership, insurance, licensing or registration of a heavy vehicle; or
 (iii) the load or equipment carried or intended to be carried by a heavy vehicle, including, for example, a document relating to insurance of the load or equipment; or
 (e) a document in the person's possession or under the person's control relating to any business practices; or
-(f) a document in the person's possession or under the person's control showing that a heavy vehicle's garage address recorded in the vehicle register is or is not the vehicle's actual garage address.
+(f) a document in the person's possession or under the person's control showing that a heavy vehicle's garage address recorded on a vehicle register, however named, kept under another Australian road law is or is not the vehicle's actual garage address.
 (2) A person of whom a requirement is made under subsection (1) must comply with the requirement, unless the person has a reasonable excuse.
 Maximum penalty: $6 000.
 (3) Compliance with a requirement made under subsection (1) for an electronic document requires the making available or production of a clear written reproduction of the electronic document.
@@ -7565,7 +7273,7 @@ Division 4—Cancelling or suspending registration
 (b) suspended for a stated period.
 (3) If the court makes an order under subsection (2) against a person, the court may also make an order that the person, or an associate of the person, is disqualified from applying for the registration of the heavy vehicle for a stated period.
 (4) If the court considers that another person who is not present in court may be substantially affected by an order under subsection (2) or (3), the court may issue a summons to that person to show cause why the order should not be made.
-(5) The court is to ensure that the Regulator is notified of the decision to make an order under subsection (2) or (3) and the terms of the order, but failure to do so does not invalidate the decision or the order.
+(5) The court is to ensure that the registration authority for the heavy vehicle is notified of the decision to make an order under subsection (2) or (3) and the terms of the order, but failure to do so does not invalidate the decision or the order.
 Division 5—Supervisory intervention orders
 599—Application of Division 5
 This Division applies if a court—
@@ -8098,7 +7806,6 @@ Part 1—Responsible Ministers
 (5) Section 740(2) to (4) do not apply to a fee charged by the Regulator under subsection (3).
 653—Approved guidelines for exemptions, authorisations, permits and other authorities
 (1) The responsible Ministers may approve guidelines about any of the following:
-(a) granting registration exemptions;
 (b) granting vehicle standards exemptions;
 (c) granting mass or dimension exemptions;
 (d) granting class 2 heavy vehicle authorisations;
@@ -8175,15 +7882,12 @@ Division 1—Establishment, functions and powers
 (c) do anything necessary or convenient to be done in the exercise of its functions.
 (2) Without limiting subsection (1), the Regulator may enter into an agreement with a State or Territory that makes provision for—
 (a) the State or Territory to provide services to the Regulator that assist the Regulator in exercising its functions; or
-(b) the Regulator to provide services to the State or Territory, including, for example, services relating to—
-(i) collecting vehicle registration duty; and
-(ii) ensuring compliance with third party insurance legislation, including, for example, by collecting third party insurance premiums.
+(b) the Regulator to provide services to the State or Territory relating to the functions of the Regulator under this Law.
 659—Functions of Regulator
 (1) The Regulator's main function is to achieve the object of this Law.
 (2) Without limiting subsection (1), the Regulator has the following functions:
-(a) to provide the necessary administrative services for the operation of this Law, including, for example—
-(i) services for the national registration of heavy vehicles; and
-(ii) collecting fees, charges and other amounts payable under this Law;
+(a) to provide the necessary administrative services for the operation of this Law, including, for example, collecting fees, charges and other amounts payable under this Law;
+(aa) to keep the database of heavy vehicles;
 (b) to monitor compliance with this Law;
 (c) to investigate contraventions or possible contraventions of provisions of this Law, including offences against this Law;
 (d) to bring and conduct proceedings in relation to contraventions or possible contraventions of provisions of this Law, including offences against this Law;
@@ -8209,8 +7913,10 @@ Division 1—Establishment, functions and powers
 (1) The Regulator may exercise any of its functions in cooperation with or with the assistance of a participating jurisdiction or the Commonwealth, including in cooperation with or with the assistance of a government agency of a participating jurisdiction or of the Commonwealth.
 (2) In particular, the Regulator may—
 (a) ask a government agency of a participating jurisdiction or the Commonwealth for information that the Regulator requires to exercise its functions under this Law; and
-(b) use the information provided to exercise its functions under this Law.
+(b) use the information provided to exercise its functions under this Law; and
+(c) give information to a government agency of a participating jurisdiction or the Commonwealth that the agency requires to exercise its functions under a law of the participating jurisdiction or the Commonwealth.
 (3) A government agency that receives a request for information under this section from the Regulator is authorised to give the information to the Regulator.
+(4) A government agency that receives information under this section from the Regulator is authorised to use the information only to exercise its functions mentioned in subsection (2)(c).
 661—Delegation
 (1) The Regulator may delegate any of its functions to—
 (a) the chief executive of an entity or a department of government of a participating jurisdiction or the Commonwealth; or
@@ -8350,6 +8056,19 @@ The Regulator may make arrangements for the services of any of the following per
 686—Consultants and contractors
 (1) The Regulator may engage persons with suitable qualifications and experience as consultants or contractors.
 (2) The terms and conditions of engagement of consultants or contractors are as decided by the Regulator from time to time.
+Part 2A—Database of heavy vehicles
+686A—Database of heavy vehicles
+(1) The Regulator must keep a database of heavy vehicles that enables the identification of a heavy vehicle registered under a law of a participating jurisdiction and the registered operator of the vehicle.
+(2) The database of heavy vehicles must—
+(a) be kept in the way prescribed by the national regulations; and
+(b) contain the information prescribed by the national regulations.
+(3) The Regulator may include in the database of heavy vehicles other information the Regulator considers relevant to the objects of this Law, including information given by another Australian jurisdiction to the Regulator.
+(4) The Regulator may require a registration authority that registers a heavy vehicle under a law of a participating jurisdiction to give the Regulator the information prescribed under subsection (2)(b) as soon as reasonably practicable after the registration authority receives the information.
+(5) If the registration authority becomes aware of a change to the information given to the Regulator under subsection (4), the registration authority must, as soon as reasonably practicable after becoming aware of the change, notify the Regulator of the change.
+686B—Regulator may share information in database of heavy vehicles
+The Regulator may give information included in the database of heavy vehicles to—
+(a) a registration authority for a participating jurisdiction or another Australian jurisdiction; or
+(b) a police force or police service for a participating jurisdiction or another Australian jurisdiction.
 Part 3—Miscellaneous
 Division 1—Finance
 687—National Heavy Vehicle Regulator Fund
@@ -8366,13 +8085,7 @@ Division 1—Finance
 (e) all money directed or authorised to be paid into the Fund under this Law, any law of a participating jurisdiction or any law of the Commonwealth; and
 (f) any other money or property received by the Regulator in connection with the exercise of its functions; and
 (g) any money paid to the Regulator for the provision of services to a State or Territory under an agreement mentioned in section 658(2)(b).
-(2) The following money is not payable into the Fund:
-(a) the road use component of the charges payable for the registration of heavy vehicles;
-(b) money that is received by the Regulator under an agreement mentioned in section 658(2)(b) and that is payable to another entity under such an agreement.
-Note—
-Section 692 deals with the money mentioned in subsection (2).
-(3) In this section—
-road use component, of the charges payable for the registration of heavy vehicles, means those charges other than so much of them as is, or is of a kind, prescribed by the national regulations as the regulatory component of those charges.
+(2) Money that is received by the Regulator under an agreement mentioned in section 658(2)(b) and that is payable to another entity under the agreement is not payable into the Fund.
 689—Payments out of Fund
 Payments may be made from the Fund for the purpose of—
 (a) paying any costs or expenses, or discharging any liabilities, incurred in the administration or enforcement of this Law, including, for example, payments made to a State or Territory for the provision of services under an agreement mentioned in section 658(2)(a); and
@@ -8646,14 +8359,10 @@ is evidence of the matter.
 complaint means a complaint, notice, charge or other process by which a proceeding for an offence is started.
 711—Evidence by certificate by Regulator generally
 (1) A certificate purporting to be issued by the Regulator and stating that, at a stated time or during a stated period—
-(a) a stated vehicle was or was not registered under this Law; or
-(b) a stated vehicle was or was not registered under this Law on the basis it is a heavy vehicle; or
-(c) a stated vehicle registered under this Law was or was not registered as a heavy vehicle of a stated category; or
-(d) a stated person was or was not the registered operator of a stated vehicle registered under this Law; or
 (e) a stated person held or did not hold a heavy vehicle accreditation granted under this Law; or
 (f) a stated exemption or authorisation under this Law applied or did not apply to a stated person or a stated heavy vehicle; or
 (g) a stated person is the holder of a stated permit or other authority under this Law; or
-(h) a stated registration, heavy vehicle accreditation, exemption, authorisation, permit or other authority under this Law was or was not amended, suspended or cancelled under this Law; or
+(h) a stated heavy vehicle accreditation, exemption, authorisation, permit or other authority under this Law was or was not amended, suspended or cancelled under this Law; or
 (i) a stated penalty, fee, charge or other amount was or was not, or is or is not, payable under this Law by a stated person; or
 (j) a stated fee, charge or other amount payable under this Law was or was not paid to the Regulator; or
 (k) a stated person has or has not notified the Regulator of any, or a stated, change of the person's address; or
