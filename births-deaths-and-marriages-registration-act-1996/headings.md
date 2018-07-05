@@ -21,7 +21,7 @@ Division 4—General provisions
 Part 5—Registration of marriages
 Part 6—Registration of deaths
 Division 1—Cases where registration of death is required or authorised
-Division 2—Court orders relating to registration of death
+Division 2—Court or Tribunal orders relating to registration of death
 Division 3—Notification of deaths
 Division 3A—Notification by court appointed guardians
 Division 4—Registration of death
