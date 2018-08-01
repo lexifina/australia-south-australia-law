@@ -538,8 +538,9 @@ An accreditation standard for a health profession is used to assess whether a pr
 A National Board may develop and approve codes and guidelines—
 (a) to provide guidance to the health practitioners it registers; and
 (b) about other matters relevant to the exercise of its functions.
-Example—
-A National Board may develop guidelines about the advertising of regulated health services by health practitioners registered by the Board or other persons for the purposes of section 133.
+Examples—
+1 A National Board may develop guidelines about the advertising of regulated health services by health practitioners registered by the Board or other persons for the purposes of section 133.
+2 To assist a health practitioner in providing practice information under section 132, a National Board may develop guidelines about the information that must be provided to the Board.
 40—Consultation about registration standards, codes and guidelines
 (1) If a National Board develops a registration standard or a code or guideline, it must ensure there is wide‑ranging consultation about its content.
 (2) A contravention of subsection (1) does not invalidate a registration standard, code or guideline.
@@ -1465,14 +1466,24 @@ relevant event means—
 (b) a change in the address provided by the registered health practitioner as the address the Board should use in corresponding with the practitioner;
 (c) a change in the practitioner's name.
 (2) A contravention of subsection (1) by a registered health practitioner does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
-132—National Board may ask registered health practitioner for employer's details
-(1) A National Board may, at any time by written notice given to a health practitioner registered by the Board, ask the practitioner to give the Board the following information—
-(a) information about whether the practitioner is employed by another entity;
-(b) if the practitioner is employed by another entity—
-(i) the name of the practitioner's employer; and
-(ii) the address and other contact details of the practitioner's employer.
-(2) The registered health practitioner must not, without reasonable excuse, fail to comply with the notice.
+132—National Board may ask registered health practitioner for practice information
+(1) A National Board may, at any time by written notice given to a health practitioner registered in a health profession for which the Board is established, ask the practitioner to give the Board a written notice containing practice information for the practitioner.
+(2) The registered health practitioner must not, without reasonable excuse, fail to comply with the notice from the Board.
 (3) A contravention of subsection (2) by a registered health practitioner does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
+(4) In this section—
+practice information, for a registered health practitioner practising in the health profession for which the practitioner is registered, means each of the following if it applies to the practitioner—
+(a) if the practitioner is self‑employed and shares premises with other registered health practitioners with whom the practitioner shares the cost of the premises—
+(i) that the practitioner is self‑employed; and
+(ii) the address of each of the premises at which the practitioner practises; and
+(iii) if the practitioner practises under a business name or names, each business name; and
+(iv) the names of the other registered health practitioners with whom the practitioner shares premises;
+(b) if the practitioner is self‑employed and paragraph (a) does not apply—that the practitioner is self‑employed, the address of each of the premises at which the practitioner practises and, if the practitioner practises under a business name or names, each business name;
+(c) if the practitioner is engaged by one or more entities under a contract of employment, contract for services or any other arrangement or agreement—the name, address and contact details of each entity;
+(d) if the practitioner is providing services for or on the behalf of one or more entities, whether in an honorary capacity, as a volunteer or otherwise, and whether or not the practitioner receives payment from an entity for the services—the name, address and contact details of each entity;
+Example for paragraph (d)—
+A physiotherapist practises physiotherapy as a volunteer at a sporting club or charity under an arrangement with that entity.
+(e) if the practitioner practises under a name or names that are not the same as the name under which the practitioner is registered under this Law—the other name or names.
+premises at which the practitioner practises does not include the residential premises of a patient of the practitioner.
 Subdivision 4—Advertising
 133—Advertising
 (1) A person must not advertise a regulated health service, or a business that provides a regulated health service, in a way that—
@@ -1733,6 +1744,9 @@ A registered health practitioner is charged with a serious criminal offence, unr
 (a) the decision is set aside on appeal;
 (b) for the suspension of, or imposition of conditions on, the registered health practitioner's or student's registration, the suspension is revoked, or the conditions are removed, by the National Board; or
 (c) for an undertaking, the National Board and the registered health practitioner or student agree to end the undertaking.
+159A—Board may give information to notifier about immediate action
+(1) This section applies if a notification about a registered health practitioner or student results in immediate action by a National Board under this division in relation to the practitioner or student.
+(2) After deciding to take the immediate action, the National Board may inform the notifier who made the notification of the decision and the reasons for the decision.
 Division 8—Investigations
 Subdivision 1—Preliminary
 160—When investigation may be conducted
@@ -1796,6 +1810,9 @@ After considering the investigator's report, the National Board must decide—
 (b) to do either or both of the following—
 (i) take the action the Board considers necessary or appropriate under another Division;
 (ii) refer the matter to another entity, including, for example, a health complaints entity, for investigation or other action.
+167A—Board may give information to notifier about result of investigation
+(1) This section applies if a notification about a registered health practitioner or student results in a decision by a National Board under section 167 in relation to the practitioner or student.
+(2) After making the decision, the National Board may inform the notifier who made the notification of the decision and the reasons for the decision.
 Division 9—Health and performance assessments
 168—Definition
 In this Division—
@@ -1847,6 +1864,9 @@ After considering the assessor's report and the discussions held with the regist
 (a) take the action the Board considers necessary or appropriate under another Division; or
 (b) refer the matter to another entity, including, for example, a health complaints entity, for investigation or other action; or
 (c) take no further action in relation to the matter.
+177A—Board may give information to notifier about decision following assessor’s report
+(1) This section applies if a notification about a registered health practitioner or student results in a decision by a National Board under section 177 in relation to the practitioner or student.
+(2) After making the decision, the National Board may inform the notifier who made the notification of the decision and the reasons for the decision.
 Division 10—Action by National Board
 178—National Board may take action
 (1) This section applies if—
@@ -1884,10 +1904,10 @@ Division 10—Action by National Board
 (i) investigated the registered health practitioner or student under Division 8; or
 (ii) conducted a health assessment or performance assessment of the registered health practitioner or student under Division 9.
 180—Notice to be given to health practitioner or student and notifier
-(1) As soon as practicable after making a decision under section 179(2), the National Board must give written notice of the decision to—
+(1) As soon as practicable after making a decision under section 179(2) or 178(2), if section 179 does not apply, the National Board must give written notice of the decision to—
 (a) the registered health practitioner or student; and
 (b) if the decision was the result of a notification, the notifier.
-(2) The notice given to the notifier must include information about the decision made by the Board only to the extent the information is available on the National Board's register.
+(2) A notice under subsection (1)(b) may also include the reasons for the decision.
 Division 11—Panels
 181—Establishment of health panel
 (1) A National Board may establish a health panel if—
@@ -2016,7 +2036,7 @@ Examples of when the panel may be reasonably satisfied a later reconsideration d
 (b) the reasons for the decision; and
 (c) that the registered health practitioner or student may appeal against the decision; and
 (d) how an application for appeal may be made and the period within which the application must be made.
-(4) The notice to the notifier must include information about the decision made by the panel but only to the extent the information is available on the National Board's register.
+(4) A notice under subsection (2)(b) may also include the reasons for the decision.
 Division 12—Referring matter to responsible tribunals
 193—Matters to be referred to responsible tribunal
 (1) A National Board must refer a matter about a registered health practitioner or student to a responsible tribunal if—
@@ -2137,16 +2157,16 @@ Division 14—Miscellaneous
 205—Implementation of decisions
 (1) A National Board must give effect to a decision of an adjudication body unless the decision is stayed on appeal.
 (2) Without limiting subsection (1), the National Board must, if the notice given to the Board states that a health practitioner's or student's registration is cancelled, remove the practitioner's or student's name from the appropriate register kept by the Board.
-206—National Board to give notice to registered health practitioner's employer
+206—National Board to give notice to registered health practitioner's employer and other entities
 (1) This section applies if—
 (a) a National Board—
 (i) decides to take health, conduct or performance action against a registered health practitioner; or
 (ii) receives notice from an adjudication body that the adjudication body has decided to take health, conduct or performance action against a registered health practitioner; or
 (iii) receives notice from a co‑regulatory authority that an adjudication body in the co‑regulatory jurisdiction has decided to take health, conduct or performance action against a registered health practitioner; and
-(b) the National Board has been advised by the registered health practitioner that the practitioner is employed by another entity.
-Note—
-Under section 132, a National Board may ask a registered health practitioner to give the Board information about whether or not the practitioner is employed by another entity and, if so, for the employer's details.
-(2) The National Board must, as soon as practicable after making the decision or receiving the notice, give written notice of the decision to take health, conduct or performance action against the registered health practitioner to the practitioner's employer.
+(b) the National Board has been given practice information under section 132 or becomes aware of practice information it should have been given under that section.
+(2) The National Board, as soon as practicable after making the decision or receiving the notice—
+(a) if the practice information given to the Board, or of which the Board becomes aware, is information referred to in section 132(4)(a) and includes the names of other registered health practitioners—may give written notice to each of those practitioners of the decision to take health, conduct or performance action against the registered health practitioner; or
+(b) if the practice information given to the Board, or of which the Board becomes aware, is information referred to in section 132(4)(c) or (d) and includes the name of an entity—must give written notice to the entity of the decision to take health, conduct or performance action against the registered health practitioner.
 207—Effect of suspension
 If a person's registration as a health practitioner or student is suspended under this Law the person is taken during the period of suspension not to be registered under this Law, other than for the purposes of this Part.
 Part 9—Finance
