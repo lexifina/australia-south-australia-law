@@ -34,4 +34,5 @@ Division 1—Preliminary
 Division 2—Orders for clearing court or suppressing publication of evidence etc
 Division 3—Sexual cases
 Division 4—Cases generally
+Part 8A—Journalists
 Part 9—Miscellaneous
