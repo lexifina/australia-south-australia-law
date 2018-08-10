@@ -9,6 +9,7 @@ Division 5—Duration of restraining orders
 Part 4—Forfeiture
 Division 1—Forfeiture orders
 Subdivision 1—Forfeiture orders
+Subdivision 1A—Deemed forfeiture orders
 Subdivision 2—Reducing the effect of forfeiture orders
 Subdivision 3—The effect of acquittals and quashing of convictions
 Subdivision 4—Buying back interests in forfeited property etc
@@ -53,7 +54,7 @@ Subdivision 2—Obtaining information about controlled property
 Subdivision 3—Dealings relating to controlled property
 Subdivision 4—Discharging pecuniary penalty orders and literary proceeds orders
 Division 2—Legal assistance
-Division 3—Victims of Crime Fund
+Division 3—Credits to funds
 Division 4—Charges on property
 Subdivision 1—Charge to secure certain amounts payable to the Crown
 Subdivision 2—Charge to secure certain amounts payable to Legal Services Commission
