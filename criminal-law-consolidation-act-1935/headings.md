@@ -39,6 +39,7 @@ Division 2—Theft
 Division 3—Robbery
 Division 4—Money laundering and dealing in instruments of crime
 Division 5—Deception
+Division 5A—Dishonest communication with children
 Division 6—Dishonest dealings with documents
 Division 7—Dishonest manipulation of machines
 Division 8—Dishonest exploitation of advantage
