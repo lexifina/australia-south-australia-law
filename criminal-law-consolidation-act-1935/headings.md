@@ -3,7 +3,7 @@ Part 1A—Territorial application of the criminal law
 Part 2—Treason
 Part 3—Offences against the person etc
 Division 1—Homicide
-Division 1A—Criminal neglect
+Division 1A—Criminal neglect etc
 Division 2—Defence of life and property
 Division 3—Miscellaneous
 Division 4—Unlawful threats
