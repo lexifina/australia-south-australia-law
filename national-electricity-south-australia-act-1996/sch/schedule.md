@@ -7,7 +7,7 @@ This Law may be referred to as the National Electricity Law.
 access determination means a determination of the AER under Part 10;
 access dispute has the meaning given by section 2A;
 additional advisory functions—AEMO’s additional advisory functions are as set out in section 50B(1);
-additional Minister initiated Rules means Rules made under section 90A, 90B, 90C, 90D or 90E by the Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia;
+additional Minister initiated Rules means Rules made under Part 7 Division 2 (other than section 90) by the Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia;
 adoptive jurisdiction means (according to context)—
 (a) a participating jurisdiction for which AEMO is authorised to exercise its additional advisory functions; or
 (b) a participating jurisdiction for which AEMO is authorised to exercise its declared network functions;
@@ -85,6 +85,9 @@ electricity services means services that are necessary or incidental to the supp
 end user means a person who acquires electricity for consumption purposes, and includes a retail customer;
 Energy Consumers Australia or ECA means the company incorporated, or to be incorporated, by the name Energy Consumers Australia Limited;
 energy ombudsman has the same meaning as in the National Energy Retail Law;
+Energy Security Board means the Board established by the MCE on 14 July 2017 to provide the MCE with advice for the purposes of—
+(a) whole‑of‑system oversight for energy security and reliability of the national electricity market; and
+(b) improving long‑term planning for the national electricity market;
 Federal Court means the Federal Court of Australia;
 final Rule determination means a determination of the AEMC under section 102;
 form of regulation factors has the meaning given by section 2F;
@@ -889,6 +892,8 @@ The AER is authorised to disclose information given to it in confidence—
 (a) for the purposes of civil or criminal proceedings; or
 (b) for the purposes of a proceeding before the Tribunal or a tribunal established by or under a law of this jurisdiction or another participating jurisdiction; or
 (c) for the purposes of according natural justice to a person affected by a decision (however described) of the AER under this Law or the Rules.
+28YA—Disclosure of information to Energy Security Board
+The AER is authorised to disclose to the Energy Security Board information given to the AER in confidence in or in connection with the performance of its functions or the exercise of its powers under this Law or the Rules.
 28Z—Disclosure of information given to the AER with confidential information omitted
 (1) This section applies if—
 (a) in compliance with this Law or the Rules or voluntarily, a person gives the AER information in confidence; and
@@ -1472,6 +1477,7 @@ AEMO is authorised to disclose protected information if it has the written conse
 (a) the Australian Competition and Consumer Commission;
 (b) the Australian Energy Regulator;
 (c) the Australian Energy Market Commission;
+(ca) the Energy Security Board;
 (d) the Economic Regulation Authority of Western Australia;
 (e) a jurisdictional regulator;
 (f) if the information is reasonably required by an energy ombudsman to resolve a dispute between a Registered participant and a retail customer but the information is not end-use consumer information—the energy ombudsman;
@@ -2145,6 +2151,7 @@ In making a jurisdictional derogation, the AEMC must have regard to whether—
 (b) the derogation continues existing regulatory arrangements applying to the electricity industry in a participating jurisdiction and the Minister of the participating jurisdiction requesting the derogation has notified, in writing, the AEMC that he or she considers it necessary and appropriate that the existing regulatory arrangements continue; or
 (c) the derogation is necessary to exempt, on an ongoing basis, generating, transmission or distribution systems or other facilities owned, controlled or operated in the participating jurisdiction to which the derogation relates from complying with technical standards relating to connection to the national electricity system set out in the Rules because those systems or facilities, by reason of their design or construction, are unable to comply with those standards.
 Division 2—Minister initiated National Electricity Rules
+Subdivision 1—Initial Rules made by Minister
 90—South Australian Minister to make initial National Electricity Rules
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia may make Rules for or with respect to any matter or thing referred to in section 34 and Schedule 1 to this Law.
 (2) As soon as practicable after making Rules under subsection (1), the Minister referred to in that subsection must—
@@ -2225,6 +2232,43 @@ Division 2—Minister initiated National Electricity Rules
 (b) if different Rules will commence operation on different dates, those dates.
 (5) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+Subdivision 2—Rules made by Minister from time to time
+90F—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2).
+(2) The MCE may only recommend the making of Rules under subsection (1) if—
+(a) the Rules are for or with respect to any matter or thing referred to in section 34 and Schedule 1 to this Law; and
+(b) the Energy Security Board has recommended to the MCE that it recommend the making of the Rules under subsection (1).
+(3) For the purposes of subsection (2), references in section 34(1) to the national electricity system will be taken to be references to the national electricity system or a local electricity system (as the context requires).
+(4) The Energy Security Board may only make a recommendation for the purposes of subsection (2)(b) in relation to Rules if—
+(a) the Rules are in connection with any of the following:
+(i) energy security and reliability of the NEM or long‑term planning for the NEM;
+(ii) energy security and reliability of a local electricity system or long‑term planning for a local electricity system; and
+(b) the Energy Security Board is satisfied that the Rules are consistent with the national electricity objective; and
+(c) the Energy Security Board has undertaken consultation on the Rules in accordance with any requirements determined by the MCE.
+(5) In considering whether Rules are consistent with the national electricity objective, the Energy Security Board must regard the reference in the national electricity objective to the national electricity system as a reference to—
+(a) the national electricity system; or
+(b) 1 or more, or all, of the local electricity systems; or
+(c) all or any combination of the electricity systems referred to in paragraphs (a) and (b),
+as the Energy Security Board considers appropriate in the circumstances, having regard to the nature, scope or operation of the Rules.
+(6) Rules in the nature of a derogation may be made under this section even though there may not have been a request for a derogation.
+(7) Rules made under subsection (1) may be differential Rules.
+(8) Section 34(3) applies to Rules made under subsection (1) in the same way as that section applies to Rules made by the AEMC.
+(9) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(10) The notice referred to in subsection (9)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(11) In this section—
+differential Rule means a Rule that—
+(a) varies in its terms as between—
+(i) the national electricity system; and
+(ii) 1 or more, or all, of the local electricity systems; or
+(b) does not have effect with respect to 1 or more of those systems,
+but is not a jurisdictional derogation, participant derogation or Rule that has effect with respect to an adoptive jurisdiction for the purpose of section 91(8);
+local electricity system means—
+(a) an electricity system in this jurisdiction prescribed or declared in or under the application Act of this jurisdiction to be a local electricity system; and
+(b) the generating systems and other facilities owned, controlled or operated in this jurisdiction connected to that local electricity system.
 Division 3—Procedure for the making of a Rule by the AEMC
 91—Initiation of making of a Rule
 (1) The AEMC may make a Rule at the request of any person, the MCE or the Reliability Panel.
@@ -2319,7 +2363,7 @@ Section 34 and Schedule 1 to this Law specify the subject matter for Rules.
 (a) an AEMC initiated Rule is a non-controversial Rule; or
 (b) a request for a Rule is a request for a non-controversial Rule; or
 (c) a request for a Rule is a request for an urgent Rule,
-the AEMC may make the relevant Rule in accordance with this Division (except sections 98 to 101) and as if the period of time within which the final Rule determination in respect of the relevant Rule must be published were 6 weeks from the date of publication of the notice under section 95.
+the AEMC may make the relevant Rule in accordance with this Division (except sections 98 to 101) and as if the period of time within which the final Rule determination in respect of the relevant Rule must be published were 8 weeks from the date of publication of the notice under section 95.
 (2) Before making a Rule as set out in subsection (1), the AEMC must include in a notice under section 95 a statement to the effect that the AEMC may make the relevant Rule if the AEMC does not receive a written request, and reasons, not to do so from any person or body within 2 weeks of publication of that notice.
 (3) The AEMC must not make a Rule in accordance with this section if, following publication of a notice under section 95 containing a statement to the effect set out in subsection (2)—
 (a) the AEMC receives a written request not to do so; and
@@ -2466,6 +2510,8 @@ See also section 31 of this Law and section 24 of the Australian Energy Market C
 (a) contain the reasons why the final Rule determination has not been made within 12 months after the publication of the notice under section 95; and
 (b) specify when the AEMC considers it will make the final Rule determination; and
 (c) be published.
+108B—Subsequent rule making by AEMC
+Nothing in Division 2 Subdivision 2 is to be taken to affect the power of the AEMC to make Rules (in accordance with this Law and the Regulations) for or with respect to any matter or thing referred to in section 34 and Schedule 1 to this Law (whether before or after Rules have been made under that Division).
 Part 8—Safety and security of the National Electricity System
 109—Definitions
 In this Part—
@@ -2935,3 +2981,867 @@ An example of conduct which may be prohibited if the requisite purpose is establ
 (2) A decision to which subsection (1) applies takes effect on and from—
 (a) the day it is made; or
 (b) if it specifies a date for operation or effect that is after the day it is made, that specified date.
+Schedule 1—Subject matter for the National Electricity Rules
+(section 34)
+Registration
+1 The registration of persons as Registered participants or otherwise for the purposes of this Law and the Rules, including the deregistration of such persons or suspension of such registrations.
+2 The exemption of persons from the requirement to be Registered participants.
+3 Prudential requirements to be met by a person—
+(a) before being registered as a Registered participant; and
+(b) as a Registered participant.
+4 The suspension of Registered participants from participation in the wholesale exchange operated and administered by AEMO.
+Participant fees
+5 The determination of fees in respect of services provided to Registered participants, or statutory functions performed, by AEMO under the Rules, including the methodology to be applied to determine those fees.
+6 The imposition on Registered participants of fees referred to in item 5 and the method of payment and collection of those fees.
+Wholesale exchange
+7 The setting of prices for electricity and services purchased through the wholesale exchange operated and administered by AEMO, including maximum and minimum prices.
+8 The methodology and formulae to be applied in setting prices referred to in item 7.
+9 The division of the national electricity market into regions for the purpose of the operation of the wholesale exchange operated and administered by AEMO.
+Operation of generation, transmission and distribution systems
+10 The disconnection of generating systems, transmission systems, distribution systems or other facilities or loads.
+11 The operation of generating systems, transmission systems, distribution systems or other facilities.
+12 The augmentation of transmission systems and distribution systems.
+13 Access to electricity services provided by means of transmission systems and distribution systems.
+14 Access to premises on which there are, and access to, generating systems or other facilities by owners, controllers or operators of transmission systems or distribution systems whose systems are connected to the generating systems or other facilities to test and inspect the generating systems or other facilities for the purpose of determining whether those generating systems or other facilities comply with the Rules.
+14A The treatment of parts of a transmission system as forming part of a distribution system for the purposes of making a network revenue or pricing determination.
+14B The treatment of parts of a distribution system as forming part of a transmission system for the purposes of making a network revenue or pricing determination.
+Transmission system revenue and pricing
+15 The regulation of revenues earned or that may be earned by owners, controllers or operators of transmission systems from the provision by them of services that are the subject of a transmission determination.
+16 (1) The regulation of prices charged or that may be charged by owners, controllers or operators of transmission systems for the provision by them of services that are the subject of a transmission determination.
+(2) The regulation of prices that AEMO charges or may charge for the provision of shared transmission services.
+17 Principles to be applied, and procedures to be followed, by the AER in exercising or performing an AER economic regulatory function or power relating to the making of a transmission determination.
+18 The assessment, or treatment, by the AER, of investment in transmission systems for the purposes of making a transmission determination.
+19 The economic framework, mechanisms or methodologies to be applied by the AER for the purposes of item 18.
+20 The economic framework, mechanisms or methodologies to be applied or determined by the AER for the purposes of items 15 and 16 including (without limitation) the economic framework, mechanisms or methodologies to be applied or determined by the AER for the derivation of the revenue (whether maximum allowable revenue or otherwise) or prices to be applied by the AER in making a transmission determination.
+21 The regulatory asset base, for the purposes of making a transmission determination, of assets forming part of a transmission system owned, controlled or operated by a regulated transmission system operator, and of proposed new assets to form part of a transmission system owned, controlled or operated by a regulated transmission system operator, that are, or are to be, used in the provision of services that are the subject of a transmission determination.
+22 The determination by the AER, for the purpose of making a transmission determination with respect to services that are the subject of such a determination, of allowances for—
+(a) depreciation; and
+(b) operating costs of a regulated transmission system operator; and
+(c) if the regulated transmission system operator is a corporation or other body corporate—
+(i) the income tax payable by corporations; or
+(ii) amounts payable under a law of this jurisdiction or otherwise that are equivalent to income tax that would be payable by the operator if that operator were liable to pay income tax; and
+(d) a rate of return on assets forming part of a transmission system owned, controlled or operated by a regulated transmission system operator.
+23 Incentives for regulated transmission system operators to make efficient operating and investment decisions including, where applicable, service performance incentive schemes.
+24 The procedure for the making of a transmission determination by the AER, including—
+(a) the submission by the relevant service provider of a proposal to the AER relating to the revenue or prices to be regulated by the proposed transmission determination; or
+(b) the publication of notices by the AER; and
+(c) the making of submissions by the relevant service provider or any other person; and
+(d) the holding of pre‑determination conferences; and
+(e) the publication of draft and final determinations and the giving of reasons.
+In this clause, a reference to the relevant service provider is a reference to the regulated transmission system operator to which the determination will apply or, if it will apply to AEMO (as provider of shared transmission services), to AEMO.
+Distribution system revenue and pricing
+25 The regulation of revenues earned or that may be earned by owners, controllers or operators of distribution systems from the provision by them of services that are the subject of a distribution determination.
+26 The regulation of prices (including the tariffs and classes of tariffs) charged or that may be charged by owners, controllers or operators of distribution systems for the provision by them of services that are the subject of a distribution determination.
+26A Principles to be applied, and procedures to be followed, by the AER in exercising or performing an AER economic regulatory function or power relating to the making of a distribution determination.
+26B The assessment, or treatment, by the AER, of investment in distribution systems for the purposes of making a distribution determination.
+26C The economic framework, mechanisms or methodologies to be applied by the AER for the purposes of item 26B.
+26D The economic framework, mechanisms or methodologies to be applied or determined by the AER for the purposes of items 25 and 26 including (without limitation) the economic framework, mechanisms or methodologies to be applied or determined by the AER for the derivation of the revenue (whether maximum allowable revenue or otherwise) or prices to be applied by the AER in making a distribution determination.
+26E The regulatory asset base, for the purposes of making a distribution determination, of assets forming part of a distribution system owned, controlled or operated by a regulated distribution system operator, and of proposed new assets to form part of a distribution system owned, controlled or operated by a regulated distribution system operator, that are, or are to be, used in the provision of services that are the subject of a distribution determination.
+26F The determination by the AER, for the purpose of making a distribution determination with respect to services that are the subject of such a determination, of allowances for—
+(a) depreciation; and
+(b) operating costs of a regulated distribution system operator; and
+(c) if the regulated distribution system operator is a corporation or other body corporate—
+(i) the income tax payable by corporations; or
+(ii) amounts payable under a law of this jurisdiction or otherwise that are equivalent to income tax that would be payable by the operator if that operator were liable to pay income tax; and
+(d) a rate of return on assets forming part of a distribution system owned, controlled or operated by a regulated distribution system operator.
+26G Incentives for regulated distribution system operators to make efficient operating and investment decisions including, where applicable, service performance incentive schemes.
+26H The procedure for the making of a distribution determination by the AER, including—
+(a) the submission to the AER, by a regulated distribution system operator, of a proposal relating to the revenues or prices to be regulated by a distribution determination applying to the operator; and
+(b) the publication of notices by the AER; and
+(c) the making of submissions, including by the regulated distribution system operator to whom the distribution determination will apply; and
+(d) the publication of draft and final determinations and the giving of reasons; and
+(e) the holding of pre-determination conferences.
+Regulatory economic methodologies
+26I The regulatory economic methodologies (including the use of the methodology known as the "building block approach") to be applied by the AER in—
+(a) making a distribution determination or transmission determination; or
+(b) amending a distribution determination or transmission determination; or
+(c) making an access determination.
+26J The methodology known as "total factor productivity"—
+(a) as a regulatory economic methodology to be applied by the AER for the purpose of—
+(i) making a distribution determination or transmission determination; or
+(ii) amending a distribution determination or transmission determination; or
+(iii) making an access determination;
+(b) as an economic regulatory tool to inform and assist the AER in applying, or analysing the application of the regulatory economic methodology known as the "building block approach" by the AER for the purpose of—
+(i) making a distribution determination or transmission determination; or
+(ii) amending a distribution determination or transmission determination; or
+(iii) making an access determination.
+Electricity network services
+26K Terms and conditions for the provision of electricity network services, or any class of electricity network services (including shared transmission services).
+Sale and supply of electricity to retail customers
+26L Credit support arrangements between regulated distribution system operators and retailers, including the financial obligations of regulated distribution system operators and retailers to support the sale and supply of electricity to retail customers.
+26M Charges for the provision of connection services.
+Metering
+27 The metering of electricity to record the production or consumption of electricity.
+28 The registration of metering installations used to meter electricity.
+29 The regulation of persons providing metering services relating to the metering of electricity.
+Disputes in relation to the Rules
+30 Disputes under or in relation to the Rules between persons, including—
+(a) the appointment of persons to arbitrate, mediate or assist in some other way in the resolution of such disputes;
+(b) the appointment of a person to manage and facilitate the dispute resolution process (without however derogating from that person’s power to act personally as an arbitrator or mediator in a particular dispute);
+(c) the procedure for the conduct of such disputes;
+(d) the provision for appeals on questions of law against decisions of persons appointed to resolve such disputes.
+Access disputes
+30A Specification of disputes as access disputes for the purposes of Part 10.
+30B Notification of access disputes for the purposes of Part 10.
+30C Matters or things to be considered or applied by the AER in making an access determination.
+30D Procedure for the hearing of an access dispute under Part 10.
+AEMO
+30E The declared network functions.
+30F The application (with or without modification) of Rules, applicable to network service providers, to regulated transmission system operators, or to AEMO in its capacity as a provider of transmission services.
+National transmission planning
+30G The preparation, revision and publication of the National Transmission Network Development Plan.
+30H The attainment of a national strategic perspective for transmission planning and coordination.
+30I The establishment and maintenance of a database of information relevant to planning the development of the national grid and the provision of public access to the database.
+30J The collection of information required for the preparation or revision of the National Transmission Network Development Plan.
+Energy Consumers Australia
+30K Energy Consumers Australia (including provisions for its funding).
+Miscellaneous
+31 The calculation or estimation of use of electricity.
+32 Procedures and related systems for the electronic exchange or transfer of information that relates to consumers of electricity, the provision of metering services and connection to the national electricity system, and requiring compliance with such procedures and use of such related systems.
+33 Reviews by or on behalf of—
+(a) the AER, the AEMC or AEMO; or
+(b) the Reliability Panel or any other panel or committee established by the AEMC; or
+(c) any other body established, or person appointed, in accordance with the Rules.
+34 The payment of money (including the payment of interest)—
+(a) for the settlement of transactions for electricity or services purchased or supplied through the wholesale exchange operated and administered by AEMO;
+(b) to and from a Rule fund within the meaning of section 55;
+(c) for any service provided under the Rules in respect of which the Rules require payment.
+34A Specification and classification of electricity network services as direct control network services or negotiated network services.
+34B Reporting and disclosing information to the AER.
+34C Consultation by the AER—
+(a) on the making of a general regulatory information order;
+(b) before the preparation of a network service provider performance report.
+35 Confidential information held by Registered participants, the AER, the AEMC, AEMO and other persons or bodies conferred a function, or exercising a power or right, or on whom an obligation is imposed, under the Rules, and the manner and circumstances in which that information may be disclosed.
+36 Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the National Electricity Code as in operation and effect immediately before the commencement of section 12 of the National Electricity (South Australia) (New National Electricity Law) Amendment Act 2005 of South Australia.
+36A Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the superseded jurisdictional rules.
+37 Any matter or thing relating to electricity prescribed by the Regulations.
+Schedule 2—Miscellaneous provisions relating to interpretation
+(section 3)
+Part 1—Preliminary
+1—Displacement of Schedule by contrary intention
+(1) The application of this Schedule to this Law, the Regulations or other statutory instrument (other than the National Electricity Rules) may be displaced, wholly or partly, by a contrary intention appearing in this Law or the Regulations or that statutory instrument.
+(2) The application of this Schedule to the National Electricity Rules (other than clauses 7, 12, 15, 17, 19, 23 to 26 and 31 to 34, 39, 42 and 43 of this Schedule) may be displaced, wholly or partly, by a contrary intention appearing in the National Electricity Rules.
+Part 2—General
+2—Law to be construed not to exceed legislative power of Legislature
+(1) This Law is to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction.
+(2) If a provision of this Law, or the application of a provision of this Law to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction—
+(a) it is a valid provision to the extent to which it is not in excess of the power; and
+(b) the remainder of this Law, and the application of the provision to other persons, subject matters or circumstances, is not affected.
+(3) Without limiting subclause (2), this Law is not to be construed as imposing any duty on the Tribunal or AER to perform a function or exercise a power if the imposition of the duty would be in excess of the legislative power of the Legislature of this jurisdiction.
+Note—
+The term "function" is defined in clause 10 to include "duty".
+(4) In particular, if a provision of this Law appears to impose a duty on the Tribunal or AER to perform a function or exercise a power in matters or circumstances in which the assumption of the duty cannot be validly authorised under the law of the Commonwealth, or is otherwise ineffective, the provision is to be construed as if its operation were expressly confined to—
+(a) acts or omissions of corporations to which section 51(xx) of the Constitution of the Commonwealth applies; or
+(b) acts or omissions taking place in the course of, or in relation to, trade or commerce between this jurisdiction and places outside this jurisdiction (whether within or outside Australia); or
+(c) acts or omissions taking place outside Australia, or in relation to things outside Australia.
+(5) This clause does not limit the effect that a provision of this Law would validly have apart from this clause.
+2A—Changes of drafting practice not to affect meaning
+Differences of language between provisions of this Law or the Rules may be explicable by reference to changes of legislative drafting practice and do not necessarily imply a difference of meaning.
+3—Every section to be substantive enactment
+Every section of this Law has effect as a substantive enactment without introductory words.
+4—Material that is, and is not, part of Law
+(1) The heading to a Chapter, Part, Division or Subdivision into which this Law is divided is part of this Law.
+(2) A Schedule to this Law is part of this Law.
+(3) A heading to a section or subsection of this Law does not form part of this Law.
+(4) A note at the foot of a provision of this Law does not form part of this Law.
+(5) An example (being an example at the foot of a provision of this Law under the heading "Example" or "Examples") does not form part of this Law.
+5—References to particular Acts and to enactments
+In this Law—
+(a) an Act of this jurisdiction may be cited—
+(i) by its short title; or
+(ii) in another way sufficient in an Act of this jurisdiction for the citation of such an Act; and
+(b) a Commonwealth Act may be cited—
+(i) by its short title; or
+(ii) in another way sufficient in a Commonwealth Act for the citation of such an Act,
+together with a reference to the Commonwealth; and
+(c) an Act of another jurisdiction may be cited—
+(i) by its short title; or
+(ii) in another way sufficient in an Act of the jurisdiction for the citation of such an Act,
+together with a reference to the jurisdiction.
+6—References taken to be included in Act or Law citation etc
+(1) A reference in this Law to an Act includes a reference to—
+(a) the Act as originally enacted, and as amended from time to time since its original enactment; and
+(b) if the Act has been repealed and re enacted (with or without modification) since the enactment of the reference, the Act as re enacted, and as amended from time to time since its re enactment.
+(2) A reference in this Law to a provision of this Law or of an Act includes a reference to—
+(a) the provision as originally enacted, and as amended from time to time since its original enactment; and
+(b) if the provision has been omitted and re enacted (with or without modification) since the enactment of the reference, the provision as re enacted, and as amended from time to time since its re enactment.
+(3) Subclause (1) and (2) apply to a reference in this Law to a law of the Commonwealth or another jurisdiction as they apply to a reference in this Law to an Act and to a provision of an Act.
+7—Interpretation best achieving Law's purpose
+(1) In the interpretation of a provision of this Law, the interpretation that will best achieve the purpose or object of this Law is to be preferred to any other interpretation.
+(2) Subclause (1) applies whether or not the purpose is expressly stated in this Law.
+8—Use of extrinsic material in interpretation
+(1) In this clause—
+Law extrinsic material means relevant material not forming part of this Law, including, for example—
+(a) material that is set out in the document containing the text of this Law as printed by authority of the Government Printer of South Australia; and
+(b) a relevant report of a committee of the Legislative Council or House of Assembly of South Australia that was made to the Legislative Council or House of Assembly of South Australia before the provision was enacted; and
+(c) an explanatory note or memorandum relating to the Bill that contained the provision, or any relevant document, that was laid before, or given to the members of, the Legislative Council or House of Assembly of South Australia by the member bringing in the Bill before the provision was enacted; and
+(d) the speech made to the Legislative Council or House of Assembly of South Australia by the member in moving a motion that the Bill be read a second time; and
+(e) material in the Votes and Proceedings of the Legislative Council or House of Assembly of South Australia or in any official record of debates in the Legislative Council or House of Assembly of South Australia; and
+(f) a document that is declared by the Regulations to be a relevant document for the purposes of this clause;
+ordinary meaning means the ordinary meaning conveyed by a provision having regard to its context in this Law and to the purpose of this Law;
+Rule extrinsic material means—
+(a) a draft Rule determination; or
+(b) a final Rule determination; or
+(c) any document (however described)—
+(i) relied on by the AEMC in making a draft Rule determination or final Rule determination; or
+(ii) adopted by the AEMC in making a draft Rule determination or final Rule determination.
+(2) Subject to subclause (3), in the interpretation of a provision of this Law, consideration may be given to Law extrinsic material capable of assisting in the interpretation—
+(a) if the provision is ambiguous or obscure, to provide an interpretation of it; or
+(b) if the ordinary meaning of the provision leads to a result that is manifestly absurd or is unreasonable, to provide an interpretation that avoids such a result; or
+(c) in any other case, to confirm the interpretation conveyed by the ordinary meaning of the provision.
+(2a) Subject to subclause (3), in the interpretation of a provision of the Rules, consideration may be given to Law extrinsic material or Rules extrinsic material capable of assisting in the interpretation—
+(a) if the provision is ambiguous or obscure, to provide an interpretation of it; or
+(b) if the ordinary meaning of the provision leads to a result that is manifestly absurd or is unreasonable, to provide an interpretation that avoids such a result; or
+(c) in any other case, to confirm the interpretation conveyed by the ordinary meaning of the provision.
+(3) In determining whether consideration should be given to Law extrinsic material or Rule extrinsic material, and in determining the weight to be given to Law extrinsic material or Rule extrinsic material, regard is to be had to—
+(a) the desirability of a provision being interpreted as having its ordinary meaning; and
+(b) the undesirability of prolonging proceedings without compensating advantage; and
+(c) other relevant matters.
+9—Compliance with forms
+(1) If a form is prescribed or approved by or for the purpose of this Law, strict compliance with the form is not necessary and substantial compliance is sufficient.
+(2) If a form prescribed or approved by or for the purpose of this Law requires—
+(a) the form to be completed in a specified way; or
+(b) specified information or documents to be included in, attached to or given with the form; or
+(c) the form, or information or documents included in, attached to or given with the form, to be verified in a specified way,
+the form is not properly completed unless the requirement is complied with.
+Part 3—Terms and references
+10—Definitions
+In this Law—
+Act means an Act of the Legislature of this jurisdiction;
+affidavit, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise;
+amend includes—
+(a) omit or omit and substitute; or
+(b) alter or vary; or
+(c) amend by implication;
+appoint includes re appoint;
+breach includes fail to comply with;
+business day means a day that is not—
+(a) a Saturday or Sunday;
+(b) observed as a public holiday on the same day in each of the participating jurisdictions (except the Commonwealth);
+calendar month means a period starting at the beginning of any day of one of the 12 named months and ending—
+(a) immediately before the beginning of the corresponding day of the next named month; or
+(b) if there is no such corresponding day, at the end of the next named month;
+calendar year means a period of 12 months beginning on 1 January;
+commencement, in relation to this Law or an Act or a provision of this Law or an Act, means the time at which this Law, the Act or provision comes into operation;
+confer, in relation to a function, includes impose;
+contravene includes fail to comply with;
+definition means a provision of this Law (however expressed) that—
+(a) gives a meaning to a word or expression; or
+(b) limits or extends the meaning of a word or expression;
+document includes—
+(a) any paper or other material on which there is writing; or
+(b) any paper or other material on which there are marks, figures, symbols or perforations having a meaning for a person qualified to interpret them; or
+(c) any disc, tape or other article or any material from which sounds, images, writings or messages are capable of being reproduced (with or without the aid of another article or device);
+estate includes easement, charge, right, title, claim, demand, lien or encumbrance, whether at law or in equity;
+expire includes lapse or otherwise cease to have effect;
+fail includes refuse;
+financial year means a period of 12 months beginning on 1 July;
+function includes duty;
+Gazette means the Government Gazette of this jurisdiction;
+instrument includes a statutory instrument;
+interest, in relation to land or other property, means—
+(a) a legal or equitable estate in the land or other property; or
+(b) a right, power or privilege over, or in relation to, the land or other property;
+make includes—
+(a) issue or grant; and
+(b) revoke and substitute;
+minor means an individual who is under 18;
+modification includes addition, omission or substitution;
+month means a calendar month;
+named month means one of the 12 months of the year;
+number means—
+(a) a number expressed in figures or words; or
+(b) a letter; or
+(c) a combination of a number so expressed and a letter;
+oath, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration or promise;
+office includes position;
+omit, in relation to a provision of this Law or an Act, includes repeal;
+party includes a body politic or body corporate as well as an individual;
+penalty includes a civil penalty, forfeiture or punishment;
+person includes a body politic or body corporate as well as an individual;
+power includes authority;
+prescribed means prescribed by the Regulations;
+printed includes typewritten, lithographed or reproduced by any mechanical means;
+proceeding means a legal or other action or proceeding;
+property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes things in action;
+provision, in relation to this Law or an Act, means words or other matter that form or forms part of this Law or the Act, and includes—
+(a) a Part, Division, Subdivision, section, subsection, paragraph, subparagraph, subsubparagraph or Schedule of or to this Law or the Act; or
+(b) a section, clause, subclause, item, column, table or form of or in a Schedule to this Law or the Act; or
+(c) the long title and any preamble to the Act;
+record includes information stored or recorded by means of a computer;
+repeal includes—
+(a) revoke or rescind; or
+(b) repeal by implication; or
+(c) abrogate or limit the effect of the law or instrument concerned; or
+(d) exclude from, or include in, the application of the law or instrument concerned, any person, subject matter or circumstance;
+sign includes the affixing of a seal or the making of a mark;
+statutory declaration means a declaration made under an Act, or under a Commonwealth Act or an Act of another jurisdiction, that authorises a declaration to be made otherwise than in the course of a judicial proceeding;
+statutory instrument means the Regulations or an instrument made or in force under this Law;
+swear, in relation to a person allowed by law to affirm, declare or promise, includes affirm, declare or promise;
+word includes any symbol, figure or drawing;
+writing includes any mode of representing or reproducing words in a visible form.
+11—Provisions relating to defined terms and gender and number
+(1) If this Law defines a word or expression, other parts of speech and grammatical forms of the word or expression have corresponding meanings.
+(2) Definitions in or applicable to this Law apply except so far as the context or subject matter otherwise indicates or requires.
+(3) In this Law, words indicating a gender include each other gender.
+(4) In this Law—
+(a) words in the singular include the plural; and
+(b) words in the plural include the singular.
+12—Meaning of may and must etc
+(1) In this Law, the word "may", or a similar word or expression, used in relation to a power indicates that the power may be exercised or not exercised, at discretion.
+(2) In this Law, the word "must", or a similar word or expression, used in relation to a power indicates that the power is required to be exercised.
+(3) This clause has effect despite any rule of construction to the contrary.
+13—Words and expressions used in statutory instruments
+(1) Words and expressions used in a statutory instrument have the same meanings as they have, from time to time, in this Law, or relevant provisions of this Law, under or for the purposes of which the instrument is made or in force.
+(2) This clause has effect in relation to an instrument except so far as the contrary intention appears in the instrument.
+14—References to Minister
+(1) In this Law—
+(a) a reference to a Minister is a reference to a Minister of the Crown of this jurisdiction; and
+(b) a reference to a particular Minister by title, or to "the Minister" without specifying a particular Minister by title, includes a reference to another Minister, or a member of the Executive Council of this jurisdiction, who is acting for and on behalf of the Minister.
+(2) In a provision of this Law, a reference to "the Minister", without specifying a particular Minister by title is a reference to—
+(a) the Minister of this jurisdiction administering the provision; or
+(b) if, for the time being, different Ministers of this jurisdiction administer the provision in relation to different matters—
+(i) if only one Minister of this jurisdiction administers the provision in relation to the relevant matter, the Minister; or
+(ii) if two or more Ministers of this jurisdiction administer the provision in relation to the relevant matter, any one of those Ministers; or
+(c) if paragraph (b) does not apply and, for the time being, two or more Ministers administer the provision, any one of the Ministers.
+(3) For the removal of doubt, it is declared that if—
+(a) a provision of this Law is administered by two or more Ministers of this jurisdiction; and
+(b) the provision requires or permits anything to be done in relation to any of the Ministers,
+the provision does not require or permit it to be done in a particular case by or in relation to more than one of the Ministers.
+15—Production of records kept in computers etc
+If a person who keeps a record of information by means of a mechanical, electronic or other device is required by or under this Law—
+(a) to produce the information or a document containing the information to a court, tribunal or person; or
+(b) to make a document containing the information available for inspection by a court, tribunal or person,
+then, unless the court, tribunal or person otherwise directs—
+(c) the requirement obliges the person to produce or make available for inspection, as the case may be, a document that reproduces the information in a form capable of being understood by the court, tribunal or person; and
+(d) the production to the court, tribunal or person of the document in that form complies with the requirement.
+16—References to this jurisdiction to be implied
+In this Law—
+(a) a reference to an officer, office or statutory body is a reference to such an officer, office or statutory body in and for this jurisdiction; and
+(b) a reference to a locality or other matter or thing is a reference to such a locality or other matter or thing in and of this jurisdiction.
+17—References to officers and holders of offices
+In this Law, a reference to a particular officer, or to the holder of a particular office, includes a reference to the person for the time being occupying or acting in the office concerned.
+18—Reference to certain provisions of Law
+If a provision of this Law refers—
+(a) to a Chapter, Part, section or Schedule by a number and without reference to this Law, the reference is a reference to the Chapter, Part, section or Schedule, designated by the number, of or to this Law; or
+(b) to a Schedule without reference to it by a number and without reference to this Law, the reference, if there is only one Schedule to this Law, is a reference to the Schedule; or
+(c) to a Division, Subdivision, subsection, paragraph, subparagraph, subsubparagraph, clause, subclause, item, column, table or form by a number and without reference to this Law, the reference is a reference to—
+(i) the Division, designated by the number, of the Part in which the reference occurs; and
+(ii) the Subdivision, designated by the number, of the Division in which the reference occurs; and
+(iii) the subsection, designated by the number, of the section in which the reference occurs; and
+(iv) the paragraph, designated by the number, of the section, subsection, Schedule or other provision in which the reference occurs; and
+(v) the paragraph, designated by the number, of the clause, subclause, item, column, table or form of or in the Schedule in which the reference occurs; and
+(vi) the subparagraph, designated by the number, of the paragraph in which the reference occurs; and
+(vii) the subsubparagraph, designated by the number, of the subparagraph in which the reference occurs; and
+(viii) the section, clause, subclause, item, column, table or form, designated by the number, of or in the Schedule in which the reference occurs,
+as the case requires.
+Part 4—Functions and powers
+19—Performance of statutory functions
+(1) If this Law confers a function or power on a person or body, the function may be performed, or the power may be exercised, from time to time as occasion requires.
+(2) If this Law confers a function or power on a particular officer or the holder of a particular office, the function may be performed, or the power may be exercised, by the person for the time being occupying or acting in the office concerned.
+(3) If this Law confers a function or power on a body (whether or not incorporated), the performance of the function, or the exercise of the power, is not affected merely because of vacancies in the membership of the body.
+20—Power to make instrument or decision includes power to amend or repeal
+If this Law authorises or requires the making of an instrument, decision or determination—
+(a) the power includes power to amend or repeal the instrument, decision or determination; and
+(b) the power to amend or repeal the instrument, decision or determination is exercisable in the same way, and subject to the same conditions, as the power to make the instrument, decision or determination.
+21—Matters for which statutory instruments may make provision
+(1) If this Law authorises or requires the making of a statutory instrument in relation to a matter, a statutory instrument made under this Law may make provision for the matter by applying, adopting or incorporating (with or without modification) the provisions of—
+(a) an Act or statutory instrument; or
+(b) another document (whether of the same or a different kind),
+as in force at a particular time or as in force from time to time.
+(2) If a statutory instrument applies, adopts or incorporates the provisions of a document, the statutory instrument applies, adopts or incorporates the provisions as in force from time to time, unless the statutory instrument otherwise expressly provides.
+(3) A statutory instrument may—
+(a) be of general or limited application;
+(b) vary according to the persons, times, places or circumstances to which it is expressed to apply.
+(4) A statutory instrument may authorise a matter or thing to be from time to time determined, applied or regulated by a specified person or body.
+(5) If this Law authorises or requires a matter to be regulated by statutory instrument, the power may be exercised by prohibiting by statutory instrument the matter or any aspect of the matter.
+(6) If this Law authorises or requires provision to be made with respect to a matter by statutory instrument, a statutory instrument made under this Law may make provision with respect to a particular aspect of the matter despite the fact that provision is made by this Law in relation to another aspect of the matter or in relation to another matter.
+(7) A statutory instrument may provide for the review of, or a right of appeal against, a decision made under the statutory instrument, or this Law, and may, for that purpose, confer jurisdiction on any court, tribunal, person or body.
+(8) A statutory instrument may require a form prescribed by or under the statutory instrument, or information or documents included in, attached to or given with the form, to be verified by statutory declaration.
+(9) In this clause—
+statutory instrument does not include the National Electricity Rules.
+22—Presumption of validity and power to make
+(1) All conditions and preliminary steps required for the making of a statutory instrument are presumed to have been satisfied and performed in the absence of evidence to the contrary.
+(2) A statutory instrument is taken to be made under all powers under which it may be made, even though it purports to be made under this Law or a particular provision of this Law.
+23—Appointments may be made by name or office
+(1) If this Law authorises or requires a person or body—
+(a) to appoint a person to an office; or
+(b) to appoint a person or body to exercise a power; or
+(c) to appoint a person or body to do another thing,
+the person or body may make the appointment by—
+(d) appointing a person or body by name; or
+(e) appointing a particular officer, or the holder of a particular office, by reference to the title of the office concerned.
+(2) An appointment of a particular officer, or the holder of a particular office, is taken to be the appointment of the person for the time being occupying or acting in the office concerned.
+24—Acting appointments
+(1) If this Law authorises a person or body to appoint a person to act in an office, the person or body may, in accordance with this Law, appoint—
+(a) a person by name; or
+(b) a particular officer, or the holder of a particular office, by reference to the title of the office concerned,
+to act in the office.
+(2) The appointment may be expressed to have effect only in the circumstances specified in the instrument of appointment.
+(3) The appointer may—
+(a) determine the terms and conditions of the appointment, including remuneration and allowances; and
+(b) terminate the appointment at any time.
+(4) The appointment, or the termination of the appointment, must be in, or evidenced by, writing signed by the appointer.
+(5) The appointee must not act for more than one year during a vacancy in the office.
+(6) If the appointee is acting in the office otherwise than because of a vacancy in the office and the office becomes vacant, then, subject to subclause (2), the appointee may continue to act until—
+(a) the appointer otherwise directs; or
+(b) the vacancy is filled; or
+(c) the end of a year from the day of the vacancy,
+whichever happens first.
+(7) The appointment ceases to have effect if the appointee resigns by writing signed and delivered to the appointer.
+(8) While the appointee is acting in the office—
+(a) the appointee has all the powers and functions of the holder of the office; and
+(b) this Law and other laws apply to the appointee as if the appointee were the holder of the office.
+(9) Anything done by or in relation to a person purporting to act in the office is not invalid merely because—
+(a) the occasion for the appointment had not arisen; or
+(b) the appointment had ceased to have effect; or
+(c) the occasion for the person to act had not arisen or had ceased.
+(10) If this Law authorises the appointer to appoint a person to act during a vacancy in the office, an appointment to act in the office may be made by the appointer whether or not an appointment has previously been made to the office.
+25—Powers of appointment imply certain incidental powers
+(1) If this Law authorises or requires a person or body to appoint a person to an office—
+(a) the power may be exercised from time to time as occasion requires; and
+(b) the power includes—
+(i) power to remove or suspend, at any time, a person appointed to the office; and
+(ii) power to appoint another person to act in the office if a person appointed to the office is removed or suspended; and
+(iii) power to reinstate or reappoint a person removed or suspended; and
+(iv) power to appoint a person to act in the office if it is vacant (whether or not the office has ever been filled); and
+(v) power to appoint a person to act in the office if the person appointed to the office is absent or is unable to discharge the functions of the office (whether because of illness or otherwise).
+(2) The power to remove or suspend a person under subclause (1)(b) may be exercised even if this Law provides that the holder of the office to which the person was appointed is to hold office for a specified period.
+(3) The power to make an appointment under subclause (1)(b) may be exercised from time to time as occasion requires.
+(4) An appointment under subclause (1)(b) may be expressed to have effect only in the circumstances specified in the instrument of appointment.
+26—Delegation
+(1) If this Law authorises a person to delegate a function or power, the person may, in accordance with this Law, delegate the power to—
+(a) a person by name; or
+(b) a particular officer, or the holder of a particular office, by reference to the title of the office concerned.
+(2) The delegation—
+(a) may be general or limited; and
+(b) may be made from time to time; and
+(c) may be revoked, wholly or partly, by the delegator.
+(3) The delegation, or a revocation of the delegation, must be in, or evidenced by, writing signed by the delegator or if the delegator is a body corporate, by a person authorised by the body corporate for the purpose.
+(4) A delegated function or power may be exercised only in accordance with any conditions to which the delegation is subject.
+(5) The delegate may, in the exercise of a delegated function or power, do anything that is incidental to the delegated function or power.
+(6) A delegated function or power that purports to have been exercised by the delegate is taken to have been duly exercised by the delegate unless the contrary is proved.
+(7) A delegated function or power that is duly exercised by the delegate is taken to have been exercised by the delegator.
+(8) If, when exercised by the delegator, a function or power is, under this Law, dependent on the delegator's opinion, belief or state of mind in relation to a matter, the function or power, when exercised by the delegate, is dependent on the delegate's opinion, belief or state of mind in relation to the matter.
+(9) If a function or power is delegated to a particular officer or the holder of a particular office—
+(a) the delegation does not cease to have effect merely because the person who was the particular officer or the holder of the particular office when the power was delegated ceases to be the officer or the holder of the office; and
+(b) the function or power may be exercised by the person for the time being occupying or acting in the office concerned.
+(10) A function or power that has been delegated may, despite the delegation, be exercised by the delegator.
+27—Exercise of powers between enactment and commencement
+(1) If a provision of this Law (the "empowering provision") that does not commence on its enactment would, had it commenced, confer a power—
+(a) to make an appointment; or
+(b) to make a statutory instrument of a legislative or administrative character; or
+(c) to do another thing,
+then—
+(d) the power may be exercised; and
+(e) anything may be done for the purpose of enabling the exercise of the power or of bringing the appointment, instrument or other thing into effect,
+before the empowering provision commences.
+(2) If a provision of an Act of South Australia (the "empowering provision") that does not commence on its enactment would, had it commenced, amend a provision of this Law so that it would confer a power—
+(a) to make an appointment; or
+(b) to make a statutory instrument of a legislative or administrative character; or
+(c) to do another thing,
+then—
+(d) the power may be exercised; and
+(e) anything may be done for the purpose of enabling the exercise of the power or of bringing the appointment, instrument or other thing into effect,
+before the empowering provision commences.
+(3) If—
+(a) this Law has commenced and confers a power to make a statutory instrument (the "basic instrument making power"); and
+(b) a provision of an Act of South Australia that does not commence on its enactment would, had it commenced, amend this Law so as to confer additional power to make a statutory instrument (the "additional instrument making power"),
+then—
+(c) the basic instrument making power and the additional instrument making power may be exercised by making a single instrument; and
+(d) any provision of the instrument that required an exercise of the additional instrument making power is to be treated as made under subclause (2).
+(4) If an instrument, or a provision of an instrument, is made under subclause (1) or (2) that is necessary for the purpose of—
+(a) enabling the exercise of a power mentioned in the subclause; or
+(b) bringing an appointment, instrument or other thing made or done under such a power into effect,
+the instrument or provision takes effect—
+(c) on the making of the instrument; or
+(d) on such later day (if any) on which, or at such later time (if any) at which, the instrument or provision is expressed to take effect.
+(5) If—
+(a) an appointment is made under subclause (1) or (2); or
+(b) an instrument, or a provision of an instrument, made under subclause (1) or (2) is not necessary for a purpose mentioned in subclause (4),
+the appointment, instrument or provision takes effect—
+(c) on the commencement of the relevant empowering provision; or
+(d) on such later day (if any) on which, or at such later time (if any) at which, the appointment, instrument or provision is expressed to take effect.
+(6) Anything done under subclause (1) or (2) does not confer a right, or impose a liability, on a person before the relevant empowering provision commences.
+(7) After the enactment of a provision mentioned in subclause (2) but before the provision's commencement, this clause applies as if the references in subclause (2) and (5) to the commencement of the empowering provision were references to the commencement of the provision mentioned in subclause (2) as amended by the empowering provision.
+(8) In the application of this clause to a statutory instrument, a reference to the enactment of the instrument is a reference to the making of the instrument.
+Part 5—Distance and time
+28—Matters relating to distance and time
+(1) In the measurement of distance for the purposes of this Law, the distance is to be measured along the shortest road ordinarily used for travelling.
+(2) If a period beginning on a given day, act or event is provided or allowed for a purpose by this Law, the period is to be calculated by excluding the day, or the day of the act or event, and—
+(a) if the period is expressed to be a specified number of clear days or at least a specified number of days, by excluding the day on which the purpose is to be fulfilled; and
+(b) in any other case, by including the day on which the purpose is to be fulfilled.
+(3) If the last day of a period provided or allowed by this Law for doing anything is not a business day in the place in which the thing is to be or may be done, the thing may be done on the next business day in the place.
+(4) If the last day of a period provided or allowed by this Law for the filing or registration of a document is a day on which the office is closed where the filing or registration is to be or may be done, the document may be filed or registered at the office on the next day that the office is open.
+(5) If no time is provided or allowed for doing anything, the thing is to be done as soon as possible, and as often as the prescribed occasion happens.
+(6) If, in this Law, there is a reference to time, the reference is, in relation to the doing of anything in a jurisdiction, a reference to the legal time in the jurisdiction.
+Part 6—Service of documents
+29—Service of documents and meaning of service by post etc
+(1) If this Law requires or permits a document to be served on a person (whether the expression "deliver", "give", "notify", "send" or "serve" or another expression is used), the document may be served—
+(a) on a natural person—
+(i) by delivering it to the person personally; or
+(ii) by leaving it at, or by sending it by post, facsimile or similar facility to the last known address of the place of residence or usual place of business of the person; or
+(iii) by sending it electronically to that person; or
+(b) on a body corporate—
+(i) by leaving it at the registered office or usual place of business of the body corporate with an officer of the body corporate; or
+(ii) by sending it by post, facsimile or similar facility to its registered office or its usual place of business; or
+(iii) by sending it electronically to that body corporate or an officer of the body corporate.
+(2) Nothing in subclause (1)—
+(a) affects the operation of another law that authorises the service of a document otherwise than as provided in the subclause; or
+(b) affects the power of a court or tribunal to authorise service of a document otherwise than as provided in the subclause.
+30—Meaning of service by post etc
+(1) If this Law requires or permits a document to be served by post (whether the expression "deliver", "give", "notify", "send" or "serve" or another expression is used), service—
+(a) may be effected by properly addressing, prepaying and posting the document as a letter; and
+(b) is taken to have been effected at the time at which the letter would be delivered in the ordinary course of post, unless the contrary is proved.
+(2) If this Law requires or permits a document to be served by a particular postal method (whether the expression "deliver", "give", "notify", "send" or "serve" or another expression is used), the requirement or permission is taken to be satisfied if the document is posted by that method or, if that method is not available, by the equivalent, or nearest equivalent, method provided for the time being by Australia Post.
+Part 6A—Evidentiary matters
+Division 1—Publication on websites
+31AA—Definitions
+In this Division—
+relevant AER decision means a decision (however described) or determination (however described) of the AER under this Law or the Rules;
+relevant notice means a notice under the Rules calling for submissions or comments in relation to a relevant decision.
+31AB—Publication of relevant AER decisions on websites
+(1) For the purposes of this Law, a relevant AER decision or relevant notice that is required by this Law or the Rules to be published on a website is to be taken to be published on the website if—
+(a) the relevant AER decision or relevant notice is made accessible in full on the website; or
+(b) notice of the making or publication of the AER relevant decision or relevant notice is made accessible on that website and the relevant AER decision or relevant notice is made accessible separately in full on that website or in any other identified location.
+(2) The date on which the relevant AER decision or relevant notice is published on the website is the date notified by the AER on the website as the date of the relevant AER decision's or relevant notice's publication (being not earlier than the date on which it was first made so accessible).
+Division 2—Evidentiary certificates
+31AC—Definitions
+In this Division—
+acting SES employee has the same meaning as in section 17AA of the Acts Interpretation Act 1901 of the Commonwealth;
+AEMC chief executive means the chief executive of the AEMC appointed under section 16 of the Australian Energy Market Commission Establishment Act 2004 of South Australia;
+AEMC Commissioner means a Commissioner within the meaning of the Australian Energy Market Commission Establishment Act 2004 of South Australia;
+AER member has the same meaning as in the Competition and Consumer Act 2010 of the Commonwealth;
+relevant notice has the same meaning as in clause 31AA;
+SES employee has the same meaning as in section 17AA of the Acts Interpretation Act 1901 of the Commonwealth.
+31AD—Evidentiary certificates—AER
+In any proceedings under this Law, a certificate signed or purported to be signed by an AER member, or an SES employee or acting SES employee assisting the AER as mentioned in section 44AAC of the Competition and Consumer Act 2010 of the Commonwealth, stating any of the following matters is evidence of the matter:
+(a) a stated document is 1 of the following things made, issued, developed, prepared, promulgated, served, sent, delivered or given under this Law or the Rules:
+(i) a decision (however described) or determination (however described);
+(ii) an authorisation under section 20;
+(iii) a general regulatory information order;
+(iv) a notice, notification, direction or requirement;
+(b) a stated document is a copy of a thing referred to in paragraph (a);
+(c) on a stated day, a person was or was not—
+(i) given a decision (however described) or determination (however described);
+(ii) authorised as an authorised person (within the meaning of section 19);
+(iii) served a notice under section 28 or a regulatory information notice;
+(iv) notified under section 28J;
+(d) on a stated day any of the following were published on the AER's website:
+(i) a decision (however described) or determination (however described);
+(ii) a general regulatory information order;
+(iii) a relevant notice.
+31AE—Evidentiary certificates—AEMC
+In any proceedings under this Law, a certificate signed or purported to be signed by a Commissioner or the AEMC chief executive, stating any of the following matters is evidence of the matter:
+(a) a stated document is 1 of the following things made, issued, developed, prepared, promulgated, served, sent, delivered or given under this Law or the Rules:
+(i) a decision (however described); or
+(ii) a determination (however described);
+(b) a stated document is a copy of a thing referred to in paragraph (a);
+(c) on a stated day a person was or was not given a decision (however described) or determination (however described);
+(d) on a stated day a relevant notice was published on the AEMC's website.
+31AF—Evidentiary certificates—AEMO
+(1) In any proceedings under this Law, any of the following certificates signed or purportedly signed by an authorised officer is evidence of the matter certified:
+(a) a certificate certifying that a document identified in the certificate is a decision (however described) or a determination (however described) made by AEMO or a copy of such a decision or determination;
+(b) a certificate certifying that a document identified in the certificate was made, issued, developed, prepared, promulgated, served, sent, delivered, or given under this Law or the Rules on a specified date or over a specified period;
+(c) a certificate certifying that a decision, determination or notice was published on AEMO’s website on a specified date.
+(2) For this clause, an authorised officer is AEMO’s CEO or a person authorised by AEMO’s CEO to issue certificates under this clause.
+Note—
+There is no clause 31AG.
+Part 6B—Commencement of this Law and Statutory instruments
+31AH—Time of commencement of this Law or a provision of this Law
+If a provision of an Act of South Australia provides that this Law or a provision of this Law shall commence, or be deemed to have commenced, on a particular day, it shall commence, or be deemed to have commenced, at the beginning of that day.
+31AI—Time of commencement of a Rule
+(1) If a Rule provides that the Rule shall commence on a particular day, it shall commence at the beginning of that day.
+(2) If a provision of an Act of South Australia provides that a Rule is deemed to have commenced on a particular day, the Rule shall be deemed to have commenced at the beginning of that day.
+(3) If a notice published in the South Australian Government Gazette under Division 2 of Part 7 or section 104 provides that a Rule shall commence on a particular day, the Rule shall commence at the beginning of that day.
+Part 7—Effect of repeal, amendment or expiration
+31—Time of Law, the Regulations or Rules ceasing to have effect
+If a provision of this Law, the Regulations or the Rules is expressed—
+(a) to expire on a specified day; or
+(b) to remain or continue in force, or otherwise have effect, until a specified day,
+the provision has effect until the last moment of the specified day.
+32—Repealed Law, Regulation or Rule provisions not revived
+(1) If a provision of this Law is repealed or amended by an Act of South Australia or a provision of an Act of South Australia, the provision is not revived merely because the Act or the provision of the Act—
+(a) is later repealed or amended; or
+(b) later expires.
+(2) If a provision of the Regulations or the Rules is repealed or amended by a Regulation or a Rule, the provision is not revived merely because the Regulation or Rule—
+(a) is later repealed or amended; or
+(b) later expires.
+33—Saving of operation of repealed Law, Regulation or Rule provisions
+(1) The repeal, amendment or expiry of a provision of this Law, the Regulations or the Rules does not—
+(a) revive anything not in force or existing at the time the repeal, amendment or expiry takes effect; or
+(b) affect the previous operation of the provision or anything suffered, done or begun under the provision; or
+(c) affect a right, privilege or liability acquired, accrued or incurred under the provision; or
+(d) affect a penalty incurred in relation to an offence arising under the provision; or
+(e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
+(2) Any such penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced, as if the provision had not been repealed or amended or had not expired.
+34—Continuance of repealed provisions
+(1) If an Act of South Australia repeals some provisions of this Law and enacts new provisions in substitution for the repealed provisions, the repealed provisions continue in force until the new provisions commence.
+(2) If a Regulation or Rule repeals some provisions of the Regulations or Rules and enacts new provisions in substitution for the repealed provisions, the repealed provisions continue in force until the new provisions commence.
+35—Law and amending Acts to be read as one
+This Law and all Acts of this jurisdiction amending this Law are to be read as one.
+Part 8—Offences under this Law
+36—Penalty at end of provision
+In this Law, a penalty specified at the end of—
+(a) a section (whether or not the section is divided into subsections); or
+(b) a subsection (but not at the end of a section); or
+(c) a section or subsection and expressed in such a way as to indicate that it applies only to part of the section or subsection,
+indicates that an offence mentioned in the section, subsection or part is punishable on conviction or, if no offence is mentioned, a contravention of the section, subsection or part constitutes an offence against the provision that is punishable, on conviction, by a penalty not more than the specified penalty.
+37—Penalty other than at end of provision
+(1) In this Law, a penalty specified for an offence, or a contravention of a provision, indicates that the offence is punishable on conviction, or the contravention constitutes an offence against the provision that is punishable, on conviction, by a penalty not more than the specified penalty.
+(2) This clause does not apply to a penalty to which clause 36 applies.
+38—Indictable offences and summary offences
+(1) An offence against this Law that is not punishable by imprisonment is punishable summarily.
+(2) An offence against this Law that is punishable by imprisonment is, subject to subclause (3), punishable on indictment.
+(3) If—
+(a) a proceeding for an offence against this Law that is punishable by imprisonment is instituted in a court of summary jurisdiction; and
+(b) the prosecutor requests the court to hear and determine the proceeding,
+the offence is punishable summarily and the court must hear and determine the proceeding.
+(4) A court of summary jurisdiction must not—
+(a) impose, in relation to a single offence against this Law, a period of imprisonment of more than two years; or
+(b) impose, in relation to offences against the Law, cumulative periods of imprisonment that are, in total, more than five years.
+(5) Nothing in this clause renders a person liable to be punished more than once in relation to the same offence.
+39—Double jeopardy
+(1) If an act or omission constitutes an offence—
+(a) under this Law as applied as a law of this jurisdiction; and
+(b) under this Law as applied as a law of another jurisdiction,
+and the offender has been punished in relation to the offence under the law mentioned in paragraph (b), the offender is not liable to be punished in relation to the offence mentioned in paragraph (a).
+(2) If an act or omission constitutes—
+(a) a breach of a civil penalty provision of this Law as applied as a law of this jurisdiction; and
+(b) a breach of a civil penalty provision of this Law as applied as a law of another jurisdiction,
+and the person in breach of the civil penalty provision mentioned in paragraph (a) has been punished in relation to the civil penalty provision mentioned in paragraph (b), the person is not liable in relation to the breach of the civil penalty provision mentioned in paragraph (a).
+(3) The Court must not make a declaration that a person is in breach of a provision of this Law, the Regulations or the Rules that is not an offence provision if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the breach.
+(4) Proceedings for a declaration referred to in subclause (3) are stayed if—
+(a) criminal proceedings are commenced or have already been commenced against the person for an offence; and
+(b) the offence is constituted by conduct that is substantially the same as the conduct alleged to constitute the breach.
+(5) The proceedings for the declaration referred to in subclause (3) may be resumed if the person is not convicted of the offence. Otherwise, the proceedings for the declaration must be dismissed.
+(6) In this clause—
+civil penalty provision has the same meaning as in section 2AA(1).
+40—Aiding and abetting, attempts etc
+(1) A person who aids, abets, counsels or procures, or by act or omission is in any way directly or indirectly concerned in or a party to, the commission of an offence against this Law is taken to have committed that offence and is liable to the penalty for the offence.
+(2) A person who attempts to commit an offence against this Law commits an offence and is punishable as if the attempted offence had been committed.
+Part 9—Instruments under this Law
+41—Schedule applies to statutory instruments
+(1) This Schedule applies to a statutory instrument, and to things that may be done or are required to be done under a statutory instrument, in the same way as it applies to this Law, and things that may be done or are required to be done under this Law, except so far as the context or subject matter otherwise indicates or requires.
+(2) The fact that a provision of this Schedule refers to this Law and not also to a statutory instrument does not, by itself, indicate that the provision is intended to apply only to this Law.
+(3) In this clause—
+statutory instrument includes the Regulations or the Rules.
+42—National Electricity Rules to be construed so as not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
+(1) The National Electricity Rules are to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which they are made.
+(2) If a provision of the National Electricity Rules, or the application of a provision of the National Electricity Rules to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made—
+(a) it is a valid provision to the extent to which it is not in excess of the power; and
+(b) the remainder of the National Electricity Rules, and the application of the provision to other persons, subject matters or circumstances, is not affected.
+(3) Without limiting subclause (2), the National Electricity Rules are not to be construed as imposing any duty on the Tribunal or AER to perform a function or exercise a power if the imposition of the duty would be in excess of the legislative power of the Legislature of this jurisdiction.
+Note—
+The term "function" is defined in clause 10 to include "duty".
+(4) In particular, if a provision of the National Electricity Rules appears to impose a duty on the Tribunal or AER to perform a function or exercise a power in matters or circumstances in which the assumption of the duty cannot be validly authorised under the law of the Commonwealth, or is otherwise ineffective, the provision is to be construed as if its operation were expressly confined to—
+(a) acts or omissions of corporations to which section 51(xx) of the Constitution of the Commonwealth applies; or
+(b) acts or omissions taking place in the course of, or in relation to, trade or commerce between this jurisdiction and places outside this jurisdiction (whether within or outside Australia); or
+(c) acts or omissions taking place outside Australia, or in relation to things outside Australia.
+(5) This clause does not limit the effect that a provision of the National Electricity Rules, or the provision of this Law under which it is made, would validly have apart from this clause.
+43—Invalid Rules
+(1) If the Court orders (by declaration or otherwise) that a Rule is invalid, the order of the Court does not—
+(a) revive anything not in force or existing at the time of the order of the Court; or
+(b) affect the previous operation of the Rule or anything suffered, done or begun under the Rule; or
+(c) affect a right, privilege or liability acquired, accrued or incurred under the Rule; or
+(d) affect a penalty arising because of a breach of the Rule; or
+(e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
+(2) A penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced as if the Rule had not been ordered by the Court as invalid.
+Schedule 3—Savings and transitionals
+(section 4)
+Part 1—General
+1—Definitions
+In this Schedule—
+ACCC means the Australian Competition and Consumer Commission established by section 6A of the Competition and Consumer Act 2010 of the Commonwealth;
+Code participant has the same meaning as in section 3 of the old National Electricity Law;
+commencement day means the day on which section 12 of the South Australian amending Act comes into operation;
+NECA means National Electricity Code Administrator Limited ACN 073 942 775;
+new commencement day means the day on which section 88 of the National Electricity (South Australia) (National Electricity Law—Miscellaneous Amendments) Amendment Act 2007 of South Australia comes into operation;
+South Australian amending Act means the National Electricity (South Australia) (New National Electricity Law) Amendment Act 2005 of South Australia.
+Note—
+The Regulations may also contain provisions of an application, savings or transitional nature.
+Part 2—General savings provision
+2—Saving of operation of old National Electricity Law
+(1) Subject to this Schedule, the repeal of the old National Electricity Law does not—
+(a) revive anything not in force or existing at the time the repeal takes effect; or
+(b) affect the previous operation of the old National Electricity Law or anything suffered, done or begun under or in accordance with the old National Electricity Law; or
+(c) affect a right, privilege or liability acquired, accrued or incurred under the old National Electricity Law; or
+(d) affect a penalty incurred in relation to an offence arising under the old National Electricity Law or penalty incurred in relation to a breach of a provision of the National Electricity Code; or
+(e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
+(2) Subject to this Schedule, any such penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced, as if the old National Electricity Law had not been repealed.
+Note—
+The substitution of a Schedule to an Act repeals the Schedule.
+Part 3—National Electricity Code changes
+3—Current Code change and derogation proposals to be dealt with under this Law
+(1) In this clause—
+current Code change proposal means a proposed change to the National Electricity Code—
+(a) that is not a derogation; and
+(b) that NECA has not adopted and implemented in accordance with the National Electricity Code as at the commencement day;
+current Code derogation proposal means an application for a derogation, or request for an extension of the period for which a derogation has been granted, that NECA has not granted in accordance with the National Electricity Code as at the commencement day;
+derogation has the same meaning as in Chapter 10 of the National Electricity Code;
+interested party means—
+(a) a Code participant; or
+(b) a person who is an interested party within the meaning of the National Electricity Code;
+relevant Code change step means a requirement under the National Electricity Code that must be complied with for the purpose of—
+(a) making a change to the National Electricity Code; or
+(b) making a derogation or extending the period for which a derogation has been granted;
+relevant Rule-making step means a requirement under a provision of Part 7 of this Law that the AEMC must comply with in the making of a Rule under that Part.
+(2) Subject to this clause, on the commencement day every current Code change proposal is to be taken to be a request for the making of a Rule under Part 7 of this Law and may be made by the AEMC in accordance with that Part.
+(3) Subject to this clause, on the commencement day every current Code derogation proposal is to be taken to be a request for the making of a participant derogation under Part 7 of this Law and may be made by the AEMC in accordance with that Part.
+(4) The AEMC may decide to dispense, or not comply, with a relevant Rule-making step in respect of a current Code change proposal or current Code derogation proposal if it is of the opinion that the relevant Rule-making step duplicates or is consistent with a relevant Code change step that has already been taken under the National Electricity Code.
+(5) On making a decision under subclause (4), the AEMC must publish a notice of that decision—
+(a) in a newspaper circulating generally throughout Australia; and
+(b) on its website.
+Note—
+A person aggrieved by a decision of the AEMC under subclause (4) may apply to the Court under section 70 for judicial review of the decision.
+4—Current jurisdictional derogation proposals to be made under this Law
+(1) In this clause—
+current jurisdictional derogation change proposal means a change to a jurisdictional derogation in respect of which NECA has not published a notice of the change in accordance with clause 9.1.1(h) of the National Electricity Code;
+jurisdictional derogation has the same meaning as in clause 9.1.1 of the National Electricity Code;
+relevant jurisdictional derogation change step means a requirement under Chapter 9 of the National Electricity Code that must be complied with for the purpose of making a change to a jurisdictional derogation;
+relevant Rule-making step means a requirement under a provision of Part 7 of this Law that the AEMC must comply with in the making of a Rule under that Part.
+(2) Subject to this clause, on the commencement day, every current jurisdictional derogation change proposal is to be taken to be a request for the making of a jurisdictional derogation under Part 7 of this Law and may be made by the AEMC in accordance with that Part.
+(3) The AEMC may decide to dispense, or not comply, with a relevant Rule-making step in respect of a current jurisdictional derogation change proposal if it is of the opinion that the relevant Rule-making step duplicates or is consistent with a relevant jurisdictional derogation change step that has already been undertaken under Chapter 9 of the National Electricity Code.
+(4) On making a decision under subclause (3), the AEMC must publish a notice of that decision—
+(a) in a newspaper circulating generally throughout Australia; and
+(b) on its website.
+Note—
+A person aggrieved by a decision of the AEMC under subclause (3) may apply to the Court under section 70 for judicial review of the decision.
+4A—Transitional arrangements relating to additional Minister initiated Rules
+(1) This clause applies if the AEMC receives a request under section 91(1) for the making of a Rule that relates to a Rule that will be amended or revoked by an additional Minister initiated Rule before all of the additional Minister initiated Rules have come into operation.
+(2) Despite anything to contrary in this Law, the AEMC may—
+(a) if the request relates to a Rule that will be revoked by an additional Minister initiated Rule—refuse to take action under Part 7 of this Law in respect of that request; or
+(b) if the request relates to a Rule that will be amended by an additional Minister initiated Rule—treat the request as a request for the making of a Rule that relates to the additional Minister initiated Rule.
+(3) If the AEMC decides to act under this clause, the AEMC must, as soon as practicable after making the decision—
+(a) inform the person or body that made the request of its decision; and
+(b) give that person reasons in writing for that decision.
+(4) Despite anything to the contrary in this Law, a request for a Rule in respect of which the AEMC has decided to refuse to take action under Part 7 of this Law must, on the date of that decision, be taken to have never been made.
+Part 4—Registration
+5—Code participants deemed to be Registered participants
+A Code participant (other than NEMMCO) registered under the National Electricity Code immediately before the commencement day is, on that day, deemed to be—
+(a) a Registered participant; and
+(b) registered under this Law and the National Electricity Rules in the same category of registration as the category of registration that the Code participant was registered under National Electricity Code immediately before that day.
+6—Exemptions
+On the commencement day—
+(a) an exemption given by NEMMCO under clause 2.2.1(c) of the National Electricity Code in force immediately before that day is deemed to be an exemption granted under section 12(5);
+(b) an exemption granted by NECA under clause 2.5.1(d) of the National Electricity Code in force immediately before that day is deemed to be an exemption granted under section 13(3).
+Part 5—References to the National Electricity Code and specific provisions or terms
+7—References to the National Electricity Code
+Unless the context otherwise requires, on and from the commencement day, every reference in a document (however described) to the National Electricity Code is deemed to be a reference to the National Electricity Rules.
+8—References to provisions of the National Electricity Code
+Unless the context otherwise requires, on and from the commencement day, every reference to a provision of the National Electricity Code in a document (however described) is deemed to be a reference to the provision of the National Electricity Rules that corresponds to that provision of the National Electricity Code.
+9—References to Code participants
+(1) Unless the context otherwise requires, on and from the commencement day, every reference in a document (however described) to a Code participant (other than NEMMCO) within the meaning of the old National Electricity Law is deemed to be a reference to a Registered participant.
+(2) Unless the context otherwise requires, on and from the commencement day, every reference in a document (however described) to a Code participant (within the meaning of the old National Electricity Law) that is NEMMCO is deemed to be a reference to NEMMCO.
+Part 6—Investigations and proceedings
+10—Investigations into breaches and possible breaches of the Code
+(1) On and from the commencement day, a NECA investigation may be conducted and completed by the AER in accordance with this Law, the Regulations and the Rules as if that investigation were commenced by the AER under this Law, the Regulations and the Rules.
+(2) In this clause—
+NECA investigation means an investigation into a breach or possible breach of the National Electricity Code by NECA under the old National Electricity Law and National Electricity Code that—
+(a) has been commenced by NECA before the commencement day; and
+(b) has not been completed by NECA before the commencement day.
+10A—AER may conduct investigations into breaches or possible breaches of NEL not investigated by NECA
+(1) Despite anything to the contrary in this Schedule, the AER may, on and from the new commencement day, conduct an investigation into a breach or possible breach of the National Electricity Code.
+(2) In conducting an investigation referred to in subclause (1), the AER has all the functions, and may exercise all the powers, NECA had under the old National Electricity Law and National Electricity Code to conduct an investigation into a breach or possible breach of the National Electricity Code.
+10B—AER may bring proceedings in relation to breaches of National Electricity Code in the Court
+(1) In this clause—
+AER breach investigation means an investigation conducted and completed by the AER in accordance with clause 10 or 10A.
+(2) On and from the new commencement day, the AER may bring proceedings in the Court in respect of an AER breach investigation.
+(3) Despite anything to the contrary in clause 2, for the purposes this clause, sections 17(1)(b) and 44 of the old National Electricity Law apply to a proceeding under this clause as if—
+(a) a reference to the Tribunal were a reference to the Court; and
+(b) a reference to NECA were a reference to the AER.
+Part 7—Funds
+11—Civil penalties fund
+(1) On the commencement day, all money standing to the credit of the civil penalties fund immediately before that day vests in the AEMC.
+(2) In this clause—
+civil penalties fund has the same meaning as in section 66 of the old National Electricity Law.
+Part 8—Other
+12—Continuation of Reliability Panel
+(1) On the commencement day—
+(a) the persons appointed under clause 8.8 of the National Electricity Code, and comprising the Reliability Panel immediately before that day, are deemed to be the persons appointed to comprise the Reliability Panel established under section 38; and
+(b) the Reliability Panel established under section 38 is deemed to be the same body as the Reliability Panel established under clause 8.8 of the National Electricity Code.
+(2) However, despite anything to the contrary in the National Electricity Rules, the persons deemed to be appointed to comprise the Reliability Panel under subclause (1) must, unless they earlier resign from the Reliability Panel, cease to comprise the Reliability Panel on the day that is 6 months after the commencement day.
+(3) To avoid doubt, each of the persons who cease to be appointed to comprise the Reliability Panel by operation of subclause (2), or earlier resign as contemplated by subclause (2), are eligible to be reappointed to the Reliability Panel in accordance with section 38 and the National Electricity Rules.
+13—Jurisdictional system security coordinator
+On the commencement day, the Jurisdictional Co-ordinator appointed by the Minister of this jurisdiction under clause 4.3.2(e) of the National Electricity Code is deemed to be appointed as the jurisdictional system security coordinator under section 110.
+14—Rights under certain change of law provisions in agreements or deeds not to be triggered
+(1) The repeal of the old National Electricity Law and the commencement of this Law and the initial National Electricity Rules is not to be regarded as a change of law (however defined) under any agreement or deed in effect on the commencement day.
+Note—
+The substitution of a Schedule to an Act repeals the Schedule.
+(2) Subclause (1) applies despite any provision in any agreement or deed to the contrary.
+15—Certain undertakings to cease effect on commencement day
+(1) Any deed entered into by a Code participant for the purposes of clause 2.8.2 of the National Electricity Code and in effect immediately before the commencement day, ceases to have effect on that day.
+(2) Subclause (1) does not affect a right, privilege or liability acquired, accrued or incurred under a deed referred to in that subclause, or under the National Electricity Code by force of a deed referred to in that subclause, except as otherwise provided by the Regulations.
+Part 9—Tasmanian participation in the national electricity market
+16—Jurisdictional derogations relating to Tasmania's entry into national electricity market
+(1) Despite anything to the contrary in this Law, the Regulations, the Rules or the Australian Energy Market Commission Establishment Act 2004 of South Australia, the Minister of the Crown in right of Tasmania nominated under section 6(2) may, in writing, direct the AEMC to make a jurisdictional derogation that is substantially the same as the changes to the National Electricity Code—
+(a) authorised by the ACCC under Part VII of the Competition and Consumer Act 2010 of the Commonwealth in the determination of the ACCC entitled "Tasmanian Derogations and Vesting Contract – Tasmania's NEM entry", dated 14 November 2001; and
+(b) in any determination of the ACCC varying the authorisation referred to in paragraph (a).
+(2) The AEMC must, despite anything to the contrary in this Law, the Regulations, the Rules or the Australian Energy Market Commission Establishment Act 2004 of South Australia, make the jurisdictional derogation as soon as practicable after being given a direction under subclause (1).
+(3) In making the jurisdictional derogation under subclause (2), the AEMC need not comply with Division 3 of Part 7 of this Law (other than sections 103(2), 104 and 105).
+17—Definition of national electricity system to permit Tasmania to participate in national electricity market before commissioning of Basslink
+(1) Despite anything to the contrary in this Law, the Regulations or the Rules, on and from the commencement day and until the relevant day, every reference in this Law, the Regulations or the Rules to the interconnected transmission and distribution system is to be read as including a reference to the interconnected transmission and distribution system in the State of Tasmania.
+(2) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia may, on being satisfied that Basslink will connect the electricity grids of the States of Tasmania and Victoria on a particular day, publish notice of that day in the South Australian Government Gazette.
+(3) In this clause—
+relevant day means the day notified under subclause (2);
+Basslink has the same meaning as in the Electricity Supply Industry Act 1995 of Tasmania.
+18—Operation and effect of Rule 6A.21.2 of the National Electricity Rules
+Rule 6A.21.2 of the National Electricity Rules is deemed to have the same force and effect as it would have had if, at the time the Rule was made, section 34(3)(e) (as amended by section 28(2) of the National Electricity (South Australia) (National Electricity Law—Miscellaneous Amendments) Amendment Act 2007 of South Australia) were in force.
+Part 10—Transitional provisions related to AEMO amendments
+19—Definitions
+In this Part—
+AEMO T means Australian Energy Market Operator (Transitional) Ltd (ACN 132 770 104);
+costs of transition means expenditure incurred by the Commonwealth, AEMO T, AEMO and the former electricity planning authorities in or in relation to—
+(a) restructuring NEMMCO in anticipation of its assumption of a wider role (as AEMO); or
+(b) preparing for AEMO’s assumption of its statutory functions;
+current rules means the provisions of this Law and the Rules;
+ESIPC means the Electricity Supply Industry Planning Council established under the Electricity Act 1996 of South Australia;
+former electricity planning authority means—
+(a) VENCorp; or
+(b) ESIPC;
+transitional special project expenditure means—
+(a) expenditure incurred by NEMMCO in anticipation of its assumption (as AEMO) of its role as national transmission planner and expenditure incurred by AEMO in its role as national transmission planner during its first 3 years in that role; and
+(b) expenditure incurred by NEMMCO in providing services to the national stakeholder steering committee for smart meters and expenditure incurred by AEMO in providing services to the national stakeholder steering committee for smart meters during the first 3 years after the changeover date.
+20—Interaction between this Part and jurisdictional transitional arrangements
+(1) This Part and any Regulations or Rules of a saving or transitional nature apply in a participating jurisdiction subject to any exclusions or qualifications made by or under an Act of the participating jurisdiction.
+(2) In this clause—
+Regulations or Rules of a saving or transitional nature means Regulations or Rules relating to the transition from the superseded jurisdictional rules to the current rules.
+21—Recovery of costs of transition
+(1) AEMO may recover the costs of transition as a component of the participant fees payable by Registered participants who are Market Customers.
+(2) The costs of transition are to be recovered—
+(a) over a period of 4 financial years from the changeover date; and
+(b) in accordance with a schedule prepared by AEMO and published on its website.
+(3) AEMO is not required to consult on the schedule.
+22—Transitional special project expenditure
+(1) AEMO may recover transitional special project expenditure as a component of the participant fees payable by Registered participants who are Market Customers.
+(2) The expenditure is to be recovered—
+(a) over a period of 4 financial years from the changeover date; and
+(b) in accordance with a schedule prepared by AEMO and published on its website.
+(3) AEMO is not required to consult on the schedule.
+23—Interpretation of obsolete references
+As from the day AEMO assumes responsibility for the operation of a market for electricity in a participating jurisdiction, references to the former operator of the market in an instrument (including a legislative instrument) relevant to the market are to be construed as references to AEMO.
+Part 11—Application of National Energy Retail Law amendments
+24—Application of National Energy Retail Law amendments
+The amendments made to this Law by the Statutes Amendment (National Energy Retail Law) Act 2011 of South Australia do not apply in a participating jurisdiction until the National Energy Retail Law is applied in that jurisdiction as a law of that jurisdiction.
+Part 12—Transitional provision related to ECA amendments
+25—Transitional provision—AEMO's consumer advocacy funding obligation
+(1) AEMO may, until 30 June 2016, recover under this clause the amount of its consumer advocacy funding obligation under Rule 8.10 of the Rules (as in force immediately after the commencement of Rules made under section 90E of this Law) as a component of the participant fees payable by Registered participants who are Market Customers.
+(2) AEMO's consumer advocacy funding obligation is, despite anything to the contrary in the structure of participant fees determination, to be recovered under this clause in accordance with a schedule prepared by AEMO and published on its website.
+(3) AEMO is not required to consult on the schedule.
+(4) In this clause—
+structure of participant fees determination means the Structure of Participant Fees in the National Energy Market Determination and Report, dated 21 March 2011 and applying for the period from 1 July 2011 to 30 June 2016.
+Part 13—Information publication
+26—Information publication
+The release of information given to the AER or AEMO in confidence before the commencement of this clause will be subject to the provisions of this Law in force immediately before that commencement.
+Part 14—Transitional provision related to AER wholesale market reporting functions
+27—Transitional provision related to AER wholesale market reporting functions
+(1) Despite section 18C(3)—
+(a) the first report prepared under section 18C(2)(a) must relate to the period of 2 years after the relevant day; and
+(b) the second report prepared under section 18C(2)(a) must relate to the period of 4 years after the relevant day.
+(2) In this clause—
+relevant day means the day on which this clause comes into operation.
+Part 15—Transitional provision related to AEMC rule making powers
+28—AEMC rule making powers
+The amendment to section 96 of this Law by section 9 of the Statutes Amendment (National Energy Laws) (Rules) Act 2018 does not apply to the making of—
+(a) a Rule on a request under section 91(1) of this Law received by the AEMC before the commencement of this clause; or
+(b) an AEMC initiated Rule (within the meaning of section 87 of this Law) in respect of which the AEMC has, before the commencement of this clause, published notice of its intention to make.

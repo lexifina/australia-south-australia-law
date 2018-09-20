@@ -112,6 +112,7 @@ energy marketing activity means an activity that is carried on to market, advert
 (c) a supplier or prospective supplier of customer connection services or customer retail services,
 to a small customer;
 energy ombudsman means a body or person prescribed by the National Regulations as an energy ombudsman;
+Energy Security Board means the Energy Security Board referred to in section 2(1) of the NEL;
 entry criteria (in relation to retailer authorisations)—see section 90;
 exempt seller means a person who is exempted by the AER under Division 6 of Part 5 from the requirement to hold a retailer authorisation;
 explicit informed consent—see section 39;
@@ -122,7 +123,7 @@ gas means natural gas within the meaning of the NGL;
 GSL scheme means a scheme set out in energy laws under which there are distributor service standards to which an associated payment (a Guaranteed Service Level payment or GSL payment) is payable by a distributor to the customer where the distributor fails to meet the service standard;
 hardship customer means a residential customer of a retailer who is identified as a customer experiencing financial payment difficulties due to hardship in accordance with the retailer's customer hardship policy;
 hardship program indicators means the hardship program indicators under section 287;
-initial National Energy Retail Rules means the National Energy Retail Rules made under section 238;
+initial National Energy Retail Rules means the Initial National Energy Retail Rules made under Part 10 Division 3;
 jurisdictional energy legislation means legislation of a participating jurisdiction (other than national energy legislation), or any instrument made or issued under or for the purposes of that legislation, that regulates energy in that jurisdiction;
 jurisdictional regulator means a body or person that is prescribed by the National Regulations as a jurisdictional regulator;
 large customer—see section 5;
@@ -159,8 +160,9 @@ national energy retail objective means the objective set out in section 13;
 National Energy Retail Regulations or National Regulations means the Regulations made under Part 11;
 National Energy Retail Rules or Rules means—
 (a) the initial National Energy Retail Rules; and
+(ab) Rules made under Part 10 Division 3 Subdivision 2; and
 (b) Rules made by the AEMC under this Law, including Rules that amend or revoke—
-(i) the initial National Energy Retail Rules; or
+(i) the initial National Energy Retail Rules or Rules made under Part 10 Division 3 Subdivision 2; or
 (ii) Rules made by it;
 negotiated connection contract means a customer connection contract that is entered into in accordance with section 78;
 NEL means the National Electricity Law set out in the Schedule to the National Electricity (South Australia) Act 1996 of South Australia;
@@ -285,6 +287,8 @@ The Rules may make provision for or with respect to the classification and recla
 (c) the definition of business day in clause 10 is taken to be omitted.
 Note—
 See section 320 of this Law which applies instead of clauses 2 and 52 of Schedule 2 to the NGL.
+8A—Savings and transitionals
+Schedule 1 has effect.
 Division 2—Matters relating to participating jurisdictions
 9—Participating jurisdictions
 The State of South Australia, the Commonwealth, each of the States of New South Wales, Victoria, Queensland and Tasmania, and the Australian Capital Territory are participating jurisdictions for the purposes of this Law.
@@ -385,34 +389,34 @@ Section 31 provides for the satisfaction of a designated retailer's obligation t
 interval energy data means interval energy data as defined in the NER;
 interval meter means a meter that measures and records interval energy data.
 23—Standing offer prices
-(1) Publication of standing offer prices
+(1)—Publication of standing offer prices
 A retailer must publish its standing offer prices on its website, and the standing offer prices so published remain in force until varied in accordance with this section.
 Notes—
 1 A standing offer price may be a regulated price under jurisdictional energy legislation.
 2 This subsection is a civil penalty provision.
-(2) Variation of standing offer prices
+(2)—Variation of standing offer prices
 A retailer may vary the standing offer prices from time to time, but a variation has no effect unless—
 (a) it is made in accordance with the requirements (if any) of jurisdictional energy legislation; and
 (b) the variation (or the standing offer prices as varied) is published on the retailer's website.
-(3) Publication and notification of variation
+(3)—Publication and notification of variation
 A retailer must—
 (a) publish the variation (or the standing offer prices as varied) on the retailer's website; and
 (b) publish a notice about the variation in a newspaper circulating in the participating jurisdictions in which the retailer has small customers, notifying customers that—
 (i) there has been a variation; and
 (ii) the variation (or the standing offer prices as varied) is published on the retailer's website; and
 (c) inform each affected customer of the variation when the retailer sends the next bill to the customer.
-(4) Commencement of variation on specified date
+(4)—Commencement of variation on specified date
 Unless subsection (5) applies, a variation of the standing offer prices takes effect on and from the date specified in the variation.
-(5) Limitations on commencement of variation
+(5)—Limitations on commencement of variation
 A variation of the standing offer prices takes effect—
 (a) if the date specified in the variation is before or within the period of 6 months starting with the date the last variation took effect (or, if the standing offer prices have not previously been varied, the period of 6 months since the date of publication of the standing offer prices)—on the date that immediately follows the 6‑month period; or
 (b) if the date specified in the variation is before or within the period of 10 business days starting with the first business day after the date on which the variation was published—on the date that immediately follows the 10‑day period.
 If both paragraphs (a) and (b) are applicable and the dates mentioned in those paragraphs are different, the variation takes effect on the later of those dates.
 Note—
 A retailer is not subject to subsection (5) in respect of a variation of its standing offer prices as a result of a RoLR cost recovery scheme under Part 6 (see section 167(6)).
-(6) Notification to AER
+(6)—Notification to AER
 A retailer must, as soon as practicable, notify the AER of details of the standing offer prices and any variation of the standing offer prices in the manner and form required by the AER Retail Pricing Information Guidelines.
-(7) Publication by AER
+(7)—Publication by AER
 The AER must, as soon as practicable after being notified by a retailer, publish the standing offer prices or any variation of the standing offer prices on the AER's website, but failure to do so does not affect the operation or effect of the standing offer prices or any variation.
 24—Presentation of standing offer prices
 (1) A retailer must—
@@ -422,26 +426,26 @@ The AER must, as soon as practicable after being notified by a retailer, publish
 Note—
 See section 61 for the AER Retail Pricing Information Guidelines.
 25—Adoption of form of standard retail contract
-(1) Adoption and publication
+(1)—Adoption and publication
 A retailer must adopt a form of standard retail contract and publish it on the retailer's website.
 Note—
 This subsection is a civil penalty provision.
-(2) Rules
+(2)—Rules
 The Rules may make provision for or with respect to the adoption, form and contents of forms of standard retail contracts, and in particular may provide for the manner of adoption and publication of forms of standard retail contracts by retailers.
-(3) Adoption without alteration except as permitted or required
+(3)—Adoption without alteration except as permitted or required
 A retailer's form of standard retail contract—
 (a) must adopt the relevant model terms and conditions with no alterations, other than permitted alterations or required alterations; and
 (b) if there are any required alterations—must include those required alterations.
-(4) Permitted alterations
+(4)—Permitted alterations
 Permitted alterations are—
 (a) alterations specifying details relating to identity and contact details of the retailer; and
 (b) minor alterations that do not change the substantive effect of the model terms and conditions; and
 (c) alterations of a kind specified or referred to in the Rules.
-(5) Required alterations
+(5)—Required alterations
 Required alterations are—
 (a) alterations that the Rules require to be made to the retailer's form of standard retail contract in relation to matters relating to specific jurisdictions; and
 (b) alterations of a kind specified or referred to in the Rules.
-(6) Definition
+(6)—Definition
 In this section—
 alterations includes omissions and additions.
 26—Formation of standard retail contract
@@ -454,23 +458,23 @@ A designated retailer must comply with the obligations imposed on the retailer u
 Note—
 This section is a civil penalty provision.
 28—Variation of standard retail contract
-(1) Variation of form of standard retail contract—permitted alterations
+(1)—Variation of form of standard retail contract—permitted alterations
 A retailer may vary the terms and conditions of the retailer's form of standard retail contract by making permitted alterations.
-(2) Variation of form of standard retail contract—required alterations
+(2)—Variation of form of standard retail contract—required alterations
 A retailer must vary the terms and conditions of the retailer's form of standard retail contract by making required alterations, and must do so by the date specified in the relevant Rule referred to in section 237(4).
-(3) Permitted alterations
+(3)—Permitted alterations
 Permitted alterations are—
 (a) alterations specifying details relating to identity and contact details of the retailer; and
 (b) minor alterations that do not change the substantive effect of the model terms and conditions; and
 (c) alterations of a kind specified or referred to in the Rules.
-(4) Required alterations
+(4)—Required alterations
 Required alterations are—
 (a) alterations that the Rules require to be made to the retailer's form of standard retail contract in relation to matters relating to specific jurisdictions; and
 (b) alterations to a term or condition that is already adopted by the retailer so as to make the adopted term or condition consistent with the model terms and conditions as currently required by the Rules; and
 (c) alterations of a kind specified or referred to in the Rules.
-(5) When variation takes effect on existing contracts
+(5)—When variation takes effect on existing contracts
 A variation of the retailer's form of standard retail contract takes effect as a variation of an existing standard retail contract between the retailer and a customer on and from the date on which the retailer publishes the variation on the retailer's website or a later date specified in the published variation.
-(6) Definition
+(6)—Definition
 In this section—
 alterations includes omissions and additions.
 29—Standard retail contract to be consistent with model terms and conditions
@@ -760,27 +764,27 @@ Division 4—Deemed standard connection contracts
 68—Model terms and conditions
 The Rules must set out model terms and conditions for deemed standard connection contracts (referred to in this Division as the model terms and conditions).
 69—Adoption of form of deemed standard connection contract
-(1) Adoption and publication
+(1)—Adoption and publication
 A distributor must adopt a form of deemed standard connection contract and publish it on the distributor's website.
 Note—
 This subsection is a civil penalty provision.
-(2) Rules
+(2)—Rules
 The Rules may make provision for or with respect to the adoption, form and contents of forms of deemed standard connection contracts, and in particular may provide for the manner of adoption and publication of forms of deemed standard connection contracts by distributors.
-(3) Adoption without alteration except as permitted or required
+(3)—Adoption without alteration except as permitted or required
 A distributor's form of deemed standard connection contract—
 (a) must adopt the relevant model terms and conditions with no alterations, other than permitted alterations or required alterations; and
 (b) if there are any required alterations—must include those required alterations.
-(4) Permitted alterations
+(4)—Permitted alterations
 Permitted alterations are—
 (a) alterations specifying details relating to identity and contact details of the distributor; and
 (b) minor alterations that do not change the substantive effect of the model terms and conditions; and
 (c) alterations of a kind specified or referred to in the Rules.
-(5) Required alterations
+(5)—Required alterations
 Required alterations are—
 (a) alterations that the Rules require to be made to the distributor's form of deemed standard connection contract in relation to matters relating to specific jurisdictions; and
 (b) alterations to a term or condition that is already adopted by the distributor so as to make the adopted term or condition consistent with the model terms or conditions as currently required by the Rules; and
 (c) alterations of a kind specified or referred to in the Rules.
-(6) Definition
+(6)—Definition
 In this section—
 alterations includes omissions and additions.
 70—Formation of deemed standard connection contract
@@ -803,23 +807,23 @@ Note—
 This subsection is a civil penalty provision.
 (2) Except in relation to a new connection or a connection alteration, a distributor must not bill a small customer on a deemed standard connection contract, but must render a statement of charges to the customer's retailer in accordance with the energy laws.
 72—Variation of deemed standard connection contract
-(1) Variation of form of deemed standard connection contract—permitted alterations
+(1)—Variation of form of deemed standard connection contract—permitted alterations
 A distributor may vary the terms and conditions of the distributor's form of deemed standard connection contract by making permitted alterations.
-(2) Variation of form of deemed standard connection contract—required alterations
+(2)—Variation of form of deemed standard connection contract—required alterations
 A distributor must vary the terms and conditions of the distributor's form of deemed standard connection contract by making required alterations, and must do so by the date specified in the relevant Rule referred to in section 237(4).
-(3) Permitted alterations
+(3)—Permitted alterations
 Permitted alterations are—
 (a) alterations specifying details relating to identity and contact details of the distributor; and
 (b) minor alterations that do not change the substantive effect of the model terms and conditions; and
 (c) alterations of a kind specified or referred to in the Rules.
-(4) Required alterations
+(4)—Required alterations
 Required alterations are—
 (a) alterations that the Rules require to be made to the distributor's form of deemed standard connection contract in relation to matters relating to specific jurisdictions; and
 (b) alterations to a term or condition that is already adopted by the distributor so as to make the adopted term or condition consistent with the model terms or conditions as currently required by the Rules; and
 (c) alterations of a kind specified or referred to in the Rules.
-(5) When variation takes effect on existing contracts
+(5)—When variation takes effect on existing contracts
 A variation of the distributor's form of deemed standard connection contract takes effect as a variation of an existing standard connection contract between the distributor and a customer on and from the date on which the distributor publishes the variation on the distributor's website.
-(6) Definition
+(6)—Definition
 In this section—
 alterations includes omissions and additions.
 73—Deemed standard connection contract to be consistent with model terms and conditions
@@ -903,7 +907,7 @@ Nothing in this Part prevents an energy ombudsman from dealing with other disput
 81—Standard complaints and dispute resolution procedures
 (1) Every retailer and every distributor must develop, make and publish on its website a set of procedures detailing the retailer's or distributor's procedures for handling small customer complaints and disputes, to be known as its standard complaints and dispute resolution procedures.
 (2) The procedures must be regularly reviewed and kept up to date.
-(3) The procedures must be substantially consistent with the Australian Standard AS ISO 10002‑2006 (Customer satisfaction—Guidelines for complaints handling in organizations) as amended and updated from time to time.
+(3) The procedures must be substantially consistent with the Australian Standard AS ISO 10002‑2006(Customer satisfaction—Guidelines for complaints handling in organizations) as amended and updated from time to time.
 82—Complaints made to retailer or distributor for internal resolution
 (1) A small customer may make a complaint to a retailer or distributor about a relevant matter, or any aspect of a relevant matter, concerning the customer and the retailer or distributor.
 (2) The retailer or distributor must deal with the complaint if it is made in accordance with the retailer's or distributor's standard complaints and dispute resolution procedures, including any time limits applicable under those procedures for making a complaint.
@@ -1886,11 +1890,11 @@ property damage means damage to tangible property located on the premises of a s
 repeat claimant—see section 183.
 Note—
 The discretionary and mandatory ranges, and the maximum, median and minimum amounts, can be represented as follows:
-(Maximum amount) │ .................................... │ │
+(Maximum amount) │ │ │
 │ Discretionary range │ │
-(Median amount) │ .................................... │ │
+(Median amount) │ │ │
 │ Mandatory range │ │
-(Minimum amount) │ .................................... │ │
+(Minimum amount) │ │ │
 178—Claimable incidents—meaning
 (1) A claimable incident is—
 (a) an event or circumstance of a kind prescribed by the National Regulations; or
@@ -2145,6 +2149,8 @@ The AER is authorised to disclose information given to it in confidence—
 (a) for the purposes of civil or criminal proceedings; or
 (b) for the purposes of proceedings before the Tribunal under Division 7 of Part 13; or
 (c) for the purposes of according natural justice to a person affected by a decision (however described) of the AER under this Law or the Rules.
+210A—Disclosure of information to Energy Security Board
+The AER is authorised to disclose to the Energy Security Board information given to the AER in confidence in or in connection with the performance of its functions or the exercise of its powers under this Law or the Rules.
 211—Disclosure of information given to AER with confidential information omitted
 (1) This section applies if—
 (a) in compliance with this Law or the Rules or voluntarily, a person gives the AER information in confidence; and
@@ -2417,7 +2423,8 @@ The procedure for making initial Rules by the South Australian Minister is set o
 (n) require a person or body performing or exercising a function or power, or conferred a right, or on whom an obligation is imposed, under the Rules to indemnify another such person or body; and
 (o) contain provisions of a savings or transitional nature consequent on the amendment or revocation of a Rule.
 (4) Without limitation, a Rule that amends the model terms and conditions for standard retail contracts or standard connection contracts set out in the Rules must specify a date by which regulated entities must vary their forms of standard retail contract or their forms of standard connection contract (as the case requires).
-Division 3—Initial National Energy Retail Rules
+Division 3—Minister initiated National Energy Retail Rules
+Subdivision 1—Initial Rules made by Minister
 238—South Australian Minister to make initial National Energy Retail Rules
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia (the South Australian Minister) may make Rules for or with respect to any matter or thing referred to in Division 2.
 (2) The South Australian Minister may make Rules that amend the Rules made under subsection (1) for any purpose that is necessary or consequential on the application of the Law or those Rules in a participating jurisdiction.
@@ -2440,9 +2447,28 @@ Division 3—Initial National Energy Retail Rules
 (4) The Rules made under this section may only be made on the recommendation of the MCE.
 (5) Section 237(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+Subdivision 2—Rules made by Minister from time to time
+238B—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2) for any purpose that is necessary or consequential as a result of the making of a NER by the Minister under section 90F of the NEL or a NGR by the Minister under section 294G of the NGL.
+(2) The MCE may only recommend the making of Rules under subsection (1) if—
+(a) the Rules are for or with respect to any matter or thing referred to in Division 2; and
+(b) the Energy Security Board has recommended to the MCE that it recommend the making of the Rules under subsection (1).
+(3) The Energy Security Board may only make a recommendation for the purposes of subsection (2)(b) in relation to Rules if—
+(a) the Rules are in connection with energy security and reliability of the national electricity market (within the meaning of the NEL) or long‑term planning for the national electricity market; and
+(b) the Energy Security Board is satisfied that the Rules are consistent with the national energy retail objective; and
+(c) the Energy Security Board has undertaken consultation on the Rules in accordance with any requirements determined by the MCE.
+(4) Rules in the nature of a derogation may be made under this section even though there may not have been a request for a derogation.
+(5) Section 237(3) applies to Rules made under subsection (1) in the same way as that section applies to Rules made by the AEMC.
+(6) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(7) The notice referred to in subsection (6)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
 Division 4—Subsequent Rules and rule amendment procedure
 239—Subsequent rule making by AEMC
-The AEMC, in accordance with this Law and the National Regulations, may make Rules for or with respect to any matter or thing referred to in Division 2 after Rules have been made under Division 3.
+(1) The AEMC, in accordance with this Law and the National Regulations, may make Rules for or with respect to any matter or thing referred to in Division 2 after Rules have been made under Division 3.
+(2) Nothing in Division 3 Subdivision 2 is to be taken to affect the power of the AEMC to make Rules (in accordance with this Law and the Regulations) for or with respect to any matter or thing referred to in Division 2 (whether before or after Rules have been made under Division 3 Subdivision 2).
 240—Rules relating to MCE or Ministers of participating jurisdictions require MCE consent
 The AEMC must not, without the consent of the MCE, make a Rule that confers a right or function, or imposes an obligation, on the MCE or a Minister of a participating jurisdiction.
 Note—
@@ -2527,7 +2553,7 @@ The AEMC may waive the payment of any fee prescribed by the National Regulations
 (a) an AEMC initiated Rule is a non‑controversial Rule; or
 (b) a request for a Rule is a request for a non‑controversial Rule; or
 (c) a request for a Rule is a request for an urgent Rule,
-the AEMC may make the relevant Rule in accordance with this Division (except section 255 to 258) and as if the period of time within which the final Rule determination in respect of the relevant Rule must be published were 6 weeks from the date of publication of the notice under section 251.
+the AEMC may make the relevant Rule in accordance with this Division (except section 255 to 258) and as if the period of time within which the final Rule determination in respect of the relevant Rule must be published were 8 weeks from the date of publication of the notice under section 251.
 (2) Before making a Rule as set out in subsection (1), the AEMC must include in a notice under section 251 a statement to the effect that the AEMC may make the relevant Rule if the AEMC does not receive a written request, and reasons, not to do so from any person or body within 2 weeks of publication of that notice.
 (3) The AEMC must not make a Rule in accordance with this section if, following publication of a notice under section 251 containing a statement to the effect set out in subsection (2)—
 (a) the AEMC receives a written request not to do so; and
@@ -3022,3 +3048,9 @@ compliance with that procedure is taken to satisfy any requirements of this Law 
 (b) otherwise exceed the legislative power of the Legislature of this jurisdiction,
 that provision is to be taken instead to confer on the officer or body a discretion to perform the function or exercise the power.
 (4) This section does not limit the effect that a provision of this Law or the Rules would validly have apart from this section.
+Schedule 1—Savings and transitionals
+Part 1—Transitional provision related to AEMC rule making powers
+1—AEMC rule making powers
+The amendment to section 252 of this Law by section 19 of the Statutes Amendment (National Energy Laws) (Rules) Act 2018 does not apply to the making of—
+(a) a Rule on a request under section 243(1) of this Law received by the AEMC before the commencement of this clause; or
+(b) an AEMC initiated Rule (within the meaning of section 235 of this Law) in respect of which the AEMC has, before the commencement of this clause, published notice of its intention to make.

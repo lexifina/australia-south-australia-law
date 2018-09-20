@@ -107,6 +107,7 @@ ECA amendments means the amendments to this Law made by the Statutes Amendment (
 end user means a person who acquires natural gas for consumption purposes, and includes a retail customer;
 Energy Consumers Australia or ECA means the company incorporated, or to be incorporated, by the name Energy Consumers Australia Limited;
 energy ombudsman has the same meaning as in the National Energy Retail Law;
+Energy Security Board means the Energy Security Board referred to in section 2(1) of the NEL;
 ERA means the Economic Regulation Authority established by section 4 of the Economic Regulation Authority Act 2003 of Western Australia;
 exempted participant means a person exempted from registration as a Registered participant;
 extension and expansion requirements means—
@@ -156,7 +157,7 @@ GTE amendments means the amendments to this Law made by the National Gas (South 
 haulage, in relation to natural gas, includes conveyance or reticulation of natural gas;
 initial classification decision means a decision of the NCC under section 98 or 155;
 initial National Gas Procedures means National Gas Procedures made under section 294A and includes Wholesale Market Procedures and BB Procedures in force immediately before the commencement of the National Gas (South Australia) (National Gas Law—Australian Energy Market Operator) Amendment Act 2009;
-initial National Gas Rules means the National Gas Rules made under section 294, 294A, 294B, 294C, 294D or 294E;
+initial National Gas Rules means the Initial National Gas Rules made under Chapter 9 Part 2;
 international pipeline means a pipeline for the haulage of gas from a foreign source;
 jurisdictional determination criteria, in relation to a cross boundary distribution pipeline, has the meaning given by section 14;
 jurisdictional gas legislation means an Act of a participating jurisdiction (other than national gas legislation), or any instrument made or issued under or for the purposes of that Act, that regulates the haulage of gas in that jurisdiction;
@@ -209,8 +210,9 @@ National Gas Procedures or Procedures means—
 (b) Procedures made by AEMO under this Law, including Procedures that amend or revoke the initial National Gas Procedures or Procedures earlier made by AEMO;
 National Gas Rules or Rules means—
 (a) the initial National Gas Rules; and
+(ab) Rules made under Chapter 9 Part 2 Division 2; and
 (b) Rules made by the AEMC under this Law, including Rules that amend or revoke—
-(i) the initial National Gas Rules; or
+(i) the initial National Gas Rules or Rules made under Chapter 9 Part 2 Division 2; or
 (ii) Rules made by it;
 natural gas means a substance that—
 (a) is in a gaseous state at standard temperature and pressure; and
@@ -1708,6 +1710,7 @@ AEMO is authorised to disclose protected information if it has the written conse
 (a) the Australian Competition and Consumer Commission;
 (b) the Australian Energy Regulator;
 (c) the Australian Energy Market Commission;
+(ca) the Energy Security Board;
 (d) the Economic Regulation Authority of Western Australia;
 (e) a jurisdictional regulator;
 (f) the National Competition Council;
@@ -3724,7 +3727,8 @@ In addition to complying with sections 291 and 293, the AEMC must take into acco
 (ii) confers a function or power on the AER to specify under a full access arrangement decision approving or making an access arrangement a pipeline service (to which the relevant applicable access arrangement applies) as a reference service.
 293—AEMC must take into account revenue and pricing principles in certain cases
 In addition to complying with sections 291 and 292, the AEMC must take into account the revenue and pricing principles in making a Rule for or with respect to any matter or thing specified in items 40 to 48 of Schedule 1 to this Law.
-Part 2—Initial National Gas Rules
+Part 2—Minister initiated National Gas Rules
+Division 1—Initial Rules made by Minister
 294—South Australian Minister to make initial National Gas Rules
 (1) The Minister of the Crown in right of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia may make Rules for or with respect to—
 (a) any matter or thing referred to in section 74 and Schedule 1 to this Law;
@@ -3830,6 +3834,26 @@ matters of a transitional nature include matters of an application or savings na
 (7) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
 (8) In this section—
 Pipelines Access/Arbitration amendments means the amendments made to this Law by the National Gas (South Australia) (Pipelines Access—Arbitration) Amendment Act 2017.
+Division 2—Rules made by Minister from time to time
+294G—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2).
+(2) The MCE may only recommend the making of Rules under subsection (1) if—
+(a) the Rules are for or with respect to any matter or thing referred to in section 74 and Schedule 1 to this Law; and
+(b) the Energy Security Board has recommended to the MCE that it recommend the making of the Rules under subsection (1).
+(3) The Energy Security Board may only make a recommendation for the purposes of subsection (2)(b) in relation to Rules if—
+(a) the Rules are in connection with energy security and reliability of the NEM or long‑term planning—
+(i) for the NEM; or
+(ii) in relation to investment in, and operation and use of, natural gas services; and
+(b) the Energy Security Board is satisfied that the Rules are consistent with the national gas objective; and
+(c) the Energy Security Board has undertaken consultation on the Rules in accordance with any requirements determined by the MCE.
+(4) Rules in the nature of a derogation may be made under this section even though there may not have been a request for a derogation.
+(5) Section 74(3) applies to Rules made under subsection (1) in the same way as that section applies to Rules made by the AEMC.
+(6) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(7) The notice referred to in subsection (6)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
 Part 3—Procedure for the making of a Rule by the AEMC
 295—Initiation of making of a Rule
 (1) The AEMC may make a Rule at the request of any person or the MCE.
@@ -3915,7 +3939,7 @@ Section 74 and Schedule 1 to this Law specify the subject matter for Rules.
 (a) an AEMC initiated Rule is a non-controversial Rule; or
 (b) a request for a Rule is a request for a non-controversial Rule; or
 (c) a request for a Rule is a request for an urgent Rule,
-the AEMC may make the relevant Rule in accordance with this Part (except sections 307 to 310) and as if the period of time within which the final Rule determination in respect of the relevant Rule must be published were 6 weeks from the date of publication of the notice under section 303.
+the AEMC may make the relevant Rule in accordance with this Part (except sections 307 to 310) and as if the period of time within which the final Rule determination in respect of the relevant Rule must be published were 8 weeks from the date of publication of the notice under section 303.
 (2) Before making a Rule as set out in subsection (1), the AEMC must include in a notice under section 303 a statement to the effect that the AEMC may make the relevant Rule if the AEMC does not receive a written request, and reasons, not to do so from any person or body within 2 weeks of publication of that notice.
 (3) The AEMC must not make a Rule in accordance with this section if, following publication of a notice under section 303 containing a statement to the effect set out in subsection (2)—
 (a) the AEMC receives a written request not to do so; and
@@ -4057,6 +4081,8 @@ See also section 71 of this Law and section 24 of the Australian Energy Market C
 (a) must contain the reasons why the final Rule determination has not been made within 12 months after the publication of the notice under section 303; and
 (b) must specify when the AEMC considers it will make the final Rule determination; and
 (c) must be published.
+320A—Subsequent rule making by AEMC
+Nothing in Part 2 Division 2 is to be taken to affect the power of the AEMC to make Rules (in accordance with this Law and the Regulations) for or with respect to any matter or thing referred to in section 74 and Schedule 1 to this Law (whether before or after Rules have been made under Part 2 Division 2).
 Chapter 10—General
 Part 1—Provisions relating to applicable access arrangements
 321—Protection of certain pre-existing contractual rights
@@ -4092,6 +4118,8 @@ The AER is authorised to disclose information given to it in confidence—
 (a) for the purposes of civil or criminal proceedings; or
 (b) for the purposes of a proceeding before the Tribunal or a tribunal established by or under a law of this jurisdiction or another participating jurisdiction; or
 (c) for the purposes of according natural justice to a person affected by a decision (however described) of the AER under this Law or the Rules.
+326A—Disclosure of information to Energy Security Board
+The AER is authorised to disclose to the Energy Security Board information given to the AER in confidence in or in connection with the performance of its functions or the exercise of its powers under this Law or the Rules.
 327—Disclosure of information given to the AER with confidential information omitted
 (1) This section applies if—
 (a) in compliance with this Law or the Rules or voluntarily, a person gives the AER information in confidence; and
@@ -4252,3 +4280,1374 @@ If the NCC receives an application for a coverage determination, a 15‑year no�
 (2) The NCC must comply with a request.
 336—Savings and transitionals
 Schedule 3 to this Law has effect.
+Schedule 1—Subject matter for the National Gas Rules
+(section 74)
+Classification and coverage of pipelines │
+1 │ The content of applications for coverage determinations, coverage revocation determinations and 15-year no‑coverage determinations. │
+2 │ The content of coverage recommendations, coverage revocation recommendations and no-coverage recommendations. │
+3 │ The content of decisions about coverage determinations, coverage revocation determinations and 15-year no‑coverage determinations. │
+4 │ The classification of pipelines by the NCC— │
+│ (a) after a tender approval decision becomes irrevocable; or │
+│ (b) during the process the approval of a voluntarily submitted access arrangement. │
+5 │ The content of applications for the reclassification of pipelines and reclassification decisions. │
+Price regulation exemptions │
+6 │ The content of applications for price regulation exemptions. │
+7 │ The content of recommendations by the NCC in relation to price regulation exemptions. │
+8 │ The content of decisions about price regulation exemptions. │
+Light regulation determinations │
+9 │ The content of applications for light regulation determinations or the revocation of light regulation determinations. │
+10 │ The content of decisions about light regulation determinations or the revocation of light regulation determinations. │
+11 │ The matters to be addressed by the NCC in making decisions about light regulation determinations or the revocation of light regulation determinations. │
+Tender approvals for the construction of pipelines │
+12 │ Applications for and the approval by the AER of a tender for the construction of a pipeline (by means of which pipeline services are intended to be provided) as a competitive tender process. │
+13 │ The content of tender approval decisions. │
+14 │ The procedure for the making and the publication of a tender approval decision. │
+15 │ Reports on the conduct of tender processes approved under tender approval decisions. │
+16 │ The lapsing or revocation of tender approval decisions. │
+Access to pipeline services │
+17 │ Access to pipeline services provided or that may be provided by means of a scheme pipeline. │
+18 │ The facilitation of requests for access to pipeline services provided by means of a scheme pipeline. │
+19 │ The transfer of capacity of a pipeline to deliver pipeline services, including— │
+│ (a) the circumstances when and how it is to happen; and │
+│ (b) the legal consequences of a transfer of that capacity. │
+20 │ The establishment and maintenance of registers of unutilised capacity of pipelines to deliver pipeline services, including the information to be included in such registers. │
+21 │ The public availability of information on registers referred to in item 20. │
+22 │ The provision of information to users of information about unutilised capacity of pipelines to deliver pipeline services. │
+23 │ The disclosure to the AER of information relating to access to light regulation services. │
+24 │ Reports on negotiations relating to access to light regulation services. │
+25 │ The publication of prices and other terms and conditions of access to light regulation services. │
+26 │ The conditions a service provider may impose for the provision of pipeline services. │
+Access arrangements │
+27 │ The submission to the AER, by service providers, of access arrangements or revisions to applicable access arrangements for approval by the AER including requiring service providers to— │
+│ (a) submit full access arrangements for pipeline services (that are not light regulation services) provided by means of covered pipelines; │
+│ (b) submit limited access arrangements for pipeline services provided by means of international pipelines to which price regulation exemptions apply; │
+│ (c) submit more than 1 access arrangement; │
+│ (d) to consolidate access arrangements. │
+28 │ The content of access arrangements and applicable access arrangements including— │
+│ (a) a description of pipeline services provided or that may be provided by means of scheme pipelines, including reference services; │
+│ (b) the content of expansion and extension requirements; │
+│ (c) the content of queuing requirements; │
+│ (d) review submission dates, expiry dates and dates when revisions to access arrangements and applicable access arrangements are to take effect. │
+29 │ Variations to applicable access arrangements. │
+30 │ Information to accompany access arrangements submitted for approval, or proposals for revisions or variations to access arrangements, including information to enable a person to understand the background or basis or derivation of the access arrangement or proposal. │
+31 │ The provision and publication of information referred to in item 30. │
+32 │ Decisions of the AER that approve (with or without revisions or modifications) or not approve access arrangements or proposals for revisions or variations to access arrangements. │
+33 │ The making of access arrangements by the AER when it does not approve access arrangements. │
+34 │ The contents of decisions of the AER that— │
+│ (a) approve or do not approve access arrangements or proposals for revisions or variations to access arrangements; │
+│ (b) make access arrangements. │
+35 │ The procedure for the approval or making by the AER of access arrangements, or approval by the AER of proposals for revisions or variations to applicable access arrangements, including the publication and giving of— │
+│ (a) access arrangements and proposals; │
+│ (b) decisions of the AER; │
+│ (c) applicable access arrangements; │
+│ (d) drafts of decisions of access arrangements and proposals and decisions of the AER. │
+36 │ Matters to be addressed by the AER in approving or not approving an access arrangement, or making an access arrangement, or approving or not approving revisions or variations to an applicable access arrangement. │
+Sale and supply of gas to customers │
+36A │ Credit support arrangements between service providers and retailers, including the financial obligations of service providers and retailers to support the sale and supply of natural gas to retail customers. │
+36B │ Charges for the connection of premises of retail customers. │
+Access disputes │
+37 │ The procedure and time limits for the making of access determinations under Chapter 6 or 6A. │
+38 │ The appointment of persons to inquire into and report on the safe operation of pipelines for the purpose of enabling the dispute resolution body to make an access determination under Chapter 6 or an arbitrator to make an access determination under Chapter 6A. │
+39 │ The kinds of access determinations that may be made under Chapter 6 or 6A including determinations— │
+│ (a) requiring prospective users or users to make capital contributions towards a service provider's capital expenditure for the installation or construction of new facilities for the expansion of the capacity of pipelines; │
+│ (b) that enable service providers to charge prospective users or users surcharges to recover capital expenditure for the installation or construction of new facilities for the expansion of the capacity of pipelines. │
+Regulatory economic methodologies │
+40 │ The regulatory economic methodologies (including the use of the methodology known as the "building block approach") to be applied by— │
+│ (a) the AER in approving or making a full access arrangement; │
+│ (b) the AER in approving revisions or a variation to an applicable access arrangement that is a full access arrangement; │
+│ (c) the dispute resolution body in making an access determination. │
+41 │ If the Rules provide for the regulatory economic methodology known as the "building block approach" to be applied by— │
+│ (a) the AER for the purpose of approving or making a full access arrangement; or │
+│ (b) the AER for the purpose of approving revisions or a variation to an applicable access arrangement that is a full access arrangement; or │
+│ (c) the dispute resolution body for the purpose of making an access determination, the determination by the AER or the dispute resolution body (as the case requires) of allowances for— │
+│ (d) depreciation; │
+│ (e) the operating costs of a service provider; │
+│ (f) if the service provider is a corporation, the income tax payable by corporations; │
+│ (g) a rate of return on assets. │
+42 │ The methodology known as "total factor productivity"— │
+│ (a) as a regulatory economic methodology to be applied by— (i) the AER for the purpose of approving or making a full access arrangement; (ii) the AER for the purpose of approving revisions or a variation to an applicable access arrangement that is a full access arrangement; (iii) the dispute resolution body for the purpose of making an access determination; │
+│ (b) as an economic regulatory tool to inform and assist the AER in applying, or analysing the application of, the regulatory economic methodology known as the "building block approach" by the AER for the purpose of— (i) approving or making a full access arrangement; or (ii) approving revisions or a variation to an applicable access arrangement that is a full access arrangement; │
+│ (c) as an economic regulatory tool to inform and assist the dispute resolution body in applying, or analysing the application of, the regulatory economic methodology known as the "building block approach" by the dispute resolution body for the purpose of making an access determination. │
+43 │ The capital base with respect to a covered pipeline, and of a new facility for the purposes of— │
+│ (a) approving or making a full access arrangement; or │
+│ (b) approving revisions or a variation to an applicable access arrangement that is a full access arrangement; or │
+│ (c) making an access determination. │
+44 │ The assessment, or treatment of, investment in covered pipelines and new facilities by— │
+│ (a) the AER for the purposes of approving or making a full access arrangement; │
+│ (b) the AER for the purposes of approving revisions or a variation to an applicable access arrangement that is a full access arrangement; │
+│ (c) the dispute resolution body for the purposes of making an access determination. │
+45 │ The economic framework and methodologies to be applied by the AER or the dispute resolution body for the purposes of item 44. │
+46 │ Incentives for service providers to make efficient operating and investment decisions including, where applicable, service performance incentive schemes. │
+47 │ The treatment of capital contributions referred to in item 39(a) when determining the capital base with respect to a covered pipeline. │
+48 │ The handling of surcharges referred to in item 39(b). │
+48A │ For the purposes of items 40 to 47 (inclusive)— (a) a reference to the dispute resolution body will be taken to include a reference to an arbitrator under Chapter 6A; and (b) a reference to an access determination will be taken to include a reference to an access determination under Chapter 6A; and (c) a reference to a covered pipeline will be taken to include a reference to a non‑scheme pipeline under Chapter 6A. │
+AER economic regulatory function or powers │
+49 │ The way in which the AER performs or exercises an AER economic regulatory function or power, including the basis on which the AER makes an AER economic regulatory decision. │
+50 │ Principles to be applied, and procedures to be followed, by the AER in exercising or performing an AER economic regulatory function or power. │
+Ring fencing requirements │
+51 │ The content of a minimum ring fencing requirement. │
+52 │ AER ring fencing determinations and additional ring fencing requirements. │
+53 │ Exemptions from a minimum ring fencing requirement. │
+Associate contracts │
+54 │ The approval by the AER of associate contracts and variations to associate contracts. │
+55 │ The grounds on which the AER may approve associate contracts and variations to associate contracts, including grounds different from those specified in section 147 or section 148. │
+AEMO │
+55A │ A registration scheme to be administered by AEMO for Registered participants in relation to a regulated gas market; the prudential and other requirements to be met by a Registered participant; exemption from registration; the suspension from registration or deregistration of a Registered participant; the exclusion of a Registered participant from a regulated gas market operated or administered by AEMO. │
+55B │ The operation and administration of a regulated gas market. │
+55C │ The declared system functions or STTM functions. │
+55D │ AEMO's functions, powers and duties, and the duties and obligations of Registered participants, exempted participants and others, in regard to the operation of a declared transmission system or a regulated gas market. │
+55E │ The setting of prices (including maximum and minimum prices) for natural gas and services purchased through the declared wholesale gas market or short term trading market operated and administered by AEMO. │
+55F │ The regulation of a declared LNG storage provider and liquefied natural gas stored by the provider. │
+55G │ The metering of natural gas to record the production or consumption of natural gas. │
+55H │ The registration of metering installations used to meter natural gas. │
+55I │ The regulation of persons providing metering services relating to the metering of natural gas. │
+55J │ The matters to be dealt with in the gas statement of opportunities and the obligations of AEMO and other persons in regard to its preparation, review, revision and publication. │
+55K │ Fees payable to AEMO for services provided, or statutory functions performed, under this Law, the Rules or the Procedures. │
+55L │ The payment of money (including the payment of interest and the provision of related security)— │
+│ (a) for the settlement of transactions for natural gas or services purchased or supplied through a regulated gas market operated and administered by AEMO; or │
+│ (b) to or from a Rule fund; or │
+│ (c) for any service provided, or statutory function performed, for which the Rules require payment. │
+55M │ Rules for determining the ownership of, and the transfer of title to, natural gas supplied at an STTM hub and for resolving disputes about ownership. │
+55N │ The terms and conditions on which service providers, or classes of service providers, may recover costs for allocating quantities of natural gas relating to market operator services. │
+55O │ The operation and administration of a gas trading exchange. │
+55P │ The content, operation and administration of a gas trading exchange agreement. │
+55Q │ The duties and obligations of members of a gas trading exchange. │
+55R │ Other rules relating to the conduct (including suspension) of the members of a gas trading exchange. │
+55S │ The determination and settlement of payments in relation to a gas trading exchange. │
+Natural Gas Services Bulletin Board │
+56 │ The establishment and maintenance of a website that contains information in relation to natural gas services. │
+57 │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the Natural Gas Services Bulletin Board. │
+58 │ The kinds of information that may or must be given to AEMO, the circumstances in which the information may or must be given, and the procedure for giving the information. │
+59 │ The kinds of information that may or must be included on the Natural Gas Services Bulletin Board and the manner in which information is to be dealt with before being put on the Natural Gas Services Bulletin Board, including, but not limited to, the removal of information that would identify the person who gave the information. │
+60 │ Persons, or classes of persons, to whom the requirement to give information does not apply and the circumstances in which the requirement does not apply, including, but not limited to, the grant of power to AEMO to exempt persons, or classes of persons, from that requirement. │
+61 │ The circumstances in which the requirement to give information may start to apply again to the persons, or classes of persons, mentioned in item 60. │
+62 │ Persons, or classes of persons, who may access the Natural Gas Services Bulletin Board and the class, or classes, of information to which they may have access. │
+63 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 62 may access the Natural Gas Services Bulletin Board. │
+64 │ The procedure for dealing with information that was, but is no longer, on the Natural Gas Services Bulletin Board. │
+65 │ Persons, or classes of persons, who may have access to information that was, but is no longer on the Natural Gas Services Bulletin Board and the class, or classes, of information to which they may have access. │
+66 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 65 may have access to information that was, but is no longer on the Natural Gas Services Bulletin Board. │
+67 │ The terms and conditions on which service providers, or classes of service providers, may recover amounts from AEMO for aggregating Bulletin Board information for the Bulletin Board operator. │
+68 │ Matters mentioned in items 56 to 67, in so far as they relate to emergency situations. │
+Miscellaneous │
+69 │ Specification of pipeline services as reference services. │
+70 │ The preparation (including public consultation) and publication by the AER of discussion papers relating to the AER's functions and powers under this Law and the Rules. │
+71 │ Reviews by or on behalf of— │
+│ (a) the AER or the AEMC; or │
+│ (b) any other person appointed, in accordance with the Rules. │
+72 │ Reporting and disclosing information to the AER. │
+73 │ Procedure to be followed by the NCC or a relevant Minister in dealing with an application for— │
+│ (a) a coverage determination; │
+│ (b) a coverage revocation determination; │
+│ (c) a 15-year no-coverage determination; │
+│ (d) a price regulation exemption; │
+│ (e) a reclassification decision; │
+│ (f) a light regulation determination; │
+│ (g) a determination to revoke a light regulation determination. │
+74 │ The publication and the giving of NCC recommendations or decisions or Ministerial coverage decisions. │
+75 │ The establishment and maintenance of a register by the AEMC of all previous and current— │
+│ (a) coverage determinations; and │
+│ (b) coverage revocation determinations; and │
+│ (c) greenfields pipeline incentives; and │
+│ (d) decisions under section 99 not to make a coverage determination; and │
+│ (e) decisions under section 106 not to make a coverage revocation determination; and │
+│ (f) decisions under section 156 not to make a 15-year no-coverage determination; and │
+│ (g) decisions under section 1.13 of the Gas Code that a pipeline is not covered under the old access law and Gas Code; and │
+│ (h) decisions under section 1.34 of the Gas Code that coverage of a covered pipeline under the old access law and Gas Code is not revoked; and │
+│ (i) tender approval decisions; and │
+│ (j) light regulation determinations; and │
+│ (k) decisions revoking light regulation determinations; and │
+│ (l) covered pipelines, including their description and classification as transmission pipelines or distribution pipelines; and │
+│ (m) covered pipelines by means of which light regulation services are or intended to be provided; and │
+│ (n) international pipelines; and │
+│ (o) applicable access arrangements. │
+76 │ The inclusion on the register referred to in item 75 of descriptions of— │
+│ (a) all old scheme transmission pipelines and old scheme distribution pipelines; and │
+│ (b) all old scheme classifications or determinations. │
+77 │ Time periods within which— │
+│ (a) the NCC must make an NCC recommendation or decision; │
+│ (b) the AER must make a decision (including an AER economic regulatory decision). │
+78 │ Extensions to periods of time referred to in item 77. │
+79 │ Reports into failures to make decisions within a specified period of time and the publication of such reports. │
+80 │ Confidential information held by service providers, users, prospective users, end users, the AER, the AEMC, the NCC, AEMO and other persons or bodies conferred a function, or exercising a power or right, or on whom an obligation is imposed, under the Rules, and the manner and circumstances in which that information may be disclosed. │
+80A │ Dispute resolution, including— │
+│ (a) definition of the class of disputes subject to the dispute resolution provisions of the Rules; and │
+│ (b) the appointment of persons to arbitrate, mediate or assist in some other way in the resolution of such disputes; and │
+│ (c) the appointment of a person to manage and facilitate the dispute resolution process (without however derogating from that person's power to act personally as an arbitrator or mediator in a particular dispute); and │
+│ (d) the dispute resolution process; and │
+│ (e) rights of appeal on questions of law against decisions made in the course of the dispute resolution process. │
+80B │ Energy Consumers Australia (including provisions for its funding). │
+81 │ The modification of section 3, 8 or 10.8 of the Gas Code as those sections apply to a transitioned access arrangement (as defined in clause 1 of Schedule 3 to this Law). Note— See also clause 30 of Schedule 3 to this Law. │
+82 │ Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the Gas Code as in operation and effect immediately before the commencement of section 20 of the National Gas (South Australia) Act 2008 of South Australia. │
+82A │ Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the superseded jurisdictional rules. │
+83 │ Any matter or thing relating to gas prescribed by the Regulations. │
+Schedule 2—Miscellaneous provisions relating to interpretation
+(section 20)
+Part 1—Preliminary
+1—Displacement of Schedule by contrary intention
+(1) The application of this Schedule to this Law, the Regulations or other statutory instrument (other than the National Gas Rules) may be displaced, wholly or partly, by a contrary intention appearing in this Law or the Regulations or that statutory instrument.
+(2) The application of this Schedule to the National Gas Rules (other than clauses 7, 12, 15, 17, 19 and 20, 23 to 26 and 31 to 44, 49, 52 and 53 of this Schedule) may be displaced, wholly or partly, by a contrary intention appearing in the National Gas Rules.
+Part 2—General
+2—Law to be construed not to exceed legislative power of Legislature
+(1) This Law is to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction.
+(2) If a provision of this Law, or the application of a provision of this Law to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction—
+(a) it is a valid provision to the extent to which it is not in excess of the power; and
+(b) the remainder of this Law, and the application of the provision to other persons, subject matters or circumstances, is not affected.
+(3) Without limiting subclause (2), this Law is not to be construed as imposing any duty on the Commonwealth Minister, the NCC, the Australian Competition Tribunal or AER to perform a function or exercise a power if the imposition of the duty would be in excess of the legislative power of the Legislature of this jurisdiction.
+Note—
+The term function is defined in clause 10 to include "duty".
+(4) In particular, if a provision of this Law appears to impose a duty on the Commonwealth Minister, the NCC, the Australian Competition Tribunal or AER to perform a function or exercise a power in matters or circumstances in which the assumption of the duty cannot be validly authorised under the law of the Commonwealth, or is otherwise ineffective, the provision is to be construed as if its operation were expressly confined to—
+(a) acts or omissions of corporations to which section 51(xx) of the Constitution of the Commonwealth applies; or
+(b) acts or omissions taking place in the course of, or in relation to, trade or commerce between this jurisdiction and places outside this jurisdiction (whether within or outside Australia); or
+(c) acts or omissions taking place outside Australia, or in relation to things outside Australia.
+(5) This clause does not limit the effect that a provision of this Law would validly have apart from this clause.
+3—Changes of drafting practice not to affect meaning
+Differences of language between provisions of this Law or the Rules may be explicable by reference to changes of legislative drafting practice and do not necessarily imply a difference of meaning.
+4—Material that is, and is not, part of Law
+(1) The heading to a Chapter, Part, Division or Subdivision into which this Law is divided is part of this Law.
+(2) A Schedule to this Law is part of this Law.
+(3) A heading to a section or subsection of this Law does not form part of this Law.
+(4) A note at the foot of a provision of this Law does not form part of this Law.
+(5) An example (being an example at the foot of a provision of this Law under the heading "Example" or "Examples") does not form part of this Law.
+5—References to particular Acts and to enactments
+In this Law—
+(a) an Act of this jurisdiction may be cited—
+(i) by its short title; or
+(ii) in another way sufficient in an Act of this jurisdiction for the citation of such an Act; and
+(b) a Commonwealth Act may be cited—
+(i) by its short title; or
+(ii) in another way sufficient in a Commonwealth Act for the citation of such an Act,
+together with a reference to the Commonwealth; and
+(c) an Act of another jurisdiction may be cited—
+(i) by its short title; or
+(ii) in another way sufficient in an Act of the jurisdiction for the citation of such an Act,
+together with a reference to the jurisdiction.
+6—References taken to be included in Act or Law citation etc
+(1) A reference in this Law to an Act includes a reference to—
+(a) the Act as originally enacted, and as amended from time to time since its original enactment; and
+(b) if the Act has been repealed and re‑enacted (with or without modification) since the enactment of the reference, the Act as re‑enacted, and as amended from time to time since its re‑enactment.
+(2) A reference in this Law to a provision of this Law or of an Act includes a reference to—
+(a) the provision as originally enacted, and as amended from time to time since its original enactment; and
+(b) if the provision has been omitted and re‑enacted (with or without modification) since the enactment of the reference, the provision as re‑enacted, and as amended from time to time since its re‑enactment.
+(3) Subclauses (1) and (2) apply to a reference in this Law to a law of the Commonwealth or another jurisdiction as they apply to a reference in this Law to an Act and to a provision of an Act.
+7—Interpretation best achieving Law's purpose
+(1) In the interpretation of a provision of this Law, the interpretation that will best achieve the purpose or object of this Law is to be preferred to any other interpretation.
+(2) Subclause (1) applies whether or not the purpose is expressly stated in this Law.
+8—Use of extrinsic material in interpretation
+(1) In this clause—
+Law extrinsic material means relevant material not forming part of this Law, including, for example—
+(a) material that is set out in the document containing the text of this Law as printed by authority of the Government Printer of South Australia; and
+(b) a relevant report of a committee of the Legislative Council or House of Assembly of South Australia that was made to the Legislative Council or House of Assembly of South Australia before the provision was enacted; and
+(c) an explanatory note or memorandum relating to the Bill that contained the provision, or any relevant document, that was laid before, or given to the members of, the Legislative Council or House of Assembly of South Australia by the member bringing in the Bill before the provision was enacted; and
+(d) the speech made to the Legislative Council or House of Assembly of South Australia by the member in moving a motion that the Bill be read a second time; and
+(e) material in the Votes and Proceedings of the Legislative Council or House of Assembly of South Australia or in any official record of debates in the Legislative Council or House of Assembly of South Australia; and
+(f) a document that is declared by the Regulations to be a relevant document for the purposes of this clause;
+ordinary meaning means the ordinary meaning conveyed by a provision having regard to its context in this Law and to the purpose of this Law;
+Rule extrinsic material means—
+(a) a draft Rule determination; or
+(b) a final Rule determination; or
+(c) any document (however described)—
+(i) relied on by the AEMC in making a draft Rule determination or final Rule determination; or
+(ii) adopted by the AEMC in making a draft Rule determination or final Rule determination.
+(2) Subject to subclause (3), in the interpretation of a provision of this Law, consideration may be given to Law extrinsic material capable of assisting in the interpretation—
+(a) if the provision is ambiguous or obscure, to provide an interpretation of it; or
+(b) if the ordinary meaning of the provision leads to a result that is manifestly absurd or is unreasonable, to provide an interpretation that avoids such a result; or
+(c) in any other case, to confirm the interpretation conveyed by the ordinary meaning of the provision.
+(3) Subject to subclause (4), in the interpretation of a provision of the Rules, consideration may be given to Law extrinsic material or Rule extrinsic material capable of assisting in the interpretation—
+(a) if the provision is ambiguous or obscure, to provide an interpretation of it; or
+(b) if the ordinary meaning of the provision leads to a result that is manifestly absurd or is unreasonable, to provide an interpretation that avoids such a result; or
+(c) in any other case, to confirm the interpretation conveyed by the ordinary meaning of the provision.
+(4) In determining whether consideration should be given to Law extrinsic material or Rule extrinsic material, and in determining the weight to be given to Law extrinsic material or Rule extrinsic material, regard is to be had to—
+(a) the desirability of a provision being interpreted as having its ordinary meaning; and
+(b) the undesirability of prolonging proceedings without compensating advantage; and
+(c) other relevant matters.
+9—Compliance with forms
+(1) If a form is prescribed or approved by or for the purpose of this Law, strict compliance with the form is not necessary and substantial compliance is sufficient.
+(2) If a form prescribed or approved by or for the purpose of this Law requires—
+(a) the form to be completed in a specified way; or
+(b) specified information or documents to be included in, attached to or given with the form; or
+(c) the form, or information or documents included in, attached to or given with the form, to be verified in a specified way,
+the form is not properly completed unless the requirement is complied with.
+Part 3—Terms and references
+10—Definitions
+In this Law—
+Act means an Act of the Legislature of this jurisdiction;
+affidavit, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise;
+amend includes—
+(a) omit or omit and substitute; or
+(b) alter or vary; or
+(c) amend by implication;
+appoint includes re‑appoint;
+breach includes fail to comply with;
+business day means a day that is not—
+(a) a Saturday or Sunday;
+(b) observed as a public holiday on the same day in each of the participating jurisdictions (except the Commonwealth);
+calendar month means a period starting at the beginning of any day of 1 of the 12 named months and ending—
+(a) immediately before the beginning of the corresponding day of the next named month; or
+(b) if there is no such corresponding day, at the end of the next named month;
+calendar year means a period of 12 months beginning on 1 January;
+commencement, in relation to this Law or an Act or a provision of this Law or an Act, means the time at which this Law, the Act or provision comes into operation;
+confer, in relation to a function, includes impose;
+contravene includes fail to comply with;
+definition means a provision of this Law (however expressed) that—
+(a) gives a meaning to a word or expression; or
+(b) limits or extends the meaning of a word or expression;
+document includes—
+(a) any paper or other material on which there is writing; or
+(b) any paper or other material on which there are marks, figures, symbols or perforations having a meaning for a person qualified to interpret them; or
+(c) any disc, tape or other article or any material from which sounds, images, writings or messages are capable of being reproduced (with or without the aid of another article or device);
+estate includes easement, charge, right, title, claim, demand, lien or encumbrance, whether at law or in equity;
+expire includes lapse or otherwise cease to have effect;
+fail includes refuse;
+financial year means a period of 12 months beginning on 1 July;
+function includes duty;
+Gazette means the Government Gazette of this jurisdiction;
+instrument includes a statutory instrument;
+interest, in relation to land or other property, means—
+(a) a legal or equitable estate in the land or other property; or
+(b) a right, power or privilege over, or in relation to, the land or other property;
+make includes issue or grant;
+minor means an individual who is under 18 years of age;
+modification includes addition, omission or substitution;
+month means a calendar month;
+named month means 1 of the 12 months of the year;
+number means—
+(a) a number expressed in figures or words; or
+(b) a letter; or
+(c) a combination of a number so expressed and a letter;
+oath, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration or promise;
+office includes position;
+omit, in relation to a provision of this Law or an Act, includes repeal;
+party includes a body politic or body corporate as well as an individual;
+penalty includes a civil penalty, forfeiture or punishment;
+person includes a body politic or body corporate as well as an individual;
+power includes authority;
+prescribed means prescribed by the Regulations;
+printed includes typewritten, lithographed or reproduced by any mechanical means;
+proceeding means a legal or other action or proceeding;
+property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes things in action;
+provision, in relation to this Law or an Act, means words or other matter that form or forms part of this Law or the Act, and includes—
+(a) a Part, Division, Subdivision, section, subsection, paragraph, subparagraph, subsubparagraph or Schedule of or to this Law or the Act; or
+(b) a section, clause, subclause, item, column, table or form of or in a Schedule to this Law or the Act; or
+(c) the long title and any preamble to the Act;
+record includes information stored or recorded by means of a computer;
+repeal includes—
+(a) revoke or rescind; or
+(b) repeal by implication; or
+(c) abrogate or limit the effect of the law or instrument concerned; or
+(d) exclude from, or include in, the application of the law or instrument concerned, any person, subject matter or circumstance;
+sign includes the affixing of a seal or the making of a mark;
+statutory declaration means a declaration made under an Act, or under a Commonwealth Act or an Act of another jurisdiction, that authorises a declaration to be made otherwise than in the course of a judicial proceeding;
+statutory instrument means the Regulations or an instrument made or in force under this Law;
+swear, in relation to a person allowed by law to affirm, declare or promise, includes affirm, declare or promise;
+word includes any symbol, figure or drawing;
+writing includes any mode of representing or reproducing words in a visible form.
+11—Provisions relating to defined terms and gender and number
+(1) If this Law defines a word or expression, other parts of speech and grammatical forms of the word or expression have corresponding meanings.
+(2) Definitions in or applicable to this Law apply except so far as the context or subject matter otherwise indicates or requires.
+(3) In this Law, words indicating a gender include each other gender.
+(4) In this Law—
+(a) words in the singular include the plural; and
+(b) words in the plural include the singular.
+12—Meaning of may and must etc
+(1) In this Law, the word "may", or a similar word or expression, used in relation to a power indicates that the power may be exercised or not exercised, at discretion.
+(2) In this Law, the word "must", or a similar word or expression, used in relation to a power indicates that the power is required to be exercised.
+(3) This clause has effect despite any rule of construction to the contrary.
+13—Words and expressions used in statutory instruments
+(1) Words and expressions used in a statutory instrument have the same meanings as they have, from time to time, in this Law, or relevant provisions of this Law, under or for the purposes of which the instrument is made or in force.
+(2) This clause has effect in relation to an instrument except so far as the contrary intention appears in the instrument.
+14—References to Minister
+(1) In this Law—
+(a) a reference to a Minister is a reference to a Minister of the Crown of this jurisdiction; and
+(b) a reference to a particular Minister by title, or to "the Minister" without specifying a particular Minister by title, includes a reference to another Minister, or a member of the Executive Council of this jurisdiction, who is acting for and on behalf of the Minister.
+(2) In a provision of this Law, a reference to "the Minister", without specifying a particular Minister by title is a reference to—
+(a) the Minister of this jurisdiction administering the provision; or
+(b) if, for the time being, different Ministers of this jurisdiction administer the provision in relation to different matters—
+(i) if only 1 Minister of this jurisdiction administers the provision in relation to the relevant matter, the Minister; or
+(ii) if 2 or more Ministers of this jurisdiction administer the provision in relation to the relevant matter, any 1 of those Ministers; or
+(c) if paragraph (b) does not apply and, for the time being, 2 or more Ministers administer the provision, any 1 of the Ministers.
+(3) For the removal of doubt, it is declared that if—
+(a) a provision of this Law is administered by 2 or more Ministers of this jurisdiction; and
+(b) the provision requires or permits anything to be done in relation to any of the Ministers,
+the provision does not require or permit it to be done in a particular case by or in relation to more than 1 of the Ministers.
+15—Production of records kept in computers etc
+If a person who keeps a record of information by means of a mechanical, electronic or other device is required by or under this Law—
+(a) to produce the information or a document containing the information to a court, tribunal or person; or
+(b) to make a document containing the information available for inspection by a court, tribunal or person,
+then, unless the court, tribunal or person otherwise directs—
+(c) the requirement obliges the person to produce or make available for inspection, as the case may be, a document that reproduces the information in a form capable of being understood by the court, tribunal or person; and
+(d) the production to the court, tribunal or person of the document in that form complies with the requirement.
+16—References to this jurisdiction to be implied
+In this Law—
+(a) a reference to an officer, office or statutory body is a reference to such an officer, office or statutory body in and for this jurisdiction; and
+(b) a reference to a locality or other matter or thing is a reference to such a locality or other matter or thing in and of this jurisdiction.
+17—References to officers and holders of offices
+In this Law, a reference to a particular officer, or to the holder of a particular office, includes a reference to the person for the time being occupying or acting in the office concerned.
+18—Reference to certain provisions of Law
+If a provision of this Law refers—
+(a) to a Chapter, Part, section or Schedule by a number and without reference to this Law, the reference is a reference to the Chapter, Part, section or Schedule, designated by the number, of or to this Law; or
+(b) to a Schedule without reference to it by a number and without reference to this Law, the reference, if there is only 1 Schedule to this Law, is a reference to the Schedule; or
+(c) to a Division, Subdivision, subsection, paragraph, subparagraph, subsubparagraph, clause, subclause, item, column, table or form by a number and without reference to this Law, the reference is a reference to—
+(i) the Division, designated by the number, of the Part in which the reference occurs; and
+(ii) the Subdivision, designated by the number, of the Division in which the reference occurs; and
+(iii) the subsection, designated by the number, of the section in which the reference occurs; and
+(iv) the paragraph, designated by the number, of the section, subsection, Schedule or other provision in which the reference occurs; and
+(v) the paragraph, designated by the number, of the clause, subclause, item, column, table or form of or in the Schedule in which the reference occurs; and
+(vi) the subparagraph, designated by the number, of the paragraph in which the reference occurs; and
+(vii) the subsubparagraph, designated by the number, of the subparagraph in which the reference occurs; and
+(viii) the section, clause, subclause, item, column, table or form, designated by the number, of or in the Schedule in which the reference occurs,
+as the case requires.
+Part 4—Functions and powers
+19—Performance of statutory functions
+(1) If this Law confers a function or power on a person or body, the function may be performed, or the power may be exercised, from time to time as occasion requires.
+(2) If this Law confers a function or power on a particular officer or the holder of a particular office, the function may be performed, or the power may be exercised, by the person for the time being occupying or acting in the office concerned.
+(3) If this Law confers a function or power on a body (whether or not incorporated), the performance of the function, or the exercise of the power, is not affected merely because of vacancies in the membership of the body.
+20—Power to make instrument or decision includes power to amend or repeal
+If this Law authorises or requires the making of an instrument, decision or determination—
+(a) the power includes power to amend or repeal the instrument, decision or determination; and
+(b) the power to amend or repeal the instrument, decision or determination is exercisable in the same way, and subject to the same conditions, as the power to make the instrument, decision or determination.
+21—Matters for which statutory instruments may make provision
+(1) If this Law authorises or requires the making of a statutory instrument in relation to a matter, a statutory instrument made under this Law may make provision for the matter by applying, adopting or incorporating (with or without modification) the provisions of—
+(a) an Act or statutory instrument; or
+(b) another document (whether of the same or a different kind),
+as in force at a particular time or as in force from time to time.
+(2) If a statutory instrument applies, adopts or incorporates the provisions of a document, the statutory instrument applies, adopts or incorporates the provisions as in force from time to time, unless the statutory instrument otherwise expressly provides.
+(3) A statutory instrument may—
+(a) be of general or limited application;
+(b) vary according to the persons, times, places or circumstances to which it is expressed to apply.
+(4) A statutory instrument may authorise a matter or thing to be from time to time determined, applied or regulated by a specified person or body.
+(5) If this Law authorises or requires a matter to be regulated by statutory instrument, the power may be exercised by prohibiting by statutory instrument the matter or any aspect of the matter.
+(6) If this Law authorises or requires provision to be made with respect to a matter by statutory instrument, a statutory instrument made under this Law may make provision with respect to a particular aspect of the matter despite the fact that provision is made by this Law in relation to another aspect of the matter or in relation to another matter.
+(7) A statutory instrument may provide for the review of, or a right of appeal against, a decision made under the statutory instrument, or this Law, and may, for that purpose, confer jurisdiction on any court, tribunal, person or body.
+(8) A statutory instrument may require a form prescribed by or under the statutory instrument, or information or documents included in, attached to or given with the form, to be verified by statutory declaration.
+(9) In this clause—
+statutory instrument does not include the National Gas Rules.
+22—Presumption of validity and power to make
+(1) All conditions and preliminary steps required for the making of a statutory instrument are presumed to have been satisfied and performed in the absence of evidence to the contrary.
+(2) A statutory instrument is taken to be made under all powers under which it may be made, even though it purports to be made under this Law or a particular provision of this Law.
+23—Appointments may be made by name or office
+(1) If this Law authorises or requires a person or body—
+(a) to appoint a person to an office; or
+(b) to appoint a person or body to exercise a power; or
+(c) to appoint a person or body to do another thing,
+the person or body may make the appointment by—
+(d) appointing a person or body by name; or
+(e) appointing a particular officer, or the holder of a particular office, by reference to the title of the office concerned.
+(2) An appointment of a particular officer, or the holder of a particular office, is taken to be the appointment of the person for the time being occupying or acting in the office concerned.
+24—Acting appointments
+(1) If this Law authorises a person or body to appoint a person to act in an office, the person or body may, in accordance with this Law, appoint—
+(a) a person by name; or
+(b) a particular officer, or the holder of a particular office, by reference to the title of the office concerned,
+to act in the office.
+(2) The appointment may be expressed to have effect only in the circumstances specified in the instrument of appointment.
+(3) The appointer may—
+(a) determine the terms and conditions of the appointment, including remuneration and allowances; and
+(b) terminate the appointment at any time.
+(4) The appointment, or the termination of the appointment, must be in, or evidenced by, writing signed by the appointer.
+(5) The appointee must not act for more than 1 year during a vacancy in the office.
+(6) If the appointee is acting in the office otherwise than because of a vacancy in the office and the office becomes vacant, then, subject to subclause (2), the appointee may continue to act until—
+(a) the appointer otherwise directs; or
+(b) the vacancy is filled; or
+(c) the end of a year from the day of the vacancy,
+whichever happens first.
+(7) The appointment ceases to have effect if the appointee resigns by writing signed and delivered to the appointer.
+(8) While the appointee is acting in the office—
+(a) the appointee has all the powers and functions of the holder of the office; and
+(b) this Law and other laws apply to the appointee as if the appointee were the holder of the office.
+(9) Anything done by or in relation to a person purporting to act in the office is not invalid merely because—
+(a) the occasion for the appointment had not arisen; or
+(b) the appointment had ceased to have effect; or
+(c) the occasion for the person to act had not arisen or had ceased.
+(10) If this Law authorises the appointer to appoint a person to act during a vacancy in the office, an appointment to act in the office may be made by the appointer whether or not an appointment has previously been made to the office.
+25—Powers of appointment imply certain incidental powers
+(1) If this Law authorises or requires a person or body to appoint a person to an office—
+(a) the power may be exercised from time to time as occasion requires; and
+(b) the power includes—
+(i) power to remove or suspend, at any time, a person appointed to the office; and
+(ii) power to appoint another person to act in the office if a person appointed to the office is removed or suspended; and
+(iii) power to reinstate or reappoint a person removed or suspended; and
+(iv) power to appoint a person to act in the office if it is vacant (whether or not the office has ever been filled); and
+(v) power to appoint a person to act in the office if the person appointed to the office is absent or is unable to discharge the functions of the office (whether because of illness or otherwise).
+(2) The power to remove or suspend a person under subclause (1)(b) may be exercised even if this Law provides that the holder of the office to which the person was appointed is to hold office for a specified period.
+(3) The power to make an appointment under subclause (1)(b) may be exercised from time to time as occasion requires.
+(4) An appointment under subclause (1)(b) may be expressed to have effect only in the circumstances specified in the instrument of appointment.
+26—Delegation
+(1) If this Law authorises a person to delegate a function or power, the person may, in accordance with this Law, delegate the power to—
+(a) a person by name; or
+(b) a particular officer, or the holder of a particular office, by reference to the title of the office concerned.
+(2) The delegation—
+(a) may be general or limited; and
+(b) may be made from time to time; and
+(c) may be revoked, wholly or partly, by the delegator.
+(3) The delegation, or a revocation of the delegation, must be in, or evidenced by, writing signed by the delegator or if the delegator is a body corporate, by a person authorised by the body corporate for the purpose.
+(4) A delegated function or power may be exercised only in accordance with any conditions to which the delegation is subject.
+(5) The delegate may, in the exercise of a delegated function or power, do anything that is incidental to the delegated function or power.
+(6) A delegated function or power that purports to have been exercised by the delegate is taken to have been duly exercised by the delegate unless the contrary is proved.
+(7) A delegated function or power that is duly exercised by the delegate is taken to have been exercised by the delegator.
+(8) If, when exercised by the delegator, a function or power is, under this Law, dependent on the delegator's opinion, belief or state of mind in relation to a matter, the function or power, when exercised by the delegate, is dependent on the delegate's opinion, belief or state of mind in relation to the matter.
+(9) If a function or power is delegated to a particular officer or the holder of a particular office—
+(a) the delegation does not cease to have effect merely because the person who was the particular officer or the holder of the particular office when the power was delegated ceases to be the officer or the holder of the office; and
+(b) the function or power may be exercised by the person for the time being occupying or acting in the office concerned.
+(10) A function or power that has been delegated may, despite the delegation, be exercised by the delegator.
+27—Exercise of powers between enactment and commencement
+(1) If a provision of this Law (the empowering provision) that does not commence on its enactment would, had it commenced, confer a power—
+(a) to make an appointment; or
+(b) to make a statutory instrument of a legislative or administrative character; or
+(c) to do another thing,
+then—
+(d) the power may be exercised; and
+(e) anything may be done for the purpose of enabling the exercise of the power or of bringing the appointment, instrument or other thing into effect,
+before the empowering provision commences.
+(2) If a provision of an Act of South Australia (the empowering provision) that does not commence on its enactment would, had it commenced, amend a provision of this Law so that it would confer a power—
+(a) to make an appointment; or
+(b) to make a statutory instrument of a legislative or administrative character; or
+(c) to do another thing,
+then—
+(d) the power may be exercised; and
+(e) anything may be done for the purpose of enabling the exercise of the power or of bringing the appointment, instrument or other thing into effect,
+before the empowering provision commences.
+(3) If—
+(a) this Law has commenced and confers a power to make a statutory instrument (the basic instrument making power); and
+(b) a provision of an Act of South Australia that does not commence on its enactment would, had it commenced, amend this Law so as to confer additional power to make a statutory instrument (the additional instrument making power),
+then—
+(c) the basic instrument making power and the additional instrument making power may be exercised by making a single instrument; and
+(d) any provision of the instrument that required an exercise of the additional instrument making power is to be treated as made under subclause (2).
+(4) If an instrument, or a provision of an instrument, is made under subclause (1) or (2) that is necessary for the purpose of—
+(a) enabling the exercise of a power mentioned in the subclause; or
+(b) bringing an appointment, instrument or other thing made or done under such a power into effect,
+the instrument or provision takes effect—
+(c) on the making of the instrument; or
+(d) on such later day (if any) on which, or at such later time (if any) at which, the instrument or provision is expressed to take effect.
+(5) If—
+(a) an appointment is made under subclause (1) or (2); or
+(b) an instrument, or a provision of an instrument, made under subclause (1) or (2) is not necessary for a purpose mentioned in subclause (4),
+the appointment, instrument or provision takes effect—
+(c) on the commencement of the relevant empowering provision; or
+(d) on such later day (if any) on which, or at such later time (if any) at which, the appointment, instrument or provision is expressed to take effect.
+(6) Anything done under subclause (1) or (2) does not confer a right, or impose a liability, on a person before the relevant empowering provision commences.
+(7) After the enactment of a provision mentioned in subclause (2) but before the provision's commencement, this clause applies as if the references in subclauses (2) and (5) to the commencement of the empowering provision were references to the commencement of the provision mentioned in subclause (2) as amended by the empowering provision.
+(8) In the application of this clause to a statutory instrument, a reference to the enactment of the instrument is a reference to the making of the instrument.
+Part 5—Distance and time
+28—Matters relating to distance and time
+(1) In the measurement of distance for the purposes of this Law, the distance is to be measured along the shortest road ordinarily used for travelling.
+(2) If a period beginning on a given day, act or event is provided or allowed for a purpose by this Law, the period is to be calculated by excluding the day, or the day of the act or event, and—
+(a) if the period is expressed to be a specified number of clear days or at least a specified number of days, by excluding the day on which the purpose is to be fulfilled; and
+(b) in any other case, by including the day on which the purpose is to be fulfilled.
+(3) If the last day of a period provided or allowed by this Law for doing anything is not a business day in the place in which the thing is to be or may be done, the thing may be done on the next business day in the place.
+(4) If the last day of a period provided or allowed by this Law for the filing or registration of a document is a day on which the office is closed where the filing or registration is to be or may be done, the document may be filed or registered at the office on the next day that the office is open.
+(5) If no time is provided or allowed for doing anything, the thing is to be done as soon as possible, and as often as the prescribed occasion happens.
+(6) If, in this Law, there is a reference to time, the reference is, in relation to the doing of anything in a jurisdiction, a reference to the legal time in the jurisdiction.
+Part 6—Service of documents
+29—Service of documents and meaning of service by post etc
+(1) If this Law requires or permits a document to be served on a person (whether the expression "deliver", "give", "notify", "send" or "serve" or another expression is used), the document may be served—
+(a) on a natural person—
+(i) by delivering it to the person personally; or
+(ii) by leaving it at, or by sending it by post, facsimile or similar facility to the last known address of the place of residence or usual place of business of the person; or
+(iii) by sending it electronically to that person; or
+(b) on a body corporate—
+(i) by leaving it at the registered office or usual place of business of the body corporate with an officer of the body corporate; or
+(ii) by sending it by post, facsimile or similar facility to its registered office or its usual place of business; or
+(iii) by sending it electronically to that body corporate or an officer of the body corporate.
+(2) Nothing in subclause (1)—
+(a) affects the operation of another law that authorises the service of a document otherwise than as provided in the subclause; or
+(b) affects the power of a court or tribunal to authorise service of a document otherwise than as provided in the subclause.
+30—Meaning of service by post etc
+(1) If this Law requires or permits a document to be served by post (whether the expression "deliver", "give", "notify", "send" or "serve" or another expression is used), service—
+(a) may be effected by properly addressing, prepaying and posting the document as a letter; and
+(b) is taken to have been effected at the time at which the letter would be delivered in the ordinary course of post, unless the contrary is proved.
+(2) If this Law requires or permits a document to be served by a particular postal method (whether the expression "deliver", "give", "notify", "send" or "serve" or another expression is used), the requirement or permission is taken to be satisfied if the document is posted by that method or, if that method is not available, by the equivalent, or nearest equivalent, method provided for the time being by Australia Post.
+Part 7—Evidentiary matters
+Division 1—Publication on websites
+31—Definitions
+In this Division—
+decision maker means a relevant Minister, the NCC, the AER, the AEMC or AEMO;
+relevant decision or document means—
+(a) a decision (however described) or determination (however described) of a decision maker under this Law or the Rules; or
+(b) an access arrangement to which a decision of the AER under the Law or Rules relates;
+relevant notice means a notice under the Rules calling for or inviting submissions or comments in relation to a relevant decision or document;
+32—Publication of decisions on websites
+(1) For the purposes of this Law, a relevant decision or document or relevant notice that is required by this Law or the Rules to be published on a website is to be taken to be published on the website if—
+(a) the relevant decision or document or relevant notice is made accessible in full on the website; or
+(b) notice of the making or publication of the relevant decision or document or relevant notice is made accessible on that website and the relevant decision or document or relevant notice is made accessible separately in full on that website or in any other identified location.
+(2) The date on which the relevant decision or document or relevant notice is published on the website is the date notified by the relevant decision maker on the website as the date of the relevant decision's or document's or relevant notice's publication (being not earlier than the date on which it was first made so accessible).
+Division 2—Evidentiary certificates
+33—Definitions
+In this Division—
+acting SES employee has the same meaning as in section 17AA of the Acts Interpretation Act 1901 of the Commonwealth;
+AEMC chief executive means the chief executive of the AEMC appointed under section 16 of the Australian Energy Market Commission Establishment Act 2004 of South Australia;
+AEMC Commissioner means a Commissioner within the meaning of the Australian Energy Market Commission Establishment Act 2004 of South Australia;
+AER member has the same meaning as in the Competition and Consumer Act 2010 of the Commonwealth;
+NCC member means a Councillor within the meaning of the Competition and Consumer Act 2010 of the Commonwealth;
+relevant notice has the same meaning as in clause 31;
+SES employee has the same meaning as in section 17AA of the Acts Interpretation Act 1901 of the Commonwealth.
+34—Evidentiary certificates—AER
+In any proceedings under this Law, a certificate signed or purported to be signed by an AER member, or an SES employee or acting SES employee assisting the AER as mentioned in section 44AAC of the Competition and Consumer Act 2010 of the Commonwealth, stating any of the following matters is evidence of the matter:
+(a) a stated document is 1 of the following things, made, given, served or issued under this Law or the Rules:
+(i) a decision (however described) or determination (however described);
+(ii) an authorisation under section 32;
+(iii) a general regulatory information order;
+(iv) a notice, notification, direction or requirement;
+(b) a stated document is a copy of a thing referred to in paragraph (a);
+(c) on a stated day, a person was or was not:
+(i) given a decision (however described), or determination (however described);
+(ii) authorised as an authorised person (within the meaning of section 31);
+(iii) served a notice under section 42 or a regulatory information notice;
+(iv) notified under section 52;
+(v) notified under section 143(3) of the making of an AER ring fencing determination;
+(d) on a stated day any of the following were published on the AER's website:
+(i) a decision (however described) or determination (however described);
+(ii) a general regulatory information order;
+(iii) a full access arrangement or revisions to an applicable access arrangement submitted for approval under section 132;
+(iv) a limited access arrangement or revisions to an applicable access arrangement submitted for approval under section 116 or 168;
+(v) a relevant notice.
+35—Evidentiary certificates—AEMC
+In any proceedings under this Law, a certificate signed or purported to be signed by a Commissioner or the AEMC chief executive, stating any of the following matters is evidence of the matter:
+(a) a stated document is a decision (however described), made, given, served or issued under this Law;
+(b) a stated document is a copy of a thing referred to in paragraph (a);
+(c) on a stated day, a person was or was not given a decision (however described);
+(d) on a stated day a relevant notice was published on the AEMC's website.
+36—Evidentiary certificates—NCC
+In any proceedings under this Law, a certificate signed or purported to be signed by an NCC member, or an SES employee or acting SES employee who is an employee assisting the NCC as mentioned in section 29M of the Competition and Consumer Act 2010 of the Commonwealth, stating any of the following matters is evidence of the matter:
+(a) a stated document is—
+(i) an NCC recommendation or decision;
+(ii) a decision of the NCC not to make a coverage determination because of section 96;
+(b) on a stated day, a person was or was not given a reclassification decision;
+(c) on a stated day any 1 of the following was, in accordance with the Rules, published on the NCC's website:
+(i) a Ministerial coverage decision;
+(ii) an NCC recommendation or decision;
+(iii) a decision of the NCC not to make a coverage determination because of section 96;
+(iv) a relevant notice.
+37—Evidentiary certificates—relevant Minister and Commonwealth Minister
+In any proceedings under this Law, a certificate signed or purported to be signed by a relevant Minister or the Commonwealth Minister stating any of the following matters is evidence of the matter:
+(a) a stated document is a Ministerial coverage decision; or
+(b) on a stated day a person or the NCC was or was not given a Ministerial coverage decision.
+38—Evidentiary certificates—AEMO
+(1) In any proceedings under this Law, any of the following certificates signed or purportedly signed by an authorised officer is evidence of the matter certified:
+(a) a certificate certifying that a document identified in the certificate is a decision (however described) or a determination (however described) made by AEMO or a copy of such a decision or determination;
+(b) a certificate certifying that a document identified in the certificate was made, issued, developed, prepared, promulgated, served, sent, delivered, or given under this Law or the Rules on a specified date or over a specified period;
+(c) a certificate certifying that a decision, determination or notice was published on AEMO's website on a specified date.
+(2) For this clause, an authorised officer is AEMO's CEO or a person authorised by AEMO's CEO to issue certificates under this clause.
+Part 8—Commencement of this Law and statutory instruments
+39—Time of commencement of this Law or a provision of this Law
+If a provision of an Act of South Australia provides that this Law or a provision of this Law shall commence, or be deemed to have commenced, on a particular day, it shall commence, or be deemed to have commenced, at the beginning of that day.
+40—Time of commencement of a Rule
+(1) If a Rule provides that the Rule shall commence on a particular day, it shall commence at the beginning of that day.
+(2) If a provision of an Act of South Australia provides that a Rule is deemed to have commenced on a particular day, the Rule shall be deemed to have commenced at the beginning of that day.
+(3) If a notice published in the South Australian Government Gazette under Chapter 9 Part 2 or section 314 provides that a Rule shall commence on a particular day, the Rule shall commence at the beginning of that day.
+Part 9—Effect of repeal, amendment or expiration
+41—Time of Law, the Regulations or Rules ceasing to have effect
+If a provision of this Law, the Regulations or the Rules is expressed—
+(a) to expire on a specified day; or
+(b) to remain or continue in force, or otherwise have effect, until a specified day,
+the provision has effect until the last moment of the specified day.
+42—Repealed Law, Regulation or Rule provisions not revived
+(1) If a provision of this Law is repealed or amended by an Act of South Australia or a provision of an Act of South Australia, the provision is not revived merely because the Act or the provision of the Act—
+(a) is later repealed or amended; or
+(b) later expires.
+(2) If a provision of the Regulations or the Rules is repealed or amended by a Regulation or a Rule, the provision is not revived merely because the Regulation or Rule—
+(a) is later repealed or amended; or
+(b) later expires.
+43—Saving of operation of repealed Law, Regulation or Rule provisions
+(1) The repeal, amendment or expiry of a provision of this Law, the Regulations or the Rules does not—
+(a) revive anything not in force or existing at the time the repeal, amendment or expiry takes effect; or
+(b) affect the previous operation of the provision or anything suffered, done or begun under the provision; or
+(c) affect a right, privilege or liability acquired, accrued or incurred under the provision; or
+(d) affect a penalty incurred in relation to an offence arising under the provision; or
+(e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
+(2) Any such penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced, as if the provision had not been repealed or amended or had not expired.
+44—Continuance of repealed provisions
+(1) If an Act of South Australia repeals some provisions of this Law and enacts new provisions in substitution for the repealed provisions, the repealed provisions continue in force until the new provisions commence.
+(2) If a Regulation or Rule repeals some provisions of the Regulations or Rules and enacts new provisions in substitution for the repealed provisions, the repealed provisions continue in force until the new provisions commence.
+45—Law and amending Acts to be read as one
+This Law and all Acts of this jurisdiction amending this Law are to be read as one.
+Part 10—Offences under this Law
+46—Penalty at foot of provision
+In this Law, a penalty specified at the foot of—
+(a) a section (whether or not the section is divided into subsections); or
+(b) a subsection (but not at the end of a section); or
+(c) a section or subsection and expressed in such a way as to indicate that it applies only to part of the section or subsection,
+indicates that an offence mentioned in the section, subsection or part is punishable on conviction or, if no offence is mentioned, a contravention of the section, subsection or part constitutes an offence against the provision that is punishable, on conviction, by a penalty not more than the specified penalty.
+47—Penalty other than at foot of provision
+(1) In this Law, a penalty specified for an offence, or a contravention of a provision, indicates that the offence is punishable on conviction, or the contravention constitutes an offence against the provision that is punishable, on conviction, by a penalty not more than the specified penalty.
+(2) This clause does not apply to a penalty to which clause 36 applies.
+48—Indictable offences and summary offences
+(1) An offence against this Law that is not punishable by imprisonment is punishable summarily.
+(2) An offence against this Law that is punishable by imprisonment is, subject to subclause (3), punishable on indictment.
+(3) If—
+(a) a proceeding for an offence against this Law that is punishable by imprisonment is instituted in a court of summary jurisdiction; and
+(b) the prosecutor requests the court to hear and determine the proceeding,
+the offence is punishable summarily and the court must hear and determine the proceeding.
+(4) A court of summary jurisdiction must not—
+(a) impose, in relation to a single offence against this Law, a period of imprisonment of more than 2 years; or
+(b) impose, in relation to offences against the Law, cumulative periods of imprisonment that are, in total, more than 5 years.
+(5) Nothing in this clause renders a person liable to be punished more than once in relation to the same offence.
+49—Double jeopardy
+(1) If an act or omission constitutes an offence—
+(a) under this Law as applied as a law of this jurisdiction; and
+(b) under this Law as applied as a law of another jurisdiction,
+and the offender has been punished in relation to the offence under the law mentioned in paragraph (b), the offender is not liable to be punished in relation to the offence mentioned in paragraph (a).
+(2) If an act or omission constitutes—
+(a) a breach of a civil penalty provision of this Law as applied as a law of this jurisdiction; and
+(b) a breach of a civil penalty provision of this Law as applied as a law of another jurisdiction,
+and the person in breach of the civil penalty provision mentioned in paragraph (a) has been punished in relation to the civil penalty provision mentioned in paragraph (b), the person is not liable in relation to the breach of the civil penalty provision mentioned in paragraph (a).
+(3) The Court must not make a declaration that a person is in breach of a provision of this Law, the Regulations or the Rules that is not an offence provision if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the breach.
+(4) Proceedings for a declaration referred to in subclause (3) are stayed if—
+(a) criminal proceedings are commenced or have already been commenced against the person for an offence; and
+(b) the offence is constituted by conduct that is substantially the same as the conduct alleged to constitute the breach.
+(5) The proceedings for the declaration referred to in subclause (3) may be resumed if the person is not convicted of the offence. Otherwise, the proceedings for the declaration must be dismissed.
+50—Aiding and abetting, attempts etc
+(1) A person who aids, abets, counsels or procures, or by act or omission is in any way directly or indirectly concerned in or a party to, the commission of an offence against this Law is taken to have committed that offence and is liable to the penalty for the offence.
+(2) A person who attempts to commit an offence against this Law commits an offence and is punishable as if the attempted offence had been committed.
+Part 11—Instruments under this Law
+51—Schedule applies to statutory instruments
+(1) This Schedule applies to a statutory instrument, and to things that may be done or are required to be done under a statutory instrument, in the same way as it applies to this Law, and things that may be done or are required to be done under this Law, except so far as the context or subject matter otherwise indicates or requires.
+(2) The fact that a provision of this Schedule refers to this Law and not also to a statutory instrument does not, by itself, indicate that the provision is intended to apply only to this Law.
+(3) In this clause—
+statutory instrument includes the Regulations, the Rules or Procedures.
+52—National Gas Rules to be construed so as not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
+(1) The National Gas Rules are to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which they are made.
+(2) If a provision of the National Gas Rules, or the application of a provision of the National Gas Rules to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made—
+(a) it is a valid provision to the extent to which it is not in excess of that power; and
+(b) the remainder of the National Gas Rules, and the application of the provision to other persons, subject matters, or circumstances, is not affected.
+(3) Without limiting subclause (2), the National Gas Rules are not to be construed as imposing any duty on the AER to perform a function or exercise a power if the imposition of the duty would be in excess of the legislative power of the Legislature of this jurisdiction.
+Note—
+The term function is defined in clause 10 to include "duty".
+(4) In particular, if a provision of the National Gas Rules appears to impose a duty on the AER to perform a function or exercise a power in matters or circumstances in which the assumption of the duty cannot be validly authorised under a law of the Commonwealth, or is otherwise ineffective, the provision is to be construed as if its operation were expressly confined to—
+(a) acts or omissions of corporations to which section 51(xx) of the Constitution of the Commonwealth applies; or
+(b) acts or omissions taking place in the course of, or in relation to, trade or commerce between this jurisdiction and places outside this jurisdiction (whether within or outside Australia); or
+(c) acts or omissions taking place outside Australia, or in relation to things outside Australia.
+(5) This clause does not limit the effect that a provision of the National Gas Rules would validly have apart from this clause.
+53—Invalid Rules
+(1) If the Court orders (by declaration or otherwise) that a Rule is invalid, the order of the Court does not—
+(a) revive anything not in force or existing at the time of the order of the Court; or
+(b) affect the previous operation of the Rule or anything suffered, done or begun under the Rule; or
+(c) affect a right, privilege or liability acquired, accrued or incurred under the Rule; or
+(d) affect a penalty arising because of a breach of the Rule; or
+(e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
+(2) A penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced as if the Rule had not been ordered by the Court as invalid.
+Schedule 3—Savings and transitionals
+(section 336)
+Part 1—General
+1—Definitions
+In this Schedule—
+binding no-coverage determination has the same meaning as in section 13A of the old access law;
+commencement day means the day on which section 20 of the new application Act comes into operation;
+current access arrangement means an Access Arrangement as defined by section 10.8 of the Gas Code and in effect immediately before the commencement day;
+new application Act means the National Gas (South Australia) Act 2008 of South Australia;
+old scheme coverage application means an application under section 1.3 of the Gas Code in respect of which a determination under section 1.13 of the Gas Code has not been made before the commencement day;
+old scheme coverage revocation application means an application under section 1.25 of the Gas Code in respect of which an old scheme coverage revocation determination has not been made before the commencement day;
+old scheme coverage determination means a determination of an old scheme relevant Minister under section 1.13 of the Gas Code—
+(a) that a pipeline is covered; and
+(b) that is in effect immediately before the commencement day;
+old scheme coverage revocation determination means a determination of an old scheme relevant Minister under section 1.34 of the Gas Code;
+old scheme covered pipeline means a covered pipeline within the meaning of section 10.8 of the Gas Code;
+old scheme limited access arrangement means a limited access arrangement (within the meaning of section 13A of the old access law)—
+(a) approved under section 13U of that law; and
+(b) in effect immediately before the commencement day;
+old scheme price regulation exemption means a price regulation exemption within the meaning of section 13A of the old access law;
+old scheme relevant Minister means a relevant Minister within the meaning of section 2 of the old access law;
+pending old scheme coverage determination means a determination of an old scheme relevant Minister under section 1.13 of the Gas Code that a pipeline is covered that—
+(a) has not taken effect before the commencement day; but
+(b) is intended to take effect on or after that day;
+pending old scheme no-coverage determination means a determination of an old scheme relevant Minister under section 1.13 of the Gas Code that a pipeline is not covered that—
+(a) has not taken effect before the commencement day; but
+(b) is intended to take effect on or after that day;
+pending old scheme coverage non-revocation determination means a determination of an old scheme relevant Minister under section 1.34 of the Gas Code that coverage of a covered pipeline not be revoked that—
+(a) has not taken effect before the commencement day; but
+(b) is intended to take effect on or after that day;
+pending old scheme coverage revocation determination means a determination of an old scheme relevant Minister under section 1.34 of the Gas Code that coverage of a covered pipeline be revoked that—
+(a) has not taken effect before the commencement day; but
+(b) is intended to take effect on or after that day;
+relevant appeals body has the same meaning as in section 2 of the old access law;
+transitioned access arrangement means—
+(a) a current access arrangement; or
+(b) an access arrangement approved, or drafted and approved, in accordance with clause 28; or
+(c) a current access arrangement incorporating revisions approved, or approved and made, in accordance with clause 29.
+Note—
+The Regulations or the Rules may also contain provisions of an application, savings or transitional nature.
+2—Schedule subject to jurisdictional transitional arrangements in jurisdictional legislation
+(1) This Schedule, and any Regulations or Rules of a savings and transitional nature, apply in this jurisdiction except to the extent provided by or under an Act of this jurisdiction (including an Act that applies this Law and the Regulations as a law of this jurisdiction).
+(2) In this clause—
+Regulations or Rules of a savings and transitional nature means Regulations or Rules that deal with matters of a savings or transitional nature relating to the transition from the application of provisions of the old access law and Gas Code to the application of provisions of this Law and the Rules.
+Part 2—General savings provision
+3—Saving of operation of old access law and Gas Code
+(1) Subject to this Schedule, the Regulations and the Rules, the repeal of the old access law or Gas Code does not—
+(a) revive anything not in force or existing at the time the repeal takes effect; or
+(b) affect the previous operation of the old access law or Gas Code or anything suffered, done or begun under or in accordance with the old access law or Gas Code; or
+(c) affect a right, privilege or liability acquired, accrued or incurred under the old access law or Gas Code; or
+(d) affect a penalty incurred in relation to—
+(i) an offence arising under the old access law; or
+(ii) a penalty incurred in relation to a breach of a provision of the old access law or Gas Code; or
+(e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
+(2) Subject to this Schedule, the Regulations and the Rules, any such penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced, as if the old access law or Gas Code had not been repealed.
+Part 3—Classification and coverage of pipelines
+4—Pending applications for the classification of pipelines lapse
+On the commencement day, every application under section 10 of the old access law in respect of which a decision has not been made under section 10 or 11 of that law immediately before that day, lapses.
+5—Old scheme coverage determinations
+On the commencement day, an old scheme coverage determination is deemed to be a coverage determination.
+6—Old scheme covered transmission pipelines
+On the commencement day, an old scheme covered pipeline that is a transmission pipeline (within the meaning of section 2 of the old access law) is deemed to be a covered pipeline that is a transmission pipeline.
+7—Old scheme covered distribution pipelines
+On the commencement day, an old scheme covered pipeline that is a distribution pipeline (within the meaning of section 2 of the old access law) is deemed to be a covered pipeline that is a distribution pipeline.
+8—Pending coverage applications under old scheme (before NCC recommendation)
+(1) This clause applies if—
+(a) there is an old scheme coverage application; and
+(b) the NCC has not made a recommendation in respect of that application under section 1.9 of the Gas Code before the commencement day.
+(2) On and after the commencement day, the NCC must, despite the repeal of the Gas Code, continue to take action in relation to the application as required under the Gas Code (including making a recommendation under section 1.7 of the Gas Code and submitting it to the relevant old scheme relevant Minister under that section) as if the old access law and Gas Code continued to apply.
+9—Pending relevant Minister decisions in relation to coverage under old scheme
+(1) This clause applies if—
+(a) an old scheme relevant Minister has received a recommendation of the NCC under section 1.7 of the Gas Code before the commencement day but the old scheme relevant Minister has not made a determination under section 1.13 of the Gas Code in relation to that recommendation before that day; or
+(b) an old scheme relevant Minister receives a recommendation of the NCC as provided for under clause 8 on or after the commencement day.
+(2) On and after the commencement day, the old scheme relevant Minister must, despite the repeal of the old access law and Gas Code, make a determination under section 1.13 of the Gas Code in relation to that recommendation as if the old access law and Gas Code continued to apply.
+(3) A determination made in accordance with subclause (2) is deemed to be, on the relevant transition date—
+(a) if the determination is that the pipeline is covered—a coverage determination;
+(b) if the determination is that the pipeline is not covered—a decision not to make a coverage determination under section 99.
+(4) In this clause—
+relevant transition date means, if an application is not made under section 38 of the old access law for a review of the determination within the time specified by that section—the day after the last day an application could have been made under that section.
+10—Pending relevant Minister decisions in relation to coverage that are reviewed under old scheme
+(1) This clause applies if—
+(a) an old scheme relevant Minister makes a determination under section 1.13 of the Gas Code in accordance with clause 9; and
+(b) an application is made under section 38 of the old access law for a review of the determination of the old scheme relevant Minister.
+(2) If on the review the relevant appeals body refuses to review the determination in accordance with section 38(11) of the old access law, the determination of the old scheme relevant Minister is deemed to be, on the day the determination of the relevant appeals body takes effect—
+(a) if the determination is that the pipeline is covered—a coverage determination;
+(b) if the determination is that the pipeline is not covered—a decision not to make a coverage determination under section 99.
+(3) If on the review the relevant appeals body makes a determination under section 38 of the old access law affirming or varying the determination of the old scheme relevant Minister, that determination (as affirmed or varied) is deemed to be, on the day the order of the relevant appeals body affirming or varying that determination takes effect—
+(a) if the effect of that determination is that the pipeline is covered—a coverage determination;
+(b) if the effect of that determination is that the pipeline is not covered—a decision not to make a coverage determination under section 99.
+(4) If on the review the relevant appeals body makes a determination under section 38 of the old access law that sets aside the determination of the old scheme relevant Minister and remits the matter to the old scheme relevant Minister for the Minister to make a determination again in respect of the matter, the Minister must make a determination under clause 9.
+(5) If on the review the relevant appeals body makes a determination under section 38 of the old access law that sets aside the determination of the old scheme relevant Minister and that is to operate in place of the determination of the old scheme relevant Minister, the determination of the relevant appeals body is deemed to be, on the day that determination takes effect—
+(a) if that determination is that the pipeline is covered—a coverage determination;
+(b) if that determination is that the pipeline is not covered—a decision not to make a coverage determination under section 99.
+11—Pending old scheme coverage determinations where no applications for review under old scheme
+(1) This clause applies if—
+(a) there is a pending old scheme coverage determination; and
+(b) an application has not been made under section 38 of the old access law for a review of the determination within the time provided for under that section (whether or not that time expires on or after the commencement day).
+(2) The pending old scheme coverage determination is deemed to be a coverage determination on the day after the last day an application could have been made under section 38 of the old access law.
+12—Pending old scheme coverage determinations where applications for review under old scheme on foot
+(1) This clause applies if—
+(a) there is a pending old scheme coverage determination; and
+(b) an application has been made under section 38 of the old access law for a review of the determination before the commencement day.
+(2) If on the review the relevant appeals body refuses to review the determination in accordance with section 38(11) of the old access law, the pending old scheme coverage determination is deemed to be a coverage determination on the day on which the determination of the relevant appeals body takes effect.
+(3) If on the review the relevant appeals body makes a determination affirming or varying the pending old scheme coverage determination, that determination (as affirmed or varied) is deemed to be a coverage determination on the day on which the order of the relevant appeals body affirming or varying that determination takes effect.
+(4) If on the review the relevant appeals body makes a determination that sets aside the pending old scheme coverage determination and remits the matter to the old scheme relevant Minister for the Minister to make a determination again in respect of the matter, the old scheme relevant Minister must make a determination under section 1.13 of the Gas Code as if the Gas Code continued to apply.
+(5) If on the review the relevant appeals body makes a determination that sets aside the pending old scheme coverage determination and that is to operate in place of the pending old scheme coverage determination, the determination of the relevant appeals body is deemed to be, on the day that determination takes effect—
+(a) if that determination is that the pipeline is covered—a coverage determination;
+(b) if that determination is that the pipeline is not covered—a decision not to make a coverage determination under section 99.
+13—Pending old scheme no-coverage determinations where no applications for review under old scheme
+(1) This clause applies if—
+(a) there is a pending old scheme no-coverage determination; and
+(b) an application has not been made under section 38 of the old access law for a review of the determination within the time provided for under that section (whether or not that time expires on or after the commencement day).
+(2) The pending old scheme no-coverage determination is deemed to be a decision not to make a coverage determination under section 93 on the day after the last day an application could have been made under section 38 of the old access law.
+14—Pending old scheme no-coverage determinations where applications for review under old scheme on foot
+(1) This clause applies if—
+(a) there is a pending old scheme no-coverage determination; and
+(b) an application has been made under section 38 of the old access law for a review of the determination before the commencement day.
+(2) If on the review the relevant appeals body refuses to review the determination in accordance with section 38(11) of the old access law, the pending old scheme no-coverage determination is deemed to be a decision not to make a coverage determination under section 99 on the day on which the determination of the relevant appeals body takes effect.
+(3) If on the review the relevant appeals body makes a determination affirming or varying the pending old scheme no-coverage determination, that determination (as affirmed or varied) is deemed to be a decision not to make a coverage determination under section 99 on the day on which the order of the relevant appeals body affirming or varying that determination takes effect.
+(4) If on the review the relevant appeals body makes a determination that sets aside the pending old scheme no-coverage determination and remits the matter to the old scheme relevant Minister for the Minister to make a determination again in respect of the matter, the old scheme relevant Minister must make a determination under section 1.13 of the Gas Code as if the Gas Code continued to apply.
+(5) If on the review the relevant appeals body makes a determination that sets aside the pending old scheme coverage determination and that is to operate in place of the pending old scheme coverage determination, the determination of the relevant appeals body is deemed to be, on the day that determination takes effect—
+(a) if that determination is that the pipeline is covered—a coverage determination;
+(b) if that determination is that the pipeline is not covered—a decision not to make a coverage determination under section 99.
+15—Pending coverage revocation applications under old scheme (before NCC recommendation)
+(1) This clause applies if—
+(a) there is an old scheme coverage revocation application; and
+(b) the NCC has not made a recommendation in respect of that application under section 1.28 of the Gas Code before the commencement day.
+(2) On and after the commencement day, the NCC must, despite the repeal of the Gas Code, continue to take action in relation to the application as required under the Gas Code (including making a recommendation under section 1.29 of the Gas Code and submitting it to the relevant old scheme relevant Minister under that section) as if the old access law and Gas Code continued to apply.
+16—Pending relevant Minister decisions in relation to coverage revocation under old scheme
+(1) This clause applies if—
+(a) an old scheme relevant Minister has received a recommendation of the NCC under section 1.29 of the Gas Code before the commencement day but the old scheme relevant Minister has not made a determination under section 1.34 of the Gas Code in relation to that recommendation before that day; or
+(b) an old scheme relevant Minister receives a recommendation of the NCC as provided for under clause 15 after the commencement day.
+(2) On and after the commencement day, the old scheme relevant Minister must, despite the repeal of the old access law or Gas Code, make a determination under section 1.34 of the Gas Code in relation to that recommendation as if the old access law and Gas Code continued to apply.
+(3) A determination made in accordance with subclause (2) is deemed to be, on the relevant transition date—
+(a) if the determination is that coverage of the covered pipeline is revoked—a coverage revocation determination;
+(b) if the determination is that coverage of the covered pipeline is not revoked—a decision not to make a coverage revocation determination under section 106.
+(4) In this clause—
+relevant transition date means, if an application is not made under section 38 of the old access law for a review of the determination within the time specified by that section—the day after the last day an application could have been made under that section.
+17—Pending relevant Minister decisions in relation to coverage revocation that are reviewed under old scheme
+(1) This clause applies if—
+(a) an old scheme relevant Minister makes a determination under section 1.34 of the Gas Code in accordance with clause 16; and
+(b) an application is made under section 38 of the old access law for a review of the determination of the old scheme relevant Minister.
+(2) If on the review the relevant appeals body refuses to review the determination in accordance with section 38(11) of the old access law, the determination of the old scheme relevant Minister is deemed to be, on the day the determination of the relevant appeals body takes effect—
+(a) if the determination is that coverage of the covered pipeline is revoked—a coverage revocation determination;
+(b) if the determination is that coverage of the covered pipeline is not revoked—a decision not to make a coverage revocation determination under section 106.
+(3) If on the review the relevant appeals body makes a determination under section 38 of the old access law affirming or varying the determination of the old scheme relevant Minister, that determination (as affirmed or varied) is deemed to be, on the day the order of the relevant appeals body affirming or varying that determination takes effect—
+(a) if the effect of that determination is that coverage of the covered pipeline is revoked—a coverage revocation determination;
+(b) if the effect of that determination is that coverage of the covered pipeline is not revoked—a decision not to make a coverage revocation determination under section 106.
+(4) If on the review the relevant appeals body makes a determination under section 38 of the old access law that sets aside the determination of the old scheme relevant Minister and remits the matter to the old scheme relevant Minister for the Minister to make a determination again in respect of the matter, the Minister must make a determination under clause 16.
+(5) If on the review the relevant appeals body makes a determination under section 38 of the old access law that sets aside the determination of the old scheme relevant Minister and that is to operate in place of the determination of the old scheme relevant Minister, the determination of the relevant appeals body is deemed to be, on the day that determination takes effect—
+(a) if that determination is that coverage of the covered pipeline is revoked—a coverage revocation determination;
+(b) if that determination is that coverage of the covered pipeline is not revoked—a decision not to make a coverage revocation determination under section 106.
+18—Pending old scheme coverage revocation determinations where no applications for review under old scheme
+(1) This clause applies if—
+(a) there is a pending old scheme coverage revocation determination; and
+(b) an application has not been made under section 38 of the old access law for a review of the determination within the time provided for under that section (whether or not that time expires on or after the commencement day).
+(2) The pending old scheme coverage revocation determination is deemed to be coverage revocation determination on the day after the last day an application could have been made under section 38 of the old access law.
+19—Pending old scheme coverage revocation determinations where applications for review under old scheme on foot
+(1) This clause applies if—
+(a) there is a pending old scheme coverage revocation determination; and
+(b) an application has been made under section 38 of the old access law for a review of the determination before the commencement day.
+(2) If on the review the relevant appeals body refuses to review the determination in accordance with section 38(11) of the old access law, the pending old scheme coverage revocation determination is deemed to be a coverage revocation determination on the day on which the determination of the relevant appeals body takes effect.
+(3) If on the review the relevant appeals body makes a determination affirming or varying the pending old scheme coverage revocation determination, that determination (as affirmed or varied) is deemed to be a coverage revocation determination on the day on which the order of the relevant appeals body affirming or varying that determination takes effect.
+(4) If on the review the relevant appeals body makes a determination that sets aside the pending old scheme coverage revocation determination and remits the matter to the old scheme relevant Minister for the Minister to make a determination again in respect of the matter, the old scheme relevant Minister must make a determination under section 1.34 of the Gas Code as if the Gas Code continued to apply.
+(5) If on the review the relevant appeals body makes a determination that sets aside the pending old scheme revocation coverage determination and that is to operate in place of the pending old scheme revocation coverage determination, the determination of the relevant appeals body is deemed to be, on the day that determination takes effect—
+(a) if that determination is that coverage of the covered pipeline is revoked—a coverage revocation determination;
+(b) if that determination is that coverage of the covered pipeline is not revoked—a decision not to make a coverage revocation determination under section 106.
+20—Pending old scheme coverage non-revocation determinations where no applications for review under old scheme
+(1) This clause applies if—
+(a) there is a pending old scheme coverage non-revocation determination; and
+(b) an application has not been made under section 38 of the old access law for a review of the determination within the time provided for under that section (whether or not that time expires on or after the commencement day).
+(2) The pending old scheme coverage non-revocation determination is deemed to be a decision not to make a coverage revocation determination under section 106 on the day after the last day an application could have been made under section 38 of the old access law.
+21—Pending old scheme coverage non-revocation determinations where applications for review under old scheme on foot
+(1) This clause applies if—
+(a) there is a pending old scheme coverage non-revocation determination; and
+(b) an application has been made under section 38 of the old access law for a review of the determination before the commencement day.
+(2) If on the review the relevant appeals body refuses to review the determination in accordance with section 38(11) of the old access law, the pending old scheme coverage non-revocation determination is deemed to be a decision not to make a coverage revocation determination under section 106 on the day on which the determination of the relevant appeals body takes effect.
+(3) If on the review the relevant appeals body makes a determination affirming or varying the pending old scheme coverage non-revocation determination, that determination (as affirmed or varied) is deemed to be a decision not to make a coverage revocation determination under section 106 on the day on which the order of the relevant appeals body affirming or varying that determination takes effect.
+(4) If on the review the relevant appeals body makes a determination that sets aside the pending old scheme coverage non‑revocation determination and remits the matter to the old scheme relevant Minister for the Minister to make a determination again in respect of the matter, the old scheme relevant Minister must make a determination under section 1.34 of the Gas Code as if the Gas Code continued to apply.
+(5) If on the review the relevant appeals body makes a determination that sets aside the pending old scheme coverage non-revocation determination and that is to operate in place of the pending old scheme coverage non-revocation determination, the determination of the relevant appeals body is deemed to be, on the day that determination takes effect—
+(a) if that determination is that coverage of the covered pipeline is revoked—a coverage revocation determination;
+(b) if that determination is that coverage of the covered pipeline is not revoked—a decision not to make a coverage revocation determination under section 106.
+22—Binding no-coverage determinations
+On the commencement day, a binding no-coverage determination in effect immediately before that day is deemed to be a 15-year no-coverage determination.
+23—Pending applications for binding no-coverage determinations (before NCC recommendation)
+(1) This clause applies if—
+(a) an application under section 13D of the old access law for a binding no-coverage determination has been made before the commencement day; and
+(b) NCC has not made a recommendation under section 13J of the old access law in relation to that application before that day.
+(2) On and after the commencement day, the NCC must, despite the repeal of the old access law, continue to take action in relation to the application as required under the old access law (including making a recommendation under section 13J of the old access law and submitting it to the relevant old scheme relevant Minister under that section) as if the old access law continued to apply.
+24—Pending relevant Minister decisions for binding no-coverage determinations under old scheme
+(1) This clause applies if—
+(a) an old scheme relevant Minister has received a recommendation of the NCC under section 13J of the old access law before the commencement day but the old scheme relevant Minister has not made a determination under section 13J of the old access law in relation to that recommendation before that day; or
+(b) an old scheme relevant Minister receives a recommendation of the NCC as provided for under clause 23 on or after the commencement day.
+(2) On and after the commencement day, the old scheme relevant Minister must, despite the repeal of the old access law, make a decision under section 13K of the old access law in relation to that recommendation as if the old access law continued to apply.
+(3) A decision made in accordance with subclause (2) is deemed to be, on the relevant transition date—
+(a) if the decision is a binding no-coverage determination—a 15-year no-coverage determination;
+(b) if the decision is not to make binding no-coverage determination—a decision not to make a 15-year no-coverage determination under section 162.
+(4) In this clause—
+relevant transition date means, if an application is not made under section 38 of the old access law for a review of the decision within the time specified by that section—the day after the last day an application could have been made under that section.
+25—Pending relevant Minister decisions in relation to binding no‑coverage determinations that are reviewed under old scheme
+(1) This clause applies if—
+(a) an old scheme relevant Minister makes a decision under section 13J of the old access law in accordance with clause 24; and
+(b) an application is made under section 38 of the old access law for a review of the decision of the old scheme relevant Minister.
+(2) If on the review the relevant appeals body refuses to review the determination in accordance with section 38(11) of the old access law, the decision of the old scheme relevant Minister is deemed to be, on the day the decision of the relevant appeals body takes effect—
+(a) if the decision is a binding no-coverage determination—a 15-year no-coverage determination;
+(b) if the decision is not to make a binding no‑coverage determination—a decision not to make a 15‑year no‑coverage determination under section 162.
+(3) If on the review the relevant appeals body makes a determination under section 38 of the old access law affirming or varying the decision of the old scheme relevant Minister, that decision (as affirmed or varied) is deemed to be, on the day the order of the relevant appeals body affirming or varying that decision takes effect—
+(a) if the decision is a binding no-coverage determination—a 15-year no-coverage determination;
+(b) if the decision is not to make a binding no‑coverage determination—a decision not to make a 15‑year no‑coverage determination under section 162.
+(4) If on the review the relevant appeals body makes a determination under section 38 of the old access law that sets aside the decision of the old scheme relevant Minister and remits the matter to the old scheme relevant Minister for the Minister to make a decision again in respect of the matter, the Minister must make a decision under clause 24.
+(5) If on the review the relevant appeals body makes a determination under section 38 of the old access law that sets aside the decision of the old scheme relevant Minister and that is to operate in place of the decision of the old scheme relevant Minister, the determination of the relevant appeals body is deemed to be, on the day that determination takes effect—
+(a) if the determination is a binding no-coverage determination—a 15‑year no‑coverage determination;
+(b) if the determination is not to make binding no-coverage determination—a decision not to make a 15-year no-coverage determination under section 162.
+Part 4—Access arrangements
+26—Current access arrangements (other than old scheme limited access arrangements)
+Subject to this Part, on the commencement day—
+(a) a current access arrangement approved in—
+(i) a final decision under section 2.16 or 2.38 of the Gas Code; or
+(ii) a further final decision under section 2.19 or 2.41 of the Gas Code,
+is deemed to be a full access arrangement approved by the AER under a full access arrangement decision;
+(b) a current access arrangement drafted and approved by a relevant Regulator under section 2.20 or 2.42 of the Gas Code is deemed to be a full access arrangement made by the AER under a full access arrangement decision.
+27—Old scheme limited access arrangements
+On the commencement day, an old scheme limited access arrangement is deemed to be a limited access arrangement approved by the AER under the Rules.
+28—Access arrangements submitted but not approved or rejected before repeal of old scheme
+(1) This clause applies if—
+(a) a proposed access arrangement has been submitted under section 2.2 of the Gas Code to a relevant Regulator before the commencement day for approval; and
+(b) the relevant Regulator has not, that day—
+(i) approved that access arrangement in a final decision under section 2.16, or a further final decision under section 2.19 of the Gas Code; or
+(ii) drafted and approved its own access arrangement under section 2.20 of the Gas Code.
+(2) On and after the commencement day, the relevant Regulator must, despite the repeal of the Gas Code, deal with the proposed access arrangement as if the Gas Code continued to apply.
+(3) An access arrangement approved, or drafted and approved, in accordance with subclause (2) is deemed to be, on the day the relevant decision takes effect—
+(a) in the case of an access arrangement approved in a final decision under section 2.16, or a further final decision under section 2.19, of the Gas Code—a full access arrangement approved by the AER under a full access arrangement decision;
+(b) in the case of an access arrangement drafted and approved by the relevant Regulator under section 2.20 of the Gas Code—a full access arrangement made by the AER under a full access arrangement decision.
+(4) Despite anything to the contrary in this Law and the repeal of the old access law, section 39 of the old access law continues to apply to a full access arrangement decision referred to in this section as if a reference in that section to a decision of the relevant Regulator under the Gas Code were a reference to a full access arrangement decision of the AER.
+29—Access arrangement revisions submitted but not approved or rejected before repeal of old scheme
+(1) This clause applies if—
+(a) proposed revisions to a current access arrangement have been submitted under section 2.28 of the Gas Code to a relevant Regulator before the commencement day for approval; and
+(b) the relevant Regulator has not, before that day—
+(i) approved those revisions in a final decision under section 2.38, or a further final decision under section 2.41, of the Gas Code; or
+(ii) drafted and approved its own revisions under section 2.42 of the Gas Code.
+(2) On and after the commencement day, the relevant Regulator must, despite the repeal of the Gas Code, deal with the proposed revisions as if the Gas Code continued to apply.
+(3) An access arrangement in respect of which revisions are approved, or drafted and approved, in accordance with subclause (2) is deemed to be, on the day the relevant decision takes effect—
+(a) in the case of an access arrangement in respect of which revisions are approved in a final decision under section 2.38, or a further final decision under section 2.41, of the Gas Code—a full access arrangement as revised by the AER under a full access arrangement decision;
+(b) in the case of an access arrangement in respect of which revisions are drafted and approved by the relevant Regulator under section 2.42 of the Gas Code—a full access arrangement (as revised) made by the AER under a full access arrangement decision.
+(4) Despite anything to the contrary in this Law and the repeal of the old access law, section 39 of the old access law continues to apply to a full access arrangement decision referred to in this section as if a reference in that section to a decision of the relevant Regulator under the Gas Code were a reference to a full access arrangement decision of the AER.
+30—Certain provisions of the Gas Code to continue to apply to current and proposed access arrangements
+(1) Despite the repeal of the Gas Code and subject to this clause and any current access arrangement modification Rules, sections 3, 8 and 10.8 of the Gas Code continue to apply to a transitioned access arrangement until revisions to that access arrangement first approved or made in accordance with this Law and the Rules after the commencement day take effect.
+(2) To avoid doubt, after the commencement day, a covered pipeline service provider must, despite anything to the contrary in a transitioned access arrangement, submit an access arrangement revision proposal in relation to that access arrangement in accordance with section 132 and the Rules.
+(3) Sections 3, 8 and 10.8 of the Gas Code, as applied under this clause, do not have effect to the extent that they provide for or deal with the procedure for the approval of revisions to access arrangements.
+(4) For the purposes of this clause—
+(a) the AER is deemed to have the functions and powers a relevant Regulator has under sections 3, 8 and 10.8 of the Gas Code as applied under this clause; and
+(b) every reference to a relevant Regulator in those sections as applied under this clause is deemed to be a reference to the AER.
+(5) In this clause—
+access arrangement revision proposal has the same meaning as in the Rules;
+current access arrangement modification Rules means Rules made for or with respect to item 81 of Schedule 1 to this Law that are in force.
+31—Certain decisions relating to certain access arrangements are reviewable regulatory decisions for purposes of Chapter 8 Part 5 of the Law
+(1) Despite anything to the contrary in this Law, the definition of reviewable regulatory decision in section 244 is deemed, during the relevant transition period, to include decisions of the AER—
+(a) that disallow a variation proposed by a service provider of a Reference Tariff contained in a transitioned access arrangement; or
+(b) to make the AER's own variation of a Reference Tariff in respect of a transitioned access arrangement—
+(i) on disallowing a variation proposed by a service provider; or
+(ii) because a service provider fails to submit such a variation as required.
+(2) In this clause—
+new scheme revisions commencement date means the date revisions approved or made to a transitioned access arrangement under this Law and the Rules take effect following the first review of that access arrangement under this Law and the Rules after the commencement day;
+Reference Tariff has the same meaning as in the Gas Code immediately before its repeal;
+relevant transition period means the period—
+(a) commencing on the commencement day; and
+(b) ending on the day after the day that is 15 business days after the first new scheme revisions commencement date.
+Note—
+See also clause 30.
+32—Limited access arrangements submitted but not approved before repeal of old scheme
+(1) This clause applies if a proposed limited access arrangement or a proposed amendment to a limited access arrangement—
+(a) has been submitted under section 13U(1) of the old access law to the ACCC before the commencement day for approval; and
+(b) the ACCC has not approved that limited access arrangement or that amendment before that day.
+(2) On and after the commencement day, the ACCC must, despite the repeal of the old access law, deal with the proposed access arrangement under section 13U as if the old access law continued to apply.
+(3) A proposed limited access arrangement, or a proposed amendment to a limited access arrangement, approved by the ACCC in accordance with subclause (2) is deemed to be, on the day the decision takes effect—
+(a) in the case of a decision approving the proposed limited access arrangement—a limited access arrangement approved by the AER under a limited access arrangement decision;
+(b) in the case of a decision approving a proposed amendment to a limited access arrangement—a variation to a limited access arrangement approved by the AER under the Rules.
+33—Extensions and expansions policies
+On the commencement day, an Extensions/Expansions Policy (as defined in section 3.16 of the Gas Code), and in effect immediately before that day, is deemed to be extension and expansion requirements.
+34—Queuing policies
+On the commencement day, a Queuing Policy (as defined in section 3.12 of the Gas Code), and in effect immediately before that day, is deemed to be queuing requirements.
+Part 5—Price regulation exemptions
+35—Old scheme price regulation exemptions
+On the commencement day, an old scheme price regulation exemption in effect immediately before that day is deemed to be a price regulation exemption.
+36—Pending applications for price regulation exemptions
+(1) This clause applies if—
+(a) an application under section 13N of the old access law for an old scheme price regulation exemption has been made before the commencement day; and
+(b) NCC has not made a recommendation under section 13R of the old access law in relation to that application before that day.
+(2) On and after the commencement day, the NCC must, despite the repeal of the old access law, continue to take action in relation to the application as required under the old access law (including making a recommendation under section 13R of the old access law and submitting it to the Commonwealth Minister under that section) as if the old access law continued to apply.
+37—Pending Commonwealth Minister decisions for price regulation exemptions
+(1) This clause applies if—
+(a) the Commonwealth Minister has received a recommendation of the NCC under section 13R of the old access law before the commencement day but the Commonwealth Minister has not made a decision under section 13S of the old access law in relation to that recommendation before that day; or
+(b) the Commonwealth Minister receives a recommendation of the NCC as provided for under clause 36 after the commencement day.
+(2) On and after the commencement day, the Commonwealth Minister must, despite the repeal of the old access law, make a decision under section 13S of the old access law in relation to that recommendation as if the old access law continued to apply.
+(3) If the Commonwealth Minister makes an old scheme price regulation exemption under section 13S of the old access law in accordance with subclause (2), that exemption is deemed to be a price regulation exemption on the day it is made.
+Part 6—Structural and operational separation (ring fencing)
+38—Definitions
+In this Part—
+old scheme ring fencing requirement, in relation to a service provider, means—
+(a) section 4.1(b) to (d), (h) or (i) of the Gas Code as those sections apply to the service provider subject to—
+(i) any notice given to the service provider under section 4.15(a) of the Gas Code waiving that service provider's compliance with an obligation under section 4.1(b) of the Gas Code that is in effect immediately before the commencement day; and
+(ii) any notice given to the service provider under section 4.15(b) of the Gas Code waiving that service provider's compliance with an obligation under section 4.1(h) and (i) of the Gas Code that is in effect immediately before the commencement day; or
+(b) any obligation applying to the service provider under a notice given to that service provider under section 4.3 of the Gas Code that is in effect immediately before the commencement day;
+relevant transition period means the period beginning on the commencement day and ending on the day that is 6 months after the commencement day.
+39—Compliance with certain old scheme ring fencing requirements sufficient compliance for 6 month period
+(1) Despite anything to the contrary in this Law, a service provider who during the relevant transition period complies with an old scheme ring fencing requirement must be taken to comply with Division 2 and Division 3 of Chapter 4 Part 2 of the Law during that period.
+(2) In addition to subclause (1) but subject to subclauses (3) and (4), a service provider must continue to comply with an old scheme ring fencing requirement as if the Gas Code continued to apply.
+(3) A service provider may depart from complying with an old scheme ring fencing requirement before the end of the relevant transition period solely for the purpose of preparing to comply with Division 2 or Division 3 of Chapter 4 Part 2 of this Law at the end of that period.
+(4) If a service provider does depart from complying with an old scheme ring fencing requirement in accordance with subclause (3) the service provider must in respect of that departure comply with Division 2 and Division 3 of Chapter 4 Part 2 of this Law (as the case requires).
+40—Existing waivers of ring fencing obligations
+(1) After the relevant transition period, a notice given to a service provider under section 4.15(a) of the Gas Code waiving that service provider's compliance with an obligation under section 4.1(b) of the Gas Code, and in effect immediately before the commencement day, is deemed to be an exemption of the AER under section 146 from the requirement to comply with section 139 given to that service provider.
+(2) After the relevant transition period, a notice given to a service provider under section 4.15(b) of the Gas Code waiving that service provider's compliance with an obligation under section 4.1(h) and (i) of the Gas Code, and in effect immediately before the commencement day, is deemed to be an exemption of the AER under section 146 from the requirement to comply with section 140 given to that service provider.
+(3) Subclauses (1) and (2) do not apply to the extent to which a notice referred to in those subclauses is inconsistent with this Law or the Rules.
+41—Additional ring fencing obligations
+(1) After the relevant transition period, a notice given to a service provider under section 4.3 of the Gas Code and in effect immediately before the commencement day is deemed to be an additional ring fencing requirement (as defined in section 137).
+(2) Subclause (1) does not apply to the extent to which a notice referred to in that subclause is inconsistent with this Law or the Rules.
+Part 7—Access disputes
+42—Non-finalised access disputes
+(1) A non-finalised access dispute must continue to be dealt with in accordance with the old access law and Gas Code despite the repeal of the old access law and Gas Code.
+(2) However, despite anything to the contrary in the old access law and Gas Code, a non‑finalised access dispute is to be dealt with by the dispute resolution body and for that purpose—
+(a) every reference to an arbitrator in Part 4 of the old access law and in the Gas Code is to be read as a reference to the dispute resolution body; and
+(b) anything done in relation to a non-finalised access dispute by an arbitrator before the commencement day is deemed to have been done by the dispute resolution body; and
+(c) the dispute resolution body may, in relation to a particular non‑finalised access dispute, have regard to any record of the arbitrator conducting the arbitration of that non-finalised access dispute; and
+(d) the arbitrator must stop conducting the arbitration and give the dispute resolution body all documents the arbitrator has created for the purposes of, or received in, the arbitration.
+(3) In this clause—
+non-finalised access dispute means an access dispute within the meaning of section 14 of the old access law that has arisen and not been finally determined under Part 4 of the old access law and Gas Code before the commencement day.
+Part 8—Investigations and proceedings
+43—Investigations into breaches and possible breaches of the old access law or Gas Code
+(1) On and after the commencement day, a relevant Regulator investigation may be conducted and completed by the AER in accordance with this Law, the Regulations and the Rules as if that investigation were commenced by the AER under this Law, the Regulations and the Rules.
+(2) In this clause—
+relevant Regulator investigation means an investigation into a breach or possible breach of the old access law or Gas Code that—
+(a) has been commenced by a relevant Regulator before the commencement day; and
+(b) has not been completed by the relevant Regulator before the commencement day.
+44—AER may conduct investigations into breaches or possible breaches of Gas Pipelines Access Law not investigated by a relevant Regulator
+(1) Despite anything to the contrary in this Schedule, the AER may, on and after the commencement day, conduct an investigation into a breach or possible breach of the old access law or the Gas Code.
+(2) The AER may conduct an investigation referred to in subclause (1) as if it were an investigation into a breach of this Law, and for that purpose, may exercise all of the powers it has under this Law relating to investigations into breaches or possible breaches under this Law.
+45—AER may bring proceedings in relation to breaches of old access law and Gas Code
+(1) In this clause—
+AER breach investigation means an investigation conducted and completed by the AER in accordance with clause 43 or 44.
+(2) On and after the commencement day, the AER may bring proceedings in the Court in respect of an AER breach investigation.
+(3) Despite anything to the contrary in clause 2 or the repeal of the old access law and Gas Code, Part 5 of the old access law applies to a proceeding under this clause as if—
+(a) a reference in that Part to a relevant Regulator or the ACCC were a reference to the AER; and
+(b) regulation 5 of, and Schedule 2 to, the Gas Pipelines Access (South Australia) Regulations 1999 were not revoked.
+Part 9—Associate contracts
+46—Pending associate contract approvals that are approved after commencement day
+(1) This clause applies if on the commencement day—
+(a) there is a proposed associate contract (within the meaning of section 10.8 of the Gas Code) with a relevant Regulator for approval; and
+(b) the relevant Regulator has not made a decision approving or not approving the proposed associate contract.
+(2) The relevant Regulator must, despite the repeal of the old access law and the Gas Code, take action in relation to that proposed associate contract under section 7.1 to 7.6 of the Gas Code as if the old access law and Gas Code continued to apply.
+(3) If the relevant Regulator decides to approve the proposed associate contract under section 7.1 to 7.6 of the Gas Code, that associate contract is deemed to be an approved associate contract on, as the case requires—
+(a) the day the relevant Regulator approves the associate contract in accordance with those sections; or
+(b) the day the relevant Regulator is deemed to have approved the associate contract by operation of those sections.
+47—Pending associate contracts approvals that are not approved
+(1) This clause applies if the relevant Regulator decides not to approve a proposed associate contract under clause 46.
+(2) If an application is not made under section 38 of the old access law for a review of the decision within the time specified by that section, the proposed associate contract is deemed not to be an approved associate contract on the day after the last day an application could have been made under that section.
+(3) If an application is made under section 38 of the old access law for a review of the decision but the relevant appeals body refuses to review the decision in accordance with section 38(11) of the old access law, the proposed associate contract is deemed not to be an approved associate contract on the day on which the determination of the relevant appeals body takes effect.
+(4) If—
+(a) an application is made under section 38 of the old access law for a review of the decision; and
+(b) the relevant appeals body, by determination, affirms the decision,
+the proposed associate contract is deemed not to be an approved associate contract on the day on which the determination of the relevant appeals body affirming the decision takes effect.
+(5) If—
+(a) an application is made under section 38 of the old access law for a review of the decision; and
+(b) the relevant appeals body makes a determination that sets aside the decision and remits the matter to the relevant Regulator for the Regulator to make a decision again in respect of the matter,
+the relevant Regulator must make a decision under clause 46.
+(6) If—
+(a) an application is made under section 38 of the old access law for a review of the decision; and
+(b) the relevant appeals body makes a determination that sets aside the decision and approves the associate contract,
+the proposed associate contract to which the determination relates is deemed to be, on the day the determination takes effect, an approved associate contract.
+48—Approved associate contracts
+(1) On the commencement day, an associate contract (within the meaning of section 10.8 of the Gas Code)—
+(a) in effect immediately before that day; and
+(b) that has been approved by a relevant Regulator under section 7 of the Gas Code,
+is deemed to be an approved associate contract.
+(2) On the commencement day, an associate contract (within the meaning of section 10.8 of the Gas Code)—
+(a) in effect immediately before that day; and
+(b) that has been deemed to have been approved by operation of section 7 of the Gas Code,
+is deemed to be an approved associate contract.
+Part 10—Other
+49—Pending and final tender approval requests lapse
+(1) On the commencement day, every Tender Approval Request (within meaning of section 10.8 of the Gas Code), in respect of which a decision has not been made under section 3.25 of the Gas Code immediately before that day, lapses.
+(2) On the commencement day, every Final Approval Request (within the meaning of section 3.29 of the Gas Code), in respect of which a decision has not been made under that section immediately before that day, lapses.
+50—Decisions approving final approval requests
+(1) This section applies if before, or on, the commencement day a relevant Regulator has made or makes a decision under section 3.32 of the Gas Code that approves a Final Approval Request (within the meaning of section 10.8 of the Gas Code).
+(2) On the commencement day—
+(a) the decision of the relevant Regulator is deemed to be a tender approval decision that has become irrevocable by operation of the Rules; and
+(b) the pipeline to which the decision relates is deemed to be a covered pipeline.
+51—Rights under certain change of law provisions in agreements or deeds not to be triggered
+(1) The repeal of the old access law and the Gas Code, and the commencement of this Law and the initial National Gas Rules, is not to be regarded as a change of law (however defined) under any agreement or deed in effect on the commencement day.
+(2) Subclause (1) applies despite any provision in any agreement or deed to the contrary.
+52—References to relevant Regulator in access arrangements
+On the commencement day, unless the context otherwise requires, every reference to a relevant Regulator in a current access arrangement deemed under Part 4 of this Schedule to be a full access arrangement or a limited access arrangement is deemed to be a reference to the AER.
+53—Old scheme classifications and scheme participant determinations
+(1) On the commencement day, every old scheme classification and scheme participant determination applying to an old scheme covered pipeline is deemed to be an initial classification decision (within the meaning of section 98(1)).
+(2) In this clause—
+old scheme classification and scheme participant determination means—
+(a) a classification and determination under section 10(5)(a) of the old access law; or
+(b) a determination under section 10(5)(b) of the old access law; or
+(c) a classification and determination under section 11(3) of the old access law.
+Part 11—Transitional provisions related to AEMO's new functions and its assumption of role of former gas market operators
+Division 1—Preliminary
+54—Definitions
+In this Part—
+AEMO T means Australian Energy Market Operator (Transitional) Ltd (ACN 132 770 104);
+asset means tangible or intangible real or personal property of any description and includes—
+(a) a present, future or contingent legal or equitable interest in real or personal property;
+(b) a chose in action;
+(c) a right, power, privilege or immunity;
+(d) goodwill;
+(e) a security;
+(f) money;
+(g) documents;
+(h) information (including data and records) in any form;
+commencement date means the date on which this Part comes into operation;
+current rules means the provisions of this Law, the Rules and the Procedures;
+establishment expenditure means expenditure incurred by the Commonwealth, AEMO T, AEMO and the former gas market operators in or in relation to the establishment of AEMO or the assumption of its statutory functions;
+former gas market operator includes VENCorp but only in its former capacity as operator of the Natural Gas Services Bulletin Board;
+GMC means Gas Market Company Limited (ACN 095 400 258);
+liability means a monetary or non-monetary obligation and includes a future or contingent obligation;
+property includes intellectual property;
+relevant legislative innovations means—
+(a) the AEMO amendments to this Law; and
+(b) the AEMO amendments to the Rules;
+rule change proposal means a proposal for making, amending or revoking a rule.
+Division 2—General provisions
+55—Saving operation of superseded jurisdictional rules
+(1) Subject to this Schedule, the repeal of the superseded jurisdictional rules does not—
+(a) revive anything not in force or existing at the time the repeal takes effect; or
+(b) affect the previous operation of the superseded jurisdictional rules or anything suffered, done or begun under or in accordance with the superseded jurisdictional rules; or
+(c) affect a right, privilege or liability acquired, accrued or incurred under the superseded jurisdictional rules; or
+(d) affect a penalty incurred for an offence arising under the superseded jurisdictional rules; or
+(e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
+(2) Subject to this Schedule, any such penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced, as if the superseded jurisdictional rules had continued in force.
+56—Transitional provisions governing accrued and accruing rights, liabilities etc
+(1) A reference in a document (including a legislative instrument) to the superseded jurisdictional rules or a particular provision of the superseded jurisdictional rules is (where the context permits) taken to be a reference to the current rules or the corresponding provision of the current rules (as the case requires).
+(2) An action taken under, or for the purposes of, the superseded jurisdictional rules is taken to be an action taken under, or for the purposes of, the corresponding provisions of the current rules.
+(3) In particular—
+(a) an administrative process commenced by the jurisdictional regulator or a former gas market operator before the relevant changeover date may be continued and completed by AEMO or the AER (as the case requires) under the current rules; and
+(b) consultation commenced before the relevant changeover date under the superseded jurisdictional rules may be continued and completed under the corresponding provisions of the current rules; and
+(c) a period that had, at the relevant changeover date, partially elapsed under the superseded jurisdictional rules is, from the relevant changeover date, taken to be part of the corresponding period (if any) under the current rules as if the current rules had been in force when the relevant period began to run.
+(4) A right or privilege that had accrued or was accruing under the superseded jurisdictional rules as at the relevant changeover date is taken to be an accrued or accruing right or privilege under the corresponding provisions of the current rules.
+(5) A liability, obligation or penalty incurred under the superseded jurisdictional rules before the relevant changeover date is, after the relevant changeover date, taken to be a liability, obligation or penalty incurred under the corresponding provisions of the current rules.
+(6) A jurisdictional regulator must not take or continue action that can be continued and completed by AEMO or the AER under this clause.
+57—Investigations
+(1) The AER may investigate a breach or possible breach of the superseded jurisdictional rules.
+(2) If an investigation of a breach or possible breach of the superseded jurisdictional rules had commenced but had not been completed before the relevant changeover date, the AER may continue and complete the investigation.
+(3) The AER must conduct or continue an investigation under this clause as if it were an investigation into a breach of this Law, and for that purpose, may exercise all the powers it has under this Law relating to investigations into breaches or possible breaches of this Law.
+58—Proceedings for breach of superseded jurisdictional rules
+(1) The AER may commence proceedings, or take any other action contemplated by the superseded jurisdictional rules, for a breach of the superseded jurisdictional rules occurring before the relevant changeover date.
+(2) The AER may continue and complete proceedings or other action for a breach of the superseded jurisdictional rules that had been commenced but not completed by the relevant changeover date.
+(3) The superseded jurisdictional rules govern the commencement, continuation, completion or determination of any such proceedings or action as if they had continued in force (subject to necessary adaptations and modifications) for the purposes of the proceedings or other action.
+59—Dispute resolution
+(1) A dispute arising from circumstances occurring before the relevant changeover date is, subject to subclause (2), to be dealt with as a rule dispute.
+(2) If—
+(a) proceedings for the resolution of a dispute had commenced under the superseded jurisdictional rules before the relevant changeover date; and
+(b) the dispute arises from circumstances occurring in Queensland or Victoria,
+the proceedings are to be continued and completed in accordance with the superseded jurisdictional rules (subject however to adaptations and modifications necessary to allow for the participation in the dispute resolution process of the dispute resolution authorities envisaged by the current rules).
+60—Registered participants
+(1) A person to whom this clause applies becomes a Registered participant on the relevant changeover date.
+(2) This clause applies to—
+(a) a person listed in the Regulations as a person to be automatically registered as a Registered participant; and
+(b) a person of a class specified in the Regulations as a class of persons to be automatically registered as Registered participants.
+61—Instruments made by former gas market operators
+(1) A procedure, guideline, directive, approval, determination or other instrument of a legislative or administrative character—
+(a) made by a former gas market operator under the superseded jurisdictional rules; and
+(b) in force immediately before the relevant changeover date,
+continues in force, subject to amendment or revocation by AEMO, as if made by AEMO under the current rules.
+(2) However, this clause does not apply to an instrument of a kind that could not have been made under the current rules assuming they had been in force when the instrument was created.
+62—Rule change proposals
+(1) Subject to this clause, a rule change proposal under the superseded jurisdictional rules that was current at the relevant changeover date is to be dealt with as follows:
+(a) if the proposal lies within the scope of the Rules—it is to be dealt with as a request for the making of a Rule;
+(b) if the proposal lies within the scope of the Procedures—it is to be dealt with as a request for the making of a Procedure.
+(2) The AEMC or AEMO (as the case requires) may dispense with a particular step in the process for making a Rule or a Procedure if it is of the opinion that the relevant step is unnecessary because no equivalent step existed under the superseded jurisdictional rules or the same or a similar step has already been taken under the superseded jurisdictional rules.
+(3) On giving a dispensation under subclause (2), the AEMC or AEMO (as the case requires) must publish notice of its decision to do so on its website and in a newspaper circulating throughout Australia.
+63—Incompatibility between request for the making of Rule or Procedure and Minister-initiated Rule or Procedure
+(1) The AEMC or AEMO (as the case requires) may reject a request for making a Rule or Procedure if the request relates to a Rule that is to be revoked by a Minister‑initiated Rule or Procedure that has been made but is yet to come into operation.
+(2) If an existing Rule is to be amended or substituted by a Minister‑initiated Rule or Procedure that has been made but is yet to come into operation, the AEMC or AEMO (as the case requires) may treat a request for making a Rule or Procedure relating to the relevant existing Rule as if the request related to that Rule as amended or substituted.
+(3) If the AEMC or AEMO (as the case requires) decides to act under this clause, it must—
+(a) inform the person that made the request of the decision; and
+(b) give that person written reasons for the decision.
+(4) In this clause—
+Minister-initiated Rule or Procedure means a Rule or Procedure made under Chapter 9 Part 2;
+Rule includes (where the context admits) a superseded jurisdictional rule.
+64—Natural Gas Services Bulletin Board
+The website to be maintained by AEMO as the Natural Gas Services Bulletin Board is to be, in the first instance, the website maintained as the Natural Gas Services Bulletin Board immediately before the commencement date.
+65—Publication of notices etc
+A requirement that AEMO publish a notice or other document on its website is, for the first 12 months after the relevant changeover date, satisfied if the notice or other document is published on the website of a former gas market operator before the relevant changeover date.
+66—Rights under change of law provisions not to be triggered by amendments to this Law etc
+(1) An amendment to this Law, or the making of a Rule or Procedure, is not to be regarded as a change of law under an agreement or deed in effect on the relevant changeover date.
+(2) Subclause (1) applies despite a provision in an agreement or deed to the contrary.
+Division 3—Transfer of assets and liabilities of GMC and AEMO T
+67—Transfer of assets and liabilities
+(1) The NSW Minister may, by instrument in writing (an allocation order), transfer any of GMC's assets and liabilities to AEMO.
+(2) An allocation order takes effect from a date (which may be earlier than the date of the order) specified in the order.
+(3) If it appears to the NSW Minister that assets or liabilities have been transferred in error to AEMO under this clause, the Minister may, by instrument in writing (a claw back order), re‑transfer assets or liabilities transferred under this clause from AEMO to GMC.
+(4) A claw back order—
+(a) must be made within 12 months after the date of the allocation order; and
+(b) takes effect from a date (which may be earlier than the date of the order) specified in the order.
+(5) The NSW Minister must, at least 20 business days before making a claw back order, give AEMO written notice of its intention to make the order.
+(6) The NSW Minister may make an allocation order, or a claw back order, in relation to assets or liabilities situated within any participating jurisdiction.
+(7) An allocation order or a claw back order may be made on conditions specified in the order.
+68—Transfer of AEMO T's assets and liabilities
+(1) The South Australian Minister may, by Ministerial Gazette notice, transfer AEMO T's assets and liabilities to AEMO on a date fixed by the notice.
+(2) Subject to any exclusions specified in the notice, the notice will operate to transfer AEMO T's assets and liabilities in their entirety.
+69—Effect of relevant transfer order
+(1) On the relevant date, assets and liabilities vest in the transferee named in a transfer order in accordance with the order.
+(2) If a transfer order provides for the transfer of the transferor's interest in an agreement—
+(a) the transferee becomes on the relevant date a party to the agreement in place of the transferor; and
+(b) on and after the relevant date, the agreement has effect as if the transferee had always been a party to the agreement.
+(3) In this clause—
+relevant date means—
+(a) for an allocation order—the date specified in the order for the transfer to take effect;
+(b) for a claw back order—the date specified in the order for the re‑transfer to take effect;
+(c) for a Ministerial Gazette notice providing for the transfer of AEMO T's assets and liabilities—the date fixed by the notice for the transfer to take effect;
+transfer order means an allocation order, a claw back order, or a Ministerial Gazette notice under clause 68;
+transferor means the person from whom assets and liabilities are transferred by a transfer order.
+70—Continued effect of certain acts by GMC or AEMO T
+Anything done, or omitted to be done, by GMC or AEMO T in relation to assets or liabilities transferred to AEMO under this Division is, if it continues to have effect as at the date of the transfer, taken to be AEMO's act or omission.
+71—Continuation of proceedings
+Proceedings commenced before 1 July 2009 by or against GMC or AEMO T may be continued and completed by or against AEMO.
+72—Validity and effect of things done under this Division
+(1) Nothing done under this Division—
+(a) constitutes a breach of contract or confidence, or other civil wrong; or
+(b) places a person in breach of, or constitutes a default under—
+(i) a statutory or non-statutory law or obligation; or
+(ii) a provision in an agreement, arrangement or understanding including (for example) a provision prohibiting, restricting or regulating the assignment, transfer, sale or disposal of property or the disclosure of information; or
+(c) fulfils a condition that allows a person to exercise a power, right or remedy in respect of, or to terminate, an agreement or obligation; or
+(d) gives rise to a remedy for a party to a contract or instrument because of a change in the beneficial or legal ownership of property; or
+(e) avoids a contract or instrument or renders it unenforceable; or
+(f) frustrates a contract; or
+(g) releases any surety or other obligor wholly or in part from any obligation.
+(2) The transfer of a liability of GMC or AEMO T under this Division releases GMC or AEMO T from the liability.
+(3) An allocation order or a claw back order has effect despite any other law or instrument.
+(4) If the books and records of GMC or AEMO T are transferred to AEMO under this Division, AEMO must—
+(a) preserve the books and records for at least 7 years; and
+(b) allow GMC or AEMO T, and their directors or former directors reasonable access to the books and records.
+73—Evidence of transfer
+(1) A written notice signed by the NSW Minister stating that a specified transfer of assets or liabilities has been made from or to GMC under this Division is conclusive evidence of the transfer.
+(2) A written notice signed by the South Australian Minister stating that a specified transfer of assets or liabilities has been made from or to AEMO T under this Division is conclusive evidence of the transfer.
+74—Obsolete references
+A reference in a document to GMC or to AEMO T in connection with an asset or liability transferred to AEMO under this Division is, from the date of transfer, taken to be a reference to AEMO.
+Division 4—Acceptance of transfer from former gas market operators and AEMO T
+75—Parties to transfer must do anything necessary to perfect transfer
+(1) AEMO must accept assets and liabilities transferred to it under this Part or under jurisdictional legislation.
+(2) The South Australian Minister may direct AEMO's directors to accept, on AEMO's behalf, a transfer of assets or liabilities made under this Part or under jurisdictional legislation.
+(3) The relevant parties must take necessary action to perfect a transfer of assets or liabilities under this Part or under jurisdictional legislation.
+(4) The South Australian Minister may direct the directors of a relevant party to ensure that the relevant party complies with an obligation imposed under subclause (3).
+(5) In this clause—
+relevant party means—
+(a) AEMO; or
+(b) AEMO T; or
+(c) GMC.
+76—Corporations Act displacement
+To the extent that any provision of this Part is incapable of concurrent operation with a provision of the Corporations Act 2001 of the Commonwealth (a designated Commonwealth provision), the provision of this Part is declared to be Corporations legislation displacement provision for the purposes of section 5G of that Act in relation to the designated Commonwealth provision.
+Note—
+Section 5G of the Corporations Act provides that if a State law declares a provision of a State law to be a Corporations legislation displacement provision, any provision of the Corporations legislation with which the State provision would otherwise be inconsistent does not apply to the extent necessary to avoid the inconsistency.
+Division 5—Fees and charges
+77—AEMO's fees and charges
+(1) Despite Chapter 2 Part 6 Division 5—
+(a) for the first 2 years of the prescribed period, fees and charges must be determined and recovered on the same basis as they were determined and recovered by the former gas market operators whose functions AEMO has assumed; and
+(b) for the final year of the prescribed period, fees and charges may be determined and recovered on the same basis as they were determined and recovered by the former gas market operators whose functions AEMO has assumed; but
+(c) AEMO must carry out a review of its fees and charges before the end of the prescribed period and ensure that, as from the end of the prescribed period, the determination and recovery of its fees and charges conform with Chapter 2 Part 6 Division 5 and the Rules.
+(2) In this clause—
+prescribed period means the period of 3 years commencing on the commencement of this clause or some other date fixed by Ministerial Gazette notice.
+78—Establishment expenditure
+(1) AEMO may recover establishment expenditure as a component of the participant fees payable by users and non‑scheme pipeline users.
+(2) The establishment expenditure is to be recovered—
+(a) over a period of 4 financial years from the relevant changeover date; and
+(b) in accordance with a schedule prepared by AEMO and published on its website.
+(3) AEMO is not required to consult on the schedule.
+79—Expenditure on gas statement of opportunities
+(1) Expenditure related to the gas statement of opportunities made before, or within 3 years after, the commencement date is to be regarded as expenditures on a major gas project.
+(2) AEMO may recover that expenditure as a component of the participant fees payable by users and non‑scheme pipeline users.
+(3) The expenditure is to be recovered—
+(a) over a period of 4 financial years from the relevant changeover date; and
+(b) in accordance with a schedule prepared by AEMO and published on its website.
+(4) AEMO is not required to consult on the schedule.
+Division 6—Information
+80—Transferred information
+(1) AEMO stands in the same position as GMC or AEMO T in relation to information transferred under this Part from GMC or AEMO T to AEMO.
+(2) It follows that—
+(a) if the information was confidential in the hands of GMC or AEMO T before the transfer, it remains confidential in AEMO's hands after the transfer; and
+(b) AEMO must deal with the information in the same way as if it had been acquired or produced by AEMO rather than GMC or AEMO T.
+(3) AEMO must allow GMC or AEMO T or their representatives such access to the transferred information as may be reasonable in the circumstances.
+81—Calculations
+A calculation made by a former gas market operator before the relevant changeover date is, to the extent it has continuing relevance after the relevant changeover date, taken to have been made by AEMO.
+Division 7—Deferral of relevant legislative innovations in Queensland
+82—Queensland Minister's power to defer commencement of relevant legislative innovations
+(1) The Queensland Minister may, by notice published in the Queensland Government Gazette, defer the commencement in Queensland of specified parts or provisions of the relevant legislative innovations.
+(2) The Queensland Minister may, by subsequent notice published in the Queensland Government Gazette, vary or revoke a notice under subclause (1).
+Division 8—Special transitional provisions for South Australia
+83—Definitions
+In this Division—
+relevant contractual provisions for dispute resolution means the provisions for dispute resolution contained in transitional contracts;
+Retail Market Procedures means Procedures governing the operation of the regulated retail gas market in South Australia;
+Retail Market Rules means the rules published by REMCo as the REMCo Retail Market Rules insofar as those rules apply in relation to South Australia;
+transitional contract means a contract, or presumptive contract, that continues in force under clause 84;
+transitional period means the period for which transitional contracts remain in force after the relevant changeover date.
+84—Transitional contracts
+(1) A contract, or presumptive contract, in the form, or substantially in the form, prescribed in the appendices to the Retail Market Rules that was in force immediately before the relevant changeover date continues in force after the relevant changeover date for the purposes of, and subject to and in accordance with, the corresponding provisions of the Retail Market Procedures.
+(2) Any such contract or presumptive contract is to be read and construed—
+(a) as if—
+(i) a reference to REMCo were a reference to AEMO; and
+(ii) a reference to the Retail Market Rules, or a provision of the Retail Market Rules were a reference to the Retail Market Procedures or the corresponding provision of the Retail Market Procedures; and
+(iii) the contract were amended to reflect the most recent version of the relevant pro‑forma contract set out in the appendices to the Retail Market Procedures; and
+(b) subject to any other necessary adaptations and modifications.
+85—Contractual provisions for dispute resolution
+(1) The relevant contractual provisions for dispute resolution apply, to the exclusion of provisions of this Law or the Rules for dispute resolution, in relation to any dispute to which the relevant contractual provisions are applicable.
+(2) The relevant contractual provisions for dispute resolution continue to operate for as long as the transitional contracts in which they are contained continue in force.
+86—Risk allocation
+(1) To the extent of any inconsistency, Part 8.5 of the Retail Market Procedures applies, during the transitional period, to the exclusion of Chapter 2 Part 6 Division 10 of this Law.
+(2) To the extent of any inconsistency, clause 366 of the Retail Market Procedures applies, during the transitional period, to the exclusion of Rule 138A(8) of the National Gas Rules.
+(3) In this clause, a reference to the Retail Market Procedures is (if the Retail Market Rules have not yet been superseded by the Retail Market Procedures) to be read as a reference to the Retail Market Rules.
+Part 12—Transitional provision related to short term trading markets
+87—Initial STTM Procedures
+(1) This clause applies if on the day section 9 of the National Gas (South Australia) (Short Term Trading Market) Amendment Act 2009 of South Australia comes into operation there are Rules in force that specify a procedure to be followed in the making of Procedures (the NGR Procedures Rules).
+(2) Despite the NGR Procedures Rules, AEMO is not required to comply with the NGR Procedures Rules for the purpose of making the first STTM Procedures under section 91BRG after the enactment of the National Gas (South Australia) (Short Term Trading Market) Amendment Act 2009.
+Part 13—Application of National Energy Retail Law amendments
+88—Application of National Energy Retail Law amendments
+The amendments made to this Law by the Statutes Amendment (National Energy Retail Law) Act 2011 of South Australia do not apply in a participating jurisdiction until the National Energy Retail Law is applied in that jurisdiction as a law of that jurisdiction.
+Part 14—Information publication
+89—Information publication
+The release of information given to the AER or AEMO in confidence before the commencement of this clause will be subject to the provisions of this Law in force immediately before that commencement.
+Part 15—Transitional provision related to AEMC rule making powers
+90—AEMC rule making powers
+The amendment to section 304 of this Law by section 26 of the Statutes Amendment (National Energy Laws) (Rules) Act 2018 does not apply to the making of—
+(a) a Rule on a request under section 295(1) of this Law received by the AEMC before the commencement of this clause; or
+(b) an AEMC initiated Rule (within the meaning of section 290 of this Law) in respect of which the AEMC has, before the commencement of this clause, published notice of its intention to make.
