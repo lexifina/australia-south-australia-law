@@ -36,6 +36,7 @@ Division 4—Removal and consumption of liquor
 Division 5—Regulation of prescribed entertainment
 Division 6—Noise
 Division 7—Employment of minors
+Division 7A—Sale of liquor through direct sales transaction
 Division 8—Sale or supply to intoxicated persons
 Division 9—Miscellaneous requirements
 Part 7—Minors
