@@ -115,8 +115,8 @@ Note—
 The driver of a fatigue-regulated heavy vehicle may not be required under Chapter 6 Part 4, in relation to particular work, to keep a work diary and to record the location of the driver's base in the work diary, if, for example—
 • the driver is undertaking 100km work under standard hours
 • the driver is working under a work diary exemption.
-(2) For a driver who is a self-employed driver and an employed driver at different times, the driver may have one base as a self-employed driver under paragraph 1 and another base as an employed driver under that paragraph.
-(3) For a driver who has 2 or more employers, the driver may have a different base in relation to each employer under paragraph 1.
+(2) For a driver who is a self‑employed driver and an employed driver at different times, the driver may have one base as a self‑employed driver under paragraph (1) and another base as an employed driver under that paragraph.
+(3) For a driver who has 2 or more employers, the driver may have a different base in relation to each employer under paragraph (1).
 B‑double means a combination consisting of a prime mover towing 2 semitrailers, with the first semitrailer being attached directly to the prime mover by a fifth wheel coupling and the second semitrailer being mounted on the rear of the first semitrailer by a fifth wheel coupling on the first semitrailer;
 Typical B‑double
 B‑triple means a combination consisting of a prime mover towing 3 semitrailers, with—
@@ -133,6 +133,10 @@ BFM standards and business rules, for the purposes of Chapter 8, has the meaning
 Board means the National Heavy Vehicle Regulator Board established under section 662;
 body of fatigue knowledge means any accreditation scheme, scientific knowledge, expert opinion, guidelines, standards or other knowledge about preventing or managing exposure to risks to safety either on a road or in a workplace, arising from fatigue;
 bus means a heavy motor vehicle built or fitted to carry more than 9 adults (including the driver);
+business practices, of a person, means the person's practices in running a business associated with the use of a heavy vehicle on a road, including—
+(a) the operating policies and procedures of the business; and
+(b) the human resource and contract management arrangements of the business; and
+(c) the arrangements for preventing or minimising public risks associated with the person's practices;
 cancel, for the purposes of Chapter 6 in relation to an unused daily sheet in a written work diary, has the meaning given by section 221;
 category of heavy vehicles—see section 15;
 cause, a thing, includes—
@@ -152,11 +156,11 @@ class 2 heavy vehicle authorisation (notice) has the meaning given by section 13
 class 2 heavy vehicle authorisation (permit) has the meaning given by section 143(2);
 class 3 heavy vehicle has the meaning given by section 116(3);
 combination means a group of vehicles consisting of a motor vehicle towing 1 or more other vehicles;
-commercial consignor, for the purposes of Division 4 and Division 5 of Chapter 5 Part 2, has the meaning given by section 210;
 Commonwealth Gazette means the Commonwealth of Australia Gazette;
 Commonwealth Gazette notice means notice published in the Commonwealth Gazette;
 Commonwealth responsible Minister means the Commonwealth Minister nominated by the Commonwealth as the responsible Minister for the Commonwealth for the purposes of this Law;
 compensation order has the meaning given by section 611(1);
+complaint, for an offence, includes an information, or a complaint, charge, notice or other process that starts a proceeding for the offence;
 compliance purposes means—
 (a) monitoring purposes; or
 (b) investigation purposes;
@@ -171,12 +175,8 @@ consent includes an approval or concurrence;
 consign and consignor—
 A person consigns goods, and is a consignor of goods, for road transport using a heavy vehicle, if—
 (a) the person has consented to being, and is, named or otherwise identified as a consignor of the goods in the transport documentation relating to the road transport of the goods; or
-(b) there is no person as described in paragraph (a) and—
-(i) the person engages an operator of the vehicle, either directly or indirectly or through an agent or other intermediary, to transport the goods by road; or
-(ii) there is no person as described in subparagraph (i) and the person has possession of, or control over, the goods immediately before the goods are transported by road; or
-(iii) there is no person as described in subparagraph (i) or (ii) and the person loads a vehicle with the goods, for road transport, at a place—
-(A) where goods in bulk are stored, temporarily held or otherwise held waiting collection; and
-(B) that is usually unattended, other than by the vehicle's driver or someone else necessary for the normal use of the vehicle, during loading; or
+(b) the person engages an operator of the vehicle, either directly or indirectly or through an agent or other intermediary, to transport the goods by road; or
+(ba) if paragraphs (a) and (b) do not apply—the person has possession of, or control over, the goods immediately before the goods are transported by road;
 (c) there is no person as described in paragraph (a) or (b) and the goods are imported into Australia and the person is the importer of the goods;
 consignee, of goods—
 (a) means a person who—
@@ -187,7 +187,10 @@ container weight declaration—
 (a) means a written declaration, whether contained in 1 or more documents, stating or purporting to state the weight of a freight container and its contents; and
 Examples—
 an email, a placard fixed to the container
+Note—
+See the definition document in section 12 of Schedule 1.
 (b) includes a copy of a declaration mentioned in paragraph (a);
+contract includes an agreement;
 converter dolly means a pig trailer with a fifth wheel coupling designed to convert a semitrailer into a dog trailer;
 Typical converter dolly
 convict, a person of an offence, has the meaning given by section 9(1);
@@ -239,7 +242,8 @@ embargoed thing means a thing the subject of an embargo notice;
 employed driver, of a heavy vehicle, means a person who is employed by someone else to drive the vehicle;
 employee means an individual who is employed by someone else;
 employer means a person who employs someone else;
-entity includes a person and an unincorporated body;
+encourage includes give an incentive;
+entity includes a person, an unincorporated partnership and an unincorporated body;
 entry, in a work record, for the purposes of Chapter 6, has the meaning given by section 221;
 equipment, in relation to a heavy vehicle, includes tools, devices and accessories in the vehicle;
 escort vehicle means a pilot vehicle that is driven by a police officer or another person authorised to direct traffic under an Australian road law;
@@ -250,6 +254,9 @@ executive officer, of a corporation, means—
 exemption hours, for the purposes of Chapter 6, has the meaning given by section 259;
 exercise, for a function, includes perform;
 extract, of a document, device or other thing, means a copy of any information contained in the document, device or other thing;
+Note—
+See the definition document in section 12 of Schedule 1.
+false or misleading means false or misleading in a material particular;
 fatigue has the meaning given by section 223;
 fatigue record keeping exemption means—
 (a) a fatigue record keeping exemption (notice); or
@@ -321,6 +328,12 @@ in, a vehicle, includes on the vehicle;
 indicated, by an official traffic sign, includes—
 (a) indicated by way of a direction on an official traffic sign; and
 (b) indicated by way of a direction, indication or requirement that, under a law, is prescribed as being given or imposed, because of an official traffic sign;
+indictable offence means an offence mentioned in section 26F;
+information includes—
+(a) information in the form of a printed document; and
+Note—
+See the definitions printed and document in section 12 of Schedule 1.
+(b) information stored electronically;
 information notice, for a decision, means a notice stating the following:
 (a) the decision;
 (b) the reasons for the decision;
@@ -371,6 +384,8 @@ Examples—
 (v) information reported through the use of an intelligent transport system;
 (vi) a driver manual or instruction sheet;
 (vii) an advice resulting from check weighing of a heavy vehicle's mass or load performed before, during or after a journey;
+Note—
+See the definition document in section 12 of Schedule 1.
 law enforcement agency means an agency that has functions or activities directed at the prevention, detection, investigation, prosecution or punishment of offences and other contraventions of a law for which penalties or sanctions may be imposed;
 law enforcement purposes, for the purposes of Chapter 7, has the meaning given by section 403;
 load, of a heavy vehicle or in a heavy vehicle, means—
@@ -383,19 +398,11 @@ A person loads goods in a heavy vehicle, and is a loader of goods in a heavy veh
 (a) loads the vehicle, or any container that is in or part of the vehicle, with the goods for road transport; or
 (b) loads the vehicle with a freight container, whether or not it contains goods, for road transport;
 loaded mass, of a vehicle, means the vehicle's mass together with the mass of the vehicle's load that is transmitted to the ground;
-loading manager—
-1. A person is a loading manager for goods in heavy vehicles, other than for the purposes of Chapter 4, if—
-(a) goods are—
-(i) loaded onto a heavy vehicle at regular loading or unloading premises for heavy vehicles; or
-(ii) unloaded from a heavy vehicle at regular loading or unloading premises for heavy vehicles; and
-(b) the person—
-(i) is the person who manages, or is responsible for the operation of, the premises; or
-(ii) has been assigned by a person mentioned in subparagraph (i) as responsible for supervising, managing or controlling, directly or indirectly, activities carried out by a loader or unloader of goods at the premises.
-2. For the purposes of Chapter 4, a person is a loading manager for goods in a heavy vehicle if—
-(a) the goods are loaded onto the vehicle at regular loading or unloading premises for heavy vehicles; and
-(b) the person—
-(i) is the person who manages, or is responsible for the operation of, the premises; or
-(ii) has been assigned by a person mentioned in subparagraph (i) as responsible for supervising, managing or controlling, directly or indirectly, activities carried out by a loader of the goods.
+loading manager, for goods in a heavy vehicle, means—
+(a) a person who manages, or is responsible for the operation of, regular loading or unloading premises for heavy vehicles where the goods are—
+(i) loaded onto the heavy vehicle; or
+(ii) unloaded from the heavy vehicle; or
+(b) a person who has been assigned by a person mentioned in paragraph (a) as responsible for supervising, managing or controlling, directly or indirectly, activities carried out by a loader or unloader of goods at regular loading or unloading premises for heavy vehicles;
 loading requirements has the meaning given by section 110;
 local government authority, for a participating jurisdiction, means an entity that is declared by a law of that jurisdiction to be a local government authority for that jurisdiction for the purposes of this Law;
 maintenance management accreditation means—
@@ -408,6 +415,9 @@ major rest break, for the purposes of Chapter 6, has the meaning given by sectio
 malfunction—
 (a) for the purposes of Chapter 6, has the meaning given by section 221; and
 (b) for the purposes of Chapter 7, has the meaning given by section 403;
+management member, of an unincorporated body, means—
+(a) if the body has a management committee—each member of the management committee; or
+(b) otherwise—each member who is concerned with, or takes part in, the body's management, whatever name is given to the member's position in the body;
 mass, dimension or loading requirement means a mass requirement, dimension requirement or loading requirement;
 mass management accreditation means—
 (a) mass management accreditation granted under section 458; or
@@ -441,7 +451,6 @@ minor risk breach—
 (b) for a dimension requirement—has the meaning given by section 105; or
 (c) for a loading requirement—has the meaning given by section 112; or
 (d) for a maximum work requirement or minimum rest requirement—has the meaning given by section 222(1);
-mistake of fact defence—see section 14;
 modification, for the purposes of Chapter 3 Part 3, has the meaning given by section 84;
 monitoring purposes means finding out whether this Law is being complied with;
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle;
@@ -456,7 +465,9 @@ Under sections 248 and 303, the time must be based on the time zone of the drive
 night work time, for the purposes of Chapter 6, has the meaning given by section 221;
 noncompliance report, for the purposes of Chapter 7, has the meaning given by section 403;
 non‑participating jurisdiction, for the purposes of Chapter 6, has the meaning given by section 221;
-notice means written notice;
+notice—
+(a) means written notice; and
+(b) for the purposes of Chapter 9 Part 4 Division 5B, has the meaning given by section 576D;
 occupier, of a place, includes the following:
 (a) if there is more than 1 person who apparently occupies the place—any 1 of the persons;
 (b) any person at the place who is apparently acting with the authority of a person who apparently occupies the place;
@@ -496,9 +507,17 @@ participating jurisdiction—
 (ii) a law that substantially corresponds to the provisions of this Law has been enacted; or
 (iii) a law prescribed by the national regulations for the purposes of this subparagraph has been enacted; or
 (b) for the purposes of Chapter 6—has the meaning given by section 221;
-party in the chain of responsibility—
-(a) for a heavy vehicle, for the purposes of Chapter 5 Part 2 Division 5, has the meaning given by section 214; or
-(b) for a fatigue‑regulated heavy vehicle, for the purposes of Chapter 6, has the meaning given by section 227;
+party in the chain of responsibility, for a heavy vehicle, means each of the following persons:
+(a) if the vehicle's driver is an employed driver—an employer of the driver;
+(b) if the vehicle's driver is a self‑employed driver—a prime contractor for the driver;
+(c) an operator of the vehicle;
+(d) a scheduler for the vehicle;
+(e) a consignor of any goods in the vehicle;
+(f) a consignee of any goods in the vehicle;
+(g) a packer of any goods in the vehicle;
+(h) a loading manager for any goods in the vehicle;
+(i) a loader of any goods in the vehicle;
+(j) an unloader of any goods in the vehicle;
 passenger, of a vehicle, means any person carried in the vehicle other than the vehicle's driver or someone else necessary for the normal use of the vehicle;
 PBS design approval means a current approval given under section 22 for the design of a type of heavy vehicle that, if built to the design, is eligible for PBS vehicle approval;
 Note—
@@ -540,7 +559,9 @@ prime contractor, of the driver of a heavy vehicle, means a person who engages t
 Example—
 a logistics business that engages a subcontractor to transport goods
 prime mover means a heavy motor vehicle designed to tow a semitrailer;
+prohibition notice has the meaning given by section 576A(3);
 prohibition order has the meaning given by section 607(1);
+promisee—see section 590A;
 protected information, for the purposes of Chapter 13 Part 4, has the meaning given by section 727;
 public authority means—
 (a) a State or Territory or the Commonwealth, in any capacity; or
@@ -552,6 +573,9 @@ public notice means a notice—
 public place means a place or part of a place—
 (a) that the public is entitled to use, is open to members of the public or is used by the public, whether or not on payment of money; or
 (b) the occupier of which allows members of the public to enter, whether or not on payment of money;
+public risk means—
+(a) a safety risk; or
+(b) a risk of damage to road infrastructure;
 public safety means the safety of persons or property, including the safety of—
 (a) the drivers of, and passengers and other persons in, vehicles and combinations; and
 (b) persons or property in or in the vicinity of, or likely to be in or in the vicinity of, road infrastructure and public places; and
@@ -562,11 +586,19 @@ qualified, to drive a heavy vehicle, or to start or stop its engine, for a perso
 (a) holds a driver licence of the appropriate class to drive the vehicle that is not suspended; and
 (b) is not prevented under a law, including, for example, by the conditions of the driver licence, from driving the vehicle at the relevant time;
 Queensland Minister means the responsible Minister for Queensland;
-reasonable steps defence means the defence mentioned in section 618;
 reasonably believes means believes on grounds that are reasonable in the circumstances;
+reasonably practicable, in relation to a duty, means that which is, or was at a particular time, reasonably able to be done in relation to the duty, weighing up all relevant matters, including—
+(a) the likelihood of a safety risk, or damage to road infrastructure, happening; and
+(b) the harm that could result from the risk or damage; and
+(c) what the person knows, or ought reasonably to know, about the risk or damage; and
+(d) what the person knows, or ought reasonably to know, about the ways of—
+(i) removing or minimising the risk; or
+(ii) preventing or minimising the damage; and
+(e) the availability and suitability of those ways; and
+(f) the cost associated with the available ways, including whether the cost is grossly disproportionate to the likelihood of the risk or damage;
 reasonably satisfied means satisfied on grounds that are reasonable in the circumstances;
 reasonably suspects means suspects on grounds that are reasonable in the circumstances;
-record keeper, for the purposes of Chapter 6, has the meaning given by section 317;
+record keeper has the meaning given by section 317;
 record location, of the driver of a fatigue‑regulated heavy vehicle, for the purposes of Chapter 6, has the meaning given by section 290;
 registered industry code of practice means an industry code of practice registered under section 706;
 registered interest means an interest registered under the Personal Property Securities Act 2009 of the Commonwealth by a secured party for which the thing or sample is collateral;
@@ -574,15 +606,17 @@ registered operator, of a heavy vehicle, means the person recorded on a vehicle 
 registration, of a heavy vehicle, means registration of the vehicle under an Australian road law;
 registration authority, for a heavy vehicle, means the authority responsible for the registration of the vehicle under an Australian road law;
 registration item means a document, number plate, label or other thing relating to the registration or purported registration of a heavy vehicle;
+Note—
+See the definition document in section 12 of Schedule 1.
 registration number, for a heavy vehicle, means the identifying registration number, however described, given to the vehicle under an Australian road law;
 regular loading or unloading premises—
 1 Regular loading or unloading premises, for heavy vehicles, means premises at or from which an average of at least 5 heavy vehicles are loaded or unloaded on each day the premises are operated for loading or unloading heavy vehicles.
 2 For the purposes of paragraph 1, an average of at least 5 heavy vehicles are loaded or unloaded at or from premises on each day the premises are operated for loading or unloading heavy vehicles if—
 (a) for premises operated for loading or unloading heavy vehicles for 12 months or more—during the previous 12 months, an average of at least 5 heavy vehicles were loaded or unloaded at or from the premises on each day the premises were operated for loading or unloading heavy vehicles; or
 (b) for premises operated for loading or unloading heavy vehicles for less than 12 months—during the period the premises have been in operation for loading or unloading heavy vehicles, an average of at least 5 heavy vehicles were loaded or unloaded at or from the premises on each day the premises were operated for loading or unloading heavy vehicles;
-3 In the application of this definition to the definition loading manager where used in Chapter 6, references in paragraphs 1 and 2 to "an average of at least 5 heavy vehicles" are to be read as references to an average of at least 5 fatigue-regulated heavy vehicles.
+3 In the application of this definition to the definition loading manager where used in Chapter 6, references in paragraphs 1 and 2 to "an average of at least 5 heavy vehicles" are to be read as references to an average of at least 5 fatigue‑regulated heavy vehicles.
 Note—
-Consequently, Chapter 6 (including sections 227, 238, 239 and 261) applies to a person as a loading manager only if the premises concerned are premises at or from which an average of at least 5 fatigue-regulated heavy vehicles are loaded or unloaded on each day the premises are operated for loading or unloading heavy vehicles.
+Consequently, Chapter 6 applies to a person as a loading manager only if the premises concerned are premises at or from which an average of at least 5 fatigue-regulated heavy vehicles are loaded or unloaded on each day the premises are operated for loading or unloading heavy vehicles.
 Regulator means the National Heavy Vehicle Regulator established under section 656;
 Regulator's website means the website of the Regulator on the Internet;
 relevant appeal body, for the purposes of Chapter 11, has the meaning given by section 640;
@@ -681,6 +715,25 @@ road train means—
 Typical triple road train
 road transport means transport by road;
 route assessment, for the purposes of Chapter 4 Part 7, has the meaning given by section 154;
+safety duty means a duty imposed under any of the following provisions:
+(a) section 26C;
+(b) section 26E(1) or (2);
+(c) section 89(1);
+(d) section 93(1), (2) or (3);
+(e) section 129(1), (2) or (3);
+(f) section 137;
+(g) section 150(1);
+(h) section 153A(1);
+(i) section 186(2), (3), (4) or (5);
+(j) section 187(2) or (3);
+(k) section 335(1);
+(l) section 336(1);
+(m) section 337(2);
+(n) section 454(1) or (2);
+(o) section 467;
+(p) section 470(2), (3) or (4);
+(q) section 604;
+(r) section 610;
 safety risk means a risk—
 (a) to public safety; or
 (b) of harm to the environment;
@@ -767,6 +820,16 @@ tractor means a motor vehicle used for towing purposes, other than—
 (b) a tow truck;
 traffic includes vehicular traffic, pedestrian traffic and all other forms of road traffic;
 trailer means a vehicle that is built to be towed, or is towed, by a motor vehicle, but does not include a motor vehicle being towed;
+transport activities means activities, including business practices and making decisions, associated with the use of a heavy vehicle on a road, including, for example—
+(a) contracting, directing or employing a person—
+(i) to drive the vehicle; or
+(ii) to carry out another activity associated with the use of the vehicle (such as maintaining or repairing the vehicle); or
+(b) consigning goods for transport using the vehicle; or
+(c) scheduling the transport of goods or passengers using the vehicle; or
+(d) packing goods for transport using the vehicle; or
+(e) managing the loading of goods onto or unloading of goods from the vehicle; or
+(f) loading goods onto or unloading goods from the vehicle; or
+(g) receiving goods unloaded from the vehicle;
 transport documentation means each of the following:
 (a) each contractual document directly or indirectly associated with—
 (i) a transaction for the actual or proposed road transport of goods or passengers or any previous transport of the goods or passengers by any transport method; or
@@ -785,6 +848,8 @@ Examples—
 • load manifest
 • sea carriage document
 • vendor declaration
+Note—
+See the definition document in section 12 of Schedule 1.
 travel condition has the meaning given by section 154;
 tri‑axle group means a group of at least 3 axles, in which the horizontal distance between the centre‑lines of the outermost axles is more than 2m but not more than 3.2m;
 truck means a rigid motor vehicle built mainly as a load carrying vehicle;
@@ -800,6 +865,7 @@ under, for a law or a provision of a law, includes—
 (b) for the purposes of; and
 (c) in accordance with; and
 (d) within the meaning of;
+unincorporated body includes an unincorporated local government authority, but does not include an unincorporated partnership;
 unincorporated local government authority means a local government authority that is not a body corporate;
 unload and unloader—
 A person unloads goods in a heavy vehicle, and is an unloader of goods in a heavy vehicle, if the person is a person who—
@@ -907,9 +973,6 @@ In this Law, a reference to this Law as applied by an Act of a participating jur
 (b) a law prescribed by the national regulations for the purposes of paragraph (a)(iii) of the definition participating jurisdiction in section 5, enacted in a participating jurisdiction.
 13—References to road
 A reference in this Law to a road includes a reference to a road‑related area, unless a contrary intention appears in this Law.
-14—References to mistake of fact defence
-(1) This section applies if a provision of this Law states that a person charged with an offence does not have the benefit of the mistake of fact defence for the offence.
-(2) The effect of the provision, for a participating jurisdiction, is the effect that is declared by a law of that jurisdiction to be the effect of the provision.
 15—References to categories of heavy vehicles
 If a provision of this Law provides for the exemption, authorisation, prescription or description of a category of heavy vehicles, heavy vehicles may, without limitation, be categorised for the purposes of the provision as being of any stated class, including, for example—
 (a) a class of heavy vehicles used for a particular task; and
@@ -925,9 +988,11 @@ It is the intention of the Parliament of this jurisdiction that the operation of
 (1) This Law binds the State.
 (2) No criminal liability attaches to the State itself (as distinct from its agents, instrumentalities, officers and employees) under this Law.
 18—Relationship with primary work health and safety laws
-(1) This Law does not limit the application of the primary WHS Law or any regulations made under that Law.
+(1) If a provision of this Law and a provision of the primary WHS Law deal with the same thing, and it is possible to comply with both provisions, a person must comply with both provisions.
+(1a) However, to the extent it is not possible for the person to comply with both provisions, the person must comply with the provision of the primary WHS Law.
 (2) Evidence of a relevant contravention of this Law is admissible in any proceeding for an offence against the primary WHS Law.
 (3) Compliance with this Law, or with any requirement imposed under this Law, is not, in itself, evidence that a person has complied with the primary WHS Law or any regulations made under that Law or with a common law duty of care.
+(3a) If an act, omission or circumstances constitute an offence under this Law and the primary WHS Law, the offender is not liable to be punished twice for the act, omission or circumstances.
 (4) In this section—
 primary WHS Law, for a participating jurisdiction, means the law that is declared by a law of that jurisdiction to be the primary WHS Law for the purposes of this Law.
 Note—
@@ -970,6 +1035,7 @@ The Regulator must, as soon as practicable, notify the road authority for this j
 (5) The PBS vehicle approval must state the conditions (if any) to which—
 (a) the PBS vehicle approval is subject under subsection (4); and
 (b) the relevant PBS design approval is subject under section 21(5).
+(5a) The PBS vehicle approval must state the performance level for the approval.
 (6) A PBS vehicle approval cannot be given for a class 1 heavy vehicle.
 24—Exemption from stated vehicle standards
 (1) A PBS vehicle approval for a heavy vehicle may provide that the vehicle is exempt from stated vehicle standards.
@@ -983,12 +1049,120 @@ See section 96(4).
 (2) A PBS vehicle approval for a heavy vehicle may provide that the vehicle is authorised to have a dimension that exceeds a dimension limit that would otherwise apply to the vehicle under a prescribed dimension requirement.
 Note—
 See section 102(4).
+25A—Keeping copy of PBS vehicle approval while driving
+(1) The driver of a PBS vehicle must keep a copy of the PBS vehicle approval in the driver's possession while driving the PBS vehicle.
+Maximum penalty: $3 000.
+(2) Each relevant party for a driver mentioned in subsection (1) must ensure the driver complies with subsection (1), unless the relevant party has a reasonable excuse.
+Maximum penalty: $3 000.
+(3) In this section—
+relevant party, for the driver of a PBS vehicle, means—
+(a) an employer of the driver if the driver is an employed driver; or
+(b) a prime contractor of the driver if the driver is a self‑employed driver; or
+(c) an operator of the vehicle if the driver is making a journey for the operator.
 26—National regulations
 The national regulations may provide for—
 (a) the procedures for determining an application for a PBS design approval or a PBS vehicle approval, including, for example, providing for the time for making a decision on the application, the fee for the application and forms relating to the application; and
 (b) the procedures for cancelling or modifying a PBS design approval or PBS vehicle approval; and
 (c) performance based standards, and assessment and certification rules, relating to PBS design approvals or PBS vehicle approvals; and
 (d) the appointment, functions and management of persons as PBS assessors and PBS vehicle certifiers.
+Chapter 1A—Safety duties
+Part 1—Principles
+26A—Principle of shared responsibility
+(1) The safety of transport activities relating to a heavy vehicle is the shared responsibility of each party in the chain of responsibility for the vehicle.
+(2) The level and nature of a party's responsibility for a transport activity depends on—
+(a) the functions the person performs or is required to perform, whether exclusively or occasionally, rather than—
+(i) the person's job title; or
+(ii) the person's functions described in a written contract; and
+(b) the nature of the public risk created by the carrying out of the transport activity; and
+(c) the party's capacity to control, eliminate or minimise the risk.
+26B—Principles applying to duties
+(1) A person may have more than 1 duty because of the functions the person performs or is required to perform.
+(2) More than 1 person can concurrently have a duty under this Law and each duty holder must comply with that duty to the standard required by this Law even if another duty holder has the same duty.
+(3) If more than 1 person has a duty for the same matter, each person—
+(a) retains responsibility for the person's duty in relation to the matter; and
+(b) must discharge the person's duty to the extent to which the person—
+(i) has the capacity to influence and control the matter; or
+(ii) would have had that capacity but for an agreement or arrangement purporting to limit or remove that capacity.
+(4) A duty under this Law may not be transferred to another person.
+Part 2—Nature of duty
+26C—Primary duty
+(1) Each party in the chain of responsibility for a heavy vehicle must ensure, so far as is reasonably practicable, the safety of the party's transport activities relating to the vehicle.
+(2) Without limiting subsection (1), each party must, so far as is reasonably practicable—
+(a) eliminate public risks and, to the extent it is not reasonably practicable to eliminate public risks, minimise the public risks; and
+(b) ensure the party's conduct does not directly or indirectly cause or encourage—
+(i) the driver of the heavy vehicle to contravene this Law; or
+(ii) the driver of the heavy vehicle to exceed a speed limit applying to the driver; or
+(iii) another person, including another party in the chain of responsibility, to contravene this Law.
+(3) For subsection (2)(b), the party's conduct includes, for example—
+(a) the party asking, directing or requiring another person to do, or not do, something; and
+(b) the party entering into a contract—
+(i) with another person for the other person to do, or not do, something; or
+(ii) that purports to annul, exclude, restrict or otherwise change the effect of this Law.
+26D—Duty of executive of legal entity
+(1) If a legal entity has a safety duty, an executive of the legal entity must exercise due diligence to ensure the legal entity complies with the safety duty.
+Maximum penalty: The penalty for a contravention of the provision by an individual.
+(2) The executive may be convicted of an offence against subsection (1) even if the legal entity has not been proceeded against for, or convicted of, an offence relating to the safety duty.
+(2a) Subsection (1) does not apply to an executive of the legal entity acting on a voluntary basis, whether or not the executive is reimbursed for the expenses incurred by the executive for carrying out activities for the legal entity.
+(3) In this section—
+due diligence includes taking reasonable steps—
+(a) to acquire, and keep up to date, knowledge about the safe conduct of transport activities; and
+(b) to gain an understanding of—
+(i) the nature of the legal entity's transport activities; and
+(ii) the hazards and risks, including the public risk, associated with those activities; and
+(c) to ensure the legal entity has, and uses, appropriate resources to eliminate or minimise those hazards and risks; and
+(d) to ensure the legal entity has, and implements, processes—
+(i) to eliminate or minimise those hazards and risks; and
+(ii) for receiving, considering, and responding in a timely way to, information about those hazards and risks and any incidents; and
+(iii) for complying with the legal entity's safety duties; and
+(e) to verify the resources and processes mentioned in paragraphs (c) and (d) are being provided, used and implemented;
+executive, of a legal entity, means—
+(a) for a corporation—an executive officer of the corporation; or
+(b) for an unincorporated partnership—a partner in the partnership; or
+(c) for an unincorporated body—a management member of the body;
+legal entity means—
+(a) a corporation; or
+(b) an unincorporated partnership; or
+(c) an unincorporated body.
+26E—Prohibited requests and contracts
+(1) A person must not ask, direct or require (directly or indirectly) the driver of a heavy vehicle or a party in the chain of responsibility to do or not do something the person knows, or ought reasonably to know, would have the effect of causing the driver—
+(a) to exceed a speed limit applying to the driver; or
+(b) to drive a fatigue‑regulated heavy vehicle while impaired by fatigue; or
+(c) to drive a fatigue‑regulated heavy vehicle while in breach of the driver's work and rest hours option; or
+(d) to drive a fatigue‑regulated heavy vehicle in breach of another law in order to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Maximum penalty: $10 000.
+(2) A person must not enter into a contract with the driver of a heavy vehicle or a party in the chain of responsibility that the person knows, or ought reasonably to know, would have the effect of causing the driver, or would encourage the driver, or would encourage a party in the chain of responsibility to cause the driver—
+(a) to exceed a speed limit applying to the driver; or
+(b) to drive a fatigue‑regulated heavy vehicle while impaired by fatigue; or
+(c) to drive a fatigue‑regulated heavy vehicle while in breach of the driver's work and rest hours option; or
+(d) to drive a fatigue‑regulated heavy vehicle in breach of another law in order to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
+Maximum penalty: $10 000.
+Note—
+See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
+Part 3—Failing to comply with duty
+26F—Category 1 offence
+(1) A person commits an offence if—
+(a) the person has a duty under section 26C; and
+(b) the person, without a reasonable excuse, engages in conduct related to the duty that exposes an individual to a risk of death or serious injury or illness; and
+(c) the person is reckless as to the risk.
+Maximum penalty:
+(a) if an individual commits the offence—$300 000 or 5 years imprisonment or both; or
+(b) if a corporation commits the offence—$3 000 000.
+(2) The prosecution bears the burden of proving that the conduct was engaged in without reasonable excuse.
+26G—Category 2 offence
+A person commits an offence if—
+(a) the person has a duty under section 26C; and
+(b) the person contravenes the duty; and
+(c) the person's contravention exposes an individual, or class of individuals, to a risk of death or serious injury or illness.
+Maximum penalty:
+(a) if an individual commits the offence—$150 000; or
+(b) if a corporation commits the offence—$1 500 000.
+26H—Category 3 offence
+A person commits an offence if—
+(a) the person has a duty under section 26C; and
+(b) the person contravenes the duty.
+Maximum penalty:
+(a) if an individual commits the offence—$50 000; or
+(b) if a corporation commits the offence—$500 000.
 Chapter 3—Vehicle operations—standards and safety
 Part 1—Preliminary
 58—Main purpose of Chapter 3
@@ -1218,16 +1392,8 @@ condition offence means an offence against subsection (1), (2) or (3).
 (1) This section applies if a vehicle standards exemption (notice) is subject to the condition that the driver of a heavy vehicle who is driving the vehicle under the exemption must keep a relevant document in the driver's possession.
 (2) A driver of the heavy vehicle who is driving the vehicle under the vehicle standards exemption (notice) must comply with the condition.
 Maximum penalty: $3 000.
-(3) If the driver of a heavy vehicle commits an offence against subsection (2), each relevant party for the driver is taken to have committed an offence against this subsection.
+(3) Each relevant party for a driver mentioned in subsection (2) must ensure the driver complies with subsection (2), unless the relevant party has a reasonable excuse.
 Maximum penalty: $3 000.
-(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Divisions 1 and 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(6) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
-(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 (7) In this section—
 relevant document, for a vehicle standards exemption (notice), means a copy of—
 (a) the Commonwealth Gazette notice for the exemption; or
@@ -1241,16 +1407,8 @@ relevant party, for the driver of a heavy vehicle, means—
 Maximum penalty: $3 000.
 (2) If the driver of a heavy vehicle is driving the vehicle under a vehicle standards exemption (permit) granted to a relevant party for the driver and the relevant party has given the driver a copy of a permit for the purpose of subsection (1), the driver must, as soon as reasonably practicable, return the copy to the relevant party if the driver stops working for the relevant party.
 Maximum penalty: $3 000.
-(3) If the driver of a heavy vehicle commits an offence against subsection (1), each relevant party for the driver is taken to have committed an offence against this subsection.
+(3) Each relevant party for a driver mentioned in subsection (2) must ensure the driver complies with subsection (2), unless the relevant party has a reasonable excuse.
 Maximum penalty: $3 000.
-(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(6) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
-(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 (7) In this section—
 relevant party, for the driver of a heavy vehicle, means—
 (a) an employer of the driver if the driver is an employed driver; or
@@ -1343,10 +1501,6 @@ Maximum penalty: $10 000.
 (4) Subsection (2) does not apply to a heavy vehicle that—
 (a) is on a journey to a place for the repair of the emission control system or any of the vehicle's components or equipment that affect the operation of the emission control system; and
 (b) is travelling on the most direct or convenient route to that place from the place where the journey began.
-(5) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(6) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (7) In this section—
 emission control system means a device or system fitted to a heavy vehicle that reduces the emission of a relevant emission from the vehicle;
 tamper, with an emission control system fitted to a heavy vehicle, means alter, damage, remove, override or otherwise interfere with—
@@ -1374,10 +1528,6 @@ Maximum penalty: $10 000.
 (a) is on a journey to a place for the repair of the speed limiter or any of the vehicle's components or equipment that affect the operation of the speed limiter; and
 (b) is travelling on the most direct or convenient route to that place from the place where the journey began.
 (6) Subsection (3) applies whether or not a person has been proceeded against or found guilty of an offence against subsection (1) or (2) in relation to the tampering.
-(7) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(8) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (9) In this section—
 speed limiter means a device or system that is used to limit the maximum road speed of a heavy vehicle to which it is fitted and that complies with any applicable heavy vehicle standard;
 tamper, with a speed limiter fitted to a heavy vehicle, means alter, damage, remove, override or otherwise interfere with the speed limiter in a way that—
@@ -1411,7 +1561,8 @@ Division 1—Requirements
 (i) the tare mass of heavy vehicles; or
 (ii) the mass of heavy vehicles together with their loads; or
 (iii) the mass on tyres, axles or axle groups of heavy vehicles;
-(b) requirements about mass limits relating to axle spacing.
+(b) requirements about mass limits relating to axle spacing;
+(c) general mass limits applying to heavy vehicles or components of heavy vehicles.
 (3) Also, without limiting subsection (1) or (2), the prescribed mass requirements may—
 (a) include mass limits that are to apply only to particular areas or routes; and
 (b) authorise or require the Regulator to decide the areas or routes to which the mass limits are to apply.
@@ -1427,16 +1578,15 @@ tare mass, of a heavy vehicle, means the mass of the vehicle that—
 (d) has all fluid reservoirs (other than for fuel) filled to nominal capacity; and
 (e) has 10 litres of fuel in the fuel reservoir or reservoirs (but excluding any loaded fuel in excess of 10 litres).
 96—Compliance with mass requirements
-(1) A person must not drive on a road a heavy vehicle that (together with its load) does not, or whose components do not, comply with the mass requirements applying to the vehicle.
+(1) A person who drives, or permits another person to drive, a heavy vehicle on a road must ensure the vehicle, and the vehicle's components and load, comply with the mass requirements applying to the vehicle, unless the person has a reasonable excuse.
 Maximum penalty:
 (a) for a minor risk breach—$4 000; or
 (b) for a substantial risk breach—$6 000; or
 (c) for a severe risk breach—$10 000, plus an additional maximum $500 for every additional 1% over a 120% overload (but so that the additional maximum penalty does not exceed $20 000).
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (4) If a PBS vehicle is authorised by its PBS vehicle approval to have a mass limit that exceeds a limit that would otherwise apply to the vehicle under a prescribed mass requirement, the authorised limit is taken to be the applicable limit, and the vehicle is regarded for the purposes of this Law as complying with the prescribed mass requirement.
+(5) This section does not apply to a specified PBS vehicle as defined in section 136(2).
+Note—
+If a specified PBS vehicle does not comply with the mass requirements applying to the vehicle, it would be a class 2 heavy vehicle and could be dealt with under section 137.
 Division 2—Categories of breaches of mass requirements
 97—Definitions for Division 2
 In this Division—
@@ -1470,17 +1620,13 @@ Division 1—Requirements
 (B) a component vehicle of the combination and a component of another component vehicle of the combination.
 (3) The national regulations may also prescribe requirements (that are not prescribed dimension requirements) about the use of a vehicle to which a dimension requirement applies, including, for example, requirements about the use of signs and warning devices.
 102—Compliance with dimension requirements
-(1) A person must not drive on a road a heavy vehicle that (together with its load) does not, or whose components do not or whose load does not, comply with the dimension requirements applying to the vehicle.
+(1) A person who drives, or permits another person to drive, a heavy vehicle on a road must ensure the vehicle, and the vehicle's components and load, comply with the dimension requirements applying to the vehicle, unless the person has a reasonable excuse.
 Maximum penalty:
 (a) if the heavy vehicle does not have goods or passengers in it—$3 000; or
 (b) if the heavy vehicle has goods or passengers in it—
 (i) for a minor risk breach—$3 000; or
 (ii) for a substantial risk breach—$5 000; or
 (iii) for a severe risk breach—$10 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (4) If a PBS vehicle is authorised by its PBS vehicle approval to have a dimension that exceeds a dimension limit that would otherwise apply to the vehicle under a prescribed dimension requirement, the authorised dimension is taken to be the applicable dimension, and the vehicle is regarded for the purposes of this Law as complying with the prescribed dimension requirement.
 Division 2—Categories of breaches of dimension requirements
 103—Application of Division 2
@@ -1498,7 +1644,9 @@ substantial risk breach lower limit means—
 (c) for a particular dimension requirement applying to a heavy vehicle relating to its height—the height equalling the maximum height permitted for the vehicle under the dimension requirement plus 150mm; or
 (d) for a particular dimension requirement applying to a heavy vehicle relating to its load projection—the projection of the vehicle's load equalling the maximum load projection permitted from any side of the vehicle under the dimension requirement plus 40mm.
 105—Minor risk breach
-A contravention of a dimension requirement applying to a heavy vehicle is a minor risk breach if the subject matter of the contravention is less than the substantial risk breach lower limit for the requirement.
+A contravention of a dimension requirement applying to a heavy vehicle is a minor risk breach if—
+(a) the dimension requirement relates to the vehicle's ground clearance; or
+(b) for a contravention of any other dimension requirement—the subject matter of the contravention is less than the substantial risk breach lower limit for the requirement.
 Note—
 See also section 108(2).
 106—Substantial risk breach
@@ -1562,15 +1710,11 @@ Division 1—Requirements
 (1) The national regulations may prescribe requirements (the loading requirements) about securing a load on a heavy vehicle or a component of a heavy vehicle.
 (2) Without limiting subsection (1), the loading requirements may include requirements about the restraint or positioning of a load or any part of it on a motor vehicle or trailer.
 111—Compliance with loading requirements
-(1) A person must not drive on a road a heavy vehicle that does not, or whose load does not, comply with the loading requirements applying to the vehicle.
+(1) A person who drives, or permits another person to drive, a heavy vehicle on a road must ensure the vehicle, and the vehicle's components and load, comply with the loading requirements applying to the vehicle, unless the person has a reasonable excuse.
 Maximum penalty:
 (a) for a minor risk breach—$3 000; or
 (b) for a substantial risk breach—$5 000; or
 (c) for a severe risk breach—$10 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 Division 2—Categories of breaches of loading requirements
 112—Minor risk breach
 A contravention of a loading requirement applying to a heavy vehicle is a minor risk breach if—
@@ -1601,14 +1745,10 @@ A contravention of a loading requirement applying to a heavy vehicle is a severe
 (ii) causing an adverse effect on public amenity.
 Division 3—Evidentiary provision
 115—Proof of contravention of loading requirement
-(1) In a proceeding for an offence against Division 1—
-(a) evidence that a load on a heavy vehicle was not placed, secured or restrained in a way that met a performance standard stated in the Load Restraint Guide as in force at the time of the offence is evidence the load was not placed, secured or restrained in compliance with a loading requirement applying to the vehicle; and
-(b) evidence that a load, or part of a load, has fallen off a heavy vehicle is evidence that the load was not properly secured; and
-(c) a court must presume a document purporting to be the Load Restraint Guide as in force at the time of the offence is the Load Restraint Guide as in force at the time of the offence, until the contrary is proved.
-(2) In this section—
-Load Restraint Guide means a document of that name prepared by the National Transport Commission and published in the Commonwealth Gazette, from time to time.
-Note—
-The Load Restraint Guide may be accessed on the National Transport Commission's website at <www.ntc.gov.au>.
+(1) In a proceeding for an offence against Division 1, the following is evidence that a load on a heavy vehicle was not placed, secured or restrained in compliance with a loading requirement applying to the vehicle:
+(a) evidence that the load was not placed, secured or restrained in a way that met a loading performance standard;
+(b) evidence that a load, or part of a load, has fallen off a heavy vehicle.
+(2) The national regulations may prescribe standards (the loading performance standards) for heavy vehicles.
 Part 5—Exemptions for particular overmass or oversize vehicles
 Division 1—Preliminary
 116—Class 1 heavy vehicles and class 3 heavy vehicles
@@ -1631,7 +1771,7 @@ large indivisible item means an item that—
 (b) cannot be carried on any heavy vehicle without contravening a mass requirement or dimension requirement;
 low loader means a trailer with a loading deck no more than 1m above the ground;
 special purpose vehicle means—
-(a) a motor vehicle or trailer, other than an agricultural vehicle or a tow truck, built for a purpose other than carrying goods; or
+(a) a motor vehicle or trailer, other than an agricultural vehicle or a tow truck, built for a purpose other than transporting goods by road; or
 (b) a concrete pump or fire truck.
 Division 2—Exemptions by Commonwealth Gazette notice
 117—Regulator's power to exempt category of class 1 or 3 heavy vehicles from compliance with mass or dimension requirement
@@ -1796,12 +1936,8 @@ condition offence means an offence against subsection (1), (2) or (3).
 (1) This section applies if a mass or dimension exemption is subject to a condition requiring a heavy vehicle to which the exemption applies to be accompanied by a pilot vehicle or escort vehicle while the heavy vehicle is used on a road.
 (2) The driver of the pilot vehicle or escort vehicle accompanying the heavy vehicle must comply with the conditions of the mass or dimension exemption about the use of the pilot vehicle or escort vehicle.
 Maximum penalty: $6 000.
-(3) If the driver of the pilot vehicle or escort vehicle commits an offence against subsection (2), the operator of the heavy vehicle is taken to have committed an offence against this subsection.
+(3) The operator of the heavy vehicle must ensure, so far as is reasonably practicable, the driver of the pilot vehicle or escort vehicle complies with subsection (2).
 Maximum penalty: $6 000.
-(4) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
-(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 131—Using pilot vehicle with a heavy vehicle that contravenes certain conditions of mass or dimension exemption
 (1) The driver of a pilot vehicle must ensure the pilot vehicle does not accompany a heavy vehicle to which a mass or dimension exemption applies if the heavy vehicle, or its use on a road, contravenes a condition of the exemption because the heavy vehicle—
 (a) travels on a route not allowed under the exemption; or
@@ -1813,16 +1949,8 @@ Maximum penalty: $6 000.
 (1) This section applies if a mass or dimension exemption (notice) is subject to the condition that the driver of a class 1 heavy vehicle or class 3 heavy vehicle who is driving the vehicle under the exemption must keep a relevant document in the driver's possession.
 (2) A driver of the class 1 heavy vehicle or class 3 heavy vehicle who is driving the vehicle under the mass or dimension exemption (notice) must comply with the condition.
 Maximum penalty: $3 000.
-(3) If the driver of a class 1 heavy vehicle or class 3 heavy vehicle commits an offence against subsection (2), each relevant party for the driver is taken to have committed an offence against this subsection.
+(3) Each relevant party for a driver mentioned in subsection (2) must ensure the driver complies with subsection (2), unless the relevant party has a reasonable excuse.
 Maximum penalty: $3 000.
-(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(6) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
-(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 (7) In this section—
 relevant document, for a mass or dimension exemption (notice), means a copy of—
 (a) the Commonwealth Gazette notice for the exemption; or
@@ -1836,16 +1964,8 @@ relevant party, for the driver of a class 1 heavy vehicle or class 3 heavy vehic
 Maximum penalty: $3 000.
 (2) If the driver of a class 1 heavy vehicle or class 3 heavy vehicle is driving the vehicle under a mass or dimension exemption (permit) granted to a relevant party for the driver and the relevant party has given the driver a copy of a permit for the purpose of subsection (1), the driver must, as soon as reasonably practicable, return the copy to the relevant party if the driver stops working for the relevant party.
 Maximum penalty: $4 000.
-(3) If the driver of a class 1 heavy vehicle or class 3 heavy vehicle commits an offence against subsection (1), each relevant party for the driver is taken to have committed an offence against this subsection.
+(3) Each relevant party for a driver mentioned in subsection (1) must ensure the driver complies with subsection (1), unless the relevant party has a reasonable excuse.
 Maximum penalty: $3 000.
-(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(6) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
-(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 (7) In this section—
 relevant party, for the driver of a class 1 heavy vehicle or class 3 heavy vehicle, means—
 (a) an employer of the driver if the driver is an employed driver; or
@@ -1869,7 +1989,7 @@ The main purpose of this Part is to restrict access to roads by heavy vehicles t
 (b) damage road infrastructure; or
 (c) adversely affect public amenity.
 136—Class 2 heavy vehicles
-A heavy vehicle is a class 2 heavy vehicle if—
+(1) A heavy vehicle is a class 2 heavy vehicle if—
 (a) it—
 (i) complies with the prescribed mass requirements and prescribed dimension requirements applying to it; and
 (ii) is—
@@ -1878,7 +1998,16 @@ A heavy vehicle is a class 2 heavy vehicle if—
 (C) a bus, other than an articulated bus, that is longer than 12.5m; or
 (D) a combination designed and built to carry vehicles on more than 1 deck that, together with its load is longer than 19m or higher than 4.3m; or
 (E) a motor vehicle, or a combination, that is higher than 4.3m and is built to carry cattle, sheep, pigs or horses; or
-(b) it is a PBS vehicle.
+(b) it is a PBS vehicle other than a specified PBS vehicle.
+(2) In this section—
+specified PBS vehicle means a PBS vehicle that—
+(a) is not a bus; and
+(b) is not longer than 20m; and
+(c) is the subject of a current PBS vehicle approval at performance level 1; and
+(d) complies with the PBS vehicle approval; and
+(e) complies with the general mass limits for the vehicle, regardless of whether the PBS vehicle approval authorises a higher mass limit.
+Note—
+General mass limits for a vehicle may be included in prescribed mass requirements under section 95.
 Division 2—Restriction
 137—Using class 2 heavy vehicle
 A person must not use a class 2 heavy vehicle, or permit a class 2 heavy vehicle to be used, on a road other than in accordance with a class 2 heavy vehicle authorisation.
@@ -2013,16 +2142,8 @@ Maximum penalty: $6 000.
 (1) This section applies if a class 2 heavy vehicle authorisation (notice) is subject to the condition that the driver of a class 2 heavy vehicle who is driving the vehicle under the authorisation must keep a relevant document in the driver's possession.
 (2) A driver of the class 2 heavy vehicle who is driving the vehicle under the class 2 heavy vehicle authorisation (notice) must comply with the condition.
 Maximum penalty: $3 000.
-(3) If the driver of a class 2 heavy vehicle commits an offence against subsection (2), each relevant party for the driver is taken to have committed an offence against this subsection.
+(3) Each relevant party for a driver mentioned in subsection (2) must ensure the driver complies with subsection (2), unless the relevant party has a reasonable excuse.
 Maximum penalty: $3 000.
-(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(6) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
-(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 (7) In this section—
 relevant document, for a class 2 heavy vehicle authorisation (notice), means a copy of—
 (a) the Commonwealth Gazette notice for the authorisation; or
@@ -2036,38 +2157,12 @@ relevant party, for the driver of a class 2 heavy vehicle, means—
 Maximum penalty: $3 000.
 (2) If the driver of a class 2 heavy vehicle is driving the vehicle under a class 2 heavy vehicle authorisation (permit) granted to a relevant party for the driver and the relevant party has given the driver a copy of a permit for the purpose of subsection (1), the driver must, as soon as reasonably practicable, return the copy to the relevant party if the driver stops working for the relevant party.
 Maximum penalty: $4 000.
-(3) If the driver of a class 2 heavy vehicle commits an offence against subsection (1), each relevant party for the driver is taken to have committed an offence against this subsection.
+(3) Each relevant party for a driver mentioned in subsection (1) must ensure the driver complies with subsection (1), unless the relevant party has a reasonable excuse.
 Maximum penalty: $3 000.
-(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(6) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
-(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 (7) In this section—
 relevant party, for the driver of a class 2 heavy vehicle, means—
 (a) an employer of the driver if the driver is an employed driver; or
 (b) a prime contractor of the driver if the driver is a self‑employed driver; or
-(c) an operator of the vehicle if the driver is making a journey for the operator.
-153—Keeping copy of PBS vehicle approval while driving under class 2 heavy vehicle authorisation
-(1) A driver of a class 2 heavy vehicle that is a PBS vehicle who is driving under a class 2 heavy vehicle authorisation must keep a copy of the PBS vehicle approval in the driver's possession.
-Maximum penalty: $3 000.
-(2) If the driver of a class 2 heavy vehicle commits an offence against subsection (1), each relevant party for the driver is taken to have committed an offence against this subsection.
-Maximum penalty: $3 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(5) In a proceeding for an offence against subsection (2)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
-(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
-(6) In this section—
-relevant party, for the driver of a class 2 heavy vehicle, means—
-(a) an employer of the driver if the driver is an employed driver; or
-(b) a prime contractor of the driver if the driver is a self-employed driver; or
 (c) an operator of the vehicle if the driver is making a journey for the operator.
 Part 6A—Restricted access vehicles
 153A—Using restricted access vehicle
@@ -2081,7 +2176,11 @@ restricted access vehicle means a heavy vehicle that (together with its load) is
 (i) if a single vehicle other than an articulated bus—12.5m; or
 (ii) if an articulated bus—18m; or
 (iii) if a combination—19m.
-(3) This section does not apply to a class 2 heavy vehicle.
+(3) This section does not apply to—
+(a) a class 2 heavy vehicle; or
+(b) a specified PBS vehicle as defined in section 136(2).
+Note—
+All other PBS vehicles are class 2 heavy vehicles (see section 136).
 Part 7—Particular provisions about mass or dimension authorities
 Division 1—Preliminary
 154—Definitions for Chapter 4 Part 7
@@ -2100,7 +2199,7 @@ vehicle condition means a condition directed at ensuring a vehicle can operate s
 Division 2—Obtaining consent of relevant road managers
 155—Application of Division 2
 This Division applies in relation to the Regulator obtaining the consent of the road manager for a road for the purpose of granting a mass or dimension authority.
-156—Deciding request for consent generally
+156—Period within which road manager must decide
 (1) If the Regulator asks a road manager for a road for the road manager's consent to the grant of a mass or dimension authority, the road manager must decide to give or not to give the consent—
 (a) within—
 (i) 28 days after the request is made, unless subparagraph (ii) applies; or
@@ -2112,7 +2211,11 @@ See, however, sections 159, 167 and 168.
 (a) consultation is required under a law with another entity (including, for example, for the purpose of obtaining that entity's approval to give the consent); or
 (b) the road manager considers a route assessment is necessary for deciding whether to give or not to give the consent; or
 (c) the road manager is the road authority for the participating jurisdiction and considers that a local government authority that is not required under a law to be consulted should nevertheless be consulted before deciding whether to give or not to give the consent.
-(3) The road manager may decide not to give the consent only if the road manager is satisfied—
+(3) If the Regulator agrees to a longer period under subsection (1)(b), the Regulator must give the applicant for the mass or dimension authority concerned a written statement of the decision—
+(a) identifying the road manager concerned; and
+(b) indicating the ground on which the road manager asked for a longer period.
+156A—Deciding request for consent generally
+(1) If the Regulator asks a road manager for a road for the road manager's consent to the grant of a mass or dimension authority, the road manager may decide not to give the consent only if the road manager is satisfied—
 (a) the mass or dimension authority will, or is likely to—
 (i) cause damage to road infrastructure; or
 (ii) impose adverse effects on the community arising from noise, emissions or traffic congestion or from other matters stated in approved guidelines; or
@@ -2121,13 +2224,11 @@ See, however, sections 159, 167 and 168.
 (i) the damage or likely damage; or
 (ii) the adverse effects or likely adverse effects; or
 (iii) the significant risks or likely significant risks.
-(4) Also, in deciding whether or not to give the consent, the road manager must have regard to—
+(2) If the road manager considers that the consent would be given if the mass of the vehicle under the application for the authority was less than applied for, the road manager must give the consent subject to a road condition that the vehicle not exceed the mass.
+(3) Also, in deciding whether or not to give the consent, the road manager must have regard to—
 (a) for a mass or dimension exemption—the approved guidelines for granting mass or dimension exemptions; or
 (b) for a class 2 heavy vehicle authorisation—the approved guidelines for granting class 2 heavy vehicle authorisations.
-(5) If the Regulator agrees to a longer period under subsection (1)(b), the Regulator must give the applicant for the mass or dimension authority concerned a written statement of the decision—
-(a) identifying the road manager concerned; and
-(b) indicating the ground on which the road manager asked for a longer period.
-(6) If a relevant road manager for a mass or dimension authority decides not to give consent to the grant of the authority, the relevant road manager must give the Regulator a written statement that explains the road manager's decision and complies with section 172.
+(4) If a relevant road manager for a mass or dimension authority decides not to give consent to the grant of the authority, the relevant road manager must give the Regulator a written statement that explains the road manager's decision and complies with section 172.
 157—Obtaining third party's approval for giving consent for permit
 (1) This section applies if—
 (a) a person (the applicant) applies for a mass or dimension exemption (permit) or class 2 heavy vehicle authorisation (permit); and
@@ -2267,7 +2368,7 @@ relevant road authority, for a decision of a relevant road manager for a mass or
 (3) In the case of a mass or dimension exemption (notice) or a class 2 heavy vehicle authorisation (notice), then, despite section 120 or 141, the period for which the notice applies is so much of the period stated in the Commonwealth Gazette notice referred to in that section as does not exceed the trial period.
 172—Requirements for statement explaining adverse decision of road manager
 (1) This section applies to a written statement explaining a decision of a relevant road manager under this Division—
-(a) not to give consent to the grant of a mass or dimension authority (as referred to in section 156); or
+(a) not to give consent to the grant of a mass or dimension authority (as referred to in section 156A); or
 (b) to consent to the grant of a mass or dimension authority on the condition that—
 (i) a road condition is imposed on the authority (as referred to in section 160); or
 (ii) a travel condition is imposed on the authority (as referred to in section 161).
@@ -2441,26 +2542,6 @@ Maximum penalty: $4 000.
 Maximum penalty: $4 000.
 (2) If the Regulator is satisfied the permit has been defaced, destroyed, lost or stolen, the Regulator must give the person a replacement permit as soon as practicable.
 (3) If the Regulator decides not to give a replacement permit to the person, the Regulator must give the person an information notice for the decision.
-Part 8—Extended liability
-183—Liability of employer etc for contravention of mass, dimension or loading requirement
-(1) This section applies to an offence against section 96, 102 or 111 (a relevant offence).
-(2) If a relevant offence is committed in relation to a heavy vehicle, each of the following persons is taken to have committed an offence against this subsection:
-(a) an employer of the driver of the vehicle if the driver is an employed driver;
-(b) a prime contractor of the driver of the vehicle if the driver is a self‑employed driver;
-(c) an operator of the vehicle or, if it is a combination, an operator of a vehicle in the combination;
-(d) a consignor of any goods for road transport using the vehicle that are in the vehicle;
-(e) a packer of any goods in the vehicle;
-(f) a loading manager for any goods in the vehicle;
-(g) a loader of any goods in the vehicle.
-Maximum penalty for an offence against this subsection: an amount equal to the maximum penalty for the relevant offence.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(5) In a proceeding for an offence against subsection (2)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the relevant offence; and
-(b) evidence a court has convicted the driver of the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 Part 9—Other offences
 Division 1—Towing restriction
 184—Towing restriction
@@ -2484,44 +2565,33 @@ coupling means a device used to couple a vehicle in a combination to the vehicle
 Division 3—Transport documentation
 186—False or misleading transport documentation for goods
 (1) This section applies if goods are consigned for road transport using a heavy vehicle, or for transport partly by road using a heavy vehicle and partly by some other means.
-(2) Each consignor of the goods commits an offence if the transport documentation for the consignment in so far as it relates to the mass, dimension or loading of any or all of the goods is false or misleading in a material particular.
+(2) The consignor of the goods must ensure, so far as is reasonably practicable, the consignment documentation is not false or misleading.
 Maximum penalty: $10 000.
-(3) Each packer of the goods commits an offence if—
-(a) the goods are packed in Australia in a freight container or other container, or in a package or on a pallet, for road transport; and
-(b) the transport documentation for the consignment in so far as it relates to the mass, dimension or loading of any or all of the goods is false or misleading in a material particular.
+(3) If the goods are Australian‑packed goods, the packer of the goods must ensure, so far as is reasonably practicable, the consignment documentation is not false or misleading.
 Maximum penalty: $10 000.
-(4) Each loading manager, or loader of, the goods commits an offence if—
-(a) the goods are loaded onto a heavy vehicle for road transport; and
-(b) the transport documentation for the consignment in so far as it relates to the mass, dimension or loading of any or all of the goods is false or misleading in a material particular.
+(4) If the goods are overseas‑packed goods, the receiver of the goods must ensure, so far as is reasonably practicable, the consignment documentation is not false or misleading.
 Maximum penalty: $10 000.
-(5) Each receiver of the goods in Australia commits an offence if—
-(a) the goods are packed outside Australia in a freight container or other container, or in a package or on a pallet, for road transport; and
-(b) the transport documentation for the consignment in so far as it relates to the mass, dimension or loading of any or all of the goods is false or misleading in a material particular.
+(5) If the goods are loaded on the heavy vehicle, the loading manager for, or loader of, the goods must ensure, so far as is reasonably practicable, the consignment documentation is not false or misleading.
 Maximum penalty: $10 000.
-(6) A person charged with an offence against subsection (2), (3), (4) or (5) does not have the benefit of the mistake of fact defence for the offence.
-(7) However, in a proceeding for an offence against subsection (2), (3), (4) or (5), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (8) In a proceeding for an offence against subsection (2), (3), (4) or (5), it is enough for a charge to state that the transport documentation was 'false or misleading', without specifying whether it was false or whether it was misleading.
 (9) In this section—
+Australian‑packed goods means goods packed—
+(a) in Australia; and
+(b) on a pallet or in a package, freight container or other container;
+consignment documentation, for goods, means the transport documentation for the consignment of the goods, in so far as the documentation relates to the mass, dimension or loading of any or all of the goods;
+overseas‑packed goods means goods packed—
+(a) outside Australia; and
+(b) on a pallet or in a package, freight container or other container;
 receiver, of goods in Australia, means a person who, other than the person who merely unloads the goods—
 (a) first receives the goods in Australia; or
 (b) unpacks the goods after the goods are first unloaded in Australia.
 187—False or misleading information in container weight declaration
 (1) This section applies in relation to a freight container to be transported by road using a heavy vehicle, or partly by road using a heavy vehicle and partly by some other means.
-(2) The responsible entity for the freight container commits an offence if—
-(a) the responsible entity gives the container to an operator of a heavy vehicle; and
-(b) the container weight declaration for the container contains information that is false or misleading in a material particular.
+(2) The responsible entity for the freight container must ensure, so far as is reasonably practicable, the container weight declaration for the container that is given to an operator of the heavy vehicle is not false or misleading.
 Maximum penalty: $10 000.
-(3) An operator of a heavy vehicle commits an offence if—
-(a) the operator arranges for the freight container to be transported by road using the vehicle; and
-(b) the container weight declaration for the container given to the vehicle's driver contains information that is false or misleading in a material particular.
+(3) An operator of the heavy vehicle must ensure, so far as is reasonably practicable, the container weight declaration for the container that is given to the vehicle's driver is not false or misleading.
 Maximum penalty: $10 000.
 (4) For the purposes of this section, information in a container weight declaration is not false or misleading merely because it overstates the actual weight of the freight container and its contents.
-(5) A person charged with an offence against subsection (2) or (3) does not have the benefit of the mistake of fact defence for the offence.
-(6) However, in a proceeding for an offence against subsection (2) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (7) In a proceeding for an offence against subsection (2) or (3), it is enough for a charge to state that information contained in the container weight declaration was 'false or misleading', without specifying whether it was false or whether it was misleading.
 Division 4—Other offences about container weight declarations
 188—Application of Division 4
@@ -2534,67 +2604,44 @@ A container weight declaration for a freight container is a complying container 
 (iii) the date the container weight declaration is made; and
 (b) it is written and easily legible.
 190—Duty of responsible entity
-(1) The responsible entity for the freight container must not permit an operator or driver of a heavy vehicle to transport the freight container by road using the vehicle unless the operator or driver has been provided with a complying container weight declaration for the freight container containing information in the form required under section 192A.
+(1) The responsible entity for the freight container must ensure an operator or driver of a heavy vehicle does not transport the freight container by road using the vehicle without a complying container weight declaration for the freight container containing information in the form required under section 192A, unless the responsible entity has a reasonable excuse.
 Maximum penalty: $6 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 191—Duty of operator
-(1) An operator of a heavy vehicle must not permit the vehicle's driver to transport the freight container by road using the vehicle unless the driver has been provided with a complying container weight declaration for the freight container containing information in the form required under section 192A.
+(1) An operator of a heavy vehicle must ensure the vehicle's driver does not transport the freight container by road using the vehicle without a complying container weight declaration for the freight container containing information in the form required under section 192A.
 Maximum penalty: $6 000.
-(2) If the driver of a heavy vehicle does not have the complying container weight declaration when transporting the freight container by road using the vehicle, an operator of the vehicle is taken to have contravened subsection (1) unless the operator proves that the driver was provided with the declaration before the driver started transporting the freight container.
-(3) If the freight container is to be transported by another carrier, an operator of a heavy vehicle must not give the freight container to the carrier unless the carrier has been provided with—
+(2) If the driver of a heavy vehicle does not have the complying container weight declaration when transporting the freight container by road using the vehicle, an operator of the vehicle is taken to have contravened subsection (1) unless the operator—
+(a) proves that the driver was provided with the declaration before the driver started transporting the freight container; or
+(b) has a reasonable excuse.
+(3) If the freight container is to be transported by another carrier, an operator of a heavy vehicle must, unless the operator has a reasonable excuse, ensure the freight container is not given to the carrier unless the carrier has been provided with—
 (a) a complying container weight declaration for the freight container containing information in the form required under section 192A; or
 (b) the prescribed particulars contained in a complying container weight declaration for the freight container.
 Maximum penalty: $6 000.
-(4) A person charged with an offence against subsection (1) or (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (1) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (6) In this section—
 another carrier means another operator of a heavy vehicle or another person who is to transport the freight container other than by road;
 prescribed particulars, contained in a complying container weight declaration for a freight container, means—
 (a) information about the weight of the freight container and its contents; and
 (b) the information mentioned in section 189(a).
 192—Duty of driver
-(1) A person must not drive a heavy vehicle loaded with the freight container on a road unless the person has a complying container weight declaration for the container.
+(1) A person must not drive a heavy vehicle loaded with the freight container on a road without a complying weight declaration for the container, unless the person has a reasonable excuse.
 Maximum penalty: $6 000.
-(2) The driver of a heavy vehicle loaded with the freight container must, when driving the vehicle on a road, keep the complying container weight declaration for the container—
+(2) The driver of a heavy vehicle loaded with the freight container must, unless the driver has a reasonable excuse, when driving the vehicle on a road, keep the complying container weight declaration for the container—
 (a) in or about the vehicle; and
 (b) in a way that ensures information in the declaration is in the form required under section 192A.
 Maximum penalty: $3 000.
-(3) A person charged with an offence against subsection (1) or (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (1) or (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 192A—Form of information in container weight declaration
 (1) This section applies for the purposes of sections 190(1), 191(1) and (3)(a) and 192(2)(b).
 (2) The responsible entity, operator or driver must ensure the information in the container weight declaration is in a form readily available to an authorised officer who seeks to ascertain it while in the presence of the freight container, including, for example, by—
 (a) examining documents located in the heavy vehicle on which the freight container is loaded or to be loaded; or
-(b) obtaining information by radio or mobile telephone or by other means.
+(b) examining documents made available to the authorised officer on an electronic device or otherwise in electronic form.
 Division 5—Other offences
 193—Weight of freight container exceeding weight stated on container or safety approval plate
 (1) This section applies if a freight container contains goods consigned for road transport using a heavy vehicle, or for transport partly by road using a heavy vehicle and partly by some other means.
-(2) Each consignor or packer of the goods commits an offence if the weight of the container exceeds the maximum gross weight marked on the container or the container's safety approval plate.
+(2) Each consignor or packer of the goods must ensure, so far as is reasonably practicable, the weight of the container does not exceed the maximum gross weight marked on—
+(a) the container; or
+(b) the container's safety approval plate.
 Maximum penalty: $10 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (5) In this section—
 safety approval plate, for a freight container, means the safety approval plate required to be attached to the container under the International Convention for Safe Containers set out in Schedule 5 of the Navigation Act 1912 of the Commonwealth.
-194—Conduct of consignee resulting or potentially resulting in contravention of mass, dimension or loading requirement
-(1) A person who is a consignee of goods consigned for road transport using a heavy vehicle commits an offence if—
-(a) the person does an act or makes an omission; and
-(b) the doing of the act or making of the omission results, or is likely to result, in inducing or rewarding a contravention of a mass, dimension or loading requirement; and
-(c) the person—
-(i) intends that result; or
-(ii) is reckless or negligent as to the matter mentioned in paragraph (b).
-Maximum penalty: $10 000.
-(2) Without limiting subsection (1)(c)(i), the person is taken to have intended the result mentioned in subsection (1)(b) if the person knew or ought reasonably to have known that—
-(a) a container weight declaration for the container in which the goods were consigned was not given as required by this Law; or
-(b) a container weight declaration given for the container contained information about the weight of the container and its contents that was false or misleading in a material particular.
 Part 10—Other provisions
 195—Conflicting mass requirements
 (1) This section applies if 2 or more conflicting mass requirements apply to a heavy vehicle.
@@ -2633,7 +2680,7 @@ relevant road authority, for an exemption granted under subsection (1), means th
 199—Recovery of losses for provision of inaccurate container weight declaration
 (1) This section applies if—
 (a) an operator or driver of a heavy vehicle transporting a freight container by road using the vehicle has been provided with a container weight declaration for the freight container; and
-(b) the declaration contains information (the false or misleading information) that is false or misleading in a material particular because it—
+(b) the declaration contains information (the false or misleading information) that is false or misleading because it—
 (i) understates the weight of the container; or
 (ii) otherwise indicates the weight of the container is lower than its actual weight; and
 (c) a contravention of a mass requirement applying to the heavy vehicle occurs as a result of the operator or driver relying on the false or misleading information; and
@@ -2658,203 +2705,6 @@ relevant road authority, for an exemption granted under subsection (1), means th
 201—Assessment of monetary value or attributable amount
 (1) The court may assess the monetary value of a loss recoverable under section 198(2) or 199(2), or the attributable amount recoverable under section 200(2), in the way it considers appropriate.
 (2) In making the assessment, the court may have regard to the matters it considers appropriate, including any evidence adduced in a proceeding for an offence against this Law.
-Chapter 5—Vehicle operations—speeding
-Part 1—Preliminary
-202—Main purpose of Chapter 5
-The main purpose of this Chapter is to improve public safety and compliance with Australian road laws by imposing responsibility for speeding by heavy vehicles on persons whose business activities influence the conduct of the drivers of heavy vehicles.
-203—Outline of the main features of Chapter 5
-This Chapter—
-(a) requires persons who are most directly responsible for the use of a heavy vehicle to take reasonable steps to ensure their activities do not cause the vehicle's driver to exceed speed limits; and
-(b) requires anyone who schedules the activities of a heavy vehicle, or its driver, to take reasonable steps to ensure the schedule for the vehicle's driver does not cause the driver to exceed speed limits; and
-(c) requires loading managers to take reasonable steps to ensure the arrangements for loading goods onto and unloading goods from a heavy vehicle do not cause the vehicle's driver to exceed speed limits; and
-(d) requires particular persons who consign goods for transport by a heavy vehicle, or who receive the goods, to take reasonable steps to ensure the terms of consignment of the goods do not cause the vehicle's driver to exceed speed limits; and
-(e) prohibits anyone from asking the driver of a heavy vehicle to exceed speed limits and from entering into an agreement that causes the driver of a heavy vehicle to exceed speed limits; and
-(f) imposes liability on persons who are most directly responsible for the use of a heavy vehicle for offences committed by the vehicle's driver exceeding speed limits.
-Part 2—Particular duties and offences
-Division 1—Employers, prime contractors and operators
-204—Duty of employer, prime contractor or operator to ensure business practices will not cause driver to exceed speed limit
-(1) A relevant party for the driver of a heavy vehicle must take all reasonable steps to ensure the relevant party's business practices will not cause the driver to exceed a speed limit applying to the driver.
-Examples of reasonable steps—
-• regular consultation with other parties in the chain of responsibility, unions and industry associations to address compliance issues
-• reviewing driving, work and trip records
-• a program to report and monitor (for example, by GPS tracking) incidents of speeding and related risks and hazards
-• training and information about speeding for drivers of heavy vehicles, staff and parties in the chain of responsibility for heavy vehicles (within the meaning given by section 214)
-• regular maintenance of vehicle components that relate to complying with speed limits (for example, speedometer, engine management system and speed limiters)
-Maximum penalty: $10 000.
-Notes—
-1 Section 622 sets out some of the factors a court may consider in deciding whether a person has taken all reasonable steps.
-2 Section 623 sets out 1 method by which an employer, prime contractor and operator can take all reasonable steps for the purposes of this section.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) In this section—
-business practices, of a relevant party for the driver of a heavy vehicle, means the practices of the relevant party in running the relevant party's business, and includes each of the following:
-(a) the operating policies and procedures of the business;
-(b) the human resource and contract management arrangements of the business;
-(c) arrangements for managing safety;
-relevant party, for the driver of a heavy vehicle, means any of the following:
-(a) an employer of the driver if the driver is an employed driver;
-(b) a prime contractor of the driver if the driver is a self‑employed driver;
-(c) an operator of the vehicle if the driver is making or is to make a journey for the operator.
-205—Duty of employer not to cause driver to drive if particular requirements not complied with
-(1) An employer of an employed driver of a heavy vehicle must not cause the driver to drive the heavy vehicle unless—
-(a) the employer has complied with section 204; and
-(b) the employer is reasonably satisfied each scheduler for the vehicle has complied with sections 207 and 208.
-Maximum penalty: $4 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-206—Duty of prime contractor or operator not to cause driver to drive if particular requirements not complied with
-(1) This section applies to—
-(a) a prime contractor of a self‑employed driver of a heavy vehicle (the driver); and
-(b) an operator of a heavy vehicle that is to be driven by someone else (also the driver).
-(2) The prime contractor, or operator, must not cause the driver to drive the heavy vehicle unless—
-(a) the prime contractor, or operator, has complied with section 204; and
-(b) the prime contractor, or operator, is reasonably satisfied each scheduler for the vehicle has complied with sections 207 and 208.
-Maximum penalty: $4 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-Division 2—Schedulers
-207—Duty to ensure driver's schedule will not cause driver to exceed speed limit
-(1) A scheduler for a heavy vehicle must take all reasonable steps to ensure the schedule for the vehicle's driver will not cause the driver to exceed a speed limit applying to the driver.
-Examples of reasonable steps—
-• consulting drivers about their schedules and work requirements
-• taking account of the average speed that can be travelled lawfully on scheduled routes
-• allowing for traffic conditions or other delays in schedules
-• contingency planning concerning schedules
-Maximum penalty: $10 000.
-Notes—
-1 Section 622 sets out some of the factors a court may consider in deciding whether a person has taken all reasonable steps.
-2 Section 623 sets out 1 method by which a scheduler for a heavy vehicle can take all reasonable steps for the purposes of this section.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-208—Duty not to cause driver to drive if particular requirements not complied with
-(1) A scheduler for a heavy vehicle must not cause the vehicle's driver to drive the vehicle unless—
-(a) the scheduler has complied with section 207; and
-(b) the driver's schedule for driving the vehicle allows—
-(i) for compliance with all speed limits; and
-(ii) for the driver to take all required rest in compliance with all laws regulating the driver's work times and rest times; and
-(iii) for traffic conditions and other delays that could reasonably be expected.
-Examples for the purposes of subparagraph (iii)—
-• the actual average speed able to be travelled lawfully and safely by the driver on the route to be travelled by the heavy vehicle
-• known traffic conditions, for example, road works or traffic congestion on the route
-• delays caused by loading, unloading or queuing
-Maximum penalty: $6 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-Division 3—Loading managers
-209—Duty to ensure loading arrangements will not cause driver to exceed speed limit
-(1) A loading manager for goods in heavy vehicles must take all reasonable steps to ensure the arrangements for loading goods onto and unloading goods from heavy vehicles will not cause the driver of a heavy vehicle to exceed a speed limit applying to the driver.
-Examples of reasonable steps—
-• reviewing loading and unloading times and delays at loading and unloading places
-• identifying potential loading and unloading congestion in consultation with drivers and other parties in the chain of responsibility
-• having a system of setting and allocating loading and unloading times the driver can reasonably rely on allowing loading and unloading to happen at an agreed time
-Maximum penalty: $10 000.
-Notes—
-1 Section 622 sets out some of the factors a court may consider in deciding whether a person has taken all reasonable steps.
-2 Section 623 sets out 1 method by which a loading manager can take all reasonable steps for the purposes of this section.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-Division 4—Particular consignors and consignees
-210—Consignors to whom Division 4 applies
-This Division applies to a person (a commercial consignor) who engages a particular operator of a heavy vehicle, either directly or through an agent or other intermediary, to transport goods for the person by road for commercial purposes.
-211—Consignees to whom Division 4 applies
-This Division applies only to a consignee of goods—
-(a) who has consented to being, and is named or otherwise identified as, the intended consignee of goods in the transport documentation relating to the transport of the goods by road by a particular operator of a heavy vehicle; and
-(b) who knows, or who ought reasonably to know, that the goods are to be transported by road.
-Note—
-See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
-212—Duty to ensure terms of consignment will not cause driver to exceed speed limit etc
-(1) A commercial consignor or a consignee of goods must take all reasonable steps to ensure the terms of consignment will not cause the relevant driver to exceed a speed limit applying to the driver.
-Maximum penalty: $10 000.
-(2) A commercial consignor or a consignee of goods must take all reasonable steps to ensure the terms of consignment will not cause a relevant party for the relevant driver to cause the driver to exceed a speed limit applying to the driver.
-Examples of reasonable steps for the purposes of subsections (1) and (2)—
-• ensuring contractual arrangements and documentation for the consignment and delivery of goods enable speed limit compliance
-• contingency planning concerning consignments and delivery times
-• regular consultation with other parties in the chain of responsibility, unions and industry associations to address compliance issues
-Maximum penalty: $10 000.
-Notes for the purposes of subsections (1) and (2)—
-1 Section 622 sets out some of the factors a court may consider in deciding whether a person has taken all reasonable steps.
-2 Section 623 sets out 1 method by which a consignor or consignee can take all reasonable steps for the purposes of subsection (1) or (2).
-(3) A person charged with an offence against subsection (1) or (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) In this section—
-relevant driver, for consigned goods, means the driver of the heavy vehicle by which the goods are to be or are being transported;
-relevant party, for the relevant driver for consigned goods, means—
-(a) an employer of the driver if the driver is an employed driver; or
-(b) a prime contractor of the driver if the driver is a self‑employed driver; or
-(c) an operator of the heavy vehicle by which the goods are transported if the driver is to make, or is making, a journey for the operator.
-213—Duty not to make a demand that may result in driver exceeding the speed limit
-A commercial consignor or a consignee of goods must not make a demand that affects, or may affect, a time in a schedule for the transport of the consigned goods unless—
-(a) the consignor or consignee has complied with section 212; and
-(b) the consignor or consignee is reasonably satisfied the making of the demand will not cause a person to contravene section 207 or 208.
-Maximum penalty: $10 000.
-Division 5—Particular requests etc and contracts etc prohibited
-214—Who is a party in the chain of responsibility
-(1) For the purposes of this Division, each of the following persons is a party in the chain of responsibility for a heavy vehicle:
-(a) an employer of the vehicle's driver if the driver is an employed driver;
-(b) a prime contractor for the vehicle's driver if the driver is a self‑employed driver;
-(c) an operator of the vehicle;
-(d) a scheduler for the vehicle;
-(e) a loading manager for any goods in the vehicle;
-(f) a commercial consignor of any goods for transport by the vehicle that are in the vehicle;
-(g) a consignee of any goods in the vehicle, if Division 4 applies to the consignee.
-Note—
-The exercise of any of these functions, whether exclusively or occasionally, decides whether a person falls within any of these definitions, rather than the person's job title or contractual description.
-(2) A person may be a party in the chain of responsibility for a heavy vehicle in more than 1 capacity.
-Example—
-A person may be simultaneously the driver's employer, an operator and a consignor of goods in relation to a heavy vehicle and be subject to duties in each of the capacities.
-215—Particular requests etc prohibited
-A person must not ask, direct or require, directly or indirectly, the driver of a heavy vehicle, or a party in the chain of responsibility for a heavy vehicle, to do something the person knows, or ought reasonably to know, would have the effect of causing the driver to exceed a speed limit applying to the driver.
-Example of a requirement that contravenes this section—
-a requirement that the driver complete a journey in a time the person knows or ought reasonably to know cannot be complied with unless the driver exceeds the speed limit or does not have all the rest time the driver is required to have under a minimum rest requirement
-Maximum penalty: $10 000.
-Note—
-See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
-216—Particular contracts etc prohibited
-(1) A person must not enter into a contract or other agreement with the driver of a heavy vehicle, or with a party in the chain of responsibility for a heavy vehicle, that the person knows, or ought reasonably to know, would have the effect of causing the vehicle's driver to exceed a speed limit applying to the driver.
-Maximum penalty: $10 000.
-(2) A person must not enter into a contract or other agreement with the driver of a heavy vehicle, or with a party in the chain of responsibility for a heavy vehicle, that the person knows, or ought reasonably to know, would encourage or provide an incentive for the vehicle's driver, or a party in the chain of responsibility for the vehicle to cause the vehicle's driver, to exceed a speed limit applying to the driver.
-Maximum penalty: $10 000.
-Notes for the purposes of subsections (1) and (2)—
-1 See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
-2 See also section 742, which provides that particular contracts or other agreements are void.
-Division 6—Provisions about offences against this Part
-217—Objective reasonableness test to be used in deciding causation
-(1) This section applies in relation to a proceeding for an offence against this Part that may be committed by a person failing to take all reasonable steps to ensure someone else does not drive a heavy vehicle in excess of a speed limit applying to the vehicle's driver (prohibited act).
-(2) For the purposes of subsection (1), a person failing to take all reasonable steps to ensure someone else does not do a prohibited act includes—
-(a) the person failing to take reasonable steps to ensure the other person does not do the prohibited act; and
-(b) the person failing to take reasonable steps to ensure the person's activities, or anything arising out of the person's activities, do not—
-(i) cause the other person to do the prohibited act; or
-(ii) result in the other person doing the prohibited act; or
-(iii) provide an incentive for the other person to do the prohibited act.
-(3) Subsection (4) applies if—
-(a) a person does an act or makes an omission; and
-(b) as a result of the act or omission someone else does a prohibited act.
-(4) A court may find the person caused the other person to do the prohibited act if the court is satisfied a reasonable person would have foreseen that the person's act or omission would be reasonably likely to cause the other person to do the prohibited act.
-218—Commission of speeding offence is irrelevant to Chapter 5 Part 2 prosecution
-In a prosecution for an offence against this Part, it is not necessary to prove the driver of the heavy vehicle exceeded a speed limit applying to the driver.
-Part 3—Extended liability
-219—Liability of employer etc for speeding offence
-(1) If a speeding offence is committed in relation to a heavy vehicle, each of the following persons is taken to have committed an offence against this subsection:
-(a) an employer of the driver if the driver is an employed driver;
-(b) a prime contractor of the driver if the driver is a self‑employed driver;
-(c) an operator of the vehicle if the driver is making a journey for the operator.
-Maximum penalty:
-(a) if the speeding offence involves the driver of a heavy vehicle exceeding a speed limit of 50km/h or 60km/h—$3 000; or
-(b) if the speeding offence involves the driver of a heavy vehicle exceeding a speed limit of 70km/h or 80km/h—
-(i) by less than 15km/h—$3 000; or
-(ii) by 15km/h or more—$5 000; or
-(c) if the speeding offence involves the driver of a heavy vehicle other than a road train exceeding a speed limit of 90km/h—
-(i) by less than 15km/h—$3 000; or
-(ii) by 15km/h or more—$5 000; or
-(d) if the speeding offence involves the driver of a road train exceeding a speed limit of 90km/h—
-(i) by less than 15km/h—$5 000; or
-(ii) by 15km/h or more—$10 000; or
-(e) if the speeding offence involves the driver of a heavy vehicle exceeding a speed limit of 100km/h or more—
-(i) by less than 15km/h—$5 000; or
-(ii) by 15km/h or more—$10 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(4) In a proceeding for an offence against subsection (1)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the speeding offence; and
-(b) evidence a court has convicted the driver of the speeding offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the speeding offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
-(5) In this section—
-speeding offence means an offence committed by the driver of a heavy vehicle because the driver exceeded a speed limit applying to the driver.
 Chapter 6—Vehicle operations—driver fatigue
 Part 1—Preliminary
 220—Main purpose of Chapter 6
@@ -2906,7 +2756,7 @@ impaired by fatigue has the meaning given by section 225;
 intelligent access program reporting entity, for an approved intelligent transport system, means a person on whom there is an obligation, imposed by Chapter 7, to report a malfunction of or tampering with the system to the Regulator;
 loading manager—
 Note—
-Section 5 contains the definition loading manager. That definition is affected by the definition regular loading or unloading premises, and is used in this Chapter (including sections 227, 238, 239 and 261).
+Section 5 contains the definition loading manager. That definition is affected by the definition regular loading or unloading premises, and is used in this Chapter.
 As a result of the interaction of the 2 definitions, this Chapter applies to a person as a loading manager only if the premises concerned are premises at or from which an average of at least 5 fatigue-regulated heavy vehicles are loaded or unloaded on each day the premises are operated for loading or unloading heavy vehicles.
 major rest break means rest time of at least 5 continuous hours;
 malfunction, of an electronic work diary or an odometer, means the work diary or odometer—
@@ -2928,7 +2778,6 @@ non‑participating jurisdiction means a State or Territory that is not a partic
 participating jurisdiction means a State or Territory in which—
 (a) this Chapter applies as a law of the State or Territory; or
 (b) a law containing provisions that substantially correspond to the provisions of this Chapter is in force;
-party in the chain of responsibility, for a fatigue‑regulated heavy vehicle, has the meaning given by section 227;
 record keeper has the meaning given by section 317;
 record location, of the driver of a fatigue‑regulated heavy vehicle, has the meaning given by section 290;
 rest, in relation to a fatigue‑regulated heavy vehicle, means not work in relation to a fatigue‑regulated heavy vehicle;
@@ -3028,21 +2877,7 @@ Examples for the purposes of paragraph (b)—
 (3) A court may consider the driver to be impaired by fatigue even if the driver has complied with—
 (a) the requirements of this Law, including, for example, the maximum work requirements and minimum rest requirements applying to the driver; or
 (b) any other law.
-227—Who is a party in the chain of responsibility
-(1) Each of the following persons is a party in the chain of responsibility for a fatigue‑regulated heavy vehicle:
-(a) an employer of the vehicle's driver;
-(b) a prime contractor for the vehicle's driver;
-(c) an operator of the vehicle;
-(d) a scheduler for the vehicle;
-(e) a consignor of any goods for transport by the vehicle that are in the vehicle;
-(f) a consignee of any goods in the vehicle;
-(g) a loading manager for any goods in the vehicle;
-(h) a loader of any goods in the vehicle;
-(i) an unloader of any goods in the vehicle.
-(2) A person may be a party in the chain of responsibility for a fatigue‑regulated heavy vehicle in more than 1 capacity.
-Example—
-A person may be simultaneously a driver's employer, an operator and a consignor of goods in relation to a fatigue‑regulated heavy vehicle, and be subject to duties in each of the capacities.
-Division 2—Duty to avoid and prevent fatigue
+Division 2—Duty to avoid fatigue
 228—Duty of driver to avoid driving while fatigued
 (1) A person must not drive a fatigue‑regulated heavy vehicle on a road while the person is impaired by fatigue.
 Maximum penalty: $6 000.
@@ -3056,173 +2891,6 @@ the court must discharge the proceedings against the driver.
 the court dealing with the other offence must discharge the proceedings against the driver for the other offence.
 (4) In this section—
 prescribed driver offence under another law means an offence under another law of any jurisdiction prescribed for this definition by the national regulations or a law of that jurisdiction.
-229—Duty of party in the chain of responsibility to prevent driver driving while fatigued
-(1) A party in the chain of responsibility (a party) for a fatigue‑regulated heavy vehicle must take all reasonable steps to ensure a person (the other person) does not drive the vehicle on a road while the other person is impaired by fatigue.
-Maximum penalty: $10 000.
-(2) In relation to proof of whether a party took all reasonable steps to ensure the other person did not drive the vehicle on a road while impaired by fatigue, in a proceeding for an offence against subsection (1)—
-(a) evidence that, at the relevant time, the party complied with a prescribed fatigue duty under another law is evidence the party took the reasonable steps; and
-(b) if the party is an operator of the fatigue‑regulated heavy vehicle—evidence that, at the relevant time, the party, in that capacity, complied with the conditions of the operator's BFM accreditation or AFM accreditation is evidence the party, in that capacity, took the reasonable steps.
-(3) In a proceeding for an offence against subsection (1), it is not necessary for the prosecution to prove that the other person drove, or would or may have driven, the vehicle on a road while impaired by fatigue.
-(4) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(5) In this section—
-prescribed fatigue duty under another law means a duty under another law of a participating jurisdiction prescribed by the national regulations.
-Division 3—Additional duties of employers, prime contractors and operators
-230—Duty of employer, prime contractor or operator to ensure business practices will not cause driver to drive while fatigued etc
-(1) A relevant party for the driver of a fatigue‑regulated heavy vehicle must take all reasonable steps to ensure the relevant party's business practices will not cause the driver to—
-(a) drive while impaired by fatigue; or
-(b) drive while in breach of the driver's work and rest hours option; or
-(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
-Maximum penalty: $6 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) In this section—
-business practices, of a relevant party for the driver of a fatigue‑regulated heavy vehicle, means the practices of the relevant party in running the relevant party's business, and includes—
-(a) the operating policies and procedures of the business; and
-(b) the human resource and contract management arrangements of the business; and
-(c) arrangements for managing safety;
-relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
-(a) an employer of the driver if the driver is an employed driver; or
-(b) a prime contractor of the driver if the driver is a self‑employed driver; or
-(c) an operator of the vehicle if the driver is making, or is to make, a journey for the operator.
-231—Duty of employer not to cause driver to drive if particular requirements not complied with
-(1) An employer of an employed driver of a fatigue‑regulated heavy vehicle must not cause the driver to drive the vehicle unless—
-(a) the employer has complied with section 230; and
-(b) the employer, after making reasonable inquiries, is satisfied each scheduler for the vehicle has complied with Division 4.
-Maximum penalty: $4 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-232—Duty of prime contractor or operator not to cause driver to drive if particular requirements not complied with
-(1) This section applies to—
-(a) a prime contractor of a self‑employed driver (the driver) of a fatigue‑regulated heavy vehicle; and
-(b) an operator of a fatigue‑regulated heavy vehicle being driven by someone else (also the driver).
-(2) The prime contractor or operator must not cause the driver to drive the fatigue‑regulated heavy vehicle, or enter into a contract or other agreement with the driver to that effect, unless—
-(a) the prime contractor or operator has complied with section 230; and
-(b) the prime contractor or operator, after making reasonable inquiries, is satisfied each scheduler for the vehicle has complied with Division 4.
-Maximum penalty: $4 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-Division 4—Additional duties of schedulers
-233—Duty to ensure driver's schedule will not cause driver to drive while fatigued etc
-(1) A scheduler for a fatigue‑regulated heavy vehicle must take all reasonable steps to ensure the schedule for the vehicle's driver will not cause the driver to—
-(a) drive while impaired by fatigue; or
-(b) drive while in breach of the driver's work and rest hours option; or
-(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
-Maximum penalty: $10 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-234—Duty not to cause driver to drive if particular requirements not complied with
-(1) A scheduler for a fatigue‑regulated heavy vehicle must not cause the vehicle's driver to drive the vehicle unless—
-(a) the scheduler has complied with section 233; and
-(b) the schedule for the vehicle's driver allows for—
-(i) the driver to have the rest time required under the driver's work and rest hours option; and
-(ii) traffic conditions and other delays that could reasonably be expected.
-Examples of traffic conditions and other delays that could reasonably be expected—
-• the actual average speed able to be travelled lawfully and safely by the driver on the route to be travelled by the vehicle
-• known traffic conditions, for example, road works or traffic congestion on the route
-• delays caused by loading, unloading or queuing
-Maximum penalty: $6 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-Division 5—Additional duties of consignors and consignees
-235—Duty to ensure terms of consignment will not cause driver to drive while fatigued etc
-(1) A consignor or consignee of goods for transport by a fatigue‑regulated heavy vehicle must take all reasonable steps to ensure the terms of consignment will not result in, encourage or provide an incentive to the vehicle's driver to—
-(a) drive while impaired by fatigue; or
-(b) drive while in breach of the driver's work and rest hours option; or
-(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
-Maximum penalty: $10 000.
-(2) A consignor or consignee of goods for transport by a fatigue‑regulated heavy vehicle must take all reasonable steps to ensure the terms of consignment will not result in, encourage or provide an incentive to a relevant party for the vehicle's driver to cause the driver to—
-(a) drive while impaired by fatigue; or
-(b) drive while in breach of the driver's work and rest hours option; or
-(c) drive in breach of another law in order to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
-Example of terms of consignment—
-delivery times
-Maximum penalty: $10 000.
-(3) A person charged with an offence against subsection (1) or (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) In this section—
-relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
-(a) an employer of the driver if the driver is an employed driver; or
-(b) a prime contractor of the driver if the driver is a self‑employed driver; or
-(c) an operator of the vehicle if the driver is making, or is to make, a journey for the operator.
-236—Duty not to cause driver to drive if particular requirements not complied with
-(1) A consignor or consignee of goods for transport by a fatigue‑regulated heavy vehicle must not cause the vehicle's driver to drive the vehicle, or enter into a contract or other agreement to that effect, unless—
-(a) the consignor or consignee has complied with section 235; and
-(b) the consignor or consignee, after making reasonable inquiries, is satisfied—
-(i) each relevant party for the driver has complied with Division 3; and
-(ii) each scheduler for the vehicle has complied with Division 4.
-Maximum penalty: $4 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) In this section—
-relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
-(a) an employer of the driver if the driver is an employed driver; or
-(b) a prime contractor of the driver if the driver is a self‑employed driver; or
-(c) an operator of the vehicle if the driver is making, or is to make, a journey for the operator.
-237—Duty not to make a demand that may result in driver driving while fatigued etc
-(1) A consignor or consignee of goods for transport by a fatigue‑regulated heavy vehicle must not make a demand that affects, or may affect, a time in a schedule for the transport of the consigned goods and that may cause the vehicle's driver to—
-(a) drive while impaired by fatigue; or
-(b) drive while in breach of the driver's work and rest hours option; or
-(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
-Maximum penalty: $10 000.
-(2) Subsection (1) does not apply if the consignor or consignee, before making the demand—
-(a) has complied with section 235; and
-(b) is satisfied, after making reasonable inquiries, that the making of the demand will not cause a scheduler for the fatigue‑regulated heavy vehicle to contravene Division 4.
-(3) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-Division 6—Additional duties of loading managers
-238—Duty to ensure loading arrangements will not cause driver to drive while fatigued etc
-(1) A loading manager for goods in heavy vehicles must take all reasonable steps to ensure the arrangements for loading goods onto and unloading goods from fatigue‑regulated heavy vehicles at or from the premises in relation to which the person is a loading manager will not cause the driver of a fatigue‑regulated heavy vehicle to—
-(a) drive while impaired by fatigue; or
-(b) drive while in breach of the driver's work and rest hours option; or
-(c) drive in breach of another law in order to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
-Examples of reasonable steps to comply with this section—
-• providing for necessary rest time to be had with adequate facilities
-• providing for the reporting of travel delays and providing a mechanism for managing late arrivals
-• allowing loading and unloading to happen at an agreed time
-• having a system of setting and allocating loading and unloading times the driver of a fatigue‑regulated heavy vehicle can reasonably rely on to comply with the maximum work requirements and minimum rest requirements applying to the driver
-Maximum penalty: $10 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-239—Duty to ensure drivers can rest in particular circumstances
-(1) This section applies if a loading manager for goods in a fatigue‑regulated heavy vehicle, or a person acting under the loading manager's supervision or control—
-(a) has advised the vehicle's driver, either directly or indirectly, of when the loading of goods onto or unloading of goods from the vehicle is to start, and the loading manager or person becomes aware the loading or unloading will, or is likely to, start more than 30 minutes late; or
-(b) has advised the vehicle's driver, either directly or indirectly, of when the loading of goods onto or unloading of goods from the vehicle is to finish, and the loading manager or person becomes aware the loading or unloading will, or is likely to, finish more than 30 minutes late; or
-(c) is unable to advise the vehicle's driver of when the loading of goods onto or unloading of goods from the vehicle is to start; or
-(d) is unable to advise the vehicle's driver of when the loading of goods onto or unloading of goods from the vehicle is to finish.
-(2) The loading manager must take all reasonable steps to ensure the driver is able to rest while waiting for the goods to be loaded onto or unloaded from the fatigue‑regulated heavy vehicle.
-Example of reasonable steps that may be taken to ensure the driver of a fatigue‑regulated heavy vehicle is able to rest—
-providing a system of notifying the driver when goods can be loaded onto or unloaded from the driver's vehicle that does not require the driver to be awake or unreasonably alert
-Maximum penalty: $6 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-Division 7—Particular requests etc and contracts etc prohibited
-240—Particular requests etc prohibited
-A person must not ask, direct or require, directly or indirectly, the driver of a fatigue‑regulated heavy vehicle, or a party in the chain of responsibility for a fatigue‑regulated heavy vehicle, to do or not do something the person knows, or ought reasonably to know, would have the effect of causing the vehicle's driver to—
-(a) drive while impaired by fatigue; or
-(b) drive while in breach of the driver's work and rest hours option; or
-(c) drive in breach of another law in order to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
-Example of a requirement that contravenes this section—
-a requirement that the driver complete a journey in a time the person knows or ought reasonably to know cannot be complied with unless the driver commits a speeding offence or does not have all the rest time the driver is required to have under this Law
-Maximum penalty: $10 000.
-Note—
-See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
-241—Particular contracts etc prohibited
-(1) A person must not enter into a contract or other agreement with the driver of a fatigue‑regulated heavy vehicle, or with a party in the chain of responsibility for a fatigue‑regulated heavy vehicle, that the person knows, or ought reasonably to know, would have the effect of causing the vehicle's driver to—
-(a) drive while impaired by fatigue; or
-(b) drive while in breach of the driver's work and rest hours option; or
-(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
-Maximum penalty: $10 000.
-(2) A person must not enter into a contract or other agreement with the driver of a fatigue‑regulated heavy vehicle, or with a party in the chain of responsibility for a fatigue‑regulated heavy vehicle that the person knows, or ought reasonably to know, would encourage or provide an incentive for the vehicle's driver, or a party in the chain of responsibility for the vehicle to cause the vehicle's driver, to—
-(a) drive while impaired by fatigue; or
-(b) drive while in breach of the driver's work and rest hours option; or
-(c) drive in breach of another law to avoid driving while impaired by fatigue or while in breach of the driver's work and rest hours option.
-Maximum penalty: $10 000.
-Notes for the purposes of subsections (1) and (2)—
-1 See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
-2 See section 742, which provides that particular contracts or other agreements are void.
-Division 8—Provisions about offences against this Part
-242—Objective reasonableness test to be used in deciding causation
-(1) This section applies in relation to a proceeding for an offence against this Part that may be committed by a person failing to take all reasonable steps to ensure someone else does not drive a fatigue‑regulated heavy vehicle while impaired by fatigue (prohibited act).
-(2) For the purposes of subsection (1), a person failing to take all reasonable steps to ensure someone else does not do a prohibited act includes—
-(a) the person failing to take reasonable steps to ensure the other person does not do the prohibited act; and
-(b) the person failing to take reasonable steps to ensure the person's activities, or anything arising out of the person's activities, do not—
-(i) cause the other person to do the prohibited act; or
-(ii) result in the other person doing the prohibited act; or
-(iii) provide an incentive for the other person to do the prohibited act.
-(3) Subsection (4) applies if—
-(a) a person does an act or makes an omission; and
-(b) as a result of the act or omission someone else does a prohibited act.
-(4) A court may find the person caused the other person to do the prohibited act if the court is satisfied a reasonable person would have foreseen the person's act or omission would be reasonably likely to cause the other person to do the prohibited act.
 Part 3—Requirements relating to work time and rest time
 Division 1—Preliminary
 243—What is a driver's work and rest hours option
@@ -3304,10 +2972,6 @@ Maximum penalty:
 (b) for a substantial risk breach—$6 000; or
 (c) for a severe risk breach—$10 000; or
 (d) for a critical risk breach—$15 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 251—Operating under standard hours—two‑up drivers
 (1) The driver of a fatigue‑regulated heavy vehicle who is a party to a two‑up driving arrangement commits an offence if, in any period stated in the standard hours for the driver, the driver—
 (a) works for more than the maximum work time stated in the standard hours for the period; or
@@ -3317,10 +2981,6 @@ Maximum penalty:
 (b) for a substantial risk breach—$6 000; or
 (c) for a severe risk breach—$10 000; or
 (d) for a critical risk breach—$15 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 252—Defence relating to short rest breaks for drivers operating under standard hours
 (1) This section applies if, at a particular time, the driver of a fatigue‑regulated heavy vehicle is required, under section 250 or 251, to have a short rest break.
 Examples of when this section applies—
@@ -3353,10 +3013,6 @@ Maximum penalty:
 (b) for a substantial risk breach—$6 000; or
 (c) for a severe risk breach—$10 000; or
 (d) for a critical risk breach—$15 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 255—Defence for solo drivers operating under BFM hours relating to split rest breaks
 (1) This section applies if, at a particular time, the driver of a fatigue‑regulated heavy vehicle is required under section 254 to have 7 continuous hours of stationary rest time in a period of 24 hours.
 (2) In a proceeding for an offence against section 254 for a solo driver of a fatigue‑regulated heavy vehicle relating to the driver failing to have the 7 continuous hours of stationary rest time, it is a defence for the driver to prove that—
@@ -3374,10 +3030,6 @@ Maximum penalty:
 (b) for a substantial risk breach—$6 000; or
 (c) for a severe risk breach—$10 000; or
 (d) for a critical risk breach—$15 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 Division 4—AFM work and rest arrangements
 257—AFM hours
 AFM hours are the maximum work times and minimum rest times applying, for a period, to the driver of a fatigue‑regulated heavy vehicle operating under an AFM accreditation, and stated in the accreditation certificate for the accreditation.
@@ -3390,10 +3042,6 @@ Maximum penalty:
 (b) for a substantial risk breach—$6 000; or
 (c) for a severe risk breach—$10 000; or
 (d) for a critical risk breach—$15 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 Division 5—Arrangements under work and rest hours exemption
 259—Exemption hours
 (1) Exemption hours are the maximum work times and minimum rest times applying, for a period, to the driver of a fatigue‑regulated heavy vehicle operating under a work and rest hours exemption, and stated in the relevant document for the exemption.
@@ -3410,36 +3058,6 @@ Maximum penalty:
 (b) for a substantial risk breach—$6 000; or
 (c) for a severe risk breach—$10 000; or
 (d) for a critical risk breach—$15 000.
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-Division 6—Extended liability
-261—Liability of employer etc for driver's contravention of maximum work requirement or minimum rest requirement
-(1) This section applies to an offence committed because the driver of a fatigue‑regulated heavy vehicle contravenes a maximum work requirement or minimum rest requirement applying to the driver under Division 2, Division 3, Division 4 or Division 5 (the relevant offence).
-(2) If a relevant offence is committed involving the driver of a fatigue-regulated heavy vehicle, each of the following persons is taken to have committed an offence against this subsection:
-(a) an employer of the driver if the driver is an employed driver;
-(b) a prime contractor of the driver if the driver is a self‑employed driver;
-(c) an operator of the vehicle;
-(d) a scheduler for the vehicle;
-(e) a consignor of any goods for transport by the vehicle that are in the vehicle;
-(f) a consignee of any goods in the vehicle;
-(g) a loading manager for any goods in the vehicle;
-(h) a loader of any goods in the vehicle;
-(i) an unloader of goods in the vehicle.
-Maximum penalty:
-(a) for a minor risk breach—$4 000; or
-(b) for a substantial risk breach—$6 000; or
-(c) for a severe risk breach—$10 000; or
-(d) for a critical risk breach—$15 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(5) In a proceeding for an offence against subsection (2)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the relevant offence; and
-(b) evidence a court has convicted the driver of the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 Division 7—Changing work and rest hours option
 262—Changing work and rest hours option
 (1) The driver of a fatigue‑regulated heavy vehicle may operate under only 1 work and rest hours option at any 1 time.
@@ -3458,22 +3076,14 @@ Example of other requirements for the purposes of paragraph (c)—
 If the driver is changing to BFM hours or AFM hours, the driver must be inducted into the relevant operator's BFM or AFM fatigue management system.
 Maximum penalty: $4 000.
 (2) If the driver of a fatigue‑regulated heavy vehicle has had a reset rest break between changing from 1 work and rest hours option to a different work and rest hours option, the period to which the new work and rest hours option applies must be counted forward from the end of the reset rest break.
-(3) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (5) In this section—
 reset rest break means a period of rest time of at least 48 continuous hours.
 264—Duty of employer, prime contractor, operator and scheduler to ensure driver compliance
 (1) This section applies if the driver of a fatigue‑regulated heavy vehicle changes from 1 work and rest hours option to a different work and rest hours option.
-(2) A relevant party for the driver must—
-(a) ensure the driver does not drive a fatigue‑regulated heavy vehicle after making the change unless the driver has complied with section 263; and
-(b) take whatever action is necessary to ensure the driver can comply with his or her obligations in relation to the change.
+(2) A relevant party for the driver must ensure, so far as is reasonably practicable, the driver—
+(a) does not drive a fatigue-regulated heavy vehicle after making the change unless the driver has complied with section 263; and
+(b) can comply with his or her obligations in relation to the change.
 Maximum penalty: $6 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (5) In this section—
 relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
 (a) an employer of the driver if the driver is an employed driver; or
@@ -3705,16 +3315,8 @@ condition, of a work and rest hours exemption, does not include—
 (1) This section applies if a work and rest hours exemption (notice) is subject to the condition that the driver of a fatigue‑regulated heavy vehicle who is operating under the exemption must keep a relevant document in the driver's possession.
 (2) A driver of the fatigue‑regulated heavy vehicle who is operating under the work and rest hours exemption (notice) must comply with the condition.
 Maximum penalty: $3 000.
-(3) If an offence is committed against subsection (2) involving the driver of a fatigue-regulated heavy vehicle, each relevant party for the driver is also taken to have committed an offence against this subsection.
+(3) Each relevant party for a driver mentioned in subsection (2) must ensure the driver complies with subsection (2), unless the relevant party has a reasonable excuse.
 Maximum penalty: $3 000.
-(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(6) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
-(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 (7) In this section—
 relevant document, for a work and rest hours exemption (notice), means a copy of—
 (a) the Commonwealth Gazette notice for the exemption; or
@@ -3731,16 +3333,8 @@ Maximum penalty: $3 000.
 (b) stops operating under the relevant party's exemption; or
 (c) no longer meets the requirements relating to drivers under the relevant party's exemption.
 Maximum penalty: $4 000.
-(3) If an offence is committed against subsection (1) involving the driver of a fatigue-regulated heavy vehicle, each relevant party for the driver is also taken to have committed an offence against this subsection.
+(3) Each relevant party for a driver mentioned in subsection (1) must ensure the driver complies with subsection (1), unless the relevant party has a reasonable excuse.
 Maximum penalty: $3 000.
-(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(6) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
-(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 (7) In this section—
 relevant party, for the driver of a fatigue‑regulated heavy vehicle, means—
 (a) an employer of the driver if the driver is an employed driver; or
@@ -3953,10 +3547,6 @@ Maximum penalty: $6 000.
 (3) If the record keeper has engaged another person under a contract for services to comply with subsection (2) for the record keeper—
 (a) the record keeper remains liable for an offence against subsection (2); and
 (b) the other person is also liable for an offence against subsection (2) as if the other person were the record keeper mentioned in the subsection.
-(4) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 312—What record keeper must do if electronic work diary destroyed, lost or stolen
 (1) This section applies if—
 (a) the record keeper for the driver of a fatigue‑regulated heavy vehicle is a person other than the driver; and
@@ -3970,15 +3560,11 @@ See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defe
 (ii) relates to any period during the last 28 days; and
 (iii) is not stored in the new electronic work diary.
 Maximum penalty: $6 000.
-(3) The record keeper must within 2 business days notify the Regulator in the approved form that the electronic work diary has been destroyed, lost or stolen.
+(3) The record keeper must within 2 business days notify the Regulator in the approved form that the electronic work diary has been destroyed, lost or stolen, unless the record keeper has a reasonable excuse.
 Maximum penalty: $6 000.
 (4) If the record keeper has engaged another person under a contract for services to comply with subsection (2) or (3) for the record keeper—
 (a) the record keeper remains liable for an offence against subsection (2) or (3); and
 (b) the other person is also liable for an offence against subsection (2) or (3) as if the other person were the record keeper mentioned in the subsection.
-(5) A person charged with an offence against subsection (2) or (3) does not have the benefit of the mistake of fact defence for the offence.
-(6) However, in a proceeding for an offence against subsection (2) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 313—What record keeper must do if electronic work diary not in working order or malfunctioning
 (1) This section applies if—
 (a) the record keeper for the driver of a fatigue‑regulated heavy vehicle is a person other than the driver; and
@@ -3996,7 +3582,7 @@ Maximum penalty: $6 000.
 (i) is accessible to the record keeper; and
 (ii) relates to any period during the last 28 days; and
 (iii) is not stored in the electronic work diary because the electronic work diary is not in working order or is malfunctioning or has malfunctioned; and
-(c) within 2 business days, notify the Regulator in the approved form that the electronic work diary is not in working order or is malfunctioning or has malfunctioned; and
+(c) within 2 business days, notify the Regulator in the approved form that the electronic work diary is not in working order or is malfunctioning or has malfunctioned, unless the record keeper has a reasonable excuse; and
 (d) within a period required by the Regulator, ensure the electronic work diary is examined and brought into working order and is not malfunctioning.
 Maximum penalty: $6 000.
 (4) Subsection (5) applies if the driver of the vehicle changes during any period that is relevant to the duties imposed on the record keeper by subsection (2) or (3).
@@ -4007,10 +3593,6 @@ Maximum penalty: $6 000.
 (7) Subsection (6) does not apply if the other person is engaged under a contract for services only to repair or otherwise bring the electronic work diary into working order.
 Example for the purposes of subsection (7)—
 A person in the business of repairing electronic recording systems is engaged under a contract for services to repair or otherwise bring the electronic work diary into working order on behalf of the record keeper.
-(8) A person charged with an offence against subsection (2) or (3) does not have the benefit of the mistake of fact defence for the offence.
-(9) However, in a proceeding for an offence against subsection (2) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 Subdivision 5—Use of electronic work diaries
 314—How electronic work diary must be used
 (1) This section applies if the driver of a fatigue‑regulated heavy vehicle who is required to record information in the driver's work diary under Subdivision 2 uses an electronic work diary.
@@ -4026,22 +3608,15 @@ Maximum penalty: $6 000.
 (a) the specification was not integral to the effective operation of the electronic recording system; or
 (b) what was done or not done in relation to the specification was in accordance with industry practice in relation to the handling or maintenance of an electronic recording system of that type from that manufacturer.
 Subdivision 6—Extended liability
-315—Liability of employer etc for driver's contravention of particular requirements of this Division
-(1) This section applies to an offence committed because the driver of a fatigue-regulated heavy vehicle contravenes a provision of Subdivision 1, Subdivision 2, Subdivision 3 or Subdivision 4 (a relevant offence).
-(2) If a relevant offence is committed involving the driver of a fatigue‑regulated heavy vehicle, each of the following persons is taken to have committed the offence against this subsection:
-(a) an employer of the driver if the driver is an employed driver;
-(b) a prime contractor of the driver if the driver is a self‑employed driver;
-(c) an operator of the vehicle if the driver is making a journey for the operator;
-(d) a scheduler for the vehicle.
+315—Ensuring driver complies with Subdivisions 1 to 4
+(1) Each responsible party for the driver of a fatigue‑regulated heavy vehicle must ensure, so far as is reasonably practicable, the driver complies with each of Subdivisions 1, 2, 3 and 4 so far as they are applicable.
 Maximum penalty: $6 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(5) In a proceeding for an offence against subsection (2)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the relevant offence; and
-(b) evidence a court has convicted the driver of the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the relevant offence is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(2) In this section—
+responsible party, for the driver of a fatigue‑regulated heavy vehicle, means—
+(a) if the driver is an employed driver—an employer of the driver; or
+(b) if the driver is a self‑employed driver—a prime contractor of the driver; or
+(c) an operator of the vehicle; or
+(d) a scheduler for the vehicle.
 Division 3—Records relating to drivers
 Subdivision 1—Preliminary
 316—Application of Division 3
@@ -4061,7 +3636,7 @@ Subdivision 2—Record keeping obligations relating to drivers undertaking 100km
 318—Application of Subdivision 2
 This Subdivision applies in relation to the driver of a fatigue‑regulated heavy vehicle who is undertaking only 100km work under standard hours.
 319—Records record keeper must have
-(1) The driver's record keeper must—
+(1) The driver's record keeper must, unless the record keeper has a reasonable excuse—
 (a) record the following information within the prescribed period:
 (i) the driver's name and contact details;
 (ii) the driver's current driver licence number and the jurisdiction in which the licence was issued;
@@ -4071,28 +3646,43 @@ This Subdivision applies in relation to the driver of a fatigue‑regulated heav
 (B) in the case of a vehicle that is in a combination—the towing vehicle in the combination;
 (v) the total of the driver's work times and rest times on each day on which the driver drives a fatigue‑regulated heavy vehicle;
 (vi) the total of the driver's work times and rest times for each week during which the driver drives a fatigue‑regulated heavy vehicle;
-(vii) the driver's rosters and trip schedules, including details of driver changeovers; and
+(vii) the driver's rosters and trip schedules, including details of driver changeovers;
+(viii) the location of the driver's base;
+(ix) if the location of the driver's base changes—the date on which the location changes; and
 (b) keep a copy of payment records relating to the driver, including time sheet records if the driver is paid according to time at work.
 Maximum penalty: $6 000.
 (2) A requirement imposed on a record keeper by subsection (1)(a)(ii) to (vi) is taken to be satisfied if an electronic work diary used by the driver, the information in which is maintained by the record keeper, includes the information mentioned in the provisions.
 (3) If the record keeper has engaged another person under a contract for services to comply with subsection (1) for the record keeper—
 (a) the record keeper remains liable for an offence against subsection (1); and
 (b) the other person is also liable for an offence against subsection (1) as if the other person were the record keeper mentioned in the subsection.
-(4) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (6) In this section—
 prescribed period, for recording information mentioned in subsection (1) relating to the driver of a fatigue‑regulated heavy vehicle, means—
 (a) if the driver's record keeper is the driver—within 24 hours after the driver stops working on a day for which the information is relevant; or
 (b) if the driver's record keeper is a person other than the driver—as soon as possible after the person receives the information.
+319A—General requirements about driver recording and giving information to record keeper
+(1) This section applies if the driver's record keeper on a relevant day is a person other than the driver.
+(2) The driver must, unless the driver has a reasonable excuse—
+(a) within 24 hours after the driver stops working on the relevant day, record the information mentioned in section 319(1)(a)(iii) to (vi) for that day; and
+(b) within 21 days after the relevant day, give the information mentioned in section 319(1) for that day to the driver's record keeper.
+Maximum penalty: $3 000.
+(3) The requirement imposed on the driver by subsection (2)(a) is taken to be satisfied if the record keeper records the information within the period mentioned in the provision.
+(4) The requirement imposed on the driver by subsection (2)(b) is taken to be satisfied if the record keeper obtains the information within the period mentioned in the provision in any way, including, for example, because the information is recorded—
+(a) in an electronic work diary used by the driver, the information in which is maintained by the record keeper; or
+(b) by the record keeper.
+(5) The record keeper must, so far as is reasonably practicable, ensure the driver complies with subsection (2)(b).
+Maximum penalty: $3 000.
+(6) If the record keeper has engaged another person under a contract for services to comply with subsection (5) for the record keeper—
+(a) the record keeper remains liable for an offence against subsection (5); and
+(b) the other person is also liable for an offence against subsection (5) as if the other person were the record keeper mentioned in the subsection.
+(7) In this section—
+relevant day means a day on which the driver drives a fatigue‑regulated heavy vehicle on a road.
 Subdivision 3—Record keeping obligations relating to drivers undertaking 100+km work under standard hours or operating under BFM hours, AFM hours or exemption hours
 320—Application of Subdivision 3
 This Subdivision applies in relation to the driver of a fatigue‑regulated heavy vehicle who is—
 (a) undertaking 100+km work under standard hours; or
 (b) operating under BFM hours, AFM hours or exemption hours.
 321—Records record keeper must have
-(1) The driver's record keeper must—
+(1) The driver's record keeper must, unless the record keeper has a reasonable excuse—
 (a) record the following information within the prescribed period:
 (i) the driver's name and contact details;
 (ii) the driver's current driver licence number and the jurisdiction in which the licence was issued;
@@ -4103,7 +3693,7 @@ This Subdivision applies in relation to the driver of a fatigue‑regulated heav
 (c) keep a copy of payment records relating to the driver, including time sheet records if the driver is paid according to time at work.
 Maximum penalty: $6 000.
 (2) The requirement imposed on the record keeper by subsection (1)(a)(ii) is taken to be satisfied if an electronic work diary used by the driver, the information in which is maintained by the record keeper, includes the information mentioned in the provision.
-(3) If the driver is operating under BFM hours or AFM hours, the record keeper must also record the following information:
+(3) If the driver is operating under BFM hours or AFM hours, the record keeper must, unless the record keeper has a reasonable excuse, also record the following information:
 (a) the information required to be kept by the record keeper as a condition of the BFM accreditation or AFM accreditation under which the driver is operating;
 (b) the information required to be kept by the record keeper under the BFM standards and business rules or AFM standards and business rules.
 Maximum penalty: $6 000.
@@ -4112,10 +3702,6 @@ See also section 470 for other record‑keeping requirements applying to a recor
 (4) If the record keeper has engaged another person under a contract for services to comply with subsection (1) or (3) for the record keeper—
 (a) the record keeper remains liable for an offence against the subsection; and
 (b) the other person is also liable for an offence against the subsection as if the other person were the record keeper mentioned in the subsection.
-(5) A person charged with an offence against subsection (1) or (3) does not have the benefit of the mistake of fact defence for the offence.
-(6) However, in a proceeding for an offence against subsection (1) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 (7) This section does not apply to the record keeper for the driver of a fatigue‑regulated heavy vehicle who—
 (a) is exempt from the requirements of Division 2 under section 356; or
 (b) is operating under a work diary exemption (notice).
@@ -4131,49 +3717,37 @@ prescribed period, for recording information mentioned in subsection (1) relatin
 (1) This section applies if—
 (a) the driver of a fatigue‑regulated heavy vehicle is required to record information in the driver's work diary under Division 2; and
 (b) the driver's record keeper is a person other than the driver.
-(2) The driver must, within 21 days after the day on which the driver drove the vehicle, give a copy of the work diary entry recording the information, including any entry made in a supplementary record recording the information for that day, to each person who was a record keeper for the driver on that day.
+(2) The driver must, within 21 days after the day on which the driver drove the vehicle, give a copy of the work diary entry recording the information, including any entry made in a supplementary record recording the information for that day, to each person who was a record keeper for the driver on that day, unless the driver has a reasonable excuse.
 Maximum penalty: $3 000.
 (3) The requirement imposed on the driver by subsection (2) is taken to be satisfied if an electronic work diary used by the driver, the information in which is maintained by the record keeper, includes the information mentioned in the provision.
-(4) The record keeper must ensure the driver complies with subsection (2).
+(4) The record keeper must ensure, so far as is reasonably practicable, the driver complies with subsection (2).
 Maximum penalty: $3 000.
 (5) If the record keeper has engaged another person under a contract for services to comply with subsection (4) for the record keeper—
 (a) the record keeper remains liable for an offence against subsection (4); and
 (b) the other person is also liable for an offence against subsection (4) as if the other person were the record keeper mentioned in the subsection.
-(6) A person charged with an offence against subsection (2) or (4) does not have the benefit of the mistake of fact defence for the offence.
-(7) However, in a proceeding for an offence against subsection (2) or (4), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 323—Requirements about driver giving information to record keeper if driver changes record keeper
 (1) This section applies if—
 (a) the driver of a fatigue‑regulated heavy vehicle is, or was in the previous 28 days, required to record information in the driver's work diary under Division 2; and
 (b) the driver changes record keepers; and
 (c) the new record keeper is a person other than the driver.
-(2) The driver must, before driving a fatigue‑regulated heavy vehicle for the driver's new record keeper, give the new record keeper a copy of information the driver recorded in a work diary in the 28 days before the change happened that relates to that 28‑day period.
+(2) The driver must, before driving a fatigue‑regulated heavy vehicle for the driver's new record keeper, give the new record keeper a copy of information the driver recorded in a work diary in the 28 days before the change happened that relates to that 28‑day period, unless the driver has a reasonable excuse.
 Maximum penalty: $3 000.
-(3) The new record keeper must ensure the driver complies with subsection (2).
+(3) The new record keeper must ensure, so far as is reasonably practicable, the driver complies with subsection (2).
 Maximum penalty: $3 000.
 (4) The requirement imposed on the driver or the record keeper by subsection (2) or (3) is taken to be satisfied if an electronic work diary used by the driver, the information in which is maintained by the record keeper, includes the information mentioned in the subsection.
 (5) If the new record keeper has engaged another person under a contract for services to comply with subsection (3) for the new record keeper—
 (a) the new record keeper remains liable for an offence against subsection (3); and
 (b) the other person is also liable for an offence against subsection (3) as if the other person were the new record keeper mentioned in the subsection.
-(6) A person charged with an offence against subsection (2) or (3) does not have the benefit of the mistake of fact defence for the offence.
-(7) However, in a proceeding for an offence against subsection (2) or (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 324—Record keeper must give information from electronic work diary
 (1) This section applies if—
 (a) the driver of a fatigue‑regulated heavy vehicle is required to record information in the driver's work diary under Division 2; and
 (b) the driver's record keeper is a person other than the driver; and
 (c) the driver is using an electronic work diary supplied to the driver by the driver's record keeper.
-(2) If the driver stops using the electronic work diary, the driver's record keeper must immediately give the driver, in a way that makes the information readily available to the driver, the information recorded in the work diary for each day on which the driver was using the electronic work diary.
+(2) If the driver stops using the electronic work diary, the driver's record keeper must immediately give the driver, in a way that makes the information readily available to the driver, the information recorded in the work diary for each day on which the driver was using the electronic work diary, unless the record keeper has a reasonable excuse.
 Maximum penalty: $3 000.
 (3) If the record keeper has engaged another person under a contract for services to comply with subsection (2) for the record keeper—
 (a) the record keeper remains liable for an offence against subsection (2); and
 (b) the other person is also liable for an offence against subsection (2) as if the other person were the record keeper mentioned in the subsection.
-(4) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 324A—Record keeper must give record to driver if requested
 (1) This section applies if—
 (a) the driver of a fatigue-regulated heavy vehicle is required to record information in the driver's work diary under Division 2; and
@@ -4185,7 +3759,7 @@ See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defe
 Maximum penalty: $1 500.
 Division 4—Provisions about false representations relating to work records
 325—False or misleading entries
-(1) A person must not record something in a work record that the person knows, or ought reasonably to know, is false or misleading in a material particular.
+(1) A person must not record something in a work record that the person knows, or ought reasonably to know, is false or misleading.
 Maximum penalty: $10 000.
 Note—
 See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
@@ -4257,21 +3831,13 @@ Maximum penalty: $10 000.
 (a) conduct associated with repairing an approved electronic recording system, or a part of an approved electronic recording system, that is malfunctioning or has malfunctioned; or
 (b) conduct associated with maintaining an approved electronic recording system; or
 (c) an authorised officer when exercising functions under this Law.
-(3) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(5) Also, in a proceeding for an offence against subsection (1) involving a person engaging in conduct that alters or otherwise interferes with any electronic signal sent to or from an approved electronic recording system, or a part of an approved electronic recording system, it is a defence for the person to prove that the person was not aware, and could not reasonably be expected to have been aware, that the conduct would alter or otherwise interfere with the electronic signal.
+(5) In a proceeding for an offence against subsection (1) involving a person engaging in conduct that alters or otherwise interferes with any electronic signal sent to or from an approved electronic recording system, or a part of an approved electronic recording system, it is a defence for the person to prove that the person was not aware, and could not reasonably be expected to have been aware, that the conduct would alter or otherwise interfere with the electronic signal.
 336—Person using approved electronic recording system must not permit tampering with it
 (1) A person who uses an approved electronic recording system must not permit another person to tamper with the system.
 Maximum penalty: $10 000.
 Examples of a person who uses an approved electronic recording system—
 • a driver of a heavy vehicle
 • a driver's record keeper
-(2) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(3) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 336A—Reporting tampering or suspected tampering with electronic work diary
 (1) If the record keeper for the driver of a fatigue‑regulated heavy vehicle knows, or has reasonable grounds to suspect, an electronic work diary has been tampered with, the record keeper must report the matter to the Regulator—
 (a) within 2 business days; and
@@ -4280,18 +3846,10 @@ Maximum penalty: $6 000.
 (2) If the record keeper has engaged another person under a contract for services to comply with subsection (1) for the record keeper—
 (a) the record keeper remains liable for an offence against subsection (1); and
 (b) the other person is also liable for an offence against subsection (1) as if the other person were the record keeper mentioned in the subsection.
-(3) A person charged with an offence against subsection (1) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (1), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-337—Intelligent access program reporting entity must not permit tampering with approved electronic recording system
+337—Intelligent access reporting entity must not permit tampering with approved electronic recording system
 (1) This section applies if an approved electronic recording system is or is part of an approved intelligent transport system.
 (2) An intelligent access program reporting entity for the approved intelligent transport system must not permit another person to tamper with the approved electronic recording system.
 Maximum penalty: $10 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 Division 6—Obtaining written work diary
 338—Form of written work diary
 (1) This section states the requirements for written work diaries issued by the Regulator under this Division.
@@ -4328,26 +3886,26 @@ Division 7—Requirements about records record keeper must make or keep
 Note—
 In the Heavy Vehicle National Law set out in the Schedule to the Heavy Vehicle National Law Act 2012 of Queensland, this Division is numbered Division 6A.
 341—Period for which, and way in which, records must be kept
-(1) The record keeper of the driver of a fatigue-regulated heavy vehicle must keep a record required to be made or kept under Division 3, or a copy of the record, for 3 years after—
+(1) The record keeper of the driver of a fatigue-regulated heavy vehicle must, unless the record keeper has a reasonable excuse, keep a record required to be made or kept under Division 3, or a copy of the record, for 3 years after—
 (a) for a record made by the record keeper—the day the record keeper makes the record; or
 (b) for another record—the day the record keeper receives the record.
 Maximum penalty: $6 000.
-(2) The record keeper of the driver of a fatigue-regulated heavy vehicle must keep a record required to be made or kept under (or by a condition under) Division 9 or Division 10, or a copy of the record, for a period of 3 years, or, if a condition of an exemption states a record must be kept for a period of less than 3 years, the period stated in the condition, after—
+(2) The record keeper of the driver of a fatigue-regulated heavy vehicle must, unless the record keeper has a reasonable excuse, keep a record required to be made or kept under (or by a condition under) Division 9 or Division 10, or a copy of the record, for a period of 3 years, or, if a condition of an exemption states a record must be kept for a period of less than 3 years, the period stated in the condition, after—
 (a) for a record made by the record keeper—the day the record keeper makes the record; or
 (b) for another record—the day the record keeper receives the record.
 Maximum penalty: $6 000.
-(3) Except where the driver is his or her own record keeper, the record keeper must keep the record or copy at the driver's record location in a way that ensures it is readily available to an authorised officer at the record location.
+(3) Except where the driver is his or her own record keeper, the record keeper must, unless the record keeper has a reasonable excuse, keep the record or copy at the driver's record location in a way that ensures it is readily available to an authorised officer at the record location.
 Maximum penalty: $3 000.
-(4) If the driver is his or her own record keeper, the driver as record keeper must ensure the record or copy of the record is kept at the driver's record location in a way that ensures it is readily available to an authorised officer at the record location by the end of the 21‑day period after the day the record is made.
+(4) If the driver is his or her own record keeper, the driver as record keeper must, unless the driver as record keeper has a reasonable excuse, ensure the record or copy of the record is kept at the driver's record location in a way that ensures it is readily available to an authorised officer at the record location by the end of the 21‑day period after the day the record is made.
 Maximum penalty: $3 000.
-(5) The record keeper must keep the record or copy in a way that ensures it is—
+(5) The record keeper must, unless the record keeper has a reasonable excuse, keep the record or copy in a way that ensures it is—
 (a) readable and reasonably capable of being understood; and
 (b) capable of being used as evidence.
 Example—
 To ensure a record kept in a storage facility does not become unreadable, for example, by degrading, the record keeper could scan the hard copy of the record and keep it in an electronic format that is readable.
 Maximum penalty: $6 000.
 (6) A reference in subsection (1) to keeping a record of information required to be made or kept under Division 3 includes a reference to maintaining a record of the information that is in an electronic work diary, if that record is taken to have satisfied the requirement under Division 3.
-(7) If the driver's work diary is an electronic work diary, the driver's record keeper must maintain a record of the information that is recorded in the work diary in a way complying with—
+(7) If the driver's work diary is an electronic work diary, the driver's record keeper must, unless the record keeper has a reasonable excuse, maintain a record of the information that is recorded in the work diary in a way complying with—
 (a) if the Regulator has, when approving the electronic recording system constituting the work diary, or of which the work diary is a part, imposed any conditions in relation to the way information must be recorded in the work diary—those conditions; and
 (b) the manufacturer's instructions, if any, for recording information in the electronic work diary, to the extent the instructions are consistent with the conditions mentioned in paragraph (a).
 Maximum penalty: $1 500.
@@ -4356,10 +3914,6 @@ The Regulator may impose conditions on the use of an electronic recording system
 (8) If the record keeper has engaged another person under a contract for services to comply with subsection (1), (2), (3), (5) or (7) for the record keeper—
 (a) the record keeper remains liable for an offence against the subsection; and
 (b) the other person is also liable for an offence against the subsection as if the other person were the record keeper mentioned in the subsection.
-(9) A person charged with an offence against subsection (1), (2), (3), (5) or (7) does not have the benefit of the mistake of fact defence for the offence.
-(10) However, in a proceeding for an offence against subsection (1), (2), (3), (5) or (7), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 Division 8—Approval of electronic recording systems
 Note—
 In the Heavy Vehicle National Law set out in the Schedule to the Heavy Vehicle National Law Act 2012 of Queensland, this Division is numbered Division 7.
@@ -4681,16 +4235,8 @@ Maximum penalty: $6 000.
 (1) This section applies if a work diary exemption (notice) is subject to the condition that the driver of a fatigue‑regulated heavy vehicle who is operating under the exemption must keep a relevant document in the driver's possession.
 (2) A driver of the fatigue‑regulated heavy vehicle who is operating under the work diary exemption (notice) must comply with the condition.
 Maximum penalty: $3 000.
-(3) If an offence is committed against subsection (2) involving the driver of a fatigue-regulated heavy vehicle, each relevant party for the driver is taken to have committed an offence against this subsection.
+(3) Each relevant party for a driver mentioned in subsection (2) must ensure the driver complies with subsection (2), unless the relevant party has a reasonable excuse.
 Maximum penalty: $3 000.
-(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(6) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (2); and
-(b) evidence a court has convicted the driver of the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (2) is evidence that the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 (7) In this section—
 relevant document, for a work diary exemption (notice), means a copy of—
 (a) the Commonwealth Gazette notice for the exemption; or
@@ -4863,12 +4409,8 @@ Note—
 In the Heavy Vehicle National Law set out in the Schedule to the Heavy Vehicle National Law Act 2012 of Queensland, this Division is numbered Division 9.
 396—Owner must maintain odometer
 (1) The national regulations may require the fitting and maintenance of an odometer to a fatigue-regulated heavy vehicle.
-(2) An owner of a fatigue‑regulated heavy vehicle required by the national regulations to be fitted with an odometer must maintain the odometer in accordance with the requirements prescribed by the national regulations.
+(2) An owner of a fatigue‑regulated heavy vehicle required by the national regulations to be fitted with an odometer must maintain the odometer in accordance with the requirements prescribed by the national regulations, unless the owner has a reasonable excuse.
 Maximum penalty: $6 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 397—Driver must report malfunctioning odometer
 (1) This section applies if the driver of a fatigue‑regulated heavy vehicle becomes aware or has reason to suspect an odometer fitted to the vehicle is malfunctioning or has malfunctioned.
 (2) The driver must inform the following persons of the matter within 2 business days:
@@ -4881,18 +4423,10 @@ Maximum penalty: $3 000.
 (1) This section applies if an owner of a fatigue‑regulated heavy vehicle is informed under section 397 of malfunctioning or suspected malfunctioning of the vehicle's odometer.
 (2) The owner must, as soon as reasonably practicable after being informed of the matter, ensure the odometer is examined and brought into working order.
 Maximum penalty: $6 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 399—What employer or operator must do if odometer malfunctioning
 (1) This section applies if an employer of the driver of a fatigue‑regulated heavy vehicle or an operator of a fatigue‑regulated heavy vehicle is informed under section 397 of malfunctioning or suspected malfunctioning of the vehicle's odometer.
-(2) The employer or operator must not drive, or permit another person to drive, the fatigue‑regulated heavy vehicle unless the owner of the vehicle has complied with section 398.
+(2) The employer or operator must not, without a reasonable excuse, drive, or permit another person to drive, the fatigue‑regulated heavy vehicle unless the owner of the vehicle has complied with section 398.
 Maximum penalty: $6 000.
-(3) A person charged with an offence against subsection (2) does not have the benefit of the mistake of fact defence for the offence.
-(4) However, in a proceeding for an offence against subsection (2), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Division 1 and Division 2 of Chapter 10 Part 4 for the reasonable steps defence.
 Chapter 7—Intelligent Access Program
 Part 1—Preliminary
 400—Main purposes of Chapter 7
@@ -4972,11 +4506,11 @@ tamper, with an approved intelligent transport system, means engage in conduct t
 (b) the system is installed or used in a way that is not in accordance with the conditions of its approval by TCA; or
 (c) any operating software that the system uses internally is changed.
 Part 2—Duties and obligations of operators of intelligent access program vehicles
-404—Offence to give false or misleading information to intelligent access program service provider
+404—Offence to give false or misleading information to intelligent access service provider
 (1) The operator of an intelligent access program vehicle commits an offence if—
 (a) the operator gives information to an intelligent access program service provider with whom the operator has entered into an intelligent access program agreement for the vehicle; and
 (b) the information is relevant to the use of the vehicle; and
-(c) the operator knows, or ought reasonably to know, the information is false or misleading in a material particular.
+(c) the operator knows, or ought reasonably to know, the information is false or misleading.
 Maximum penalty: $10 000.
 Note—
 See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
@@ -4987,7 +4521,7 @@ See section 632 for the matters a court may consider when deciding whether a per
 (4) The operator of a heavy vehicle commits an offence if—
 (a) the operator gives information to an intelligent access program service provider; and
 (b) the operator intends that the intelligent access program service provider will enter into an intelligent access program agreement with the operator in reliance on the information; and
-(c) the operator knows, or ought reasonably to know, the information is false or misleading in a material particular.
+(c) the operator knows, or ought reasonably to know, the information is false or misleading.
 Maximum penalty: $10 000.
 Note—
 See section 632 for the matters a court may consider when deciding whether a person ought reasonably to have known something.
@@ -4995,8 +4529,8 @@ See section 632 for the matters a court may consider when deciding whether a per
 (a) tells the intelligent access program service provider, to the best of the operator's ability, how it is false or misleading; and
 (b) if the operator has, or can reasonably obtain, the correct information—gives the correct information in writing.
 (6) In a proceeding for an offence against subsection (1) or (4), it is enough for a charge to state that the information given was 'false or misleading' to the operator's knowledge, without specifying whether it was false or whether it was misleading.
-405—Advising vehicle driver of collection of information by intelligent access program service provider
-(1) The operator of an intelligent access program vehicle must take all reasonable steps to give the vehicle's driver the following information, before the vehicle begins a journey:
+405—Advising vehicle driver of collection of information by intelligent access service provider
+(1) The operator of an intelligent access program vehicle must, unless the operator has a reasonable excuse, ensure the vehicle's driver is given the following information before the vehicle begins a journey:
 (a) that the vehicle will be monitored by an intelligent access program service provider;
 (b) that this Chapter provides for the collection of information by the intelligent access program service provider;
 (c) the information that will be collected by the intelligent access program service provider;
@@ -5026,7 +4560,7 @@ Maximum penalty: $6 000.
 (h) the name of the individual to whom the report was made.
 Maximum penalty: $6 000.
 407—Advising driver of driver's obligations about reporting system malfunctions
-(1) The operator of an intelligent access program vehicle must take all reasonable steps to tell the vehicle's driver before the vehicle begins a journey—
+(1) The operator of an intelligent access program vehicle, before the vehicle begins a journey, must, unless the operator has a reasonable excuse, ensure the vehicle's driver is told—
 (a) about the vehicle driver's obligation under section 408; and
 (b) how the vehicle's driver can make the reports required by that obligation.
 Maximum penalty: $6 000.
@@ -5054,20 +4588,20 @@ Maximum penalty: $6 000.
 Part 4—Powers, duties and obligations of intelligent access program service providers
 409—Powers to collect and hold intelligent access program information
 An intelligent access program service provider may collect and hold intelligent access program information for monitoring the relevant monitoring matters for an intelligent access program vehicle.
-410—Collecting intelligent access program information
-(1) An intelligent access program service provider must take all reasonable steps to ensure the intelligent access program information the service provider collects—
+410—Collecting intelligent access information
+(1) An intelligent access program service provider must ensure, so far as is reasonably practicable, the intelligent access program information the service provider collects—
 (a) is necessary for the purpose for which it is collected or a directly related purpose; and
 (b) is not excessive for that purpose; and
 (c) is accurate, complete and up to date.
 Maximum penalty: $6 000.
-(2) An intelligent access program service provider must take all reasonable steps to ensure the collection of intelligent access program information by the service provider does not intrude to an unreasonable extent on the personal privacy of any individual to whom the information relates.
+(2) An intelligent access program service provider must ensure, so far as is reasonably practicable, the collection of intelligent access program information by the service provider does not intrude to an unreasonable extent on the personal privacy of any individual to whom the information relates.
 Maximum penalty: $6 000.
 411—Keeping records of intelligent access program information collected
 (1) An intelligent access program service provider must keep, in a way complying with subsection (2), records of the intelligent access program information collected by the service provider.
 Maximum penalty: $6 000.
 (2) Records kept under subsection (1) must be organised in a way that allows the records to be conveniently and properly audited by an intelligent access program auditor.
 412—Protecting intelligent access program information
-An intelligent access program service provider must take all reasonable steps to protect intelligent access program information collected by the service provider against unauthorised access, unauthorised use, misuse, loss, modification or unauthorised disclosure.
+An intelligent access program service provider must ensure, so far as is reasonably practicable, intelligent access program information collected by the service provider is protected against unauthorised access, unauthorised use, misuse, loss, modification or unauthorised disclosure.
 Maximum penalty: $20 000.
 413—Making individuals aware of personal information held
 (1) An intelligent access program service provider must prepare, and make publicly available, a document setting out the service provider's policies on the management of personal information held by the service provider.
@@ -5146,10 +4680,10 @@ Maximum penalty: $6 000.
 Example of information that could be relied on to make a noncompliance report—
 GPS information about a vehicle's position at a particular time
 Maximum penalty: $6 000.
-421—Destroying intelligent access program information etc
-(1) An intelligent access program service provider must take all reasonable steps—
-(a) to destroy intelligent access program information collected by the provider 1 year after the information is collected by the service provider; and
-(b) to destroy a record the service provider is required to keep under section 419 within 1 year after the service provider is no longer required to keep the record under that section.
+421—Destroying intelligent access program information
+(1) An intelligent access program service provider must ensure, so far as is reasonably practicable—
+(a) intelligent access program information collected by the service provider is destroyed 1 year after the information is collected; and
+(b) a record that the service provider is required to keep under section 419 is destroyed within 1 year after the service provider is no longer required to keep the record under that section.
 Maximum penalty: $6 000.
 (2) This section does not apply to a noncompliance report or information the intelligent service provider is required to keep under section 420.
 422—Reporting relevant contraventions to Regulator
@@ -5201,15 +4735,15 @@ TCA may collect and hold intelligent access program information—
 (a) for the exercise of its functions mentioned in section 425; or
 (b) for law enforcement purposes.
 427—Collecting intelligent access program information
-(1) TCA must take all reasonable steps to ensure the intelligent access program information it collects—
+(1) TCA must ensure, so far as is reasonably practicable, the intelligent access program information it collects—
 (a) is necessary for the purpose for which it is collected or a directly related purpose; and
 (b) is not excessive for that purpose; and
 (c) is accurate, complete and up to date.
 Maximum penalty: $6 000.
-(2) TCA must take all reasonable steps to ensure the collection of intelligent access program information by it does not intrude to an unreasonable extent on the personal privacy of any individual to whom the information relates.
+(2) TCA must ensure, so far as is reasonably practicable, the collection of intelligent access program information by it does not intrude to an unreasonable extent on the personal privacy of any individual to whom the information relates.
 Maximum penalty: $6 000.
 428—Protecting intelligent access program information collected
-TCA must take all reasonable steps to protect intelligent access program information collected by it against unauthorised access, unauthorised use, misuse, loss, modification or unauthorised disclosure.
+TCA must ensure, so far as is reasonably practicable, intelligent access program information collected by TCA is protected against unauthorised access, unauthorised use, misuse, loss, modification or unauthorised disclosure.
 Maximum penalty: $20 000.
 429—Making individuals aware of personal information held
 (1) TCA must prepare, and make publicly available, a document setting out its policies on the management of personal information held by it.
@@ -5277,9 +4811,9 @@ Maximum penalty: $6 000.
 TCA must keep any noncompliance report received by it for at least 4 years after its receipt.
 Maximum penalty: $6 000.
 437—Destroying intelligent access program information or removing personal information from it
-(1) TCA must take all reasonable steps to destroy intelligent access program information collected by it—
+(1) TCA must ensure, so far as is reasonably practicable, intelligent access program information collected by TCA is destroyed—
 (a) generally—1 year after the information is collected; or
-(b) if, at the end of the period mentioned in paragraph (a), the information is required for law enforcement purposes—as soon as practicable after the information ceases to be required for law enforcement purposes.
+(b) if, at the end of that 1 year, the information is required for law enforcement purposes—as soon as practicable after the information is no longer required for law enforcement purposes.
 Maximum penalty: $6 000.
 (2) TCA is taken to have complied with subsection (1) for intelligent access program information if it permanently removes anything by which an individual can be identified from the information.
 (3) This section does not apply to a noncompliance report TCA is required to keep under section 436.
@@ -5305,16 +4839,16 @@ Maximum penalty: $6 000.
 Part 6—Powers, duties and obligations of intelligent access program auditors
 440—Powers to collect and hold intelligent access program information
 An intelligent access program auditor may collect and hold intelligent access program information for conducting an intelligent access program audit.
-441—Collecting intelligent access program information
-(1) An intelligent access program auditor must take all reasonable steps to ensure intelligent access program information the auditor collects—
+441—Collecting intelligent access information
+(1) An intelligent access program auditor must ensure, so far as is reasonably practicable, intelligent access program information the auditor collects—
 (a) is necessary for the purpose for which it is collected or a directly related purpose; and
 (b) is not excessive for that purpose; and
 (c) is accurate, complete and up to date.
 Maximum penalty: $6 000.
-(2) An intelligent access program auditor must take all reasonable steps to ensure the collection of intelligent access program information by the auditor does not intrude to an unreasonable extent on the personal privacy of any individual to whom the information relates.
+(2) An intelligent access program auditor must ensure, so far as is reasonably practicable, the collection of intelligent access program information by the auditor does not intrude to an unreasonable extent on the personal privacy of any individual to whom the information relates.
 Maximum penalty: $6 000.
 442—Protecting intelligent access program information collected
-An intelligent access program auditor must take all reasonable steps to protect intelligent access program information collected by the auditor against unauthorised access, unauthorised use, misuse, loss, modification or unauthorised disclosure.
+An intelligent access program auditor must ensure, so far as is reasonably practicable, intelligent access program information collected by the auditor is protected against unauthorised access, unauthorised use, misuse, loss, modification or unauthorised disclosure.
 Maximum penalty: $20 000.
 443—Making individuals aware of personal information held
 (1) If asked by an individual about whom an intelligent access program auditor holds personal information, the auditor must, within 28 days after receiving the request, give the individual the following information if the auditor can reasonably give the information:
@@ -5375,7 +4909,7 @@ Maximum penalty: $6 000.
 (3) An intelligent access program auditor must keep a record made under this section for at least 2 years.
 Maximum penalty: $6 000.
 450—Destroying intelligent access program information or removing personal information from it
-(1) An intelligent access program auditor must take all reasonable steps to destroy intelligent access program information held by the auditor that is no longer needed for an intelligent access program audit conducted by the auditor.
+(1) An intelligent access program auditor must ensure, so far as is reasonably practicable, intelligent access program information held by the auditor is destroyed as soon as practicable after the information is no longer needed for an intelligent access program audit conducted by the auditor.
 Maximum penalty: $6 000.
 (2) An intelligent access program auditor is taken to have complied with subsection (1) for intelligent access program information if the auditor permanently removes anything by which an individual can be identified from the information.
 451—Reporting contraventions by intelligent access program service providers to TCA
@@ -5499,7 +5033,7 @@ The Regulator may grant heavy vehicle accreditation.
 (ii) a statement from an approved auditor that the auditor considers the applicant's relevant management system will ensure compliance with the relevant standards and business rules;
 (iii) any other information required for the application under the relevant standards and business rules;
 (iv) the prescribed fee for the application.
-(3) The application must also be accompanied by a declaration by the applicant, declared to be made after having taken all reasonable steps to find out the following information, of the applicant's knowledge of that information:
+(3) The application must also be accompanied by a declaration by the applicant, declared to be made after having exercised reasonable diligence to find out the following information, of the applicant's knowledge of that information:
 (a) whether, in the 5 years immediately before the application was made, the applicant or an associate of the applicant has been convicted of any of the following offences and, if so, details of the conviction:
 (i) an offence against this Law or a previous corresponding law;
 (ii) an offence involving fraud or dishonesty punishable on conviction by imprisonment of 6 months or more, whether committed in this jurisdiction or elsewhere;
@@ -5601,16 +5135,8 @@ Example for the purposes of paragraph (c)—
 The driver records a statement of the AFM hours applying under the AFM accreditation in the driver's electronic work diary (which is a document).
 Maximum penalty: $3 000.
 (2) Subsection (1) applies even if the driver and operator are the same person.
-(3) If an offence is committed against subsection (1) involving the driver of a heavy vehicle, the operator of the vehicle is taken to have committed an offence against this subsection.
+(3) The operator of the vehicle must ensure the driver complies with subsection (1), unless the operator has a reasonable excuse.
 Maximum penalty: $3 000.
-(4) A person charged with an offence against subsection (3) does not have the benefit of the mistake of fact defence for the offence.
-(5) However, in a proceeding for an offence against subsection (3), the person charged has the benefit of the reasonable steps defence for the offence.
-Note—
-See Divisions 1 and 2 of Chapter 10 Part 4 for the reasonable steps defence.
-(6) In a proceeding for an offence against subsection (3)—
-(a) it is irrelevant whether or not the driver has been or will be proceeded against, or convicted of, the offence against subsection (1); and
-(b) evidence a court has convicted the driver of the offence against subsection (1) is evidence the offence happened at the time and place, and in the circumstances, stated in the charge resulting in the conviction; and
-(c) evidence of details stated in an infringement notice issued for the offence against subsection (1) is evidence the offence happened at the time and place, and in the circumstances, stated in the infringement notice.
 469—Driver must return particular documents if stops operating under BFM accreditation or AFM accreditation etc
 (1) This section applies if—
 (a) the driver of a heavy vehicle is operating under a BFM accreditation or AFM accreditation; and
@@ -5825,6 +5351,8 @@ the reference is to the exercise of all or any authorised officers' powers under
 A reference in this Chapter to a document includes a reference to an image or writing—
 (a) produced from an electronic document; or
 (b) not yet produced, but reasonably capable of being produced from an electronic document, with or without the aid of another article or device.
+Note—
+See the definition document in section 12 of Schedule 1.
 491—Use of force against persons
 (1) This Chapter does not authorise—
 (a) an authorised officer (or a person assisting or otherwise acting under the direction or authority of an authorised officer) to use force against a person in the exercise or purported exercise of a function under this Chapter; or
@@ -6213,7 +5741,7 @@ by driving, pushing or towing the heavy vehicle
 (b) use the force that is reasonably necessary to—
 (i) gain access to the heavy vehicle, its engine or other mechanical components to enable it to be moved; or
 (ii) enable the heavy vehicle to be towed.
-(7) The authorised officer must ensure that, so far as is reasonably practicable, the driver or operator is notified that the vehicle has been moved and the place to which it has been moved.
+(7) The authorised officer must exercise reasonable diligence to ensure the driver or operator is notified that the vehicle has been moved and the place to which it has been moved.
 (8) The notification may be given orally or in any other way, including, for example, by radio, telephone, fax or email.
 519—Moving unattended heavy vehicle on road if causing harm etc
 (1) This section applies if an authorised officer reasonably believes—
@@ -6284,18 +5812,21 @@ Examples of documents for the purposes of paragraphs (e) and (f)—
 (h) take the persons, equipment or materials the officer reasonably requires into or onto the heavy vehicle.
 (4) If the authorised officer takes a document from the heavy vehicle to copy it, the document must be copied and returned to the vehicle as soon as practicable.
 (5) If the authorised officer takes from the heavy vehicle a thing containing an electronic document to produce an image or writing from the document, the image or writing must be produced, and the thing must be returned to the vehicle, as soon as practicable.
-(6) This section does not authorise an authorised officer to exercise a power under this section in relation to an incident that involves the death of, or injury to, a person unless the authorised officer is a police officer.
+(6) This section does not authorise an authorised officer to exercise a power under this section in relation to an incident that involves the death of, or injury to, a person unless the authorised officer is a police officer or is acting under the direction of a police officer.
 (7) The power to search under this section does not include a power to search a person.
 522—Power to order presentation of heavy vehicles for inspection
 (1) An authorised officer may, by notice under subsection (2), require to be produced for inspection at a place and time stated in the notice, a heavy vehicle—
-(a) that the officer reasonably believes has within the preceding 30 days been used or will be used on a road if the officer reasonably believes that—
+(a) that the officer reasonably believes has within the preceding 60 days been used or will be used on a road if the officer reasonably believes that—
 (i) the driver of the vehicle has not complied with this Law in driving a heavy vehicle of that kind; or
 (ii) the vehicle does not comply with this Law; or
 (iii) the vehicle is a defective heavy vehicle as defined in section 525; or
 (b) without limiting paragraph (a), for the purpose of deciding if a vehicle defect notice for the vehicle can be cleared under section 530.
+(1a) An authorised officer may, by notice under subsection (2), require to be produced for inspection at a place and time stated in the notice, vehicles in a category of heavy vehicles that the officer reasonably believes have within the preceding 60 days been used or will be used on a road if the officer reasonably believes that—
+(a) the vehicles in that category do not comply with this Law; or
+(b) the vehicles in that category are defective heavy vehicles as defined in section 525.
 (2) A notice must be served on—
-(a) the person in charge of the heavy vehicle; or
-(b) the registered operator or, if the heavy vehicle is not registered, an owner.
+(a) the person in charge of the heavy vehicle or category of heavy vehicles; or
+(b) the registered operator or, if the heavy vehicle or category of heavy vehicles is not registered, an owner.
 (3) If a notice has been served on a person under this section—
 (a) the person may, not later than 24 hours before the time stated in the notice, request an authorised officer to change the place or time of inspection or both; and
 (b) subject to paragraph (c), the authorised officer must—
@@ -6311,6 +5842,9 @@ Examples of documents for the purposes of paragraphs (e) and (f)—
 (a) subject to paragraph (b), at the place and time stated in the notice served on the person; or
 (b) if the notice has been varied under this section, at the place and time stated in the notice as varied.
 Maximum penalty: $6 000.
+(6) An authorised officer may act under subsection (1a) only if—
+(a) for an authorised officer who is a police officer—the officer has the relevant police commissioner's written authority to act under subsection (1a); or
+(b) for an authorised officer who is not a police officer—the officer's instrument of appointment provides that the authorised officer may act under subsection (1a).
 Division 5—Other powers in relation to all heavy vehicles
 523—Starting or stopping heavy vehicle engine
 (1) To enable an authorised officer to effectively exercise a power under this Law in relation to a heavy vehicle, the officer may enter the vehicle and start or stop its engine (take the prescribed action) or authorise someone else (the assistant) to enter the vehicle and take the prescribed action if—
@@ -6742,7 +6276,7 @@ relevant person means—
 (a) the thing or sample is not required (or is no longer required) as evidence of an offence against this Law; and
 (b) the continued retention of the thing or sample is not necessary to prevent the thing or sample being used to continue, or repeat, an offence against this Law; and
 (c) the thing or sample is not subject to a dispute as to ownership, which would be appropriately resolved by making an application under subsection (3) for the return of the thing or sample,
-the authorised officer must take reasonable steps to return the thing or sample to the person from whom it was seized or to the owner if that person is not entitled to possess it.
+the authorised officer must exercise reasonable diligence to return the thing or sample to the person from whom it was seized or to the owner if that person is not entitled to possess it.
 (3) An application for the return of the thing or sample may be made to the relevant tribunal or court by—
 (a) the person from whom it was seized; or
 (b) a person who claims to be the owner; or
@@ -6771,7 +6305,7 @@ Subdivision 4—Embargo notices
 (c) must include a copy of section 558.
 (4) The authorised officer may issue the embargo notice—
 (a) by causing a copy of it to be served on the relevant entity; or
-(b) if a relevant entity cannot be located after all reasonable steps have been taken to do so, by fixing a copy of the notice on the thing the subject of the notice in a conspicuous position and in a reasonably secure way.
+(b) if a relevant entity cannot be located after the authorised officer exercises reasonable diligence to do so, by fixing a copy of the notice on the thing the subject of the notice in a conspicuous position and in a reasonably secure way.
 (5) In this section—
 dealing, with a thing or part of a thing, includes—
 (a) moving, selling, leasing or transferring the thing or part; and
@@ -6789,7 +6323,7 @@ Maximum penalty: $10 000.
 (2) In a proceeding for an offence against subsection (1) to the extent it relates to a charge that the person charged with the offence (defendant) moved an embargoed thing, or a part of an embargoed thing, it is a defence for the defendant to prove that he or she—
 (a) moved the embargoed thing, or part, to protect or preserve it; and
 (b) notified the authorised officer who issued the embargo notice of the move and new location of the embargoed thing, or part, within 48 hours after the move.
-(3) A person served with an embargo notice must take all reasonable steps to stop any other person from doing anything prohibited by the notice.
+(3) A person served with an embargo notice must ensure, so far as is reasonably practicable, another person does not do anything prohibited by the notice.
 Maximum penalty: $10 000.
 (4) Despite any other Act or law, a sale, lease, transfer or other dealing with an embargoed thing in contravention of this section is void.
 559—Power to secure embargoed thing
@@ -6924,26 +6458,34 @@ address, of a person, includes the person's residential and business address and
 (a) is stationary on a road; or
 (b) is in or at a place entered by an authorised officer under Chapter 9 Part 2; or
 (c) has been stopped under section 513.
-(2) An authorised officer may, for compliance purposes, require the driver of the heavy vehicle to produce, for inspection by the officer a document, device or other thing the driver is required under this Law to keep in the driver's possession while driving the vehicle.
+(2) An authorised officer may, for compliance purposes, require the driver of the heavy vehicle to produce for inspection by the officer—
+(a) if the driver is required by another law of this jurisdiction to keep their driver licence in their possession while driving the vehicle—the driver's driver licence; or
+(b) a document, device or other thing the driver is required under this Law to keep in the driver's possession while driving the vehicle.
 Examples—
 • a copy of a Commonwealth Gazette notice or permit
 • a work diary
+Note—
+Section 17 of Schedule 1 and section 490 deal with the production of documents and other information kept electronically.
 (3) A person of whom a requirement is made under subsection (2) must comply with the requirement, unless the person has a reasonable excuse.
-Maximum penalty: an amount equal to the amount of the maximum penalty for an offence of failing to keep the document, device or other thing in the driver's possession.
+Maximum penalty:
+(a) for a requirement under subsection (2)(a)—$6 000; or
+(b) for a requirement under subsection (2)(b)—an amount equal to the amount of the maximum penalty for an offence of failing to keep the document, device or other thing in the driver's possession.
 (4) It is not a reasonable excuse for the person to fail to comply with a requirement made under subsection (2)—
-(a) that the person does not have the document, device or other thing in his or her immediate possession; or
+(a) that the person does not have the licence, document, device or other thing in his or her immediate possession; or
 (b) that complying with the requirement might tend to incriminate the person or make the person liable to a penalty.
+Note—
+Section 587 also deals with self‑incrimination when complying with a requirement of an authorised officer.
 (5) The authorised officer may—
-(a) take a copy of, or an extract from, a document mentioned in subsection (2); or
+(a) take a copy of, or an extract from, a licence or document mentioned in subsection (2); or
 (b) produce an image or writing from a document mentioned in subsection (2) that is an electronic document; or
 (c) take an extract from a device or other thing mentioned in subsection (2), including, for example—
 (i) by taking a copy of, or an extract from, a readout or other data obtained from the device or other thing; or
 (ii) by accessing and downloading information from the device or other thing; or
 (d) seize a document, device or other thing mentioned in subsection (2) if the authorised officer reasonably believes the document, device or other thing may provide evidence of an offence against this Law.
-(6) If, under subsection (5), the authorised officer copies, takes an extract from, or produces an image or writing from, a document or an entry in a document, the officer may require the person responsible for keeping the document to certify the copy as a true copy of the document or entry.
+(6) If, under subsection (5), the authorised officer copies, takes an extract from, or produces an image or writing from, a licence or document or an entry in a document, the officer may require the person responsible for keeping the licence or document to certify the copy as a true copy of the licence, document or entry.
 (7) A person of whom a requirement is made under subsection (6) must comply with the requirement, unless the person has a reasonable excuse.
 Maximum penalty: $3 000.
-(8) If a document, device or other thing is produced to an authorised officer under this section and it is not seized under subsection (5)(d), the officer must return it to the person who produced it—
+(8) If a licence, document, device or other thing is produced to an authorised officer under this section and it is not seized under subsection (5)(d), the officer must return it to the person who produced it—
 (a) as soon as practicable after the officer inspects it; or
 (b) if the officer takes a copy of, extract from, or produces an image or writing from, it under subsection (5)(a), (b) or (c), as soon as practicable after the copy or extract is taken or the image or writing is produced.
 (9) However, if a requirement is made of the person under subsection (6) for a document, the authorised officer may keep the document until the person complies with the requirement.
@@ -6958,10 +6500,22 @@ Maximum penalty: $3 000.
 (iii) the load or equipment carried or intended to be carried by a heavy vehicle, including, for example, a document relating to insurance of the load or equipment; or
 (e) a document in the person's possession or under the person's control relating to any business practices; or
 (f) a document in the person's possession or under the person's control showing that a heavy vehicle's garage address recorded on a vehicle register, however named, kept under another Australian road law is or is not the vehicle's actual garage address.
+Note—
+Section 17 of Schedule 1 and section 490 deal with the production of documents and other information kept electronically.
 (2) A person of whom a requirement is made under subsection (1) must comply with the requirement, unless the person has a reasonable excuse.
 Maximum penalty: $6 000.
-(3) Compliance with a requirement made under subsection (1) for an electronic document requires the making available or production of a clear written reproduction of the electronic document.
+(3) If, under subsection (1), an authorised officer requires a responsible person to make available or produce an electronic document—
+(a) the authorised officer may require the responsible person to make available or produce—
+(i) a printed copy of the electronic document; or
+(ii) an electronic copy of the document; and
+(b) compliance with the requirement made under subsection (1) requires the making available or production of the document in the way required under paragraph (a).
+Notes—
+1 See the definitions document and printed in section 12 of Schedule 1.
+2 Section 17 of Schedule 1 and section 490 also deal with the production of documents and other information kept electronically.
 (4) It is not a reasonable excuse for the person to fail to comply with a requirement made under subsection (1) that complying with the requirement might tend to incriminate the person or make the person liable to a penalty.
+Notes—
+1 Section 587 also deals with self‑incrimination when complying with a requirement of an authorised officer.
+2 Section 588 deals with the admissibility of information provided in complying with a requirement under this section.
 (5) The authorised officer may—
 (a) take a copy of, or an extract from, a document mentioned in subsection (1); or
 (b) produce an image or writing from a document mentioned in subsection (1) that is an electronic document; or
@@ -6976,21 +6530,34 @@ Maximum penalty: $3 000.
 (a) as soon as practicable after the officer inspects it; or
 (b) if the officer takes a copy of, extract from, or produces an image or writing from, it under subsection (5)(a), (b) or (c), as soon as practicable after the copy or extract is taken or the image or writing is produced.
 (9) However, if a requirement is made of the person under subsection (6) for a document, the authorised officer may keep the document until the person complies with the requirement.
-(10) A requirement under subsection (1) in relation to a document referred to in subsection (1)(e) may be made only in relation to an alleged or possible offence against section 204 or 230.
 570—Power to require information about heavy vehicles
 (1) An authorised officer may, for compliance purposes, require a responsible person for a heavy vehicle to give the officer—
 (a) information about the vehicle or any load or equipment carried or intended to be carried by the vehicle; or
-(b) personal details known to the responsible person about any other responsible person for the vehicle.
-(2) Without limiting subsection (1), a responsible person who is associated with a particular vehicle may be required to provide information about the current or intended journey of the vehicle, including, for example, the following:
+(b) personal details known to the responsible person about any other responsible person for the vehicle; or
+(c) personal details known to the responsible person about anyone else the responsible person reasonably believes holds information about the heavy vehicle.
+Note—
+Section 17 of Schedule 1 and section 490 deal with the production of documents and other information kept electronically.
+(2) Without limiting subsection (1), a responsible person who is associated with a particular vehicle may be required to provide information about a past, current or intended journey of the vehicle, including, for example, the following:
 (a) the location of the start or intended start of the journey;
 (b) the route or intended route of the journey;
 (c) the location of the destination or intended destination of the journey.
+(2a) An authorised officer requiring personal details under subsection (1)(c) must give the responsible person a notice stating—
+(a) that the requirement is made under this section; and
+(b) that failing to comply with the requirement is an offence; and
+(c) the time, that is reasonable in the circumstances, in which the person must give the personal details; and
+(d) the effect of subsection (5a) and section 735A.
 (3) A person of whom a requirement is made under subsection (1) must comply with the requirement, unless the person has a reasonable excuse.
 Maximum penalty: $6 000.
 (4) Without limiting what may be a reasonable excuse for the purposes of subsection (3), in a proceeding for an offence of contravening a requirement under subsection (1), it is a defence for the person charged to prove that the person did not know, and could not be reasonably expected to know or ascertain, the required information.
 (5) It is not a reasonable excuse for a person to fail to comply with a requirement made under subsection (1) that complying with the requirement might tend to incriminate the person or make the person liable to a penalty.
+Note—
+Section 587 also deals with self-incrimination when complying with a requirement of an authorised officer.
+(5a) However, the following information is not admissible as evidence against an individual in a civil or criminal proceeding, other than a proceeding for false or misleading information:
+(a) information, other than information in the form of a document, that the individual gives in complying with a requirement under subsection (1)(c);
+(b) information that is directly or indirectly derived from information to which paragraph (a) applies.
+Note—
+Section 588 deals with the admissibility of information provided in complying with a requirement under subsection (1)(a) and (b).
 (6) In this section—
-information includes electronically stored information;
 personal details, about a responsible person, means—
 (a) the person's name; or
 (b) the person's residential address or business address;
@@ -7000,6 +6567,42 @@ Note—
 Those paragraphs deal with persons who pack, load or unload goods or containers, and owners and operators etc of weighbridges or weighbridge facilities.
 (b) an employer, employee, agent or subcontractor of that person;
 speeding offence means an offence committed by the driver of a heavy vehicle because the driver exceeded a speed limit applying to the driver.
+570A—Requiring information
+(1) This section applies if an authorised officer reasonably believes that a person is capable of giving information, providing documents or giving evidence—
+(a) in relation to a possible contravention of—
+(i) a safety duty; or
+(ii) a duty of an executive under section 26D; or
+(b) that will assist the authorised officer to monitor or enforce compliance with—
+(i) a safety duty; or
+(ii) a duty of an executive under section 26D.
+Note—
+Section 17 of Schedule 1 and section 490 deal with the production of documents and other information kept electronically.
+(2) The authorised officer may, by notice, require the person to give the information, documents or evidence to the authorised officer.
+(3) If the authorised officer, despite reasonable diligence, has not been able to obtain the information, documents or evidence under subsection (2), the authorised officer may, by notice given to the person, require the person to do either or both of the following:
+(a) give information or produce documents to the authorised officer within the time and in the way stated in the notice;
+(b) appear before a person appointed by the authorised officer on a day, and at a time and place, stated in the notice and give oral evidence.
+(4) The notice must state—
+(a) that—
+(i) the requirement is made under this section; and
+(ii) failing to comply with the requirement is an offence; and
+(b) if the notice requires the person to give information or produce documents to the authorised officer—the time and way, that is reasonable in the circumstances, in which the person must give the information or documents; and
+(c) if the notice requires the person to give oral evidence—
+(i) the day, time and place, that is reasonable in the circumstances, for the person to appear before the person appointed by the authorised officer; and
+(ii) that the person may appear with an Australian legal practitioner; and
+(d) the effect of—
+(i) subsections (7) and (8);
+(ii) section 735A.
+(5) The person must comply with a requirement under this section, unless the person has a reasonable excuse.
+Maximum penalty: $10 000.
+(6) It is not a reasonable excuse for the person to fail to comply with a requirement made under this section on the ground that complying with the requirement might tend to incriminate the person or make the person liable to a penalty.
+Note—
+Section 587 also deals with self‑incrimination when complying with a requirement of an authorised officer.
+(7) However, the following information, documents and evidence are not admissible as evidence against an individual in a civil or criminal proceeding, other than a proceeding for false or misleading information:
+(a) information, documents and evidence that the individual gives in complying with a requirement under this section;
+(b) information, documents and evidence that is directly or indirectly derived from information, documents or evidence mentioned in paragraph (a).
+(8) An authorised officer may act under this section only if—
+(a) for an authorised officer who is a police officer—the officer has the relevant police commissioner's written authority to act under this section; or
+(b) for an authorised officer who is not a police officer—the officer's instrument of appointment provides that the authorised officer may act under this section.
 Division 5—Improvement notices
 571—Authorised officers to whom Division applies
 (1) This Division applies to an authorised officer who is a police officer only if the police officer has the relevant police commissioner's written authority to issue improvement notices under this Division.
@@ -7053,6 +6656,40 @@ Section 23 of Schedule 1 allows for the amendment of an improvement notice.
 approved authorised officer means—
 (a) for an improvement notice given by an authorised officer who is a police officer—any authorised officer who is a police officer and who has the relevant police commissioner's written authority to issue improvement notices under this Division; or
 (b) for an improvement notice given by an authorised officer who is not a police officer—any authorised officer who is not a police officer.
+Division 5A—Prohibition notices
+576A—Power to issue prohibition notice
+(1) This section applies if an authorised officer reasonably believes that an activity involving a heavy vehicle—
+(a) is occurring and involves, or will involve, an immediate or imminent serious risk to the health or safety of a person; or
+(b) may occur and, if it occurs, will involve an immediate or imminent serious risk to the health or safety of a person.
+(2) The authorised officer may give a person who has control over the activity a direction prohibiting the carrying on of the activity, or the carrying on of the activity in a specified way, until an authorised officer is satisfied that the matters that give or will give rise to the risk have been remedied.
+(3) The direction may be given orally, but must be confirmed by written notice (a prohibition notice) given to the person as soon as practicable.
+576B—Contents of prohibition notice
+(1) A prohibition notice must state—
+(a) that the authorised officer believes that grounds for the issue of the prohibition notice exist and the basis for that belief; and
+(b) briefly, the activity that the authorised officer believes involves or will involve the risk and the matters that give or will give rise to the risk; and
+(c) the provision of this Law that the authorised officer believes is being, or is likely to be, contravened by that activity.
+(2) A prohibition notice may include directions on the measures to be taken to remedy the risk, activities or matters to which the notice relates, or the contravention or likely contravention mentioned in subsection (1)(c).
+(3) Without limiting section 576A, a prohibition notice that prohibits the carrying on of an activity in a specified way may do so by stating 1 or more of the following:
+(a) a heavy vehicle, or part of a heavy vehicle, in which the activity is not to be carried out;
+(b) anything that is not to be used in connection with the activity;
+(c) any procedure that is not to be followed in connection with the activity.
+576C—Compliance with prohibition notice
+A person given a direction under section 576A(2) or a prohibition notice must comply with the direction or notice.
+Maximum penalty: $10 000.
+Division 5B—Injunctions
+576D—Application of Division 5B
+In this Division—
+notice means an improvement notice or a prohibition notice.
+576E—Injunction for noncompliance with notice
+(1) An authorised officer may apply to the Supreme Court for an injunction—
+(a) compelling a person to comply with a notice; or
+(b) restraining a person from contravening a notice.
+(2) The authorised officer may do so—
+(a) whether or not a proceeding has been brought for an offence against this Law in connection with any matter in relation to which the notice was issued; and
+(b) whether any period for compliance with the notice has expired.
+(3) An authorised officer may make an application under this section only if—
+(a) for an authorised officer who is a police officer—the officer has the relevant police commissioner's written authority to make the application; or
+(b) for an authorised officer who is not a police officer—the officer's instrument of appointment provides that the authorised officer may make the application.
 Division 6—Power to require reasonable help
 577—Power to require reasonable help
 (1) An authorised officer who enters a place under this Chapter may require an occupier of the place or a person at the place to give the officer reasonable help to exercise a power under this Chapter.
@@ -7061,6 +6698,8 @@ Division 6—Power to require reasonable help
 (a) produce a document or give information to the authorised officer; or
 Example—
 The authorised officer wishes to obtain information relating to the purpose of the entry. Information of that type is stored or recorded on a computer at the place. The authorised officer may require the occupier to give reasonable help to produce a reproduction of the information from the computer.
+Note—
+Section 17 of Schedule 1 and section 490 deal with the production of documents and other information kept electronically.
 (b) help the authorised officer to find and gain access to a document or information, including electronically stored information; or
 Examples of documents or information—
 • a document about the heavy vehicle's performance, specifications (including the dimensions and other physical attributes of the vehicle or its fittings), functional capabilities (including the vehicle's GVM, GCM and speed capabilities) or authorised operations required to be kept in the vehicle under this Law or a heavy vehicle accreditation
@@ -7076,6 +6715,9 @@ Examples of documents or information—
 Maximum penalty: $10 000.
 (5) Without limiting what may be a reasonable excuse for the purposes of subsection (4), it is a reasonable excuse for a person not to comply with a requirement made under subsection (1) or (2) if doing so would require the person to take action that is outside the scope of the business or other activities of the person.
 (6) It is not a reasonable excuse for a person to fail to comply with a requirement made under subsection (1) or (2), in relation to a document or information that is the subject of the requirement, if doing so might tend to incriminate the person or make the person liable to a penalty.
+Notes—
+1 Section 587 also deals with self‑incrimination when complying with a requirement of an authorised officer.
+2 Section 588 deals with the admissibility of information provided in complying with a requirement under this section.
 (7) If a requirement made under subsection (1) or (2) is that the occupier of, or person at, a place start or stop the engine of a heavy vehicle—
 (a) it is immaterial that the occupier or person is not—
 (i) the operator of the vehicle; or
@@ -7085,7 +6727,7 @@ Maximum penalty: $10 000.
 Part 5—Provisions about exercise of powers
 Division 1—Damage in exercising powers
 578—Duty to minimise inconvenience or damage
-(1) In exercising a power under this Law, an authorised officer must take all reasonable steps to cause as little inconvenience, and do as little damage, as possible.
+(1) In exercising a power under this Law, an authorised officer must exercise reasonable diligence to cause as little inconvenience, and do as little damage, as possible.
 (2) Subsection (1) does not provide for a statutory right of compensation other than as provided under Division 2.
 Note—
 Division 2 provides for compensation for costs, damage or loss incurred because of the exercise of a power by an authorised officer under this Chapter.
@@ -7093,7 +6735,7 @@ Division 2 provides for compensation for costs, damage or loss incurred because 
 (1) This section applies if—
 (a) an authorised officer damages something when exercising, or purporting to exercise, a power under this Law and the damage was caused by an improper or unreasonable exercise of the power or the use of unauthorised force; or
 (b) a person (the assistant) acting under the direction or authority of an authorised officer damages something and the damage was caused by an improper or unreasonable exercise of a power or the use of unauthorised force.
-(2) The authorised officer must take all reasonable steps to restore the thing to the condition it was in immediately before the officer exercised the power, or the assistant took action under the officer's direction or authority.
+(2) The authorised officer must exercise reasonable diligence to restore the thing to the condition it was in immediately before the officer exercised the power, or the assistant took action under the officer's direction or authority.
 580—Notice of damage
 (1) This section applies if—
 (a) an authorised officer damages something when exercising, or purporting to exercise, a power under this Law; or
@@ -7164,10 +6806,10 @@ An authorised officer may—
 (1) A person is not excused from compliance with a requirement imposed by an authorised officer under this Chapter on the ground that compliance might incriminate the person or make the person liable to a penalty.
 (2) Subsection (1) has effect subject to section 588.
 588—Evidential immunity for individuals complying with particular requirements
-(1) This section applies to a requirement made by an authorised officer under section 569(1)(c) to (f), 570 or 577.
+(1) This section applies to a requirement made by an authorised officer under section 569(1)(c) to (f), 570(1)(a) and (b) or 577.
 (2) The following is not admissible in evidence against an individual in a criminal proceeding (except a proceeding for an offence against this Chapter):
-(a) information provided by an individual in compliance with the requirement;
-(b) information directly or indirectly derived from information mentioned in paragraph (a).
+(a) information, other than information in the form of a document, that the individual gives in complying with the requirement;
+(b) information that is directly or indirectly derived from information to which paragraph (a) applies.
 (3) Any document produced by an individual in compliance with the requirement is not inadmissible in evidence against the individual in a criminal proceeding on the ground that the document might incriminate the individual.
 (4) Subsection (2) does not apply to a proceeding about the false or misleading nature of anything in the information or in which the false or misleading nature of the information is relevant evidence.
 589—Effect of withdrawal of consent to enter under this Chapter
@@ -7180,7 +6822,7 @@ Part 1—Formal warnings
 590—Formal warning
 (1) This section applies if an authorised officer reasonably believes—
 (a) a person has contravened this Law; and
-(b) the person had taken reasonable steps to prevent the contravention and was unaware of the contravention; and
+(b) the person had exercised reasonable diligence to prevent the contravention and was unaware of the contravention; and
 (c) the contravention may appropriately be dealt with by way of a warning under this section.
 (2) The authorised officer may give the person a written warning.
 (3) However, a warning must not be given for—
@@ -7194,6 +6836,50 @@ approved authorised officer means—
 (a) for a warning given under this section by an authorised officer who is a police officer—an authorised officer who is a police officer and who has the relevant police commissioner's written authority to withdraw warnings given under this section; or
 (b) for a warning given under this section by an authorised officer who is not a police officer—an authorised officer whose instrument of appointment provides that the authorised officer may withdraw warnings given under this section;
 proceeding includes action by way of an infringement notice.
+Part 1A—Enforceable undertakings
+590A—Accepting undertaking
+(1) This section applies if a person contravenes or is alleged to have contravened this Law, other than section 26F.
+(2) The Regulator or an authorised officer (the promisee) may accept an undertaking made by the person in relation to the contravention or alleged contravention.
+(3) The undertaking must be in the approved form.
+(4) The promisee may accept the undertaking only if the promisee reasonably believes the undertaking will ensure the person complies with this Law.
+(5) The promisee may accept the undertaking at any time before the proceeding for the contravention, or alleged contravention, ends.
+(6) If the promisee accepts an undertaking before the proceeding ends, the promisee must use reasonable diligence to have the proceeding discontinued as soon as possible.
+(7) The promisee must give the person written notice of—
+(a) the promisee's decision to accept or reject the undertaking; and
+(b) the reasons for the decision.
+(8) If the promisee decides to accept the undertaking and the promisee is not the Regulator, the promisee must give the following documents to the Regulator within 28 days after accepting the undertaking:
+(a) a copy of the undertaking;
+(b) a statement of the reasons for the promisee's decision to accept the undertaking.
+(9) The Regulator must publish the following information on the Regulator's website:
+(a) a promisee's decision to accept an undertaking under this section;
+(b) the reasons for the decision.
+(10) An authorised officer may act under this section only if—
+(a) for an authorised officer who is a police officer—the officer has the relevant police commissioner's written authority to act under this section; or
+(b) for an authorised officer who is not a police officer—the officer's instrument of appointment provides that the authorised officer may act under this section.
+590B—Effect of undertaking
+(1) An undertaking takes effect—
+(a) when the promisee gives notice of the decision to accept the undertaking to the person who made the undertaking; or
+(b) at a later time stated in the notice.
+(2) While the undertaking is in effect, the person must comply with the undertaking.
+Maximum penalty: $10 000.
+(3) If the person complies with the undertaking, no proceeding for the contravention or alleged contravention may be taken against the person.
+(4) The offer to make, or the making of, an undertaking is not an admission of guilt by the person offering to make, or making, the undertaking.
+590C—Withdrawing or changing undertaking
+(1) The person who made an undertaking may, at any time, with the written agreement of the promisee—
+(a) withdraw the undertaking; or
+(b) change the undertaking.
+(2) However, the provisions of the undertaking may not be changed to provide for a different contravention or alleged contravention of this Law.
+(3) If the promisee is not the Regulator, the promisee must give notice of the withdrawal or change of the undertaking to the Regulator.
+(4) The Regulator must publish notice of the withdrawal or change on the Regulator's website.
+590D—Contravening undertaking
+(1) The promisee may apply to a relevant tribunal or court for an order if the person who made an undertaking fails to comply with the undertaking.
+(2) If the relevant tribunal or court is satisfied the person has failed to comply with the undertaking, the relevant tribunal or court, as well as imposing any penalty, may make—
+(a) an order directing the person to comply with the undertaking; or
+(b) an order discharging the undertaking.
+(3) Also, the relevant tribunal or court may make any other order that the tribunal or court considers appropriate in the circumstances, including an order directing the person to pay to the State—
+(a) the costs of the proceeding; and
+(b) the reasonable costs of the promisee in monitoring whether the person complies with the undertaking in the future.
+(4) Nothing in this section prevents a proceeding being taken for the contravention or alleged contravention to which the undertaking relates.
 Part 2—Infringement notices
 591—Infringement notices
 (1) An authorised officer who reasonably believes that a person has committed a prescribed offence against this Law may serve the person with an infringement notice issued as an alternative to prosecution in court for the offence.
@@ -7207,9 +6893,6 @@ prescribed offence means an offence prescribed by a law of this jurisdiction for
 (2) Information in a record kept under subsection (1) may be used only—
 (a) to accumulate aggregate data for research or education; or
 (b) in a proceeding relating to the offence for which the infringement notice was issued, including, for example, an appeal against the conviction for the offence; or
-(c) in a proceeding for an offence (the extended liability offence) where—
-(i) the extended liability offence arises in connection with another offence (the relevant offence) for which the infringement notice was issued; and
-(ii) a provision of this Law (for example, section 315(5)) provides that evidence of details stated in the infringement notice is evidence in the proceeding that the relevant offence happened at the time and place, and in the circumstances, stated in the infringement notice; or
 (d) for the purposes of section 601(b) or 608(b); or
 (e) as authorised under subsection (3).
 (3) Information in a record kept under subsection (1)(a) may be used by authorised officers in connection with the exercise of functions under this Law.
@@ -7251,6 +6934,11 @@ Division 2—Provisions about imposing fines
 (b) does not expressly prescribe a maximum fine for a body corporate different to the maximum fine for an individual.
 (2) The maximum fine is taken only to be the maximum fine for an individual.
 (3) If a body corporate is found guilty of the offence, the court may impose a maximum fine of an amount equal to 5 times the maximum fine for an individual.
+Division 2A—Injunctions
+596A—Injunctions
+If a court convicts a person of an offence against this Law, the court may issue an injunction requiring the person to cease contravening this Law.
+Note—
+An injunction may also be obtained under section 576E for noncompliance with an improvement notice or prohibition notice.
 Division 3—Commercial benefits penalty orders
 597—Commercial benefits penalty order
 (1) If a court convicts a person of an offence against this Law, the court may, on application by the prosecutor, make an order (a commercial benefits penalty order) requiring the person to pay, as a fine, an amount not exceeding 3 times the amount estimated by the court to be the gross commercial benefit—
@@ -7340,7 +7028,7 @@ Division 7—Compensation orders
 (a) when the court gives its sentence for the offence; or
 (b) at a later time, but not after the end of the period within which a proceeding for the offence must start under this Law.
 Note—
-See section 707 for the period within which a proceeding for an offence against this Law must start.
+See section 707A for the period within which a proceeding for an offence against this Law, other than an indictable offence, must start.
 612—Assessment of compensation
 (1) In making a compensation order, the court may assess the amount of compensation required to be paid by the order in the way it considers appropriate, including, for example, by reference to the estimated cost of remedying the damage.
 (2) In assessing the amount of compensation, the court may have regard to—
@@ -7387,110 +7075,7 @@ A compensation order, and any award of costs in relation to a proceeding for the
 (3) The making of a compensation order in relation to damage to road infrastructure does not prevent another court or tribunal from later awarding damages or compensation in civil proceedings in relation to the damage based on the same or similar facts, but the court or tribunal must take the compensation order into account when making its award.
 (4) Nothing in this Division affects or limits any liability to pay compensation under another law, other than as provided by this section.
 Part 4—Provisions about liability
-Division 1—Reasonable steps defence
-618—Reasonable steps defence
-If, in relation to a provision of this Law, a person has the benefit of the reasonable steps defence, it is a defence to a charge for an offence against the provision for the person charged to prove that—
-(a) the person did not know, and could not reasonably be expected to have known, of the contravention concerned; and
-(b) either—
-(i) the person took all reasonable steps to prevent the contravention; or
-(ii) there were no steps the person could reasonably be expected to have taken to prevent the contravention.
-Note—
-Generally speaking, under various provisions of this Law, a person charged with an offence does not have the benefit of the mistake of fact defence if the person has the benefit of the reasonable steps defence for the offence. The reasonable steps defence is not provided in the case of certain offences that include the taking of reasonable steps as an ingredient of the offence.
-Division 2—Matters relating to reasonable steps
-619—Application of Division 2
-This Division applies in relation to the following:
-(a) a proceeding for an offence against a provision of this Law that may be committed by a person failing to take all reasonable steps;
-(b) a proceeding for an offence against a provision of this Law in relation to which a person charged has the benefit of the reasonable steps defence.
-620—Matters court may consider for deciding whether person took all reasonable steps—mass, dimension or loading offences
-(1) In deciding whether things done or omitted to be done by a person charged with a mass, dimension or loading offence constitute reasonable steps, the court may have regard to the following:
-(a) the circumstances of the alleged offence, including any risk category for the contravention constituting the offence;
-(b) without limiting paragraph (a), the measures available and measures taken for any or all of the following:
-(i) to accurately and safely weigh or measure the heavy vehicle or its load, or to safely restrain the load in the heavy vehicle;
-(ii) to provide and obtain sufficient and reliable evidence from which the weight or measurement of the heavy vehicle or its load might be calculated;
-(iii) to manage, reduce or eliminate a potential contravention arising from the location of the heavy vehicle, or from the location of the load in the heavy vehicle, or from the location of goods in the load;
-(iv) to manage, reduce or eliminate a potential contravention arising from weather and climatic conditions, or from potential weather and climatic conditions, affecting or potentially affecting the weight or measurement of the load;
-(v) to exercise supervision or control over others involved in activities leading to the contravention;
-(c) the measures available and measures taken for any or all of the following:
-(i) to include compliance assurance conditions in relevant commercial arrangements with other responsible persons for heavy vehicles;
-(ii) to provide information, instruction, training and supervision to employees to enable compliance with this Law;
-(iii) to maintain equipment and work systems to enable compliance with this Law;
-(iv) to address and remedy similar compliance problems that may have happened in the past;
-(d) whether the person charged had, either personally or through an employee or agent, custody or control of the heavy vehicle, its load, or any goods included or to be included in the load;
-(e) the personal expertise and experience that the person charged had or ought reasonably to have had or that an employee or agent of the person charged had or ought reasonably to have had.
-(2) This section does not limit the matters the court must or may consider when deciding whether things done or omitted to be done by a person charged with a mass, dimension or loading offence constitute reasonable steps.
-(3) In this section—
-mass, dimension or loading offence means an offence against Chapter 4.
-621—Reliance on container weight declaration—offences about mass
-(1) This section applies if the operator or driver of a heavy vehicle is charged with an offence involving a contravention of a mass requirement for the vehicle and is seeking to prove the reasonable steps defence in relation to the offence.
-(2) To the extent the weight of a freight container together with its contents is relevant to the offence, the person charged cannot rely on the weight stated in the relevant container weight declaration if the person knew or ought reasonably to have known that—
-(a) the weight stated in the relevant container weight declaration was less than the actual weight; or
-(b) the distributed weight of the container and its contents, together with either of the following would cause a contravention of a mass requirement applying to the heavy vehicle:
-(i) the mass or location of any other load;
-(ii) the mass of the vehicle or a component of it.
-622—Matters court may consider for deciding whether person took all reasonable steps—speeding or fatigue management offences
-(1) In deciding whether things done or omitted to be done by a person charged with a speeding offence or fatigue management offence constitute reasonable steps, the court may have regard to the following:
-(a) the nature of the activity to which the contravention constituting the offence relates;
-(b) the risks to public safety associated with the activity mentioned in paragraph (a);
-(c) the likelihood of the risks mentioned in paragraph (b) arising;
-(d) the degree of harm likely to result from the risks mentioned in paragraph (b) arising;
-(e) the circumstances of the alleged offence, including, for a fatigue management offence, any risk category for the contravention constituting the offence;
-(f) the measures available and measures taken—
-(i) to prevent, eliminate or minimise the likelihood of a potential contravention happening; or
-(ii) to eliminate or minimise the likelihood of risks to public safety arising from a potential contravention; or
-(iii) to manage, minimise or eliminate risks to public safety arising from a potential contravention;
-(g) the personal expertise and experience that the person charged had or ought reasonably to have had or that an employee or agent of that person had or ought reasonably to have had;
-(h) the degree of ability the person charged, or an employee or agent of that person, had to take a measure mentioned in paragraph (f);
-(i) the costs of measures mentioned in paragraph (f);
-(j) the measures available and measures taken for any or all of the following:
-(i) to include compliance assurance conditions in relevant commercial arrangements with other responsible persons for heavy vehicles;
-(ii) to provide information, instruction, training and supervision to employees to enable compliance with this Law;
-(iii) to maintain equipment and work systems to enable compliance with this Law;
-(iv) to address and remedy similar compliance problems that may have happened in the past.
-(2) In addition, in deciding whether things done or omitted to be done by a person charged with a fatigue management offence constitute reasonable steps, the court may have regard to any relevant body of fatigue knowledge.
-(3) This section does not limit the matters the court must or may consider when deciding whether things done or omitted to be done by a person charged with a speeding offence or fatigue management offence constitute reasonable steps.
-(4) In this section—
-fatigue management offence means an offence against Chapter 6;
-speeding offence means an offence against Chapter 5 Part 2 or section 219.
-623—When particular persons regarded to have taken all reasonable steps—speeding or fatigue management offences
-(1) A party in the chain of responsibility for a heavy vehicle charged with a speeding offence or fatigue management offence is to be regarded as having taken all reasonable steps if the party did all of the following to prevent the act or omission that led to the contravention to which the offence relates:
-(a) identified and assessed the aspects of the activities of the party, and relevant drivers for the party, that may lead to a relevant contravention by a relevant driver for the party;
-(b) for each aspect identified and assessed under paragraph (a), identified and assessed—
-(i) the risk of the aspect leading to a relevant contravention; and
-(ii) if there is a substantial risk of the aspect leading to a relevant contravention—the measures the party may take to eliminate the risk or, if it is not reasonably possible to eliminate the risk, to minimise the risk;
-(c) carried out the identification and assessment mentioned in paragraphs (a) and (b)—
-(i) at least annually; and
-(ii) after each event that indicated the way the activities the subject of the identification and assessment are being carried out have led, or may lead, to a relevant contravention;
-(d) took the measures identified and assessed under paragraph (b)(ii);
-(e) for each action mentioned in any of paragraphs (a) to (d) taken by the party—
-(i) kept a record of the action for at least 3 years after taking it; or
-(ii) if 3 years have not passed since taking the action, kept a record of the action since taking it.
-(2) This section does not limit the circumstances in which things done or omitted to be done by a person charged with a speeding offence or fatigue management offence constitute reasonable steps.
-(3) In this section—
-fatigue management offence means an offence against Chapter 6;
-party in the chain of responsibility—
-(a) for a heavy vehicle the subject of a speeding offence—has the meaning given by section 214; or
-(b) for a fatigue‑regulated heavy vehicle the subject of a fatigue management offence—has the meaning given by section 227;
-relevant contravention, for a party in the chain of responsibility for a heavy vehicle charged with a speeding offence or fatigue management offence, means a contravention of the type to which the offence relates;
-relevant driver, for a party in the chain of responsibility for a heavy vehicle charged with a speeding offence or fatigue management offence, means each driver of the heavy vehicle;
-speeding offence means an offence against Chapter 5 Part 2 or section 219.
-624—Regulation for section 623
-(1) For the purposes of section 623, the national regulations may provide for—
-(a) the ways, or examples of ways, a person may identify and assess the aspects of the activities of the person, and relevant drivers for the person, that may lead to a relevant contravention by a relevant driver for the person; and
-(b) the measures, or examples of measures, a person may take to eliminate or minimise the risks of aspects of activities of the person, or relevant drivers for the person, leading to a relevant contravention by the person or a relevant driver for the person.
-(2) In this section—
-fatigue management offence means an offence against Chapter 6;
-relevant contravention means a contravention constituting a fatigue management offence.
-625—Proof of compliance with registered industry code of practice
-(1) This section applies for deciding in—
-(a) a proceeding for an offence against a provision of this Law that may be committed by a person failing to take all reasonable steps—whether the person took all reasonable steps; or
-(b) a proceeding for an offence against a provision of this Law in relation to which a person charged has the benefit of the reasonable steps defence—whether the person took all reasonable steps.
-(2) Proof, as established by the person, that the person complied with all relevant standards and procedures under a registered industry code of practice, in relation to matters to which the offence relates is evidence that the person took all reasonable steps.
-(3) Subsection (2) does not apply unless the person has given the complainant notice of the intention to prove the matters mentioned in the subsection.
-(4) The notice must be—
-(a) signed by the person; and
-(b) given at least 28 days before the day fixed for the hearing of the charge.
-(5) In the case of an offence referred to in section 620 or 622, this section does not prevent the court from considering any of the matters referred to in the section concerned in deciding whether compliance with relevant standards and procedures under a registered industry code of practice, was reasonable in the circumstances in which the offence was alleged to have been committed.
-Division 3—Other defences
+Division 3—Defences
 626—Definition for Division 3
 In this Division—
 deficiency, of a vehicle, means—
@@ -7537,6 +7122,14 @@ Division 4—Other provisions about liability
 (a) the person's abilities, experience, expertise, knowledge, qualifications and training;
 (b) the circumstances of the offence;
 (c) any other relevant matter prescribed by the national regulations for the purposes of this section.
+632A—Using code of practice in proceeding
+(1) This section applies in a proceeding for an offence against this Law.
+(2) A registered industry code of practice is admissible as evidence of whether or not a duty or obligation under this Law has been complied with.
+(3) The court may—
+(a) have regard to the code as evidence of what is known about a hazard or risk, risk assessment, or risk control, to which the code relates; and
+(b) rely on the code in determining what is reasonably practicable in the circumstances to which the code relates.
+(4) Nothing in this section prevents a person from introducing evidence of complying with this Law in a way that differs from the code but that provides a standard of safety or protection equivalent to or higher than the standard required in the code.
+(5) However, the person may introduce the evidence mentioned in subsection (4) only if the person has given written notice of the person's intention to do so to the complainant at least 28 days before the day fixed for the hearing of the offence.
 633—Multiple offenders
 (1) This section applies if a provision of this Law provides that, for a particular act or omission or set of circumstances, each of 2 or more persons is liable for an offence against a provision of this Law.
 (2) Proceedings may be taken against all or any of the persons in relation to the act, omission or circumstances.
@@ -7550,7 +7143,12 @@ Division 4—Other provisions about liability
 (2) A person who has been punished for an act or omission or circumstances constituting an offence against this Law as it applies in another participating jurisdiction cannot be punished for an offence against this Law as it applies in this jurisdiction arising from the same act or omission or circumstances.
 (3) Despite any Act or other law (including subsections (1) and (2))—
 (a) a person may be punished for more than 1 contravention of a requirement of this Law if the contraventions relate to different parts of the same vehicle; and
-(b) a person may be punished for 1 or more contraventions of a requirement of this Law as it applies in another participating jurisdiction (interstate contraventions), and 1 or more contraventions of a requirement of this Law as it applies in this jurisdiction (local contraventions), if the interstate contraventions and local contraventions relate to different parts of the same vehicle.
+(b) a person may be punished for 1 or more contraventions of a requirement of this Law as it applies in another participating jurisdiction (interstate contraventions), and 1 or more contraventions of a requirement of this Law as it applies in this jurisdiction (local contraventions), if the interstate contraventions and local contraventions relate to different parts of the same vehicle; and
+(c) 2 or more contraventions of a provision by a person that arise from the same factual circumstances may be charged as—
+(i) a single offence; or
+(ii) separate offences.
+(4) Subsection (3)(c) does not authorise contraventions of 2 or more provisions to be charged as a single offence.
+(5) A single penalty only may be imposed in relation to 2 or more contraventions of a provision that are charged as a single offence.
 635—Responsibility for acts or omissions of representative
 (1) This section applies in a proceeding for an offence against this Law.
 (2) If it is relevant to prove a person's state of mind about a particular act or omission, it is enough to show—
@@ -7567,14 +7165,8 @@ state of mind, of a person, includes—
 636—Liability of executive officers of corporation
 (1) If a corporation commits an offence against a provision of this Law specified in column 2 of Schedule 4, each executive officer of the corporation who knowingly authorised or permitted the conduct constituting the offence also commits an offence against the provision.
 Maximum penalty: the penalty for a contravention of the provision by an individual.
-(2) If a corporation commits an offence against a provision of this Law specified in column 3 of Schedule 4, each executive officer of the corporation who knew or ought reasonably to have known—
-(a) of the conduct constituting the offence; or
-(b) that there was a substantial risk that the offence would be committed,
-also commits an offence against the provision.
-Maximum penalty: the penalty for a contravention of the provision by an individual.
-(3) For the purposes of subsection (2), it is a defence for the executive officer to prove—
-(a) the officer exercised reasonable diligence to ensure the corporation complied with the provision; or
-(b) the officer was not in a position to influence the conduct of the corporation in relation to the offence.
+Note—
+See also section 26D for the duty of an executive officer of a corporation to exercise due diligence to ensure the corporation complies with its safety duties under this Law.
 (4) An executive officer of a corporation may be proceeded against and convicted for an offence against the provision whether or not the corporation has been proceeded against or convicted under that provision.
 (5) Nothing in this section affects any liability imposed on a corporation for an offence committed by the corporation under the provision.
 (6) Nothing in this section affects the application of any other law relating to the criminal liability of any persons (whether or not executive officers of the corporation) who are accessories to the commission of an offence or are otherwise involved in the contravention giving rise to an offence.
@@ -7583,39 +7175,20 @@ Maximum penalty: the penalty for a contravention of the provision by an individu
 (1) This Law (other than section 636) applies to an unincorporated partnership as if it were a corporation, but with the changes set out in this section.
 (2) An obligation or liability that would otherwise be imposed on the partnership by this Law is imposed on each partner instead, but may be discharged by any of the partners.
 (3) An amount that would be payable under this Law by the partnership is jointly and severally payable by the partners.
-(4) An offence against this Law (other than an offence referred to in subsection (5)) that would otherwise be committed by the partnership is taken to have been committed by each partner who knowingly authorised or permitted the conduct constituting the offence.
+(4) An offence against a provision of this Law specified in column 2 of Schedule 4 that would otherwise be committed by the partnership is taken to have been committed by each partner who knowingly authorised or permitted the conduct constituting the offence.
 Maximum penalty: the penalty for a contravention of the provision by an individual.
-(5) An offence against a provision of this Law specified in column 3 of Schedule 4 that would otherwise be committed by the partnership is taken to have been committed by each partner who knew or ought reasonably to have known—
-(a) of the conduct constituting the offence; or
-(b) that there was a substantial risk that the offence would be committed.
-Maximum penalty: the penalty for a contravention of the provision by an individual.
-(6) For the purposes of subsection (5), it is a defence for the partner to prove—
-(a) the partner exercised reasonable diligence to ensure the partnership complied with the provision; or
-(b) the partner was not in a position to influence the conduct of the partnership in relation to the offence.
 (7) Nothing in this section affects the application of any other law relating to the criminal liability of any persons (whether or not partners in the partnership) who are accessories to the commission of an offence or are otherwise involved in the contravention giving rise to an offence.
-(8) Subsections (4) and (5) do not apply to a partner acting on a voluntary basis, whether or not the partner is reimbursed for the expenses incurred by the partner for carrying out activities for the partnership.
+(8) Subsection (4) does not apply to a partner acting on a voluntary basis, whether or not the partner is reimbursed for the expenses incurred by the partner for carrying out activities for the partnership.
 (9) For the purposes of this section, a change in the composition of the partnership does not affect the continuity of the partnership.
 638—Treatment of other unincorporated bodies
 (1) This Law (other than section 636) applies to an unincorporated body as if it were a corporation, but with the changes set out in this section.
 (2) An obligation or liability that would otherwise be imposed on the unincorporated body by this Law is imposed on each management member of the body instead, but may be discharged by any of the management members.
 (3) An amount that would be payable under this Law by the unincorporated body is jointly and severally payable by the management members of the body.
-(4) An offence against this Law (other than an offence referred to in subsection (5)) that would otherwise be committed by the unincorporated body is taken to have been committed by each management member of the body who knowingly authorised or permitted the conduct constituting the offence.
+(4) An offence against a provision of this Law specified in column 2 of Schedule 4 that would otherwise be committed by the unincorporated body is taken to have been committed by each management member of the body who knowingly authorised or permitted the conduct constituting the offence.
 Maximum penalty: the penalty for a contravention of the provision by an individual.
-(5) An offence against a provision of this Law specified in column 3 of Schedule 4 that would otherwise be committed by the unincorporated body is taken to have been committed by each management member of the body who knew or ought reasonably to have known—
-(a) of the conduct constituting the offence; or
-(b) that there was a substantial risk that the offence would be committed.
-Maximum penalty: the penalty for a contravention of the provision by an individual.
-(6) For the purposes of subsection (5), it is a defence for the management member of the unincorporated body to prove—
-(a) the member exercised reasonable diligence to ensure the body complied with the provision; or
-(b) the member was not in a position to influence the conduct of the body in relation to the offence.
 (7) Nothing in this section affects the application of any other law relating to the criminal liability of any persons (whether or not management members of the unincorporated body) who are accessories to the commission of an offence or are otherwise involved in the contravention giving rise to an offence.
-(8) Subsections (4) and (5) do not apply to a management member of the unincorporated body acting on a voluntary basis, whether or not the member is reimbursed for the expenses incurred by the member for carrying out activities for the body.
+(8) Subsection (4) does not apply to a management member of the unincorporated body acting on a voluntary basis, whether or not the member is reimbursed for the expenses incurred by the member for carrying out activities for the body.
 (9) For the purposes of this section, a change in the composition of the unincorporated body does not affect the continuity of the body.
-(10) In this section—
-management member, of an unincorporated body, means—
-(a) if the body has a management committee—each member of the management committee; or
-(b) otherwise—each member who is concerned with, or takes part in, the body's management, whatever name is given to the member's position in the body;
-unincorporated body includes an unincorporated local government authority, but does not include an unincorporated partnership.
 639—Liability of registered operator
 (1) This section applies to an offence against this Law that may be committed by the operator of a heavy vehicle (whether or not any other person can also commit the offence).
 (2) If an offence to which this section applies is committed, the following person is taken to be the operator of the heavy vehicle and, in that capacity, is taken to have committed the offence:
@@ -7682,7 +7255,7 @@ dissatisfied person means—
 (c) for a reviewable decision of the Regulator to amend, cancel or suspend an exemption, authorisation, approval or heavy vehicle accreditation under this Law—the person to whom the exemption, authorisation, approval or heavy vehicle accreditation was granted; or
 (d) for a reviewable decision of the Regulator not to give a replacement permit for an exemption or authorisation under this Law or not to give a replacement accreditation certificate for a heavy vehicle accreditation under this Law—the person to whom the exemption, authorisation or heavy vehicle accreditation was granted; or
 (e) for a reviewable decision of the Regulator that a thing or sample is forfeited to the Regulator—an owner of the thing or sample; or
-(f) for a reviewable decision of an authorised officer to give a person an improvement notice or to amend an improvement notice given to a person—the person to whom the improvement notice was given; or
+(f) for a reviewable decision of an authorised officer to give a person an improvement notice or prohibition notice, or to amend an improvement notice or prohibition notice given to a person—the person to whom the notice was given; or
 (g) for a reviewable decision of a relevant road manager for a mass or dimension authority—a person adversely affected by the decision; or
 (h) for a reviewable decision made under the national regulations—the person prescribed as the dissatisfied person for the decision under the national regulations.
 642—Stay of reviewable decisions made by Regulator or authorised officer
@@ -7818,7 +7391,7 @@ Part 1—Responsible Ministers
 (k) granting PBS design approvals and PBS vehicle approvals;
 (l) other matters as referred to in—
 (i) paragraph (a)(ii) of the definition road condition in section 154; or
-(ii) section 156(3)(a)(ii); or
+(ii) section 156A(1)(a)(ii); or
 (iii) section 163(1)(b)(ii)(B); or
 (iv) section 174(1)(b); or
 (v) section 178(1)(b).
@@ -8233,11 +7806,11 @@ employee includes an individual who works under a contract for services;
 employer, of a prospective employee, includes a prospective employer of the employee.
 Division 2—Offences about false or misleading information
 701—False or misleading statements
-(1) A person commits an offence if the person makes a statement to an official that the person knows is false or misleading in a material particular.
+(1) A person commits an offence if the person makes a statement to an official that the person knows is false or misleading.
 Maximum penalty: $10 000.
 (2) A person commits an offence if the person—
-(a) makes a statement to an official that is false or misleading in a material particular; and
-(b) is reckless as to whether the statement is false or misleading in a material particular.
+(a) makes a statement to an official that is false or misleading; and
+(b) is reckless as to whether the statement is false or misleading.
 Maximum penalty: $8 000.
 (3) Subsections (1) and (2) apply even if the statement was not given in response to, or in purported compliance with, a direction or requirement under this Law.
 (4) In a proceeding for an offence against subsection (1) or (2), it is enough for a charge to state that the statement made was 'false or misleading', without specifying whether it was false or whether it was misleading.
@@ -8246,14 +7819,14 @@ official includes—
 (a) TCA exercising a function under Chapter 7; and
 (b) a person exercising a function under this Law under the direction or authority of an official.
 702—False or misleading documents
-(1) A person commits an offence if the person gives an official a document containing information the person knows is false or misleading in a material particular.
+(1) A person commits an offence if the person gives an official a document containing information the person knows is false or misleading.
 Maximum penalty: $10 000.
 (2) Subsection (1) does not apply if the person, when giving the document—
 (a) tells the official how information contained in the document is false or misleading; and
 (b) if the person has the correct information—gives the correct information.
 (3) A person commits an offence if the person—
-(a) gives an official a document containing information that is false or misleading in a material particular; and
-(b) is reckless as to whether information contained in the document is false or misleading in a material particular.
+(a) gives an official a document containing information that is false or misleading; and
+(b) is reckless as to whether information contained in the document is false or misleading.
 Maximum penalty: $8 000.
 (4) Subsections (1) and (3) apply even if the document was not given in response to, or in purported compliance with, a direction or requirement under this Law.
 (5) In a proceeding for an offence against subsection (1) or (3), it is enough for a charge to state that the information was 'false or misleading', without specifying whether it was false or whether it was misleading.
@@ -8328,14 +7901,25 @@ that the registered industry code of practice be amended in a stated way to refl
 (7) The Regulator incurs no liability for loss or damage suffered by a person because the person relied on a registered industry code of practice.
 Part 3—Legal proceedings
 Division 1—Proceedings
-707—Proceedings for offences
-(1) A proceeding for an offence against this Law is to be by way of a summary proceeding before a court of summary jurisdiction.
-(2) The proceeding must start within the later of the following periods to end:
-(a) 2 years after the commission of the offence;
-(b) 1 year after the offence comes to the complainant's knowledge, but within 3 years after the commission of the offence.
-(3) A statement in a complaint for an offence against this Law that the matter of the complaint came to the knowledge of the complainant on a stated day is evidence of when the matter came to the complainant's knowledge.
-(4) In this section—
-complaint means a complaint, notice, charge or other process by which a proceeding for an offence is started.
+707—Proceeding for indictable offences
+(1) The prosecution may bring a proceeding for an indictable offence—
+(a) on indictment; or
+(b) in a summary way.
+(2) However, a court of summary jurisdiction must not hear and decide an indictable offence in a summary way if—
+(a) at the start of the hearing, the defendant asks for the charge to be prosecuted on indictment; or
+(b) the court is satisfied—
+(i) after hearing submissions from the prosecution and defence at any stage of the hearing, that the defendant, if convicted, may not be adequately punished for the particular offence on a summary conviction; or
+(ii) on an application made by the defence, that the charge should not be heard and decided in a summary way because of exceptional circumstances.
+(3) If the court decides that the offence be prosecuted on indictment—
+(a) the court must conduct the proceeding as a committal proceeding; and
+(b) any evidence given in the proceeding, before the court decided that the offence be prosecuted on indictment, is taken to be evidence in the committal proceeding; and
+(c) the court must disregard any plea that the defendant made at the start of the proceeding.
+707A—Proceeding for other offences
+(1) The prosecution must bring a proceeding for an offence against this Law, other than an indictable offence, in a summary way.
+(2) The proceeding must start—
+(a) within 2 years after the offence is committed; or
+(b) within 1 year after the commission of the offence comes to the complainant's knowledge, but within 3 years after the offence is committed.
+(3) A statement in a complaint for an offence against this Law that the matter of the complaint came to the complainant's knowledge on a stated day is evidence of when the matter came to the complainant's knowledge.
 Division 2—Evidence
 708—Proof of appointments unnecessary
 For the purposes of this Law, it is not necessary to prove the appointment of the following persons:
@@ -8355,8 +7939,6 @@ For the purposes of this Law, a signature purporting to be the signature of 1 of
 (f) a stated location was, under a stated provision of this Law or another stated law, subject to a stated prohibition, restriction or other requirement about the use of heavy vehicles or stated categories of heavy vehicles,
 is evidence of the matter.
 (2) In a proceeding for an offence against this Law, a statement or allegation in the complaint for the offence that the act or omission constituting the alleged offence was done or made in a stated place, at a stated time, on a stated date or during a stated period, is evidence of the matter.
-(3) In this section—
-complaint means a complaint, notice, charge or other process by which a proceeding for an offence is started.
 711—Evidence by certificate by Regulator generally
 (1) A certificate purporting to be issued by the Regulator and stating that, at a stated time or during a stated period—
 (e) a stated person held or did not hold a heavy vehicle accreditation granted under this Law; or
@@ -8517,6 +8099,29 @@ Examples of statements—
 • a statement made by the driver of a fatigue‑regulated heavy vehicle who uses an electronic work diary about how the driver operated the work diary
 • a statement made by an owner of an approved electronic recording system about how the owner has maintained the system
 • a statement made by the record keeper (within the meaning given by section 317) of the driver of a fatigue‑regulated heavy vehicle who uses an electronic work diary about how information was transmitted from the electronic work diary to the record keeper
+726A—Evidence of offence
+(1) In a proceeding for an offence against this Law—
+(a) evidence of a court convicting a person of a heavy vehicle offence is evidence that the heavy vehicle offence happened at the time and place, and in the circumstances, stated in the complaint for the heavy vehicle offence; and
+(b) evidence of details stated in an infringement notice issued for a heavy vehicle offence is evidence that the heavy vehicle offence happened at the time and place, and in the circumstances, stated in the infringement notice.
+(2) In this section—
+heavy vehicle offence means—
+(a) an offence against this Law; or
+(b) an offence by the driver of a heavy vehicle of exceeding a speed limit applying to the driver.
+726B—Evidence obtained by police using other powers
+To remove any doubt, it is declared that evidence lawfully obtained by a police officer using powers other than the powers under this Law is not inadmissible in proceedings for a contravention of this Law only because the evidence was obtained using the other powers.
+726C—Evidence obtained in another jurisdiction
+To remove any doubt, it is declared that evidence lawfully obtained in a jurisdiction (the first jurisdiction) is not inadmissible in proceedings for a contravention of this Law in another jurisdiction only because the evidence was obtained in the first jurisdiction.
+Division 3—Publication of court outcomes
+726D—Regulator may publish convictions, penalties, orders, etc
+(1) This section applies if a court convicts a person of an offence against this Law.
+Note—
+Under section 9, a court convicts a person of an offence if the court finds the person guilty, or accepts the person's plea of guilty, for the offence whether or not a conviction is recorded.
+(2) The Regulator may publish the following information about the conviction on the Regulator's website:
+(a) the offence for which the person was convicted;
+(b) if the court imposed a penalty for the conviction—the penalty imposed;
+(c) if the court made an order against the person in relation to the conviction—information about the order made, other than information that could identify or lead to the identification of the person.
+Note—
+Orders the court may make include commercial benefits penalty orders (see section 597), supervisory intervention orders (see section 600), prohibition orders (see section 607) and compensation orders (see section 611).
 Part 4—Protected information
 727—Definitions for Chapter 13 Part 4
 (1) In this Part—
@@ -8545,10 +8150,11 @@ driver fatigue compliance function means a function exercised for the purpose of
 (a) the administration or enforcement of a driver fatigue provision; or
 (b) education, evaluation and similar activities supporting administration or enforcement of a driver fatigue provision;
 driver fatigue provision means any of the following:
+(aa) Chapter 1A to the extent the Chapter relates to driver fatigue;
 (a) Chapter 6;
 (b) Chapter 8 to the extent the Chapter relates to BFM accreditation or AFM accreditation;
 (c) Division 8 of Chapter 9 Part 3;
-(d) Chapter 9, other than Division 8 of Chapter 9 Part 3, to the extent the Chapter applies to the enforcement of provisions mentioned in paragraphs (a) and (b);
+(d) Chapter 9, other than Division 8 of Chapter 9 Part 3, to the extent the Chapter applies to the enforcement of provisions mentioned in paragraphs (aa), (a) and (b);
 electronic work diary authorised use, for electronic work diary protected information, means—
 (a) use by a person—
 (i) in the exercise of a driver fatigue compliance function; or
@@ -8563,8 +8169,8 @@ electronic work diary information means information generated, recorded, stored,
 electronic work diary protected information—
 (a) means electronic work diary information; but
 (b) does not include—
-(i) information obtained, collected or recorded other than for the purposes of Chapter 6 of this Law, even if the information is—
-(A) coincidentally relevant for a purpose under Chapter 6; and
+(i) information obtained, collected or recorded other than for the purposes of Chapter 1A to the extent the Chapter relates to driver fatigue or Chapter 6 (the driver fatigue purposes), even if the information is—
+(A) coincidentally relevant for a driver fatigue purpose; and
 (B) recorded in an electronic work diary; or
 (ii) information relating to proceedings before a relevant tribunal or court that are or were open to the public;
 police agency means a police force or police service (however called) of a participating jurisdiction, and includes an entity prescribed by the Application Act of this jurisdiction as an entity included in this definition;
@@ -8621,6 +8227,8 @@ Part 5—National regulations
 (b) the imposition of a maximum fine for a contravention of a provision of the regulations of not more than—
 (i) for a contravention by an individual—$4 000; or
 (ii) in any other case—$20 000; and
+Note—
+However, a maximum fine imposed by the regulations may be increased under section 737 to a higher amount.
 (c) any other matter that is necessary or convenient to be prescribed for carrying out or giving effect to this Law.
 (4) Subsection (3)(b) does not require a provision of the regulations prescribing a maximum fine for an offence to expressly prescribe a maximum fine for a body corporate different to the maximum fine for an individual.
 Note—
@@ -8667,6 +8275,8 @@ Part 6—Other
 (2) The approval of a form must be notified on the Regulator's website.
 (3) Failure to comply with subsection (2) does not affect a form's validity.
 (4) The function of approving forms includes the function of approving the format of forms.
+735A—Legal professional privilege
+Nothing in this Law compels a person to give information that is the subject of legal professional privilege to another person.
 736—Penalty at end of provision
 In this Law, a penalty stated at the end of a provision indicates that an offence mentioned in the provision is punishable on conviction or, if no offence is mentioned, a contravention of the provision constitutes an offence against the provision that is punishable on conviction, by a penalty not more than the stated penalty.
 Note—
@@ -8676,8 +8286,16 @@ See also section 596 in relation to maximum fines for bodies corporate.
 (2) At the start of 1 July of each year, beginning with 1 July 2014, the amount of each penalty is increased, from the amount that applied immediately before that 1 July, in accordance with the method prescribed by the national regulations for the purposes of this section.
 Note—
 In some circumstances, the operation of the method can result in no increases occurring on a particular 1 July.
+(2a) To remove any doubt, the maximum fine limits mentioned in section 730(3)(b) do not limit the application of subsection (2).
 (3) A recommendation of the responsible Ministers for national regulations prescribing a method for the increase of penalties cannot be made unless the responsible Ministers are satisfied that the method generally accords with increases in relevant inflation indexes or similar indexes.
 (4) As soon as practicable but before 1 July of each year, the Regulator must publish on the Regulator's website the amounts of each penalty applying as from that date.
+737A—Application of section 737 to new penalties
+(1) The enactment of a new penalty includes the enactment of an increase in the amount of penalty applying under section 737, to take effect when the new penalty commences.
+(2) For applying section 737 under subsection (1) to a new penalty, the amount of penalty applying under section 737 is to be calculated as if—
+(a) the new penalty had commenced before 1 July 2014; and
+(b) the amount of penalty applying had been increased under section 737(2) on 1 July 2014 and any later 1 July happening before the new penalty actually commences.
+(3) In this section—
+new penalty means a penalty amount stated at the end of a provision for an offence inserted into this Law by an amending Act.
 738—Service of documents
 (1) If this Law requires or permits a document to be served on a person, the document may be served—
 (a) on an individual—
@@ -8732,8 +8350,6 @@ In some circumstances, the operation of the method can result in no increases oc
 (c) purports to require the payment or reimbursement by a person of all or part of a penalty that another person has been ordered to pay under this Law.
 (2) This section does not prevent the parties to a contract from including provisions in the contract imposing greater or more onerous obligations on an entity than are imposed by the requirements of this Law.
 (3) This section applies to contracts entered into before or after the commencement of this section.
-(4) In this section—
-contract means contract or other agreement.
 743—Other powers not affected
 (1) Unless otherwise provided in this Law, nothing in this Law affects any power a court, tribunal or official has apart from this Law.
 (2) Without limiting subsection (1), nothing in this Law affects a power or obligation under another law to amend, suspend, cancel or otherwise deal with the registration of a heavy vehicle.
@@ -8826,12 +8442,7 @@ HML declarations means HML declarations under the Heavy Vehicle (Mass, Dimension
 Example—
 If an instrument relates to mass and fatigue exemptions, a notice cancelling only the fatigue exemptions will not cancel the mass exemptions. The mass exemptions, and their associated conditions, will continue in force until they are separately amended, or until they expire.
 (3) Despite anything to the contrary in this Law, if the instrument is amended or cancelled and the amendment or cancellation has the effect of removing or reducing the benefit previously conferred on a person by the instrument, the person may continue to enjoy the benefit as if the amendment or cancellation had not occurred until the instrument would have expired had the amendment or cancellation not occurred.
-(4) Despite anything to the contrary in this Law other than subsection (3), the Regulator may amend or cancel the instrument simply by publishing notice of the amendment or cancellation—
-(a) in—
-(i) the Commonwealth Gazette; and
-(ii) a newspaper circulating generally throughout each relevant participating jurisdiction; and
-(b) on the Regulator's website; and
-(c) in any other newspaper the Regulator considers appropriate.
+(4) Despite anything to the contrary in this Law other than subsection (3), the Regulator may amend or cancel the instrument simply by publishing a public notice of the amendment or cancellation.
 (5) The amendment or cancellation takes effect—
 (a) 28 days after the Commonwealth Gazette notice is published under subsection (4); or
 (b) if a later time is stated in the Commonwealth Gazette notice, at the later time.
@@ -9427,137 +9038,118 @@ Part 2—Decisions of authorised officers
 Section under which decision made │ Description of decision │
 section 572 │ decision of an authorised officer who is not a police officer to give a person an improvement notice │
 sections 572 and 574 │ decision of an authorised officer who is not a police officer to amend an improvement notice given to a person │
+section 576A │ decision of an authorised officer who is not a police officer to give a person a prohibition notice │
+section 576A │ decision of an authorised officer who is not a police officer to amend a prohibition notice given to a person Note— Section 23 of Schedule 1 allows for the amendment of a prohibition notice. │
 Part 3—Decisions of relevant road managers
 Section under which decision made │ Description of decision │
-section 156 │ decision of a relevant road manager for a mass or dimension authority, that is a public authority, not to consent to the grant of the authority │
+section 156A │ decision of a relevant road manager for a mass or dimension authority, that is a public authority, not to consent to the grant of the authority │
 section 160 │ decision of a relevant road manager for a mass or dimension authority, that is a public authority, to consent to the grant of the authority subject to a condition that a road condition be imposed on the authority │
 section 161 │ decision of a relevant road manager for a mass or dimension authority, that is a public authority, to consent to the grant of the authority subject to a condition that a travel condition be imposed on the authority │
 section 174 │ decision of a relevant road manager for a mass or dimension authority (granted by Commonwealth Gazette notice), that is a public authority, to request the authority be amended or cancelled │
 section 178 │ decision of a relevant road manager for a mass or dimension authority (granted by giving a person a permit), that is a public authority, to request the authority be amended or cancelled │
-Schedule 4—Provisions specified for liability of executive officers for offences by corporations
-section 636
-The provisions specified in column 2 of the following table are specified for the purposes of section 636(1). The provisions specified in column 3 of the table are specified for the purposes of section 636(2).
-Column 1 │ Column 2 │ Column 3 │
-Section of this Law │ Provision specified for the purposes of section 636(1) │ Provision specified for the purposes of section 636(2) │
-30 │ 30(1) │ 30(1) │
-50 │ 50(1), 50(2) │ — │
-60 │ 60(1) │ 60(1) │
-79 │ 79(2) │ 79(2) │
-81 │ 81(1), 81(2), 81(3) │ 81(1), 81(2), 81(3) │
-85 │ 85(1), 85(2) │ 85(2) │
-89 │ 89(1) │ 89(1) │
-93 │ 93(1) │ 93(1) │
-129 │ 129(1), 129(2), 129(3) │ 129(1), 129(2), 129(3) │
-130 │ 130(3) │ 130(3) │
-137 │ 137 │ 137 │
-150 │ 150(1) │ 150(1) │
-181 │ 181(3) │ — │
-183 │ 183(2) │ 183(2) │
-185 │ 185(1), 185(2) │ 185(1), 185(2) │
-186 │ 186(2), 186(3), 186(4), 186(5) │ 186(2), 186(3), 186(4), 186(5) │
-187 │ 187(2), 187(3) │ 187(2), 187(3) │
-190 │ 190(1) │ 190(1) │
-191 │ 191(1), 191(3) │ 191(1), 191(3) │
-193 │ 193(2) │ 193(2) │
-194 │ 194(1) │ 194(1) │
-204 │ 204(1) │ 204(1) │
-205 │ 205(1) │ 205(1) │
-206 │ 206(2) │ 206(2) │
-207 │ 207(1) │ 207(1) │
-208 │ 208(1) │ 208(1) │
-209 │ 209(1) │ 209(1) │
-212 │ 212(1), 212(2) │ 212(1), 212(2) │
-213 │ 213 │ 213 │
-215 │ 215 │ 215 │
-216 │ 216(1), 216(2) │ 216(1), 216(2) │
-219 │ 219(1) │ 219(1) │
-229 │ 229(1) │ 229(1) │
-230 │ 230(1) │ 230(1) │
-231 │ 231(1) │ 231(1) │
-232 │ 232(2) │ 232(2) │
-233 │ 233(1) │ 233(1) │
-234 │ 234(1) │ 234(1) │
-235 │ 235(1), 235(2) │ 235(1), 235(2) │
-236 │ 236(1) │ 236(1) │
-237 │ 237(1) │ 237(1) │
-238 │ 238(1) │ 238(1) │
-239 │ 239(2) │ 239(2) │
-240 │ 240 │ 240 │
-241 │ 241(1), 241(2) │ 241(1), 241(2) │
-261 │ 261(2) │ 261(2) │
-264 │ 264(2) │ 264(2) │
-284 │ 284(2) │ 284(2) │
-286 │ 286(1) │ 286(1) │
-310 │ 310(2) │ 310(2) │
-311 │ 311(2) │ 311(2) │
-312 │ 312(2) │ 312(2) │
-313 │ 313(2), 313(3) │ 313(2) │
-314 │ 314(3) │ — │
-315 │ 315(2) │ 315(2) │
-319 │ 319(1) │ 319(1) │
-321 │ 321(1), 321(3) │ 321(1), 321(3) │
-322 │ 322(4) │ 322(4) │
-323 │ 323(3) │ 323(3) │
-324 │ 324(2) │ 324(2) │
-327 │ 327 │ 327 │
-328 │ 328 │ — │
-329 │ 329 │ — │
-330 │ 330(1) │ — │
-331 │ 331 │ — │
-332 │ 332 │ — │
-335 │ 335(1) │ 335(1) │
-336 │ 336(1) │ 336(1) │
-337 │ 337(2) │ 337(2) │
-341 │ 341(1), 341(2), 341(3), 341(4) │ 341(1), 341(2), 341(3), 341(4) │
-347 │ 347 │ — │
-354 │ 354(3), 354(5) │ 354(3), 354(5) │
-355 │ 355(2), 355(4), 355(6) │ 355(2), 355(4), 355(6) │
-373 │ 373(2) │ — │
-375 │ 375 │ 375 │
-396 │ 396(2) │ 396(2) │
-398 │ 398(2) │ 398(2) │
-399 │ 399(2) │ 399(2) │
-404 │ 404(1), 404(4) │ 404(1), 404(4) │
-405 │ 405(1) │ — │
-406 │ 406(1), 406(2) │ 406(1) │
-417 │ 417 │ — │
-422 │ 422(2) │ 422(2) │
-423 │ 423(1) │ 423(1) │
-424 │ 424(1), 424(3) │ 424(1), 424(3) │
-451 │ 451 │ 451 │
-452 │ 452 │ 452 │
-453 │ 453(1), 453(2) │ 453(1), 453(2) │
-454 │ 454(1), 454(2) │ 454(1), 454(2) │
-467 │ 467 │ 467 │
-470 │ 470(2), 470(3), 470(4), 470(5), 470(6) │ 470(2), 470(3), 470(4), 470(5), 470(6) │
-471 │ 471(2) │ 471(2) │
-476 │ 476(2) │ 476(2) │
-478 │ 478(1), 478(2), 478(3), 478(4) │ — │
-514 │ 514(3) │ — │
-516 │ 516(3) │ — │
-517 │ 517(4) │ — │
-528 │ 528(3) │ — │
-529 │ 529 │ 529 │
-533 │ 533(7) │ — │
-534 │ 534(5) │ — │
-535 │ 535(5) │ — │
-553 │ 553(3) │ — │
-558 │ 558(1), 558(3) │ 558(1), 558(3) │
-559 │ 559(3), 559(4), 559(5) │ 559(3), 559(4), 559(5) │
-567 │ 567(4) │ — │
-568 │ 568(7) │ — │
-569 │ 569(2), 569(7) │ — │
-570 │ 570(3) │ — │
-573 │ 573(1) │ 573(1) │
-577 │ 577(4) │ — │
-604 │ 604 │ 604 │
-610 │ 610 │ 610 │
-699 │ 699(1), 699(2) │ 699(1), 699(2) │
-700 │ 700(4) │ 700(4) │
-702 │ 702(1), 702(3) │ — │
-703 │ 703(1), 703(2) │ — │
-704 │ 704(1), 704(2), 704(3) │ — │
-728 │ 728(1) │ 728(1) │
-728A │ 728A(1) │ — │
-729 │ 729(1), 729(3) │ 729(1), 729(3) │
-729A │ 729A(1), 729A(2) │ — │
+Schedule 4—Liability provisions
+sections 636, 637 and 638
+The provisions specified in column 2 of the following table are specified for the purposes of sections 636(1), 637(4) and 638(4).
+Section of this Law │ Provision specified for sections 636(1), 637(4) and 638(4) │
+26E │ 26E(1), 26E(2) │
+60 │ 60(1) │
+79 │ 79(2) │
+81 │ 81(1), 81(2), 81(3) │
+85 │ 85(1), 85(2) │
+87A │ 87A(1) │
+89 │ 89(1) │
+93 │ 93(1), 93(2), 93(3) │
+129 │ 129(1), 129(2), 129(3) │
+130 │ 130(3) │
+137 │ 137 │
+150 │ 150(1) │
+153A │ 153A(1) │
+181 │ 181(3) │
+185 │ 185(1), 185(2) │
+186 │ 186(2), 186(3), 186(4), 186(5) │
+187 │ 187(2), 187(3) │
+190 │ 190(1) │
+191 │ 191(1), 191(3) │
+193 │ 193(2) │
+264 │ 264(2) │
+284 │ 284(2) │
+286 │ 286(1) │
+310 │ 310(2) │
+311 │ 311(2) │
+312 │ 312(2) │
+313 │ 313(2), 313(3) │
+314 │ 314(3) │
+315 │ 315(1) │
+319 │ 319(1) │
+321 │ 321(1), 321(3) │
+322 │ 322(4) │
+323 │ 323(3) │
+324 │ 324(2) │
+324A │ 324A(2) │
+327 │ 327 │
+328 │ 328 │
+329 │ 329 │
+330 │ 330(1) │
+331 │ 331 │
+332 │ 332 │
+335 │ 335(1) │
+336 │ 336(1) │
+336A │ 336A(1) │
+337 │ 337(2) │
+341 │ 341(1), 341(2), 341(3), 341(5) │
+347 │ 347 │
+354 │ 354(3), 354(5) │
+355 │ 355(2), 355(4), 355(6) │
+373 │ 373(2) │
+375 │ 375 │
+396 │ 396(2) │
+398 │ 398(2) │
+399 │ 399(2) │
+404 │ 404(1), 404(4) │
+405 │ 405(1) │
+406 │ 406(1), 406(2) │
+417 │ 417 │
+422 │ 422(2) │
+423 │ 423(1) │
+424 │ 424(1), 424(3) │
+451 │ 451 │
+452 │ 452 │
+453 │ 453(1), 453(2) │
+454 │ 454(1), 454(2) │
+467 │ 467 │
+470 │ 470(2), 470(3), 470(4), 470(5), 470(6) │
+471 │ 471(2) │
+476 │ 476(2) │
+478 │ 478(1), 478(2), 478(3), 478(4) │
+514 │ 514(3) │
+516 │ 516(3) │
+517 │ 517(4) │
+528 │ 528(3) │
+529 │ 529 │
+531A │ 531A(5) │
+533 │ 533(7) │
+534 │ 534(5) │
+535 │ 535(5) │
+553 │ 553(3) │
+558 │ 558(1), 558(3) │
+559 │ 559(3), 559(4), 559(5) │
+567 │ 567(4) │
+568 │ 568(7) │
+569 │ 569(2), 569(7) │
+570 │ 570(3) │
+570A │ 570A(5) │
+573 │ 573(1) │
+576C │ 576C │
+577 │ 577(4) │
+590B │ 590B(2) │
+604 │ 604 │
+610 │ 610 │
+699 │ 699(1), 699(2) │
+700 │ 700(4) │
+702 │ 702(1), 702(3) │
+703 │ 703(1), 703(2) │
+704 │ 704(1), 704(2), 704(3) │
+728 │ 728(1) │
+728A │ 728A(1) │
+729 │ 729(1), 729(3) │
+729A │ 729A(1), 729A(2) │
