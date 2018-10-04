@@ -24,5 +24,5 @@ Division 1—Administration
 Division 2—General powers of inspectors
 Division 3—Compliance notices
 Division 4—Public warning statements
-Part 9—Appeals
+Part 9—Reviews
 Part 10—Miscellaneous

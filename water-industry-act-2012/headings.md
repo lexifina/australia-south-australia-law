@@ -25,7 +25,7 @@ Division 1—Appointment of authorised officers
 Division 2—General powers of authorised officers
 Division 3—Specific powers in relation to infrastructure and equipment
 Division 4—Related matters
-Part 9—Reviews and appeals
+Part 9—Reviews
 Part 9A—Third party access regime
 Division 1—Preliminary
 Division 2—Regulator

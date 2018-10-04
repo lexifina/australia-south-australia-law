@@ -11,8 +11,7 @@ Division 2—Travelling stock
 Division 2A—Indigenous land use agreements
 Division 3—Public access
 Division 4—Wind farms
-Part 7—Appeals
-Division 1—The Tribunal
-Division 2—Right of appeal to Tribunal
-Division 3—Review of valuation and right of appeal to Land and Valuation Court
+Part 7—Reviews
+Division 1—Reviews by Tribunal
+Division 2—Review of valuation and review by Tribunal
 Part 8—Miscellaneous
