@@ -15,6 +15,6 @@ Division 4—Waterfront land
 Division 5—Offences and powers of authorised officers
 Part 5—Appeals and reviews
 Division 1—Ministerial review
-Division 2—Valuation reviews and appeals
-Division 3—Other appeals
+Division 2—Valuation reviews by Minister
+Division 2A—Valuation reviews and other reviews by Tribunal
 Part 6—Miscellaneous

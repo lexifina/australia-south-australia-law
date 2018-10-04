@@ -29,5 +29,5 @@ Division A3—Enforcement notices
 Division 1—Appointment of authorised officers
 Division 2—Authorised officers' powers
 Division 3—Related matters
-Part 7—Reviews and appeals
+Part 7—Reviews
 Part 8—Miscellaneous
