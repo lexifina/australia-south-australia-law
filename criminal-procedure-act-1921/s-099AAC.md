@@ -39,7 +39,7 @@
 (ii) conduct that is an offence under Part 5 of the Controlled Substances Act 1984;
 (e) if the Magistrates Court exercises the discretion under paragraph (b) to dismiss the application, it must record the reasons for doing so in writing.
 (8) In this section—
-Chief Executive means the person for the time being holding, or acting in, the position of Chief Executive of the administrative unit of the Public Service charged with the administration of the Children's Protection Act 1993;
+Chief Executive has the same meaning as in the Children and Young People (Safety) Act 2017;
 child sexual offence means any of the following offences committed against or in relation to a child under 16 years of age (including a substantially similar offence against a corresponding previous enactment or the law of another place):
 (a) rape;
 (b) indecent assault;
@@ -63,7 +63,7 @@ conviction—a person is taken to have been convicted of an offence if—
 (i) the person was mentally unfit to stand trial on a charge of the offence; and
 (ii) the objective elements of the offence were established;
 guardian, of a child, means a parent of the child, a person who is the legal guardian of the child or has the legal custody of the child or any other person who stands in loco parentis to the child and has done so for a significant length of time;
-Minister means the Minister to whom the administration of the Children's Protection Act 1993 is committed;
+Minister means the Minister to whom the administration of the Children and Young People (Safety) Act 2017 is committed;
 prescribed offence means—
 (a) a child sexual offence; or
 (b) an offence under Part 5 of the Controlled Substances Act 1984;

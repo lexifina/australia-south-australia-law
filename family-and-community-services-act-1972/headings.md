@@ -2,9 +2,7 @@ Part 1—Preliminary
 Part 2—The promotion of family and community welfare
 Division 1—Administration
 Division 2—Objectives and powers of the Minister and the Department
-Division 3—Advisory committees and programme advisory panels
 Division 4—Community aides
-Division 5—Consultation
 Part 3—The provision of family and community services
 Division 1—Provision of local services
 Division 2—Special welfare funds
@@ -12,9 +10,6 @@ Division 3—Contracts for services
 Part 4—Support services for children
 Division 2—Services and facilities for children
 Subdivision 2—Establishment of certain facilities and programmes for children
-Subdivision 3—Foster care and licensed foster care agencies
-Subdivision 4—Licensed children's residential facilities
-Subdivision 8—Miscellaneous
 Part 6—Maintenance obligation
 Division 1—Maintenance orders
 Subdivision 1—Orders with respect to children
