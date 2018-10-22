@@ -15,6 +15,7 @@ Division 7AB—Special firearm offences
 Division 7B—Throwing objects at vehicles
 Division 7C—Food and beverage spiking
 Division 8—Female genital mutilation
+Division 8A—Child marriage
 Division 9—Kidnapping and unlawful child removal
 Division 11—Rape and other sexual offences
 Division 11A—Child exploitation material and related offences
