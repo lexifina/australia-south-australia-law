@@ -7,4 +7,5 @@ Division 4—Incidental powers
 Division 5—Constraints on exercise of powers
 Division 6—Offences relating to exercise of powers
 Division 7—Procedural and other matters
+Part 2A—Terrorist act declarations
 Part 3—Miscellaneous
