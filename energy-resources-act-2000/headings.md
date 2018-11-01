@@ -8,6 +8,7 @@ Division 1—The Minister
 Division 2—Authorised officers
 Part 3—Licensing regulated activities
 Division 1—Requirement for licence
+Division 1A—Hydraulic Fracturing
 Division 2—Grant of licence
 Division 3—Preliminary survey licence
 Part 4—Exploration
