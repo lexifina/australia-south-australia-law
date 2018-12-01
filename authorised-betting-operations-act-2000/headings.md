@@ -5,7 +5,7 @@ Division 2—Agreements with licensee
 Division 3—Dealings with licence or licensed business
 Division 4—Approval of designated persons
 Division 5—Applications and criteria for determination of applications
-Division 6—Investigations by Authority
+Division 6—Investigations by Commissioner
 Division 7—Accounts and audit
 Division 9—General power of direction
 Division 10—Recovery of administration costs
@@ -30,5 +30,5 @@ Part 6—Power to deal with default or business failure
 Division 1—Statutory default
 Division 2—Official management
 Division 3—Administrators, controllers and liquidators
-Part 7—Review and appeal
+Part 7—Review
 Part 8—Miscellaneous

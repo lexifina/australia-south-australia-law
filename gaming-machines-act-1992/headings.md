@@ -2,7 +2,7 @@ Part 1—Preliminary
 Part 2—Administration
 Division 1—The Commissioner
 Division 2—Inspectors
-Division 3—The Authority
+Division 3—Commissioner's power to prescribe, recognise and give directions
 Division 4—Criminal intelligence
 Part 3—Licences
 Division 1—Classes of licence
@@ -23,7 +23,7 @@ Division 2—Offences relating to conduct of gaming operations
 Division 3—Offences relating to minors
 Division 5—Offences relating to cheating etc
 Division 6—Offences relating to profit sharing etc
-Part 6—Appeals
+Part 6—Review
 Part 7—Powers of inspection etc
 Part 8—Gaming tax
 Part 9—Miscellaneous

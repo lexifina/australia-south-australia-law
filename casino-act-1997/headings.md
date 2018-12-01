@@ -12,10 +12,10 @@ Division 8—Agreement with licensee
 Part 3—Applications for grant or transfer of licence
 Division 1—Eligibility to apply
 Division 2—Making of applications
-Division 3—The Authority's recommendation
-Division 4—Investigations by the Authority
+Division 3—The Commissioner's recommendation
+Division 4—Investigations by the Commissioner
 Division 5—Costs of investigation
-Division 6—Governor not bound by Authority's recommendation
+Division 6—Governor not bound by Commissioner's recommendation
 Part 4—Operation of casino
 Division 1—Opening hours
 Division 1A—Gambling only allowed in enclosed areas
@@ -45,5 +45,5 @@ Division 4—Injunctive remedies
 Division 5—Disciplinary action
 Division 6—Official management
 Division 7—Administrators, controllers and liquidators
-Part 8—Review and appeal
+Part 8—Review
 Part 9—Miscellaneous
