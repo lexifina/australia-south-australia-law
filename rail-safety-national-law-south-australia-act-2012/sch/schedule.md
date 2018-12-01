@@ -2757,7 +2757,7 @@ to a person referred to in subsection (1)(a), (b), (c) or (d).
 (3) In this section—
 person to whom this section applies means—
 (a) a person registered under the Health Practitioner Regulation National Law to practise in the medical profession (other than as a student); or
-(b) a person registered under the Health Practitioner Regulation National Law to practise in the nursing and midwifery profession as a nurse (other than as a student); or
+(b) a person registered under the Health Practitioner Regulation National Law to practise in the nursing profession as a nurse (other than as a student); or
 (c) a person registered under the Health Practitioner Regulation National Law to practise in the optometry profession (other than as a student); or
 (d) a person registered under the Health Practitioner Regulation National Law to practise in the physiotherapy profession (other than as a student); or
 (e) a person brought within the ambit of this definition by the national regulations.
