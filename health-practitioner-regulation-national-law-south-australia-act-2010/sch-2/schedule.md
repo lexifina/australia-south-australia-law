@@ -29,7 +29,7 @@ ACC means the Australian Crime Commission established under section 7 of the Aus
 accreditation authority means—
 (a) an external accreditation entity; or
 (b) an accreditation committee.
-accreditation committee means a committee established by a National Board to exercise an accreditation function for the health profession for which the Board is established.
+accreditation committee means a committee established by a National Board to exercise an accreditation function for a health profession for which the Board is established.
 accreditation standard, for a health profession, means a standard used to assess whether a program of study, and the education provider that provides the program of study, provide persons who complete the program with the knowledge, skills and professional attributes necessary to practise the profession in Australia.
 accredited program of study means a program of study accredited under section 48 by an accreditation authority.
 adjudication body means—
@@ -96,10 +96,12 @@ health profession means the following professions, and includes a recognised spe
 (d) dental (including the profession of a dentist, dental therapist, dental hygienist, dental prosthetist and oral health therapist);
 (e) medical;
 (f) medical radiation practice;
-(g) nursing and midwifery;
+(g) midwifery;
+(ga) nursing;
 (h) occupational therapy;
 (i) optometry;
 (j) osteopathy;
+(ja) paramedicine;
 (k) pharmacy;
 (l) physiotherapy;
 (m) podiatry;
@@ -130,7 +132,7 @@ mandatory notification means a notification an entity is required to make to the
 medical practitioner means a person who is registered under this Law in the medical profession.
 Ministerial Council means the COAG Health Council, or a successor of the Council by whatever name called, constituted by Ministers of the governments of the participating jurisdictions and the Commonwealth with portfolio responsibility for health.
 National Agency means the Australian Health Practitioner Regulation Agency established by section 23.
-National Board means a National Health Practitioner Board established by section 31.
+National Board means a National Health Practitioner Board continued or established by regulations made under section 31.
 National Register means the Register kept by a National Board under section 222.
 national registration and accreditation scheme means the scheme—
 (a) referred to in the COAG Agreement; and
@@ -212,9 +214,9 @@ voluntary notification means a notification made under Division 3 of Part 8.
 6—Interpretation generally
 Schedule 7 applies in relation to this Law.
 7—Single national entity
-(1) It is the intention of the Parliament of this jurisdiction that this Law as applied by an Act of this jurisdiction, together with this Law as applied by Acts of the other participating jurisdictions, has the effect that an entity established by this Law is one single national entity, with functions conferred by this Law as so applied.
-(2) An entity established by this Law has power to do acts in or in relation to this jurisdiction in the exercise of a function expressed to be conferred on it by this Law as applied by Acts of each participating jurisdiction.
-(3) An entity established by this Law may exercise its functions in relation to—
+(1) It is the intention of the Parliament of this jurisdiction that this Law as applied by an Act of this jurisdiction, together with this Law as applied by Acts of the other participating jurisdictions, has the effect that an entity established by or under this Law is one single national entity, with functions conferred by this Law as so applied.
+(2) An entity established by or under this Law has power to do acts in or in relation to this jurisdiction in the exercise of a function expressed to be conferred on it by this Law as applied by Acts of each participating jurisdiction.
+(3) An entity established by or under this Law may exercise its functions in relation to—
 (a) one participating jurisdiction; or
 (b) 2 or more or all participating jurisdictions collectively.
 (4) In this section, a reference to this Law as applied by an Act of a jurisdiction includes a reference to a law that substantially corresponds to this Law enacted in a jurisdiction.
@@ -272,7 +274,7 @@ An accreditation standard for a health profession is a standard used to assess w
 (b) a specialist college for the profession.
 (4) The Ministerial Council may provide guidance to a National Board established for a health profession for which specialist recognition will operate in relation to the criteria for the approval of specialties for the profession by the Council.
 14—Approval of endorsement in relation to scheduled medicines
-(1) The Ministerial Council may, on the recommendation of a National Board, decide that the Board may endorse the registration of health practitioners practising the profession for which the Board is established as being qualified to administer, obtain, possess, prescribe, sell, supply or use a scheduled medicine or class of scheduled medicines.
+(1) The Ministerial Council may, on the recommendation of a National Board, decide that the Board may endorse the registration of health practitioners practising a profession for which the Board is established as being qualified to administer, obtain, possess, prescribe, sell, supply or use a scheduled medicine or class of scheduled medicines.
 Note—
 See section 94 which provides for the endorsement of health practitioners' registration in relation to scheduled medicines.
 (2) An approval under subsection (1) is to specify—
@@ -280,7 +282,7 @@ See section 94 which provides for the endorsement of health practitioners' regis
 (b) whether the National Board may endorse the registration of the class of health practitioners as being qualified in relation to a particular scheduled medicine or a class of scheduled medicines; and
 (c) whether the National Board may endorse the registration of the class of health practitioners in relation to administering, obtaining, possessing, prescribing, selling, supplying or using the scheduled medicine or class of scheduled medicines.
 15—Approval of areas of practice for purposes of endorsement
-The Ministerial Council may, on the recommendation of a National Board, approve an area of practice in the health profession for which the Board is established as being an area of practice for which the registration of a health practitioner registered in the profession may be endorsed.
+The Ministerial Council may, on the recommendation of a National Board, approve an area of practice in a health profession for which the Board is established as being an area of practice for which the registration of a health practitioner registered in the profession may be endorsed.
 Note—
 See section 98 which provides for the endorsement of health practitioners' registration in relation to approved areas of practice.
 16—How Ministerial Council exercises functions
@@ -351,7 +353,7 @@ The functions of the National Agency are as follows—
 (l) any other function given to the National Agency by or under this Law.
 26—Health profession agreements
 (1) The National Agency must enter into an agreement (a health profession agreement) with a National Board that makes provision for the following—
-(a) the fees that will be payable under this Law by health practitioners and others in respect of the health profession for which the Board is established (including arrangements relating to refunds of fees, waivers of fees and additional fees for late payment);
+(a) the fees that will be payable under this Law by health practitioners and others in respect of a health profession for which the Board is established (including arrangements relating to refunds of fees, waivers of fees and additional fees for late payment);
 (b) the annual budget of the National Board (including the funding arrangements for its committees and accreditation authorities);
 (c) the services to be provided to the National Board by the National Agency to enable the National Board to carry out its functions under this Law.
 (2) If the National Agency and a National Board are unable to agree on a matter relating to a health profession agreement or a proposed health profession agreement, the Ministerial Council may give directions to the National Agency and National Board about how the dispute is to be resolved.
@@ -389,29 +391,27 @@ Division 2—Agency Management Committee
 (2) The affairs of the National Agency are to be controlled by the Agency Management Committee and all acts and things done in the name of, or on behalf of, the National Agency by or with the authority of the Agency Management Committee are taken to have been done by the National Agency.
 Part 5—National Boards
 Division 1—National Boards
-31—Establishment of National Boards
-(1) Each of the following National Health Practitioner Boards is established for the health profession listed beside that Board in the following Table—
-Table—National Boards
-Name of Board │ Health profession │
-Aboriginal and Torres Strait Islander Health Practice Board of Australia │ Aboriginal and Torres Strait Islander health practice │
-Chinese Medicine Board of Australia │ Chinese medicine │
-Chiropractic Board of Australia │ chiropractic │
-Dental Board of Australia │ dental (including the profession of a dentist, dental therapist, dental hygienist, dental prosthetist or oral health therapist) │
-Medical Board of Australia │ medical │
-Medical Radiation Practice Board of Australia │ medical radiation practice │
-Nursing and Midwifery Board of Australia │ nursing and midwifery │
-Occupational Therapy Board of Australia │ occupational therapy │
-Optometry Board of Australia │ optometry │
-Osteopathy Board of Australia │ osteopathy │
-Pharmacy Board of Australia │ pharmacy │
-Physiotherapy Board of Australia │ physiotherapy │
-Podiatry Board of Australia │ podiatry │
-Psychology Board of Australia │ psychology │
-(2) A National Board—
+31—Regulations must provide for National Boards
+(1) The regulations must provide for a National Health Practitioner Board for each health profession.
+(2) The regulations may—
+(a) continue an existing Board for a health profession; or
+(b) establish a Board for a health profession or for 2 or more health professions; or
+(c) dissolve a Board for a health profession (the dissolved Board) if another Board is established for that health profession (the replacement Board).
+(3) The regulations may provide for anything for which it is necessary or convenient to make provision to allow, facilitate or provide for the following—
+(a) the continuation, establishment or dissolution of a Board under subsection (2);
+(b) the completion of a matter started by the existing Board before the commencement;
+(c) the effect of anything done by an existing Board before the commencement;
+(d) the transfer of matters from a dissolved Board to a replacement Board.
+(4) Before a regulation is made under subsection (2)(b) or (c), the Ministers comprising the Ministerial Council must undertake public consultation on the proposed regulation.
+(5) However, failure to comply with subsection (4) does not affect the validity of the regulation.
+(6) In this section—
+existing Board means a National Health Practitioner Board in existence immediately before the commencement.
+31A—Status of National Board
+(1) A National Board—
 (a) is a body corporate with perpetual succession; and
 (b) has a common seal; and
 (c) may sue and be sued in its corporate name.
-(3) A National Board represents the State.
+(2) A National Board represents the State.
 32—Powers of National Board
 (1) Subject to subsection (2), a National Board has the powers necessary to enable it to exercise its functions.
 (2) A National Board does not have power to—
@@ -435,11 +435,13 @@ Psychology Board of Australia │ psychology │
 (4) At least half, but not more than two-thirds, of the members of a National Board must be persons appointed as practitioner members.
 (5) The practitioner members of a National Board must consist of—
 (a) at least one member from each large participating jurisdiction; and
-(b) at least one member from a small participating jurisdiction.
+(b) at least one member from a small participating jurisdiction; and
+(c) if the National Board is established for 2 or more health professions—at least one member of each health profession for which the Board is established.
 (6) At least 2 of the members of a National Board must be persons appointed as community members.
 (7) At least one of the members of a National Board must live in a regional or rural area.
 (8) A person cannot be appointed as a member of a National Board if the person is a member of the Agency Management Committee.
 (9) One of the practitioner members of the National Board is to be appointed as Chairperson of the Board by the Ministerial Council.
+(9A) The regulations may prescribe matters relating to the composition of practitioner members for a National Board established for 2 or more health professions.
 (10) Schedule 4 sets out provisions relating to a National Board.
 (11) In this section—
 large participating jurisdiction means any of the following States that is a participating jurisdiction—
@@ -454,12 +456,10 @@ small participating jurisdiction means any of the following States or Territorie
 (c) Tasmania.
 34—Eligibility for appointment
 (1) In deciding whether to appoint a person as a member of a National Board, the Ministerial Council is to have regard to the skills and experience of the person that are relevant to the Board's functions.
-(2) A person is eligible to be appointed as a practitioner member only if the person is a registered health practitioner in the health profession for which the Board is established.
-(3) A person is eligible to be appointed as a community member of a National Board only if the person—
-(a) is not a registered health practitioner in the health profession for which the Board is established; and
-(b) has not at any time been registered as a health practitioner in the health profession under this Law or a corresponding prior Act.
+(2) A person is eligible to be appointed as a practitioner member only if the person is a registered health practitioner in a health profession for which the Board is established.
+(3) A person is eligible to be appointed as a community member only if the person is not, and has not at any time been, a health practitioner in a health profession for which the Board is established.
 (4) A person is not eligible to be appointed as a member of a National Board if—
-(a) in the case of appointment as a practitioner member, the person has ceased to be registered as a health practitioner in the health profession for which the Board is established, whether before or after the commencement of this Law, as a result of the person's misconduct, impairment or incompetence; or
+(a) in the case of appointment as a practitioner member—the person has, whether before or after the commencement of this Law, as a result of the person's misconduct, impairment or incompetence, ceased to be registered as a health practitioner in a health profession for which the Board is established; or
 (b) in any case, the person has, at any time, been found guilty of an offence (whether in a participating jurisdiction or elsewhere) that, in the opinion of the Ministerial Council, renders the person unfit to hold the office of member.
 Division 2—Functions of National Boards
 35—Functions of National Boards
@@ -519,9 +519,9 @@ Clause 11 of Schedule 4 confers power for the establishment of other committees.
 (2) The National Agency may subdelegate any function delegated to the National Agency by a National Board to a member of the staff of the National Agency.
 Division 3—Registration standards and codes and guidelines
 38—National Board must develop registration standards
-(1) A National Board must develop and recommend to the Ministerial Council one or more registration standards about the following matters for the health profession for which the Board is established—
+(1) A National Board must develop and recommend to the Ministerial Council one or more registration standards about the following matters for a health profession for which the Board is established—
 (a) requirements for professional indemnity insurance arrangements for registered health practitioners registered in the profession;
-(b) matters about the criminal history of applicants for registration in the profession, and registered health practitioners and students registered by the Board, including, the matters to be considered in deciding whether an individual's criminal history is relevant to the practice of the profession;
+(b) matters about the criminal history of applicants for registration in the profession, and registered health practitioners and students registered in a health profession for which the Board is established, including, the matters to be considered in deciding whether an individual's criminal history is relevant to the practice of the profession;
 (c) requirements for continuing professional development for registered health practitioners registered in the profession;
 (d) requirements about the English language skills necessary for an applicant for registration in the profession to be suitable for registration in the profession;
 (e) requirements in relation to the nature, extent, period and recency of any previous practice of the profession by applicants for registration in the profession.
@@ -551,7 +551,7 @@ Examples—
 (a) on the day it is published on the National Board's website; or
 (b) if a later day is stated in the registration standard, code or guideline, on that day.
 41—Use of registration standards, codes or guidelines in disciplinary proceedings
-An approved registration standard for a health profession, or a code or guideline approved by a National Board, is admissible in proceedings under this Law or a law of a co‑regulatory jurisdiction against a health practitioner registered by the Board as evidence of what constitutes appropriate professional conduct or practice for the health profession.
+An approved registration standard for a health profession, or a code or guideline approved by a National Board, is admissible in proceedings under this Law or a law of a co‑regulatory jurisdiction against a health practitioner registered in a health profession for which the Board is established as evidence of what constitutes appropriate professional conduct or practice for the health profession.
 Part 6—Accreditation
 Division 1—Preliminary
 42—Definition
@@ -612,7 +612,7 @@ Division 3—Accreditation functions
 (5) An education provider given a notice under subsection (3) may apply, as stated in the notice, for an internal review of the accreditation authority's decision to refuse to accredit the program of study.
 (6) The internal review must not be carried out by a person who assessed the program of study for the accreditation authority.
 49—Approval of accredited programs of study
-(1) If a National Board is given a report by an accreditation authority about the authority's accreditation of a program of study, the Board may approve, or refuse to approve, the accredited program of study as providing a qualification for the purposes of registration in the health profession for which the Board is established.
+(1) If a National Board is given a report by an accreditation authority about the authority's accreditation of a program of study, the Board may approve, or refuse to approve, the accredited program of study as providing a qualification for the purposes of registration in a health profession for which the Board is established.
 (2) An approval under subsection (1) may be granted subject to the conditions the National Board considers necessary or desirable in the circumstances.
 (3) If the National Board decides to approve the accredited program of study it must give written notice of the approval to—
 (a) the National Agency for inclusion of the program of study in the list under subsection (5); and
@@ -620,7 +620,7 @@ Division 3—Accreditation functions
 (4) If the National Board decides to refuse to approve the accredited program of study—
 (a) it must give written notice of the refusal, including the reasons for the refusal, to the accreditation authority that submitted the program; and
 (b) the accreditation authority is entitled to publish any information or advice it gave the Board about the program.
-(5) A list of the programs of study approved by a National Board as providing a qualification for registration in the health profession for which the Board is established must be published on the National Agency's website.
+(5) A list of the programs of study approved by a National Board as providing a qualification for registration in a health profession for which the Board is established must be published on the National Agency's website.
 (6) The list of approved programs of study published under subsection (5) must include, for each program of study, the name of the university, specialist medical or other college or other education provider that provides the approved program of study.
 (7) An approval under subsection (1) does not take effect until the program of study is included in the list published under subsection (5).
 50—Accreditation authority to monitor approved programs of study
@@ -632,7 +632,7 @@ Division 3—Accreditation functions
 (b) give the National Board that approved the accredited program of study written notice of the accreditation authority's decision.
 51—Changes to approval of program of study
 (1) If a National Board is given notice under section 50(2)(b) that an accreditation authority has revoked the accreditation of a program of study approved by the Board, the Board's approval of the program is taken to have been cancelled at the same time the accreditation was revoked.
-(2) If a National Board reasonably believes, because of a notice given to the Board under section 50(2)(b) or for any other reason, that an accredited program of study approved by the Board no longer provides a qualification for the purposes of registration in the health profession for which the Board is established, the Board may decide to—
+(2) If a National Board reasonably believes, because of a notice given to the Board under section 50(2)(b) or for any other reason, that an accredited program of study approved by the Board no longer provides a qualification for the purposes of registration in a health profession for which the Board is established, the Board may decide to—
 (a) impose the conditions the Board considers necessary or desirable on the approval of the accredited program of study to ensure the program provides a qualification for the purposes of registration; or
 (b) cancel its approval of the accredited program of study.
 (3) If a National Board makes a decision under subsection (2), it must give written notice of the decision, including the reasons for the decision, to the accreditation authority that accredited the program.
@@ -806,7 +806,7 @@ A National Board may decide an individual is not a suitable person to hold non�
 (b) expires at the end of the last day of the registration period.
 Division 6—Application for registration
 77—Application for registration
-(1) An individual may apply to a National Board for registration in the health profession for which the Board is established.
+(1) An individual may apply to a National Board for registration in a health profession for which the Board is established.
 (2) An application must—
 (a) be in the form approved by the National Board; and
 (b) be accompanied by the relevant fee; and
@@ -876,7 +876,7 @@ The National Board may ask an entity that issued qualifications that the applica
 (2) In this section—
 relevant section means section 52, 57, 62, 65 or 73.
 83—Conditions of registration
-(1) If a National Board decides to register a person in the health profession for which the Board is established, the registration is subject to any condition the Board considers necessary or desirable in the circumstances.
+(1) If a National Board decides to register a person in a health profession for which the Board is established, the registration is subject to any condition the Board considers necessary or desirable in the circumstances.
 Note—
 A failure by a registered health practitioner to comply with a condition of the practitioner's registration does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
 (2) If the National Board decides to register the person subject to a condition referred to in subsection (1), the Board must decide a review period for the condition.
@@ -907,7 +907,7 @@ particulars means particulars required to be included in the student register.
 (ii) the potential risk that contact may pose to members of the public.
 88—National Board may ask education provider for list of persons undertaking approved program of study
 (1) For the purposes of registering persons as required by section 87, a National Board may, at any time by written notice given to an education provider, ask the provider for the following—
-(a) the particulars of all persons who are undertaking an approved program of study for the health profession for which the Board is established;
+(a) the particulars of all persons who are undertaking an approved program of study for a health profession for which the Board is established;
 (b) the particulars of all persons who will be undertaking the part of the approved program of study specified in the notice.
 (2) An education provider given a notice under subsection (1) must not fail, without reasonable excuse, to comply with the notice.
 (3) A contravention of subsection (2) does not constitute an offence.
@@ -948,12 +948,12 @@ Subdivision 2—Other persons to be registered as students
 (a) starts when the student is registered under subsection (4); and
 (b) expires at the end of the day on which the person completes, or otherwise ceases to undertake, the period of clinical training.
 Subdivision 3—General provisions applicable to students
-92—Notice to be given if student registration suspended or condition imposed
+92—Notice to be given if student registration suspended or conditions imposed
 (1) This section applies if, at any time, any of the following events occurs—
 (a) a person's registration as a student under this Law is suspended;
 (b) a condition is imposed on a person's registration as a student under this Law or a condition to which a person's registration is subject is changed or removed;
 (c) a National Board accepts an undertaking from a person who is a student.
-(2) The National Board that registered the person must, as soon as practicable after the event occurs, give written notice of the event to the education provider with which the person is undertaking the approved program of study.
+(2) The National Board established for the person's health profession must, as soon as practicable after the event occurs, give written notice of the event to the education provider with which the person is undertaking the approved program of study.
 (3) If an education provider is given a notice under subsection (2) about a person, the education provider must, as soon as practicable after receiving the notice, give notice of the event to any entity with whom the person is undertaking training as part of the approved program of study.
 93—Report to National Board of cessation of status as student
 (1) This section applies if—
@@ -967,7 +967,7 @@ Subdivision 3—General provisions applicable to students
 Division 8—Endorsement of registration
 Subdivision 1—Endorsement in relation to scheduled medicines
 94—Endorsement for scheduled medicines
-(1) A National Board may, in accordance with an approval given by the Ministerial Council under section 14, endorse the registration of a registered health practitioner registered by the Board as being qualified to administer, obtain, possess, prescribe, sell, supply or use a scheduled medicine or class of scheduled medicines if the practitioner—
+(1) A National Board may, in accordance with an approval given by the Ministerial Council under section 14, endorse the registration of a registered health practitioner registered in a health profession for which the Board is established as being qualified to administer, obtain, possess, prescribe, sell, supply or use a scheduled medicine or class of scheduled medicines if the practitioner—
 (a) holds either of the following qualifications relevant to the endorsement—
 (i) an approved qualification;
 (ii) another qualification that, in the Board's opinion, is substantially equivalent to, or based on similar competencies to, an approved qualification; and
@@ -981,7 +981,7 @@ Health practitioners registered in certain health professions will be authorised
 (c) if the endorsement is for a limited period, the date the endorsement expires.
 Subdivision 2—Endorsement in relation to nurse practitioners
 95—Endorsement as nurse practitioner
-(1) The Nursing and Midwifery Board of Australia may endorse the registration of a registered health practitioner whose name is included in the Register of Nurses as being qualified to practise as a nurse practitioner if the practitioner—
+(1) The National Board for the nursing profession may endorse the registration of a registered health practitioner whose name is included in the Register of Nurses as being qualified to practise as a nurse practitioner if the practitioner—
 (a) holds either of the following qualifications relevant to the endorsement—
 (i) an approved qualification;
 (ii) another qualification that, in the Board's opinion, is substantially equivalent to, or based on similar competencies to, an approved qualification; and
@@ -991,7 +991,7 @@ Subdivision 2—Endorsement in relation to nurse practitioners
 (b) any conditions applicable to the practice by the registered health practitioner as a nurse practitioner.
 Subdivision 3—Endorsement in relation to midwife practitioners
 96—Endorsement as midwife practitioner
-(1) The Nursing and Midwifery Board of Australia may endorse the registration of a registered health practitioner whose name is included in the Register of Midwives as being qualified to practise as a midwife practitioner if the practitioner—
+(1) The National Board for the midwifery profession may endorse the registration of a registered health practitioner whose name is included in the Register of Midwives as being qualified to practise as a midwife practitioner if the practitioner—
 (a) holds either of the following qualifications relevant to the endorsement—
 (i) an approved qualification;
 (ii) another qualification that, in the Board's opinion, is substantially equivalent to, or based on similar competencies to, an approved qualification; and
@@ -1001,7 +1001,7 @@ Subdivision 3—Endorsement in relation to midwife practitioners
 (b) any conditions applicable to the practice by the registered health practitioner as a midwife practitioner.
 Subdivision 4—Endorsement in relation to acupuncture
 97—Endorsement for acupuncture
-(1) A National Board may endorse the registration of a registered health practitioner registered by the Board as being qualified to practise as an acupuncturist if the practitioner—
+(1) A National Board may endorse the registration of a registered health practitioner registered in a health profession for which the Board is established as being qualified to practise as an acupuncturist if the practitioner—
 (a) holds either of the following qualifications relevant to the endorsement—
 (i) an approved qualification;
 (ii) another qualification that, in the Board's opinion, is substantially equivalent to, or based on similar competencies to, an approved qualification; and
@@ -1011,7 +1011,7 @@ Subdivision 4—Endorsement in relation to acupuncture
 (b) any conditions applicable to the practice of acupuncture by the registered health practitioner.
 Subdivision 5—Endorsements in relation to approved areas of practice
 98—Endorsement for approved area of practice
-(1) A National Board established for a health profession may, in accordance with an approval given by the Ministerial Council under section 15, endorse the registration of a registered health practitioner registered by the Board as being qualified to practise in an approved area of practice for the health profession if the practitioner—
+(1) A National Board established for a health profession may, in accordance with an approval given by the Ministerial Council under section 15, endorse the registration of a registered health practitioner registered in a health profession for which the Board is established as being qualified to practise in an approved area of practice for the health profession if the practitioner—
 (a) holds either of the following qualifications relevant to the endorsement—
 (i) an approved qualification;
 (ii) another qualification that, in the Board's opinion, is substantially equivalent to, or based on similar competencies to, an approved qualification; and
@@ -1073,7 +1073,7 @@ If a National Board decides to endorse a registered health practitioner's regist
 If a National Board fails to decide an application for endorsement within 90 days after its receipt, or the longer period agreed between the Board and the applicant, the failure by the Board to make a decision is taken to be a decision to refuse to endorse the applicant's registration.
 Division 9—Renewal of registration
 107—Application for renewal of registration or endorsement
-(1) A registered health practitioner may apply to the National Board that registered the practitioner for renewal of the health practitioner's registration.
+(1) A registered health practitioner may apply to the National Board established for the practitioner's health profession for renewal of the health practitioner's registration.
 (2) An application for renewal of a registered health practitioner's registration must be made not later than one month after the practitioner's period of registration ends.
 (3) If the registered health practitioner's registration has been endorsed by the National Board, the application for renewal of the practitioner's registration is taken to also be an application for a renewal of the endorsement.
 (4) The application for renewal of registration must—
@@ -1160,10 +1160,12 @@ Chiropractic │ chiropractor │
 Dental │ dentist, dental therapist, dental hygienist, dental prosthetist, oral health therapist │
 Medical │ medical practitioner │
 Medical Radiation Practice │ medical radiation practitioner, diagnostic radiographer, medical imaging technologist, radiographer, nuclear medicine scientist, nuclear medicine technologist, radiation therapist │
-Nursing and Midwifery │ nurse, registered nurse, nurse practitioner, enrolled nurse, midwife, midwife practitioner │
+Midwifery │ midwife, midwife practitioner │
+Nursing │ nurse, registered nurse, nurse practitioner, enrolled nurse │
 Occupational Therapy │ occupational therapist │
 Optometry │ optometrist, optician │
 Osteopathy │ osteopath │
+Paramedicine │ paramedic │
 Pharmacy │ pharmacist, pharmaceutical chemist │
 Physiotherapy │ physiotherapist, physical therapist │
 Podiatry │ podiatrist, chiropodist │
@@ -1266,23 +1268,6 @@ A contravention of this subsection by a registered health practitioner may also 
 120—Registered health practitioner registered on conditions
 (1) A registered health practitioner who is registered on conditions must not knowingly or recklessly claim, or hold himself or herself out, to be registered without the conditions or any conditions.
 (2) A contravention of subsection (1) by a registered health practitioner does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
-120A—Use of title "paramedic"
-(1) Subject to this section, a person must not knowingly or recklessly—
-(a) take or use the title of "paramedic", whether with or without any other words; or
-(b) take or use a title, name, word or description that, having regard to the circumstances in which it is taken or used, indicates or could be reasonably understood to indicate the person is a paramedic,
-unless the person holds qualifications prescribed by regulations made by the Governor under the Act for the purposes of this section.
-Maximum penalty: $30 000.
-(2) For the purposes of subsection (1)(b), a paramedic is a health professional who provides emergency medical assessment, treatment and care in the pre‑hospital, or out‑of‑hospital, environment.
-(3) Subsection (1) applies to a person while he or she is practising in South Australia.
-(4) The Minister may, by notice in the Gazette, confer exemptions from this section—
-(a) on a specified person or specified classes of persons; or
-(b) in specified circumstances or specified classes of circumstances.
-(5) An exemption under subsection (4) may be granted by the Minister on such conditions as the Minister thinks fit.
-(6) The Minister may, at any time, by further notice in the Gazette—
-(a) vary or revoke an exemption; or
-(b) vary or revoke a condition of an exemption.
-(7) A person must not contravene or fail to comply with a condition of an exemption.
-Maximum penalty: $30 000.
 Subdivision 2—Practice protections
 121—Restricted dental acts
 (1) A person must not carry out a restricted dental act unless the person—
@@ -1335,21 +1320,21 @@ manipulation of the cervical spine means moving the joints of the cervical spine
 (a) is a medical practitioner; or
 (b) is a midwife; or
 (c) is a student who carries out the restricted birthing practice in the course of activities undertaken as part of—
-(i) an approved program of study for the medical profession or the nursing and midwifery profession; or
-(ii) clinical training in the medical profession or the nursing and midwifery profession; or
+(i) an approved program of study for the medical profession or the midwifery profession; or
+(ii) clinical training in the medical profession or the midwifery profession; or
 (d) is acting under the supervision of a medical practitioner or midwife and is acting in accordance with any standards, codes or guidelines issued by the National Board established for the relevant profession; or
-(e) without limiting a preceding paragraph—is acting under a form of delegated authority transferred or conferred by a midwife that is recognised by the Nursing and Midwifery Board of Australia and is made in accordance with any standards, codes or guidelines issued by that National Board; or
+(e) without limiting a preceding paragraph—is acting under a form of delegated authority transferred or conferred by a midwife that is recognised by the National Board established for the midwifery profession and is made in accordance with any standards, codes or guidelines issued by that National Board; or
 (f) is rendering assistance to a woman who is in labour or giving birth to a child, or who has given birth to a child, where the assistance is provided in an emergency.
 Maximum penalty: $30 000 or imprisonment for 12 months.
 (2) In this section—
-midwife means a person who is registered under this Law in the nursing and midwifery profession and in the register of midwives kept for that profession;
-restricted birthing practice means an act that involves undertaking the care of a woman by managing the 3 stages (or any part of these stages) of labour or child birth and, for the purposes of this definition, the Minister may from time to time, on the joint advice of the Medical Board of Australia and the Nursing and Midwifery Board of Australia, by notice in the Gazette, specify activities that will be conclusively taken to constitute the management of any part of 1 or more of these stages of labour or child birth.
+midwife means a person registered under this Law in the midwifery profession;
+restricted birthing practice means an act that involves undertaking the care of a woman by managing the 3 stages (or any part of these stages) of labour or child birth and, for the purposes of this definition, the Minister may from time to time, on the joint advice of the Medical Board of Australia and the National Board established for the midwifery profession, by notice in the Gazette, specify activities that will be conclusively taken to constitute the management of any part of 1 or more of these stages of labour or child birth.
 Division 11—Miscellaneous
 Subdivision 1—Certificates of registration
 124—Issue of certificate of registration
 (1) This section applies if—
-(a) a National Board decides to register an individual in the health profession for which the Board is established; or
-(b) a National Board decides to renew an individual's registration in the health profession for which the Board is established; or
+(a) a National Board decides to register an individual in a health profession for which the Board is established; or
+(b) a National Board decides to renew an individual's registration in a health profession for which the Board is established; or
 (c) a National Board or an adjudication body decides to impose, change or remove a condition on a registered health practitioner's registration or otherwise change the practitioner's registration in a material way; or
 (d) a National Board or an adjudication body decides to accept an undertaking from a registered health practitioner or to change or revoke an undertaking given by the practitioner; or
 (e) a National Board decides to endorse a health practitioner's registration.
@@ -1365,7 +1350,7 @@ Subdivision 1—Certificates of registration
 (h) any other information the Board considers appropriate.
 Subdivision 2—Review of conditions and undertakings
 125—Changing or removing conditions or undertaking on application by registered health practitioner or student
-(1) A registered health practitioner or student may apply to a National Board that registered the practitioner or student—
+(1) A registered health practitioner or student may apply to a National Board established for the practitioner's or student's health profession—
 (a) for a registered health practitioner—
 (i) to change or remove a condition imposed on the practitioner's registration or endorsement; or
 (ii) to change or revoke an undertaking given by the practitioner; or
@@ -1389,7 +1374,7 @@ Subdivision 2—Review of conditions and undertakings
 (b) that the registered health practitioner or student may appeal against the decision; and
 (c) how an application for appeal may be made and the period within which the application must be made.
 126—Changing conditions on Board's initiative
-(1) This section applies if a National Board reasonably believes it is necessary to change a condition imposed on the registration of a registered health practitioner or student registered by the Board.
+(1) This section applies if a National Board reasonably believes it is necessary to change a condition imposed on the registration of a registered health practitioner or student registered in a health profession for which the Board is established.
 (2) The National Board must give the registered health practitioner or student a written notice stating—
 (a) that the Board proposes to change the condition; and
 (b) how the Board proposes to change the condition; and
@@ -1410,8 +1395,8 @@ Subdivision 2—Review of conditions and undertakings
 (c) how an application for appeal may be made and the period within which the application must be made.
 127—Removal of condition or revocation of undertaking
 (1) This section applies if a National Board reasonably believes—
-(a) that a condition imposed on the registration of a registered health practitioner or student registered by the Board is no longer necessary; or
-(b) that an undertaking given to the Board by a health practitioner or student registered by the Board is no longer necessary.
+(a) that a condition imposed on the registration of a registered health practitioner or student registered in a health profession for which the Board is established is no longer necessary; or
+(b) that an undertaking given to the Board by a health practitioner or student registered in a health profession for which the Board is established is no longer necessary.
 (2) The National Board may decide to remove the condition or revoke the undertaking.
 (3) However, the condition or undertaking may not be removed or revoked—
 (a) during a review period applying to the condition or undertaking, unless the National Board reasonably believes there has been a material change in the registered health practitioner's or student's circumstances; or
@@ -1437,13 +1422,13 @@ Subdivision 3—Obligations of registered health practitioners and students
 registered health practitioner does not include a registered health practitioner who holds non-practising registration in the profession.
 129—Professional indemnity insurance arrangements
 (1) A registered health practitioner must not practise the health profession in which the practitioner is registered unless appropriate professional indemnity insurance arrangements are in force in relation to the practitioner's practice of the profession.
-(2) A National Board may, at any time by written notice, require a registered health practitioner registered by the Board to give the Board evidence of the appropriate professional indemnity insurance arrangements that are in force in relation to the practitioner's practice of the profession.
+(2) A National Board may, at any time by written notice, require a registered health practitioner registered in a health profession for which the Board is established to give the Board evidence of the appropriate professional indemnity insurance arrangements that are in force in relation to the practitioner's practice of the profession.
 (3) A registered health practitioner must not, without reasonable excuse, fail to comply with a written notice given to the practitioner under subsection (2).
 (4) A contravention of subsection (1) or (3) by a registered health practitioner does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
 (5) In this section—
 registered health practitioner does not include a registered health practitioner who holds non-practising registration in the profession.
 130—Registered health practitioner or student to give National Board notice of certain events
-(1) A registered health practitioner or student must, within 7 days after becoming aware that a relevant event has occurred in relation to the practitioner or student, give the National Board that registered the practitioner or student written notice of the event.
+(1) A registered health practitioner or student must, within 7 days after becoming aware that a relevant event has occurred in relation to the practitioner or student, give the National Board established for the practitioner's or student's health profession written notice of the event.
 (2) A contravention of subsection (1) by a registered health practitioner or student does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
 (3) In this section—
 relevant event means—
@@ -1461,7 +1446,7 @@ relevant event means—
 (ii) the student is convicted of or the subject of a finding of guilt for an offence punishable by imprisonment; or
 (iii) the student's registration under the law of another country that provides for the registration of students has been suspended or cancelled.
 131—Change in principal place of practice, address or name
-(1) A registered health practitioner must, within 30 days of any of the following changes happening, give the National Board that registered the practitioner written notice of the change and any evidence providing proof of the change required by the Board—
+(1) A registered health practitioner must, within 30 days of any of the following changes happening, give the National Board established for the practitioner's health profession written notice of the change and any evidence providing proof of the change required by the Board—
 (a) a change in the practitioner's principal place of practice;
 (b) a change in the address provided by the registered health practitioner as the address the Board should use in corresponding with the practitioner;
 (c) a change in the practitioner's name.
@@ -1526,7 +1511,7 @@ Maximum penalty:
 (b) in the case of a body corporate—$60 000.
 (2) Subsection (1) does not apply to a person who is the owner or operator of a public health facility.
 137—Surrender of registration
-(1) A registered health practitioner may, by written notice given to the National Board that registered the practitioner, surrender the practitioner's registration.
+(1) A registered health practitioner may, by written notice given to the National Board established for the practitioner's health profession, surrender the practitioner's registration.
 (2) The surrender of the registration takes effect on—
 (a) the day the National Board receives the notice under subsection (1); or
 (b) the later day stated in the notice.
@@ -1580,7 +1565,7 @@ See section 237 which provides protection from civil, criminal and administrativ
 (4) In this section—
 employer, of a registered health practitioner, means an entity that employs the health practitioner under a contract of employment or a contract for services.
 licensing authority, of an employer, means an entity that under a law of a participating jurisdiction is responsible for licensing, registering or authorising the employer to conduct the employer's business.
-143—Mandatory notifications by education providers
+143—Mandatory notification by education providers
 (1) An education provider must notify the National Agency if the provider reasonably believes—
 (a) a student enrolled in a program of study provided by the provider has an impairment that, in the course of the student undertaking clinical training as part of the program of study, may place the public at substantial risk of harm; or
 (b) a student for whom the education provider has arranged clinical training has an impairment that, in the course of the student undertaking the clinical training, may place the public at substantial risk of harm.
@@ -1588,7 +1573,7 @@ Note—
 See section 237 which provides protection from civil, criminal and administrative liability for persons who make a notification under this Law. Section 237(3) provides that the making of a notification does not constitute a breach of professional etiquette or ethics or a departure from accepted standards of professional conduct and nor is any liability for defamation incurred.
 (2) A contravention of subsection (1) does not constitute an offence.
 (3) However, if an education provider does not comply with subsection (1)—
-(a) the National Board that registered the student must publish details of the failure on the Board's website; and
+(a) the National Board established for the student's health profession must publish details of the failure on the Board's website; and
 (b) the National Agency may, on the recommendation of the National Board, include a statement about the failure in the Agency's annual report.
 Division 3—Voluntary notifications
 144—Grounds for voluntary notification
@@ -1622,7 +1607,7 @@ Division 4—Making a notification
 (b) the entity needs assistance to clarify the nature of the individual's notification.
 Division 5—Preliminary assessment
 148—Referral of notification to National Board or co‑regulatory authority
-(1) Subject to subsections (2) and (3), the National Agency must, as soon as practicable after receiving a notification about a registered health practitioner or a student, refer the notification to the National Board that registered the health practitioner or student.
+(1) Subject to subsections (2) and (3), the National Agency must, as soon as practicable after receiving a notification about a registered health practitioner or a student, refer the notification to the National Board established for the practitioner's or student's health profession.
 (2) If the behaviour that is the basis for the ground for the notification occurred, or is reasonably believed to have occurred, in a co‑regulatory jurisdiction, the National Agency—
 (a) must not deal with the notification; and
 (b) must, as soon as practicable after receiving the notification, refer the notification to the co‑regulatory authority for the co‑regulatory jurisdiction.
@@ -1631,7 +1616,7 @@ Division 5—Preliminary assessment
 (b) otherwise, refer the notification under subsection (1).
 149—Preliminary assessment
 (1) A National Board must, within 60 days after receipt of a notification, conduct a preliminary assessment of the notification and decide—
-(a) whether or not the notification relates to a person who is a health practitioner or a student registered by the Board; and
+(a) whether or not the notification relates to a person who is a health practitioner or a student registered in a health profession for which the Board is established; and
 (b) whether or not the notification relates to a matter that is a ground for notification; and
 (c) if the notification is a notification referred to in paragraphs (a) and (b), whether or not it is a notification that could also be made to a health complaints entity.
 (2) Without limiting subsection (1)(b), the National Board may decide the notification relates to a matter that is a ground for notification under section 144 on the basis of—
@@ -1639,7 +1624,7 @@ Division 5—Preliminary assessment
 (b) a number of notifications about a person including—
 (i) a number of notifications that suggest a pattern of conduct; and
 (ii) notifications made to a health complaints entity.
-(3) If the National Board decides the notification relates to a person who is not registered by the Board but the Board reasonably suspects the person is registered by another National Board, the Board must refer the notification to that other Board.
+(3) If the National Board decides the notification relates to a person who is not registered in a health profession for which the Board is established but the Board reasonably suspects the person is registered in a health profession for which another National Board is established, the Board must refer the notification to that other Board.
 150—Relationship with health complaints entity
 (1) If the subject matter of a notification would also provide a ground for a complaint to a health complaints entity under a law of a participating jurisdiction, the National Board that received the notification must, as soon as practicable after its receipt—
 (a) notify the health complaints entity that the Board has received the notification; and
@@ -1655,9 +1640,9 @@ Division 5—Preliminary assessment
 (a) whether the Board is to deal with the notification or complaint, or part of the notification or complaint, or to decide to take no further action in relation to it; and
 (b) if the Board is to deal with the notification or complaint or part of the notification or complaint, the action the Board is to take.
 (4) If the National Board and the health complaints entity are not able to reach agreement on how the notification or complaint, or part of the notification or complaint, is to be dealt with, the most serious action proposed by either must be taken.
-(5) If an investigation, conciliation or other action taken by a health complaints entity raises issues about the health, conduct or performance of a registered health practitioner, the health complaints entity must give the National Board that registered the practitioner written notice of the issues.
+(5) If an investigation, conciliation or other action taken by a health complaints entity raises issues about the health, conduct or performance of a registered health practitioner, the health complaints entity must give the National Board established for the practitioner's health profession written notice of the issues.
 (6) If a notification, or part of a notification, received by a National Board is referred to a health complaints entity, the Board may decide to take no further action in relation to the notification or the part of the notification until the entity gives the Board written notice that the entity has finished dealing with it.
-(7) If a National Board or an adjudication body takes health, conduct or performance action in relation to a registered health practitioner, the Board that registered the practitioner must give written notice of the action to the health complaints entity for the participating jurisdiction in which the behaviour that provided the basis for the action occurred.
+(7) If a National Board or an adjudication body takes health, conduct or performance action in relation to a registered health practitioner, the Board established for the practitioner's health profession must give written notice of the action to the health complaints entity for the participating jurisdiction in which the behaviour that provided the basis for the action occurred.
 (8) A written notice under subsection (5) or (7) must include—
 (a) sufficient particulars to identify the registered health practitioner; and
 (b) details of—
@@ -1667,7 +1652,7 @@ Division 5—Preliminary assessment
 (1) A National Board may decide to take no further action in relation to a notification if—
 (a) the Board reasonably believes the notification is frivolous, vexatious, misconceived or lacking in substance; or
 (b) given the amount of time that has elapsed since the matter the subject of the notification occurred, it is not practicable for the Board to investigate or otherwise deal with the notification; or
-(c) the person to whom the notification relates has not been, or is no longer, registered by the Board and it is not in the public interest for the Board to investigate or otherwise deal with the notification; or
+(c) the person to whom the notification relates has not been, or is no longer, registered in a health profession for which the Board is established and it is not in the public interest for the Board to investigate or otherwise deal with the notification; or
 (d) the subject matter of the notification has already been dealt with adequately by the Board; or
 (e) the subject matter of the notification—
 (i) is being dealt with, or has already been dealt with, by another entity; or
@@ -1704,7 +1689,7 @@ immediate action, in relation to a registered health practitioner or student, me
 (d) if immediate action has previously been taken suspending a health practitioner's or student's registration—the revocation of the suspension and the imposition of a condition on the registration; or
 (e) if immediate action has previously been taken imposing a condition on a health practitioner's or student's registration—the suspension of the registration instead of the condition.
 156—Power to take immediate action
-(1) A National Board may take immediate action in relation to a registered health practitioner or student registered by the Board if—
+(1) A National Board may take immediate action in relation to a registered health practitioner or student registered in a health profession for which the Board is established if—
 (a) the National Board reasonably believes that—
 (i) because of the registered health practitioner's conduct, performance or health, the practitioner poses a serious risk to persons; and
 (ii) it is necessary to take immediate action to protect public health or safety; or
@@ -1750,7 +1735,7 @@ A registered health practitioner is charged with a serious criminal offence, unr
 Division 8—Investigations
 Subdivision 1—Preliminary
 160—When investigation may be conducted
-(1) A National Board may investigate a registered health practitioner or student registered by the Board if it decides it is necessary or appropriate—
+(1) A National Board may investigate a registered health practitioner or student registered in a health profession for which the Board is established if it decides it is necessary or appropriate—
 (a) because the Board has received a notification about the practitioner or student; or
 (b) because the Board for any other reason believes—
 (i) the practitioner or student has or may have an impairment; or
@@ -1827,7 +1812,9 @@ A National Board may require a registered health practitioner to undergo a perfo
 (1) If the National Board requires a registered health practitioner or student to undergo an assessment, the National Agency must appoint an assessor chosen by the Board to carry out the assessment.
 (2) The assessor must be—
 (a) for a health assessment, a medical practitioner or psychologist who is not a member of the National Board; or
-(b) for a performance assessment, a registered health practitioner who is a member of the health profession for which the National Board is established but is not a member of the Board.
+(b) for a performance assessment, a registered health practitioner who—
+(i) is a member of the same health profession as the registered health practitioner or student undergoing assessment; but
+(ii) is not a member of the National Board established for that profession.
 (3) The assessor may ask another health practitioner to assist the assessor in carrying out the assessment of the registered health practitioner or student.
 (4) The assessor's fee for carrying out the assessment is to be paid out of the National Board's budget.
 172—Notice to be given to registered health practitioner or student about assessment
@@ -1864,15 +1851,15 @@ After considering the assessor's report and the discussions held with the regist
 (a) take the action the Board considers necessary or appropriate under another Division; or
 (b) refer the matter to another entity, including, for example, a health complaints entity, for investigation or other action; or
 (c) take no further action in relation to the matter.
-177A—Board may give information to notifier about decision following assessor’s report
+177A—Board may give information to notifier about decision following assessor's report
 (1) This section applies if a notification about a registered health practitioner or student results in a decision by a National Board under section 177 in relation to the practitioner or student.
 (2) After making the decision, the National Board may inform the notifier who made the notification of the decision and the reasons for the decision.
 Division 10—Action by National Board
 178—National Board may take action
 (1) This section applies if—
 (a) a National Board reasonably believes, because of a notification or for any other reason—
-(i) the way a registered health practitioner registered by the Board practises the health profession, or the practitioner's professional conduct, is or may be unsatisfactory; or
-(ii) a registered health practitioner or student registered by the Board has or may have an impairment; or
+(i) the way a registered health practitioner registered in a health profession for which the Board is established practises the health profession, or the practitioner's professional conduct, is or may be unsatisfactory; or
+(ii) a registered health practitioner or student registered in a health profession for which the Board is established has or may have an impairment; or
 (iii) a student has been charged with an offence, or has been convicted or found guilty of an offence, that is punishable by 12 months imprisonment or more; or
 (iv) a student has or may have contravened a condition of the student's registration or an undertaking given by the student to a National Board; and
 (b) the matter is not required to be referred to a responsible tribunal under section 193; and
@@ -1915,12 +1902,12 @@ Division 11—Panels
 (b) the Board decides it is necessary or appropriate for the matter to be referred to a panel.
 (1A) Also, a National Board must establish a health panel if the suspension of a practitioner's or student's registration is to be reconsidered under section 191(4A) or 191A(2)(c).
 (2) A health panel must consist of the following members chosen from a list referred to in section 183—
-(a) at least one member who is a registered health practitioner in the health profession for which the Board is established;
+(a) at least one member who is a registered health practitioner in the same health profession as the registered health practitioner or student the subject of the hearing;
 (b) at least one member who is a medical practitioner with expertise relevant to the matter the subject of the hearing;
-(c) at least one member who is not, and has not been, a registered health practitioner in the health profession for which the Board has been established.
+(c) at least one member who is not, and has not been, a registered health practitioner in the same health profession as the registered health practitioner or student the subject of the hearing.
 (3) In choosing members of the panel, the National Board must, if possible, choose a member from the jurisdiction in which the matter the subject of the hearing occurred.
-(4) No more than half of the members of the panel may be registered health practitioners in the health profession for which the Board is established.
-(5) However, if the registered health practitioner the subject of the hearing is a medical practitioner, a member of the panel referred to in subsection (2)(b) is not to be considered to be registered in the health profession for which the Board is established for the purposes of subsection (4).
+(4) No more than half of the members of the panel may be registered health practitioners in the same health profession as the registered health practitioner or student the subject of the hearing.
+(5) However, for subsection (4), if the subject of the hearing is a registered health practitioner who is a medical practitioner, a member of the panel referred to in subsection (2)(b) is not to be considered to be registered in the same health profession as the registered health practitioner the subject of the hearing.
 (6) A person cannot be appointed to the panel if the person has been involved in any proceedings relating to the matter the subject of the hearing by the panel.
 182—Establishment of performance and professional standards panel
 (1) A National Board may establish a performance and professional standards panel if—
@@ -1930,7 +1917,9 @@ Division 11—Panels
 (b) the Board decides it is necessary or appropriate for the matter to be referred to a panel.
 (2) A performance and professional standards panel must consist of at least 3 members.
 (3) In choosing members of the panel, the National Board must, if possible, choose a member from the jurisdiction in which the matter the subject of the hearing occurred.
-(4) At least half, but no more than two-thirds, of the members of the panel must be persons who are registered health practitioners in the health profession for which the Board is established, and chosen from a list approved under section 183.
+(4) At least half, but no more than two-thirds, of the members of the panel must be persons who are—
+(a) registered health practitioners in the same health profession as the registered health practitioner the subject of the hearing; and
+(b) chosen from a list approved under section 183.
 (5) At least one member must be a person who represents the community and chosen from a list approved under section 183.
 (6) A person may not be appointed to the panel if the person has been involved in any proceedings relating to the matter the subject of the hearing by the panel.
 183—List of approved persons for appointment to panels
@@ -2018,7 +2007,7 @@ A panel must stop hearing a matter and require the National Board that establish
 (b) the panel is reasonably satisfied an earlier reconsideration date is necessary because of the change in circumstances.
 (3) For subsection (2), the panel must give the practitioner or student written notice of—
 (a) if the panel decides an earlier reconsideration date—the earlier date; or
-(b) if the panel decides to refuse the request for an earlier reconsideration date—the panel’s decision and the reasons for the decision.
+(b) if the panel decides to refuse the request for an earlier reconsideration date—the panel's decision and the reasons for the decision.
 (4) The panel may decide a later reconsideration date if the panel is reasonably satisfied it is necessary to enable the panel to reconsider the suspension.
 Examples of when the panel may be reasonably satisfied a later reconsideration date may be decided—
 (a) the health practitioner or student is required for a hearing and cannot attend because of illness;
@@ -2063,7 +2052,7 @@ The responsible tribunal may make any order about costs it considers appropriate
 (ii) the practitioner has behaved in a way that constitutes unprofessional conduct;
 (iii) the practitioner has behaved in a way that constitutes professional misconduct;
 (iv) the practitioner has an impairment;
-(v) the practitioner's registration was improperly obtained because the practitioner or someone else gave the National Board that registered the practitioner information or a document that was false or misleading in a material particular.
+(v) the practitioner's registration was improperly obtained because the practitioner or someone else gave the National Board established for the practitioner's health profession information or a document that was false or misleading in a material particular.
 (2) If a responsible tribunal makes a decision referred to in subsection (1)(b), the tribunal may decide to do one or more of the following—
 (a) caution or reprimand the practitioner;
 (b) impose a condition on the practitioner's registration, including, for example—
@@ -2218,14 +2207,26 @@ Part 9—Finance
 (a) ensure that its operations are carried out efficiently, effectively and economically; and
 (b) take any action necessary to ensure that the National Agency is able to comply with this section in relation to the funding of the National Board in exercising its functions.
 Part 10—Information and privacy
+Division 1A—Australian Information Commissioner
+212A—Application of Commonwealth AIC Act
+(1) The AIC Act applies as a law of a participating jurisdiction for the purposes of the national registration and accreditation scheme.
+(2) For the purposes of subsection (1), the AIC Act applies—
+(a) as if a reference to the Office of the Australian Information Commissioner were a reference to the Office of the National Health Practitioner Privacy Commissioner; and
+(b) as if a reference to the Information Commissioner were a reference to the National Health Practitioner Privacy Commissioner; and
+(c) with any other modifications made by the regulations.
+(3) Without limiting subsection (2)(c), the regulations may—
+(a) provide that the AIC Act applies under subsection (1) as if a provision of the AIC Act specified in the regulations were omitted; or
+(b) provide that the AIC Act applies under subsection (1) as if an amendment to the AIC Act made by a law of the Commonwealth, and specified in the regulations, had not taken effect; or
+(c) confer jurisdiction on a tribunal or court of a participating jurisdiction.
+(4) In this section—
+AIC Act means the Australian Information Commissioner Act 2010 of the Commonwealth, as in force from time to time.
 Division 1—Privacy
 213—Application of Commonwealth Privacy Act
 (1) The Privacy Act applies as a law of a participating jurisdiction for the purposes of the national registration and accreditation scheme.
 (2) For the purposes of subsection (1), the Privacy Act applies—
-(a) as if a reference to the Office of the Privacy Commissioner were a reference to the Office of the National Health Practitioners Privacy Commissioner; and
-(b) as if a reference to the Privacy Commissioner were a reference to the National Health Practitioners Privacy Commissioner; and
-(c) with any other modifications made by the regulations.
-(3) Without limiting subsection (2)(c), the regulations may—
+(a) as if a reference to the Commissioner were a reference to the National Health Practitioner Privacy Commissioner; and
+(b) with any other modifications made by the regulations.
+(3) Without limiting subsection (2)(b), the regulations may—
 (a) provide that the Privacy Act applies under subsection (1) as if a provision of the Privacy Act specified in the regulations were omitted; or
 (b) provide that the Privacy Act applies under subsection (1) as if an amendment to the Privacy Act made by a law of the Commonwealth, and specified in the regulations, had not taken effect; or
 (c) confer jurisdiction on a tribunal or court of a participating jurisdiction.
@@ -2237,8 +2238,11 @@ In this Division—
 protected information means information that comes to a person's knowledge in the course of, or because of, the person exercising functions under this Law.
 215—Application of Commonwealth FOI Act
 (1) The FOI Act applies as a law of a participating jurisdiction for the purposes of the national registration and accreditation scheme.
-(2) The regulations under this Law may modify the FOI Act for the purposes of this Law.
-(3) Without limiting subsection (2), the regulations may—
+(2) For the purposes of subsection (1), the FOI Act applies—
+(a) as if a reference to the Office of the Australian Information Commissioner were a reference to the Office of the National Health Practitioner Privacy Commissioner; and
+(b) as if a reference to the Information Commissioner were a reference to the National Health Practitioner Privacy Commissioner; and
+(c) with any other modifications made by the regulations.
+(3) Without limiting subsection (2)(c), the regulations may—
 (a) provide that the FOI Act applies under subsection (1) as if a provision of the FOI Act specified in the regulations were omitted; or
 (b) provide that the FOI Act applies under subsection (1) as if an amendment to the FOI Act made by a law of the Commonwealth, and specified in the regulations, had not taken effect; or
 (c) confer jurisdiction on a tribunal or court of a participating jurisdiction.
@@ -2262,7 +2266,7 @@ Maximum penalty:
 (h) the disclosure is otherwise authorised by the Ministerial Council.
 217—Disclosure of information for workforce planning
 (1) The Ministerial Council may, by written notice given to a National Board, ask the Board for information required by the Council for planning the workforce of health practitioners, or a class of practitioners, in Australia or a part of Australia.
-(2) If a National Board receives a request under subsection (1), the Board may, by written notice given to health practitioners registered by the Board, ask the practitioners for information relevant to the request.
+(2) If a National Board receives a request under subsection (1), the Board may, by written notice given to health practitioners registered in a health profession for which the Board is established, ask the practitioners for information relevant to the request.
 (3) A registered health practitioner who is asked to provide information under subsection (2) may, but is not required to, provide the information.
 (4) The National Board—
 (a) must give information received from a registered health practitioner to the Ministerial Council in a way that does not identify any registered health practitioner; and
@@ -2300,32 +2304,38 @@ information management agency means a Commonwealth, State or Territory agency th
 221—Disclosure to registration authorities
 A person exercising functions under this Law may disclose protected information to a registration authority if the disclosure is necessary for the authority to exercise its functions.
 Division 3—Registers in relation to registered health practitioner
-222—National Registers
-(1) Each of the following National Boards must, in conjunction with the National Agency—
-(a) keep the public national register listed beside that Board in the following Table that is to include the names of all health practitioners, other than specialist health practitioners, currently registered by the Board; and
-(b) if Divisions are listed beside the public national register in the Table, keep the register in a way that ensures it includes those Divisions.
-(2) In addition, each National Board must keep a public national register that is to include the names of all health practitioners, other than specialist health practitioners, who were registered by the Board and whose registration has been cancelled by an adjudication body.
+222—Public national registers
+(1) A public national register, with the name listed in column 1 of the following table, is to be kept for each health profession.
+(2) A public national register for a health profession is to include the names of all health practitioners (other than specialist health practitioners) currently registered in the profession.
+(3) If divisions are listed beside the public national register in column 2 of the table, the register is to be kept in a way that ensures it includes those divisions.
+(4) In addition, a public national register for a health profession is to include—
+(a) the names of all health practitioners (other than specialist health practitioners) whose registration has been cancelled by an adjudication body; and
+(b) the names of all persons (other than specialist health practitioners or persons who were previously specialist health practitioners) subject to a prohibition order.
+(5) A public national register required to be kept under this section is to be kept by the National Board prescribed by the regulations for the register, in conjunction with the National Agency.
 Table—Public national registers
-Name of Board │ Name of public national register │ Divisions of public national register │
-Aboriginal and Torres Strait Islander Health Practice Board of Australia │ Register of Aboriginal and Torres Strait Islander Health Practitioners │ │
-Chinese Medicine Board of Australia │ Register of Chinese Medicine Practitioners │ Acupuncturists, Chinese herbal medicine practitioners, Chinese herbal dispensers │
-Chiropractic Board of Australia │ Register of Chiropractors │ │
-Dental Board of Australia │ Register of Dental Practitioners │ Dentists, Dental therapists, Dental hygienists, Dental prosthetists, Oral health therapists │
-Medical Board of Australia │ Register of Medical Practitioners │ │
-Medical Radiation Practice Board of Australia │ Register of Medical Radiation Practitioners │ Diagnostic radiographers, Nuclear medicine technologists, Radiation therapists │
-Nursing and Midwifery Board of Australia │ Register of Nurses │ Registered nurses (Division 1), Enrolled nurses (Division 2) │
-│ Register of Midwives │ │
-Occupational Therapy Board of Australia │ Register of Occupational Therapists │ │
-Optometry Board of Australia │ Register of Optometrists │ │
-Osteopathy Board of Australia │ Register of Osteopaths │ │
-Pharmacy Board of Australia │ Register of Pharmacists │ │
-Physiotherapy Board of Australia │ Register of Physiotherapists │ │
-Podiatry Board of Australia │ Register of Podiatrists │ │
-Psychology Board of Australia │ Register of Psychologists │ │
+Name of public national register │ Divisions of public national register │
+Register of Aboriginal and Torres Strait Islander Health Practitioners │ │
+Register of Chinese Medicine Practitioners │ Acupuncturists, Chinese herbal medicine practitioners, Chinese herbal dispensers │
+Register of Chiropractors │ │
+Register of Dental Practitioners │ Dentists, Dental therapists, Dental hygienists, Dental prosthetists, Oral health therapists │
+Register of Medical Practitioners │ │
+Register of Medical Radiation Practitioners │ Diagnostic radiographers, Nuclear medicine technologists, Radiation therapists │
+Register of Midwives │ │
+Register of Nurses │ Registered nurses (Division 1), Enrolled nurses (Division 2) │
+Register of Occupational Therapists │ │
+Register of Optometrists │ │
+Register of Osteopaths │ │
+Register of Paramedics │ │
+Register of Pharmacists │ │
+Register of Physiotherapists │ │
+Register of Podiatrists │ │
+Register of Psychologists │ │
 223—Specialists Registers
 The National Board established for a health profession for which specialist recognition operates under this Law must, in conjunction with the National Agency, keep—
-(a) a public national specialists register that includes the names of all specialist health practitioners currently registered by the Board; and
-(b) a public national register that includes the names of all specialist health practitioners whose registration has been cancelled by an adjudication body.
+(a) a public national specialists register that includes the names of all specialist health practitioners currently registered in a health profession for which the Board is established; and
+(b) a public national register that includes the names of all—
+(i) specialist health practitioners whose registration has been cancelled by an adjudication body; and
+(ii) persons who are subject to a prohibition order.
 224—Way registers are to be kept
 Subject to this Division, a register a National Board is required to keep under this Division must be kept—
 (a) in a way that ensures it is up-to-date and accurate; and
@@ -2351,18 +2361,20 @@ A National Register or Specialists Register must include the following informati
 (o) if the practitioner has advised the National Board the practitioner fluently speaks a language other than English, details of the other language spoken;
 (p) any other information the National Board considers appropriate.
 226—National Board may decide not to include or to remove certain information in register
-(1) A National Board may decide that a condition imposed on a registered health practitioner's registration, or the details of an undertaking accepted from a registered health practitioner, because the practitioner has an impairment is not to be recorded in its National Register or Specialists Register if—
+(1) A National Board may decide that a condition imposed on a registered health practitioner's registration, or the details of an undertaking accepted from a registered health practitioner, because the practitioner has an impairment is not to be recorded in a National Register or Specialists Register in which the practitioner's name is included if—
 (a) it is necessary to protect the practitioner's privacy; and
 (b) there is no overriding public interest for the condition or the details of the undertaking to be recorded.
-(2) A National Board may decide that information relating to a registered health practitioner is not to be recorded in its National Register or Specialists Register if—
+(2) A National Board may decide that information relating to a registered health practitioner is not to be recorded in a National Register or Specialists Register in which the practitioner's name is included if—
 (a) the practitioner asks the Board not to include the information in the register; and
 (b) the Board reasonably believes the inclusion of the information in the register would present a serious risk to the health or safety of the practitioner.
-(3) A National Board may decide to remove information that a registered health practitioner has been reprimanded from the National Register or Specialists Register if it considers it is no longer necessary or appropriate for the information to be recorded on the Register.
+(3) A National Board may decide to remove information that a registered health practitioner has been reprimanded from a National Register or Specialists Register in which the practitioner's name is included if it considers it is no longer necessary or appropriate for the information to be recorded on the Register.
 227—Register about former registered health practitioners
-A register kept by a National Board under section 222(2) or 223(b) must include the following information for each health practitioner whose registration was cancelled by an adjudication body—
-(a) the fact that the practitioner's registration was cancelled by an adjudication body;
-(b) the grounds on which the practitioner's registration was cancelled;
-(c) if the adjudication body's hearing of the matter was open to the public, details of the conduct that formed the basis of the cancellation.
+A register kept by a National Board under section 222 or 223(b) must include the following—
+(a) for each health practitioner whose registration was cancelled by an adjudication body—
+(i) the fact the practitioner's registration was cancelled by an adjudication body; and
+(ii) the grounds on which the practitioner's registration was cancelled; and
+(iii) if the adjudication body's hearing was open to the public, details of the conduct that formed the basis of the adjudication;
+(b) for each person subject to a prohibition order, a copy of the order.
 228—Inspection of registers
 (1) The National Agency—
 (a) must keep each register kept by a National Board under this Division open for inspection, free of charge, by members of the public—
@@ -2404,14 +2416,14 @@ A National Board must keep a record of the following information for each health
 232—Record of adjudication decisions to be kept and made publicly available
 (1) A National Board is to keep and publish on its website a record of decisions made by—
 (a) panels established by the Board; and
-(b) responsible tribunals that relate to registered health practitioners or students registered by the Board.
+(b) responsible tribunals that relate to registered health practitioners or students registered in a health profession for which the Board is established.
 (2) The record is to be kept—
 (a) in a way that does not identify persons involved in the matter, unless the decision was made by a responsible tribunal and the hearing was open to the public; and
 (b) otherwise in the way decided by the National Board.
 Division 6—Unique identifier
 233—Unique identifier to be given to each registered health practitioner
 (1) This section applies if—
-(a) a National Board registers a person in the health profession for which the Board is established; and
+(a) a National Board registers a person in a health profession for which the Board is established; and
 (b) the person has not previously been registered by that Board or any other National Board.
 (2) The National Board must, at the time of registering the person, give the person an identifying number or code (a unique identifier) that is unique to the person.
 (3) The National Board must keep a record of the unique identifier given to the person.
@@ -2430,7 +2442,7 @@ Division 1—Provisions relating to persons exercising functions under Law
 235—Application of Commonwealth Ombudsman Act
 (1) The Ombudsman Act applies as a law of a participating jurisdiction for the purposes of the national registration and accreditation scheme.
 (2) For the purposes of subsection (1), the Ombudsman Act applies—
-(a) as if a reference to the Commonwealth Ombudsman were a reference to the National Health Practitioners Ombudsman; and
+(a) as if a reference to the Commonwealth Ombudsman were a reference to the National Health Practitioner Ombudsman; and
 (b) with any other modifications made by the regulations.
 (3) Without limiting subsection (2), the regulations may—
 (a) provide that the Ombudsman Act applies under subsection (1) as if a provision of the Ombudsman Act specified in the regulations were omitted; or
@@ -2765,8 +2777,8 @@ informed consent means written consent given by a woman after she has been given
 (a) a statement that appropriate professional indemnity insurance arrangements will not be in force in relation to the midwife's practise of private midwifery; and
 (b) any other information required by the National Board.
 midwife means a person whose name is included in the Register of Midwives kept by the National Board.
-National Board means the Nursing and Midwifery Board of Australia.
-private midwifery means practising the nursing and midwifery profession—
+National Board means the National Board for midwifery.
+private midwifery means practising the midwifery profession—
 (a) in the course of attending a homebirth; and
 (b) without appropriate professional indemnity insurance arrangements being in force in relation to that practise; and
 (c) other than as an employee of an entity.
@@ -2911,7 +2923,7 @@ relevant day means the day that is 3 years after the participation day.
 (4) This section applies until the Board is continued in force by a regulation made under section 31.
 308—Powers and functions of Paramedicine Board
 (1) Sections 32, 33, 34, 37, 40, 234 and Schedule 4 apply to the Paramedicine Board until the participation day.
-(2) However, for section 34, the Ministerial Council may, until the participation day, appoint as practitioner members persons who the Council is satisfied have skills and experience in paramedicine relevant to the Board’s functions.
+(2) However, for section 34, the Ministerial Council may, until the participation day, appoint as practitioner members persons who the Council is satisfied have skills and experience in paramedicine relevant to the Board's functions.
 (3) The Paramedicine Board may perform the following functions until the participation day—
 (a) develop and recommend one or more registration standards to the Ministerial Council under section 38 for its approval under section 12;
 (b) develop and approve codes and guidelines under section 39;
@@ -2937,7 +2949,7 @@ The Paramedicine Board is taken to be a National Board for the following provisi
 (4) A program of study approved under this section is taken to be an approved program of study for this Law.
 (5) This section applies despite section 49(1).
 (6) In this section—
-CAA accredited program of study means a program of study accredited by the Council of Ambulance Authorities Inc. and published on the Council’s website—
+CAA accredited program of study means a program of study accredited by the Council of Ambulance Authorities Inc. and published on the Council's website—
 (a) immediately before the commencement; or
 (b) between the commencement and the participation day.
 311—Qualifications for general registration in paramedicine for a limited period
@@ -3005,8 +3017,24 @@ Division 2—Other transitional provisions
 (b) immediately before the commencement the Board had not made a decision in relation to the matter; and
 (c) after the commencement, the Board's decision results in the practitioner's or student's registration being subject to a condition.
 (2) The National Board may decide a review period for the condition under section 126(6) and give the registered health practitioner or student notice under section 126(6A).
+320—Membership of continued National Boards
+(1) This section applies if—
+(a) a person holds office as a member of a National Board immediately before the commencement; and
+(b) the Board is continued in force after the commencement (the continued Board) by a regulation made under section 31.
+(2) The person continues to hold office as a member of the continued Board after the commencement—
+(a) on the terms and conditions that applied to the person's appointment before commencement; and
+(b) until the office of the member becomes vacant under this Law.
+(3) Also, a person who is Chairperson of a National Board immediately before the commencement continues to hold office as Chairperson of the continued Board after the commencement.
+(4) Subsection (5) applies if the process for appointing a person as a member of a National Board is started but not completed before the commencement.
+(5) The process may continue after the commencement and the person may be appointed as a member of the continued Board.
 321—Offences relating to prohibition orders made before commencement
 Section 196A also applies to a prohibition order made before the commencement.
+322—Register to include prohibition orders made before commencement
+(1) For section 222(4)(b) and section 223(b), a National Board may also record in the register the names of persons subject to a prohibition order made before the commencement.
+(2) Also, for section 227(b), a National Board may also include in the register copies of prohibition orders made before the commencement.
+323—Public national registers
+(1) This section applies to a register kept under section 222 or 223 immediately before the commencement.
+(2) The register continues in force immediately after the commencement.
 Schedule 1—Constitution and procedure of Advisory Council
 (Section 22)
 Part 1—General
@@ -3088,7 +3116,9 @@ A member is entitled to be paid such remuneration (including travelling and subs
 (e) dies.
 (2) The Chairperson of the Ministerial Council may remove a member from office if—
 (a) the member has been found guilty of an offence (whether in a participating jurisdiction or elsewhere) that, in the opinion of the Chairperson of the Ministerial Council, renders the member unfit to continue to hold the office of member; or
-(b) the member ceases to be a registered health practitioner as a result of the member's misconduct, impairment or incompetence; or
+(b) the member, as a result of the member's misconduct, impairment or incompetence—
+(i) ceases to be a registered health practitioner; or
+(ii) if the member is registered in more than one health profession—ceases to be registered in either or any of the health professions; or
 (c) the member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with the member's creditors or makes an assignment of the member's remuneration for their benefit; or
 (d) the Committee recommends the removal of the member, on the basis that the member has engaged in misconduct or has failed or is unable to properly exercise the member's functions as a member.
 (3) In addition, the Chairperson of the Ministerial Council may remove the Chairperson of the Committee from office as a member if the Chairperson of the Committee becomes a registered health practitioner.
@@ -3202,7 +3232,8 @@ community member means a member of a National Board appointed as a community mem
 member means a member of a National Board.
 Part 2—Constitution
 2—Terms of office of members
-Subject to this Schedule, a member holds office for the period (not exceeding 3 years) specified in the member's instrument of appointment, but is eligible (if otherwise qualified) for reappointment.
+(1) Subject to this Schedule, a member holds office for the period (not exceeding 3 years) specified in the member's instrument of appointment, but is eligible (if otherwise qualified) for reappointment.
+(2) However, a member's term of office ends if the National Board to which the member was appointed is dissolved by a regulation made under section 31.
 3—Remuneration
 A member is entitled to be paid such remuneration (including travelling and subsistence allowances) as the Ministerial Council may from time to time determine with respect to the member.
 4—Vacancy in office of member
@@ -3214,7 +3245,9 @@ A member is entitled to be paid such remuneration (including travelling and subs
 (e) dies.
 (2) The Chairperson of the Ministerial Council may remove a member from office if—
 (a) the member has been found guilty of an offence (whether in a participating jurisdiction or elsewhere) that, in the opinion of the Chairperson of the Ministerial Council, renders the member unfit to continue to hold the office of member; or
-(b) the member ceases to be a registered health practitioner as a result of the member's misconduct, impairment or incompetence; or
+(b) the member, as a result of the member's misconduct, impairment or incompetence—
+(i) ceases to be a registered health practitioner; or
+(ii) if the member is registered in more than one health profession—ceases to be registered in either or any of the health professions; or
 (c) the member ceases to be eligible for appointment to the office that the member holds on the National Board; or
 (d) the member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with member's creditors or makes an assignment of the member's remuneration for their benefit; or
 (e) the National Board recommends the removal of the member, on the basis that the member has engaged in misconduct or has failed or is unable to properly exercise the member's functions as a member.
@@ -3253,11 +3286,11 @@ If a National Board (the first Board) proposes to make a recommendation to the M
 (a) consult with the other Board about the proposed recommendation; and
 (b) if the first Board makes the recommendation to the Ministerial Council, advise the Council about any contrary views expressed by the other Board about the recommendation.
 10—Boards may obtain assistance
-A National Board may, for the purposes of exercising its functions, obtain the assistance of or advice from a local registration authority or another entity having knowledge of matters relating to the health profession for which it is established.
+A National Board may, for the purposes of exercising its functions, obtain the assistance of or advice from a local registration authority or another entity having knowledge of matters relating to a health profession for which it is established.
 11—Committees
 A National Board may establish committees to do any of the following—
-(a) to develop registration standards for the health profession for which the Board is established;
-(b) to develop codes or guidelines for the health profession for which the Board is established;
+(a) to develop registration standards for a health profession for which the Board is established;
+(b) to develop codes or guidelines for a health profession for which the Board is established;
 (c) to exercise any other functions of the Board or to provide assistance or advice to the Board in the exercise of its functions.
 Part 4—Procedure
 12—General procedure
