@@ -7,8 +7,15 @@ Division 3—Application of Australian Consumer Law to Crown
 Division 4—Miscellaneous
 Part 3A—Industry codes
 Part 4—Fair reporting
+Part 4A—Regulation of event ticket transactions
+Division 1—Preliminary
+Division 2—Resale of tickets
+Division 3—Online purchase of tickets
+Division 4—Public disclosure of ticketing information
+Division 5—Review of Part
 Part 5—Additional consumer protection provisions
 Part 6—Third-party trading schemes
+Part 6A—Gift cards
 Part 7—Enforcement and remedies
 Division A1—Interpretation
 Division 1—Legal proceedings and warnings
