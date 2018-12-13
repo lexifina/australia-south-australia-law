@@ -17,14 +17,16 @@ AEMO amendments means—
 (c) the Procedures first made under this Law after the enactment of the amendments referred to in paragraph (a);
 AER means the Australian Energy Regulator established by section 44AE of the Competition and Consumer Act 2010 of the Commonwealth;
 AER economic regulatory decision means a decision (however described) of the AER under this Law or the Rules performing or exercising an AER economic regulatory function or power;
-AER economic regulatory function or power means a function or power performed or exercised by the AER under this Law or the Rules that relates to the economic regulation of pipeline services provided by a service provider—
+AER economic regulatory function or power means a function or power performed or exercised by the AER under this Law or the Rules (other than making a rate of return instrument) that relates to the economic regulation of pipeline services provided by a service provider—
 (a) by means of; or
 (b) in connection with,
-a scheme pipeline and includes a function or power performed or exercised by the AER under this Law or the Rules that relates to—
+a scheme pipeline and includes a function or power performed or exercised by the AER under this Law or the Rules (other than making a rate of return instrument) that relates to—
 (c) the preparation of a service provider performance report;
 (d) a ring fencing decision;
 (e) an applicable access arrangement decision;
 (f) an access determination (if the AER is the dispute resolution body);
+Note—
+The application of a rate of return instrument under this Law is an AER economic regulatory function or power. See section 30Q(2).
 AER ring fencing determination means a determination of the AER under section 143(1);
 applicable access arrangement means a limited access arrangement or full access arrangement that has taken effect after being approved or made by the AER under the Rules and includes an applicable access arrangement as varied—
 (a) under the Rules; or
@@ -45,8 +47,18 @@ associate pipeline service means a pipeline service provided by means of a pipel
 Australian Energy Market Operator or AEMO means Australian Energy Market Operator Limited (ACN 072 010 327);
 BB Procedures means Procedures directed at regulating the Natural Gas Services Bulletin Board;
 Bulletin Board information means information that—
-(a) a person gives to AEMO to comply with section 223(1); or
+(a) a person gives to AEMO to comply with section 223(1) or 223A(1); or
 (b) a person gives to AEMO in its capacity as operator of the Natural Gas Services Bulletin Board in circumstances expressly permitted by the Rules;
+capacity auction means an auction conducted by AEMO through which a person may buy transportation capacity;
+capacity auction agreement means an agreement that relates to participation in a capacity auction and to which AEMO and persons participating in the capacity auction are parties;
+capacity auction functions of AEMO are set out in section 91BRM(1);
+capacity auction information means information that––
+(a) a person gives to AEMO, to comply with section 91FEE(1); or
+(b) a person gives, in circumstances expressly required or permitted by the Procedures or Rules—
+(i) to AEMO in its capacity as operator of a capacity auction in which the person participates; or
+(ii) to AEMO in its capacity as operator of a regulated gas market or a gas trading exchange if that information is to be used for the purpose of a capacity auction in which the person participates;
+capacity auction participant means a person (other than AEMO) who is, or who was at the relevant time, a party to a capacity auction agreement;
+Capacity Transfer and Auction Procedures means Procedures directed at the operation and administration of capacity auctions and transaction support arrangements;
 changeover date means—
 (a) a date fixed by or under legislation of a participating jurisdiction for AEMO's assumption of responsibility for the operation of a gas market in the relevant jurisdiction under this Law and the Rules; or
 (b) a date fixed by Ministerial Gazette notice as the changeover date;
@@ -69,6 +81,11 @@ classification decision under the Rules means a decision of the NCC under the Ru
 (ii) in respect of which the NCC has not previously made an initial classification decision;
 commission, in relation to a pipeline, has the meaning given by section 12;
 Commonwealth Minister means the Minister of the Commonwealth administering the Australian Energy Market Act 2004 of the Commonwealth;
+compression service facility means—
+(a) a designated compression service facility; or
+(b) any other facility or part of a facility (whether or not forming part of another facility or located on or connected to another facility) for compressing natural gas other than—
+(i) a facility operated as part of a gathering system operated as part of an upstream producing operation; or
+(ii) anything downstream of a point on a pipeline from which a person takes natural gas for consumption purposes;
 conduct provision has the meaning given by section 4;
 constituent components, in relation to a designated reviewable regulatory decision, means the matters that constitute the elements or components of the designated reviewable regulatory decision and on which that designated reviewable regulatory decision is based and includes—
 (a) matters that go to the making of the designated reviewable regulatory decision; and
@@ -91,11 +108,17 @@ declared system provisions means—
 (b) the Rules regulating the declared wholesale gas market of an adoptive jurisdiction or otherwise relevant to Chapter 2 Part 6 Division 2;
 declared transmission system of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
 declared wholesale gas market means the wholesale market for natural gas defined in the application Act of an adoptive jurisdiction;
+designated compression service facility means a facility or part of a facility for compressing natural gas prescribed by the Regulations as a designated compression service facility;
 designated pipeline means a pipeline classified by the Regulations, or designated in the application Act of a participating jurisdiction, as a designated pipeline;
 Note—
 A light regulation determination cannot be made in respect of pipeline services provided by means of a designated pipeline: see sections 109 and 111.
 designated reviewable regulatory decision means an applicable access arrangement decision (other than a full access arrangement decision that does not approve a full access arrangement);
 developable capacity means the difference between the current capacity of a covered pipeline and the capacity of a covered pipeline which would be available if a new facility was constructed, but does not include any new capacity of a covered pipeline resulting from an extension to the geographic range of a covered pipeline;
+disposal, in relation to a right to use transportation capacity, includes disposal by means of—
+(a) transfer, sale, assignment, exchange or other disposal; and
+(b) the grant of a right to use, directly or indirectly, the transportation capacity;
+Note—
+See the definition of transfer.
 dispute resolution body means the AER;
 Dispute resolution panel means a person or panel of persons appointed under the Rules to hear and determine a rule dispute;
 distribution pipeline means a pipeline that is classified in accordance with this Law or the Rules as a distribution pipeline and includes any extension to, or expansion of the capacity of, such a pipeline when it is a covered pipeline that, by operation of an applicable access arrangement or under this Law, is to be treated as part of the pipeline;
@@ -158,6 +181,7 @@ haulage, in relation to natural gas, includes conveyance or reticulation of natu
 initial classification decision means a decision of the NCC under section 98 or 155;
 initial National Gas Procedures means National Gas Procedures made under section 294A and includes Wholesale Market Procedures and BB Procedures in force immediately before the commencement of the National Gas (South Australia) (National Gas Law—Australian Energy Market Operator) Amendment Act 2009;
 initial National Gas Rules means the Initial National Gas Rules made under Chapter 9 Part 2;
+initial Operational Transportation Service Code means the Operational Transportation Service Code made under section 294DA;
 international pipeline means a pipeline for the haulage of gas from a foreign source;
 jurisdictional determination criteria, in relation to a cross boundary distribution pipeline, has the meaning given by section 14;
 jurisdictional gas legislation means an Act of a participating jurisdiction (other than national gas legislation), or any instrument made or issued under or for the purposes of that Act, that regulates the haulage of gas in that jurisdiction;
@@ -222,7 +246,7 @@ natural gas service means—
 (a) a pipeline service; or
 (b) the supply of natural gas; or
 (c) a service ancillary to the service described in paragraph (b);
-Natural Gas Services Bulletin Board means the website maintained by AEMO that contains information of the kind specified in the Rules in relation to natural gas services;
+Natural Gas Services Bulletin Board means the website maintained by AEMO that contains information of the kind specified in the Rules in relation to natural gas services and secondary capacity transactions;
 NCC means the National Competition Council established by section 29A of the Competition and Consumer Act 2010 of the Commonwealth;
 NCC recommendation or decision means—
 (a) a coverage recommendation; or
@@ -253,6 +277,16 @@ old scheme distribution pipeline means a pipeline that was, at any time before t
 old scheme transmission pipeline means a pipeline that was, at any time before the repeal of the old access law—
 (a) a transmission pipeline as defined in that law; and
 (b) a covered pipeline as defined in the Gas Code;
+operational transportation service means—
+(a) a transportation service that is provided under an operational transportation service agreement using transferred transportation capacity; and
+(b) a service ancillary to the provision of a service referred to in paragraph (a);
+operational transportation service agreement means an agreement between a transportation service provider and a transportation facility user that provides for—
+(a) the transportation facility user to receive a transfer of transportation capacity acquired through any of the following means—
+(i) a capacity auction; or
+(ii) a gas trading exchange; or
+(iii) any other means provided for in the agreement; and
+(b) the terms and conditions applicable to the use of that transportation capacity;
+Operational Transportation Service Code has the meaning given by section 228H;
 participating jurisdiction means a jurisdiction that is a participating jurisdiction by reason of section 21;
 pipeline means—
 (a) a pipe or system of pipes for the haulage of natural gas, and any tanks, reservoirs, machinery or equipment directly attached to that pipe or system of pipes; or
@@ -286,6 +320,7 @@ price or revenue regulation means regulation of—
 (b) the revenue to be, or that is to be, derived from the provision of pipeline services;
 price regulation exemption means an exemption under Chapter 5 Part 3;
 price regulation exemption recommendation means a recommendation of the NCC under section 162;
+primary capacity transaction, in relation to transportation capacity, means the grant by a transportation service provider of the right to use the transportation capacity under the contract from which the transportation capacity is first derived;
 processable gas means a substance that—
 (a) is in a gaseous state at standard temperature and pressure; and
 (b) consists of naturally occurring hydrocarbons, or a naturally occurring mixture of hydrocarbons and non-hydrocarbons, the principal constituent of which is methane;
@@ -293,12 +328,13 @@ producer means a person who carries on a business of producing natural gas;
 prospective user has the meaning given by section 5;
 protected information has the meaning given by section 91G;
 queuing requirements means terms and conditions providing for the priority that a prospective user has, as against any other prospective user, to obtain access to spare capacity and developable capacity;
+rate of return instrument—see section 30D(2);
 reclassification decision means a decision of the NCC under Chapter 3 Part 5;
 reference service means a pipeline service specified by, or determined or approved by the AER under, the Rules as a reference service;
 reference tariff means a tariff or charge for a reference service—
 (a) specified in an applicable access arrangement approved or made under a full access arrangement decision; or
 (b) determined by applying the formula or methodology contained in an applicable access arrangement approved or made under a full access arrangement decision;
-Registered participant means a person registered as such by AEMO under this Law (section 91BJ, section 91BRD or section 91LB) and the Rules;
+Registered participant means a person registered as such by AEMO under this Law (section 91BJ, section 91BRD or section 91LB) and the Rules, but does not include a transportation service provider registered under section 91BRR;
 regulated gas market means—
 (a) a declared wholesale gas market; or
 (ab) a short term trading market; or
@@ -334,6 +370,9 @@ rule dispute means a dispute for the resolution of which provision is made in th
 scheme pipeline means—
 (a) a covered pipeline; or
 (b) an international pipeline to which a price regulation exemption applies;
+secondary capacity transaction, in relation to transportation capacity, means a disposal of a right by a person to use the transportation capacity but does not include the primary capacity transaction in relation to that transportation capacity;
+Note—
+See the definition of disposal.
 service provider has the meaning given by section 8;
 service provider performance report means a report prepared by the AER under section 64;
 short term trading market means a market for the supply of natural gas that—
@@ -342,6 +381,9 @@ short term trading market means a market for the supply of natural gas that—
 Note—
 There may be more than 1 short term trading market of an adoptive jurisdiction.
 spare capacity means unutilised capacity of a pipeline;
+standard gas day means the 24 hour period starting at the time specified in the standard market timetable;
+standard market timetable means the standard market timetable provided for in the Rules in accordance with section 83B;
+standard OTSA means an operational transportation service agreement within the meaning of section 228B as amended from time to time;
 statutory functions, in relation to AEMO, means functions or powers conferred under—
 (a) this Law, the Rules or the Procedures; or
 (b) the National Electricity Law or the National Electricity Rules;
@@ -386,9 +428,22 @@ trader means a person who—
 (a) buys or sells natural gas; and
 (b) in doing so is not acting in some other registrable capacity; and
 (c) where the person is the purchaser of natural gas, is not buying the natural gas for the purchaser's own use;
+transaction support arrangements means arrangements to facilitate transactions with respect to transportation capacity and related goods and services concluded or to be concluded through a gas trading exchange or a capacity auction;
+transfer, in relation to transportation capacity, includes a reduction in a person's right to the transportation capacity and a corresponding increase in another person's right to transportation capacity, whether or not on the same terms and conditions;
 transmission pipeline means a pipeline that is classified in accordance with this Law or the Rules as a transmission pipeline and includes any extension to, or expansion of the capacity of, such a pipeline when it is a covered pipeline that, by operation of an applicable access arrangement or under this Law, is to be treated as part of the pipeline;
 Note—
 See also sections 18 and 19.
+transportation capacity means a right under a contract with a transportation service provider to be provided with a transportation service by means of a transportation facility, for a given quantity of natural gas over a given period of time;
+transportation facility means—
+(a) a pipeline; or
+(b) a compression service facility; or
+(c) another facility of a type specified by the Regulations for the purposes of this paragraph;
+transportation facility user means a person who is a party to a contract with a transportation service provider under which the transportation service provider provides, or intends to provide, a transportation service to that person by means of a transportation facility and includes a user and a non scheme pipeline user;
+transportation service means—
+(a) a pipeline service; or
+(b) a service provided by means of a compression service facility; or
+(c) a service provided by means of any other facility of a type specified by the Regulations for the purposes of paragraph (c) of the definition of transportation facility;
+transportation service provider means a person who owns, controls or operates a transportation facility;
 Tribunal means the Australian Competition Tribunal referred to in the Competition and Consumer Act 2010 of the Commonwealth and includes a member of the Tribunal or a Division of the Tribunal performing functions of the Tribunal;
 user means a person who—
 (a) is a party to a contract with a service provider under which the service provider provides or intends to provide a pipeline service to that person by means of a scheme pipeline; or
@@ -493,6 +548,8 @@ a pipeline or scheme pipeline, or any part of a pipeline or scheme pipeline.
 Note—
 A service provider must not provide pipeline services by means of a scheme pipeline unless the service provider is a legal entity of a specified kind: see section 131, and section 169 where the scheme pipeline is an international pipeline to which a price regulation exemption applies.
 (2) If AEMO controls or operates (without at the same time owning) a pipeline or scheme pipeline, or any part of a pipeline or scheme pipeline, AEMO is not for that reason to be taken to be a service provider for the purposes of this Law.
+8AA—Meaning of transportation service provider
+If AEMO controls or operates (without at the same time owning) a compression service facility or another facility of a type prescribed by the Regulations for the purposes of paragraph (c) of the definition of transportation facility in section 2, AEMO is not for that reason to be taken to be a transportation service provider for the purposes of this Law.
 8A—Nominated distributors
 (1) The regulations under the application Act of a participating jurisdiction (a local regulation) may—
 (a) nominate an entity, being an entity that is licensed or otherwise authorised under the jurisdictional gas legislation of that jurisdiction to operate a distribution pipeline that is not a covered pipeline, as an entity to which this section applies (the nominated distributor); and
@@ -514,13 +571,16 @@ or for both.
 (2) The person is, for the purposes of this Law, deemed to provide or intend to provide pipeline services by means of that pipeline even if the person does not, in fact, do so.
 10—Things done by 1 service provider to be treated as being done by all of service provider group
 (1) This section applies if—
-(a) more than 1 service provider (a service provider group) carries out a controlling pipeline activity in respect of a pipeline (or a part of a pipeline); and
+(a) more than 1 service provider (a service provider group) carries out a controlling facility activity in respect of a transportation facility (or a part of a transportation facility); and
 (b) under this Law or the Rules a service provider is required or allowed to do a thing.
 (2) A service provider of the service provider group (the complying service provider) may do that thing on behalf of the other service providers of the service provider group if the complying service provider has the written permission of all of the service providers of that group to do that thing on behalf of the service provider group.
 (3) Unless this Law or the Rules otherwise provide, on the doing of a thing referred to in subsection (2) by a complying service provider, the service providers of the service provider group on whose behalf the complying service provider does that thing, must, for the purposes of this Law and the Rules, each be taken to have done the thing done by the complying service provider.
-(4) This section does not apply to a thing required or allowed to be done under section 131 or Chapter 4 Part 2.
+(4) This section does not apply to a thing required or allowed to be done under section 131, Chapter 4 Part 2 or section 228K or 228L.
 (5) In this section—
-controlling pipeline activity means own, control or operate.
+controlling facility activity means own, control or operate a transportation facility (or part of a transportation facility);
+service provider means—
+(a) in relation to a pipeline—a service provider (within the meaning of section 8) for that pipeline; and
+(b) in relation to a transportation facility other than a pipeline—a transportation service provider for that facility.
 11—Local agents of foreign service providers
 (1) This section applies if—
 (a) a service provider is a foreign company; and
@@ -639,7 +699,9 @@ Division 1—General
 (b) to investigate breaches or possible breaches of provisions of this Law, the Regulations or the Rules, including offences against this Law; and
 (c) to institute and conduct proceedings in relation to breaches of provisions of this Law, the Regulations or the Rules, including offences against this Law; and
 (d) to institute and conduct appeals from decisions in proceedings referred to in paragraph (c); and
+(da) to make a rate of return instrument; and
 (e) AER economic regulatory functions or powers; and
+(ea) to make and amend the Operational Transportation Service Code in accordance with this Law and the Rules; and
 (f) to prepare and publish reports on the financial and operational performance of service providers in providing pipeline services by means of covered pipelines; and
 (g) to approve compliance programs of service providers relating to compliance by service providers with this Law or the Rules; and
 (h) any other functions and powers conferred on it under this Law or the Rules.
@@ -678,6 +740,165 @@ Any delegation by the AER under section 44AAH of the Competition and Consumer Ac
 Section 44AAF of the Competition and Consumer Act 2010 of the Commonwealth has effect for the purposes of this Law, the Regulations and the Rules as if it formed part of this Law.
 Note—
 See also Chapter 10 Part 2 Division 1.
+Division 1A—Rate of return instrument
+Subdivision 1—Preliminary
+30A—Definitions
+In this Division—
+consumer reference group, for making a rate of return instrument, see section 30H(1)(a);
+explanatory information, for a rate of return instrument, means information about the content of the instrument, including (but not limited to) information explaining—
+(a) the reasons for the rate of return on capital or the value of imputation credits under the instrument; and
+(b) how the stated value, or the way to calculate the rate or value, was decided; and
+(c) if the instrument replaces another instrument—
+(i) the differences (if any) between the instrument and the replaced instrument; and
+(ii) the reasons for any differences; and
+(d) why the AER is satisfied the instrument will, or is most likely to, contribute to the achievement of the national gas objective to the greatest degree; and
+(e) how the AER had regard to the following in making the instrument:
+(i) the revenue and pricing principles;
+(ii) the matters mentioned in section 30G;
+(iii) estimation methods, financial models, market data and other evidence relevant to making the instrument;
+(iv) prevailing conditions in the market for equity funds;
+(v) the interrelationships between financial parameters used, or to be used, in relation to deciding the rate or value.
+30B—Rate of return instrument has force of law
+(1) A rate of return instrument has the force of law in this jurisdiction.
+(2) An Act of this jurisdiction regulating the making of subordinate legislation does not apply to a rate of return instrument.
+30C—Rate of return instrument is binding on AER and covered pipeline service providers
+A rate of return instrument is binding on—
+(a) the AER in relation to the performance or exercise of an AER economic regulatory function or power; and
+(b) each covered pipeline service provider in relation to a matter relevant to the performance or exercise of an AER economic regulatory function or power.
+Subdivision 2—Requirement to make rate of return instrument
+30D—AER to make rate of return instrument
+(1) This section applies if a rate of return on capital or the value of imputation credits is required for performing or exercising an AER economic regulatory function or power.
+(2) The AER must make an instrument (a rate of return instrument) stating—
+(a) for a rate of return on capital—the way to calculate the rate; and
+(b) for the value of imputation credits—the value or the way to calculate the value.
+(3) The AER may make an instrument only if satisfied the instrument will, or is most likely to, contribute to the achievement of the national gas objective to the greatest degree.
+(4) Subject to subsection (3), the way to calculate a rate of return on capital must include a weighted average of an allowed return on equity and an allowed return on debt.
+(5) In making an instrument, the AER must have regard to—
+(a) the revenue and pricing principles; and
+(b) other information the AER considers appropriate.
+30E—Content of rate of return instrument
+(1) If a rate of return instrument states the value of imputation credits, the instrument must state a single value to apply in relation to all covered pipeline service providers.
+(2) If a rate of return instrument states a way to calculate the rate of return on capital or the value of imputation credits, the instrument must—
+(a) provide for the same methodology to apply in relation to all covered pipeline service providers in calculating the rate or value; and
+(b) provide for the methodology to apply automatically without the exercise of any discretion by the AER.
+Example for paragraph (b)—
+The instrument can not include different methodologies or a band of values from which the AER could choose in applying the instrument.
+(3) Subject to subsections (1) and (2), the instrument may include other matters the AER considers appropriate.
+Example—
+Matters to help a covered pipeline service provider calculate a rate of return or the value of imputation credits.
+Subdivision 3—Consultation requirements
+30F—Process for making rate of return instrument
+Subject to this Division, the AER may make a rate of return instrument in the way it considers appropriate.
+30G—Other matters AER must have regard to in making instrument
+In making a rate of return instrument, the AER must also have regard to the following—
+(a) advice, recommendations or submissions given by a consumer reference group;
+(b) submissions made, and the report published, under section 30H;
+(c) submissions made under section 30J;
+(d) the report given by the independent panel under section 30K.
+30H—Requirements before publishing draft instrument
+(1) Before publishing a draft rate of return instrument under this Subdivision, the AER must—
+(a) establish a reference group to help the AER implement an effective consumer consultation process for making the proposed instrument (a consumer reference group); and
+(b) publish a notice on its website—
+(i) inviting persons to make a written submission to the AER about the proposed instrument; and
+(ii) stating the period, not less than 28 days, within which a submission must be made; and
+(c) seek concurrent expert opinions or evidence about the proposed instrument.
+(2) A person may make a submission after the stated period only with the written approval of the AER.
+(3) Subject to subsections (4) and (5), the AER may seek the expert opinions or evidence in the way it considers appropriate.
+Example—
+The AER might convene a conference of experts to identify key issues, and areas of dispute and agreement among the experts, about the content of the proposed instrument.
+(4) The AER must call for nominations of eligible experts but may seek the expert opinions or evidence from any eligible expert.
+(5) If practicable, the AER must seek the expert opinions or evidence from at least 3 eligible experts.
+(6) The AER must publish on its website—
+(a) submissions made under this section; and
+(b) a report on the outcomes of seeking the expert opinions or evidence.
+(7) In this section—
+eligible expert means a person with qualifications or experience in a field the AER considers relevant to making a rate of return instrument.
+Examples of relevant fields—
+Finance, economics, law, consumer affairs, institutional investment.
+30I—Consumer reference group
+(1) A consumer reference group for making a rate of return instrument—
+(a) is to consist of the members appointed by the AER; and
+(b) may carry out its activities, including giving advice or recommendations to the AER about the instrument, in the way it considers appropriate.
+(2) Without limiting subsection (1)(b), the consumer reference group may—
+(a) consult with consumers of natural gas; and
+(b) facilitate consumer engagement in the process for making the instrument; and
+(c) make written submissions to the AER about the content of the instrument and the process for making it.
+(3) The AER must publish on its website any written advice, recommendations or submissions given to it by the consumer reference group.
+30J—Publication of draft instrument and other information
+(1) The AER must, at least 6 months before making a rate of return instrument, publish on its website—
+(a) a draft of the proposed instrument and the explanatory information for the instrument; and
+(b) a notice—
+(i) inviting persons to make a written submission to the AER about the proposed instrument; and
+(ii) stating the period, not less than 28 days, within which a submission must be made.
+(2) A person may make a submission after the stated period only with the written approval of the AER.
+(3) The AER must publish submissions made under this section on its website.
+30K—Report about draft instrument by independent panel
+(1) The AER must, as soon as practicable after publishing the draft instrument, establish an independent panel to give the AER a written report about the instrument.
+(2) The panel—
+(a) may carry out its activities, including giving the report, in the way it considers appropriate; but
+(b) must seek to give the report by consensus.
+(3) The panel must—
+(a) consist of at least 3 members, appointed by the AER, who have qualifications or experience in a field the AER considers relevant to making a rate of return instrument; and
+Examples of relevant fields—
+Finance, economics, law, consumer affairs, institutional investment.
+(b) give the report to the AER before the AER makes the instrument.
+(4) The AER must take reasonable steps to minimise and manage any conflicts of interest a panel member may have in relation to making the instrument.
+(5) The report must—
+(a) include the panel's assessment of the evidence and reasons supporting the rate of return on capital or the value of imputation credits under the instrument; and
+(b) state whether the report is given by consensus.
+(6) The AER must publish the report on its website.
+30L—Publication of explanatory information
+The AER must publish explanatory information for a rate of return instrument on its website when the instrument is published under section 30N.
+30M—Failure to comply does not affect validity
+Failure to comply with this Subdivision does not invalidate or otherwise affect a rate of return instrument.
+Subdivision 4—Publication, review and other matters
+30N—Publication of rate of return instrument
+After making a rate of return instrument, the AER must publish the instrument on its website.
+Note—
+See section 30L for the requirement to publish explanatory information for the instrument.
+30O—Commencement and duration of instrument
+A rate of return instrument—
+(a) commences on the day after it is published on the AER's website; and
+(b) remains in force until the end of the day it is replaced under section 30P.
+30P—Review and replacement of instrument
+(1) The AER must—
+(a) review each rate of return instrument; and
+(b) make a new rate of return instrument under this Division to replace the reviewed instrument.
+(2) The AER must replace the reviewed instrument by publishing the new instrument on its website on the day that is—
+(a) the fourth anniversary of the day the reviewed instrument was published; or
+(b) if the day mentioned in paragraph (a) is not a business day—the first business day after that day.
+30Q—Application of instrument
+(1) A rate of return instrument—
+(a) applies for the purposes of an AER economic regulatory decision made after the commencement of the instrument; and
+(b) does not affect an AER economic regulatory decision made before the commencement of the instrument.
+(2) To remove any doubt, it is declared that the application of the instrument under this Law, including, for example, in making a full access arrangement decision, is an AER economic regulatory function or power.
+30R—Rate of return instrument may apply for this Law and the National Electricity Law
+(1) The AER may make 1 rate of return instrument for the purposes of this Law and the National Electricity Law.
+(2) If the AER acts under subsection (1)—
+(a) the process for making the instrument under Part 3 Division 1B of the National Electricity Law is taken to have been complied with for the instrument; and
+(b) the instrument is taken to be the rate of return instrument for the purposes of the National Electricity Law.
+Note—
+See also section 18W of the National Electricity Law.
+(3) To remove any doubt, it is declared that the instrument may include different ways to calculate the rate of return on capital and the value of imputation credits for the purposes of this Law and the National Electricity Law.
+Subdivision 5—Confidentiality of information
+30S—Confidentiality
+(1) If a person wishes to give information to the AER for the purposes of this Division in confidence—
+(a) the person must give the AER written notice that the person claims the information is confidential; and
+(b) give reasons to support the claim, including—
+(i) information about the detriment that might be caused to the person if the information were disclosed by the AER; and
+(ii) information that—
+(A) is reasonably within the person's knowledge and capacity to give; and
+(B) may be relevant to the AER's consideration under section 329 about whether the public benefit in disclosing the information outweighs the detriment.
+(2) In giving reasons to support a claim under subsection (1) about information received from another person (a third party), a person may include information that—
+(a) is reasonably within the person's knowledge and capacity to give; and
+(b) is about the detriment that might be caused to the third party if the information were disclosed by the AER; and
+(c) may be relevant to the AER's consideration under section 329 about whether the public benefit in disclosing the information outweighs the detriment.
+(3) In acting under subsection (1), a person must specifically identify the information in relation to which the claim is made.
+(4) Information given to the AER for the purposes of this Division is not to be regarded as being given in confidence, or to be confidential in any way, unless the information is subject to an express claim of confidentiality made under this section.
+30T—Disclosure of information given in confidence
+(1) Chapter 10 Part 2 Division 1 applies in relation to publishing information given to the AER in confidence under this Division.
+(2) In this section—
+information includes advice, recommendations, submissions and reports.
 Division 2—Search warrants
 31—Definitions
 In this Division—
@@ -870,8 +1091,8 @@ See also section 65 about what the AER must and may do after receiving submissio
 (b) give its reasons, in writing, why the regulatory information notice to be served is an urgent notice.
 (3) A regulatory information notice is an urgent notice if—
 (a) under the notice the AER will require the scheme pipeline service provider or related provider to provide information to the AER; and
-(b) that requirement has arisen because the AER considers it must deal with or address a particular matter or thing in order for it to make an AER economic regulatory decision; and
-(c) the AER considers that, having regard to the time within which it must make that AER economic regulatory decision, the time within which the AER requires the information is of the essence.
+(b) that requirement has arisen because the AER considers it must deal with or address a particular matter or thing in order for it to make an AER economic regulatory decision or a rate of return instrument; and
+(c) the AER considers that, having regard to the time within which it must make that AER economic regulatory decision or rate of return instrument, the time within which the AER requires the information is of the essence.
 (4) A notice under subsection (1) must—
 (a) invite the scheme pipeline service provider, or the related provider, to make written representations to the AER as to whether the AER should serve the regulatory information notice on them; and
 (b) specify the period within which the scheme pipeline service provider, or the related provider, may make the representations.
@@ -949,14 +1170,14 @@ The AER, in relation to information given to the AER in compliance with a regula
 59—Assumptions where there is non-compliance with regulatory information instrument
 (1) This section applies if—
 (a) under a regulatory information instrument the AER—
-(i) requires a scheme pipeline service provider to provide information to the AER for the purpose of enabling the AER to make an AER economic regulatory decision relating to the scheme pipeline service provider; or
-(ii) requires a related provider to provide information to the AER that is relevant to the making of an AER economic regulatory decision relating to a scheme pipeline service provider; and
+(i) requires a scheme pipeline service provider to provide information to the AER for the purpose of enabling the AER to make an AER economic regulatory decision relating to the scheme pipeline service provider or to make a rate of return instrument; or
+(ii) requires a related provider to provide information to the AER that is relevant to the making of an AER economic regulatory decision relating to a scheme pipeline service provider or the making of a rate of return instrument; and
 (b) the scheme pipeline service provider or related provider—
 (i) does not provide the information to the AER in accordance with the applicable regulatory information instrument; or
 (ii) provides information that is insufficient (when compared to what was requested under the applicable regulatory information instrument).
 (2) Without limiting sections 56 and 57 and despite anything to the contrary in this Law or the Rules, the AER—
-(a) may make the AER economic regulatory decision on the basis of the information the AER has at the time it makes that decision; and
-(b) in making that decision, may make reasonable assumptions (including assumptions adverse to the interests of the scheme pipeline service provider) in respect of the matters the information required under the regulatory information instrument would have addressed had that information been provided as required.
+(a) may make the AER economic regulatory decision or the rate of return instrument on the basis of the information the AER has at the time it makes that decision or instrument; and
+(b) in making that decision or instrument, may make reasonable assumptions (including assumptions adverse to the interests of the scheme pipeline service provider) in respect of the matters the information required under the regulatory information instrument would have addressed had that information been provided as required.
 Subdivision 5—General
 60—Providing to AER false and misleading information
 A person must not, in purported compliance with a regulatory information instrument requiring the person to provide information to the AER, provide information to the AER that the person knows is false or misleading in a material particular.
@@ -1072,7 +1293,7 @@ Division 2—Rule making functions and powers of the AEMC
 (a) regulating—
 (i) access to pipeline services; and
 (ii) the provision of pipeline services; and
-(iii) the collection, use, disclosure, copying, recording, management and publication of information in relation to natural gas services; and
+(iii) the collection, use, disclosure, copying, recording, management and publication of information in relation to natural gas services and secondary capacity transactions; and
 (iv) the operation of a regulated retail gas market; and
 (v) AEMO's declared system functions and the operation of a declared wholesale gas market; and
 (va) AEMO's STTM functions and the operation of a short term trading market of an adoptive jurisdiction; and
@@ -1080,6 +1301,9 @@ Division 2—Rule making functions and powers of the AEMC
 (vii) the safety, security and reliability of pipelines; and
 (viii) the connection of premises of retail customers; and
 (aaa) AEMO's gas trading exchange functions and the operation of a gas trading exchange; and
+(aab) the capacity auction functions of AEMO, the operation of a capacity auction and the activities of transportation service providers and transportation facility users in connection with a capacity auction; and
+(aac) transaction support arrangements; and
+(aad) access to and the provision of operational transportation services; and
 (aa) facilitating and supporting the provision of services to retail customers; and
 (b) any matter or thing contemplated by this Law, or necessary or expedient for the purposes of this Law.
 Note—
@@ -1096,6 +1320,7 @@ The procedure for the making of a Rule by the AEMC is set out in Chapter 9 Part 
 (e) confer a function on the AER, the AEMC or AEMO to make or issue guidelines, tests, standards, procedures or any other document (however described) in accordance with the Rules, including guidelines, tests, standards, procedures or any other document (however described) that leave any matter or thing to be determined by the AER, the AEMC or AEMO;
 (f) empower or require any person (other than a person referred to in paragraph (e)) or body to make or issue guidelines, tests, standards, procedures or any other document (however described) in accordance with the Rules;
 (fa) provide for Procedures governing the operation of regulated gas markets;
+(fb) provide for Procedures governing the operation and administration of capacity auctions and transaction support arrangements;
 (g) apply, adopt or incorporate wholly or partially, or as amended by the Rules, the provisions of any standard, rule, specification, method or document (however described) formulated, issued, prescribed or published by any person, authority or body whether—
 (i) as formulated, issued, prescribed or published at the time the Rules are made or at any time before the Rules are made; or
 (ii) as amended from time to time;
@@ -1208,6 +1433,36 @@ non-scheme pipeline means—
 (f) the imposition or recovery of costs associated with any matter referred to in a preceding paragraph or otherwise associated with facilitating access (or potential access) to services provided by means of a non‑scheme pipeline.
 (3) Nothing in subsection (2) limits any power to grant an exemption from complying with a provision, or part of a provision, of the Rules.
 (4) A reference in subsection (2) with respect to gaining access (or potential access) to services provided by means of a non‑scheme pipeline includes a reference to services that will require an extension to, or expansion of the capacity of, a non‑scheme pipeline.
+83B—Standard market timetable
+(1) Without limiting any other provision, the Rules may provide for a standard market timetable.
+(2) The standard market timetable may do the following:
+(a) specify the start time of a standard gas day;
+(b) provide for the times for nominations and renominations for the use of transportation services and deliveries or receipts of natural gas;
+(c) provide for the circumstances in which the standard market timetable must be used, which may include provision in relation to any of the following:
+(i) transportation services;
+(ii) the supply, production or storage of natural gas;
+(iii) the measurement and allocation of deliveries or receipts of natural gas;
+(iv) a regulated gas market, a gas trading exchange and a capacity auction.
+(3) Without limiting any other provision, the Rules may require a person of the following kind to use the standard market timetable in accordance with the Rules:
+(a) a transportation service provider;
+(b) a transportation facility user;
+(c) a person who measures, or determines the allocation of, deliveries or receipts of natural gas;
+(d) a producer;
+(e) a storage provider;
+(f) any other person of a kind prescribed by the Regulations for the purposes of this subsection.
+83C—Use of the standard market timetable
+A person required by the Rules to use the standard market timetable must do so in accordance with the Rules.
+83D—False or misleading statements
+A person of the following kind must not, in connection with the supply or possible supply of goods and services, make a false or misleading representation concerning the effect of a requirement for the person to use the standard market timetable on the price for the supply of the goods or services:
+(a) a transportation service provider;
+(b) a transportation facility user;
+(c) a person who measures, or determines the allocation of, deliveries or receipts of natural gas;
+(d) a producer;
+(e) a storage provider;
+(f) any other person of a kind prescribed by the Regulations for the purposes of section 83B(3)(f).
+Maximum penalty:
+(a) in the case of a natural person—$2 000;
+(b) in the case of a body corporate—$10 000.
 84—AEMC must publish and make available up to date versions of Rules
 The AEMC must, at all times—
 (a) maintain, on its website, a copy of the National Gas Rules, as in force from time to time; and
@@ -1270,13 +1525,15 @@ Division 1—General
 (1) AEMO has the following functions:
 (a) to operate and administer markets for natural gas in accordance with this Law, the Rules and the Procedures;
 (b) to promote the development, and improve the effectiveness of the operation and administration of, gas markets;
-(ba) conduct trials relating to the operation and administration of markets, or parts of markets, for natural gas that are or will be governed by this Law, the Rules and the Procedures;
+(ba) conduct trials relating to the operation and administration of markets, or parts of markets, capacity auctions and transaction support arrangements for natural gas that are or will be governed by this Law, the Rules and the Procedures;
 (c) to register persons as Registered participants;
 (d) to exempt certain persons from being registered as Registered participants;
 (e) to facilitate retail customer transfer, metering and retail competition (including balancing, allocation and reconciliation of gas deliveries and withdrawals to and from subnetworks);
 (f) for an adoptive jurisdiction—the declared system functions or STTM functions (as the case requires);
 (g) to make, amend or revoke Procedures;
 (ga) the gas trading exchange functions;
+(gb) the capacity auction functions;
+(gc) to establish, operate and administer transaction support arrangements;
 (h) to operate and maintain the Natural Gas Services Bulletin Board;
 (i) to prepare, periodically review, revise, and publish the gas statement of opportunities;
 (j) to investigate breaches or possible breaches of the Procedures;
@@ -1557,6 +1814,78 @@ Division 2B—Gas trading exchanges
 (3) AEMO may, subject to the Rules and the relevant gas trading exchange agreement, suspend trading on a gas trading exchange.
 91BRL—Gas trading exchange not to constitute a regulated gas market
 A gas trading exchange is not a regulated gas market.
+Division 2C—Capacity auctions for transportation services
+91BRM—AEMO's capacity auction functions
+(1) AEMO's capacity auction functions are as follows:
+(a) to establish, operate and administer 1 or more capacity auctions;
+(b) in relation to a capacity auction, to make and administer capacity auction agreements;
+(c) to make, amend or revoke Procedures governing the operation and administration of a capacity auction.
+(2) AEMO may, subject to the Rules and Procedures, suspend a capacity auction.
+91BRN—Capacity auctions not to constitute a regulated gas market
+A capacity auction is not a regulated gas market.
+Division 2D—Capacity Transfer and Auction Procedures
+91BRO—Making of Capacity Transfer and Auction Procedures
+AEMO may, in accordance with the Rules, make Capacity Transfer and Auction Procedures.
+91BRP—Nature of Capacity Transfer and Auction Procedures
+(1) Capacity Transfer and Auction Procedures are a form of statutory instrument directed at—
+(a) the effective operation and administration of a capacity auction in accordance with the Rules; and
+(b) the effective operation and administration of transaction support arrangements.
+(2) The Capacity Transfer and Auction Procedures may deal with the following matters:
+(a) the matters specified by the Rules;
+(b) any other matter relevant to a capacity auction, a gas trading exchange or transaction support arrangements on which this Law or the Rules contemplate the making of Procedures.
+(3) The Capacity Transfer and Auction Procedures—
+(a) may vary according to the persons, times, places or circumstances to which they are expressed to apply; and
+(b) may confer functions or powers on, or leave any matter or thing to be decided by, AEMO; and
+(c) may confer rights or impose obligations on a transportation service provider, a transportation facility user, a capacity auction participant or a gas trading exchange member; and
+(d) may confer power on AEMO to make or issue guidelines, tests, standards and other documents of an administrative nature; and
+(e) may confer power on AEMO to require a person on whom a right is conferred, or an obligation imposed, under the Procedures—
+(i) to comply with a guideline, standard or other document of an administrative nature; or
+(ii) to conduct, or submit to, a test designed by AEMO under the Procedures; and
+(f) may exempt, or confer a power of exemption, from the application of the Procedures or specified provisions of the Procedures; and
+(g) may contain provisions of a savings or transitional nature.
+(4) AEMO must not, without the consent of the MCE, make Capacity Transfer and Auction Procedures that confer a right or function, or impose an obligation, on the MCE or a Minister of a participating jurisdiction.
+(5) The Capacity Transfer and Auction Procedures cannot—
+(a) create an offence; or
+(b) provide for a criminal or civil penalty.
+91BRQ—Compliance with Capacity Transfer and Auction Procedures
+(1) AEMO and each person to whom the Capacity Transfer and Auction Procedures are applicable must comply with those Procedures.
+(2) If AEMO has reasonable grounds to suspect a breach of the Capacity Transfer and Auction Procedures, it must, after making such inquiries and investigation as it considers appropriate, make a decision as to whether the breach is a material breach.
+(3) If AEMO decides the breach is material, AEMO—
+(a) must publish the decision and the reasons for it on its website; and
+(b) may direct the person suspected of the breach to rectify it or to take specified measures to ensure future compliance (or both); and
+(c) may refer the breach to the AER.
+(4) A direction by AEMO under subsection (3)(b) must—
+(a) specify the breach; and
+(b) specify the date by which the direction is to be complied with; and
+(c) be addressed to, and given to, the person suspected of the breach.
+(5) A person to whom a direction is given under subsection (3)(b) must comply with the direction.
+(6) AEMO must give a copy of its decision under subsection (2), its reasons for the decision and (if relevant) any direction under subsection (3)(b) to the AER.
+(7) If AEMO decides the breach is not material, AEMO must give a copy of the decision and the reasons for it to the AER.
+Note—
+AEMO may provide the AER with relevant information (including protected information) related to a suspected breach of the Procedures. (For disclosure of protected information, see section 91GC(2)(b) and 91GG(1)(b).)
+Division 2E—Registration in relation to transportation facility
+91BRR—Registration obligation
+(1) A transportation service provider for a transportation facility must, in accordance with the Rules, register—
+(a) that transportation facility; and
+(b) as a transportation service provider for that transportation facility.
+(2) Subsection (1) does not apply if—
+(a) the transportation facility or the provider is exempted from registration under that subsection by or under the Rules; or
+(b) the transportation facility or the provider is exempted by the AER from registration under that subsection by or under this Law or the Rules.
+(3) For performing statutory functions, AEMO is not required to be registered.
+91BRS—Exemptions from obligation to register
+(1) A transportation service provider (or prospective transportation service provider) for a transportation facility may request the AER to exempt the transportation service provider (or prospective transportation service provider on becoming the transportation service provider for the transportation facility) from the obligation to register—
+(a) the transportation facility under section 91BRR(1)(a); or
+(b) as a transportation service provider for the transportation facility under section 91BRR(1)(b).
+(2) A request under subsection (1) must be made in accordance with the Rules.
+(3) On receipt of a request under subsection (1), the AER may, subject to the Rules, grant the exemption.
+(4) An exemption granted under subsection (3) may be subject to such terms and conditions as may be required by the Rules or as the AER considers appropriate in accordance with the Rules.
+(5) In this section—
+prospective transportation service provider for a transportation facility means a person who intends to own, control or operate the transportation facility.
+91BRT—Certificates of registration and exemption from registration
+(1) A certificate signed by an authorised officer certifying that a transportation facility described, or a transportation service provider named, in the certificate is registered, or exempt from registration, is evidence of the registration or exemption.
+(2) In this section, an authorised officer is—
+(a) in relation to registration, AEMO's CEO or a person authorised by the CEO to issue certificates under this section; or
+(b) in relation to exemption, the AER's CEO or a person authorised by the CEO to issue certificates under this section.
 Division 3—Information etc to be provided to Ministers
 91C—Ministerial request
 (1) The MCE or a Minister of a participating jurisdiction may ask AEMO for information, a report or other services.
@@ -1688,6 +2017,39 @@ Maximum penalty:
 (b) prescribe maximum amounts that vary in their application according to the persons to whom or the events, circumstances, losses or periods to which they are expressed to apply;
 (c) prescribe the manner in which a maximum amount is to be divided amongst claimants.
 (4) A person mentioned in subsection (1) may enter into an agreement with another person varying or excluding the operation of a provision of this section and, to the extent of that agreement, that provision does not apply.
+Subdivision 3—Capacity auction information
+91FEE—Obligation to give information to AEMO
+(1) A person of the following kind who has possession or control of information that relates to and is necessary for the operation and administration of a capacity auction by AEMO or the performance of any other capacity auction function of AEMO must give AEMO the information for use by AEMO for the operation and administration of that capacity auction or performance of that other function if the person is required to do so under the Procedures or Rules:
+(a) a capacity auction participant;
+(b) a transportation service provider;
+(c) a transportation facility user;
+(d) another person who is prescribed by the Regulations for the purposes of this subsection.
+(2) The information must be given to AEMO in accordance with the Procedures or Rules.
+(3) Subsection (1) does not apply if the person is exempt under the Rules from giving the information.
+(4) However, subsection (1) does not require—
+(a) a person to disclose information that is the subject of legal professional privilege;
+(b) a natural person to disclose information that would incriminate the person or make the person liable to a criminal penalty under the law of an Australian jurisdiction (whether or not the jurisdiction is a participating jurisdiction).
+91FEF—Person cannot rely on duty of confidence to avoid compliance with obligation
+A person must not refuse to comply with the requirement in section 91FEE(1) on the ground of any duty of confidence.
+91FEG—Giving to AEMO false and misleading information
+A person must not give capacity auction information to AEMO that the person knows is false or misleading in a material particular.
+Maximum penalty:
+(a) in the case of a natural person—$2 000;
+(b) in the case of a body corporate—$10 000.
+91FEH—Immunity of persons giving information to AEMO
+(1) A person who gives capacity auction information to AEMO does not incur any civil monetary liability for an act or omission in preparing or giving that information unless the act or omission is done or made in bad faith or through negligence.
+(2) The civil monetary liability for an act or omission of a kind referred to in subsection (1) done or made through negligence may not exceed the prescribed maximum amount.
+(3) The Regulations may, for the purposes of subsection (2), without limitation do all or any of the following:
+(a) prescribe a maximum amount that is limited in its application to persons, events, circumstances, losses or periods specified in the Regulations;
+(b) prescribe maximum amounts that vary in their application according to the persons to whom or the events, circumstances, losses or periods to which they are expressed to apply;
+(c) prescribe the manner in which a maximum amount is to be divided amongst claimants.
+(4) A person mentioned in subsection (1) may enter into an agreement with another person varying or excluding the operation of a provision of this section and, to the extent of that agreement, that provision does not apply.
+Subdivision 4—Information used for a capacity auction
+91FEI—Giving false and misleading information used for capacity auctions
+A person must not give to a transportation service provider information that relates to and is necessary for the operation and administration of a capacity auction by AEMO or the performance of any other capacity auction function of AEMO that the person knows is false or misleading in a material particular.
+Maximum penalty:
+(a) in the case of a natural person—$2 000;
+(b) in the case of a body corporate—$10 000.
 Division 7—Protected information
 Subdivision 1—AEMO's obligation to protect information
 91G—Protected information
@@ -1740,7 +2102,7 @@ AEMO is authorised to disclose information given to it in confidence, in complia
 (a) the disclosure is necessary for—
 (i) the safety, reliability or security of the supply of natural gas; or
 (ii) the safety, reliability or security of a pipeline; or
-(b) the disclosure is necessary for the proper operation of a regulated gas market; or
+(b) the disclosure is necessary for the proper operation of a regulated gas market, a capacity auction or the Capacity Transfer and Auction Procedures; or
 (c) the information is in the public domain.
 (2) AEMO may impose conditions to be complied with in relation to information disclosed under subsection (1)(a) or (b).
 91GH—Disclosure of protected information authorised if detriment does not outweigh public benefit
@@ -1800,7 +2162,11 @@ and that amount is not paid within 28 days after it is due in accordance with th
 (4) In this section—
 AEMO includes, in relation to a gas trading exchange, a person appointed by AEMO to operate that exchange;
 notice to pay includes a statement of payment, settlement statement, bill or invoice;
-Registered participant includes an exempted participant and a gas trading exchange member.
+Registered participant includes the following:
+(a) an exempted participant;
+(b) a capacity auction participant;
+(c) a transportation service provider registered with AEMO under section 91BRR or exempted from registration under that section;
+(d) a gas trading exchange member.
 Division 9—AEMO's statutory funds
 91J—Definitions
 In this Division—
@@ -3053,12 +3419,12 @@ AEMO is responsible for the operation of the Natural Gas Services Bulletin Board
 (1) AEMO must maintain the Natural Gas Services Bulletin Board.
 (2) The Natural Gas Services Bulletin Board—
 (a) must be maintained as a website; and
-(b) must contain information of the kind specified in the Rules in relation to natural gas services.
-(3) AEMO may replace the website with another website containing information of the kind specified in the Rules in relation to natural gas services.
+(b) must contain information of the kind specified in the Rules in relation to natural gas services and secondary capacity transactions.
+(3) AEMO may replace the website with another website containing information of the kind specified in the Rules in relation to natural gas services and secondary capacity transactions.
 219—AEMO's other functions as operator of Natural Gas Services Bulletin Board
 AEMO also has, in its capacity as operator of the Natural Gas Services Bulletin Board, the following functions:
 (a) to collect and collate Bulletin Board information;
-(b) to collect and collate other information in relation to natural gas services for inclusion on the Natural Gas Services Bulletin Board;
+(b) to collect and collate other information in relation to natural gas services and secondary capacity transactions for inclusion on the Natural Gas Services Bulletin Board;
 (c) to derive from information of the type mentioned in paragraphs (a) and (b) information for inclusion on the Natural Gas Services Bulletin Board;
 (d) to publish information on the Natural Gas Services Bulletin Board of the kinds that may or must be included on the Natural Gas Services Bulletin Board under the Rules;
 (e) to manage information of the type mentioned in paragraphs (a), (b) and (c);
@@ -3072,6 +3438,7 @@ Part 2—Bulletin Board information
 223—Obligation to give information to AEMO
 (1) A person of the following kind who has possession or control of information in relation to natural gas services must give AEMO the information if the person is required to do so under the Rules:
 (a) a service provider;
+(b) a person who determines the allocation of deliveries or receipts of natural gas;
 (c) a user;
 (d) a non scheme pipeline user;
 (e) a producer;
@@ -3080,8 +3447,16 @@ Part 2—Bulletin Board information
 (2) The information must be given to AEMO in accordance with the Rules.
 (3) Subsection (1) does not apply if the person is exempt under the Rules from giving the information.
 (4) AEMO must make available for the operation of the Bulletin Board information about natural gas services that it acquires in its capacity as operator or administrator of a regulated gas market.
+223A—Obligation to give information to AEMO about secondary capacity transactions
+(1) A person of the following kind who has possession or control of information in relation to secondary capacity transactions must give AEMO the information if the person is required to do so under the Rules:
+(a) a transportation service provider;
+(b) a transportation facility user;
+(c) another person who is prescribed by the Regulations for the purposes of this subsection.
+(2) The information must be given to AEMO in accordance with the Rules.
+(3) Subsection (1) does not apply if the person is exempt under the Rules from giving the information.
+(4) AEMO must, in accordance with the Rules, make available for the operation of the Bulletin Board information about secondary capacity transactions that it acquires in its capacity as operator or administrator of a gas trading exchange.
 224—Person cannot rely on duty of confidence to avoid compliance with obligation
-A person must not refuse to comply with the requirement in section 223(1) on the ground of any duty of confidence.
+A person must not refuse to comply with the requirement in section 223(1) or 223A(1) on the ground of any duty of confidence.
 225—Giving AEMO false and misleading information
 A person must not give Bulletin Board information to AEMO that the person knows is false or misleading in a material particular.
 226—Immunity of persons giving information to AEMO
@@ -3119,6 +3494,101 @@ AEMO may, in accordance with the Rules, make BB Procedures.
 (2) However, if there is an inconsistency between an applicable access arrangement and the BB Procedures, a person is, to the extent of the inconsistency, not required to comply with the BB Procedures.
 (3) If AEMO has reason to believe that a person is not complying with the BB Procedures, it may, by notice in writing, direct the person to comply with relevant provisions of the BB Procedures.
 (4) A person to whom a direction is addressed under subsection (3) must comply with the direction.
+Chapter 7A—Access to operational transportation services
+Part 1—Standard terms for operational transportation services
+228B—Transportation service provider to publish standard OTSA
+(1) A transportation service provider for a transportation facility must, in accordance with the Rules, prepare and publish on its website a form of operational transportation agreement in respect of the transportation facility that complies with the applicable requirements of the Rules and the Operational Transportation Service Code (a standard OTSA) unless—
+(a) the provider is exempted from the requirement under this section to prepare and publish a standard OTSA in respect of that transportation facility by or under the Rules; or
+(b) the provider is exempted by the AER from the requirement under this section in respect of that transportation facility by or under this Law or the Rules.
+(2) A transportation service provider for a transportation facility in respect of which a standard OTSA must be prepared and published under this section must, where required by the Rules or the Operational Transportation Service Code, prepare and publish on its website an amended standard OTSA in respect of the transportation facility.
+(3) A transportation service provider for a transportation facility may, where permitted by the Rules or the Operational Transportation Service Code, prepare and publish on its website an amended standard OTSA in respect of the transportation facility.
+228C—Formation of contracts on standard terms
+(1) A transportation service provider for a transportation facility must on request by any person made in respect of the transportation facility—
+(a) make an offer to enter into the standard OTSA for the transportation facility in accordance with the Rules; and
+(b) if the offer is accepted, enter into the agreement in accordance with the Rules.
+(2) Subsection (1) does not apply to a transportation service provider in respect of a transportation facility—
+(a) if the provider is exempted from compliance with that subsection in respect of that transportation facility in accordance with the Rules; or
+(b) if the provider is exempted by the AER from compliance with that subsection in respect of that transportation facility under this Law or the Rules; or
+(c) in other circumstances specified by the Rules.
+(3) A standard OTSA takes effect as a contract between the transportation service provider and another person when—
+(a) the other person accepts the transportation service provider's offer to enter into the standard OTSA and enters into the OTSA; and
+(b) any pre-conditions to the formation of the contract are satisfied.
+(4) A contract formed in accordance with subsection (3) may be amended in accordance with its terms.
+(5) A contract formed in accordance with subsection (3) expires and may be terminated in accordance with its terms.
+228D—Exemptions from obligations under section 228B or 228C
+(1) A transportation service provider for a transportation facility may request the AER to exempt that person from an obligation imposed under section 228B or 228C in respect of that transportation facility.
+(2) A request under subsection (1) must be made in accordance with the Rules.
+(3) On receipt of a request under subsection (1), the AER may, subject to the Rules, grant the person the exemption.
+(4) An exemption granted under subsection (3) may be subject to such terms and conditions as may be required by the Rules or as the AER considers appropriate in accordance with the Rules.
+228E—Requirements relating to standard OTSA
+Without limiting any other provision, the Rules may make provision for or with respect to such things as—
+(a) the time and manner of preparation and publication of a standard OTSA; and
+(b) the form and content of a standard OTSA, including the transportation services that may be available for use under a standard OTSA; and
+(c) offers for, and entry into, a standard OTSA; and
+(d) amendments to a standard OTSA and contracts in the form of a standard OTSA; and
+(e) matters of a savings or transitional nature.
+228F—Service provider may enter into agreements different from a standard OTSA
+Subject to section 83C, nothing in this Law is to be taken as preventing a transportation service provider from entering into an operational transportation service agreement with a transportation facility user or a prospective transportation facility user that is different to a standard OTSA prepared and published by the transportation service provider under section 228B.
+Part 2—Operational Transportation Service Code
+228G—Operational Transportation Service Code
+The AER may, in accordance with the Rules—
+(a) amend the initial Operational Transportation Service Code; and
+(b) from time to time make subsequent amendments to the Code.
+228H—Nature of the Operational Transportation Service Code
+(1) The Operational Transportation Service Code (the Code) is—
+(a) the initial Operational Transportation Service Code; or
+(b) if the initial Operational Transportation Service Code is amended under section 228G—that Code as amended and as subsequently amended from time to time under that section.
+(2) The Code is made under the Rules and specifies the content of, or requirements for the content of, a standard OTSA, including the transportation services that may be provided under a standard OTSA and the terms and conditions applicable to the use of those transportation services.
+(3) The Code may deal with the following matters:
+(a) the matters specified by the Rules;
+(b) any other matter relevant to a standard OTSA that this Law or the Rules contemplates being dealt with in the Code.
+(4) The Code may specify provisions or classes of provisions that—
+(a) confer rights or impose obligations under a standard OTSA; and
+(b) vary according to the persons, times, places or circumstances to which they are expressed to apply; and
+(c) must be made by a transportation service provider in accordance with the Rules or Code and incorporated in a standard OTSA; and
+(d) must not be included in a standard OTSA.
+(5) The Code may contain provisions of a savings or transitional nature.
+(6) The AER must not, without the consent of the MCE, make a provision in the Code that confers a right or function, or imposes an obligation, on the MCE or a Minister of a participating jurisdiction.
+(7) The Code cannot—
+(a) create an offence; or
+(b) provide for a criminal or civil penalty.
+Part 3—Other matters relating to access to operational transportation services
+228I—Service requirements may be specified in the Rules
+Without limiting any other provision, the Rules may make provision for or with respect to the following:
+(a) principles that must be complied with when preparing terms and conditions for a standard OTSA;
+(b) charges under a standard OTSA and review of those charges by the AER;
+(c) the priority to be given to a transportation service;
+(d) the allocation to zones of points on a transportation facility where transportation services are provided and the provision and use of transportation services using zones;
+(e) the obligations of transportation service providers with respect to facilitating the operational transfer of transportation capacity;
+(f) the use of an operational transportation service after termination or suspension of the contract from which the transportation capacity was first derived;
+(g) requests by a transportation facility user for changes to the point on a transportation facility where natural gas may be injected or withdrawn;
+(h) the collection, recording and use of information about nominations and renominations for use of transportation services and the scheduling of that use.
+228J—When operational transfer must be offered
+(1) If a transportation facility user states terms and conditions (the first terms) on which the user offers to grant to another person a right to use, directly or indirectly, the transportation capacity of the user without arranging for its transfer to the other person, the user must, on request by the person, state the terms and conditions on which the user will arrange for a transfer of the transportation capacity to the person for use under an operational transportation service agreement (the second terms).
+(2) If there is a difference in the price stated in the first terms and the second terms, the transportation facility user making the offer must include in the second terms a statement of the reasons for the difference.
+228K—Preventing or hindering access to operational transportation services
+(1) A person who is—
+(a) a transportation service provider; or
+(b) a transportation facility user; or
+(c) an associate of a transportation service provider or a transportation facility user,
+must not engage in conduct for the purpose of preventing or hindering the access of another person to an operational transportation service.
+(2) For the purposes of subsection (1), a person is deemed to engage in conduct for a particular purpose if—
+(a) the conduct is or was engaged in for that purpose or for a purpose that includes, or included, that purpose; and
+(b) that purpose is or was a substantial purpose.
+(3) A person may be taken to have engaged in conduct for the purpose referred to in subsection (1) even though, after all the evidence has been considered, the existence of that purpose is ascertainable only by inference from the conduct of the person or of any other person or from other relevant circumstances.
+(4) Subsection (3) does not limit the manner in which the purpose of a person may be established for the purpose of subsection (1).
+(5) In this section—
+(a) a reference to engaging in conduct is a reference to doing or refusing to do any act, including the following:
+(i) refusing to supply a transportation service or an operational transportation service;
+(ii) without reasonable grounds, limiting or disrupting a transportation service or an operational transportation service or a transfer of transportation capacity;
+(iii) making, or giving effect to, a provision of a contract or arrangement, arriving at, or giving effect to, a provision of an understanding, or requiring the giving of, or giving, a covenant; and
+(b) a reference to refusing to do an act includes a reference to—
+(i) refraining (otherwise than inadvertently) from doing that act; or
+(ii) making it known that that act will not be done.
+(6) Subsection (1) does not apply to conduct engaged in in accordance with an agreement (other than conduct in breach of this Law, the Regulations, the Rules or the Procedures), if the agreement was in force on 19 March 2018.
+228L—Transportation service provider providing operational transportation services must not price discriminate
+(1) A transportation service provider must not engage in price discrimination when providing operational transportation services.
+(2) Subsection (1) does not apply if the transportation service provider engages in price discrimination that is conducive to efficient service provision.
 Chapter 8—Proceedings under the National Gas Law
 Part 1—Proceedings generally
 229—Instituting civil proceedings under this Law
@@ -3792,6 +4262,21 @@ matters of a transitional nature include matters of an application or savings na
 (6) Rules or Retail Market Procedures may only be made under this section on the recommendation of the MCE.
 (7) Rules or Retail Market Procedures cannot be made under this section once any one of the participating jurisdictions applies the National Energy Retail Law as a law of that jurisdiction.
 (8) A reference in this section to Retail Market Procedures includes a reference to RoLR Procedures within the meaning of Part 6 of the National Energy Retail Law.
+294CA—South Australian Minister may make consequential Rules relating to rate of return instrument
+(1) The South Australian Minister may make Rules that revoke or amend a Rule if the revocation or amendment is consequential on the enactment of the Statutes Amendment (National Energy Laws) (Binding Rate of Return Instrument) Act 2018.
+(2) Without limiting subsection (1), the South Australian Minister may make a Rule providing that the rate of return on capital under a rate of return instrument in force at the start of a regulatory period applies throughout the period.
+(3) Section 74(3) applies to Rules made under this section in the same way it applies to Rules made by the AEMC.
+(4) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules commence operation; and
+(b) if different Rules will commence operation on different dates, those dates.
+(6) Rules may only be made under this section on the recommendation of the MCE.
+(7) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(8) In this section—
+regulatory period means the period specified in an applicable access arrangement to be the regulatory period;
+South Australian Minister means the Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia.
 294D—South Australian Minister to make initial Rules relating to AEMO's gas trading exchange functions
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 (the South Australian Minister) may make Rules on any 1 or more of the following subjects:
 (a) AEMO's gas trading exchange functions;
@@ -3805,6 +4290,37 @@ matters of a transitional nature include matters of an application or savings na
 (5) The South Australian Minister may, by a later notice published in the South Australian Government Gazette, vary a commencement date fixed under subsection (4)(a) of this subsection.
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
 (7) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
+294DA—South Australian Minister to make initial Rules relating to the capacity reforms
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia (the South Australian Minister)—
+(a) may make Rules for or with respect to any one or more of the following subjects:
+(i) the capacity auction functions of AEMO, the operation of a capacity auction and the activities of transportation service providers and transportation facility users in connection with a capacity auction;
+(ii) transaction support arrangements;
+(iii) access to and the provision of operational transportation services;
+(iv) the making and amendment of an Operational Transportation Service Code;
+(v) the standard market timetable and the standard gas day;
+(vi) the collection, use, disclosure, copying, recording, management and publication of information in relation to secondary capacity transactions;
+(vii) the collection, use, disclosure, copying, recording, management and publication of information in relation to natural gas or natural gas services from a person who determines the allocation of deliveries or receipts of natural gas;
+(viii) the matters referred to in sections 83B, 83C, 228E and 228I;
+(ix) the buying and selling of transportation capacity through the gas trading exchange;
+(x) the subject matter of a new head of power added to Schedule 1 by the Capacity Trading and Auction amendments;
+(xi) any other subject contemplated by, or consequential on, the Capacity Trading and Auction amendments; and
+(b) may make Rules that revoke or amend a Rule as a consequence of the enactment of the Capacity Trading and Auction amendments and any of the Rules referred to in paragraph (a); and
+(c) may make Rules that require a contract (including a contract made in accordance with an access arrangement or an access determination) to be amended as a consequence of the enactment of the Capacity Trading and Auction amendments and any of the Rules referred to in paragraph (a) or (b); and
+(d) may make an Operational Transportation Service Code.
+(2) Rules or an Operational Transportation Service Code may only be made under subsection (1) on the recommendation of the MCE.
+(3) Section 74(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(4) As soon as practicable after making Rules or an Operational Transportation Service Code under subsection (1), the South Australian Minister must—
+(a) publish notice of the making of the Rules or Code in the South Australian Government Gazette; and
+(b) make the Rules or Code publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules or Code commence operation; or
+(b) if different Rules or provisions of the Code will commence operation on different dates, those dates.
+(6) The South Australian Minister may, by a later notice published in the South Australian Government Gazette, vary a commencement date fixed under subsection (5).
+(7) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(8) Once the first Operational Transportation Service Code has been made under subsection (1), no further Operational Transportation Service Code can be made under that subsection.
+(9) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
+(10) In this section—
+Capacity Trading and Auction amendments means the amendments made to this Law by the National Gas (South Australia) (Capacity Trading and Auctions) Amendment Act 2018.
 294E—South Australian Minister to make initial Rules relating to Energy Consumers Australia
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia (the South Australian Minister) may make Rules—
 (a) for or with respect to Energy Consumers Australia (including provisions for its funding); and
@@ -4098,7 +4614,7 @@ relevant protected contractual right means—
 (i) a full access arrangement was not submitted for approval as required under section 132—a right under a contract (other than a relevant exclusivity right) in force immediately before the date on which an access arrangement was required to be submitted for approval;
 (ii) an access arrangement was not approved under an applicable arrangement decision—a right under a contract (other than a relevant exclusivity right) in force immediately before the date on which that access arrangement was submitted for approval.
 322—Service provider may enter into agreement for access different from applicable access arrangement
-Subject to section 135, nothing in this Law is to be taken as preventing a service provider from entering into an agreement with a user or a prospective user about access to a pipeline service provided by means of a scheme pipeline that is different from an applicable access arrangement that applies to that pipeline service.
+Subject to section 83C and section 135, nothing in this Law is to be taken as preventing a service provider from entering into an agreement with a user or a prospective user about access to a pipeline service provided by means of a scheme pipeline that is different from an applicable access arrangement that applies to that pipeline service.
 323—Applicable access arrangements continue to apply regardless of who provides pipeline service
 An applicable access arrangement applies to a pipeline service provided, or to be provided, by means of a pipeline regardless of who provides that pipeline service.
 Part 2—Handling of confidential information
@@ -4362,8 +4878,7 @@ Regulatory economic methodologies │
 │ (c) the dispute resolution body for the purpose of making an access determination, the determination by the AER or the dispute resolution body (as the case requires) of allowances for— │
 │ (d) depreciation; │
 │ (e) the operating costs of a service provider; │
-│ (f) if the service provider is a corporation, the income tax payable by corporations; │
-│ (g) a rate of return on assets. │
+│ (f) if the service provider is a corporation, the income tax payable by corporations. │
 42 │ The methodology known as "total factor productivity"— │
 │ (a) as a regulatory economic methodology to be applied by— (i) the AER for the purpose of approving or making a full access arrangement; (ii) the AER for the purpose of approving revisions or a variation to an applicable access arrangement that is a full access arrangement; (iii) the dispute resolution body for the purpose of making an access determination; │
 │ (b) as an economic regulatory tool to inform and assist the AER in applying, or analysing the application of, the regulatory economic methodology known as the "building block approach" by the AER for the purpose of— (i) approving or making a full access arrangement; or (ii) approving revisions or a variation to an applicable access arrangement that is a full access arrangement; │
@@ -4415,7 +4930,7 @@ AEMO │
 55R │ Other rules relating to the conduct (including suspension) of the members of a gas trading exchange. │
 55S │ The determination and settlement of payments in relation to a gas trading exchange. │
 Natural Gas Services Bulletin Board │
-56 │ The establishment and maintenance of a website that contains information in relation to natural gas services. │
+56 │ The establishment and maintenance of a website that contains information in relation to natural gas services and secondary capacity transactions. │
 57 │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the Natural Gas Services Bulletin Board. │
 58 │ The kinds of information that may or must be given to AEMO, the circumstances in which the information may or must be given, and the procedure for giving the information. │
 59 │ The kinds of information that may or must be included on the Natural Gas Services Bulletin Board and the manner in which information is to be dealt with before being put on the Natural Gas Services Bulletin Board, including, but not limited to, the removal of information that would identify the person who gave the information. │
@@ -4428,6 +4943,38 @@ Natural Gas Services Bulletin Board │
 66 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 65 may have access to information that was, but is no longer on the Natural Gas Services Bulletin Board. │
 67 │ The terms and conditions on which service providers, or classes of service providers, may recover amounts from AEMO for aggregating Bulletin Board information for the Bulletin Board operator. │
 68 │ Matters mentioned in items 56 to 67, in so far as they relate to emergency situations. │
+Facilitating capacity trades and the capacity auction │
+68A │ The making of, and amendment to, an Operational Transportation Service Code, including— │
+│ (a) the establishment, membership and operation of a representative panel for the Code; and │
+│ (b) the functions of AEMO in relation to the panel; and │
+│ (c) the functions of the panel in connection with proposals for amendment of the Code. │
+68B │ The content of an Operational Transportation Service Code. │
+68C │ Requirements for a standard OTSA and the services provided under a standard OTSA. │
+68D │ Publication of a standard OTSA, entry into a standard OTSA and amendment of a standard OTSA. │
+68E │ Requirements for transportation service providers to give effect to operational transfers. │
+68F │ The determination of payments to transportation service providers for use of an operational transportation service after termination or suspension of the contract from which the transportation capacity was first derived. │
+68G │ A registration scheme to be administered by AEMO for registration of transportation service providers and transportation facilities. │
+68H │ The provision of information to AEMO about the points at or between which transportation services are provided and the publication of that information by AEMO. │
+68I │ The allocation of service points to zones and the transfer of transportation capacity between service points. │
+68J │ The recording of information about nominations and renominations for the use of transportation services and the scheduling and curtailment of transportation services and the provision of that information to AEMO or the AER. │
+68K │ The recovery of the costs of transportation service providers in connection with the provision of a standard OTSA, a capacity auction and the transaction support arrangements and the publication of schedules of charges. │
+68L │ The negotiation or determination of provisions in agreements with transportation facility users to facilitate sale by operational transfer and the transfer of capacity between service points. │
+68M │ Exemptions in connection with a standard OTSA or capacity auction. │
+Capacity auctions │
+68N │ The capacity auction functions and the operation and administration of a capacity auction. │
+68O │ The transportation services to be available through a capacity auction and the determination of the quantities of transportation capacity to be offered in the capacity auction. │
+68P │ The form of a capacity auction and the rules relating to the conduct (including suspension) of a capacity auction. │
+68Q │ The duties and obligations of transportation service providers in relation to a capacity auction, including the provision of information and the maintenance of records in relation to the nomination, scheduling and supply of transportation services. │
+68R │ The content, operation and administration of capacity auction agreements. │
+68S │ The duties and obligations of capacity auction participants. │
+68T │ The activities of transportation service providers and transportation facility users in connection with a capacity auction. │
+68U │ The determination and settlement of payments in relation to a capacity auction. │
+68V │ The order of priority to be given to transportation services using transportation capacity bought in a capacity auction, including in the scheduling, supply or curtailment of transportation services. │
+68W │ The classification of transportation services as priority services in connection with a capacity auction. │
+68X │ The functions of the AER in relation to transportation services classified as priority services in connection with a capacity auction and variations to those services. │
+Standard market timetable │
+68Y │ Provision for or with respect to a standard market timetable, including requirements concerning use of a standard market timetable and the measurement of gas flows over periods corresponding to the standard gas day. │
+68Z │ Provision for or with respect to the negotiation or determination of amendments to contracts for transition to the use of a standard market timetable. │
 Miscellaneous │
 69 │ Specification of pipeline services as reference services. │
 70 │ The preparation (including public consultation) and publication by the AER of discussion papers relating to the AER's functions and powers under this Law and the Rules. │
@@ -4887,6 +5434,7 @@ In any proceedings under this Law, a certificate signed or purported to be signe
 (iii) a general regulatory information order;
 (iv) a notice, notification, direction or requirement;
 (b) a stated document is a copy of a thing referred to in paragraph (a);
+(ba) a stated document is a copy of a rate of return instrument;
 (c) on a stated day, a person was or was not:
 (i) given a decision (however described), or determination (however described);
 (ii) authorised as an authorised person (within the meaning of section 31);
@@ -5002,7 +5550,12 @@ Part 11—Instruments under this Law
 (1) This Schedule applies to a statutory instrument, and to things that may be done or are required to be done under a statutory instrument, in the same way as it applies to this Law, and things that may be done or are required to be done under this Law, except so far as the context or subject matter otherwise indicates or requires.
 (2) The fact that a provision of this Schedule refers to this Law and not also to a statutory instrument does not, by itself, indicate that the provision is intended to apply only to this Law.
 (3) In this clause—
-statutory instrument includes the Regulations, the Rules or Procedures.
+statutory instrument includes the Regulations, the rate of return instrument, the Rules or Procedures.
+51A—Rate of return instrument construed not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
+(1) A rate of return instrument is to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made.
+(2) If a provision of the rate of return instrument, or the application of a provision of the instrument to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made—
+(a) it is a valid provision to the extent to which it is not in excess of the power; and
+(b) the remainder of the instrument, and the application of the provision to other persons, subject matters or circumstances, is not affected.
 52—National Gas Rules to be construed so as not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
 (1) The National Gas Rules are to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which they are made.
 (2) If a provision of the National Gas Rules, or the application of a provision of the National Gas Rules to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made—
@@ -5024,6 +5577,17 @@ The term function is defined in clause 10 to include "duty".
 (d) affect a penalty arising because of a breach of the Rule; or
 (e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
 (2) A penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced as if the Rule had not been ordered by the Court as invalid.
+53A—Invalid rate of return instrument
+(1) This clause applies if the Court orders (by declaration or otherwise) that a rate of return instrument is invalid.
+(2) The AER must make a new rate of return instrument under this Law to replace the invalid instrument.
+(3) Until the invalid instrument is replaced, the rate of return on capital and the value of imputation credits under the invalid instrument continue to apply for the purposes of this Law.
+(4) However, the AER must deal with any affected access arrangement decision to apply the new rate of return instrument to the decision as if the new instrument had applied from the start of the decision.
+(5) Subclause (4) applies despite section 30Q(1).
+(6) In this clause—
+affected access arrangement decision means a full access arrangement decision to which the invalid instrument applied or continued to apply;
+deal with, an affected access arrangement decision, means to do either of the following the AER considers appropriate in the circumstances—
+(a) revoke the decision and substitute a new decision;
+(b) vary the decision.
 Schedule 3—Savings and transitionals
 (section 336)
 Part 1—General
@@ -5651,3 +6215,74 @@ Part 15—Transitional provision related to AEMC rule making powers
 The amendment to section 304 of this Law by section 26 of the Statutes Amendment (National Energy Laws) (Rules) Act 2018 does not apply to the making of—
 (a) a Rule on a request under section 295(1) of this Law received by the AEMC before the commencement of this clause; or
 (b) an AEMC initiated Rule (within the meaning of section 290 of this Law) in respect of which the AEMC has, before the commencement of this clause, published notice of its intention to make.
+Part 16—Transitional provisions relating to capacity trading and auctions and harmonisation amendments
+91—Immunity from liability—implementation or use of standard market timetable
+(1) Unless the Regulations otherwise indicate or provide, a person required by the Rules to use the standard market timetable incurs no civil monetary liability in connection with a pre‑harmonisation contract for using the standard market timetable in accordance with the Rules contrary to the terms of that pre‑harmonisation contract.
+(2) Subclause (1) does not apply to deprive a person of a contractual right under a pre‑harmonisation contract to be—
+(a) provided with a certain amount of goods or services under the contract; or
+(b) paid for goods and services provided under the contract.
+(3) In this clause—
+pre‑harmonisation contract means a contract or other arrangement entered into by a person before the commencement of this clause.
+92—Immunity from liability—supply of capacity through capacity auctions
+(1) Unless the Regulations otherwise indicate or provide, a transportation service provider incurs no civil monetary liability to a transportation facility user because of the supply of transportation services to any other person by means of transportation capacity sold through a capacity auction in breach of a relevant exclusivity right where the sale of the transportation capacity through that capacity auction is required by the Rules.
+(2) In this clause—
+relevant exclusivity right, in relation to transportation services, means an express contractual right that arose under a contract entered into before the commencement of this clause that—
+(a) prevents a transportation service provider from supplying transportation services to persons who are not parties to the contract concerned; or
+(b) limits or controls the supply by a transportation service provider of transportation services to persons who are not parties to the contract,
+but does not include a transportation facility user's right under the contract to be provided with a certain amount of transportation services.
+93—Immunity for giving effect to the auction priority principles
+(1) Unless the Regulations otherwise indicate or provide, a transportation service provider incurs no civil monetary liability to a transportation facility user for the supply by the provider of a transportation service in accordance with a priority of service rule in priority to any transportation service supplied or that may be supplied to the transportation facility user under an agreement entered into between the transportation service provider and the transportation facility user before the commencement of this clause.
+(2) In this clause—
+priority of service rule means a requirement of the Rules or the Operational Transportation Service Code for or with respect to—
+(a) the priority to be given to transportation capacity acquired through a capacity auction in connection with the supply of a transportation service; or
+(b) the time for (including a delay in) the scheduling of supply of a transportation service so as to give priority to transportation capacity acquired through a capacity auction;
+supply, in relation to a transportation service, includes to schedule, provide and curtail supply (within the meaning of section 2) of the transportation service.
+94—Transitional regulations
+(1) The Regulations may deal with matters of a transitional nature with respect to the Capacity Trading and Auction amendments.
+(2) Regulations under subclause (1) may defer, exclude or modify the application of any of the Capacity Trading and Auction amendments—
+(a) in any participating jurisdiction; or
+(b) in relation to a person, transportation service or transportation facility specified by the regulations; or
+(c) in relation to a class of persons, transportation services or transportation facilities specified by the regulations.
+(3) Regulations under subclause (1) may—
+(a) be of general or limited application; or
+(b) vary according to the persons, times, places or circumstances to which they are expressed to apply.
+(4) If regulations under subclause (1) so provide, they have effect despite any provision of the NGL, the National Gas Regulations, the National Gas Rules, the Capacity Transfer and Auction Procedures or the Operational Transportation Services Code.
+(5) In this clause—
+Capacity Trading and Auction amendments means the amendments made to this Law by the National Gas (South Australia) (Capacity Trading and Auctions) Amendment Act 2018.
+Part 17—Transitional provisions for rate of return instrument
+95—Definitions
+In this Part—
+2013 non‑binding guideline means the guideline about determining the rate of return on capital issued by the AER in 2013;
+review, of the 2013 non‑binding guideline, means the review of the guideline started by the AER in 2017;
+stakeholders means—
+(a) service providers and consumer organisations; or
+(b) end users and prospective end users; or
+(c) any of the following persons the AER considers appropriate to give the AER advice or comment about the review of the 2013 non‑binding guideline—
+(i) persons engaged by a covered pipeline service provider, a consumer organisation or another entity to give the advice or comment;
+(ii) other persons the AER considers have the qualifications or experience appropriate to give the advice or comment; or
+(d) other persons the AER considers have an interest in the review of the 2013 non‑binding guideline.
+96—Making first rate of return instrument if review not completed before commencement
+(1) This clause applies if—
+(a) the review of the 2013 non‑binding guideline was not completed before the commencement of this clause; and
+(b) the AER has sought advice or comment from stakeholders in relation to the review; and
+(c) at least 3 months before making the first rate of return instrument, the AER has published on its website a draft of the proposed first rate of return instrument or proposed new non‑binding guideline under the Rules; and
+(d) the draft instrument or guideline has been reviewed by an independent panel consisting of at least 3 members with qualifications or experience the AER considers appropriate to conduct the review.
+(2) Chapter 2 Part 1 Division 1A Subdivision 3 does not apply in relation to making the first rate of return instrument.
+(3) The independent panel mentioned in subclause (1)(d) must seek to give the AER a consensus report on the panel's review.
+(4) However, a failure to give the AER a consensus report does not affect the making of the first rate of return instrument.
+97—Making first rate of return instrument if review completed before commencement
+(1) This clause applies if, before the commencement of this clause—
+(a) the review of the 2013 non‑binding guideline was completed and a new non‑binding guideline is in force under the Rules; and
+(b) the AER sought advice or comment from stakeholders in relation to the review; and
+(c) at least 3 months before making the new non‑binding guideline, the AER published on its website a draft of the proposed new non‑binding guideline; and
+(d) the draft was reviewed by an independent panel consisting of at least 3 members with qualifications or experience the AER considered appropriate to conduct the review; and
+(e) the independent panel gave the AER a report on the panel's review.
+(2) The new non‑binding guideline is taken to be the first rate of return instrument on the commencement.
+(3) For section 30P, the instrument is taken to have been published on the AER's website on the commencement.
+(4) The report mentioned in subclause (1)(e) need not be a consensus report on the panel's review.
+98—Application of this Law to particular decisions
+(1) The amended Law applies in relation to an AER economic regulatory decision made after the commencement even if any action or process for making the decision started before the commencement.
+(2) However, subclause (1) does not apply in relation to an AER economic regulatory decision made before the commencement that has been remitted back to the AER to make the decision again.
+(3) In this clause—
+amended Law means this Law as amended by the Statutes Amendment (National Energy Laws) (Binding Rate of Return Instrument) Act 2018;
+commencement means the commencement of Chapter 2 Part 1 Division 1A.
