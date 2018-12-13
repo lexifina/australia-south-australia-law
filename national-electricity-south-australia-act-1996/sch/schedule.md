@@ -6,7 +6,7 @@ This Law may be referred to as the National Electricity Law.
 (1) In this Law—
 access determination means a determination of the AER under Part 10;
 access dispute has the meaning given by section 2A;
-additional advisory functions—AEMO’s additional advisory functions are as set out in section 50B(1);
+additional advisory functions—AEMO's additional advisory functions are as set out in section 50B(1);
 additional Minister initiated Rules means Rules made under Part 7 Division 2 (other than section 90) by the Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia;
 adoptive jurisdiction means (according to context)—
 (a) a participating jurisdiction for which AEMO is authorised to exercise its additional advisory functions; or
@@ -18,13 +18,15 @@ AEMO amendments means—
 (b) the amendments to the Rules made by the National Electricity (South Australia) (National Electricity Rules—Australian Energy Market Operator) Amendment Rules 2009;
 AER means the Australian Energy Regulator established by section 44AE of the Competition and Consumer Act 2010 of the Commonwealth;
 AER economic regulatory decision means a decision (however described) of the AER under this Law or the Rules performing or exercising an AER economic regulatory function or power;
-AER economic regulatory function or power means a function or power performed or exercised by the AER under this Law or the Rules that relates to—
+AER economic regulatory function or power means a function or power performed or exercised by the AER under this Law or the Rules (other than making a rate of return instrument) that relates to—
 (a) the economic regulation of services provided by—
 (i) a regulated distribution system operator by means of, or in connection with, a distribution system; or
 (ii) a regulated transmission system operator or AEMO by means of, or in connection with, a transmission system; or
 (b) the preparation of a network service provider performance report; or
 (c) the making of a transmission determination or distribution determination; or
 (d) an access determination;
+Note—
+The application of a rate of return instrument under this Law is an AER economic regulatory function or power. See section 18V(2).
 AER wholesale market monitoring functions—the AER wholesale market monitoring functions are as set out in section 18C(1);
 AER wholesale market reporting functions—the AER wholesale market reporting functions are as set out in section 18C(2);
 application Act means an Act of a participating jurisdiction that applies, as a law of that jurisdiction, this Law or any part of this Law;
@@ -59,7 +61,7 @@ Court means—
 derogation means a jurisdictional derogation or participant derogation;
 declared network functions—AEMO's declared network functions are as set out in section 50C(1);
 declared power system of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
-declared shared network of an adoptive jurisdiction means the adoptive jurisdiction’s declared transmission system excluding any part of it that is a connection asset within the meaning of the Rules;
+declared shared network of an adoptive jurisdiction means the adoptive jurisdiction's declared transmission system excluding any part of it that is a connection asset within the meaning of the Rules;
 declared transmission system of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction and includes any augmentation of the defined declared transmission system;
 declared transmission system operator of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
 direct control network service has the meaning given by section 2B;
@@ -179,6 +181,7 @@ participating jurisdiction means a jurisdiction that is a participating jurisdic
 power system security means the safe scheduling and dispatch, and operation and control, of the national electricity system;
 prospective network service user means a person who seeks or wishes to be provided with an electricity network service;
 protected information has the meaning given by section 54(1);
+rate of return instrument—see section 18I(2);
 rebidding civil penalty provision means a provision of the Rules that is prescribed by the Regulations to be a rebidding civil penalty provision;
 Registered participant means a person who is registered as such by AEMO under this Law and the Rules or is registered as such by AEMO otherwise in accordance with the Rules;
 regulated distribution system operator means an owner, controller or operator of a distribution system—
@@ -422,7 +425,7 @@ Note—
 A certificate may be in respect of a Registered participant registered in accordance with section 12 and the Rules, or in accordance with the Rules alone.
 (2) In this section—
 authorised officer means—
-(a) for issuing a certificate that a person is a Registered participant or exempted from registration under section 12—AEMO’s CEO or a person authorised by AEMO’s CEO to issue certificates under this section; or
+(a) for issuing a certificate that a person is a Registered participant or exempted from registration under section 12—AEMO's CEO or a person authorised by AEMO's CEO to issue certificates under this section; or
 (b) for issuing a certificate that a person is exempted from registration under section 13—a member of the AER.
 Division 2—Regulated network service providers
 14A—Regulated transmission system operator must comply with transmission determination
@@ -452,6 +455,7 @@ Division 1—General
 (ea) to prepare and publish reports on the financial and operational performance of network service providers in providing electricity network services; and
 (eb) to approve compliance programs of service providers relating to compliance by service providers with this Law or the Rules; and
 (ec) AER wholesale market monitoring functions and AER wholesale market reporting functions; and
+(ed) to make a rate of return instrument; and
 (f) AER economic regulatory functions or powers; and
 (g) any other functions and powers conferred on it under this Law and the Rules.
 (2) The AER has the power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
@@ -549,8 +553,6 @@ such that a legislative, regulatory or other response is required; and
 (6) If the AER exercises its powers under this Part to obtain information contained in a document for the purposes of subsection (1)(b), the AER must return the document to the person from whom it was obtained—
 (a) within 12 months of obtaining the document; or
 (b) if it is not reasonably practicable to return the document within the 12 month period referred to in paragraph (a), as soon as is reasonably practicable to do so after the expiry of that 12 month period.
-Note—
-Section 18D(1)(b), (2)—(6) had not come into operation at the date of the publication of this version.
 18E—Immunity from liability
 (1) Despite any Act or law to the contrary, no liability for breach of confidence attaches to a designated entity with respect to the disclosure of confidential supplier information by any designated entity if the designated entity who made the disclosure reasonably believed—
 (a) that the information was not confidential supplier information; or
@@ -560,6 +562,165 @@ designated entity means—
 (a) the AER; or
 (b) a member of the AER; or
 (c) a person assisting the AER to perform its functions (or in the exercise of its powers) under this Division.
+Division 1B—Rate of return instrument
+Subdivision 1—Preliminary
+18F—Definitions
+In this Division—
+consumer reference group, for making a rate of return instrument, see section 18M(1)(a);
+explanatory information, for a rate of return instrument, means information about the content of the instrument, including (but not limited to) information explaining—
+(a) the reasons for the rate of return on capital or the value of imputation credits under the instrument; and
+(b) how the stated value, or the way to calculate the rate or value, was decided; and
+(c) if the instrument replaces another instrument—
+(i) the differences (if any) between the instrument and the replaced instrument; and
+(ii) the reasons for any differences; and
+(d) why the AER is satisfied the instrument will, or is most likely to, contribute to the achievement of the national electricity objective to the greatest degree; and
+(e) how the AER had regard to the following in making the instrument:
+(i) the revenue and pricing principles;
+(ii) the matters mentioned in section 18L;
+(iii) estimation methods, financial models, market data and other evidence relevant to making the instrument;
+(iv) prevailing conditions in the market for equity funds;
+(v) the interrelationships between financial parameters used, or to be used, in relation to deciding the rate or value.
+18G—Rate of return instrument has force of law
+(1) A rate of return instrument has the force of law in this jurisdiction.
+(2) An Act of this jurisdiction regulating the making of subordinate legislation does not apply to a rate of return instrument.
+18H—Rate of return instrument is binding on AER and network service providers
+A rate of return instrument is binding on—
+(a) the AER in relation to the performance or exercise of an AER economic regulatory function or power; and
+(b) each network service provider in relation to a matter relevant to the performance or exercise of an AER economic regulatory function or power.
+Subdivision 2—Requirement to make rate of return instrument
+18I—AER to make rate of return instrument
+(1) This section applies if a rate of return on capital or the value of imputation credits is required for performing or exercising an AER economic regulatory function or power.
+(2) The AER must make an instrument (a rate of return instrument) stating—
+(a) for a rate of return on capital—the way to calculate the rate; and
+(b) for the value of imputation credits—the value or the way to calculate the value.
+(3) The AER may make an instrument only if satisfied the instrument will, or is most likely to, contribute to the achievement of the national electricity objective to the greatest degree.
+(4) Subject to subsection (3), the way to calculate a rate of return on capital must include a weighted average of an allowed return on equity and an allowed return on debt.
+(5) In making an instrument, the AER must have regard to—
+(a) the revenue and pricing principles; and
+(b) other information the AER considers appropriate.
+18J—Content of rate of return instrument
+(1) If a rate of return instrument states the value of imputation credits, the instrument must state a single value to apply in relation to all regulated network service providers.
+(2) If a rate of return instrument states a way to calculate the rate of return on capital or the value of imputation credits, the instrument must—
+(a) provide for the same methodology to apply in relation to all regulated network service providers in calculating the rate or value; and
+(b) provide for the methodology to apply automatically without the exercise of any discretion by the AER.
+Example for paragraph (b)—
+The instrument can not include different methodologies or a band of values from which the AER could choose in applying the instrument.
+(3) Subject to subsections (1) and (2), the instrument may include other matters the AER considers appropriate.
+Example—
+Matters to help a regulated network service provider calculate a rate of return or the value of imputation credits.
+Subdivision 3—Consultation requirements
+18K—Process for making rate of return instrument
+Subject to this Division, the AER may make a rate of return instrument in the way it considers appropriate.
+18L—Other matters AER must have regard to in making instrument
+In making a rate of return instrument, the AER must also have regard to the following:
+(a) advice, recommendations or submissions given by a consumer reference group;
+(b) submissions made, and the report published, under section 18M;
+(c) submissions made under section 18O;
+(d) the report given by the independent panel under section 18P.
+18M—Requirements before publishing draft instrument
+(1) Before publishing a draft rate of return instrument under this Subdivision, the AER must—
+(a) establish a reference group to help the AER implement an effective consumer consultation process for making the proposed instrument (a consumer reference group); and
+(b) publish a notice on its website—
+(i) inviting persons to make a written submission to the AER about the proposed instrument; and
+(ii) stating the period, not less than 28 days, within which a submission must be made; and
+(c) seek concurrent expert opinions or evidence about the proposed instrument.
+(2) A person may make a submission after the stated period only with the written approval of the AER.
+(3) Subject to subsections (4) and (5), the AER may seek the expert opinions or evidence in the way it considers appropriate.
+Example—
+The AER might convene a conference of experts to identify key issues, and areas of dispute and agreement among the experts, about the content of the proposed instrument.
+(4) The AER must call for nominations of eligible experts but may seek the expert opinions or evidence from any eligible expert.
+(5) If practicable, the AER must seek the expert opinions or evidence from at least 3 eligible experts.
+(6) The AER must publish on its website—
+(a) submissions made under this section; and
+(b) a report on the outcomes of seeking the expert opinions or evidence.
+(7) In this section—
+eligible expert means a person with qualifications or experience in a field the AER considers relevant to making a rate of return instrument.
+Examples of relevant fields—
+Finance, economics, law, consumer affairs, institutional investment.
+18N—Consumer reference group
+(1) A consumer reference group for making a rate of return instrument—
+(a) is to consist of the members appointed by the AER; and
+(b) may carry out its activities, including giving advice or recommendations to the AER about the instrument, in the way it considers appropriate.
+(2) Without limiting subsection (1)(b), the consumer reference group may—
+(a) consult with consumers of electricity; and
+(b) facilitate consumer engagement in the process for making the instrument; and
+(c) make written submissions to the AER about the content of the instrument and the process for making it.
+(3) The AER must publish on its website any written advice, recommendations or submissions given to it by the consumer reference group.
+18O—Publication of draft instrument and other information
+(1) The AER must, at least 6 months before making a rate of return instrument, publish on its website—
+(a) a draft of the proposed instrument and the explanatory information for the instrument; and
+(b) a notice—
+(i) inviting persons to make a written submission to the AER about the proposed instrument; and
+(ii) stating the period, not less than 28 days, within which a submission must be made.
+(2) A person may make a submission after the stated period only with the written approval of the AER.
+(3) The AER must publish submissions made under this section on its website.
+18P—Report about draft instrument by independent panel
+(1) The AER must, as soon as practicable after publishing the draft instrument, establish an independent panel to give the AER a written report about the instrument.
+(2) The panel—
+(a) may carry out its activities, including giving the report, in the way it considers appropriate; but
+(b) must seek to give the report by consensus.
+(3) The panel must—
+(a) consist of at least 3 members, appointed by the AER, who have qualifications or experience in a field the AER considers relevant to making a rate of return instrument; and
+Examples of relevant fields—
+Finance, economics, law, consumer affairs, institutional investment.
+(b) give the report to the AER before the AER makes the instrument.
+(4) The AER must take reasonable steps to minimise and manage any conflicts of interest a panel member may have in relation to making the instrument.
+(5) The report must—
+(a) include the panel's assessment of the evidence and reasons supporting the rate of return on capital or the value of imputation credits under the instrument; and
+(b) state whether the report is given by consensus.
+(6) The AER must publish the report on its website.
+18Q—Publication of explanatory information
+The AER must publish explanatory information for a rate of return instrument on its website when the instrument is published under section 18S.
+18R—Failure to comply does not affect validity
+Failure to comply with this Subdivision does not invalidate or otherwise affect a rate of return instrument.
+Subdivision 4—Publication, review and other matters
+18S—Publication of rate of return instrument
+After making a rate of return instrument, the AER must publish the instrument on its website.
+Note—
+See section 18Q for the requirement to publish explanatory information for the instrument.
+18T—Commencement and duration of instrument
+A rate of return instrument—
+(a) commences on the day after it is published on the AER's website; and
+(b) remains in force until the end of the day it is replaced under section 18U.
+18U—Review and replacement of instrument
+(1) The AER must—
+(a) review each rate of return instrument; and
+(b) make a new rate of return instrument under this Division to replace the reviewed instrument.
+(2) The AER must replace the reviewed instrument by publishing the new instrument on its website on the day that is—
+(a) the fourth anniversary of the day the reviewed instrument was published; or
+(b) if the day mentioned in paragraph (a) is not a business day—the first business day after that day.
+18V—Application of instrument
+(1) A rate of return instrument—
+(a) applies for the purposes of an AER economic regulatory decision made after the commencement of the instrument; and
+(b) does not affect an AER economic regulatory decision made before the commencement of the instrument.
+(2) To remove any doubt, it is declared that the application of the instrument under this Law, including, for example, in making a distribution determination or transmission determination, is an AER economic regulatory function or power.
+18W—Rate of return instrument may apply for this Law and the National Gas Law
+(1) The AER may make 1 rate of return instrument for the purposes of this Law and the National Gas Law.
+(2) If the AER acts under subsection (1)—
+(a) the process for making the instrument under Chapter 2 Part 1 Division 1A of the National Gas Law is taken to have been complied with for the instrument; and
+(b) the instrument is taken to be the rate of return instrument for the purposes of the National Gas Law.
+Note—
+See also section 30R of the National Gas Law.
+(3) To remove any doubt, it is declared that the instrument may include different ways to calculate the rate of return on capital and the value of imputation credits for the purposes of this Law and the National Gas Law.
+Subdivision 5—Confidentiality of information
+18X—Confidentiality
+(1) If a person wishes to give information to the AER for the purposes of this Division in confidence—
+(a) the person must give the AER written notice that the person claims the information is confidential; and
+(b) give reasons to support the claim, including—
+(i) information about the detriment that might be caused to the person if the information were disclosed by the AER; and
+(ii) information that—
+(A) is reasonably within the person's knowledge and capacity to give; and
+(B) may be relevant to the AER's consideration under section 28ZB about whether the public benefit in disclosing the information outweighs the detriment.
+(2) In giving reasons to support a claim under subsection (1) about information received from another person (a third party), a person may include information that—
+(a) is reasonably within the person's knowledge and capacity to give; and
+(b) is about the detriment that might be caused to the third party if the information were disclosed by the AER; and
+(c) may be relevant to the AER's consideration under section 28ZB about whether the public benefit in disclosing the information outweighs the detriment.
+(3) In acting under subsection (1), a person must specifically identify the information in relation to which the claim is made.
+(4) Information given to the AER for the purposes of this Division is not to be regarded as being given in confidence, or to be confidential in any way, unless the information is subject to an express claim of confidentiality made under this section.
+18Y—Disclosure of information given in confidence
+(1) Division 6 applies in relation to publishing information given to the AER in confidence under this Division.
+(2) In this section—
+information includes advice, recommendations, submissions and reports.
 Division 2—Search warrants
 19—Definitions
 In this Division—
@@ -749,8 +910,8 @@ See also section 28ZC about what the AER must and may do after receiving submiss
 (b) give its reasons, in writing, why the regulatory information notice to be served is an urgent notice.
 (3) A regulatory information notice is an urgent notice if—
 (a) under the notice the AER will require the regulated network service provider or related provider to provide information to the AER; and
-(b) that requirement has arisen because the AER considers it must deal with or address a particular matter or thing in order for it to make an AER economic regulatory decision; and
-(c) the AER considers that, having regard to the time within which it must make that AER economic regulatory decision, the time within which the AER requires the information is of the essence.
+(b) that requirement has arisen because the AER considers it must deal with or address a particular matter or thing in order for it to make an AER economic regulatory decision or a rate of return instrument; and
+(c) the AER considers that, having regard to the time within which it must make that AER economic regulatory decision or rate of return instrument, the time within which the AER requires the information is of the essence.
 (4) A notice under subsection (1) must—
 (a) invite the regulated network service provider, or the related provider, to make written representations to the AER as to whether the AER should serve the regulatory information notice on them; and
 (b) specify the period within which the regulated network service provider, or the related provider, may make the representations.
@@ -834,14 +995,14 @@ The AER, in relation to information given to the AER in compliance with a regula
 28Q—Assumptions where there is non-compliance with regulatory information instrument
 (1) This section applies if—
 (a) under a regulatory information instrument the AER—
-(i) requires a regulated network service provider to provide information to the AER for the purpose of enabling the AER to make an AER economic regulatory decision relating to the regulated network service provider; or
-(ii) requires a related provider to provide information to the AER that is relevant to the making of an AER economic regulatory decision relating to a regulated network service provider; and
+(i) requires a regulated network service provider to provide information to the AER for the purpose of enabling the AER to make an AER economic regulatory decision relating to the regulated network service provider or to make a rate of return instrument; or
+(ii) requires a related provider to provide information to the AER that is relevant to the making of an AER economic regulatory decision relating to a regulated network service provider or the making of a rate of return instrument; and
 (b) the regulated network service provider or related provider—
 (i) does not provide the information to the AER in accordance with the applicable regulatory information instrument; or
 (ii) provides information that is insufficient (when compared to what was requested under the applicable regulatory information instrument).
 (2) Without limiting sections 28N and 28O and despite anything to the contrary in this Law or the Rules, the AER—
-(a) may make the AER economic regulatory decision on the basis of the information the AER has at the time it makes that decision; and
-(b) in making that decision, may make reasonable assumptions (including assumptions adverse to the interests of the regulated network service provider) in respect of the matters the information required under the regulatory information instrument would have addressed had that information been provided as required.
+(a) may make the AER economic regulatory decision or the rate of return instrument on the basis of the information the AER has at the time it makes that decision or instrument; and
+(b) in making that decision or instrument, may make reasonable assumptions (including assumptions adverse to the interests of the regulated network service provider) in respect of the matters the information required under the regulatory information instrument would have addressed had that information been provided as required.
 Subdivision 5—General
 28R—Providing to AER false and misleading information
 A person must not, in purported compliance with a regulatory information instrument requiring the person to provide information to the AER, provide information to the AER that the person knows is false or misleading in a material particular.
@@ -1230,7 +1391,7 @@ Division 1—General
 (i) any other functions conferred under this Law or the Rules.
 Notes—
 1 AEMO has additional functions under its Constitution.
-2 It should be noted that AEMO’s statutory functions include its functions under the National Gas Law, the National Gas Rules and related subordinate legislation: See definition of statutory functions in section 2.
+2 It should be noted that AEMO's statutory functions include its functions under the National Gas Law, the National Gas Rules and related subordinate legislation: See definition of statutory functions in section 2.
 3 AEMO also has responsibilities, under Part 4 of the Australian Energy Market Commission Establishment Act 2004 of South Australia, related to administrative costs associated with the work of the Consumer Advocacy Panel.
 4 AEMO has additional functions and powers under the National Energy Retail Law and the National Energy Retail Rules.
 (2) In its role as National Transmission Planner, AEMO has the following functions:
@@ -1240,14 +1401,14 @@ Notes—
 (d) to provide a national strategic perspective for transmission planning and coordination;
 (e) any other functions conferred on AEMO under this Law or the Rules in its capacity as National Transmission Planner.
 (3) AEMO must, in carrying out functions referred to in this section, have regard to the national electricity objective.
-49A—AEMO’s power to carry out statutory functions
+49A—AEMO's power to carry out statutory functions
 AEMO has the power to do all things necessary or convenient for or in connection with its statutory functions.
 49B—Delegation
 (1) Subject to subsection (2) and the Rules, AEMO may delegate any of its functions or powers under this Law or the Rules to—
 (a) a director, officer or employee of AEMO; or
 (b) a member of a committee established by AEMO.
 (2) However, a function or power classified by the Regulations as non‑delegable cannot be delegated.
-(3) A delegate may, subject to AEMO’s directions, subdelegate a delegated function or power to a director, officer or employee of AEMO.
+(3) A delegate may, subject to AEMO's directions, subdelegate a delegated function or power to a director, officer or employee of AEMO.
 (4) A delegate (or subdelegate) must comply with any direction given by AEMO that is relevant to the exercise of the delegated functions or powers.
 Division 2—AEMO's adoptive jurisdiction functions
 Subdivision 1—Preliminary
@@ -1259,22 +1420,22 @@ Subdivision 1—Preliminary
 (1) AEMO must, at the written request of the Minister of an adoptive jurisdiction, provide information about the performance of its adoptive functions with respect to that jurisdiction.
 (2) Protected information provided in response to a request under subsection (1) must be identified as such by AEMO at the time of providing the information.
 (3) No fee is to be charged for the provision of information under this section.
-Subdivision 2—AEMO’s additional advisory functions
+Subdivision 2—AEMO's additional advisory functions
 50B—Additional advisory functions
-(1) AEMO’s additional advisory functions are as follows:
-(a) to prepare and publish a report on an adoptive jurisdiction’s declared power system;
+(1) AEMO's additional advisory functions are as follows:
+(a) to prepare and publish a report on an adoptive jurisdiction's declared power system;
 (b) to report to the Minister of an adoptive jurisdiction on matters relevant to the future capacity and reliability of the declared power system.
 (2) The additional advisory functions are to be exercised as follows:
-(a) a report on an adoptive jurisdiction’s declared power system is to be prepared and published under subsection (1)(a) at the request of the Minister of the relevant jurisdiction;
-(b) a report is to be provided under subsection (1)(b) at the request of the Minister of the relevant jurisdiction or on AEMO’s own initiative.
+(a) a report on an adoptive jurisdiction's declared power system is to be prepared and published under subsection (1)(a) at the request of the Minister of the relevant jurisdiction;
+(b) a report is to be provided under subsection (1)(b) at the request of the Minister of the relevant jurisdiction or on AEMO's own initiative.
 (3) A report under subsection (1)(a) must include an assessment of the performance of connections between transmission systems and distribution systems in the relevant jurisdiction and the need (if any) for new connections.
 (4) A request under subsection (1)(a) or (1)(b) may be for a single report or for reports to be made on an annual or other periodic basis.
-Subdivision 3—AEMO’s declared network functions
+Subdivision 3—AEMO's declared network functions
 50C—AEMO's declared network functions
 (1) AEMO's declared network functions are as follows:
 (a) to plan, authorise, contract for, and direct, augmentation of the declared shared network;
 (b) to provide information about the planning processes for augmentation of the declared shared network;
-(c) to provide information and other services to facilitate decisions for investment and the use of resources in the adoptive jurisdiction’s electricity industry;
+(c) to provide information and other services to facilitate decisions for investment and the use of resources in the adoptive jurisdiction's electricity industry;
 (d) to provide shared transmission services by means of, or in connection with, the declared shared network;
 (e) any other functions, related to the declared transmission system or electricity network services provided by means of or in connection with the declared transmission system, conferred on it under this Law or the Rules;
 (f) any other functions, related to the declared transmission system or electricity network services provided by means of or in connection with the declared transmission system, conferred on it under a law of the adoptive jurisdiction.
@@ -1283,7 +1444,7 @@ Subdivision 3—AEMO’s declared network functions
 (b) may make or issue market information instruments as may be necessary or expedient for that or any other declared network function.
 50D—Network agreement
 (1) A declared transmission system operator must have an agreement (a network agreement) with AEMO—
-(a) for the provision of electricity network services (shared network capability services) for the performance of AEMO’s declared network functions; and
+(a) for the provision of electricity network services (shared network capability services) for the performance of AEMO's declared network functions; and
 (b) containing such other provisions as may be required by the Rules.
 Note—
 Subsection (1) is a civil penalty provision.
@@ -1291,7 +1452,7 @@ Subsection (1) is a civil penalty provision.
 (3) The offer must be submitted within 20 business days after the date of the request.
 (4) The terms and conditions of a network agreement under this section are to be regarded as protected information but are liable to disclosure under the provisions of Division 6 that allow for the disclosure of protected information.
 Exception—
-Insofar as the terms and conditions of a network agreement can be inferred from a determination to be published on AEMO’s website under section 50H(6), they are not to be regarded as protected information.
+Insofar as the terms and conditions of a network agreement can be inferred from a determination to be published on AEMO's website under section 50H(6), they are not to be regarded as protected information.
 (5) The Rules may require or regulate the provision of shared network capability services.
 (6) If there is any inconsistency between a network agreement and a transmission determination as to the price of electricity network services to be provided by means of, or in connection with, the declared transmission system, the transmission determination prevails.
 (7) In this section—
@@ -1324,7 +1485,7 @@ Probabilistic planning is not relevant to negotiated network services. Hence, if
 (3) Subject to the Rules, AEMO must conduct a competitive tender to determine who will carry out an augmentation to a declared shared network.
 (4) A declared transmission system operator—
 (a) must do anything required by the Rules to facilitate the planning, construction or operation of an augmentation; and
-(b) must, at AEMO’s request, do anything else reasonably required by AEMO to facilitate the planning, construction or operation of an augmentation.
+(b) must, at AEMO's request, do anything else reasonably required by AEMO to facilitate the planning, construction or operation of an augmentation.
 Example—
 A declared transmission system operator will be required by the Rules to enter into an augmentation connection agreement with the person responsible for operation of an augmentation to connect the augmentation with the declared shared network.
 (5) A declared transmission system operator must not engage in conduct that has the effect of preventing or hindering the planning, construction or operation of an augmentation.
@@ -1350,7 +1511,7 @@ Subsections (1), (4) and (5) are civil penalty provisions: See the definition of
 (6) A determination under this section must be published on AEMO's website.
 (7) In this section, a reference to a declared transmission system operator extends to a prospective declared transmission system operator within the meaning of section 50D(7).
 50J—General principles governing determinations
-(1) A determination under this Subdivision must be compatible with the proper performance of AEMO’s declared network functions.
+(1) A determination under this Subdivision must be compatible with the proper performance of AEMO's declared network functions.
 (2) In determining a dispute about a network agreement or an augmentation connection agreement, or an amendment to a network agreement or an augmentation connection agreement, the AER must have regard to the Rules and the allocation of functions, powers and duties between AEMO and the declared transmission system operator, so far as relevant to—
 (a) the allocation of risk under such an agreement; or
 (b) the provision of shared network capability services; or
@@ -1386,10 +1547,10 @@ Division 4—Fees and charges
 (3) Exact equivalence is not required between the costs of providing a service and the revenue derived from providing the service in a particular accounting period if there are reasonable grounds to believe that costs will over time approximate revenue.
 Note—
 This section does not prevent AEMO from generating a profit from the performance of non-statutory functions (such as the provision of consultancy services). Any such profit would not, however, be available for distribution to members.
-(4) Despite the above provisions, a component of AEMO’s fees and charges may, if the Rules so provide, relate to costs that are not specifically referable to services provided under this Law or the Rules.
+(4) Despite the above provisions, a component of AEMO's fees and charges may, if the Rules so provide, relate to costs that are not specifically referable to services provided under this Law or the Rules.
 Note—
-As a general rule, AEMO’s expenditures will be allocated to services provided to the electricity industry or the gas industry. Subsection (4) deals with costs that cannot be wholly attributed to either industry.
-(5) This section does not limit AEMO’s power to determine, charge for and recover fees and charges for carrying out functions conferred by jurisdictional legislation.
+As a general rule, AEMO's expenditures will be allocated to services provided to the electricity industry or the gas industry. Subsection (4) deals with costs that cannot be wholly attributed to either industry.
+(5) This section does not limit AEMO's power to determine, charge for and recover fees and charges for carrying out functions conferred by jurisdictional legislation.
 (6) In this section—
 service includes the performance of statutory functions.
 Division 5—Information gathering
@@ -2181,7 +2342,7 @@ Subdivision 1—Initial Rules made by Minister
 (7) If the Minister referred to in subsection (1) makes Rules under that subsection, the Minister cannot make another Rule under that subsection.
 90B—South Australian Minister to make initial Rules related to AEMO's functions under this Law
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules on any 1 or more of the following subjects:
-(a) AEMO’s statutory functions (including the additional advisory functions and the declared network functions);
+(a) AEMO's statutory functions (including the additional advisory functions and the declared network functions);
 (b) the subject matter of a new head of power added to Schedule 1 by the AEMO amendments;
 (c) any other subject contemplated by, or consequential on, the AEMO amendments.
 (2) Rules may only be made under subsection (1) on the recommendation of the MCE.
@@ -2191,6 +2352,21 @@ Subdivision 1—Initial Rules made by Minister
 (a) publish in the South Australian Government Gazette notice of the making of the Rules stating the date of commencement of the Rules or, if different Rules commence at different times, the various dates of commencement; and
 (b) make the Rules publicly available.
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+90BA—South Australian Minister may make consequential Rules relating to rate of return instrument
+(1) The South Australian Minister may make Rules that revoke or amend a Rule if the revocation or amendment is consequential on the enactment of the Statutes Amendment (National Energy Laws) (Binding Rate of Return Instrument) Act 2018.
+(2) Without limiting subsection (1), the South Australian Minister may make a rule providing that the rate of return on capital under a rate of return instrument in force at the start of a regulatory period applies throughout the period.
+(3) Section 34(3) applies to Rules made under this section in the same way it applies to Rules made by the AEMC.
+(4) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules commence operation; and
+(b) if different Rules will commence operation on different dates, those dates.
+(6) Rules may only be made under this section on the recommendation of the MCE.
+(7) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(8) In this section—
+regulatory period means the period specified in a network revenue or pricing determination to be the regulatory period;
+South Australian Minister means the Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia.
 90C—South Australian Minister to make initial Rules related to smart meters
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules for or with respect to either or both of the following subjects:
 (a) the smart meter amendments;
@@ -2289,11 +2465,11 @@ Section 38(2) describes the functions of the Reliability Panel.
 (a) it; or
 (b) it and the Registered participant; or
 (c) it and the class of Registered participant.
-(7) A request for a Rule regulating AEMO’s declared network functions may only be made by—
+(7) A request for a Rule regulating AEMO's declared network functions may only be made by—
 (a) AEMO; or
 (b) a declared transmission system operator that is a party to a network agreement with AEMO; or
 (c) a Minister of an adoptive jurisdiction.
-(8) The AEMC may only make a Rule that has effect with respect to an adoptive jurisdiction if satisfied that the proposed Rule is compatible with the proper performance of AEMO’s declared network functions.
+(8) The AEMC may only make a Rule that has effect with respect to an adoptive jurisdiction if satisfied that the proposed Rule is compatible with the proper performance of AEMO's declared network functions.
 (9) The AEMC may only make a Rule that affects the allocation of powers, functions and duties between AEMO and a declared transmission system operator if—
 (a) AEMO consents to the making of the Rule; or
 (b) the Rule is requested by the Minister of the relevant adoptive jurisdiction.
@@ -2526,7 +2702,7 @@ sensitive loads means the loads or classes of loads specified as such in jurisdi
 (a) jurisdictional load shedding guidelines; and
 (b) the order in which loads are to be shed or restored; and
 (c) the classification of loads as sensitive; and
-(d) the sensitive loads that are not to be shed or restored without the Minister’s approval.
+(d) the sensitive loads that are not to be shed or restored without the Minister's approval.
 111—Jurisdictional system security coordinator to prepare jurisdictional load shedding guidelines
 (1) The jurisdictional system security coordinator must, subject to the Rules, prepare, maintain, and if necessary, update guidelines in relation to the shedding, and restoration, of loads in this jurisdiction for—
 (a) the purpose of enabling AEMO to maintain power system security; or
@@ -3019,8 +3195,7 @@ Transmission system revenue and pricing
 (b) operating costs of a regulated transmission system operator; and
 (c) if the regulated transmission system operator is a corporation or other body corporate—
 (i) the income tax payable by corporations; or
-(ii) amounts payable under a law of this jurisdiction or otherwise that are equivalent to income tax that would be payable by the operator if that operator were liable to pay income tax; and
-(d) a rate of return on assets forming part of a transmission system owned, controlled or operated by a regulated transmission system operator.
+(ii) amounts payable under a law of this jurisdiction or otherwise that are equivalent to income tax that would be payable by the operator if that operator were liable to pay income tax.
 23 Incentives for regulated transmission system operators to make efficient operating and investment decisions including, where applicable, service performance incentive schemes.
 24 The procedure for the making of a transmission determination by the AER, including—
 (a) the submission by the relevant service provider of a proposal to the AER relating to the revenue or prices to be regulated by the proposed transmission determination; or
@@ -3042,8 +3217,7 @@ Distribution system revenue and pricing
 (b) operating costs of a regulated distribution system operator; and
 (c) if the regulated distribution system operator is a corporation or other body corporate—
 (i) the income tax payable by corporations; or
-(ii) amounts payable under a law of this jurisdiction or otherwise that are equivalent to income tax that would be payable by the operator if that operator were liable to pay income tax; and
-(d) a rate of return on assets forming part of a distribution system owned, controlled or operated by a regulated distribution system operator.
+(ii) amounts payable under a law of this jurisdiction or otherwise that are equivalent to income tax that would be payable by the operator if that operator were liable to pay income tax.
 26G Incentives for regulated distribution system operators to make efficient operating and investment decisions including, where applicable, service performance incentive schemes.
 26H The procedure for the making of a distribution determination by the AER, including—
 (a) the submission to the AER, by a regulated distribution system operator, of a proposal relating to the revenues or prices to be regulated by a distribution determination applying to the operator; and
@@ -3077,7 +3251,7 @@ Metering
 Disputes in relation to the Rules
 30 Disputes under or in relation to the Rules between persons, including—
 (a) the appointment of persons to arbitrate, mediate or assist in some other way in the resolution of such disputes;
-(b) the appointment of a person to manage and facilitate the dispute resolution process (without however derogating from that person’s power to act personally as an arbitrator or mediator in a particular dispute);
+(b) the appointment of a person to manage and facilitate the dispute resolution process (without however derogating from that person's power to act personally as an arbitrator or mediator in a particular dispute);
 (c) the procedure for the conduct of such disputes;
 (d) the provision for appeals on questions of law against decisions of persons appointed to resolve such disputes.
 Access disputes
@@ -3522,6 +3696,7 @@ In any proceedings under this Law, a certificate signed or purported to be signe
 (iii) a general regulatory information order;
 (iv) a notice, notification, direction or requirement;
 (b) a stated document is a copy of a thing referred to in paragraph (a);
+(ba) a stated document is a copy of a rate of return instrument;
 (c) on a stated day, a person was or was not—
 (i) given a decision (however described) or determination (however described);
 (ii) authorised as an authorised person (within the meaning of section 19);
@@ -3543,8 +3718,8 @@ In any proceedings under this Law, a certificate signed or purported to be signe
 (1) In any proceedings under this Law, any of the following certificates signed or purportedly signed by an authorised officer is evidence of the matter certified:
 (a) a certificate certifying that a document identified in the certificate is a decision (however described) or a determination (however described) made by AEMO or a copy of such a decision or determination;
 (b) a certificate certifying that a document identified in the certificate was made, issued, developed, prepared, promulgated, served, sent, delivered, or given under this Law or the Rules on a specified date or over a specified period;
-(c) a certificate certifying that a decision, determination or notice was published on AEMO’s website on a specified date.
-(2) For this clause, an authorised officer is AEMO’s CEO or a person authorised by AEMO’s CEO to issue certificates under this clause.
+(c) a certificate certifying that a decision, determination or notice was published on AEMO's website on a specified date.
+(2) For this clause, an authorised officer is AEMO's CEO or a person authorised by AEMO's CEO to issue certificates under this clause.
 Note—
 There is no clause 31AG.
 Part 6B—Commencement of this Law and Statutory instruments
@@ -3625,7 +3800,12 @@ Part 9—Instruments under this Law
 (1) This Schedule applies to a statutory instrument, and to things that may be done or are required to be done under a statutory instrument, in the same way as it applies to this Law, and things that may be done or are required to be done under this Law, except so far as the context or subject matter otherwise indicates or requires.
 (2) The fact that a provision of this Schedule refers to this Law and not also to a statutory instrument does not, by itself, indicate that the provision is intended to apply only to this Law.
 (3) In this clause—
-statutory instrument includes the Regulations or the Rules.
+statutory instrument includes the Regulations, the rate of return instrument or the Rules.
+41A—Rate of return instrument construed not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
+(1) A rate of return instrument is to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made.
+(2) If a provision of the rate of return instrument, or the application of a provision of the instrument to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made—
+(a) it is a valid provision to the extent to which it is not in excess of the power; and
+(b) the remainder of the instrument, and the application of the provision to other persons, subject matters or circumstances, is not affected.
 42—National Electricity Rules to be construed so as not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
 (1) The National Electricity Rules are to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which they are made.
 (2) If a provision of the National Electricity Rules, or the application of a provision of the National Electricity Rules to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made—
@@ -3647,6 +3827,17 @@ The term "function" is defined in clause 10 to include "duty".
 (d) affect a penalty arising because of a breach of the Rule; or
 (e) affect an investigation, proceeding or remedy in relation to such a right, privilege, liability or penalty.
 (2) A penalty may be imposed and enforced, and any such investigation, proceeding or remedy may be begun, continued or enforced as if the Rule had not been ordered by the Court as invalid.
+43A—Invalid rate of return instrument
+(1) This clause applies if the Court orders (by declaration or otherwise) that a rate of return instrument is invalid.
+(2) The AER must make a new rate of return instrument under this Law to replace the invalid instrument.
+(3) Until the invalid instrument is replaced, the rate of return on capital and the value of imputation credits under the invalid instrument continue to apply for the purposes of this Law.
+(4) However, the AER must deal with any affected determination to apply the new rate of return instrument to the determination as if the new instrument had applied from the start of the determination.
+(5) Subclause (4) applies despite section 18V(1).
+(6) In this clause—
+affected determination means a distribution determination or transmission determination to which the invalid instrument applied or continued to apply;
+deal with, an affected determination, means to do either of the following the AER considers appropriate in the circumstances—
+(a) revoke the determination and substitute a new determination;
+(b) vary the determination.
 Schedule 3—Savings and transitionals
 (section 4)
 Part 1—General
@@ -3793,7 +3984,7 @@ In this Part—
 AEMO T means Australian Energy Market Operator (Transitional) Ltd (ACN 132 770 104);
 costs of transition means expenditure incurred by the Commonwealth, AEMO T, AEMO and the former electricity planning authorities in or in relation to—
 (a) restructuring NEMMCO in anticipation of its assumption of a wider role (as AEMO); or
-(b) preparing for AEMO’s assumption of its statutory functions;
+(b) preparing for AEMO's assumption of its statutory functions;
 current rules means the provisions of this Law and the Rules;
 ESIPC means the Electricity Supply Industry Planning Council established under the Electricity Act 1996 of South Australia;
 former electricity planning authority means—
@@ -3845,3 +4036,40 @@ Part 15—Transitional provision related to AEMC rule making powers
 The amendment to section 96 of this Law by section 9 of the Statutes Amendment (National Energy Laws) (Rules) Act 2018 does not apply to the making of—
 (a) a Rule on a request under section 91(1) of this Law received by the AEMC before the commencement of this clause; or
 (b) an AEMC initiated Rule (within the meaning of section 87 of this Law) in respect of which the AEMC has, before the commencement of this clause, published notice of its intention to make.
+Part 16—Transitional provisions for rate of return instrument
+29—Definitions
+In this Part—
+2013 non‑binding guideline means the guideline about determining the rate of return on capital issued by the AER in 2013;
+review, of the 2013 non‑binding guideline, means the review of the guideline started by the AER in 2017;
+stakeholders means—
+(a) regulated network service providers and consumer organisations; or
+(b) network service users and prospective network service users; or
+(c) any of the following persons the AER considers appropriate to give the AER advice or comment about the review of the 2013 non‑binding guideline—
+(i) persons engaged by a regulated network service provider, a consumer organisation or another entity to give the advice or comment;
+(ii) other persons the AER considers have the qualifications or experience appropriate to give the advice or comment;
+(d) other persons the AER considers have an interest in the review of the 2013 non‑binding guideline.
+30—Making first rate of return instrument if review not completed before commencement
+(1) This clause applies if—
+(a) the review of the 2013 non‑binding guideline is not completed before the commencement of this clause; and
+(b) the AER has sought advice or comment from stakeholders in relation to the review; and
+(c) at least 3 months before making the first rate of return instrument, the AER has published on its website a draft of the proposed first rate of return instrument or proposed new non‑binding guideline under the Rules; and
+(d) the draft instrument or guideline has been reviewed by an independent panel consisting of at least 3 members with qualifications or experience the AER considers appropriate to conduct the review.
+(2) Part 3 Division 1B Subdivision 3 does not apply in relation to making the first rate of return instrument.
+(3) The independent panel mentioned in subclause (1)(d) must seek to give the AER a consensus report on the panel's review.
+(4) However, a failure to give the AER a consensus report does not affect the making of the first rate of return instrument.
+31—Making first rate of return instrument if review completed before commencement
+(1) This clause applies if, before the commencement of this clause—
+(a) the review of the 2013 non‑binding guideline was completed and a new non‑binding guideline is in force under the Rules; and
+(b) the AER sought advice or comment from stakeholders in relation to the review; and
+(c) at least 3 months before making the new non‑binding guideline, the AER published on its website a draft of the proposed new non‑binding guideline; and
+(d) the draft was reviewed by an independent panel consisting of at least 3 members with qualifications or experience the AER considered appropriate to conduct the review; and
+(e) the independent panel gave the AER a report on the panel's review.
+(2) The new non‑binding guideline is taken to be the first rate of return instrument on the commencement.
+(3) For section 18U, the instrument is taken to have been published on the AER's website on the commencement.
+(4) The report mentioned in subclause (1)(e) need not be a consensus report on the panel's review.
+32—Application of this Law to particular decisions
+(1) The amended Law applies in relation to an AER economic regulatory decision made after the commencement even if any action or process for making the decision started before the commencement.
+(2) However, subclause (1) does not apply in relation to an AER economic regulatory decision made before the commencement that has been remitted back to the AER to make the decision again.
+(3) In this clause—
+amended Law means this Law as amended by the Statutes Amendment (National Energy Laws) (Binding Rate of Return Instrument) Act 2018;
+commencement means the commencement of Part 3 Division 1B.
