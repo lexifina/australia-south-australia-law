@@ -12,6 +12,7 @@ Part 8—Fraud, unlawful possession etc
 Part 9—Offences with respect to property
 Part 10—Nuisances and annoyances
 Part 11—Control of traffic on special occasions
+Part 11A—Disrespectful conduct in court
 Part 12—Bribery of police
 Part 13—False reports to police
 Part 14—Proceedings by councils for certain offences
