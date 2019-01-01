@@ -52,6 +52,7 @@ Subdivision 2—Licensee barring orders
 Subdivision 3—Police barring orders
 Subdivision 4—Miscellaneous
 Division 4—Public order and safety
+Part 9A—Liquor accords
 Part 10—Unlawful consumption of liquor
 Part 10A—Prohibition of manufacture, sale or supply of certain liquor
 Part 11—Miscellaneous
