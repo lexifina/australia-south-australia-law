@@ -8,10 +8,7 @@ Division 1—Powers of the Governor
 Division 2—Powers of councils and representation reviews
 Part 2—Reform proposals
 Division 3—Principles
-Division 4—Council initiated proposals
-Division 5—Public initiated submissions
-Division 6—Submissions of proposals to Governor
-Division 7—Related matters
+Division 4—Procedures for proposals
 Part 3—General provisions
 Chapter 4—The council as a body corporate
 Part 1—Fundamental features

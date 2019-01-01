@@ -1,8 +1,6 @@
 Schedule 5—Documents to be made available by councils
 Reviews of council constitution, wards and boundaries
 • Representation options papers and reports on reviews of council composition or ward structure (Chapter 3 Part 1 Division 2)
-• Reports of the Minister under Chapter 3 Part 2 Division 4 or 5 provided to the council by the Minister
-• Summary of issues surrounding a proposal to be submitted to a poll under Chapter 3 Part 2 Division 5
 Registers and Returns
 • Registers required under this Act or the Local Government (Elections) Act 1999, other than the Register of Interests kept for the purposes of Chapter 7 Part 4 Division 2
 • Campaign donations returns under the Local Government (Elections) Act 1999
