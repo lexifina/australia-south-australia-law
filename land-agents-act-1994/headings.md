@@ -1,5 +1,6 @@
 Part 1—Preliminary
 Part 2—Registration and management of agent's business
+Part 2AA—Suspension or variation of registration in urgent circumstances
 Part 2A—Cancellation, suspension or variation of registration
 Part 3—Trust accounts and indemnity fund
 Division 1—Preliminary
