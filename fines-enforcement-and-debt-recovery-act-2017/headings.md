@@ -10,8 +10,6 @@ Part 7—Enforcement
 Division 1—Enforcement action
 Division 2—Failure of enforcement process
 Part 8—Civil debt recovery
-Note—
-Part 8 had not come into operation at the date of the publication of this version.
 Division 1—Preliminary
 Division 2—Recovery of civil debt
 Division 3—Payment arrangements
