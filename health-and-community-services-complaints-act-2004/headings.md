@@ -18,6 +18,6 @@ Division 1—Application of Part
 Division 2—Conduct of investigations
 Division 3—Privilege
 Division 4—Action on investigation
-Division 5—Action against unregistered health practitioners
+Division 5—Action against certain health service providers
 Part 7—Relationship between Commissioner and registration authorities
 Part 9—Miscellaneous
