@@ -1,5 +1,5 @@
 110AAAA—Certain provisions not to apply to drivers of emergency vehicles
-(1) Sections 44B, 45A, 82, 83 and 110 do not apply to the driver of an emergency vehicle if—
+(1) Sections 44B, 45A, 45C, 82, 83 and 110 do not apply to the driver of an emergency vehicle if—
 (a) in the circumstances—
 (i) the driver is taking reasonable care; and
 (ii) it is reasonable that the provision should not apply; and
