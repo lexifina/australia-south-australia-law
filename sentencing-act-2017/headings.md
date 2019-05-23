@@ -7,7 +7,6 @@ Division 1—Purposes, principles and factors
 Division 2—General sentencing provisions
 Subdivision 1—Procedural provisions
 Subdivision 2—General sentencing powers
-Subdivision 3—Taking further offences into account
 Subdivision 4—Sentencing reductions
 Part 3—Custodial sentences
 Division 1—Imprisonment
