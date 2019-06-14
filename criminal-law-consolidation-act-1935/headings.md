@@ -75,13 +75,17 @@ Division 3—Mental unfitness to stand trial
 Division 3A—Disposition of persons with mental impairment charged with summary and minor indictable offences
 Subdivision 1—Principle on which court is to act
 Subdivision 2—Making, variation and revocation of Division 3A orders
+Subdivision 3—Administrative detention for defendant released on licence under this Division
 Subdivision 4—Custody, supervision and care
 Subdivision 5—Effect of supervening imprisonment on Division 3A order
 Division 4—Disposition of persons declared to be liable to supervision under this Division
 Subdivision 1—Principle on which court is to act
 Subdivision 2—Making, variation and revocation of supervision orders
+Subdivision 3—Continuing supervision orders
+Subdivision 4—Administrative detention for defendant released on licence under this Division
 Subdivision 5—Custody, supervision and care
 Subdivision 6—Effect of supervening imprisonment on an order under Division 4
+Division 4A—Interstate transfer of persons subject to supervision order
 Division 5—Miscellaneous
 Part 9—Miscellaneous and procedure
 Division 1—Punishment for certain common law offences
