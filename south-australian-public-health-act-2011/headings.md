@@ -27,4 +27,5 @@ Part 12—Notices and emergency situations
 Division 1—Interpretation
 Division 2—Notices and emergencies
 Division 3—Reviews and appeals
+Part 12A—Immunisation and Early Childhood Services
 Part 13—Miscellaneous
