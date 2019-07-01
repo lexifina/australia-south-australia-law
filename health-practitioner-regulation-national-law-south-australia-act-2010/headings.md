@@ -22,4 +22,9 @@ Division 5—Restrictions relating to provision of pharmacy services
 Division 6—Disciplinary proceedings
 Division 7—Related provisions
 Part 5—Optometry practice
+Part 5A—Restrictions on single person attendances in remote areas
+Division 1—Preliminary
+Division 2—Restrictions on single person attendances in remote areas
+Division 3—Providers of health services in remote areas to have policies and procedures to ensure safety and security of health practitioners
+Division 4—Miscellaneous
 Part 6—Miscellaneous

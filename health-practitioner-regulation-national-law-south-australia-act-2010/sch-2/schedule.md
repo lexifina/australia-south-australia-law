@@ -1143,14 +1143,14 @@ Subdivision 1—Title protections
 (a) take or use a title in the Table to this section, in a way that could be reasonably expected to induce a belief the person is registered under this Law in the health profession listed beside the title in the Table, unless the person is registered in the profession; or
 (b) take or use a prescribed title for a health profession, in a way that could be reasonably expected to induce a belief the person is registered under this Law in the profession, unless the person is registered in the profession.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
 (2) A person must not knowingly or recklessly—
 (a) take or use a title in the Table in relation to another person (the second person), in a way that could be reasonably expected to induce a belief the second person is registered under this Law in the health profession listed beside the title in the Table, unless the second person is registered in the profession; or
 (b) take or use a prescribed title for a health profession in relation to another person (the second person), in a way that could be reasonably expected to induce a belief the second person is registered under this Law in the profession, unless the second person is registered in the profession.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
 (3) Subsections (1) and (2) apply whether or not the title is taken or used with or without any other words and whether in English or any other language.
 Table—Protected titles
 Profession │ Title │
@@ -1179,15 +1179,15 @@ Psychology │ psychologist │
 (b) the title "medical specialist" unless the person is registered in a recognised specialty in the medical profession; or
 (c) a specialist title for a recognised specialty unless the person is registered under this Law in the specialty.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
 (2) A person must not knowingly or recklessly take or use—
 (a) the title "dental specialist" in relation to another person unless the other person is registered under this Law in a recognised specialty in the dentists division of the dental profession; or
 (b) the title "medical specialist" in relation to another person unless the person is registered in a recognised specialty in the medical profession; or
 (c) a specialist title for a recognised specialty in relation to another person unless the person is registered under this Law in the specialty.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
 (3) Subsection (1) applies whether or not the title is taken or used with or without any other words and whether in English or any other language.
 116—Claims by persons as to registration as health practitioner
 (1) A person who is not a registered health practitioner must not knowingly or recklessly—
@@ -1198,8 +1198,8 @@ Maximum penalty:
 (c) claim to be registered under this Law or hold himself or herself out as being registered under this Law; or
 (d) claim to be qualified to practise as a health practitioner.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
 (2) A person must not knowingly or recklessly—
 (a) take or use the title of "registered health practitioner", whether with or without any other words, in relation to another person who is not a registered health practitioner; or
 (b) take or use a title, name, initial, symbol, word or description that, having regard to the circumstances in which it is taken or used, indicates or could be reasonably understood to indicate—
@@ -1208,8 +1208,8 @@ Maximum penalty:
 (c) claim another person is registered under this Law, or hold the other person out as being registered under this Law, if the other person is not registered under this Law; or
 (d) claim another person is qualified to practise as a health practitioner if the other person is not a registered health practitioner.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
 117—Claims by persons as to registration in particular profession or division
 (1) A registered health practitioner must not knowingly or recklessly—
 (a) claim to be registered under this Law in a health profession or a division of a health profession in which the practitioner is not registered, or hold himself or herself out as being registered in a health profession or a division of a health profession if the person is not registered in that health profession or division; or
@@ -1221,8 +1221,8 @@ Maximum penalty:
 (b) claim another person is qualified to practise as a health practitioner in a health profession or division of a health profession in which the other person is not registered; or
 (c) take or use any title in relation to another person that could be reasonably understood to induce a belief the other person is registered under this Law in a health profession or a division of a health profession in which the person is not registered.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
 Note—
 A contravention of this subsection by a registered health practitioner may also constitute unprofessional conduct for which health, conduct or performance action may be taken.
 118—Claims by persons as to specialist registration
@@ -1234,8 +1234,8 @@ A contravention of this subsection by a registered health practitioner may also 
 (c) claim to be registered under this Law in a recognised specialty or hold himself or herself out as being registered under this Law in a recognised specialty; or
 (d) claim to be qualified to practise as a specialist health practitioner.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
 (2) A person must not knowingly or recklessly—
 (a) take or use the title of "specialist health practitioner", whether with or without any other words, in relation to another person who is not a specialist health practitioner; or
 (b) take or use a title, name, initial, symbol, word or description in relation to another person who is not a specialist health practitioner that, having regard to the circumstances in which it is taken or used, indicates or could be reasonably understood to indicate—
@@ -1244,8 +1244,8 @@ Maximum penalty:
 (c) claim another person is registered under this Law in a recognised specialty or hold the other person out as being registered under this Law in a recognised specialty if the other person is not registered in that recognised specialty; or
 (d) claim another person is qualified to practise as a specialist health practitioner if the person is not a specialist health practitioner.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
 Note—
 A contravention of this section by a registered health practitioner may also constitute unprofessional conduct for which health, conduct or performance action may be taken.
 119—Claims about type of registration or registration in recognised specialty
@@ -1261,8 +1261,8 @@ A contravention of this section by a registered health practitioner may also con
 (c) claim another person holds specialist registration under this Law in a recognised specialty which the other person does not hold or hold the other person out as holding specialist registration in a recognised specialty if the other person does not hold specialist registration in that specialty; or
 (d) claim another person is qualified to practise in a recognised specialty in which the other person is not registered.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
 Note—
 A contravention of this subsection by a registered health practitioner may also constitute unprofessional conduct for which health, conduct or performance action may be taken.
 120—Registered health practitioner registered on conditions
@@ -1277,7 +1277,7 @@ Subdivision 2—Practice protections
 (ii) clinical training in the dental profession or medical profession; or
 (c) carries out the restricted dental act in the course of carrying out technical work on the written order of a person registered in the dentists or dental prosthetists division of the dental profession; or
 (d) is a person, or a member of a class of persons, prescribed under a regulation as being authorised to carry out the restricted dental act or restricted dental acts generally.
-Maximum penalty: $30 000.
+Maximum penalty: $60 000 or 3 years imprisonment or both.
 (2) In this section—
 restricted dental act means any of the following acts—
 (a) performing any irreversible procedure on the human teeth or jaw or associated structures;
@@ -1293,7 +1293,7 @@ technical work means the mechanical construction or the renewal or repair of art
 (ii) prescribes the spectacles under the supervision of an optometrist or medical practitioner; or
 (iii) prescribes the spectacles, on the written referral of an optometrist or medical practitioner, to a person who has had, within the 12 months before the referral, an ocular health examination conducted by an optometrist or medical practitioner; or
 (c) the person is a person, or a member of a class of persons, prescribed under a regulation as being authorised to prescribe an optical appliance of that type or to prescribe optical appliances generally.
-Maximum penalty: $30 000.
+Maximum penalty: $60 000 or 3 years imprisonment or both.
 (2) In this section—
 optical appliance means—
 (a) any appliance designed to correct, remedy or relieve any refractive abnormality or defect of sight, including, for example, spectacle lenses; or
@@ -1307,7 +1307,7 @@ orthoptist means a person whose name is recorded in the Register of Orthoptists 
 (i) an approved program of study in an appropriate health profession; or
 (ii) clinical training in an appropriate health profession; or
 (c) is a person, or a member of a class of persons, prescribed under a regulation as being authorised to perform manipulation of the cervical spine.
-Maximum penalty: $30 000.
+Maximum penalty: $60 000 or 3 years imprisonment or both.
 (2) In this section—
 appropriate health profession means any of the following health professions—
 (a) chiropractic;
@@ -2073,7 +2073,7 @@ The responsible tribunal may make any order about costs it considers appropriate
 (ii) using any title or a specified title.
 196A—Offences relating to prohibition orders
 (1) A person must not contravene a prohibition order.
-Maximum penalty: $30 000.
+Maximum penalty: $60 000 or 3 years imprisonment or both.
 (2) A person who is subject to a prohibition order (the prohibited person) must, before providing a health service, give written notice of the order to the following persons—
 (a) the person to whom the prohibited person intends to provide the health service or, if that person is under 16 years of age or under guardianship, a parent or guardian of the person;
 (b) if the health service is to be provided by the prohibited person as an employee—the person's employer;
@@ -2081,7 +2081,7 @@ Maximum penalty: $30 000.
 (d) if the health service is to be provided by the prohibited person as a volunteer for or on behalf of an entity—that entity.
 Maximum penalty: $5 000.
 (3) A person must not advertise a health service to be provided by a prohibited person unless the advertisement states that the prohibited person is subject to a prohibition order.
-Maximum penalty—
+Maximum penalty:
 (a) in the case of an individual—$5 000; or
 (b) in the case of a body corporate—$10 000.
 197—Decision by responsible tribunal about student
@@ -2505,8 +2505,11 @@ Division 2—Inspectors
 (b) has the identity card displayed so it is clearly visible to the other person.
 (2) However, if for any reason it is not practicable to comply with subsection (1) before exercising the power, the inspector must produce the identity card for the other person's inspection at the first reasonable opportunity.
 Division 3—Legal proceedings
-242—Proceedings for offences
-A proceeding for an offence against this Law is to be by way of a summary proceeding before a court of summary jurisdiction.
+241A—Proceedings for indictable offences
+(1) An offence against Part 7 Division 10 or section 196A(1) is an indictable offence.
+(2) Despite subsection (1), an offence against Part 7 Division 10 or section 196A(1) may be prosecuted as an indictable offence or a summary offence at the discretion of the prosecutor but, if prosecuted as a summary offence, the maximum penalty that may be imposed is a fine not exceeding $60 000 or imprisonment for 2 years.
+242—Proceedings for other offences
+A proceeding for an offence against this Law, other than an offence mentioned in section 241A(1), is to be by way of a summary proceeding before a court of summary jurisdiction.
 243—Conduct may constitute offence and be subject of disciplinary proceedings
 (1) If a person's behaviour constitutes an offence against this Law or another Act and constitutes professional misconduct, unsatisfactory professional performance or unprofessional conduct under this Law—
 (a) the fact that proceedings for an offence have been taken in relation to the behaviour does not prevent proceedings being taken before an adjudication body under this Law for the same behaviour; and
@@ -3639,12 +3642,17 @@ Having seized a thing, an inspector may—
 (2) Without limiting subclause (1), the National Agency may destroy or dispose of the thing.
 16—Return of seized things
 (1) If a seized thing has not been forfeited, the inspector must return it to its owner—
-(a) at the end of 6 months; or
-(b) if proceedings involving the thing are started within 6 months, at the end of the proceedings and any appeal from the proceedings.
+(a) if proceedings involving the thing are started within 6 months after the thing is seized—at the end of the proceedings and any appeal from the proceedings; or
+(b) otherwise—
+(i) 6 months after the thing is seized; or
+(ii) at the end of any longer time for which the thing may be kept under subclause (3).
 (2) Despite subclause (1), unless the thing has been forfeited, the inspector must immediately return a thing seized as evidence to its owner if the inspector is no longer satisfied its continued retention as evidence is necessary.
+(3) If the seized thing is a document, the inspector may keep it while the inspector is satisfied it is needed, or may be needed, for the purposes of—
+(a) a proceeding for an offence against this Law that is likely to be started or that has been started but not completed; or
+(b) an appeal from a decision in a proceeding for an offence against this Law.
 17—Access to seized things
-(1) Until a seized thing is forfeited or returned, an inspector must allow its owner to inspect it and, if it is a document, to copy it.
-(2) Subclause (1) does not apply if it is impracticable or would be unreasonable to allow the inspection or copying.
+(1) Until a seized thing is forfeited or returned, an inspector must allow its owner to inspect it and, if it is a document, to copy it or take an extract from it.
+(2) Subclause (1) does not apply if it is impracticable or would be unreasonable to allow the inspection, copying or taking of an extract.
 Part 3—General matters
 18—Damage to property
 (1) This clause applies if—
