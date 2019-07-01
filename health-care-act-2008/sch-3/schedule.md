@@ -1,1 +1,1 @@
-Schedule 3—Special provisions relating to the Repatriation General Hospital Incorporated
+Schedule 3—Governing boards for incorporated hospitals
