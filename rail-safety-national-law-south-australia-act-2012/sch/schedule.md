@@ -59,7 +59,12 @@ improvement notice means a notice under Part 5 Division 1;
 infringement penalty provision has the meaning given by section 233;
 interface agreement means an agreement made under Part 3 Division 6 Subdivision 2 about managing risks to safety identified and assessed in accordance with that Subdivision;
 jurisdiction means a State or Territory;
-level crossing means an area where a road and a railway meet at substantially the same level, whether or not there is a level crossing sign on the road at all or any of the entrances to the area;
+level crossing includes each of the following areas:
+(a) an area where a road and a railway (other than a tramway) meet at substantially the same level, whether or not there is a level crossing sign on the road at all or any of the entrances to the area;
+(b) an area where a road and a tramway meet at substantially the same level and that has a level crossing sign on the road at each entrance to the area;
+(c) a pedestrian crossing—
+(i) being an area where a footpath or shared path crosses a railway (other than a tramway) at substantially the same level, whether or not there is a level crossing sign on the path at all or any of the entrances to the area; or
+(ii) being an area where a footpath or shared path crosses a tramway at substantially the same level and that has a level crossing sign on the path at each entrance to the area;
 member, of ONRSR, means the Regulator, an Acting Regulator or a non‑executive member appointed under Part 2 Division 2;
 national regulations means the regulations made under section 264;
 non‑disturbance notice means a notice under Part 5 Division 3;
@@ -112,7 +117,13 @@ but does not include—
 rail infrastructure manager, in relation to rail infrastructure of a railway, means the person who has effective control and management of the rail infrastructure, whether or not the person—
 (a) owns the rail infrastructure; or
 (b) has a statutory or contractual right to use the rail infrastructure or to control, or provide, access to it;
-rail or road crossing includes a railway crossing, a bridge carrying a road over a railway and a bridge carrying a railway over a road;
+rail or road crossing includes each of the following:
+(a) a level crossing;
+(b) an area where a road and a tramway meet at substantially the same level, where there is no level crossing sign on the road at all or any of the entrances to the area;
+(c) an area where a footpath or shared path crosses a tramway at substantially the same level, where there is no level crossing sign on the path at all or any of the entrances to the area;
+(d) a bridge carrying a road over a railway;
+(e) a bridge carrying a railway over a road;
+(f) a lane of a road on which rolling stock moves alongside road vehicles on the road;
 rail safety officer means a person holding an appointment as a rail safety officer under Part 4 Division 2;
 rail safety undertaking—see Part 10 Division 6;
 rail safety work—see section 8;
@@ -133,9 +144,6 @@ railway means a guided system, or proposed guided system, designed for the movem
 (h) a guided system, or guided system of a class, prescribed by the national regulations to be a railway;
 Note—
 See section 7 for railways to which this Law does not apply.
-railway crossing means—
-(a) a level crossing; or
-(b) any area where a footpath or shared path crosses a railway at substantially the same level;
 railway operations means any of the following:
 (a) the construction of a railway, railway tracks and associated railway track structures;
 (b) the construction of rolling stock;
@@ -527,11 +535,9 @@ Division 6—Miscellaneous
 (d) if, at the start of the relevant financial year, there are still outstanding any rail safety issues that previously had been brought to the attention of ONRSR—details of the action (if any) taken in respect of each such issue; and
 (e) details about any significant activity undertaken in each participating jurisdiction during the relevant financial year by, or on behalf of, ONRSR; and
 (f) the financial statement in respect of the relevant financial year; and
-(g) the report on the financial statement made by the public sector auditor who conducted the audit; and
+(g) the report on the financial statement made by the auditor who conducted the audit; and
 (h) any other information required to be included in the report by another provision under this Law or by the responsible Ministers.
-(3) The financial statement must be—
-(a) prepared in accordance with Australian Accounting Standards; and
-(b) audited, and reported on, by a public sector auditor.
+(3) The national regulations may make provision in relation to the preparation and auditing of financial statements.
 (4) The responsible Ministers must make arrangements for the tabling of ONRSR's annual report in the Parliament of each participating jurisdiction.
 (5) The responsible Ministers may extend, or further extend, the period for submission of an annual report to the responsible Ministers by a total period of up to 3 months.
 (6) As soon as practicable after the annual report has been tabled in at least 1 House of the Parliament of a participating jurisdiction, the Regulator must publish a copy of the report on ONRSR's website.
@@ -1300,6 +1306,9 @@ Maximum penalty:
 (ii) the existence or use of any rail or road crossing that is part of the road infrastructure of a public road; and
 (b) determine measures to manage, so far as is reasonably practicable, those risks; and
 (c) for the purpose of managing those risks—seek to enter into an interface agreement with the rail infrastructure manager of the rail infrastructure.
+Maximum penalty:
+(a) in the case of an individual—$50 000;
+(b) in the case of a body corporate—$500 000.
 (3) Nothing in this section authorises or requires a road manager to act inconsistently with, or without regard to, the functions, obligations or powers conferred on it by or under an Act or law.
 108—Interface coordination—rail infrastructure and private roads
 (1) A rail infrastructure manager must—
@@ -1481,6 +1490,12 @@ Maximum penalty:
 (b) in the case of a body corporate—$100 000.
 (5) However, information or a document provided by a rail transport operator in a report under this section is not admissible as evidence against the operator in civil or criminal proceedings other than proceedings arising out of the false or misleading nature of the information or document.
 Division 9—Drug and alcohol testing by Regulator
+122A—Interpretation
+In this Division—
+urine test includes—
+(a) the screening of a sample of a person's urine; and
+(b) the analysis of a sample of a person's urine,
+for the presence of drugs in the sample.
 123—Testing for presence of drugs or alcohol
 A rail safety worker may be required to undertake a test for the presence of a drug or alcohol in accordance with this Law and the application Act.
 124—Appointment of authorised persons
@@ -1512,22 +1527,31 @@ An authorised person may (for example) direct the rail safety worker to accompan
 (3) A rail safety worker must immediately comply with a direction given by an authorised person (whether under this section or the application Act) for the purpose of requiring the worker to submit to a preliminary breath test or breath analysis.
 Maximum penalty: $10 000.
 (4) The application Act and regulations made under the application Act may prescribe the manner in which a preliminary breath test or breath analysis is to be conducted and may (for example) require that more than 1 sample of breath is to be provided for testing or analysis (and, in such a case, specify which reading of the apparatus or instrument will be taken to be the result of the preliminary breath test or breath analysis for the purposes of this Law, the application Act or any other Act).
-127—Authorised person may require drug screening test, oral fluid analysis and blood test
+127—Authorised person may require drug screening test, oral fluid analysis, urine test and blood test
 (1) Subject to this section, an authorised person may at any time require a rail safety worker who—
 (a) is about to carry out rail safety work; or
 (b) is carrying out rail safety work; or
 (c) is attempting to carry out rail safety work; or
 (d) is still on railway premises after carrying out rail safety work; or
 (e) without limiting a preceding paragraph—is involved in a prescribed notifiable occurrence,
-to submit to a drug screening test, oral fluid analysis or blood test (or any combination of these).
-(2) For the purposes of making a requirement that a rail safety worker submit to a drug screening test, oral fluid analysis or blood test, an authorised person may—
+to submit to a drug screening test, oral fluid analysis, urine test or blood test (or any combination of these).
+(2) For the purposes of making a requirement that a rail safety worker submit to a drug screening test, oral fluid analysis, urine test or blood test, an authorised person may—
 (a) require the worker to provide the worker's name and residential address; and
 (b) give any other reasonable direction to the worker.
 Example—
-An authorised person may (for example) direct the rail safety worker to accompany the authorised person and attend at a specified place for the purposes of carrying out the drug screening test, oral fluid analysis or blood test.
-(3) A rail safety worker must immediately comply with a direction given by an authorised person (whether under this section or the application Act) for the purpose of requiring the worker to submit to a drug screening test, oral fluid analysis or blood test (or any combination of these).
+An authorised person may (for example) direct the rail safety worker to accompany the authorised person and attend at a specified place for the purposes of carrying out the drug screening test, oral fluid analysis, urine test or blood test.
+(3) A rail safety worker must immediately comply with a direction given by an authorised person (whether under this section or the application Act) for the purpose of requiring the worker to submit to a drug screening test, oral fluid analysis, urine test or blood test (or any combination of these).
 Maximum penalty: $10 000.
-(4) The application Act and regulations made under the application Act may prescribe the manner in which a drug screening test, oral fluid analysis or blood test is to be conducted.
+(4) The application Act and regulations made under the application Act may prescribe the manner in which a drug screening test, oral fluid analysis, urine test or blood test is to be conducted.
+127A—Facilitation of testing
+(1) The person with control or management of railway premises must do all that is reasonably necessary to facilitate an authorised person to exercise powers under this Division in relation to requiring a rail safety worker to undertake a test for the presence of a drug or alcohol, including (for example)—
+(a) allowing the authorised person entry to the railway premises; and
+(b) making the rail safety worker available for such testing; and
+(c) making any other person at the premises available for the purpose of giving the authorised person reasonable help to exercise the authorised person's powers under this Division.
+(2) A person required to facilitate or give reasonable help under this section must not, without reasonable excuse, fail to comply with the requirement.
+Maximum penalty: $10 000.
+(3) Subsection (2) places an evidential burden on the accused to show a reasonable excuse.
+(4) An authorised person may be accompanied by a rail safety officer to assist the authorised person under this Division if the authorised person considers the assistance necessary.
 128—Offence relating to prescribed concentration of alcohol or prescribed drug
 (1) A rail safety worker must not carry out, or attempt to carry out, rail safety work—
 (a) while there is present in his or her blood the prescribed concentration of alcohol; or
@@ -1549,8 +1573,19 @@ prescribed drug means—
 (ii) Methylamphetamine (Methamphetamine);
 (iii) 3,4‑Methylenedioxymethylamphetamine (MDMA); and
 (b) any other substance declared by the national regulations to be a prescribed drug for the purposes of this section.
-129—Oral fluid or blood sample or results of analysis etc not to be used for other purposes
-A sample of oral fluid or blood taken under this Part or the application Act (and any other forensic material taken incidentally during a drug screening test, oral fluid analysis or blood test) must not be used for a purpose other than that contemplated by this Part or the application Act, in connection with the control or management of any work or activity associated with railway operations, or for the purpose of disciplinary proceedings against a rail safety worker.
+128A—Offence to hinder or obstruct authorised person
+A person must not intentionally hinder or obstruct an authorised person in exercising powers under this Division, or induce or attempt to induce any other person to do so.
+Maximum penalty: $10 000.
+128B—Offence to assault, threaten or intimidate authorised person
+A person must not directly or indirectly assault, threaten or intimidate, or attempt to assault, threaten or intimidate, an authorised person or a person assisting an authorised person.
+Maximum penalty: $50 000 or imprisonment for 2 years, or both.
+128C—Interfering or tampering with, or destroying, samples
+A person must not interfere or tamper with, or destroy, a sample of a person's oral fluid, urine or blood provided or taken for the purposes of this Division unless the action occurs—
+(a) by or at the direction of a person authorised to analyse the sample (whether under the Law or the application Act) in the course of or on completion of the analysis; or
+(b) in accordance with the requirements under the Law or the application Act.
+Maximum penalty: $10 000.
+129—Oral fluid, urine sample or blood sample or results of analysis etc not to be used for other purposes
+A sample of oral fluid, urine or blood taken under this Part or the application Act (and any other forensic material taken incidentally during a drug screening test, oral fluid analysis, urine test or blood test) must not be used for a purpose other than that contemplated by this Part or the application Act, in connection with the control or management of any work or activity associated with railway operations, or for the purpose of disciplinary proceedings against a rail safety worker.
 Division 10—Train safety recordings
 130—Interpretation
 In this Division—
@@ -2148,9 +2183,9 @@ Maximum penalty:
 (a) include information about the right to a review under Part 7 of the decision to serve the notice; and
 (b) state that the notice is served under this section.
 (9) Subsection (8)(a) does not apply to a notice under subsection (1a).
-200—Temporary closing of railway crossings, bridges etc
-(1) An authorised officer may close temporarily or regulate a railway crossing, bridge, subway or other structure for crossing or passing over or under a railway if satisfied it is necessary because of an immediate threat to safety.
-(2) If an authorised officer decides to close temporarily or regulate a railway crossing, bridge, subway or other structure, the authorised officer must, as soon as practicable after its closure or regulation, notify the person or authority responsible for the railway crossing, bridge, subway or other structure of its closure or regulation.
+200—Temporary closing of level crossings, bridges etc
+(1) An authorised officer may close temporarily or regulate a level crossing, bridge, subway or other structure for crossing or passing over or under a railway if satisfied it is necessary because of an immediate threat to safety.
+(2) If an authorised officer decides to close temporarily or regulate a level crossing, bridge, subway or other structure, the authorised officer must, as soon as practicable after its closure or regulation, notify the person or authority responsible for the level crossing, bridge, subway or other structure of its closure or regulation.
 (3) In this section—
 authorised officer means—
 (a) a person who holds a specific authority from the Regulator for the purposes of this section; or
@@ -2709,7 +2744,8 @@ Maximum penalty:
 (ii) is necessary for the administration or enforcement of an Act prescribed by the national regulations; or
 (iii) is necessary for the administration or enforcement of an Act or other law, if the disclosure, access or use is necessary to lessen or prevent a serious risk to public health or safety; or
 (d) that is required by any court, tribunal, authority or person having lawful authority to require the production of documents or the answering of questions; or
-(e) that is required or authorised under a law; or
+(da) that is made or given in accordance with the Freedom of Information Act 1991 of South Australia as applied by this Law (including any provisions of the national regulations made under section 263); or
+(e) that is required or authorised under any other law; or
 (f) to a Minister of a participating jurisdiction.
 (4) A person must not intentionally disclose to another person the name of an individual who has made a complaint in relation to that other person unless—
 (a) the disclosure is made with the consent of the complainant; or
