@@ -1,6 +1,10 @@
 Part 1—Preliminary
 Part 2—Transitional provisions relating to Child Safety (Prohibited Persons) Act 2016
+Editorial note—
+Part 2 has expired.
 Part 3—Transitional provisions relating to Children and Young People (Oversight and Advocacy Bodies) Act 2016
+Editorial note—
+Part 3 has expired.
 Part 4—Transitional provisions relating to Children and Young People (Safety) Act 2017
 Part 5—Amendment of Births, Deaths and Marriages Registration Act 1996
 Part 6—Amendment of Carers Recognition Act 2005
