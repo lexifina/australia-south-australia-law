@@ -9,5 +9,6 @@ Division 1—Central assessment unit
 Division 2—Working with children checks
 Division 3—Records management system
 Division 4—Information gathering powers etc
+Division 5—Information sharing
 Part 6—Review of decisions by South Australian Civil and Administrative Tribunal
 Part 7—Miscellaneous
