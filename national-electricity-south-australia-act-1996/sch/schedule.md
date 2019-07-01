@@ -27,6 +27,7 @@ AER economic regulatory function or power means a function or power performed or
 (d) an access determination;
 Note—
 The application of a rate of return instrument under this Law is an AER economic regulatory function or power. See section 18V(2).
+AER market liquidity obligation functions means the functions conferred on the AER under section 15(1)(eba);
 AER wholesale market monitoring functions—the AER wholesale market monitoring functions are as set out in section 18C(1);
 AER wholesale market reporting functions—the AER wholesale market reporting functions are as set out in section 18C(2);
 application Act means an Act of a participating jurisdiction that applies, as a law of that jurisdiction, this Law or any part of this Law;
@@ -39,7 +40,7 @@ Before its change of name, AEMO was known as NEMMCO.
 changeover date means 1 July 2009 or some other date fixed as the changeover date by Ministerial Gazette notice;
 civil monetary liability means a liability for damages, compensation or any other monetary amount that can be recovered by way of civil proceedings but does not include a liability for a civil penalty or an infringement penalty under this Law or a liability for the costs of a proceeding;
 civil penalty means—
-(a) in the case of a breach of a civil penalty provision (other than a rebidding civil penalty provision) by—
+(a) in the case of a breach of a civil penalty provision (other than a civil penalty provision mentioned in paragraph (b) or (c)) by—
 (i) a natural person—
 (A) an amount not exceeding $20 000; and
 (B) an amount not exceeding $2 000 for every day during which the breach continues; or
@@ -48,7 +49,14 @@ civil penalty means—
 (B) an amount not exceeding $10 000 for every day during which the breach continues; or
 (b) in the case of a breach of a rebidding civil penalty provision by any person—
 (i) an amount not exceeding $1 000 000; and
-(ii) an amount not exceeding $50 000 for every day during which the breach continues;
+(ii) an amount not exceeding $50 000 for every day during which the breach continues; or
+(c) in the case of a breach of a reliability obligation civil penalty provision—
+(i) by a natural person for a breach that relates to a reliability gap period—an amount not exceeding $1 000 000; and
+(ii) by a body corporate—
+(A) an amount not exceeding $1 000 000 for a breach that relates to a reliability gap period; or
+(B) an amount not exceeding $10 000 000 for a breach that relates to a second or subsequent reliability gap period;
+Note—
+See section 67A for the purpose of determining the civil penalty for particular reliability obligation civil penalty provisions.
 civil penalty provision—see section 2AA(1);
 conduct provision—see section 2AA(2);
 connection service means a connection service within the meaning of the Rules;
@@ -123,8 +131,10 @@ jurisdictional regulator means—
 (g) if the functions and powers of a person or body referred to in paragraphs (a) to (e) are transferred to another person or body established under an Act of the relevant participating jurisdiction, that other person or body;
 (h) any other person or body established under an Act of a participating jurisdiction that is prescribed by the Regulations as a jurisdictional regulator of that jurisdiction;
 jurisdictional system security coordinator means a person appointed under section 110;
+liable entity—see section 14D;
 market information instrument means a general market information order or a market information notice;
 market information notice means a notice under section 53(1)(b) requiring information from the person to whom the notice is addressed;
+market liquidity obligation means the obligation imposed by Rules made under Schedule 1 item 6G and includes matters related to the obligation;
 MCE means the Ministerial Council on Energy established on 8 June 2001, being the Council of Ministers with primary carriage of energy matters at national level comprising the Ministers representing the Commonwealth, the States, the Australian Capital Territory and the Northern Territory, acting in accordance with its own procedures;
 MCE directed review means a review conducted by the AEMC under Division 4 of Part 4;
 MCE statement of policy principles means a statement of policy principles issued by the MCE under section 8;
@@ -199,9 +209,14 @@ regulatory information notice has the meaning given by section 28D;
 regulatory obligation or requirement has the meaning given by section 2D;
 regulatory payment has the meaning given by section 2E;
 relevant court means any court of this jurisdiction;
+reliability obligation civil penalty provision—see section 2AA(1a);
+reliability obligations means the obligations that apply to a liable entity under sections 14P(1) and (3) and 14R(2);
 Reliability Panel means the panel of persons established by the AEMC under section 38;
 retail customer means a person to whom electricity is sold by a retailer, and supplied in respect of connection points, for the premises of the person, and includes a person (or a person who is of a class of persons) prescribed by the Rules for the purposes of this definition;
 retailer means a person who is the holder of a retailer authorisation issued under the National Energy Retail Law in respect of the sale of electricity;
+Retailer Reliability Obligation means—
+(a) Part 2A of this Law; and
+(b) the provisions of the Rules that relate to Part 2A of this Law;
 revenue and pricing principles means the principles set out in section 7A;
 reviewable regulatory decision has the meaning given by section 71A;
 Rule dispute means a dispute between persons in relation to a matter or thing arising under the Rules in respect of which the Rules provide that the dispute must be resolved in accordance with the Rules;
@@ -247,12 +262,17 @@ An access dispute is—
 (1) A civil penalty provision is—
 (a) a provision of this Law specified in the Table at the foot of this subsection; or
 (b) a rebidding civil penalty provision; or
+(ba) a reliability obligation civil penalty provision; or
 (c) a provision of this Law (other than an offence provision) or the Rules that is prescribed by the Regulations to be a civil penalty provision.
 Table
 Provision │ Section heading │
 Section 11(1), (2), (3) and (4) │ Electricity market activities in this jurisdiction │
 Section 14A │ Regulated transmission system operator must comply with transmission determination │
 Section 14B │ Regulated distribution system operator must comply with distribution determination │
+Section 14P(1) and (3) │ Obligation to report net contract position │
+Section 18ZC(1) and (2) │ Obligation of regulated entities to keep records │
+Section 18ZD │ Obligation of regulated entities to provide information and data about compliance │
+Section 18ZF(1) and (3) │ Compliance audits by regulated entities │
 Section 28N │ Compliance with regulatory information notice that is served │
 Section 28O │ Compliance with general regulatory information order │
 Section 50D(1) │ Network agreement │
@@ -260,6 +280,7 @@ Section 50F(1), (4) and (5) │ Augmentation │
 Section 53C(3) and (4) │ Compliance with market information instrument │
 Section 136 │ Compliance with access determination │
 Section 157(1) │ Preventing or hindering access │
+(1a) A reliability obligation civil penalty provision is section 14R(2).
 (2) A conduct provision is a provision of this Law (other than an offence provision) or the Rules that is prescribed by the Regulations to be a conduct provision.
 2B—Meaning of direct control network service
 A direct control network service is an electricity network service—
@@ -436,6 +457,184 @@ Section 14A is a civil penalty provision: See the definition of civil penalty pr
 A regulated distribution system operator must comply with a distribution determination that applies to the electricity network services provided by that operator.
 Note—
 Section 14B is a civil penalty provision: See the definition of civil penalty provision in section 2AA(1).
+Part 2A—Retailer Reliability Obligation
+Division 1—General
+14C—Definitions
+In this Part—
+contract position day—see section 14K(4)(b)(i);
+forecast reliability gap—see section 14G(1);
+forecast reliability gap period—see section 14G(2);
+net contract position—see section 14O(3);
+one‑in‑two year peak demand forecast, for a region during a specified period, means the peak demand forecast in accordance with the Rules—
+(a) to occur for the region during the period; and
+(b) where the likelihood is that the forecast amount will be exceeded once in any two‑year period;
+peak demand, for a period in a region, means the maximum electricity demanded, in megawatts, in the region during the period, determined in accordance with the Rules;
+region means a region of the national electricity market determined under the Rules;
+reliability gap period, in relation to a T‑1 reliability instrument, means the forecast reliability gap period stated in the instrument;
+reliability instrument means a T‑3 reliability instrument or a T‑1 reliability instrument;
+reporting day—see section 14K(4)(b)(ii);
+T‑1 cut‑off day—see section 14G(4);
+T‑1 reliability instrument means a reliability instrument for a forecast reliability gap made by the AER under section 14K that relates to the T‑1 cut‑off day for the forecast reliability gap;
+T‑3 cut‑off day—see section 14G(3);
+T‑3 reliability instrument means a reliability instrument for a forecast reliability gap made by the AER under section 14K that relates to the T‑3 cut‑off day for the forecast reliability gap;
+trading interval means a period prescribed by the Rules to be a trading interval for the wholesale exchange;
+wholesale exchange means the wholesale exchange for electricity operated and administered by AEMO under this Law and the Rules.
+14D—Meaning of liable entity for a region
+(1) Each of the following is a liable entity for a region:
+(a) a person who is a Registered participant mentioned in section 11(4)(a);
+(b) a person mentioned in section 11(4)(b) prescribed by the Rules to be a liable entity for the reliability obligations;
+(c) another person who has elected, under section 14E, to assume responsibility for the reliability obligations of a person mentioned in paragraph (a).
+(2) However, a person mentioned in subsection (1)(a) is not a liable entity for a region—
+(a) if the person is a Registered participant mentioned in subsection (1)(a) who is prescribed by the Rules not to be a liable entity for the reliability obligations; or
+(b) to the extent a person mentioned in subsection (1)(c) has elected to assume the person's responsibility for the reliability obligations for the region.
+14E—Process for non‑liable persons to opt in to reliability obligations
+(1) This section applies to a person—
+(a) if—
+(i) the person purchases electricity supplied in a region from a liable entity; and
+(ii) the person's annual consumption of electricity is more than the threshold prescribed by the Rules for this section; or
+(b) prescribed by the Rules to be eligible to make an election under this section.
+(2) The person may elect to assume all or some of the liable entity's responsibility for the reliability obligations in relation to the electricity purchased for the period stated in the election.
+(3) An election under subsection (2) must—
+(a) state the extent to which the person has elected to assume the liable entity's responsibility; and
+(b) be made in the manner, form and timeframes required by the Rules.
+Division 2—Reliability forecasts and instruments
+14F—Annual forecast for reliability gaps
+Each year, AEMO must—
+(a) perform the functions stated in the Rules for the purposes of forecasting for the occurrence of reliability gaps in future years; and
+(b) prepare and publish, in the manner, form and timeframes required by the Rules, information about the forecasting.
+14G—Meaning of forecast reliability gap, forecast reliability gap period, T‑3 cut‑off day and T‑1 cut‑off day
+(1) A forecast reliability gap occurs when the amount of electricity forecast for a region, in accordance with the Rules, does not meet the reliability standard to an extent that, in accordance with the Rules, is material.
+(2) A forecast reliability gap period is the period during which a forecast reliability gap is forecast to occur.
+(3) The T‑3 cut‑off day for a forecast reliability gap is the day that is 3 years before the day the forecast reliability gap period for the forecast reliability gap starts.
+(4) The T‑1 cut‑off day for a forecast reliability gap is the day that is 1 year before the day the forecast reliability gap period for the forecast reliability gap starts.
+(5) In this section—
+reliability standard means the standard prescribed by the Rules for the reliability of electricity for the national electricity market.
+14H—Rules must provide timetable for reliability forecasts, requests and instruments
+(1) The Rules must provide for timeframes for the following matters in relation to a forecast reliability gap:
+(a) the period, that ends at least the stated number of days before the T‑3 cut‑off day and T‑1 cut‑off day, during which—
+(i) AEMO must make a request under section 14I; and
+(ii) the AER must decide whether to make a reliability instrument under section 14K;
+(b) the period—
+(i) ending on or before the T‑1 cut-off day, during which the contract position day must be set; and
+(ii) ending on or after the T‑1 cut-off day, during which the reporting day must be set;
+(c) the periods that apply for the matters mentioned in paragraph (a) or (b) if AEMO corrects a request under section 14J.
+(2) Also, the Rules must provide for the way to determine whether a request for the AER to make a T‑1 reliability instrument under section 14I is related to a T‑3 reliability instrument.
+(3) For subsection (2), the way prescribed may include the extent to which the reliability gap period and trading intervals stated in a request for the AER to make a T‑1 reliability instrument must be the same as, or may be different to, the forecast reliability gap period and trading intervals stated in the T‑3 reliability instrument.
+14I—AEMO must request reliability instrument
+(1) This section applies if—
+(a) AEMO is satisfied a forecast reliability gap is forecast to occur in a region; and
+(b) AEMO has published the information about the forecast that AEMO is required to publish under section 14F(b).
+(2) Subject to subsection (3), AEMO must request the AER to consider making a reliability instrument for the region in relation to the forecast reliability gap.
+(3) AEMO must make a request under subsection (2) for a T‑1 reliability instrument for a region only if the AER has made a related T‑3 reliability instrument.
+(4) A request under subsection (2)—
+(a) is made by giving a written notice about the request to the AER; and
+(b) must be made within the period required by the Rules; and
+(c) must state the following information about the forecast reliability gap:
+(i) the region in which the forecast reliability gap is forecast to occur;
+(ii) the first and last days of the forecast reliability gap period;
+(iii) for a request for a T‑3 reliability instrument—the trading intervals, during the forecast reliability gap period, for which liable entities may be required to hold net contract positions that are sufficient to meet their share of the one-in-two year peak demand forecast for the forecast reliability gap period;
+Example—
+The trading intervals between 4pm and 8pm each weekday during the forecast reliability gap.
+(iv) for a request for a T‑1 reliability instrument—the trading intervals, during the forecast reliability gap period, for which liable entities will be required to hold net contract positions that are sufficient to meet their share of the one-in-two year peak demand forecast for the forecast reliability gap period if the T‑1 reliability instrument is made;
+Example—
+The trading intervals between 4pm and 8pm each weekday during the forecast reliability gap.
+(v) AEMO's one‑in‑two year peak demand forecast for the forecast reliability gap period.
+(5) A request under subsection (2)—
+(a) may only apply to 1 forecast reliability gap period; and
+(b) may be made on more than 1 occasion in a year for different forecast reliability gap periods in the same region or in different regions.
+14J—AEMO may correct request for reliability instrument
+(1) This section applies if a request under section 14I contains—
+(a) a material miscalculation of figures; or
+(b) a material mistake in the description of a person, period, thing or matter referred to in the request; or
+(c) a defect in form.
+(2) AEMO may correct the request by giving a written notice about the correction, and a correct request, to the AER.
+14K—AER may make reliability instrument for a region
+(1) This section applies if—
+(a) AEMO makes a request under section 14I in relation to a forecast reliability gap for a region; and
+(b) where AEMO's request is for a T‑1 reliability instrument for the region, the AER has made a related T‑3 reliability instrument for the region.
+(2) The AER must, within the period required by the Rules—
+(a) consider the request; and
+(b) decide whether or not to make a reliability instrument for the region in relation to the forecast reliability gap.
+(3) The AER may decide to make a reliability instrument only—
+(a) if the AER is satisfied—
+(i) a forecast reliability gap is forecast, in accordance with the Rules, to occur in the region; and
+(ii) it is appropriate in the circumstances, having regard to the criteria stated in the Rules, to make the reliability instrument; and
+(b) for the region, forecast reliability gap period and trading intervals as stated in AEMO's request, without modification.
+(4) A reliability instrument must state—
+(a) the information mentioned in section 14I(4)(c), as stated in AEMO's request; and
+(b) for a T‑1 reliability instrument—
+(i) the day (the contract position day) on which liable entities are required under section 14R to hold a sufficient net contract position for the reliability gap period; and
+(ii) the day (the reporting day) on which liable entities must report their net contract position as at the contract position day under section 14P.
+(5) The reliability instrument takes effect when it is published on the AER's website.
+(6) The AER must publish its decision to make or refuse to make a reliability instrument, and the reasons for the decision, on the AER's website before—
+(a) in the case of a T‑3 reliability instrument—the T‑3 cut-off day or an earlier day prescribed by the Rules; or
+(b) in the case of a T‑1 reliability instrument—the T‑1 cut-off day or an earlier day prescribed by the Rules.
+(7) If a request made under section 14I was corrected under section 14J, a reference in this section to the request is a reference to the request as corrected.
+14L—Reliability instrument has force of law
+(1) A reliability instrument has the force of law in this jurisdiction.
+(2) An Act of this jurisdiction regulating the making of subordinate legislation does not apply to a reliability instrument.
+14M—Failure to comply with consultation obligation does not affect validity
+(1) This section applies if the Rules require the AER to undertake stated consultation before making a reliability instrument under section 14K.
+(2) Failure to comply with the obligation does not invalidate or otherwise affect a reliability instrument.
+Division 3—Reliability obligations
+14N—Application of Division
+(1) This Division applies to a person if—
+(a) the AER made a T‑1 reliability instrument for a forecast reliability gap in a region; and
+(b) the person is a liable entity for the region to which the instrument applies; and
+(c) the person is a liable entity on—
+(i) the contract position day; or
+(ii) in circumstances for which a later day is prescribed by the Rules—the later day.
+(2) In this Division—
+(a) a reference to a matter is a reference to the matter for the region to which the T‑1 reliability instrument applies; and
+(b) a reference to the reliability gap period is a reference to the forecast reliability gap period stated in the T‑1 reliability instrument; and
+(c) a reference to the stated trading intervals is a reference to the trading intervals stated in the T‑1 reliability instrument; and
+(d) a reference to the contract position day or the reporting day is a reference to the contract position day or reporting day stated in the T‑1 reliability instrument.
+14O—Meaning of qualifying contract and net contract position
+(1) A qualifying contract of a liable entity is a contract or other arrangement to which the liable entity is a party—
+(a) that—
+(i) is directly related to the purchase or sale, or price for the purchase or sale, of electricity from the wholesale exchange during a stated period; and
+(ii) the liable entity entered into to manage its exposure in relation to the volatility of the spot price; or
+(b) of another type prescribed by the Rules to be a qualifying contract.
+(2) However, a qualifying contract does not include a contract or arrangement mentioned in subsection (1)(a) that is prescribed by the Rules to be an excluded contract for the reliability obligations.
+(3) A liable entity's net contract position during a particular period is—
+(a) the number of megawatts of electricity to which the liable entity's qualifying contracts under subsection (1) relate for the period; and
+(b) adjusted in accordance with the Rules to account for the likelihood that, despite the qualifying contracts, the liable entity retains exposure in relation to the volatility of the spot price during the period.
+(4) In this section—
+spot price means the price for electricity purchased from the wholesale exchange in a region determined in accordance with the Rules.
+14P—Obligation to report net contract position
+(1) The liable entity must give the AER a report about the liable entity's net contract position for the stated trading intervals during the reliability gap period as at the contract position day—
+(a) that complies with subsection (2); and
+(b) on or before the reporting day stated in the T‑1 reliability instrument.
+Note—
+Subsection (1) is a civil penalty provision: See the definition of "civil penalty provision" in section 2AA(1).
+(2) The report must—
+(a) include the information required under the Rules; and
+(b) be prepared and given in the manner and form required by the Rules.
+(3) The liable entity must not provide information in a report the liable entity knows is false or misleading in a material particular.
+Note—
+Subsection (3) is a civil penalty provision: See the definition of "civil penalty provision" in section 2AA(1).
+14Q—Adjustment of net contract position after contract position day
+A liable entity may adjust the liable entity's net contract position for a stated trading interval during a reliability gap period after the contract position day for the purposes of sections 14R and 14S in accordance with the Rules.
+14R—Obligation to have contracted sufficiently for one-in-two year peak demand forecast
+(1) This section applies if the peak demand is more than the one-in-two year peak demand forecast for the reliability gap period during a stated trading interval in the reliability gap period.
+(2) The liable entity must comply with the obligation that the liable entity's net contract position for the trading interval is not less than the liable entity's share of the one-in-two year peak demand forecast for the trading interval determined in accordance with the Rules.
+Note—
+Subsection (2) is a reliability obligation civil penalty provision: See the definition of "reliability obligation civil penalty provision" in section 2AA(1a).
+(3) For subsection (2), the liable entity's net contract position for a trading interval is—
+(a) if the liable entity has adjusted its net contract position under the Rules—the liable entity's net contract position for the trading interval as at the day provided under the Rules; or
+(b) otherwise—the liable entity's net contract position for the trading interval as at the contract position day.
+14S—Obligation to maintain net contract position
+The Rules may require a liable entity to maintain its net contract position for the stated trading intervals in the reliability gap period during the period that—
+(a) starts on the contract position day; and
+(b) ends when the reliability gap period ends.
+Division 4—AEMO as procurer of last resort
+14T—AEMO may recover costs for procurer of last resort function
+(1) The Rules may provide for a cost recovery scheme that allows AEMO to recover the costs AEMO incurs as the procurer of last resort for a region.
+(2) AEMO is the procurer of last resort for a region if—
+(a) a T‑1 reliability instrument is made for a forecast reliability gap in a region; and
+(b) AEMO performs its function under the Rules of entering into contracts to secure the availability of electricity reserves in relation to the reliability gap period stated in the instrument in the region.
+(3) The cost recovery scheme under the Rules may provide for AEMO to recover the costs from the liable entities for the region who breach section 14R(2) or an obligation under the Rules mentioned in section 14S during the reliability gap period.
+(4) However, a liable entity is not liable to more than $100 000 000 under the cost recovery scheme in relation to a reliability gap period in a region.
 Part 3—Functions and powers of the Australian Energy Regulator
 Division 1—General
 15—Functions and powers of AER
@@ -454,6 +653,7 @@ Division 1—General
 (e) to exempt persons proposing to engage, or engaged, in the activity of owning, controlling or operating a transmission system or distribution system forming part of the interconnected transmission and distribution system from being registered as Registered participants; and
 (ea) to prepare and publish reports on the financial and operational performance of network service providers in providing electricity network services; and
 (eb) to approve compliance programs of service providers relating to compliance by service providers with this Law or the Rules; and
+(eba) to implement and administer the market liquidity obligation in accordance with the Rules; and
 (ec) AER wholesale market monitoring functions and AER wholesale market reporting functions; and
 (ed) to make a rate of return instrument; and
 (f) AER economic regulatory functions or powers; and
@@ -721,6 +921,61 @@ Subdivision 5—Confidentiality of information
 (1) Division 6 applies in relation to publishing information given to the AER in confidence under this Division.
 (2) In this section—
 information includes advice, recommendations, submissions and reports.
+Division 1C—Retailer Reliability Obligation—AER compliance regime
+18Z—Definitions
+In this Division—
+compliance audit—see section 18ZE or 18ZF;
+regulated entity—see section 18ZA(2);
+Reliability Compliance Procedures and Guidelines—see section 18ZI.
+18ZA—Obligation of AER to monitor compliance
+(1) The AER must monitor compliance of regulated entities with the Retailer Reliability Obligation.
+(2) Each of the following persons is a regulated entity for the purposes of this Division:
+(a) a liable entity;
+(b) another person prescribed by the Rules.
+18ZB—Obligation of regulated entities to establish arrangements to monitor compliance
+(1) A regulated entity must establish policies, systems and procedures to enable it to efficiently and effectively monitor its compliance with the Retailer Reliability Obligation.
+(2) The policies, systems and procedures must be established and observed in accordance with the Reliability Compliance Procedures and Guidelines.
+18ZC—Obligation of regulated entities to keep records
+(1) A regulated entity must keep records of its activities that—
+(a) allow the regulated entity to give accurate information and data relating to its compliance with the Retailer Reliability Obligation; and
+(b) enable the AER to assess whether the regulated entity has complied with its obligations under the Retailer Reliability Obligation; and
+(c) comply with the requirements of subsection (2) and Rules made for the purposes of subsection (3).
+(2) The regulated entity must keep the records for 5 years from the end of the year in which the activities take place.
+Note—
+Subsections (1) and (2) are civil penalty provisions: See the definition of civil penalty provision in section 2AA(1).
+(3) The Rules may state requirements about the type and form of records that must be kept under subsection (1).
+18ZD—Obligation of regulated entities to provide information and data about compliance
+A regulated entity must give the AER, in the manner, form and timeframes required by the Reliability Compliance Procedures and Guidelines, information and data relating to the regulated entity's compliance with the Retailer Reliability Obligation.
+Note—
+This section is a civil penalty provision: See the definition of civil penalty provision in section 2AA(1).
+18ZE—Compliance audits by AER
+(1) The AER may carry out an audit (a compliance audit) of a regulated entity's activities to assess the regulated entity's compliance with the Retailer Reliability Obligation.
+(2) Without limitation, a compliance audit may be carried out to assess a regulated entity's compliance with the reliability obligations.
+(3) The AER may carry out a compliance audit by arranging for a contractor or another person to carry out the compliance audit on the AER's behalf.
+(4) The cost of carrying out a compliance audit of a regulated entity under this section is—
+(a) an amount determined under the Reliability Compliance Procedures and Guidelines; and
+(b) recoverable by the AER from the regulated entity.
+18ZF—Compliance audits by regulated entities
+(1) If required by the AER, a regulated entity must carry out an audit (a compliance audit) of specified aspects of the entity's activities relating to the entity's compliance with the Retailer Reliability Obligation.
+(2) The regulated entity may carry out a compliance audit by arranging for a contractor or another person to carry out the compliance audit on the entity's behalf, but the entity remains responsible for the carrying out of the compliance audit.
+(3) A regulated entity must give the AER the results of a compliance audit carried out under this section within a period specified by the AER.
+Note—
+Subsections (1) and (3) are civil penalty provisions: See the definition of civil penalty provision in section 2AA(1).
+18ZG—Carrying out compliance audit
+A compliance audit must be carried out in accordance with the Reliability Compliance Procedures and Guidelines.
+18ZH—Use of information
+The AER may use any information or data given by a regulated entity under section 18ZD or 18ZF, or obtained under section 18ZE, for the purposes of any of the functions and powers of the AER under section 15 of this Law.
+Note—
+Otherwise, the AER is subject to Division 6 of this Part and section 44AAF of the Competition and Consumer Act 2010 of the Commonwealth in respect of the disclosure of confidential information it receives.
+18ZI—Reliability Compliance Procedures and Guidelines
+(1) The AER must make procedures and guidelines (the Reliability Compliance Procedures and Guidelines) in accordance with the consultation procedure provided for under the Rules.
+(2) Without limitation, the Reliability Compliance Procedures and Guidelines may provide guidance for regulated entities about the following:
+(a) compliance with the obligations under the Retailer Reliability Obligation, including, for example—
+(i) the reliability obligations; and
+(ii) establishing policies, systems and procedures to monitor its compliance under section 18ZB; and
+(iii) the information and data about compliance required to be given to the AER under section 18ZD;
+(b) the carrying out of compliance audits, including the costs payable by regulated entities;
+(c) any additional matters that the AER intends to include in its compliance reports.
 Division 2—Search warrants
 19—Definitions
 In this Division—
@@ -1243,6 +1498,7 @@ Division 2—Rule making functions and powers of the AEMC
 (iii) the activities of persons (including Registered participants) participating in the national electricity market or involved in the operation of the national electricity system;
 (iv) the provision of connection services to retail customers; and
 (aa) facilitating and supporting the provision of services to retail customers; and
+(ab) any matter or thing related to, or necessary or expedient for, the purposes of the Retailer Reliability Obligation; and
 (b) any matter or thing contemplated by this Law, or is necessary or expedient for the purposes of this Law.
 Note—
 The procedure for the making of a Rule by the AEMC is set out in Division 3 of Part 7.
@@ -1814,6 +2070,10 @@ For the purpose of determining the civil penalty for a breach of a civil penalty
 (2) However, the person is not liable to more than one civil penalty under this Law in respect of the same conduct.
 Note—
 Clause 39 of Schedule 2 to this Law sets out further provisions in relation to double jeopardy.
+67A—Conduct in breach of reliability obligation civil penalty provision
+(1) This section applies for the purpose of determining the civil penalty for a breach of the reliability obligation civil penalty provision.
+(2) If the conduct of a person constitutes a breach of the reliability obligation civil penalty provision on 2 or more occasions in relation to the same reliability gap period, proceedings may be instituted under this Law against the person in relation to the breach of the provision on any 1 or more of those occasions.
+(3) However, the person is not liable to more than 1 civil penalty under this Law in respect of a breach of the reliability obligation civil penalty provision for 1 reliability gap period.
 68—Persons involved in breach of civil penalty provision or conduct provision
 (1) A person must not—
 (a) aid, abet, counsel or procure a breach of a civil penalty provision or conduct provision by another person; or
@@ -2175,20 +2435,23 @@ The Court may discharge or vary an injunction or order granted under this Divisi
 Division 4—Other civil proceedings
 72—Obligations under Rules to make payments
 (1) If, under the Rules—
-(a) a Registered participant is required to pay an amount to AEMO or another Registered participant; or
+(a) a relevant person is required to pay an amount to AEMO or another relevant person; or
 (b) AEMO is required to pay an amount to a Registered participant,
-and that amount is not paid within 28 days after it is due in accordance with the Rules, the Registered participant to whom the amount is due, or AEMO (as the case requires), may recover that amount in a relevant court of competent jurisdiction as a civil debt payable to them.
-(2) If, under the Rules, a Registered participant is required to pay an amount to AEMO or another Registered participant, or AEMO is required to pay an amount to a Registered participant, and the Rules do not specify a date for payment of that amount—
-(a) that amount must be paid within the period of time specified in any notice to pay issued by the Registered participant or AEMO (as the case requires) that specifies that amount; and
-(b) the Registered participant that issued the notice to pay, or AEMO (as the case requires), may, if that amount is not paid within 28 days after it is due in accordance with that notice, recover that amount in a relevant court of competent jurisdiction as a civil debt payable to them.
-(3) Subsection (1) and (2) apply despite a Registered participant or AEMO disputing, in accordance with the Rules, an amount to be paid under the Rules, or specified in a notice to pay, unless—
+and that amount is not paid within 28 days after it is due in accordance with the Rules, the relevant person to whom the amount is due, or AEMO (as the case requires), may recover that amount in a relevant court of competent jurisdiction as a civil debt payable to them.
+(2) If, under the Rules, a relevant person is required to pay an amount to AEMO or another relevant person, or AEMO is required to pay an amount to a Registered participant, and the Rules do not specify a date for payment of that amount—
+(a) that amount must be paid within the period of time specified in any notice to pay issued by the relevant person or AEMO (as the case requires) that specifies that amount; and
+(b) the relevant person that issued the notice to pay, or AEMO (as the case requires), may, if that amount is not paid within 28 days after it is due in accordance with that notice, recover that amount in a relevant court of competent jurisdiction as a civil debt payable to them.
+(3) Subsection (1) and (2) apply despite a relevant person or AEMO disputing, in accordance with the Rules, an amount to be paid under the Rules, or specified in a notice to pay, unless—
 (a) the Rules otherwise provide; or
 (b) the parties to the dispute agree otherwise; or
 (c) a relevant Dispute resolution panel, in a civil claim Rule dispute in respect of the payment of an amount referred to in subsection (1) or (2), determines that the relevant subsection does not apply; or
 (d) a relevant court of competent jurisdiction determines that subsection (1) or (2) does not apply.
 (4) In this section—
-civil claim Rule dispute means a dispute between Registered participants, or between AEMO and a Registered participant, in relation to the payment of an amount under the Rules in respect of which the Rules provide that the dispute must be resolved in accordance with the Rules;
+civil claim Rule dispute means a dispute between relevant persons, or between AEMO and a relevant person, in relation to the payment of an amount under the Rules in respect of which the Rules provide that the dispute must be resolved in accordance with the Rules;
 relevant Dispute resolution panel means a Dispute resolution panel appointed to hear and determine a civil claim Rule dispute;
+relevant person means—
+(a) a Registered participant; or
+(b) a liable entity;
 notice to pay includes a statement of payment, settlement statement, bill or invoice.
 Division 5—Infringement notices
 73—Definition
@@ -2408,6 +2671,28 @@ South Australian Minister means the Minister in right of the Crown of South Aust
 (b) if different Rules will commence operation on different dates, those dates.
 (5) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+90EA—South Australian Minister to make initial Rules relating to Retailer Reliability Obligation
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules—
+(a) for or with respect to—
+(i) the Retailer Reliability Obligation amendments; and
+(ii) any other subject contemplated by, or consequential on, the Retailer Reliability Obligation amendments; and
+(b) that revoke or amend a Rule as a consequence of the enactment of the Retailer Reliability Obligation amendments.
+(2) Rules may be made under subsection (1) only on the recommendation of the MCE.
+(3) For the purposes of subsection (1), a reference in section 34(1) to the national electricity system is taken to be a reference to the national electricity system or a local electricity system (as the context requires).
+(4) Rules in the nature of a derogation may be made under subsection (1) even though there may not have been a request for a derogation.
+(5) Rules made under subsection (1) may be differential Rules.
+(6) Section 34(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(7) If the Minister makes Rules under subsection (1), the Minister cannot make another Rule under that subsection.
+(8) In this section—
+differential Rule means a Rule that—
+(a) varies in its terms as between—
+(i) the national electricity system; and
+(ii) 1 or more, or all, of the local electricity systems; or
+(b) does not have effect with respect to 1 or more of those systems;
+local electricity system means—
+(a) an electricity system in this jurisdiction prescribed or declared in or under the application Act of this jurisdiction to be a local electricity system; and
+(b) the generating systems and other facilities owned, controlled or operated in this jurisdiction connected to that local electricity system;
+Retailer Reliability Obligation amendments means the amendments made to this Law by the National Electricity (South Australia) (Retailer Reliability Obligation) Amendment Act 2019.
 Subdivision 2—Rules made by Minister from time to time
 90F—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2).
@@ -3167,8 +3452,35 @@ Registration
 (b) as a Registered participant.
 4 The suspension of Registered participants from participation in the wholesale exchange operated and administered by AEMO.
 Participant fees
-5 The determination of fees in respect of services provided to Registered participants, or statutory functions performed, by AEMO under the Rules, including the methodology to be applied to determine those fees.
+5 The determination of fees in respect of services provided to Registered participants, or statutory functions performed, by AEMO under this Law or the Rules, including the methodology to be applied to determine those fees.
 6 The imposition on Registered participants of fees referred to in item 5 and the method of payment and collection of those fees.
+Retailer Reliability Obligation
+6A Forecasting by AEMO for the purpose of the reliability obligation, including—
+(a) the timing, procedures and methodologies to be followed by AEMO for forecasting; and
+(b) the information to be provided to AEMO for forecasting purposes; and
+(c) determining what constitutes a material reliability gap; and
+(d) processes for reviewing and updating forecasts; and
+(e) consultation requirements; and
+(f) reporting and publication requirements; and
+(g) the requirement for, and content of, guidelines; and
+(h) the role of the AER in the forecasting process.
+6B The process for AEMO to request a reliability instrument.
+6C The process for the AER to make a reliability instrument.
+6D Compliance and reporting obligations of liable entities.
+6E The establishment and maintenance of a register of liable entities by the AER and the obligations of—
+(a) persons to report matters to the AER for the purposes of the register; and
+(b) the AER to notify liable entities on the register about the reliability obligations, including when the reliability obligations apply.
+6F The application of the Retailer Reliability Obligation to liable entities who are members of a corporate group.
+6G The imposition of a market liquidity obligation in relation to qualifying contracts and related matters, including—
+(a) persons to whom the obligation applies; and
+(b) thresholds for the application of the obligation; and
+(c) the bids and offers the subject of the obligation; and
+(d) when and how bids and offers are to be made available.
+6H The exercise of the AER market liquidity obligation functions by the AER.
+6I The establishment and administration of a voluntary book build process to facilitate the buying and selling of qualifying contracts.
+6J The administration and exercise of the procurer of last resort function by AEMO, and related reporting.
+6K Reporting, monitoring and enforcing compliance of the reliability obligation by the AER.
+6L Treatment of types of pre-existing contracts as qualifying contracts.
 Wholesale exchange
 7 The setting of prices for electricity and services purchased through the wholesale exchange operated and administered by AEMO, including maximum and minimum prices.
 8 The methodology and formulae to be applied in setting prices referred to in item 7.
@@ -3800,10 +4112,15 @@ Part 9—Instruments under this Law
 (1) This Schedule applies to a statutory instrument, and to things that may be done or are required to be done under a statutory instrument, in the same way as it applies to this Law, and things that may be done or are required to be done under this Law, except so far as the context or subject matter otherwise indicates or requires.
 (2) The fact that a provision of this Schedule refers to this Law and not also to a statutory instrument does not, by itself, indicate that the provision is intended to apply only to this Law.
 (3) In this clause—
-statutory instrument includes the Regulations, the rate of return instrument or the Rules.
+statutory instrument includes the Regulations, a reliability instrument, the rate of return instrument or the Rules.
 41A—Rate of return instrument construed not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
 (1) A rate of return instrument is to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made.
 (2) If a provision of the rate of return instrument, or the application of a provision of the instrument to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made—
+(a) it is a valid provision to the extent to which it is not in excess of the power; and
+(b) the remainder of the instrument, and the application of the provision to other persons, subject matters or circumstances, is not affected.
+41B—Reliability instrument construed not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
+(1) A reliability instrument is to be construed as operating to the full extent of, but so as not to exceed, the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made.
+(2) If a provision of a reliability instrument, or the application of a provision of the instrument to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction or the power conferred by this Law under which it is made—
 (a) it is a valid provision to the extent to which it is not in excess of the power; and
 (b) the remainder of the instrument, and the application of the provision to other persons, subject matters or circumstances, is not affected.
 42—National Electricity Rules to be construed so as not to exceed the legislative power of the Legislature of this jurisdiction or the powers conferred by this Law
