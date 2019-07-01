@@ -14,6 +14,7 @@ Division 1—Tax officers
 Division 2—Investigation
 Division 2A—Investigations under other laws
 Division 3—Secrecy
+Division 4—Collection of information for disclosure to Commonwealth
 Part 10—Objections and appeals
 Division 1—Objections
 Division 2—Appeals

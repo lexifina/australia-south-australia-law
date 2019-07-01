@@ -2,6 +2,7 @@ Part 1—Preliminary provisions
 Division 1—Short title
 Division 2—Interpretative provisions
 Division 3—Territorial application of Act
+Division 4—Stamp duty certificates
 Part 2—General provisions with respect to stamp duties
 Part 3—Special provisions with respect to certain stamp duties
 Division 1—Agreements
