@@ -1,12 +1,6 @@
 Part 1—Preliminary
 Part 2—Adoption of Health Practitioner Regulation National Law
-Part 3—South Australian Health Practitioners Tribunal
-Division 1—Establishment of Tribunal
-Division 2—Members of Tribunal
-Division 3—Constitution of Tribunal
-Division 4—Jurisdiction
-Division 5—Proceedings, related powers and orders
-Division 6—Appeals
+Part 3—Tribunal proceedings and powers
 Part 4—Pharmacy practice
 Division 1—Interpretation
 Division 2—Pharmacy Regulation Authority SA
