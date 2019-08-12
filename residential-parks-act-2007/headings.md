@@ -3,6 +3,7 @@ Part 2—Park rules and residents committees
 Part 3—Formation of residential park agreements
 Division 1—Entering into residential park agreements
 Division 2—Discrimination against residents with children
+Division 3—Continuation or reissue of certain agreements
 Part 4—Mutual rights and obligations of park owners and residents
 Division 1—Rents and other charges
 Division 2—Bonds
