@@ -1,3 +1,0 @@
-Schedule 1—Supplementary panel members for proceedings before Tribunal
-(1) For the purposes of section 18A of the South Australian Employment Tribunal Act 2014, there will be a panel of supplementary panel members who, in the opinion of the Minister, have expertise that would be of value to the Tribunal in dealing with the various classes of discrimination to which this Act applies.
-(2) For the purposes of any proceedings before the Tribunal under this Act, the President of the Tribunal must consider whether the Tribunal will sit with 1 or more members of the panel established under subclause (1).

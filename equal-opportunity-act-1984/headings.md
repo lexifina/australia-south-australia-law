@@ -43,5 +43,5 @@ Part 6A—Practice guidelines
 Part 7—Grant of exemptions
 Part 8—Enforcement
 Division 1—Proceedings before Commissioner and Tribunal
-Division 2—Related matters
+Division 2—Reviews and appeals
 Part 9—Miscellaneous
