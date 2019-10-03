@@ -74,7 +74,7 @@ The regulator must, on or before 30 September in every year, forward to the Nort
 (a) is undertaking a review under clause 50; or
 (b) is considering the adoption of a guideline, or the adoption of a variation to a guideline, under this Code.
 (2) A public consultation process under subclause (1) must provide for—
-(a) the publication in a newspaper circulating generally in Australia of a notice describing the matter under consideration and inviting interested persons to make submissions in relation to the matter within a period stated in the notice; and
+(a) the publication on a website determined by the regulator or in a newspaper circulating generally in Australia of a notice describing the matter under consideration and inviting interested persons to make submissions in relation to the matter within a period stated in the notice; and
 (b) the consideration by the regulator of any submissions made in response to an invitation under paragraph (a),
 (and may include other consultation processes considered appropriate by the regulator).
 PART 2—ACCESS TO RAILWAY INFRASTRUCTURE SERVICES
