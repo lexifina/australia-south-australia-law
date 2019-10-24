@@ -23,6 +23,7 @@ Division 2—Maintaining public order and safety in declared public precinct
 Division 3—Power to remove children from dangerous situations
 Part 15—Police powers of entry, search etc
 Part 16—Fortifications
+Part 16A—Access to data held electronically
 Part 17—Recording of interviews
 Division 1—Interpretation
 Division 2—Recording interviews with suspects
