@@ -48,8 +48,8 @@ Division 3—Counting of votes
 Division 3A—Computer vote counting in Legislative Council elections
 Division 4—Re-count
 Part 11—The return of the writs
-Part 12—Appeals
-Division 1—Administrative appeals
+Part 12—Reviews and Court of Disputed Returns
+Division 1—Reviews
 Division 2—Disputed elections and returns
 Part 13—Offences
 Division 1—Bribery, undue influence etc
