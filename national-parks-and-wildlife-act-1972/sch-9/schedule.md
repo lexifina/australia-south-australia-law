@@ -3,7 +3,7 @@ Part 1—Animals
 Common name │ Species │
 Mammals │ │
 │ BALAENOPTERIDAE │
-Minke Whale │ Balaenoptera acutorostrata │
+Dwarf Minke Whale │ Balaenoptera acutorostrata │
 Bryde's Whale │ Balaenoptera edeni │
 │ │
 │ DASYURIDAE │
@@ -23,9 +23,7 @@ Pygmy Sperm Whale │ Kogia breviceps │
 Dwarf Sperm Whale │ Kogia simas │
 │ │
 │ MACROPODIDAE │
-Eastern Grey Kangaroo │ Macropus giganteus │
-Red‑necked Wallaby │ Macropus rufogriseus │
-Black‑footed Rock Wallaby │ Petrogale lateralis pearsoni │
+Black‑footed Rock Wallaby (Pearson Island subspecies) │ Petrogale lateralis pearsoni │
 │ │
 │ MURIDAE │
 Swamp Rat │ Rattus lutreolus │
@@ -70,191 +68,202 @@ Cuvier's Beaked Whale │ Ziphius cavirostris │
 │ │
 Birds │ │
 │ ACANTHIZIDAE │
-Slender‑billed Thornbill (eastern subspecies) │ Acanthiza iredalei hedleyi │
-Slender‑billed Thornbill (western subspecies) │ Acanthiza iredalei iredalei │
+Dark Thornbill (upper South East) │ Acanthiza iredalei hedleyi │
+Slender‑billed Thornbill (western) │ Acanthiza iredalei iredalei │
 Chestnut‑breasted Whiteface │ Aphelocephala pectoralis │
-Shy Heathwren (Shy Hylacola) │ Calamanthus cautus │
-Rufous Bristlebird (south east SA subspecies) │ Dasyornis broadbenti broadbenti │
+Shy Heathwren (subspecies cauta) │ Hylacola cauta cauta │
+Shy Heathwren (Kangaroo Island) │ Hylacola cauta halmaturina │
 Western Gerygone │ Gerygone fusca │
-White‑throated Gerygone │ Gerygone olivacea │
+White‑throated Gerygone │ Gerygone olivacea olivacea │
 │ │
 │ ACCIPITRIDAE │
-Letter‑winged Kite │ Elanus scriptus │
 Black‑breasted Buzzard │ Hamirostra melanosternon │
 │ │
 │ ANATIDAE │
-Australasian Shoveler │ Anas rhynchotis │
-Musk Duck │ Biziura lobata │
-Cape Barren Goose │ Cereopsis novaehollandiae │
+Musk Duck │ Biziura lobata menziesi │
+Cape Barren Goose │ Cereopsis novaehollandiae novaehollandiae │
 Blue‑billed Duck │ Oxyura australis │
+Australasian Shoveler │ Spatula rhynchotis │
 │ │
 │ ANHINGIDAE │
-Darter │ Anhinga melanogaster │
+Australasian Darter │ Anhinga novaehollandiae novaehollandiae │
 │ │
 │ ARDEIDAE │
-Cattle Egret │ Ardea ibis │
-Intermediate Egret │ Ardea intermedia │
-Little Egret │ Egretta garzetta │
-Eastern Reef Egret │ Egretta sacra │
+Intermediate Egret │ Ardea intermedia plumifera │
+Eastern Cattle Egret │ Bubulcus ibis coromandus │
+Little Egret │ Egretta garzetta nigripes │
+Pacific Reef Heron │ Egretta sacra sacra │
 │ │
 │ BURHINIDAE │
 Bush Stone‑curlew │ Burhinus grallarius │
 │ │
 │ CACATUIDAE │
-Major Mitchell's Cockatoo │ Cacatua leadbeateri │
+Major Mitchell's Cockatoo │ Lophochroa leadbeateri │
 │ │
 │ CAMPEPHAGIDAE │
-White‑bellied Cuckoo‑shrike │ Coracina papuensis │
+White‑bellied Cuckooshrike │ Coracina papuensis robusta │
 │ │
 │ CHARADRIIDAE │
-Great Sand Plover │ Charadrius leschenaultii │
-Lesser Sand Plover │ Charadrius mongolus │
 Pacific Golden Plover │ Pluvialis fulva │
+Greater Sand Plover │ Charadrius leschenaultii leschenaultii │
+│ │
+│ CINCLOSOMATIDAE │
+Chestnut Quailthrush (Chestnut‑backed Quailthrush) │ Cinclosoma castanotum │
 │ │
 │ CLIMACTERIDAE │
 White‑browed Treecreeper │ Climacteris affinis │
 │ │
 │ COLUMBIDAE │
-Spinifex Pigeon │ Geophaps plumifera │
+Spinifex Pigeon │ Geophaps plumifera leucogaster │
 Flock Bronzewing │ Phaps histrionica │
 │ │
 │ CORCORACIDAE │
 White‑winged Chough │ Corcorax melanorhamphos │
 │ │
-│ DICRURIDAE │
-Restless Flycatcher │ Myiagra inquieta │
+│ DASYORNITHIDAE │
+Rufous Bristlebird │ Dasyornis broadbenti broadbenti │
 │ │
 │ ESTRILDIDAE │
 Painted Finch │ Emblema pictum │
 Beautiful Firetail │ Stagonopleura bella │
 │ │
-│ EUPETIDAE │
-Chestnut Quail‑thrush (eastern subspecies) │ Cinclosoma castanotus castanotus │
-Western Whipbird (Kangaroo Island subspecies) │ Psophodes nigrogularis lashmari │
-│ │
 │ FALCONIDAE │
 Grey Falcon │ Falco hypoleucos │
-Peregrine Falcon │ Falco peregrinus │
+Peregrine Falcon │ Falco peregrinus macropus │
+Black Falcon │ Falco subniger │
+│ │
+│ FALCUNCULIDAE │
+Eastern Shriketit │ Falcunculus frontatus frontatus │
 │ │
 │ HAEMATOPODIDAE │
-Sooty Oystercatcher │ Haematopus fuliginosus │
+Sooty Oystercatcher │ Haematopus fuliginosus fuliginosus │
 Pied Oystercatcher │ Haematopus longirostris │
 │ │
 │ LARIDAE │
-Kelp Gull │ Larus dominicanus │
-Common Tern │ Sterna hirundo │
+Kelp Gull │ Larus dominicanus dominicanus │
+Common Tern │ Sterna hirundo longipennis │
 │ │
 │ MALURIDAE │
-Grey Grasswren │ Amytornis barbatus │
+Grey Grasswren │ Amytornis barbatus diamantina │
 Striated Grasswren │ Amytornis striatus │
-Southern Emu‑wren (Kangaroo Island subspecies) │ Stipiturus malachurus halmaturinus │
-Southern Emu‑wren (south east SA subspecies) │ Stipiturus malachurus polionotum │
-Rufous‑crowned Emu‑wren │ Stipiturus ruficeps │
+Southern Emuwren (Kangaroo Island) │ Stipiturus malachurus halmaturinus │
+Southern Emuwren (South East) │ Stipiturus malachurus polionotum │
+Rufous‑crowned Emuwren │ Stipiturus ruficeps │
 │ │
 │ MELIPHAGIDAE │
 Grey Honeyeater │ Conopophila whitei │
-Blue‑faced Honeyeater │ Entomyzon cyanotis │
+Blue‑faced Honeyeater │ Entomyzon cyanotis cyanotis │
 Painted Honeyeater │ Grantiella picta │
 Purple‑gaped Honeyeater (mainland subspecies) │ Lichenostomus cratitius occidentalis │
-Brown Honeyeater │ Lichmera indistincta │
-Black-chinned Honeyeater (northern subspecies) │ Melithreptus gularis laetior │
-Little Friarbird │ Philemon citreogularis │
+Brown Honeyeater │ Lichmera indistincta indistincta │
+Golden‑backed Honeyeater │ Melithreptus gularis laetior │
+Little Friarbird │ Philemon citreogularis citreogularis │
 Striped Honeyeater │ Plectorhyncha lanceolata │
-Bassian Thrush │ Zoothera lunulata │
+│ │
+│ MONARCHIDAE │
+Restless Flycatcher │ Myiagra inquieta │
 │ │
 │ ORIOLIDAE │
-Olive‑backed Oriole │ Oriolus sagittatus │
+Olive‑backed Oriole │ Oriolus sagittatus sagittatus │
 │ │
 │ PACHYCEPHALIDAE │
-Crested Shrike‑tit │ Falcunculus frontatus │
 Gilbert's Whistler │ Pachycephala inornata │
 Red‑lored Whistler │ Pachycephala rufogularis │
 │ │
 │ PETROICIDAE │
-Hooded Robin (south east subspecies) │ Melanodryas cucullata cucullata │
-Jacky Winter (south east subspecies) │ Microeca fascinans fascinans │
-Scarlet Robin (eastern subspecies) │ Petroica multicolor boodang │
+Hooded Robin (subspecies cucullata) │ Melanodryas cucullata cucullata │
+Jacky Winter (subspecies fascinans) │ Microeca fascinans fascinans │
+Scarlet Robin │ Petroica boodang boodang │
 │ │
 │ PODICIPEDIDAE │
-Great Crested Grebe │ Podiceps cristatus │
+Great Crested Grebe │ Podiceps cristatus australis │
 │ │
 │ POMATOSTOMIDAE │
-Grey‑crowned Babbler (northern subspecies) │ Pomatostomus temporalis rubeculus │
+Red‑breasted Babbler (North West) │ Pomatostomus temporalis rubeculus │
 │ │
 │ PROCELLARIIDAE │
-Fleshy‑footed Shearwater │ Puffinus carneipes │
+Flesh‑footed Shearwater │ Ardenna carneipes │
 │ │
-│ PSITTACIDAE │
-Red‑winged Parrot │ Aprosmictus erythropterus │
-Elegant Parrot │ Neophema elegans │
-Rock Parrot │ Neophema petrophila │
+│ PSITTACULIDAE │
+Red‑winged Parrot │ Aprosmictus erythropterus erythropterus │
+Elegant Parrot │ Neophema elegans elegans │
+Rock Parrot │ Neophema petrophila zietzi │
 Scarlet‑chested Parrot │ Neophema splendida │
-Blue Bonnet (western subspecies) │ Northiella haematogaster narethae │
+Naretha Bluebonnet │ Northiella narethae │
+│ │
+│ PSOPHODIDAE │
+White‑bellied Whipbird (Kangaroo Island subspecies) │ Psophodes leucogaster lashmari │
 │ │
 │ PTILONORHYNCHIDAE │
-Western Bowerbird │ Chlamydera guttata │
+Western Bowerbird │ Chlamydera guttata guttata │
 │ │
 │ RALLIDAE │
-Spotless Crake │ Porzana tabuensis │
+Spotless Crake │ Zapornia tabuensis tabuensis │
 │ │
 │ SCOLOPACIDAE │
 Common Sandpiper │ Actitis hypoleucos │
-Ruddy Turnstone │ Arenaria interpres │
-Sanderling │ Calidris alba │
+Ruddy Turnstone │ Arenaria interpres interpres │
+Sanderling │ Calidris alba alba │
 Pectoral Sandpiper │ Calidris melanotos │
+Ruff │ Calidris pugnax │
 Long‑toed Stint │ Calidris subminuta │
-Great Knot │ Calidris tenuirostris │
 Latham's Snipe │ Gallinago hardwickii │
-Grey-tailed Tattler │ Heteroscelus brevipes │
-Bar‑tailed Godwit │ Limosa lapponica │
-Black‑tailed Godwit │ Limosa limosa │
-Whimbrel │ Numenius phaeopus │
-Ruff │ Philomachus pugnax │
+Bar‑tailed Godwit │ Limosa lapponica baueri │
+Black‑tailed Godwit │ Limosa limosa melanuroides │
+Whimbrel │ Numenius phaeopus variegatus │
+Grey‑tailed Tattler │ Tringa brevipes │
 Wood Sandpiper │ Tringa glareola │
 Terek Sandpiper │ Xenus cinereus │
 │ │
 │ STRIGIDAE │
-Barking Owl │ Ninox connivens │
+Barking Owl │ Ninox connivens connivens │
 │ │
 │ THRESKIORNITHIDAE │
 Glossy Ibis │ Plegadis falcinellus │
 │ │
+│ TURDIDAE │
+Bassian Thrush │ Zoothera lunulata │
+│ │
 │ TURNICIDAE │
-Red‑chested Button‑quail │ Turnix pyrrhothorax │
-Painted Button‑quail │ Turnix varia │
+Red‑chested Buttonquail │ Turnix pyrrhothorax │
+Painted Buttonquail │ Turnix varius varius │
 │ │
 │ TYTONIDAE │
-Grass Owl │ Tyto capensis │
+Eastern Grass Owl │ Tyto longimembris longimembris │
 │ │
 Reptiles │ │
 │ AGAMIDAE │
 Jacky Lizard │ Amphibolurus muricatus │
-Spotted Dragon │ Ctenophorus maculatus │
+Nullarbor Spotted Sand Dragon │ Ctenophorus maculatus │
 McKenzie's Dragon │ Ctenophorus mckenziei │
 Claypan Dragon │ Ctenophorus salinarum │
 │ │
-│ BOIDAE │
+│ CARPHODACTYLIDAE │
+Pernatty Knob‑tailed Gecko │ Nephrurus deleani │
+│ │
+│ DIPLODACTYLIDAE │
+Patchwork Gecko │ Diplodactylus pulcher │
+Map Gecko │ Lucasium steindachneri │
+Banded Velvet Gecko │ Oedura cincta │
+│ │
+│ ELAPIDAE │
+Channel Country Whipsnake │ Demansia rimicola │
+White‑lipped Snake │ Drysdalia coronoides │
+Bardick │ Echiopsis curta │
+Western Black‑naped Snake │ Neelaps bimaculatus │
+Speckled Brown Snake │ Pseudonaja guttata │
+Common Bandy Bandy │ Vermicella annulata │
+│ │
+│ PYGOPODIDAE │
+Northern Snake‑lizard │ Delma borea │
+Bronzeback Legless Lizard │ Ophidiocephalus taeniatus │
+│ │
+│ PYTHONIDAE │
 Woma │ Aspidites ramsayi │
 Carpet Python │ Morelia spilota │
 │ │
-│ ELAPIDAE │
-Channel Country Whipsnake │ Demansia sp. 'Channel Country Whipsnake' │
-White‑lipped Snake │ Drysdalia coronoides │
-Bardick │ Echiopsis curta │
-Spotted Brown Snake │ Pseudonaja guttata │
-Western Black‑naped Snake │ Simoselaps bimaculatus │
-Common Bandy‑Bandy │ Vermicella annulata │
-│ │
-│ GEKKONIDAE │
-Northern Snake‑lizard │ Delma borea │
-Patchwork Gecko │ Diplodactylus pulcher │
-Map Gecko │ Diplodactylus steindachneri │
-Pernatty Knob‑tailed Gecko │ Nephrurus deleani │
-Marbled Velvet Gecko │ Oedura marmorata │
-Bronzeback Legless Lizard │ Ophidiocephalus taeniatus │
-│ │
 │ SCINCIDAE │
-Western Three‑lined Skink │ Bassiana trilineata │
+Western Three‑lined Skink │ Acritoscincus trilineatus │
 Ashy‑downs Ctenotus │ Ctenotus astarte │
 Giant Desert Ctenotus │ Ctenotus grandis │
 Greer's Ctenotus │ Ctenotus greeri │
@@ -263,7 +272,7 @@ Paleface Ctenotus │ Ctenotus piankai │
 Southern Water Skink │ Eulamprus tympanum │
 Beach Slider │ Lerista arenicola │
 Speckled Slider │ Lerista baynesi │
-Dwarf four‑toed Slider │ Lerista distinguenda │
+Dwarf Four‑toed Slider │ Lerista distinguenda │
 Long‑legged Slider │ Lerista microtis │
 Desert Glossy Skink │ Notoscincus ornatus │
 Blacksoil Skink │ Proablepharus kinghorni │
@@ -272,190 +281,197 @@ Tussock Skink │ Pseudemoia pagenstecheri │
 │ │
 │ VARANIDAE │
 Short‑tailed Pygmy Goanna │ Varanus brevicauda │
-Tree Goanna │ Varanus varius │
+Lace Monitor │ Varanus varius │
 │ │
 Amphibians │ │
 │ HYLIDAE │
-Knife-footed Frog │ Cyclorana cultripes │
+Knife‑footed Frog │ Cyclorana cultripes │
+│ │
+│ MYOBATRACHIDAE │
 Smooth Frog │ Geocrinia laevis │
-Brown Toadlet │ Pseudophryne bibroni │
+Brown Toadlet │ Pseudophryne bibronii │
 Small‑headed Toadlet │ Uperoleia capitulata │
 │ │
 Part 2—Plants
 Common name │ Species │
 │ ADIANTACEAE │
-annual fern │ Anogramma leptophylla │
+Annual Fern │ Anogramma leptophylla │
 │ │
 │ AMARANTHACEAE │
 │ Ptilotus aristatus var. aristatus │
-Barker's mulla mulla │ Ptilotus barkeri │
-hairy‑tails │ Ptilotus erubescens │
-│ Ptilotus schwartzii f. schwartzii │
-Symon's mulla mulla │ Ptilotus symonii │
+Barker's Mulla Mulla │ Ptilotus barkeri │
+Hairy‑tails │ Ptilotus erubescens │
+Horse Mulla Mulla │ Ptilotus schwartzii │
+Symon's Mulla Mulla │ Ptilotus symonii │
 │ │
 │ ARACEAE │
 │ Typhonium alismifolium │
 │ │
 │ ASPLENIACEAE │
-common spleenwort │ Asplenium trichomanes │
+Common Spleenwort │ Asplenium trichomanes │
 │ │
 │ BAUERACEAE │
-wiry bauera │ Bauera rubioides │
+Wiry Bauera │ Bauera rubioides │
 │ │
 │ BLECHNACEAE │
-fishbone water‑fern │ Blechnum nudum │
-hard water‑fern │ Blechnum wattsii │
+Fishbone Water‑fern │ Blechnum nudum │
+Hard Water‑fern │ Blechnum wattsii │
 │ │
 │ BORAGINACEAE │
 │ Embadium johnstonii │
 │ Embadium stagnense │
 │ │
 │ CALLITRICHACEAE │
-matted water starwort │ Callitriche sonderi │
+Matted Water Starwort │ Callitriche sonderi │
 │ │
 │ CAMPANULACEAE │
-swamp isotome │ Isotoma fluviatilis ssp. australis │
-salt isotome │ Isotoma scapigera │
+Swamp Isotome │ Isotoma fluviatilis ssp. australis │
+Salt Isotome │ Isotoma scapigera │
+Poison Pratia │ Lobelia concolor │
 │ Lobelia heterophylla │
-poison lobelia │ Lobelia pratioides │
-poison pratia │ Pratia concolor │
+Poison Lobelia │ Lobelia pratioides │
 │ │
 │ CARYOPHYLLACEAE │
-rayless starwort │ Stellaria multiflora │
-swamp starwort │ Stellaria palustris var. tenella │
-prickly starwort │ Stellaria pungens │
+Rayless Starwort │ Stellaria multiflora │
+Swamp Starwort │ Stellaria palustris var. tenella │
+Prickly Starwort │ Stellaria pungens │
 │ │
 │ CENTROLEPIDACEAE │
-cushion centrolepis │ Centrolepis cephaloformis ssp. cephaloformis │
-cushion centrolepis │ Centrolepis cephaloformis ssp. murrayi │
-smooth centrolepis │ Centrolepis glabra │
+Cushion Centrolepis │ Centrolepis cephaloformis ssp. cephaloformis │
+Cushion Centrolepis │ Centrolepis cephaloformis ssp. murrayi │
+Smooth Centrolepis │ Centrolepis glabra │
 │ │
 │ CERATOPHYLLACEAE │
-hornwort │ Ceratophyllum demersum │
+Hornwort │ Ceratophyllum demersum │
 │ │
 │ CHENOPODIACEAE │
 │ Atriplex australasica │
-Eichler's saltbush │ Atriplex eichleri │
-papery goosefoot │ Chenopodium erosum │
-│ Halosarcia lepidosperma │
-black‑fruit bluebush │ Maireana melanocarpa │
-slender fissure‑plant │ Maireana pentagona │
-Rohrlach's bluebush │ Maireana rohrlachii │
-lax bluebush │ Maireana suaedifolia │
-wingless bonefruit │ Osteocarpum acropterum var. deminutum │
-Black's bindyi │ Sclerolaena blackiana │
+Eichler's Saltbush │ Atriplex eichleri │
+Papery Goosefoot │ Chenopodium erosum │
+Black‑fruit Bluebush │ Maireana melanocarpa │
+Slender Fissure‑plant │ Maireana pentagona │
+Rohrlach's Bluebush │ Maireana rohrlachii │
+Lax Bluebush │ Maireana suaedifolia │
+Wingless Bonefruit │ Osteocarpum acropterum var. deminutum │
+Black's Bindyi │ Sclerolaena blackiana │
 │ Sclerolaena fontinalis │
-five‑spine bindyi │ Sclerolaena muricata var. villosa │
+Five‑spine Bindyi │ Sclerolaena muricata var. villosa │
+│ Tecticornia lepidosperma │
 │ │
 │ COMPOSITAE │
-Kangaroo Island river daisy │ Achnophora tatei │
-swamp daisy │ Allittia cardiocarpa │
+Kangaroo Island River Daisy │ Achnophora tatei │
+Swamp Daisy │ Allittia cardiocarpa │
 │ Allittia uliginosa │
 │ Basedowia tenerrima │
-swamp daisy │ Brachyscome basaltica var. gracilis │
-short‑stem daisy │ Brachyscome breviscapis │
+Hill Daisy │ Brachyscome aculeata │
+Short‑stem Daisy │ Brachyscome breviscapis │
 │ Brachyscome ciliaris var. subintegrifolia │
-│ Brachyscome eriogona │
-grass daisy │ Brachyscome graminea │
-coast daisy │ Brachyscome parvula │
-Reader's daisy │ Brachyscome readeri │
-Nullarbor daisy │ Brachyscome tatei │
-yellow‑fruit daisy │ Brachyscome xanthocarpa │
-pale beauty‑heads │ Calocephalus sonderi │
-yellow burr‑daisy │ Calotis lappulacea │
-tufted burr‑daisy │ Calotis scapigera │
-wingwort │ Ceratogyne obionoides │
-salt button‑daisy │ Chondropyxis halophila │
-shiny elachanth │ Elachanthus glaber │
+Grass Daisy │ Brachyscome graminea │
+Swamp Daisy │ Brachyscome paludicola │
+Coast Daisy │ Brachyscome parvula │
+Reader's Daisy │ Brachyscome readeri │
+Nullarbor Daisy │ Brachyscome tatei │
+Yellow‑fruit Daisy │ Brachyscome xanthocarpa │
+Pale Beauty‑heads │ Calocephalus sonderi │
+Tufted Burr‑daisy │ Calotis scapigera │
+Wingwort │ Ceratogyne obionoides │
+Salt Button‑daisy │ Chondropyxis halophila │
+Branched Everlasting │ Coronidium adenophorum │
+Shiny Elachanth │ Elachanthus glaber │
 │ Gratwickia monochaeta │
-dogwood haeckeria │ Haeckeria cassiniiformis │
-small nut‑heads │ Haegiela tatei │
+Dogwood Haeckeria │ Haeckeria cassiniiformis │
+Small Nut‑heads │ Haegiela tatei │
 │ Hyalosperma stoveae │
+│ Iotasperma sessilifolium │
 │ Leiocarpa pluriseta │
 │ Leptinella reptans │
-lanky buttons │ Leptorhynchos elongatus │
 │ Leptorhynchos orientalis │
-annual buttons │ Leptorhynchos scaber │
-wiry buttons │ Leptorhynchos tenuifolius │
-musk daisy‑bush │ Olearia adenolasia │
-velvet daisy‑bush │ Olearia pannosa ssp. cardiophylla │
-sticky daisy‑bush │ Olearia passerinoides ssp. glutescens │
-rasp daisy‑bush │ Olearia picridifolia │
-squat picris │ Picris squarrosa │
-showy copper‑wire daisy │ Podolepis jaceoides │
-gypsum groundsel │ Senecio gypsicola │
+Annual Buttons │ Leptorhynchos scaber │
+Wiry Buttons │ Leptorhynchos tenuifolius │
+Musk Daisy‑bush │ Olearia adenolasia │
+Velvet Daisy‑bush │ Olearia pannosa ssp. cardiophylla │
+Sticky Daisy‑bush │ Olearia passerinoides ssp. glutescens │
+Rasp Daisy‑bush │ Olearia picridifolia │
+Squat Picris │ Picris squarrosa │
+Showy Copper‑wire Daisy │ Podolepis jaceoides │
+Gawler Ranges Groundsel │ Senecio gawlerensis │
+Gypsum Groundsel │ Senecio gypsicola │
+Cut‑leaf Groundsel │ Senecio laceratus │
+│ Senecio pinnatifolius var. pinnatifolius │
 │ │
 │ CRASSULACEAE │
-large‑fruit crassula │ Crassula exserta │
-purple crassula │ Crassula peduncularis │
+Large‑fruit Crassula │ Crassula exserta │
+Purple Crassula │ Crassula peduncularis │
 │ │
 │ CRUCIFERAE │
-annual bitter‑cress │ Cardamine paucijuga │
-slender bitter‑cress │ Cardamine tenuifolia │
-Kangaroo Island cress │ Irenepharsus phasmatodes │
-bushy peppercress │ Lepidium desvauxii │
+Annual Bitter‑cress │ Cardamine paucijuga │
+Slender Bitter‑cress │ Cardamine tenuifolia │
+Kangaroo Island Cress │ Irenepharsus phasmatodes │
+Bushy Peppercress │ Lepidium desvauxii │
 │ Lepidium pseudoruderale │
 │ Menkea lutea │
-hairy shepherd's‑purse │ Microlepidium pilosulum │
-spreading cress │ Phlegmatospermum eremaeum │
-forest bitter‑cress │ Rorippa dictyosperma │
-jagged bitter‑cress │ Rorippa laciniata │
+Hairy Shepherd's‑purse │ Microlepidium pilosulum │
+Spreading Cress │ Phlegmatospermum eremaeum │
+Forest Bitter‑cress │ Rorippa dictyosperma │
+Jagged Bitter‑cress │ Rorippa laciniata │
 │ │
 │ CYPERACEAE │
-pale twig‑rush │ Baumea acuta │
-slender twig‑rush │ Baumea gunnii │
-lax twig‑rush │ Baumea laxa │
+Pale Twig‑rush │ Baumea acuta │
+Slender Twig‑rush │ Baumea gunnii │
+Lax Twig‑rush │ Baumea laxa │
 │ Bulbostylis pyriformis │
 │ Bulbostylis turbinata │
-mountain sedge │ Carex gunniana │
-leafy twig‑rush │ Cladium procerum │
-downs flat‑sedge │ Cyperus bifax │
+Mountain Sedge │ Carex gunniana │
+Leafy Twig‑rush │ Cladium procerum │
+Downs Flat‑sedge │ Cyperus bifax │
 │ Cyperus castaneus │
 │ Cyperus concinnus │
-flaccid flat‑sedge │ Cyperus flaccidus │
+Flaccid Flat‑sedge │ Cyperus flaccidus │
 │ Cyperus lhotskyanus │
 │ Cyperus nervulosus │
-dark flat‑sedge │ Cyperus sanguinolentus │
+Dark Flat‑sedge │ Cyperus sanguinolentus │
 │ Cyperus sphaeroideus │
 │ Eleocharis geniculata │
 │ Eleocharis papillosa │
 │ Eleocharis plana │
-summer fringe‑rush │ Fimbristylis aestivalis │
-tall saw‑sedge │ Gahnia clarkei │
-spiky saw‑sedge │ Gahnia hystrix │
-thatch saw‑sedge │ Gahnia radula │
-│ Gahnia sp. West Bay (B.M.Overton 2685) │
-remote sword‑sedge │ Lepidosperma avium │
-│ Lepidosperma leptophyllum │
-tiny bog‑rush │ Schoenus discifer │
+Summer Fringe‑rush │ Fimbristylis aestivalis │
+Tall Saw‑sedge │ Gahnia clarkei │
+│ Gahnia halmaturina │
+Spiky Saw‑sedge │ Gahnia hystrix │
+Thatch Saw‑sedge │ Gahnia radula │
+Remote Sword‑sedge │ Lepidosperma avium │
+│ Lepidosperma gahnioides │
+Tiny Bog‑rush │ Schoenus discifer │
 │ Schoenus laevigatus │
-slender bog‑rush │ Schoenus lepidosperma ssp. lepidosperma │
-gimlet bog‑rush │ Schoenus sculptus │
-grassy bog‑rush │ Schoenus tesquorum │
+Slender Bog‑rush │ Schoenus lepidosperma ssp. lepidosperma │
+Gimlet Bog‑rush │ Schoenus sculptus │
+Grassy Bog‑rush │ Schoenus tesquorum │
 │ │
 │ DENNSTAEDTIACEAE │
-ruddy ground‑fern │ Hypolepis rugosula │
+Ruddy Ground‑fern │ Hypolepis rugosula │
 │ │
 │ DILLENIACEAE │
-Central Australian guinea‑flower │ Hibbertia glaberrima │
-│ Hibbertia sp. Humilis (H.R.Toelken 9196) │
+Port Lincoln Guinea‑flower │ Hibbertia cinerea │
+Central Australian Guinea‑flower │ Hibbertia glaberrima │
+│ Hibbertia glebosa ssp. oblonga │
 │ │
 │ DROSERACEAE │
-forked sundew │ Drosera binata │
-early sundew │ Drosera praefolia │
+Forked Sundew │ Drosera binata │
+Early Sundew │ Drosera praefolia │
 │ │
 │ ELATINACEAE │
-waterwort │ Elatine gratioloides │
+Waterwort │ Elatine gratioloides │
 │ │
 │ EPACRIDACEAE │
-Cleland's beard‑heath │ Leucopogon clelandii │
-hairy beard‑heath │ Leucopogon hirsutus │
-│ Leucopogon revolutus │
-pink swamp‑heath │ Sprengelia incarnata │
+Cleland's Beard‑heath │ Leucopogon clelandii │
+Hairy Beard‑heath │ Leucopogon hirsutus │
+│ Leucopogon obovatus ssp. obovatus │
+Pink Swamp‑heath │ Sprengelia incarnata │
 │ │
 │ EUPHORBIACEAE │
-snowdrop spurge │ Phyllanthus calycinus │
-fringed pseudanthus │ Pseudanthus micranthus │
+Snowdrop Spurge │ Phyllanthus calycinus │
+Fringed Pseudanthus │ Pseudanthus micranthus │
+│ Synostemon ramosissimus │
 │ │
 │ FRANKENIACEAE │
 │ Frankenia cinerea │
@@ -467,400 +483,404 @@ fringed pseudanthus │ Pseudanthus micranthus │
 │ Geranium sp. Linear segments (K.Preiss 128) │
 │ │
 │ GLEICHENIACEAE │
-coral fern │ Gleichenia microphylla │
+Coral Fern │ Gleichenia microphylla │
 │ │
 │ GOODENIACEAE │
 │ Dampiera roycei │
 │ Goodenia anfracta │
-Bentham's goodenia │ Goodenia benthamiana │
+Bentham's Goodenia │ Goodenia benthamiana │
 │ Goodenia brunnea │
 │ Goodenia chambersii │
 │ Goodenia glandulosa │
-spreading goodenia │ Goodenia heteromera │
-Flinders Range goodenia │ Goodenia saccata │
-myrtle fanflower │ Scaevola myrtifolia │
+Spreading Goodenia │ Goodenia heteromera │
+Flinders Ranges Goodenia │ Goodenia saccata │
+Myrtle Fanflower │ Scaevola myrtifolia │
 │ Velleia cycnopotamica │
 │ │
 │ GRAMINEAE │
-pointed swamp wallaby‑grass │ Amphibromus archeri │
-long‑nosed swamp wallaby‑grass │ Amphibromus macrorhinus │
-dark swamp wallaby‑grass │ Amphibromus recurvatus │
+Pointed Swamp Wallaby‑grass │ Amphibromus archeri │
+Long‑nosed Swamp Wallaby‑grass │ Amphibromus macrorhinus │
+Dark Swamp Wallaby‑grass │ Amphibromus recurvatus │
 │ Aristida arida │
 │ Aristida australis │
-smooth wallaby‑grass │ Austrodanthonia laevis │
-short‑awn wallaby‑grass │ Austrodanthonia tenuior │
-cane spear‑grass │ Austrostipa breviglumis │
-foxtail spear‑grass │ Austrostipa densiflora │
-spiny spear‑grass │ Austrostipa echinata │
+Cane Spear‑grass │ Austrostipa breviglumis │
+Foxtail Spear‑grass │ Austrostipa densiflora │
+Spiny Spear‑grass │ Austrostipa echinata │
 │ Austrostipa gibbosa │
 │ Austrostipa multispiculis │
-Flinders Range spear‑grass │ Austrostipa petraea │
+Flinders Ranges Spear‑grass │ Austrostipa petraea │
 │ Austrostipa plumigera │
 │ Austrostipa tenuifolia │
-Tucker's spear‑grass │ Austrostipa tuckeri │
-Vickery's spear‑grass │ Austrostipa vickeryana │
-red‑leg grass │ Bothriochloa macra │
-heath bent‑grass │ Deyeuxia densa │
-rough‑bearded grass │ Echinopogon ovatus │
-barren cane‑grass │ Eragrostis infecunda │
-purple love‑grass │ Eragrostis lacunaria │
-Bentham's fescue │ Festuca benthamiana │
-narrow‑leaf blown‑grass │ Lachnagrostis punicea var. filifolia │
-│ Lachnagrostis punicea var. punicea │
-tall blown‑grass │ Lachnagrostis robusta │
-woolly mulga‑grass │ Neurachne lanigera │
-five‑awn spear‑grass │ Pentapogon quadrifidus var. quadrifidus │
-knotted poa │ Poa drummondiana │
-scaly poa │ Poa fax │
-soft tussock‑grass │ Poa morrisii │
-velvet tussock‑grass │ Poa rodwayi │
+Tucker's Spear‑grass │ Austrostipa tuckeri │
+Vickery's Spear‑grass │ Austrostipa vickeryana │
+Red‑leg Grass │ Bothriochloa macra │
+Heath Bent‑grass │ Deyeuxia densa │
+Rough‑bearded Grass │ Echinopogon ovatus │
+Barren Cane‑grass │ Eragrostis infecunda │
+Purple Love‑grass │ Eragrostis lacunaria │
+Bentham's Fescue │ Festuca benthamiana │
+Narrow‑leaf Blown‑grass │ Lachnagrostis punicea ssp. filifolia │
+│ Lachnagrostis punicea ssp. punicea │
+Tall Blown‑grass │ Lachnagrostis robusta │
+Woolly Mulga‑grass │ Neurachne lanigera │
+Five‑awn Spear‑grass │ Pentapogon quadrifidus var. quadrifidus │
+Knotted Poa │ Poa drummondiana │
+Scaly Poa │ Poa fax │
+Soft Tussock‑grass │ Poa morrisii │
+Velvet Tussock‑grass │ Poa rodwayi │
 │ Poa sieberiana var. sieberiana │
-shade tussock‑grass │ Poa umbricola │
-gummy spinifex │ Triodia pungens │
+Shade Tussock‑grass │ Poa umbricola │
+Smooth Wallaby‑grass │ Rytidosperma laeve │
+Short‑awn Wallaby‑grass │ Rytidosperma tenuius │
+Gummy Spinifex │ Triodia pungens │
 │ Zoysia macrantha ssp. walshii │
 │ │
 │ GUTTIFERAE │
-matted St John's wort │ Hypericum japonicum │
+Matted St John's Wort │ Hypericum japonicum │
 │ │
 │ HALORAGACEAE │
-shade raspwort │ Gonocarpus humilis │
-creeping raspwort │ Gonocarpus micranthus ssp. micranthus │
-swamp raspwort │ Haloragis brownii │
-Eichler's raspwort │ Haloragis eichleri │
+Shade Raspwort │ Gonocarpus humilis │
+Creeping Raspwort │ Gonocarpus micranthus ssp. micranthus │
+Swamp Raspwort │ Haloragis brownii │
+Eichler's Raspwort │ Haloragis eichleri │
 │ Haloragis myriocarpa │
-broad milfoil │ Myriophyllum amphibium │
-tiny milfoil │ Myriophyllum integrifolium │
-robust milfoil │ Myriophyllum papillosum │
-varied milfoil │ Myriophyllum variifolium │
+Broad Milfoil │ Myriophyllum amphibium │
+Tiny Milfoil │ Myriophyllum integrifolium │
+Robust Milfoil │ Myriophyllum papillosum │
+Varied Milfoil │ Myriophyllum variifolium │
 │ │
 │ HYDROCHARITACEAE │
-waterthyme │ Hydrilla verticillata │
-swamp lily │ Ottelia ovalifolia ssp. ovalifolia │
+Waterthyme │ Hydrilla verticillata │
+Swamp Lily │ Ottelia ovalifolia ssp. ovalifolia │
 │ │
 │ ISOETACEAE │
-plain quillwort │ Isoetes drummondii ssp. drummondii │
+Plain Quillwort │ Isoetes drummondii ssp. drummondii │
 │ │
 │ JUNCACEAE │
-austral rush │ Juncus australis │
-tall rush │ Juncus procerus │
+Austral Rush │ Juncus australis │
+Tall Rush │ Juncus procerus │
 │ Luzula ovata │
 │ │
 │ JUNCAGINACEAE │
-Alcock's water‑ribbons │ Triglochin alcockiae │
-tiny arrowgrass │ Triglochin minutissimum │
+Alcock's Water‑ribbons │ Cycnogeton alcockiae │
+Tiny Arrowgrass │ Triglochin minutissima │
 │ │
 │ LABIATAE │
-slender mint │ Mentha diemenica │
-native pennyroyal │ Mentha satureioides │
-│ Microcorys macrediana │
-green mintbush │ Prostanthera chlorantha │
-dwarf skullcap │ Scutellaria humilis │
+Slender Mint │ Mentha diemenica │
+Native Pennyroyal │ Mentha satureioides │
+│ Microcorys macredieana │
+Green Mintbush │ Prostanthera chlorantha │
+Dwarf Skullcap │ Scutellaria humilis │
 │ │
 │ LEGUMINOSAE │
-Alcock's wattle │ Acacia alcockii │
+Alcock's Wattle │ Acacia alcockii │
 │ Acacia ammobia │
-Baratta wattle │ Acacia barattensis │
-hop‑bush wattle │ Acacia dodonaeifolia │
-prickly wattle │ Acacia erinacea │
-Georgina gidgea │ Acacia georginae │
-graceful wattle │ Acacia gracilifolia │
-ploughshare wattle │ Acacia gunnii │
-Helm's wattle │ Acacia helmsiana │
+Baratta Wattle │ Acacia barattensis │
+Hop‑bush Wattle │ Acacia dodonaeifolia │
+Prickly Wattle │ Acacia erinacea │
+Georgina Gidgea │ Acacia georginae │
+Graceful Wattle │ Acacia gracilifolia │
+Ploughshare Wattle │ Acacia gunnii │
+Helm's Wattle │ Acacia helmsiana │
 │ Acacia hemiteles │
-six‑nerve spine‑bush │ Acacia hexaneura │
-feathery wattle │ Acacia imbricata │
-Flinders Ranges wattle │ Acacia iteaphylla │
-Coonavittra wattle │ Acacia jennerae │
-Latz's wattle │ Acacia latzii │
-streaked wattle │ Acacia lineata │
-nealie │ Acacia loderi │
-Mitchell's wattle │ Acacia mitchellii │
-mallee wattle │ Acacia montana │
+Six‑nerve Spine‑bush │ Acacia hexaneura │
+Feathery Wattle │ Acacia imbricata │
+Flinders Ranges Wattle │ Acacia iteaphylla │
+Coonavittra Wattle │ Acacia jennerae │
+Latz's Wattle │ Acacia latzii │
+Streaked Wattle │ Acacia lineata │
+Nealie │ Acacia loderi │
+Mitchell's Wattle │ Acacia mitchellii │
+Mallee Wattle │ Acacia montana │
 │ Acacia mutabilis ssp. angustifolia │
-Pickard's wattle │ Acacia pickardii │
-Quorn wattle │ Acacia quornensis │
-dagger‑leaf wattle │ Acacia rhigiophylla │
-minni ritchi │ Acacia rhodophloia │
+Pickard's Wattle │ Acacia pickardii │
+Quorn Wattle │ Acacia quornensis │
+Dagger‑leaf Wattle │ Acacia rhigiophylla │
+Minni Ritchi │ Acacia rhodophloia │
 │ Acacia simmonsiana │
-hop wattle │ Acacia stricta │
-Symon's wattle │ Acacia symonii │
+Hop Wattle │ Acacia stricta │
+Symon's Wattle │ Acacia symonii │
 │ Acacia tenuior │
 │ Acacia tenuissima │
 │ Acacia toondulya │
-mallee bitter‑pea │ Daviesia benthamii ssp. humilis │
-zig‑zag bitter‑pea │ Daviesia pectinata │
-Flinders Ranges bitter‑pea │ Daviesia stricta │
+Mallee Bitter‑pea │ Daviesia benthamii ssp. humilis │
+Zig‑zag Bitter‑pea │ Daviesia pectinata │
+Flinders Ranges Bitter‑pea │ Daviesia stricta │
 │ Hovea purpurea │
-clustered bush‑pea │ Pultenaea dentata │
-Tothill bush‑pea │ Pultenaea kraehenbuehlii │
-rough bush‑pea │ Pultenaea scabra │
-tufted bush‑pea │ Pultenaea trichophylla │
-leafless globe‑pea │ Sphaerolobium minus │
+Scented Bush‑pea │ Pultenaea graveolens │
+Tothill Bush‑pea │ Pultenaea kraehenbuehlii │
+Rough Bush‑pea │ Pultenaea scabra │
+Tufted Bush‑pea │ Pultenaea trichophylla │
+Leafless Globe‑pea │ Sphaerolobium minus │
 │ Swainsona fuscoviridis │
-Lee's swainson‑pea │ Swainsona leeana │
-wild violet │ Swainsona microcalyx │
+Lee's Swainson‑pea │ Swainsona leeana │
+Wild Violet │ Swainsona microcalyx │
 │ Swainsona oligophylla │
-yellow swainson‑pea │ Swainsona pyrophila │
-spiny templetonia │ Templetonia battii │
-native broom │ Viminaria juncea │
+Yellow Swainson‑pea │ Swainsona pyrophila │
+Spiny Templetonia │ Templetonia battii │
+Native Broom │ Viminaria juncea │
 │ │
 │ LENTIBULARIACEAE │
-yellow bladderwort │ Utricularia australis │
-violet bladderwort │ Utricularia violacea │
+Yellow Bladderwort │ Utricularia australis │
+Violet Bladderwort │ Utricularia violacea │
 │ │
 │ LILIACEAE │
-pale grass‑lily │ Caesia parviflora var. minor │
-sand lily │ Corynotheca licrota │
+Pale Grass‑lily │ Caesia parviflora var. minor │
+Sand Lily │ Corynotheca licrota │
 │ Dianella longifolia var. grandis │
-wattle mat‑rush │ Lomandra filiformis ssp. coriacea │
-grassy fringe‑lily │ Thysanotus tenellus │
-Eyre Peninsula fringe‑lily │ Thysanotus wangariensis │
-trailing Nancy │ Wurmbea decumbens │
-desert Nancy │ Wurmbea deserticola │
+Wattle Mat‑rush │ Lomandra filiformis ssp. coriacea │
+Grassy Fringe‑lily │ Thysanotus tenellus │
+Eyre Peninsula Fringe‑lily │ Thysanotus wangariensis │
+Trailing Nancy │ Wurmbea decumbens │
+Desert Nancy │ Wurmbea deserticola │
 │ Wurmbea latifolia ssp. vanessae │
 │ Wurmbea stellata │
-Tate's grass‑tree │ Xanthorrhoea semiplana ssp. tateana │
-desert grass‑tree │ Xanthorrhoea thorntonii │
+Tate's Grass‑tree │ Xanthorrhoea semiplana ssp. tateana │
+Desert Grass‑tree │ Xanthorrhoea thorntonii │
 │ │
 │ LOGANIACEAE │
-rock logania │ Logania saxatilis │
-rough logania │ Logania scabrella │
-tiny mitrewort │ Phyllangium distylis │
+Rock Logania │ Logania saxatilis │
+Rough Logania │ Logania scabrella │
+Tiny Mitrewort │ Phyllangium distylis │
 │ │
 │ LYCOPODIACEAE │
-slender clubmoss │ Lycopodiella lateralis │
-pigmy clubmoss │ Phylloglossum drummondii │
+Slender Clubmoss │ Lycopodiella lateralis │
+Pigmy Clubmoss │ Phylloglossum drummondii │
 │ │
 │ LYTHRACEAE │
-purple loosestrife │ Lythrum salicaria │
+Purple Loosestrife │ Lythrum salicaria │
 │ │
 │ MALVACEAE │
-│ Abutilon oxycarpum var. incanum │
-showy lawrencia │ Lawrencia berthae │
+Swamp Chinese‑lantern │ Abutilon oxycarpum ssp. Prostrate (A.A.Mitchell PRP 1266) │
+Showy Lawrencia │ Lawrencia berthae │
 │ Sida sp. Wakaya Desert (C.Dunlop 1984) │
 │ │
 │ MARSILEACEAE │
-austral pillwort │ Pilularia novae‑hollandiae │
+Austral Pillwort │ Pilularia novae‑hollandiae │
 │ │
 │ MENYANTHACEAE │
-wavy marshwort │ Nymphoides crenata │
+Wavy Marshwort │ Nymphoides crenata │
 │ │
 │ MYOPORACEAE │
-│ Eremophila praecox │
-Blue Range emubush │ Eremophila barbata │
-coccid emubush │ Eremophila gibbifolia │
-Hill's emubush │ Eremophila hillii │
-│ Eremophila interstans var. interstans │
-small‑leaf emubush │ Eremophila parvifolia │
+Blue Range Emubush │ Eremophila barbata │
+Coccid Emubush │ Eremophila gibbifolia │
+Hill's Emubush │ Eremophila hillii │
+│ Eremophila interstans ssp. interstans │
+Small‑leaf Emubush │ Eremophila parvifolia ssp. parvifolia │
 │ Eremophila pentaptera │
-twiggy emubush │ Eremophila polyclada │
-green‑flower emubush │ Eremophila subfloccosa ssp. glandulosa │
-creeping boobialla │ Myoporum parvifolium │
+Twiggy Emubush │ Eremophila polyclada │
+│ Eremophila praecox │
+Green‑flower Emubush │ Eremophila subfloccosa ssp. glandulosa │
+Creeping Boobialla │ Myoporum parvifolium │
 │ │
 │ MYRTACEAE │
-prickly bottlebrush │ Callistemon brachyandrus │
-Kangaroo Island heath‑myrtle │ Calytrix smeatoniana │
-white box │ Eucalyptus albens │
-broad‑leaf box │ Eucalyptus behriana │
-Spafford's square‑fruit mallee │ Eucalyptus calycogona ssp. spaffordii │
+Prickly Bottlebrush │ Callistemon brachyandrus │
+Kangaroo Island Heath‑myrtle │ Calytrix smeatoniana │
+Kingsmill's Mallee │ Eucalyptus alatissima │
+White Box │ Eucalyptus albens │
+Broad‑leaf Box │ Eucalyptus behriana │
 │ Eucalyptus canescens ssp. beadellii │
-Port Lincoln mallee │ Eucalyptus conglobata │
-Darke Peak mallee │ Eucalyptus cretata │
-candlebark gum │ Eucalyptus dalrympleana ssp. dalrympleana │
+Port Lincoln Mallee │ Eucalyptus conglobata ssp. conglobata │
+Darke Peak Mallee │ Eucalyptus cretata │
+Candlebark Gum │ Eucalyptus dalrympleana ssp. dalrympleana │
 │ Eucalyptus diversifolia ssp. hesperia │
-pink gum │ Eucalyptus fasciculosa │
-Mount Lindsay gum │ Eucalyptus gillenii │
-Kingsmill mallee │ Eucalyptus kingsmillii ssp. alatissima │
-whipstick mallee │ Eucalyptus leptopoda ssp. elevata │
-large‑fruit blue gum │ Eucalyptus leucoxylon ssp. megalocarpa │
-red stringybark │ Eucalyptus macrorhyncha ssp. macrorhyncha │
-ribbed white mallee │ Eucalyptus percostata │
+Pink Gum │ Eucalyptus fasciculosa │
+Mount Lindsay Gum │ Eucalyptus gillenii │
+Whipstick Mallee │ Eucalyptus leptopoda ssp. elevata │
+Large‑fruit Blue Gum │ Eucalyptus leucoxylon ssp. megalocarpa │
+Red Stringybark │ Eucalyptus macrorhyncha ssp. macrorhyncha │
+Ribbed White Mallee │ Eucalyptus percostata │
 │ Eucalyptus phenax ssp. compressa │
-│ Eucalyptus sp. Flinders Ranges (D.Nicolle 562) │
-manna gum │ Eucalyptus viminalis ssp. viminalis │
-green mallee │ Eucalyptus viridis ssp. viridis │
-Wimmera mallee │ Eucalyptus wimmerensis │
-Wyola Lake mallee │ Eucalyptus wyolensis │
-needle‑leaf honey‑myrtle │ Melaleuca armillaris ssp. akineta │
-wrinkled honey‑myrtle │ Melaleuca fulgens ssp. corrugata │
-pungent honey‑myrtle │ Melaleuca leiocarpa │
-dwarf‑leaf honey‑myrtle │ Melaleuca nanophylla │
-pointed‑leaf honey‑myrtle │ Melaleuca oxyphylla │
-swamp honey‑myrtle │ Melaleuca squamea │
-bottlebrush tea‑tree │ Melaleuca squarrosa │
-Wilson's honey‑myrtle │ Melaleuca wilsonii │
-fringed heath‑myrtle │ Micromyrtus ciliata │
+Manna Gum │ Eucalyptus viminalis ssp. viminalis │
+Green Mallee │ Eucalyptus viridis ssp. viridis │
+Wimmera Mallee │ Eucalyptus wimmerensis │
+Wyola Lake Mallee │ Eucalyptus wyolensis │
+Needle‑leaf Honey‑myrtle │ Melaleuca armillaris ssp. akineta │
+Wrinkled Honey‑myrtle │ Melaleuca fulgens ssp. corrugata │
+Pungent Honey‑myrtle │ Melaleuca leiocarpa │
+Dwarf‑leaf Honey‑myrtle │ Melaleuca nanophylla │
+Pointed‑leaf Honey‑myrtle │ Melaleuca oxyphylla │
+Swamp Honey‑myrtle │ Melaleuca squamea │
+Bottlebrush Tea‑tree │ Melaleuca squarrosa │
+Wilson's Honey‑myrtle │ Melaleuca wilsonii │
+Fringed Heath‑myrtle │ Micromyrtus ciliata │
 │ │
 │ OLACACEAE │
 │ Olax obcordata │
 │ │
 │ OPHIOGLOSSACEAE │
-large adder's‑tongue │ Ophioglossum polyphyllum │
+Large Adder's‑tongue │ Ophioglossum polyphyllum │
 │ │
 │ ORCHIDACEAE │
 │ Caladenia bicalliata ssp. bicalliata │
-black‑tongue caladenia │ Caladenia congesta │
-hooded caladenia │ Caladenia cucullata │
-late spider‑orchid │ Caladenia necrophylla │
-pygmy caladenia │ Caladenia pusilla │
+Flinders Ranges Caladenia │ Caladenia coactilis │
+Hooded Caladenia │ Caladenia cucullata │
+Narrow‑lip Spider‑orchid │ Caladenia leptochila │
+Late Spider‑orchid │ Caladenia necrophylla │
+Small Green‑comb Spider‑orchid │ Caladenia parva │
+Pygmy Caladenia │ Caladenia pusilla │
+Veined Spider‑orchid │ Caladenia reticulata │
 │ Caladenia sanguinea │
-star spider‑orchid │ Caladenia stellata │
-plain caladenia │ Caladenia vulgaris │
-plains beard‑orchid │ Calochilus campestris │
-small helmet‑orchid │ Corybas unguiculatus │
-tiger orchid │ Diuris sulphurea │
-potato orchid │ Gastrodia sesamoides │
-yellow onion‑orchid │ Microtis atrata │
-sweet onion‑orchid │ Microtis rara │
-austral leek‑orchid │ Prasophyllum australe │
-tawny leek‑orchid │ Prasophyllum constrictum │
-fertile leek-orchid │ Prasophyllum fecundum │
-cryptic leek-orchid │ Prasophyllum occultans │
-pale leek‑orchid │ Prasophyllum pallidum │
-blunt greenhood │ Pterostylis curta │
-slender greenhood │ Pterostylis foliata │
+Star Spider‑orchid │ Caladenia stellata │
+Plain Caladenia │ Caladenia vulgaris │
+Plains Beard‑orchid │ Calochilus campestris │
+Small Helmet‑orchid │ Corybas unguiculatus │
+Tiger Orchid │ Diuris sulphurea │
+Potato Orchid │ Gastrodia sesamoides │
+Yellow Onion‑orchid │ Microtis atrata │
+Sweet Onion‑orchid │ Microtis rara │
+Austral Leek‑orchid │ Prasophyllum australe │
+Tawny Leek‑orchid │ Prasophyllum constrictum │
+Fertile Leek‑orchid │ Prasophyllum fecundum │
+Cryptic Leek‑orchid │ Prasophyllum occultans │
+Pale Leek‑orchid │ Prasophyllum pallidum │
+Blunt Greenhood │ Pterostylis curta │
+Slender Greenhood │ Pterostylis foliata │
 │ Pterostylis striata │
-austral lady's tresses │ Spiranthes australis │
-frog-mouth sun-orchid │ Thelymitra batesii │
-small pink sun‑orchid │ Thelymitra carnea │
-twisted sun‑orchid │ Thelymitra flexuosa │
-giant sun-orchid │ Thelymitra grandiflora │
-plum sun‑orchid │ Thelymitra mucida │
-western sky sun-orchid │ Thelymitra occidentalis │
+Austral Lady's Tresses │ Spiranthes australis │
+Frog‑mouth Sun‑orchid │ Thelymitra batesii │
+Small Pink Sun‑orchid │ Thelymitra carnea │
+Twisted Sun‑orchid │ Thelymitra flexuosa │
+Giant Sun‑orchid │ Thelymitra grandiflora │
+Plum Sun‑orchid │ Thelymitra mucida │
+Western Sky Sun‑orchid │ Thelymitra occidentalis │
 │ │
 │ OROBANCHACEAE │
-native broomrape │ Orobanche cernua var. australiana │
+Native Broomrape │ Orobanche cernua var. australiana │
 │ │
 │ PITTOSPORACEAE │
-eastern apple‑berry │ Billardiera scandens var. scandens │
-white rhytidosporum │ Rhytidosporum procumbens │
+Eastern Apple‑berry │ Billardiera scandens var. scandens │
+White Rhytidosporum │ Rhytidosporum procumbens │
 │ │
 │ PLANTAGINACEAE │
 │ Plantago sp. A (A.C.Robinson 704) │
 │ │
 │ POLYGONACEAE │
-spiny lignum │ Muehlenbeckia horrida ssp. horrida │
-wiry dock │ Rumex dumosus │
+Spiny Lignum │ Duma horrida ssp. horrida │
+Wiry Dock │ Rumex dumosus │
 │ │
 │ PORTULACACEAE │
-bead purslane │ Calandrinia sphaerophylla │
+Bead Purslane │ Calandrinia sphaerophylla │
 │ Calandrinia stagnensis │
-white purslane │ Neopaxia australasica │
+White Purslane │ Montia australasica │
 │ │
 │ POTAMOGETONACEAE │
-blunt pondweed │ Potamogeton ochreatus │
+Blunt Pondweed │ Potamogeton ochreatus │
 │ │
 │ PRIMULACEAE │
-desert samolus │ Samolus eremaeus │
+Desert Samolus │ Samolus eremaeus │
 │ │
 │ PROTEACEAE │
 │ Grevillea anethifolia │
-prickly grevillea │ Grevillea aquifolium │
+Prickly Grevillea │ Grevillea aquifolium │
 │ Grevillea halmaturina ssp. halmaturina │
 │ Grevillea halmaturina ssp. laevis │
 │ Grevillea lavandulacea ssp. rogersii │
+Rough Spider‑flower │ Grevillea muricata │
 │ Grevillea pauciflora ssp. leptophylla │
-Kangaroo Island hakea │ Hakea aenigma │
-hooked needlewood │ Hakea tephrosperma │
+Kangaroo Island Hakea │ Hakea aenigma │
+Hooked Needlewood │ Hakea tephrosperma │
 │ │
 │ PTERIDACEAE │
-tender brake │ Pteris tremula │
+Tender Brake │ Pteris tremula │
 │ │
 │ RANUNCULACEAE │
-river buttercup │ Ranunculus inundatus │
-slender buttercup │ Ranunculus robertsonii │
+River Buttercup │ Ranunculus inundatus │
+Slender Buttercup │ Ranunculus robertsonii │
 │ │
 │ RESTIONACEAE │
-Kangaroo Island scale‑rush │ Lepyrodia valliculae │
+Kangaroo Island Scale‑rush │ Lepyrodia valliculae │
 │ │
 │ RHAMNACEAE │
-long‑flower cryptandra │ Cryptandra sp. Long hypanthium (C.R. Alcock 10626) │
+Long‑flower Cryptandra │ Cryptandra campanulata │
 │ Pomaderris forrestiana │
 │ Spyridium bifidum var. integrifolium │
-rough spyridium │ Spyridium halmaturinum var. scabridum │
-silvery spyridium │ Spyridium leucopogon │
-spoon‑leaf spyridium │ Spyridium spathulatum │
+Flinders Chase Spyridium │ Spyridium coalitum │
+Cloaked Spyridium │ Spyridium erymnocladum │
+Silvery Spyridium │ Spyridium leucopogon │
+Rough Spyridium │ Spyridium scabridum │
+Spoon‑leaf Spyridium │ Spyridium spathulatum │
+│ Stenanthemum arens │
 │ │
 │ RUBIACEAE │
-water woodruff │ Asperula subsimplex │
-Southern Flinders woodruff │ Asperula syrticola │
-tight bedstraw │ Galium curvihirtum │
-dwarf nertera │ Leptostigma reptans │
+Water Woodruff │ Asperula subsimplex │
+Southern Flinders Woodruff │ Asperula syrticola │
+Tight Bedstraw │ Galium curvihirtum │
+Dwarf Nertera │ Leptostigma reptans │
 │ │
 │ RUTACEAE │
-rough star‑bush │ Asterolasia muricata │
+Rough Star‑bush │ Asterolasia muricata │
 │ Boronia nana var. hyssopifolia │
 │ Boronia nana var. pubescens │
-swamp boronia │ Boronia parviflora │
-hairy boronia │ Boronia pilosa ssp. torquata │
-hairy correa │ Correa aemula │
-white correa │ Correa alba var. pannosa │
+Swamp Boronia │ Boronia parviflora │
+Hairy Boronia │ Boronia pilosa ssp. torquata │
+Hairy Correa │ Correa aemula │
+White Correa │ Correa alba var. pannosa │
 │ Correa backhouseana var. orbicularis │
 │ Correa glabra var. leucoclada │
-wilga │ Geijera parviflora │
-Mount Lofty phebalium │ Leionema hillebrandii │
+Wilga │ Geijera parviflora │
+Mount Lofty Phebalium │ Leionema hillebrandii │
 │ Leionema microphyllum │
-narrow‑leaf wax‑flower │ Philotheca angustifolia ssp. angustifolia │
+Narrow‑leaf Wax‑flower │ Philotheca angustifolia ssp. angustifolia │
 │ Zieria veronicea ssp. insularis │
 │ Zieria veronicea ssp. veronicea │
 │ │
 │ SANTALACEAE │
-yellow‑flower sour‑bush │ Choretrum glomeratum var. chrysanthum │
-spiked sour‑bush │ Choretrum spicatum │
-pale‑fruit cherry │ Exocarpos strictus │
+Yellow Sour‑bush │ Choretrum chrysanthum │
+Spiked Sour‑bush │ Choretrum spicatum ssp. spicatum │
+Pale‑fruit Cherry │ Exocarpos strictus │
 │ │
 │ SCROPHULARIACEAE │
-showy speedwell │ Derwentia decorosa │
-Kangaroo Island speedwell │ Derwentia derwentiana ssp. anisodonta │
-stalked brooklime │ Gratiola pedunculata │
-glandular brooklime │ Gratiola pubescens │
-dwarf brooklime │ Gratiola pumilo │
-small monkey‑flower │ Mimulus prostratus │
-Haegi's stemodia │ Stemodia sp. Haegii (J.Z.Weber 9055) │
+Kangaroo Island Speedwell │ Derwentia derwentiana ssp. anisodonta │
+Small Monkey‑flower │ Elacholoma prostrata │
+Stalked Brooklime │ Gratiola pedunculata │
+Glandular Brooklime │ Gratiola pubescens │
+Dwarf Brooklime │ Gratiola pumilo │
+Haegi's Stemodia │ Stemodia sp. Haegii (J.Z.Weber 9055) │
+Showy Speedwell │ Veronica decorosa │
 │ │
 │ SOLANACEAE │
-narrow‑leaf ray‑flower │ Anthocercis angustifolia │
-Port Lincoln ray‑flower │ Anthocercis anisantha ssp. anisantha │
+Narrow‑leaf Ray‑flower │ Anthocercis angustifolia │
+Port Lincoln Ray‑flower │ Anthocercis anisantha ssp. anisantha │
 │ Nicotiana truncata │
-rare nightshade │ Solanum eremophilum │
+Rare Nightshade │ Solanum eremophilum │
 │ │
 │ STERCULIACEAE │
-western tar‑vine │ Gilesia biniflora │
+Western Tar‑vine │ Gilesia biniflora │
 │ │
 │ STYLIDIACEAE │
 │ Levenhookia stipitata │
-Beauglehole's trigger‑plant │ Stylidium beaugleholei │
+Beauglehole's Trigger‑plant │ Stylidium beaugleholei │
 │ Stylidium ecorne │
-Kangaroo Island trigger‑plant │ Stylidium tepperianum │
+Kangaroo Island Trigger‑plant │ Stylidium tepperianum │
 │ │
 │ THELYPTERIDACEAE │
-soft shield‑fern │ Christella dentata │
+Soft Shield‑fern │ Christella dentata │
 │ │
 │ THYMELAEACEAE │
-│ Pimelea curviflora var. subglabrata │
-sandhill riceflower │ Pimelea penicillaris │
-Williamson's riceflower │ Pimelea williamsonii │
+Sandhill Riceflower │ Pimelea penicillaris │
+Williamson's Riceflower │ Pimelea williamsonii │
 │ │
 │ UMBELLIFERAE │
-prostrate blue devil │ Eryngium vesiculosum │
-fringe‑fruit pennywort │ Hydrocotyle comocarpa │
-spreading pennywort │ Hydrocotyle crassiuscula │
+Prostrate Blue Devil │ Eryngium vesiculosum │
+Fringe‑fruit Pennywort │ Hydrocotyle comocarpa │
+Spreading Pennywort │ Hydrocotyle crassiuscula │
 │ Neosciadium glochidiatum │
-Kangaroo Island platysace │ Platysace heterophylla var. tepperi │
-native parsnip │ Trachymene anisocarpa │
-southern xanthosia │ Xanthosia tasmanica │
+Kangaroo Island Platysace │ Platysace heterophylla var. tepperi │
+Native Parsnip │ Trachymene thysanocarpa │
+Southern Xanthosia │ Xanthosia tasmanica │
 │ │
 │ XYRIDACEAE │
-tall yellow‑eye │ Xyris operculata │
+Tall Yellow‑eye │ Xyris operculata │
 │ │
 │ ZANNICHELLIACEAE │
 │ Zannichellia palustris │
 │ │
 │ ZOSTERACEAE │
-garweed │ Zostera muelleri ssp. mucronata │
+Garweed │ Zostera muelleri ssp. mucronata │
 │ │
 │ ZYGOPHYLLACEAE │
-thick twinleaf │ Zygophyllum crassissimum │
-small‑fruit twinleaf │ Zygophyllum humillimum │
-│ Zygophyllum hybridum │
+Thick Twinleaf │ Roepera crassissima │
+Small‑fruit Twinleaf │ Roepera humillima │
+│ Roepera hybrida │
 │ │
