@@ -34,6 +34,7 @@ accreditation certificate means—
 (a) for a heavy vehicle accreditation granted under this Law—the accreditation certificate given for the accreditation under section 464; or
 (b) for a heavy vehicle accreditation granted under another law of a participating jurisdiction—the certificate of accreditation (however called) issued for the accreditation under that law;
 ADR means a national standard under section 7 of the Motor Vehicle Standards Act 1989 of the Commonwealth;
+advice purposes means providing advice, information and education to persons with duties or obligations under this Law about compliance with the duties or obligations;
 AFM accreditation means—
 (a) AFM accreditation granted under section 458; or
 (b) accreditation of a similar kind under another law of a participating jurisdiction;
@@ -410,7 +411,7 @@ maintenance management accreditation means—
 (b) accreditation of a similar kind under another law of a participating jurisdiction;
 maintenance management standards and business rules, for the purposes of Chapter 8, has the meaning given by section 457;
 maintenance management system, for the purposes of Chapter 8, has the meaning given by section 457;
-major defect notice has the meaning given by section 526(2)(a);
+major defect notice means a notice complying with the requirements for a major defect notice under section 527;
 major rest break, for the purposes of Chapter 6, has the meaning given by section 221;
 malfunction—
 (a) for the purposes of Chapter 6, has the meaning given by section 221; and
@@ -445,7 +446,7 @@ maximum work requirement means a requirement of Chapter 6 relating to a maximum 
 maximum work time means the maximum time the driver of a fatigue‑regulated heavy vehicle may drive a fatigue‑regulated heavy vehicle, or otherwise work, without taking a rest;
 minimum rest requirement means a requirement of Chapter 6 relating to the minimum rest time for the driver of a fatigue‑regulated heavy vehicle;
 minimum rest time means the minimum time the driver of a fatigue‑regulated heavy vehicle must rest in order to break up the period of time the driver drives a fatigue‑regulated heavy vehicle or otherwise works;
-minor defect notice has the meaning given by section 526(2)(b);
+minor defect notice means a notice complying with the requirements for a minor defect notice under section 527;
 minor risk breach—
 (a) for a mass requirement—has the meaning given by section 98; or
 (b) for a dimension requirement—has the meaning given by section 105; or
@@ -743,6 +744,7 @@ schedule, for the driver of a heavy vehicle, means—
 scheduler, for a heavy vehicle, means a person who—
 (a) schedules the transport of any goods or passengers by the vehicle; or
 (b) schedules the work times and rest times of the vehicle's driver;
+self‑clearing defect notice means a notice complying with the requirements for a self‑clearing defect notice under section 527;
 self‑employed driver, of a heavy vehicle, means a driver of the vehicle who is not an employed driver of the vehicle;
 semitrailer means a trailer that has—
 (a) 1 axle group or a single axle towards the rear; and
@@ -875,7 +877,7 @@ unregistered heavy vehicle means a heavy vehicle that is not registered;
 unregistered heavy vehicle permit means a permit granted or issued under an Australian road law authorising the use of an unregistered heavy vehicle on a road;
 use, a heavy vehicle on a road, includes standing the vehicle on the road;
 vehicle condition has the meaning given by section 154;
-vehicle defect notice means a major defect notice or a minor defect notice;
+vehicle defect notice means a major defect notice, minor defect notice or self‑clearing defect notice;
 vehicle identifier, for the purposes of Chapter 9 Part 3 Division 6, has the meaning given by section 525;
 vehicle standards exemption means—
 (a) a vehicle standards exemption (notice); or
@@ -1296,7 +1298,9 @@ A vehicle standards exemption (permit) may be subject to any conditions the Regu
 73—Permit for vehicle standards exemption (permit) etc
 (1) If the Regulator grants a vehicle standards exemption (permit) to a person, the Regulator must give the person—
 (a) a permit for the exemption; and
-(b) if the Regulator has imposed conditions on the exemption under section 71 or has granted the exemption for a period less than the period of not more than 3 years sought by the person—an information notice for the decision to impose the conditions or grant the exemption for the shorter period.
+(b) if the Regulator's decision to grant the exemption for a period or impose a condition on the exemption is a reviewable decision—a notice stating the review and appeal information for the decision.
+Note—
+Under section 641(6)(a), this notice must also state particular information about obtaining a statement of reasons for the decision.
 (2) A permit for a vehicle standards exemption (permit) must state the following:
 (a) the name of the person to whom the permit is given;
 (b) each heavy vehicle to which the exemption applies, including the registration number of the vehicle if known when the permit is given;
@@ -1421,7 +1425,7 @@ modification, of a heavy vehicle, means—
 (a) the addition of a component to, or the removal of a component from, the vehicle; or
 (b) a change to the vehicle from the manufacturer's specification for the vehicle,
 but does not include a modification to the vehicle that has been approved under the Motor Vehicle Standards Act 1989 of the Commonwealth.
-85—Modifying of heavy vehicle requires approval
+85—Modifying heavy vehicle requires approval
 (1) A person must not modify a heavy vehicle unless the modification has been approved by—
 (a) an approved vehicle examiner under section 86; or
 (b) the Regulator under section 87.
@@ -1431,6 +1435,14 @@ Maximum penalty: $3 000.
 (b) the Regulator under section 87.
 Maximum penalty: $3 000.
 (3) This section does not apply to a modification that complies with a code of practice prescribed by the national regulations for the purposes of this section, section 86 or 87 that expressly states that a modification of that type does not require approval.
+(4) A modification is taken to have been approved by an approved vehicle examiner under section 86 if—
+(a) the modification has been authorised under an Australian road law of a non‑participating jurisdiction; and
+(b) a modification plate or label is fitted or affixed to a conspicuous part of the vehicle; and
+(c) the modification plate or label indicates that the modification complies with a code of practice prescribed by the national regulations for the purposes of section 86.
+(5) In this section—
+authorised includes approved and permitted;
+modification plate or label means a plate or label that is stamped, engraved or marked so as to display information that relates to a modification;
+non‑participating jurisdiction has the meaning given by section 221.
 86—Approval of modifications by approved vehicle examiners
 (1) An approved vehicle examiner may, if authorised to do so under the national regulations, approve a modification of a heavy vehicle if, and only if, the modification complies with a code of practice prescribed by the national regulations for the purposes of this section.
 (2) If an approved vehicle examiner approves a modification of a heavy vehicle, the examiner must—
@@ -1894,9 +1906,11 @@ See Division 4 of Chapter 4 Part 7 in relation to amendment, suspension or cance
 127—Permit for mass or dimension exemption (permit) etc
 (1) If the Regulator grants a mass or dimension exemption (permit) to a person, the Regulator must give the person—
 (a) a permit for the exemption; and
-(b) if the Regulator has imposed conditions on the exemption under section 125(1)(a), (c) or (d) or has granted the exemption for a period less than the period of not more than 3 years sought by the person—an information notice for the decision to impose the conditions or grant the exemption for the shorter period.
+(b) a notice stating the review and appeal information for any of the following decisions that is a reviewable decision—
+(i) the Regulator's decision to grant the exemption for a period or impose a condition on the exemption;
+(ii) a relevant road manager's decision to consent to the grant of the exemption subject to a condition that a road condition or travel condition be imposed on the exemption.
 Note—
-See sections 164 and 165 for the requirements for an information notice relating to the imposition of a road condition or travel condition at the request of a relevant road manager.
+Under section 641(6)(a), this notice must also state particular information about obtaining a statement of reasons for the decision.
 (2) A permit for a mass or dimension exemption (permit) must state the following:
 (a) the name of the person to whom the permit is given;
 (b) a description of each heavy vehicle to which the exemption applies, including the registration number of the vehicle if it is registered;
@@ -2118,9 +2132,11 @@ A class 2 heavy vehicle authorisation (permit)—
 148—Permit for class 2 heavy vehicle authorisation (permit) etc
 (1) If the Regulator grants a class 2 heavy vehicle authorisation (permit) to a person, the Regulator must give the person—
 (a) a permit for the authorisation; and
-(b) if the Regulator has imposed conditions on the authorisation under section 146 or has granted the authorisation for a period less than the period of not more than 3 years sought by the person—an information notice for the decision to impose the conditions or grant the authorisation for the shorter period.
+(b) a notice stating the review and appeal information for any of the following decisions that is a reviewable decision—
+(i) the Regulator's decision to grant the authorisation for a period or impose a condition on the authorisation;
+(ii) a relevant road manager's decision to consent to the grant of the authorisation subject to a condition that a road condition or travel condition be imposed on the authorisation.
 Note—
-See sections 164 and 165 for the requirements for an information notice relating to the imposition of a road condition or travel condition at the request of a relevant road manager.
+Under section 641(6)(a), this notice must also state particular information about obtaining a statement of reasons for the decision.
 (2) A permit for a class 2 heavy vehicle authorisation (permit) must state the following:
 (a) the name and address of the person to whom the permit is given;
 (b) if the authorisation applies to particular categories of class 2 heavy vehicles, the categories of heavy vehicles to which the authorisation applies;
@@ -2175,12 +2191,25 @@ restricted access vehicle means a heavy vehicle that (together with its load) is
 (c) longer than—
 (i) if a single vehicle other than an articulated bus—12.5m; or
 (ii) if an articulated bus—18m; or
-(iii) if a combination—19m.
+(iii) if a combination—19m;
+specified semitrailer means a semitrailer that—
+(a) is not a PBS vehicle; and
+(b) has an air suspension system with effective dampers fitted; and
+(c) has a deck height not higher than 1.2m for at least 50% of its deck length; and
+(d) if in a combination—the combination—
+(i) consists only of—
+(A) a prime mover towing a single semitrailer attached to the prime mover by a fifth wheel coupling; or
+(B) a B‑double; or
+(C) a B‑triple; and
+(ii) has a mass not more than 90% of the prescribed mass requirements for the combination.
+Note—
+Although this section does not apply to certain combinations, a combination that is a class 2 heavy vehicle will still need to have a class 2 heavy vehicle authorisation (see section 137).
 (3) This section does not apply to—
 (a) a class 2 heavy vehicle; or
-(b) a specified PBS vehicle as defined in section 136(2).
+(b) a specified PBS vehicle as defined in section 136(2); or
 Note—
 All other PBS vehicles are class 2 heavy vehicles (see section 136).
+(c) a specified semitrailer.
 Part 7—Particular provisions about mass or dimension authorities
 Division 1—Preliminary
 154—Definitions for Chapter 4 Part 7
@@ -2311,22 +2340,6 @@ the road manager may—
 (b) to the extent this Law applies in relation to the consent of, or the road conditions or travel conditions required by, the relevant road manager, this Law (other than this section) applies as if a reference in it to the relevant road manager were a reference to the relevant road authority.
 (5) In this section—
 relevant road authority, for a decision of a relevant road manager for a mass or dimension authority, means the road authority for the participating jurisdiction in which the road for which the relevant road manager is a road manager is situated.
-164—Information notice for imposition of road conditions requested by road manager
-(1) This section applies if—
-(a) the Regulator grants a mass or dimension authority by giving a person a permit; and
-(b) the authority is subject to a road condition required by a relevant road manager for the authority when consenting to the grant of the authority.
-(2) The information notice for the decision to impose the condition given to the person under this Law must state the following, in addition to any other information required to be included in the information notice:
-(a) that the road manager consented to the mass or dimension authority on the condition that the road condition is imposed on the authority;
-(b) a written statement that explains the road manager's decision to give the consent on the condition that the road condition be imposed on the authority and complies with section 172;
-(c) the review and appeal information for the road manager's decision to give the consent on the condition that the road condition be imposed on the authority.
-165—Information notice for imposition of travel conditions requested by road manager
-(1) This section applies if—
-(a) the Regulator grants a mass or dimension authority by giving a person a permit; and
-(b) the authority is subject to a travel condition required by a relevant road manager for the authority when consenting to the grant of the authority.
-(2) The information notice for the decision to impose the condition given to the person under this Law must state the following, in addition to any other information required to be included in the information notice—
-(a) that the road manager consented to the mass or dimension authority on the condition that the travel condition is imposed on the authority;
-(b) a written statement that explains the road manager's decision to give the consent on the condition that the travel condition be imposed on the authority and complies with section 172;
-(c) the review and appeal information for the road manager's decision to give the consent on the condition that the travel condition be imposed on the authority.
 166—Information notice for decision to refuse application because road manager did not give consent
 (1) This section applies if an application for a mass or dimension authority is refused, wholly or partly, because a relevant road manager for the authority has refused to consent to the authority.
 (2) The information notice for the decision to refuse the application given to the applicant under this Law must state the following, in addition to any other information required to be included in the information notice:
@@ -2372,12 +2385,7 @@ relevant road authority, for a decision of a relevant road manager for a mass or
 (b) to consent to the grant of a mass or dimension authority on the condition that—
 (i) a road condition is imposed on the authority (as referred to in section 160); or
 (ii) a travel condition is imposed on the authority (as referred to in section 161).
-(2) The written statement complies with this section if it—
-(a) sets out the findings on material questions of fact, referring to the evidence or other material on which those findings were based and giving the reasons for the road manager's decision; and
-(b) identifies every document or part of a document that is relevant to the road manager's decision and is—
-(i) in the road manager's possession; or
-(ii) under the road manager's control; or
-(iii) otherwise available to the road manager.
+(2) The written statement complies with this section if it sets out the findings on material questions of fact, referring to the evidence or other material on which those findings were based and giving the reasons for the road manager's decision.
 Division 3—Amendment, cancellation or suspension of mass or dimension authority granted by Commonwealth Gazette notice
 173—Amendment or cancellation on Regulator's initiative
 (1) It is a ground for amending or cancelling a mass or dimension authority granted by Commonwealth Gazette notice if the use of heavy vehicles on a road under the authority has caused, or is likely to cause, a significant risk to public safety.
@@ -5284,10 +5292,11 @@ Chapter 9—Enforcement
 Part 1—General matters about authorised officers
 Division 1—Functions
 479—Functions of authorised officers
-An authorised officer has the following functions under this Law:
+(1) An authorised officer has the following functions under this Law:
 (a) to monitor, investigate and enforce compliance with this Law;
 (b) to monitor or investigate whether an occasion has arisen for the exercise of powers under this Law;
 (c) to facilitate the exercise of powers under this Law.
+(2) Also, an authorised officer who is not a police officer has the function under this Law to provide advice, information and education to persons with duties or obligations under this Law about compliance with the duties or obligations.
 Division 2—Appointment
 480—Application of Division 2
 This Division does not apply to an authorised officer who is a police officer.
@@ -5388,6 +5397,18 @@ relevant place means—
 (d) a place where records required to be kept under this Law or a heavy vehicle accreditation are located or are required to be located under this Law or a heavy vehicle accreditation;
 residence, that is a relevant place, means a place or part of a place mentioned in the definition of relevant place used predominantly for residential purposes.
 (2) For the purposes of this Part, a place or part of a place is taken not to be used for residential purposes merely because temporary or casual sleeping or other accommodation is provided there for drivers of heavy vehicles.
+Division 1A—Entry of relevant places for advice purposes
+494A—Non‑application to police officers
+This Division does not apply to an authorised officer who is a police officer.
+494B—Power to enter relevant place
+An authorised officer may, for advice purposes, enter a relevant place if—
+(a) an occupier of the place consents under Division 4 to the entry and section 503 has been complied with for the occupier; or
+(b) the place is not a residence and is—
+(i) open for carrying on a business; or
+(ii) otherwise open for entry; or
+(iii) required to be open for inspection under this Law.
+494C—Power after entering relevant place
+If an authorised officer enters a relevant place under this Division, the officer may, for advice purposes, provide advice, information and education.
 Division 2—Entry of relevant places for monitoring purposes
 495—Power to enter relevant place
 (1) An authorised officer may, for monitoring purposes, enter a relevant place if—
@@ -5422,6 +5443,7 @@ See also sections 543 and 544 for use of particular equipment at a place, or in 
 (4) If the authorised officer takes from the place a thing containing an electronic relevant document to produce an image or writing from the document, the image or writing must be produced, and the thing must be returned to the place, as soon as practicable.
 (5) However, if the authorised officer entered the place under section 495(1)(a), the officer's powers under this section are subject to the conditions of the consent.
 (6) This section does not authorise an authorised officer to use force for exercising a power under this section.
+(6A) If the authorised officer is not a police officer, the officer may, for advice purposes, provide advice, information and education.
 (7) In this section—
 electronic relevant document means a relevant document that is an electronic document;
 relevant device means a device relating to a heavy vehicle and required to be installed, used or maintained under this Law or a heavy vehicle accreditation;
@@ -5535,9 +5557,10 @@ See also sections 543 and 544 for use of particular equipment at a place, or in 
 (b) if the authorised officer entered the place under section 497(1)(c), the officer's powers under this section are subject to the terms of the warrant.
 (9) Without limiting section 497(2), the authorised officer may exercise powers under this section at the place even if entry to the place was originally effected under Division 2 for monitoring purposes.
 (10) The power to search under this section does not include a power to search a person.
+(11) If the authorised officer is not a police officer, the officer may, for advice purposes, provide advice, information and education.
 Division 4—Procedure for entry by consent
 501—Application of Division 4
-This Division applies if an authorised officer intends to ask an occupier of a place for consent to the officer or another authorised officer entering the place under section 495(1)(a) or 497(1)(a).
+This Division applies if an authorised officer intends to ask an occupier of a place for consent to the officer or another authorised officer entering the place under section 494B(a), 495(1)(a) or 497(1)(a).
 502—Incidental entry to ask for access
 (1) For the purpose of asking the occupier for the consent, the authorised officer may, without the occupier's consent or a warrant—
 (a) enter land around a building or other structure at the place to an extent that is reasonable to contact the occupier; or
@@ -5887,7 +5910,7 @@ defective heavy vehicle means a heavy vehicle that—
 (i) does not perform its intended function; or
 (ii) has deteriorated to an extent that it cannot be reasonably relied on to perform its intended function;
 defective vehicle label means a label—
-(a) for attaching to a heavy vehicle to which a vehicle defect notice applies; and
+(a) for attaching to a heavy vehicle to which a major defect notice or minor defect notice applies; and
 (b) stating—
 (i) the vehicle's registration number or, if the vehicle is not registered, a vehicle identifier of the vehicle; and
 (ii) that the vehicle must not be used on a road except as specified in the notice; and
@@ -5906,21 +5929,31 @@ Example—
 an unregistered vehicle permit number
 526—Issue of vehicle defect notice
 (1) This section applies if an authorised officer who has inspected a heavy vehicle under this Law reasonably believes—
-(a) the vehicle is a defective heavy vehicle; and
-(b) the use of the vehicle on a road poses a safety risk.
-(2) The authorised officer may issue the following notice in relation to the heavy vehicle, in the way mentioned in subsection (3):
-(a) if the officer reasonably believes the safety risk is an imminent and serious safety risk—a notice (a major defect notice) stating the vehicle must not be used on a road after the notice is issued other than to move it to one or more stated locations in one or more stated ways; or
-(b) if the officer reasonably believes the safety risk is not an imminent and serious safety risk—a notice (a minor defect notice) stating the vehicle must not be used on a road after a stated time unless stated action required to stop the vehicle from being a defective heavy vehicle is taken.
+(a) the vehicle is a defective heavy vehicle; or
+(b) a number plate of the vehicle is wholly or partly obscured, defaced or otherwise not legible.
+(2) The authorised officer may issue the following vehicle defect notice in relation to the heavy vehicle, in the way mentioned in subsection (3)—
+(a) if the officer reasonably believes the vehicle is a defective heavy vehicle and use of the vehicle on a road poses an imminent and serious safety risk—a major defect notice;
+(b) if the officer reasonably believes the vehicle is a defective heavy vehicle and use of the vehicle on a road poses a safety risk other than an imminent and serious safety risk—a minor defect notice;
+(c) if the officer reasonably believes that use of the vehicle on a road does not pose a safety risk or subsection (1)(b) applies—a self‑clearing defect notice.
 (3) The authorised officer may issue the vehicle defect notice by—
 (a) if the driver of the heavy vehicle is present—giving the notice to the driver; or
 (b) if the driver of the heavy vehicle is not present—attaching the notice to the vehicle.
-(4) If the driver of a heavy vehicle for which a vehicle defect notice is issued under this section is not the operator of the vehicle, the driver must, as soon as practicable, give the notice to the operator.
+(4) If the driver of a heavy vehicle for which a vehicle defect notice is issued under this section is not the operator of the vehicle, the driver must give the notice to the operator as soon as practicable, but not more than 14 days, after the notice is issued.
 Maximum penalty: $3 000.
 527—Requirements about vehicle defect notice
 (1) A vehicle defect notice for a heavy vehicle must be in the approved form and state the following:
-(a) that the vehicle is a defective heavy vehicle and details of how the vehicle is a defective heavy vehicle;
-(b) for a notice given in circumstances mentioned in section 526(2)(a)—that the vehicle must not be used on a road after the notice is issued other than to move it to one or more locations stated in the notice in one or more ways stated in the notice;
-(c) for a notice given in circumstances mentioned in section 526(2)(b)—that the vehicle must not be used on a road after a time stated in the notice unless action required to stop the vehicle from being a defective heavy vehicle stated in the notice is taken;
+(a) that the notice is a major defect notice, minor defect notice or self‑clearing defect notice;
+(aa) that—
+(i) the vehicle is a defective heavy vehicle; or
+(ii) a number plate of the vehicle is wholly or partly obscured, defaced or otherwise not legible;
+(ab) if the vehicle is a defective heavy vehicle—details of how the vehicle is a defective heavy vehicle;
+(b) for a major defect notice—that the vehicle must not be used on a road after the notice is issued other than to move it to one or more locations stated in the notice in one or more ways stated in the notice;
+(c) for a minor defect notice—
+(i) that corrective action must be taken by a stated time (the due time); and
+(ii) that, after the due time, the vehicle must not be used on a road unless corrective action has been taken;
+(ca) for a self‑clearing defect notice—
+(i) that corrective action must be taken by a stated day (the due day) not more than 28 days after the notice is issued; and
+(ii) that, after the due day, the vehicle must not be used on a road unless corrective action has been taken;
 (d) the name of the vehicle's driver if known by the authorised officer issuing the notice when the notice is issued or, if the driver is not present or the driver's name is not known by the authorised officer issuing the notice when the notice is issued, the term 'registered operator';
 (e) details to identify the vehicle, including, for example—
 (i) the vehicle's registration number, or if the vehicle is not registered, a vehicle identifier of the vehicle; or
@@ -5928,10 +5961,16 @@ Maximum penalty: $3 000.
 (f) the nature of the inspection that led to the notice being issued;
 (g) whether an infringement notice was also given when the notice was issued;
 (h) the identification details for the authorised officer who issued the notice;
-(i) that, if the notice is not cleared by the Regulator under section 530, the vehicle's registration may be suspended and subsequently cancelled by a registration authority under an Australian road law;
-(j) any conditions imposed under subsection (2).
-(2) The authorised officer issuing a vehicle defect notice may impose any conditions on the use of the defective heavy vehicle the officer considers appropriate for use of the vehicle on a road.
+(i) the day and time the notice was issued;
+(j) for a major defect notice or minor defect notice—
+(i) that, if the notice is not cleared by the Regulator under section 530, the vehicle's registration may be suspended and subsequently cancelled by a registration authority under an Australian road law; and
+(ii) any conditions imposed under subsection (2).
+(2) The authorised officer issuing a major defect notice or minor defect notice may impose any conditions on the use of the defective heavy vehicle the officer considers appropriate for use of the vehicle on a road.
 (3) Any conditions imposed under subsection (2) are taken to form part of the vehicle defect notice concerned.
+(4) In this section—
+corrective action, for a vehicle, means action that stops—
+(a) the vehicle from being a defective heavy vehicle; or
+(b) a number plate of the vehicle being wholly or partly obscured, defaced or otherwise not legible.
 528—Defective vehicle labels
 (1) If an authorised officer issues a major defect notice for a heavy vehicle, the authorised officer must attach a defective vehicle label to the vehicle.
 (2) If an authorised officer issues a minor defect notice for a heavy vehicle, the authorised officer may attach a defective vehicle label to the vehicle.
@@ -5943,26 +5982,35 @@ Maximum penalty: $3 000.
 (a) in a defective vehicle label under section 525 (see paragraph (b)(i) of the definition of defective vehicle label); or
 (b) in a vehicle defect notice under section 527(1)(e).
 (2) The information need only be included if it is reasonably practicable and safe for the authorised officer to obtain the information.
-529—Using defective heavy vehicles contrary to vehicle defect notice
+529—Using heavy vehicles contrary to vehicle defect notice
 A person must not use, or permit to be used, on a road a heavy vehicle in contravention of a vehicle defect notice.
-Maximum penalty: $6 000.
-529A—Permission by authorised officer to use vehicle the subject of a vehicle defect notice
-(1) An authorised officer may, on request made by the operator of a heavy vehicle that is the subject of a vehicle defect notice, give written permission for the vehicle to be used on a road during a period stated in the permission.
-(2) The authorised officer may only give the permission if the officer—
-(a) is satisfied—
-(i) that the vehicle will be used only for the purpose of driving the vehicle to and from a place where repairs are to be carried out; or
-(ii) that the relevant repairs have been carried out and the vehicle will be taken within the stated period to be inspected for the purpose of enabling the vehicle defect notice to be cleared under section 530; and
-(b) is satisfied that the request is necessary and reasonable; and
-(c) is satisfied that the use of the vehicle will not pose a safety risk.
-(3) For the purposes of subsection (2)(c), an authorised officer may require evidence of adequate repairs or other measures.
+Maximum penalty:
+(a) for a major defect notice or minor defect notice—$6 000; or
+(b) for a self‑clearing defect notice—$3 000.
+529AA—Permission to use vehicle the subject of a self‑clearing defect notice
+(1) An authorised officer may, on request made by the operator of a heavy vehicle that is the subject of a self‑clearing defect notice, give written permission for the vehicle to be used on a road during a period stated in the permission.
+(2) The permission is subject to the condition that the vehicle will be used only for the purpose of driving the vehicle to and from a place where repairs are to be carried out.
+(3) The use of the vehicle under the permission, in accordance with the condition, is not a contravention of the self‑clearing defect notice.
+529A—Permission to use vehicle the subject of a major or minor defect notice
+(1) An authorised officer may, on request made by the operator of a heavy vehicle that is the subject of a major defect notice or minor defect notice, give written permission for the vehicle to be used on a road during a period stated in the permission.
+(2) The authorised officer may give the permission only if—
+(a) the officer is satisfied—
+(i) the vehicle will be used only for the purpose of driving the vehicle to and from a place where repairs are to be carried out; and
+(ii) the use of the vehicle will not pose an imminent and serious safety risk; and
+(iii) the request is necessary and reasonable; or
+(b) the officer is satisfied—
+(i) the relevant repairs have been carried out and the vehicle will be taken within the stated period to be inspected for the purpose of enabling the vehicle defect notice to be cleared under section 530; and
+(ii) the use of the vehicle will not pose a safety risk; and
+(iii) the request is necessary and reasonable.
+(3) For the purpose of subsection (2)(a)(ii) or (b)(ii), an authorised officer may require evidence of adequate repairs or other measures.
 (4) The permission is subject to conditions that—
-(a) the use of the vehicle will be as mentioned in subsection (2)(a) and (c); and
+(a) the use of the vehicle will be as mentioned in subsection (2)(a)(i) or (b)(i); and
 (b) in relation to the use of the vehicle mentioned in subsection (2)(a)(i)—the vehicle will not be used to carry goods or passengers.
 (5) The authorised officer may also impose other reasonable conditions on the permission.
 (6) The use of the vehicle under the permission is not a contravention of the vehicle defect notice.
 (7) The use of a vehicle in contravention of a condition under subsection (4) or (5) is a contravention of the vehicle defect notice.
-529B—Permitted use of vehicle the subject of a vehicle defect notice without permission of authorised officer
-(1) A heavy vehicle that is the subject of a vehicle defect notice may be used on a road if—
+529B—Permitted use of vehicle the subject of a major or minor defect notice without permission of authorised officer
+(1) A heavy vehicle that is the subject of a major defect notice or minor defect notice may be used on a road if—
 (a) the relevant repairs have been carried out; and
 (b) the vehicle is being taken to a place to be inspected for the purpose of enabling the vehicle defect notice to be cleared under section 530; and
 (c) the vehicle is not carrying goods or passengers; and
@@ -5970,11 +6018,11 @@ Maximum penalty: $6 000.
 (2) An authorised officer may require a driver of the heavy vehicle to produce evidence of the relevant repairs to the authorised officer within a reasonable time, and in a reasonable way, stated by the officer.
 (3) Subsection (1) stops applying to the vehicle if the driver fails to comply with the requirement.
 (4) The use of the heavy vehicle under subsection (1) is not a contravention of the vehicle defect notice.
-530—Clearance of vehicle defect notices
-(1) A vehicle defect notice may be cleared by the Regulator if—
+530—Clearance of major or minor defect notices
+(1) A major defect notice or minor defect notice may be cleared by the Regulator if—
 (a) the Regulator decides the vehicle is no longer a defective heavy vehicle; or
 (b) the Regulator receives a notice, in the approved form, from an authorised officer stating that the heavy vehicle is no longer a defective heavy vehicle.
-(2) If the Regulator clears a vehicle defect notice applying to a heavy vehicle, the Regulator must arrange for any defective vehicle label for the vehicle to be removed from the vehicle.
+(2) If the Regulator clears a major defect notice or minor defect notice applying to a heavy vehicle, the Regulator must arrange for any defective vehicle label for the vehicle to be removed from the vehicle.
 531—Amendment or withdrawal of vehicle defect notices
 (1) A vehicle defect notice issued in this jurisdiction by an authorised officer who is a police officer may be amended or withdrawn by any authorised officer who—
 (a) is a police officer of this jurisdiction; or
@@ -5991,39 +6039,6 @@ Maximum penalty: $6 000.
 (4) If the person given the notice of amendment or withdrawal is not the operator of the vehicle, the person must, as soon as reasonably practicable, give the notice to the operator.
 Maximum penalty: $3 000.
 (5) If an authorised officer withdraws a vehicle defect notice applying to a heavy vehicle, the Regulator must arrange for the defective vehicle label for the vehicle to be removed from the vehicle.
-531A—Self‑clearing defect notices
-(1) This section applies if an authorised officer who has inspected a heavy vehicle under this Law reasonably believes—
-(a) the vehicle is a defective heavy vehicle, but the use of the vehicle on a road does not pose a safety risk; or
-(b) a number plate of the vehicle is wholly or partly obscured, defaced or otherwise not legible.
-(2) The authorised officer may issue a notice (a self‑clearing defect notice), in the approved form, in relation to the heavy vehicle.
-(3) The authorised officer may issue the self‑clearing defect notice by—
-(a) if the driver of the heavy vehicle is present—giving the notice to the driver; or
-(b) if the driver of the heavy vehicle is not present—attaching the notice to the vehicle.
-(4) If the driver of a heavy vehicle for which a self‑clearing defect notice is issued is not the operator of the vehicle, the driver must give the notice to the operator as soon as practicable, but not more than 14 days, after the notice is issued.
-Maximum penalty: $3 000.
-(5) A person must not use, or permit to be used, on a road a heavy vehicle in contravention of a self‑clearing defect notice.
-Maximum penalty: $3 000.
-531B—Requirements about self‑clearing vehicle defect notice
-(1) A self‑clearing defect notice for a heavy vehicle must state—
-(a) that—
-(i) the vehicle is a defective heavy vehicle and details of how the vehicle is a defective heavy vehicle; or
-(ii) a number plate of the vehicle is wholly or partly obscured, defaced or otherwise not legible; and
-(b) that corrective action must be taken as soon as practicable, but not more than 28 days, after the notice is issued; and
-(c) the name of the vehicle's driver if known by the authorised officer when issuing the notice or, if the driver is not present or the driver's name is not known by the authorised officer when issuing the notice, the term "registered operator"; and
-(d) details to identify the vehicle, including, for example—
-(i) the vehicle's registration number or, if the vehicle is not registered, a vehicle identifier of the vehicle; and
-(ii) the vehicle's make and category; and
-(e) the nature of the inspection that led to the notice being issued; and
-(f) whether an infringement notice was also given when the notice was issued; and
-(g) the identification details for the authorised officer; and
-(h) the day and time the notice was issued; and
-(i) the number of the notice; and
-(j) that if the driver of the vehicle is not the operator of the vehicle, the driver must give the notice to the operator as soon as practicable, but not more than 14 days, after the notice is issued; and
-(k) that a person must not use, or permit to be used, on a road the heavy vehicle in contravention of the notice.
-(2) In this section—
-corrective action means the action that is required to stop—
-(a) the vehicle from being a defective heavy vehicle; or
-(b) a number plate of the vehicle being wholly or partly obscured, defaced or otherwise not legible.
 Division 7—Further powers in relation to heavy vehicles concerning mass, dimension or loading requirements
 532—Application of Division 7
 This Division applies to a heavy vehicle regardless of whether the vehicle is, has been, or becomes the subject of a direction or requirement given or made by an authorised officer under another provision of this Chapter.
@@ -7239,16 +7254,22 @@ Part 2—Internal review
 (1) A dissatisfied person for a reviewable decision may apply to the Regulator for a review of the decision.
 (2) A review application may be made only within 28 days after—
 (a) the day the person is notified of the decision; or
-(b) if the person applies for a statement of reasons under subsection (6)—the day the statement is given to the person.
+(b) if a provision of this Law requires that the person be given a statement of reasons for the decision—the day the statement is given to the person.
 (3) However, the Regulator may, at any time, extend the time for making a review application.
 (4) A review application must—
 (a) be written; and
 (b) be accompanied by the prescribed fee for the application; and
 (c) state in detail the grounds on which the person wants the reviewable decision to be reviewed.
-(5) The person is entitled to receive a statement of reasons for the original decision whether or not the provision under which the decision is made requires that the person be given a statement of reasons for the decision.
-(6) If the person was not given an information notice for the original decision, the person may ask the Regulator for a statement of reasons for the decision and the Regulator must provide the statement within 28 days after the request is made.
+(5) The person is entitled to receive a statement of reasons for the reviewable decision whether or not the provision under which the decision is made requires that the person be given a statement of reasons for the decision.
+(6) If the person is given a decision notice, but not an information notice, for the reviewable decision—
+(a) the decision notice must state that, within 28 days after the notice is given to the person, the person may ask the Regulator for a statement of reasons for the decision; and
+(b) the person may, within 28 days after a decision notice complying with paragraph (a) is given to the person, ask the Regulator for a statement of reasons for the decision.
+(6A) Within 28 days after the request is made under subsection (6)(b), the Regulator must give the person a statement of reasons.
 (7) The making of a review application does not affect the reviewable decision, or the carrying out of the reviewable decision, unless it is stayed under section 642.
 (8) In this section—
+decision notice, for a decision, means a notice stating—
+(a) the decision; or
+(b) the review and appeal information for the decision;
 dissatisfied person means—
 (a) for a reviewable decision of the Regulator made in relation to an application for an exemption, authorisation, approval or heavy vehicle accreditation under this Law—the applicant; or
 (b) for a reviewable decision of the Regulator not to make a decision sought in an application for an amendment of an exemption, authorisation, approval or heavy vehicle accreditation under this Law—the applicant; or
@@ -7479,6 +7500,7 @@ Division 1—Establishment, functions and powers
 (ii) for managing risks to public safety arising from the use of heavy vehicles on roads; or
 (iii) for the productive and efficient road transport of goods or passengers by heavy vehicles;
 (k) to encourage and promote safe and productive business practices of persons involved in the road transport of goods or passengers by heavy vehicles that do not compromise the object of this Law;
+(ka) to provide advice, information and education to persons with duties or obligations under this Law about compliance with the duties or obligations;
 (l) to work collaboratively with other law enforcement agencies to ensure a nationally consistent approach for enforcing contraventions of laws involving heavy vehicles;
 (m) to work collaboratively with road managers, the National Transport Commission and industry bodies to ensure a wide understanding of the object of this Law or particular aspects of this Law, and encourage participation in achieving the object;
 (n) the other functions conferred on it under this Law.
@@ -7770,6 +7792,20 @@ protected person means an individual who is any of the following:
 (i) who constitutes a body corporate that exercises functions of the Regulator under this Law; and
 (ii) who is, or is of a class, prescribed by the national regulations;
 (h) any other person exercising functions of the Regulator under this Law.
+698A—No liability, right etc arising from particular functions of authorised officer or Regulator
+(1) This section applies in relation to anything done by the Regulator or a protected person in the exercise of—
+(a) a function of an authorised officer under section 479(2); or
+(b) a function of the Regulator under section 659(2)(ka).
+(2) The doing of the thing does not, of itself, give rise to—
+(a) a civil liability of the Regulator or protected person; or
+(b) a right, expectation, duty or obligation that would not otherwise be conferred or imposed on a person in relation to whom the thing was done; or
+(c) a defence that would not otherwise be available to a person in relation to whom the thing was done.
+(3) However, subsection (2)(a) applies only to a thing done by the Regulator or a protected person in good faith.
+Note—
+See also section 698 in relation to civil liability for a thing done in good faith.
+(4) A reference in this section to doing a thing includes a reference to omitting to do a thing.
+(5) In this section—
+protected person—see section 698(3).
 Chapter 13—General
 Part 1—General offences
 Division 1—Offence about discrimination or victimisation
@@ -9055,7 +9091,7 @@ Section of this Law │ Provision specified for sections 636(1), 637(4) and 638(
 60 │ 60(1) │
 79 │ 79(2) │
 81 │ 81(1), 81(2), 81(3) │
-85 │ 85(1), 85(2) │
+85 │ 85(2) │
 87A │ 87A(1) │
 89 │ 89(1) │
 93 │ 93(1), 93(2), 93(3) │
@@ -9126,7 +9162,6 @@ Section of this Law │ Provision specified for sections 636(1), 637(4) and 638(
 517 │ 517(4) │
 528 │ 528(3) │
 529 │ 529 │
-531A │ 531A(5) │
 533 │ 533(7) │
 534 │ 534(5) │
 535 │ 535(5) │
