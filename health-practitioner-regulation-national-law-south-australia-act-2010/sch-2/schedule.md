@@ -1533,18 +1533,19 @@ Division 1—Preliminary
 Division 2—Mandatory notifications
 140—Definition of notifiable conduct
 In this Division—
-notifiable conduct, in relation to a registered health practitioner, means the practitioner has—
-(a) practised the practitioner's profession while intoxicated by alcohol or drugs; or
-(b) engaged in sexual misconduct in connection with the practice of the practitioner's profession; or
-(c) placed the public at risk of substantial harm in the practitioner's practice of the profession because the practitioner has an impairment; or
-(d) placed the public at risk of harm because the practitioner has practised the profession in a way that constitutes a significant departure from accepted professional standards.
-141—Mandatory notifications by health practitioners
+notifiable conduct, in relation to a registered health practitioner, means—
+(a) practising the practitioner's profession while intoxicated by alcohol or drugs; or
+(b) engaging in sexual misconduct in connection with the practice of the practitioner's profession; or
+(c) placing the public at risk of substantial harm in the practitioner's practice of the profession because the practitioner has an impairment; or
+(d) placing the public at risk of harm by practising the profession in a way that constitutes a significant departure from accepted professional standards.
+141—Mandatory notifications by health practitioners other than treating practitioners
 (1) This section applies to a registered health practitioner (the first health practitioner) who, in the course of practising the first health practitioner's profession, forms a reasonable belief that—
 (a) another registered health practitioner (the second health practitioner) has behaved in a way that constitutes notifiable conduct; or
 (b) a student has an impairment that, in the course of the student undertaking clinical training, may place the public at substantial risk of harm.
 (2) The first health practitioner must, as soon as practicable after forming the reasonable belief, notify the National Agency of the second health practitioner's notifiable conduct or the student's impairment.
 Note—
 See section 237 which provides protection from civil, criminal and administrative liability for persons who, in good faith, make a notification under this Law. Section 237(3) provides that the making of a notification does not constitute a breach of professional etiquette or ethics or a departure from accepted standards of professional conduct and nor is any liability for defamation incurred.
+(2A) However, subsection (2) does not apply if the first health practitioner forms the reasonable belief in the course of providing a health service to the second health practitioner or student.
 (3) A contravention of subsection (2) by a registered health practitioner does not constitute an offence but may constitute behaviour for which action may be taken under this Part.
 (4) For the purposes of subsection (1), the first health practitioner does not form the reasonable belief in the course of practising the profession if—
 (a) the first health practitioner—
@@ -1556,6 +1557,46 @@ See section 237 which provides protection from civil, criminal and administrativ
 (i) forms the reasonable belief in the course of exercising functions as a member of a quality assurance committee, council or other body approved or authorised under an Act of a participating jurisdiction; and
 (ii) is unable to disclose the information that forms the basis of the reasonable belief because a provision of that Act prohibits the disclosure of the information; or
 (e) the first health practitioner knows, or reasonably believes, the National Agency has been notified of the notifiable conduct or impairment that forms the basis of the reasonable belief.
+141A—Mandatory notifications by treating practitioners of sexual misconduct
+(1) This section applies to a registered health practitioner (the treating practitioner) who, in the course of providing a health service to another registered health practitioner (the second health practitioner), forms a reasonable belief that the second health practitioner has engaged, is engaging, or is at risk of engaging, in sexual misconduct in connection with the practice of the practitioner's profession.
+(2) The treating practitioner must, as soon as practicable after forming the reasonable belief, notify the National Agency of the second health practitioner's conduct that forms the basis of the reasonable belief.
+Note—
+See section 237 which provides protection from civil, criminal and administrative liability for persons who, in good faith, make a notification under this Law.
+(3) A contravention of subsection (2) by the treating practitioner does not constitute an offence but may constitute behaviour for which action may be taken under this Part.
+(4) This section applies subject to section 141C.
+141B—Mandatory notifications by treating practitioners of substantial risk of harm to public
+(1) Subsection (2) applies to a registered health practitioner (the treating practitioner) who, in the course of providing a health service to another registered health practitioner (the second health practitioner), forms a reasonable belief that the second health practitioner is placing the public at substantial risk of harm by practising the profession—
+(a) while the practitioner has an impairment; or
+(b) while intoxicated by alcohol or drugs; or
+(c) in a way that constitutes a significant departure from accepted professional standards.
+(2) The treating practitioner must, as soon as practicable after forming the reasonable belief, notify the National Agency of the second health practitioner's conduct that forms the basis of the reasonable belief.
+Note—
+See section 237 which provides protection from civil, criminal and administrative liability for persons who, in good faith, make a notification under this Law.
+(3) Subsection (4) applies to a registered health practitioner (also the treating practitioner) who, in the course of providing a health service to a student, forms a reasonable belief that the student has an impairment that, in the course of the student undertaking clinical training, may place the public at substantial risk of harm.
+(4) The treating practitioner must, as soon as practicable after forming the reasonable belief, notify the National Agency of the student's impairment.
+Note—
+See section 237 which provides protection from civil, criminal and administrative liability for persons who, in good faith, make a notification under this Law.
+(5) In considering whether the public is being, or may be, placed at substantial risk of harm, the treating practitioner may consider the following matters relating to an impairment of the second health practitioner or student—
+(a) the nature, extent and severity of the impairment;
+(b) the extent to which the second health practitioner or student is taking, or is willing to take, steps to manage the impairment;
+(c) the extent to which the impairment can be managed with appropriate treatment;
+(d) any other matter the treating practitioner considers is relevant to the risk of harm the impairment poses to the public.
+(6) A contravention of subsection (2) or (4) by the treating practitioner does not constitute an offence but may constitute behaviour for which action may be taken under this Part.
+(7) This section applies subject to section 141C.
+141C—When practitioner does not form reasonable belief in course of providing health service
+(1) This section applies if a registered health practitioner (the first health practitioner) forms a reasonable belief about—
+(a) a matter, relating to another registered health practitioner (the second health practitioner), mentioned in section 141A(1) or 141B(1); or
+(b) a matter, relating to a student, mentioned in section 141B(3).
+(2) For this Division, the first health practitioner is taken not to form the reasonable belief in the course of providing a health service to the second health practitioner or student if—
+(a) the first health practitioner—
+(i) is employed or otherwise engaged by an insurer that provides professional indemnity insurance that relates to the second health practitioner or student; and
+(ii) forms the reasonable belief about the matter as a result of a disclosure made by a person to the first health practitioner in the course of a legal proceeding or the provision of legal advice arising from the insurance policy; or
+(b) the first health practitioner forms the reasonable belief in the course of providing advice in relation to the matter for the purposes of a legal proceeding or the preparation of legal advice; or
+(c) the first health practitioner is a legal practitioner and forms the reasonable belief in the course of providing legal services to the second health practitioner or student in relation to a legal proceeding or the preparation of legal advice in which the matter is an issue; or
+(d) the first health practitioner—
+(i) forms the reasonable belief in the course of exercising functions as a member of a quality assurance committee, council or other body approved or authorised under an Act of a participating jurisdiction; and
+(ii) is unable to disclose the information that forms the basis of the reasonable belief because a provision of that Act prohibits the disclosure of the information; or
+(e) the first health practitioner knows, or reasonably believes, the National Agency has been notified of the matter that forms the basis of the reasonable belief.
 142—Mandatory notifications by employers
 (1) If an employer of a registered health practitioner reasonably believes the health practitioner has behaved in a way that constitutes notifiable conduct, the employer must notify the National Agency of the notifiable conduct.
 Note—
