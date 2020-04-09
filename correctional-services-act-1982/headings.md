@@ -36,4 +36,5 @@ Division 3—Payment of money to prisoner compensation quarantine fund
 Division 4—Notice of prisoner compensation quarantine fund
 Division 5—Payments out of prisoner compensation quarantine fund
 Division 6—Miscellaneous
+Part 7A—Drug and alcohol testing scheme
 Part 8—Miscellaneous
