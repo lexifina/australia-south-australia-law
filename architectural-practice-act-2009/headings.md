@@ -14,6 +14,6 @@ Division 4—Restrictions relating to provision of architectural services
 Part 4—Investigations and proceedings
 Division 1—Preliminary
 Division 2—Investigations
-Division 3—Proceedings before Board
-Part 5—Appeals
+Division 3—Disciplinary proceedings
+Part 5—Reviews
 Part 6—Miscellaneous
