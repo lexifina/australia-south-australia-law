@@ -58,6 +58,7 @@ Part 6C—Piracy
 Part 7—Offences of a public nature
 Division 1—Preliminary
 Division 2—Impeding investigation of offences or assisting offenders
+Division 2A—Offences relating to providing false or misleading information to a court
 Division 3—Offences relating to judicial proceedings
 Division 4—Offences relating to public officers
 Division 5—Escape, rescue and harbouring of persons subject to detention
