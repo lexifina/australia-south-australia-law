@@ -81,7 +81,7 @@ Reciprocal Taxation
 27. All governments have agreed that no further compensation payments will be payable by any jurisdiction under the SOPI.
 Monitoring of Prices
 28. In accordance with the Trade Practices Act 1974, as amended, the Australian Competition and Consumer Commission will formally monitor prices and take action against businesses that take pricing decisions in a manner inconsistent with tax reform.
-29. In order to ensure that these measures apply to the whole economy, the States and Territories will adopt the Schedule version of Part VB of the Trade Practices Act 1974 (part XIAA of the New Tax System Price Exploitation Code) to extend the measures in Part VB to cover those areas outside the Commonwealth's constitutional power. All Parties will work towards having any necessary legislation in place by 1 July 1999.
+29. In order to ensure that these measures apply to the whole economy, the States and Territories will adopt the Schedule version of Part VB of the Trade Practices Act 1974 (part XIAA of theNew Tax System Price Exploitation Code) to extend the measures in Part VB to cover those areas outside the Commonwealth's constitutional power. All Parties will work towards having any necessary legislation in place by 1 July 1999.
 30. The monitoring and prohibition on unreasonable pricing decisions will commence on 1 July 1999 and continue until 30 June 2002.
 PART 3—ADMINISTRATION OF THE GST
 Management of the GST Rate
@@ -130,15 +130,15 @@ Establishment of Ministerial Council
 45. While it is envisaged that the Ministerial Council will take decisions on most business arising from the operation of this Agreement, major issues will be referred by the Ministerial Council to Heads of Government for consideration, including under the auspices of the Council of Australian Governments.
 46. The Ministerial Council will establish a GST Administration Sub-Committee comprised of Commonwealth, State and Territory officials to monitor the operation of the GST, make recommendations regarding possible changes to the GST base and rate and to monitor the ATO's performance in GST administration. The GST Administration Sub-Committee will function in accordance with the arrangements set out in Appendix E to this Agreement.
 SIGNED for and on behalf of the Parties by: │ │ │
-The Honourable John Winston Howard, Prime Minister of the Commonwealth of Australia, on the 20th day of June 1999 in the presence of: │ } │ │
-The Honourable Robert John Carr, Premier of the State of New South Wales, on the 24th day of June 1999 in the presence of: │ } │ │
-The Honourable Jeffrey Gibb Kennett, Premier of the State of Victoria, on the 26th day of June 1999 in the presence of: │ } │ │
-The Honourable Peter Douglas Beattie, Premier of the State of Queensland, on the 25th day of June 1999 in the presence of: │ } │ │
-The Honourable Richard Fairfax Court, Premier of the State of Western Australia, on the 29th day of June 1999 in the presence of: │ } │ │
-The Honourable John Wayne Olsen, Premier of the State of South Australia, on the 25th day of June 1999 in the presence of: │ } │ │
-The Honourable James Alexander Bacon, Premier of the State of Tasmania, on the 25th day of June 1999 in the presence of: │ } │ │
-Kate Carnell, Chief Minister of the Australian Capital Territory, on the 22nd day of June 1999 in the presence of: │ } │ │
-The Honourable Denis Gabriel Burke, Chief Minister of the Northern Territory of Australia, on the 22nd day of June 1999 in the presence of: │ } │ │
+The Honourable John Winston Howard, Prime Minister of the Commonwealth of Australia, on the 20th day of June 1999 in the presence of: │ │ │
+The Honourable Robert John Carr, Premier of the State of New South Wales, on the 24th day of June 1999 in the presence of: │ │ │
+The Honourable Jeffrey Gibb Kennett, Premier of the State of Victoria, on the 26th day of June 1999 in the presence of: │ │ │
+The Honourable Peter Douglas Beattie, Premier of the State of Queensland, on the 25th day of June 1999 in the presence of: │ │ │
+The Honourable Richard Fairfax Court, Premier of the State of Western Australia, on the 29th day of June 1999 in the presence of: │ │ │
+The Honourable John Wayne Olsen, Premier of the State of South Australia, on the 25th day of June 1999 in the presence of: │ │ │
+The Honourable James Alexander Bacon, Premier of the State of Tasmania, on the 25th day of June 1999 in the presence of: │ │ │
+Kate Carnell, Chief Minister of the Australian Capital Territory, on the 22nd day of June 1999 in the presence of: │ │ │
+The Honourable Denis Gabriel Burke, Chief Minister of the Northern Territory of Australia, on the 22nd day of June 1999 in the presence of: │ │ │
 APPENDICES
 A: │ Taxes Subject to Reform │
 B: │ Payment of GST Revenues to the States and Territories │
@@ -146,8 +146,7 @@ C: │ Transitional Arrangements │
 D: │ First Home Owners Scheme │
 E: │ GST Administration │
 F: │ GST Administration Performance Agreement — Guiding Principles │
-APPENDIX A
-TAXES SUBJECT TO REFORM
+APPENDIX A—TAXES SUBJECT TO REFORM
 The taxes which will cease to apply in accordance with paragraph 5 of this Agreement are set out below and in the relevant Commonwealth, State and Territory statutes as at 13 November 1998.
 A1. The following taxes will cease to apply from 1 July 2000:
 (i) Wholesale Sales Tax
@@ -180,8 +179,7 @@ Stamp duty levied on the price of goods purchased under instalment purchase arra
 Stamp duty levied on the rent paid in respect of the hire of goods, including consumer and producer goods.
 (vi) Stamp Duty on Cheques, Bills of Exchange and Promissory Notes
 Stamp duty levied on cheques, bills of exchange, promissory notes, or other types of payment orders, promises to pay or acknowledgment of debts, including duty on electronic debits.
-APPENDIX B
-PAYMENT OF GST REVENUES TO THE STATES AND TERRITORIES
+APPENDIX B—PAYMENT OF GST REVENUES TO THE STATES AND TERRITORIES
 B1. Subject to the transitional arrangements and other relevant provisions in this Agreement, the Commonwealth will distribute GST revenue grants among the States and Territories in accordance with horizontal fiscal equalisation (HFE) principles.
 B2. The pool of funding to be distributed according to HFE principles in a financial year will comprise GST revenue grants and health care grants as defined under an Australian Health Care Agreement between the Commonwealth and the States and Territories. A State or Territory's share of the pool will be based on its population share, adjusted by a relativity factor which embodies per capita financial needs based on recommendations of the Commonwealth Grants Commission. The relativity factor for a State or Territory will be determined by the Commonwealth Treasurer after he has consulted with each State and Territory.
 B3. The total amount of GST revenue to be provided to the States and Territories in a financial year will be defined as:
@@ -207,8 +205,7 @@ B8. The payments of GST revenue grants after 15 June in each year will take into
 For this purpose, the final payment will be made no later than the seventeenth day of June in each year. Where the seventeenth day of June is a Saturday, Sunday or public holiday in Canberra, the payment will be made on the next business day of the Reserve Bank of Australia in Canberra.
 B9. States shall be informed of the quantum of the final monthly payment of GST revenues grants by close of business Canberra time on the sixteenth day of June. Where the sixteenth day of June is a Saturday, Sunday or public holiday in Canberra, the Commonwealth shall inform the States of the quantum of the final payment on the last business day of the Reserve Bank of Australia in Canberra prior to the thirteenth.
 B10. The timing of payments of GST revenue grants may be varied by agreement between the Parties to this Agreement.
-APPENDIX C
-TRANSITIONAL ARRANGEMENTS
+APPENDIX C—TRANSITIONAL ARRANGEMENTS
 Guarantee in Legislation
 C1. Commonwealth legislation will provide a State or Territory with an entitlement to an additional amount of funding from the Commonwealth to offset any shortfall between its entitlement to GST revenue grants and the total amount of funding which would ensure that the budgetary position of a State or Territory is not worse off during the transition period.
 (i) In 2000–01, transitional assistance will be provided to a State or Territory as a grant or an interest free loan to be repaid to the Commonwealth in full in 2001–02.
@@ -246,8 +243,7 @@ C5. In each year of the transitional period after 2000–01, the Commonwealth wi
 C6. Adjustments to the total amount of additional assistance to a State or Territory in light of actual GST collections and the Treasurer's determination of the Guaranteed Minimum Amount will be made in conjunction with the payments of GST revenue grants after 10 June in each year.
 C7. A State or Territory will repay a loan which it receives from the Commonwealth in 2000–01 in quarterly instalments in 2001–02. These instalments will be paid to the Commonwealth on the same day on which a State or Territory receives an amount of GST revenue grants in the months of July, October, January and April.
 C8. The methodology for calculating the amounts of particular components of the Guaranteed Minimum Amount for a State or Territory has been agreed by the Heads of Treasuries and is set out in the document titled Methodology for Estimation of Components of the Guaranteed Minimum Amount.
-APPENDIX D
-FIRST HOME OWNERS SCHEME
+APPENDIX D—FIRST HOME OWNERS SCHEME
 Principles
 D1. The States and Territories will make legislative provision for the First Home Owners Scheme (FHOS) from 1 July 2000 which will incorporate programme criteria consistent with the following principles:
 (i) Eligible applicants will be entitled to $7,000 assistance (per application) on eligible homes under the FHOS.
@@ -263,8 +259,7 @@ Other matters
 D2. Funding of grants under the FHOS may not be drawn from Home Purchase Assistance (HPA) funds provided through the Commonwealth State Housing Agreement, including the pool of existing HPA revenues.
 D3. Further details concerning eligibility criteria consistent with the above principles are to be agreed between the Commonwealth and each State and Territory.
 D4. The States and Territories will not introduce or vary any taxes or charges associated with home purchase with the intention of offsetting the benefits of the FHOS for recipients.
-APPENDIX E
-GST ADMINISTRATION
+APPENDIX E—GST ADMINISTRATION
 E1. The Commissioner of Taxation has the general administration of the GST law.
 E2. The ATO will arrange for the Australian Customs Service to assist with the collection of the GST on imports.
 E3. During the first 12 months following the implementation of the GST, the Commonwealth will retain the discretion to make changes to the GST base of an administrative nature. For this purpose, changes of an administrative nature involves legislation necessary to:
@@ -283,8 +278,7 @@ E9. The functions of the Sub-Committee will include:
 E10. The States and Territories will be consulted on draft Public Rulings prior to consideration by the ATO Rulings Panel and before public consultation. There will be a representative from the States and Territories on the ATO Rulings Panel in relation to GST matters.
 E11. Public rulings will not be referred to the Ministerial Council. However, the GST Administration Sub-Committee will refer a proposed GST change to the Ministerial Council for consideration if the Sub-Committee is of the view that the change could have a significant impact on GST revenues and so warrants Ministerial review.
 E12. Draft legislation which might significantly affect the GST base will be forwarded through the GST Administrative Sub-Committee to the Ministerial Council for consideration.
-APPENDIX F
-GST ADMINISTRATION PERFORMANCE AGREEMENT - GUIDING PRINCIPLES
+APPENDIX F—GST ADMINISTRATION PERFORMANCE AGREEMENT - GUIDING PRINCIPLES
 Preamble
 F1. This Appendix outlines the principles that will guide the subsequent development of a GST Administration Performance Agreement (the Performance Agreement) between the ATO and its agents, and the States and Territories (the Parties).
 Objectives and Context of the Performance Agreement
