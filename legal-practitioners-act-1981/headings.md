@@ -16,6 +16,7 @@ Division 3—Entitlement to practise etc
 Division 3A—Provisions relating to interstate legal practice
 Division 3B—Provisions relating to community legal centres
 Division 4—Provisions regulating legal practice by corporations
+Division 4A—Provisions regulating the practise of foreign law
 Division 5—Provisions regulating trust money and trust accounts
 Division 6—Delivery up of legal papers
 Division 7—Authority of a legal practitioner to act on behalf of a person of unsound mind
