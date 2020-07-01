@@ -2661,9 +2661,13 @@ appointed day means the day that is 12 months after the commencement day.
 (b) the acceptance of an undertaking; and
 (c) the suspension or cancellation of a supervisor certificate.
 (2) This section expires on 31 December 2021.
+Editorial note—
+Section 330 has expired.
 331—Evidentiary certificates
 (1) Despite the amendment of section 292 by the 2017 Act, a Regulatory Authority or the National Authority may continue to certify matters relating to any person who was a certified supervisor before the commencement day as if that section had not been amended.
 (2) This section expires on 31 December 2021.
+Editorial note—
+Section 331 has expired.
 Division 6—Further transitional provisions—Education and Care Services National Law Amendment Act 2017
 332—Definitions
 In this Division—
