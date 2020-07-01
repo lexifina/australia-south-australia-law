@@ -104,7 +104,7 @@ public road means any road other than a private road;
 public sector auditor means—
 (a) the Auditor‑General (however described) of a participating jurisdiction; or
 (b) an auditor employed, appointed or otherwise engaged, by an Auditor‑General of a participating jurisdiction;
-rail infrastructure means the facilities that are necessary to enable a railway to operate and includes—
+rail infrastructure means the facilities that are necessary to enable a railway to operate safely and includes—
 (a) railway tracks and associated railway track structures; and
 (b) service roads, signalling systems, communications systems, rolling stock control systems, train control systems and data management systems; and
 (c) notices and signs; and
@@ -245,11 +245,11 @@ Schedule 2 to this Law applies in relation to this Law.
 (a) driving or despatching rolling stock or any other activity which is capable of controlling or affecting the movement of rolling stock;
 (b) signalling (and signalling operations), receiving or relaying communications or any other activity which is capable of controlling or affecting the movement of rolling stock;
 (c) coupling or uncoupling rolling stock;
-(d) maintaining, repairing, modifying, monitoring, inspecting or testing—
+(d) constructing, maintaining, repairing, modifying, monitoring, inspecting or testing—
 (i) rolling stock, including checking that the rolling stock is working properly before being used; or
-(ii) rail infrastructure;
+(ii) rail infrastructure, including checking that the rail infrastructure is working properly before being used;
 (e) installation of components in relation to rolling stock;
-(f) work on or about rail infrastructure relating to the design, construction, repair, modification, maintenance, monitoring, upgrading, inspection or testing of the rail infrastructure or associated works or equipment, including checking that the rail infrastructure is working properly before being used;
+(f) work on or about rail infrastructure or associated works or equipment that places, or may place, the person performing the work at risk of exposure to moving rolling stock;
 (g) installation or maintenance of—
 (i) a telecommunications system relating to rail infrastructure or used in connection with rail infrastructure; or
 (ii) the means of supplying electricity directly to rail infrastructure, any rolling stock using rail infrastructure or a telecommunications system;
