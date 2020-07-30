@@ -18,9 +18,9 @@ Division 5—Costs of investigation
 Division 6—Governor not bound by Commissioner's recommendation
 Part 4—Operation of casino
 Division 1—Opening hours
+Division 1AA—Right of entry to casino premises
 Division 1A—Gambling only allowed in enclosed areas
-Division 2—Approval of management and staff
-Division 3—Provisions of general application to staff
+Division 2—Casino management and staff
 Division 4—Approval and use of systems and equipment
 Division 4AA—Disposal of games and gaming machines
 Division 4A—Codes of practice
