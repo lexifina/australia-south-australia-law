@@ -16,6 +16,7 @@ Division 5—Review of Part
 Part 5—Additional consumer protection provisions
 Part 6—Third-party trading schemes
 Part 6A—Gift cards
+Part 6B—Fuel pricing information
 Part 7—Enforcement and remedies
 Division A1—Interpretation
 Division 1—Legal proceedings and warnings
