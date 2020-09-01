@@ -1,3 +1,0 @@
-10HAB—Medical decisions affecting surrogate mother or child
-(1) For the purposes of this Act, the Consent to Medical Treatment and Palliative Care Act 1995 and any other Act or law, a question relating to any medical treatment to be provided to a surrogate mother or an unborn child to which a recognised surrogacy agreement relates (including, to avoid doubt, a question relating to who can consent to such treatment, whether or not it relates to the pregnancy) is to be determined as if the recognised surrogacy agreement did not exist.
-(2) Nothing in this section limits the operation of an advance care directive under the Advance Care Directives Act 2013.
