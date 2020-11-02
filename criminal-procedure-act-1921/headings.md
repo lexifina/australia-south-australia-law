@@ -10,6 +10,7 @@ Part 5—Indictable offences
 Division 1—Informations
 Division 2—Pre-committal hearings etc
 Division 3—Committal proceedings
+Division 3A—Pleas to alternative offences and attempts in the Magistrates Court
 Division 4—Forum for trial or sentence
 Division 5—Procedure following committal for trial or sentence
 Division 6—Pleas and proceedings on trial in superior court
