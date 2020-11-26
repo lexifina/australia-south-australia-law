@@ -48,4 +48,5 @@ Division 6—Publicising disciplinary action
 Division 6A—Provisions relating to interstate legal practice
 Division 7—Annual reports
 Division 8—Professional mentoring agreements
+Part 7—Appointment of Senior Counsel, Queen's Counsel etc
 Part 8—Miscellaneous
