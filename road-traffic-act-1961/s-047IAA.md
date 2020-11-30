@@ -26,7 +26,12 @@
 (c) a mandatory minimum period of disqualification would (apart from this subsection) be required to be imposed for the offence,
 then—
 (d) the court must order that the person be disqualified from holding or obtaining a driver's licence for a period determined by the court (and if the person is the holder of a driver's licence, the disqualification operates to cancel the licence from the commencement of that period); and
-(e) despite any other provision of this or any other Act, the court must, in determining the period, take into account the period of licence disqualification or suspension that has applied to the person as a result of the notice and may impose a period that is less than the mandatory minimum period of disqualification (provided that the period imposed is not less than the difference between the mandatory minimum and the period that has applied as a result of the notice).
+(e) despite any other provision of this or any other Act, the court must, in determining the period, take into account the period of licence disqualification or suspension that has applied to the person as a result of the notice and may for that purpose—
+(i) if the relevant period of licence disqualification or suspension under the notice has not ended, order that the period imposed be taken to have commenced on the day on which the relevant period commenced (provided that the period imposed is not less than the mandatory minimum period of disqualification); or
+(ii) if the relevant period of licence disqualification or suspension under the notice has ended, impose a period that is less than the mandatory period of disqualification (provided that the period imposed is not less than the difference between the mandatory minimum period of disqualification and the period that has applied as a result of the notice),
+and if the person is the holder of a driver's licence, the licence will be taken to have been cancelled—
+(iii) where subparagraph (i) applies—from the day on which the order of the court is made; or
+(iv) where subparagraph (ii) applies—from the commencement of the period of disqualification ordered by the court.
 (10) Subject to subsection (11), no compensation is payable by the Crown or a police officer in respect of the exercise, or purported exercise, of powers under this section.
 (11) Subsection (10) does not protect a police officer from liability in respect of the exercise, or purported exercise, of powers otherwise than in good faith.
 (12) For the purposes of this section—
