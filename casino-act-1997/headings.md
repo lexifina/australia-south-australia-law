@@ -27,23 +27,12 @@ Division 4A—Codes of practice
 Division 5—Prohibited practices
 Division 6—Exclusion of children
 Division 7—General barring powers
-Division 8—General power of direction
 Division 9—Consultation with licensee
 Part 5—Financial matters
 Division 1—Accounts and audit
 Division 2—Casino duty
 Division 3—Recovery of administration costs
-Part 6—Supervision
-Division 1—Commissioner's supervisory responsibility
-Division 2—Power to obtain information
-Division 3—Powers of authorised officers
 Part 7—Power to deal with default
-Division 1—Statutory default
-Division 2—Compliance notices
-Division 3—Expiation notices
-Division 4—Injunctive remedies
-Division 5—Disciplinary action
 Division 6—Official management
 Division 7—Administrators, controllers and liquidators
-Part 8—Review
 Part 9—Miscellaneous

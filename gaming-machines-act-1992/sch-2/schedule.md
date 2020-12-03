@@ -8,5 +8,6 @@ The conditions to which the gaming machine monitor licence will be subject are a
 (d) a condition that the licensee will not modify in any way the monitoring system operated pursuant to the licence without the prior approval of the Commissioner;
 (e) a condition that the licensee will not, in the course of carrying out the undertaking authorised by the licence, do any other specified thing without the prior approval of the Commissioner;
 (f) a condition that the licensee must modify or upgrade the monitoring system operated pursuant to the licence as the Commissioner may from time to time reasonably require;
+(fa) a condition that the licensee must, on the request of the Commissioner, provide to the Commissioner information recorded by the monitoring system in a manner and form, and within a time, specified by the Commissioner in the request;
 (g) a condition that the licensee will comply with such other directions as the Commissioner may, in the interests of ensuring the efficient and effective monitoring of all gaming operations conducted pursuant to this Act, give to the licensee in relation to carrying out the undertaking authorised by the licence;
 (h) such other conditions (if any) as the Commissioner thinks fit and specifies in the licence.

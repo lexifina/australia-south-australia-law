@@ -6,8 +6,8 @@ Division 3—Dealings with licence or licensed business
 Division 4—Approval of designated persons
 Division 5—Applications and criteria for determination of applications
 Division 6—Investigations by Commissioner
+Division 6A—Notification of change of prescribed particulars
 Division 7—Accounts and audit
-Division 9—General power of direction
 Division 10—Recovery of administration costs
 Part 3—Bookmaker's and other licences
 Division 1—Licences
@@ -22,13 +22,8 @@ Division 1—Major betting operations and on-course totalisator betting operatio
 Division 2—Bookmaking operations
 Division 3—Interstate betting operations
 Division 4—Betting operations relating to racing
-Part 5—Enforcement
-Division 1—Commissioner's supervisory responsibility
-Division 2—Power to obtain information
-Division 3—Inspectors and powers of authorised officers
 Part 6—Power to deal with default or business failure
-Division 1—Statutory default
+Division 1—Taxation default
 Division 2—Official management
 Division 3—Administrators, controllers and liquidators
-Part 7—Review
 Part 8—Miscellaneous
