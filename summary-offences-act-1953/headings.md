@@ -2,6 +2,7 @@ Part 1—Preliminary
 Part 2—Offences with respect to police operations
 Part 3—Offences against public order
 Part 3A—Weapons etc
+Part 3B—Liquor etc
 Part 4—Tattooing, body piercing and body modification
 Part 5—Offences against decency and morality
 Part 5A—Filming and sexting offences
