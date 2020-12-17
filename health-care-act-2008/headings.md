@@ -17,6 +17,7 @@ Division 7—By-laws and removal of persons
 Division 8—Fees
 Division 9—Rights of hospitals against insurers
 Division 10—Inspectors
+Part 5A—Health access zones
 Part 6—Ambulance services
 Division 1—South Australian Ambulance Service (SAAS)
 Division 2—Provision of ambulance services
