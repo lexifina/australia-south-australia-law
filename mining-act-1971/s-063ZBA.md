@@ -17,4 +17,4 @@
 (e) a person who is acting under the authority of an order or determination of the ERD Court or the Supreme Court (for the purposes of this or another Act or law).
 (6) An authority under subsection (5) may be given on conditions.
 (7) A person who contravenes or fails to comply with a condition is guilty of an offence.
-Maximum penalty: $10 000.
+Maximum penalty: $50 000.
