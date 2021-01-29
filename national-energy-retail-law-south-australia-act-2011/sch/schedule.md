@@ -23,6 +23,7 @@ AER regulatory function or power means a function or power performed or exercise
 (f) the RoLR scheme under Part 6;
 AER Retail Pricing Information Guidelines—see section 61;
 AER Retailer Authorisation Guidelines—see section 117;
+annual turnover has the same meaning as in section 2(1) of Schedule 2 to the Competition and Consumer Act 2010 of the Commonwealth;
 application Act means the Act of a jurisdiction that applies the National Energy Retail Law set out in the Schedule to the National Energy Retail Law (South Australia) Act 2011 of South Australia as a law of the jurisdiction;
 associate of a retailer or distributor includes—
 (a) an employee or agent of the retailer or distributor; and
@@ -41,13 +42,7 @@ civil monetary liability means a liability for damages, compensation or any othe
 (a) a liability for a civil penalty; or
 (b) an infringement penalty under provisions applied by this Law; or
 (c) a liability for the costs of a proceeding;
-civil penalty means—
-(a) in the case of a breach of a civil penalty provision by a natural person—
-(i) an amount not exceeding $20 000; and
-(ii) an amount not exceeding $2 000 for every day during which the breach continues; or
-(b) in the case of a breach of a civil penalty provision by a body corporate—
-(i) an amount not exceeding $100 000; and
-(ii) an amount not exceeding $10 000 for every day during which the breach continues;
+civil penalty—see section 4A;
 civil penalty provision has the meaning given by section 4(1);
 Commonwealth Minister means the Minister of the Commonwealth administering the Australian Energy Market Act 2004 of the Commonwealth;
 conduct provision has the meaning given by section 4(2);
@@ -255,6 +250,31 @@ Section 274(1) │ Obligation of regulated entities to provide information and d
 Section 276(1), (2) and (4) │ Compliance audits by regulated entities │
 Section 282(1) │ Obligation of regulated entities to provide information and data about performance │
 (2) A conduct provision is a provision of this Law (other than an offence provision) or the Rules that is prescribed by the National Regulations to be a conduct provision.
+4A—Civil penalty amounts for breaches of civil penalty provisions
+(1) Subject to this section, the civil penalty for a breach of a civil penalty provision is—
+(a) in the case of a breach of a civil penalty provision, other than a provision prescribed under paragraph (b) or (c)—
+(i) if the breach is by a natural person—
+(A) an amount not exceeding $33 900; plus
+(B) an amount not exceeding $3 390 for every day during which the breach continues;
+(ii) if the breach is by a body corporate—
+(A) an amount not exceeding $170 000; plus
+(B) an amount not exceeding $17 000 for every day during which the breach continues; or
+(b) in the case of a breach of a civil penalty provision prescribed by the National Regulations for the purposes of this paragraph—
+(i) if the breach is by a natural person—
+(A) an amount not exceeding $287 000; plus
+(B) an amount not exceeding $14 400 for every day during which the breach continues;
+(ii) if the breach is by a body corporate—
+(A) an amount not exceeding $1 435 000; plus
+(B) an amount not exceeding $71 800 for every day during which the breach continues; or
+(c) in the case of a breach of a civil penalty provision prescribed by the National Regulations for the purposes of this paragraph—
+(i) if the breach is by a natural person—an amount not exceeding $500 000;
+(ii) if the breach is by a body corporate—an amount not exceeding the greater of the following—
+(A) $10 000 000;
+(B) if the Court can determine the value of any benefit reasonably attributable to the breach of the civil penalty provision that the body corporate, and any body corporate related to the body corporate, has obtained, directly or indirectly—3 times the value of that benefit;
+(C) if the Court cannot determine the value of the benefit—10% of the annual turnover of the body corporate during the 12‑month period ending at the end of the month in which the body corporate breached, or began breaching, the civil penalty provision.
+Note—
+See section 300A, which provides for the amounts specified in this subsection to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
+(2) Subsection (1)(c)(ii)(B) or (C) will only apply in a particular case if the AER, in applying for an order under section 291(2)(a), requests that those provisions be applied in that particular case.
 5—Meaning of customer and associated terms
 (1) A customer is a person—
 (a) to whom energy is sold for premises by a retailer; or
@@ -279,6 +299,8 @@ The Rules may make provision for or with respect to the classification and recla
 (a) whether a person is a residential customer by reference to whether the person purchases energy principally for personal, household or domestic use at premises; or
 (b) whether a business customer is a small customer or a large customer; or
 (c) whether a business customer is a small market offer customer.
+7A—Related bodies corporate
+For the purposes of this Law, 2 or more bodies corporate are related to each other if they are related bodies corporate within the meaning of the Corporations Act 2001 of the Commonwealth.
 8—Interpretation generally
 (1) Schedule 2 to the NGL applies to this Law, the National Regulations and the Rules and any other statutory instrument made under this Law in the same way as it applies to the NGL and the regulations, rules and any other statutory instruments made under the NGL.
 (2) For that purpose—
@@ -1104,8 +1126,8 @@ This Division does not apply where a RoLR notice is issued under Part 6: see sec
 (1) The AER may decide to revoke a retailer authorisation in accordance with this Division.
 (2) The grounds for revocation of a retailer's authorisation are—
 (a) that the retailer—
-(i) in the case of electricity—is in breach of a requirement referred to in section 88(2)(a); or
-(ii) in the case of gas—is in breach of a requirement referred to in section 88(2)(b); or
+(i) in the case of electricity—has breached a requirement referred to in section 88(2)(a); or
+(ii) in the case of gas—has breached a requirement referred to in section 88(2)(b); or
 (b) that the AER is satisfied that there has been a material failure by the retailer to meet the obligations of a retailer under the energy laws, which creates a reasonable apprehension that the retailer will not be able to meet its obligations under this Law, the National Regulations or the Rules in the future.
 (3) A retailer authorisation may not be revoked unless the revocation process has been completed.
 (4) The AER may commence the revocation process in relation to a retailer authorisation if the AER reasonably considers that the grounds for revocation exist.
@@ -1729,8 +1751,10 @@ Subdivision 6—General
 158—Providing false or misleading information
 A person must not, in purported compliance with a RoLR regulatory information notice requiring the person to provide information, provide information that the person knows is false or misleading in a material particular.
 Maximum penalty:
-(a) in the case of a natural person—$2 000;
-(b) in the case of a body corporate—$10 000.
+(a) in the case of a natural person—$6 300;
+(b) in the case of a body corporate—$31 500.
+Note—
+See section 300B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
 159—Person cannot rely on duty of confidence to avoid compliance with RoLR regulatory information notice
 (1) A person must not refuse to comply with a RoLR regulatory information notice on the ground of any duty of confidence.
 (2) A person incurs, by complying with a RoLR regulatory information notice, no liability for breach of contract, breach of confidence or any other civil wrong.
@@ -2106,35 +2130,76 @@ Division 1—General
 The AER must, in performing or exercising an AER regulatory function or power, perform or exercise that function or power in a manner that will or is likely to contribute to the achievement of the national energy retail objective and where relevant, in a manner that is compatible with the development and application of consumer protections for small customers, including (but not limited to) protections relating to hardship customers.
 Division 2—General information gathering powers
 206—Power to obtain information and documents
-(1) If the AER has reason to believe that a person is capable of providing information or producing a document that the AER requires for the performance or exercise of a function or power conferred on it under this Law, the National Regulations, the Rules or an application Act, the AER may serve on that person a notice (a relevant notice).
-(2) A relevant notice may require the person to—
+(1) If the AER has reason to believe that a person is capable of providing information, producing a document or giving evidence that the AER requires for the performance or exercise of a function or power conferred on it under this Law, the National Regulations, the Rules or an application Act, the AER may serve on that person a notice (a relevant notice).
+(2) A relevant notice may require the person to do 1 or more of the following:
 (a) provide to the AER, by writing signed by that person or, in the case of a body corporate, by a competent officer of the body corporate, within the time and in the manner specified in the notice, any information of the kind referred to in subsection (1); or
-(b) produce to the AER, or to a person specified in the notice acting on its behalf, in accordance with the notice, any documents of the kind referred to in subsection (1).
+(b) produce to the AER, or to a person specified in the notice acting on its behalf, in accordance with the notice, any documents of the kind referred to in subsection (1); or
+(c) appear before the AER, or before a member of the staff assisting the AER who is an SES employee or an acting SES employee and who is specified in the notice, at a time and place specified in the notice, to provide any information or to give any evidence of the kind referred to in subsection (1), either orally or in writing, and to produce any documents of the kind referred to in subsection (1).
 (3) A person on whom a relevant notice is served must comply with the relevant notice unless the person has a reasonable excuse.
 Maximum penalty:
-(a) in the case of a natural person—$2 000;
-(b) in the case of a body corporate—$10 000.
-(4) A person must not, in purported compliance with a relevant notice, provide information that the person knows is false or misleading in a material particular.
+(a) in the case of a natural person—$6 300;
+(b) in the case of a body corporate—$31 500.
+Note—
+See section 300B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
+(3a) A person must not, when appearing under subsection (2)(c), refuse or fail to answer a question that the person is required to answer for the purpose of providing information or giving evidence unless the person has a reasonable excuse.
+Maximum penalty: $6 300.
+Note—
+See section 300B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
+(4) A person must not, in purported compliance with a relevant notice, provide information or give evidence that the person knows is false or misleading in a material particular.
 Maximum penalty:
-(a) in the case of a natural person—$2 000;
-(b) in the case of a body corporate—$10 000.
+(a) in the case of a natural person—$6 300;
+(b) in the case of a body corporate—$31 500.
+Note—
+See section 300B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
 (5) It is a reasonable excuse for the purposes of subsection (3) if the person served the relevant notice is not capable of complying with that notice.
+(5a) It is a reasonable excuse for the purposes of subsection (3a) if the person is not capable of providing the information or giving the evidence (as the case may be) to which the question relates.
 (6) It is a reasonable excuse for a natural person to—
-(a) fail to provide information of the kind referred to in subsection (1) to the AER; or
+(a) fail to provide information or to give evidence of the kind referred to in subsection (1) to the AER, or to a person specified in a relevant notice;
 (b) fail to produce a document of the kind referred to in subsection (1) to the AER, or to a person specified in a relevant notice acting on behalf of the AER,
 if to do so might tend to incriminate the person, or make the person liable to a criminal penalty, under a law of this jurisdiction or another jurisdiction in Australia (whether or not that other jurisdiction is a participating jurisdiction).
 (7) It is not a reasonable excuse for a person to—
-(a) fail to provide information of the kind referred to in subsection (1) to the AER; or
+(a) fail to provide information of the kind referred to in subsection (1) to the AER, or to a person specified in a relevant notice; or
 (b) fail to produce a document of the kind referred to in subsection (1) to the AER, or to a person specified in a relevant notice acting on behalf of the AER,
 on the ground of any duty of confidence.
 (8) This section does not require a person to—
 (a) provide information that is the subject of legal professional privilege; or
 (b) produce a document the production of which would disclose information that is the subject of legal professional privilege.
 (9) This section does not require a person to—
-(a) provide information that would disclose the contents of a document prepared for the purposes of a meeting of the Cabinet or a committee of the Cabinet of the Commonwealth or of a State or a Territory; or
+(a) provide information or give evidence that would disclose the contents of a document prepared for the purposes of a meeting of the Cabinet or a committee of the Cabinet of the Commonwealth or of a State or a Territory; or
 (b) produce a document prepared for the purposes of a meeting of the Cabinet or a committee of the Cabinet of the Commonwealth or of a State or a Territory; or
-(c) provide information, or produce a document, that would disclose the deliberations of the Cabinet or a committee of the Cabinet of the Commonwealth or of a State or a Territory.
+(c) provide information, give evidence or produce a document that would disclose the deliberations of the Cabinet or a committee of the Cabinet of the Commonwealth or of a State or a Territory.
+(9a) The AER, or a person specified in a relevant notice under this section, may require evidence given under subsection (2)(c) to be given on oath or affirmation and for that purpose the AER or specified person (as the case may be) may administer the oath or affirmation.
+(9b) A person must not, without reasonable excuse, refuse or fail to be sworn or to make an affirmation under subsection (9a).
+Maximum penalty: $6 300.
+Note—
+See section 300B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
 (10) A person incurs, by complying with a relevant notice, no liability for breach of contract, breach of confidence or any other civil wrong.
+(11) Subject to the preceding subsections, the Court may, on application by the AER on behalf of the Commonwealth, if satisfied that a person has breached subsection (3) or (3a), make an order that the person take such action as the Court requires for remedying the breach.
+(12) To avoid doubt, the Court may act under subsection (11) if satisfied on the balance of probabilities that a person is in breach of subsection (3) or (3a) (as the case may be).
+(13) The AER must not exercise, or continue to exercise, a power under subsection (1) in relation to a matter (and any notice under that subsection will cease to have effect)—
+(a) after the AER has commenced proceedings in relation to the matter, other than proceedings for an injunction (whether interim or final); or
+(b) if proceedings for a final injunction have been commenced by the AER—after the close of pleadings in those proceedings.
+(14) Subsection (13) does not prevent the AER from—
+(a) using any information, evidence or document acquired under this section in any proceedings if the information, evidence or document has been obtained before the commencement of those proceedings; or
+(b) exercising a power under this section for a purpose other than for the purposes of proceedings referred to in that subsection.
+(15) Any information, evidence or document obtained under subsection (14)(b) may be used in any proceedings if it is found to be relevant to those proceedings.
+(16) The National Regulations may make any other provision in relation to the form, content or service of a notice under this section.
+(17) An annual report for the AER must include the following information relating to the relevant reporting period for that report:
+(a) the number of notices (if any) given under subsection (2)(c) during the reporting period to appear to provide information or to give evidence orally;
+(b) in relation to a notice under paragraph (a)—a general description of the nature of the matter or matters in respect of which the notice was given;
+(c) the number of any proceedings (if any) commenced during the reporting period to challenge a notice given under subsection (2)(c) to appear to provide information or to give evidence orally.
+(18) A person must not—
+(a) threaten, intimidate or coerce another person; or
+(b) cause or procure damage, loss or disadvantage to another person,
+because that other person—
+(c) proposes to provide information, give evidence or produce a document in response to a notice under this section; or
+(d) proposes to appear, or has appeared, in response to a notice under this section.
+Maximum penalty: $6 300.
+Note—
+See section 300B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
+(19) In this section—
+acting SES employee has the same meaning as in the Public Service Act 1999 of the Commonwealth;
+SES employee has the same meaning as in the Public Service Act 1999 of the Commonwealth.
 Division 3—Disclosure of confidential information held by AER
 207—Confidentiality
 Section 44AAF of the Competition and Consumer Act 2010 of the Commonwealth has effect for the purposes of this Law, the National Regulations and the Rules as if it formed part of this Law.
@@ -2218,11 +2283,15 @@ the AER must notify that person of that decision in writing.
 (2) This section does not apply:
 (a) if the person gave the information to the AER anonymously; or
 (b) to the extent the AER resolved the matter to which the information relates by referring the person to the energy ombudsman.
-218—AER enforcement guidelines
+218—AER Guidelines
+(a1) The AER must prepare guidelines about the exercise of its powers under section 206, including about—
+(a) the rights and obligations of persons who are served with a relevant notice under that section; and
+(b) the penalties applying under that section for non‑compliance with a notice; and
+(c) the purposes for which information obtained under that section may be used.
 (1) The AER may prepare guidelines about the matters it will have regard to before—
 (a) making an application under section 291; or
 (b) serving an infringement notice under section 308.
-(2) The AER must publish guidelines prepared under subsection (1) on its website.
+(2) The AER must publish guidelines prepared under subsection (a1) or (1) on its website.
 219—Single documentation
 (1) This section applies if the AER is authorised to prepare a document under this Law or the Rules for a purpose and is also authorised to prepare a document or documents under either or both—
 (a) the NEL or NER; or
@@ -2840,27 +2909,39 @@ Division 2—Proceedings generally
 (2) A person, other than the AER, may only institute a proceeding for a breach of a conduct provision by another person within 6 years after the date on which the breach occurred.
 Division 3—Proceedings for breaches of this Law, the National Regulations or the Rules
 291—AER proceedings for breaches of this Law, the National Regulations or the Rules that are not offences
-(1) The Court may make an order, on application by the AER on behalf of the Commonwealth, declaring that a person is in breach of a provision of this Law, the National Regulations or the Rules that is not an offence provision.
+(1) The Court may make an order, on application by the AER on behalf of the Commonwealth, declaring that a person has breached a provision of this Law, the National Regulations or the Rules that is not an offence provision.
 Note—
 A Supreme Court of a participating jurisdiction that is a State may hear an application by the AER under subsection (1) by operation of section 39(2) of the Judiciary Act 1903 of the Commonwealth.
-(2) If the order declares a person to be in breach of a provision of this Law, the National Regulations or the Rules that is not an offence provision, the order may include one or more of the following:
+(2) If the order declares a person has breached a provision of this Law, the National Regulations or the Rules that is not an offence provision, the order may include one or more of the following:
 (a) an order that the person pay a civil penalty determined in accordance with this Law, the National Regulations or the Rules if the breach is a breach of a civil penalty provision;
 (b) an order that the person cease, within a specified period, the act, activity or practice constituting the breach;
 (c) an order that the person take such action, or adopt such practice, as the Court requires for remedying the breach or preventing a recurrence of the breach;
 (d) an order that the person implement a specified program for compliance with this Law, the National Regulations or the Rules;
+(da) an order that the person perform a specified service that relates to the breach and that is for the benefit of the community or a section of the community;
+(db) an order that the person, at the person's expense, engage—
+(i) another person specified in the order; or
+(ii) another person in a class of persons specified in the order,
+to perform a service that is specified in the order and that relates to the breach and that is for the benefit of the community or a section of the community;
+(dc) an order to ensure that the person does not engage in further conduct of the same nature, or similar or related conduct, during the period of the order (which cannot exceed 3 years), including—
+(i) an order that the person establish a compliance program or an education and training program for employees or other persons involved in the person's business, being a program designed to ensure their awareness of the responsibilities and obligations in relation to the conduct constituting the breach, or similar or related conduct; or
+(ii) an order that the person revise the internal operations of the person's business that led to the person committing the breach;
+(dd) an order that the person—
+(i) disclose, in the way and to the persons specified in the order, specified information, being information that the person has possession of or access to; and
+(ii) publish, at the person's expense and in the way specified in the order, an advertisement in the terms specified in, or determined in accordance with, the order;
 (e) an order of a kind prescribed by the National Regulations.
+(2a) An order under subsection (2)paragraph (db) is not enforceable against a person mentioned in paragraph (db)(i) or (ii).
 (3) If a person has engaged, is engaging or is proposing to engage in any conduct in breach of a provision of this Law, the National Regulations or the Rules that is not an offence provision, the Court may, on application by the AER on behalf of the Commonwealth, grant an injunction—
 (a) restraining the person from engaging in the conduct; and
 (b) if, in the Court's opinion, it is desirable to do so—requiring the person to do something.
 (4) The power of the Court under subsection (3) to grant an injunction restraining a person from engaging in conduct of a particular kind may be exercised—
 (a) if the Court is satisfied that the person has engaged in conduct of that kind—whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind; or
 (b) if it appears to the Court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the person engages in conduct of that kind.
-292—Proceedings for declaration that a person is in breach of a conduct provision
-(1) The Court may make an order, on application by a person other than the AER, declaring that another person is in breach of a conduct provision.
-(2) If the order declares a person to be in breach of a conduct provision, the order may include one or more of the following:
-(a) an order that the person in breach cease, within a specified period, the act, activity or practice constituting the breach;
-(b) an order that the person in breach take such action, or adopt such practice, as the Court requires for remedying the breach or preventing a recurrence of the breach;
-(c) an order that the person in breach implement a specified program for compliance with this Law, the National Regulations and the Rules;
+292—Proceedings for declaration that a person has breached a conduct provision
+(1) The Court may make an order, on application by a person other than the AER, declaring that another person has breached a conduct provision.
+(2) If the order declares a person has breached a conduct provision, the order may include one or more of the following:
+(a) an order that the person cease, within a specified period, the act, activity or practice constituting the breach;
+(b) an order that the person take such action, or adopt such practice, as the Court requires for remedying the breach or preventing a recurrence of the breach;
+(c) an order that the person implement a specified program for compliance with this Law, the National Regulations and the Rules;
 (d) an order of a kind prescribed by the National Regulations.
 (3) If a person has engaged, is engaging or is proposing to engage in any conduct in breach of a conduct provision, the Court may, on application by another person (other than the AER), grant an injunction—
 (a) restraining the first mentioned person from engaging in the conduct; and
@@ -2872,11 +2953,12 @@ A Supreme Court of a participating jurisdiction that is a State may hear an appl
 A person other than the AER who suffers loss or damage by conduct of another person that was done in breach of a conduct provision may recover the amount of the loss or damage by action against that other person in a court of competent jurisdiction.
 Division 4—Matters relating to breaches of this Law, the National Regulations or the Rules
 294—Matters for which there must be regard in determining amount of civil penalty
-Every civil penalty ordered to be paid by a person declared to be in breach of a provision of this Law, the National Regulations or the Rules must be determined having regard to all relevant matters, including—
+Every civil penalty ordered to be paid by a person declared to have breached a provision of this Law, the National Regulations or the Rules must be determined having regard to all relevant matters, including—
 (a) the nature and extent of the breach; and
 (b) the nature and extent of any loss or damage suffered as a result of the breach; and
+(ba) without limiting the operation of section 4A(1)(c)(ii)(B) or (C)—the value of any benefit reasonably attributable to the breach that the person or, in the case of a body corporate, any related body corporate, has obtained, directly or indirectly; and
 (c) the circumstances in which the breach took place; and
-(d) whether the person has engaged in any similar conduct and been found to be in breach of a provision of this Law, the National Regulations or the Rules in respect of that conduct; and
+(d) whether the person has engaged in any similar conduct and been found to have breached a provision of this Law, the National Regulations or the Rules in respect of that conduct; and
 (e) in the case of a regulated entity—whether the person has established, and has complied with, policies, systems and procedures under section 273.
 295—Breach of a civil penalty provision is not an offence
 A breach of a civil penalty provision is not an offence.
@@ -2899,6 +2981,22 @@ For the purpose of determining the civil penalty for a breach of a civil penalty
 A person who attempts to commit a breach of a civil penalty provision commits a breach of that provision.
 300—Civil penalties payable to the Commonwealth
 If a person is ordered to pay a civil penalty, the penalty is payable to the Commonwealth.
+300A—Indexation of civil penalty amounts
+(1) Each civil penalty amount is to be adjusted in accordance with the method prescribed by the National Regulations for the purposes of this section.
+(2) The first adjustment is to occur on 1 July 2023.
+(3) The next adjustment is to occur on 1 July 2026 and an adjustment is to occur on 1 July every 3 years after that.
+(4) The AER must, on or as soon as practicable after the date of the first adjustment and before each subsequent adjustment, publish on its website the civil penalty amounts that apply on and from the date of the adjustment. However, a failure by the AER to do so does not invalidate an adjustment.
+(5) A civil penalty amount that is adjusted under this section applies to a breach of a civil penalty provision that occurs or is alleged to occur on or after the date of the adjustment.
+(6) In this section—
+civil penalty amount means each amount specified in section 4A(1)(a), (b) or (c)(i) or (ii)(A).
+300B—Indexation of criminal penalties
+(1) Each criminal penalty amount is to be adjusted in accordance with the method prescribed by the National Regulations for the purposes of this section.
+(2) The first adjustment is to occur on 1 July 2023.
+(3) The next adjustment is to occur on 1 July 2026 and an adjustment is to occur on 1 July every 3 years after that.
+(4) The AER must, on or as soon as practicable after the date of the first adjustment and before each subsequent adjustment, publish on its website the criminal penalty amounts that apply on and from the date of the adjustment. However, a failure by the AER to do so does not invalidate an adjustment.
+(5) A criminal penalty amount that is adjusted under this section applies to a breach of a provision that occurs or is alleged to occur on or after the date of the adjustment.
+(6) In this section—
+criminal penalty amount means any amount, specified in this Law, which is the maximum monetary penalty that may be imposed on conviction for the commission of an offence against this Law.
 Division 5—Judicial review of decisions under this Law, the National Regulations and the Rules
 301—Definition
 In this Division—
@@ -2921,7 +3019,7 @@ breach provision means an offence provision, a civil penalty provision or a cond
 (2) An officer of a corporation may be proceeded against under a breach provision pursuant to this section whether or not the corporation has been proceeded against under the provision.
 (3) Nothing in this section affects the liability of a corporation for a contravention of a breach provision.
 305—Corporations also in breach if officers and employees are in breach
-If an officer or employee of a corporation commits an act in their capacity as officer or employee of the corporation that would, if that act were committed by the corporation, constitute a breach of a provision of this Law, the National Regulations or the Rules, the corporation is to be taken to have contravened that provision.
+If an officer or employee of a corporation commits an act, which is within the scope of the actual or apparent authority of the officer or employee, that would, if that act were committed by the corporation, constitute a breach of a provision of this Law, the National Regulations or the Rules, the corporation is to be taken to have contravened that provision.
 Division 7—Application of provisions of NGL
 306—Tribunal review of information disclosure decision
 (1) This section applies to a decision to disclose information made by the AER under section 214.
@@ -3048,6 +3146,14 @@ compliance with that procedure is taken to satisfy any requirements of this Law 
 (b) otherwise exceed the legislative power of the Legislature of this jurisdiction,
 that provision is to be taken instead to confer on the officer or body a discretion to perform the function or exercise the power.
 (4) This section does not limit the effect that a provision of this Law or the Rules would validly have apart from this section.
+321—Penalty privilege
+If an individual has a privilege against self‑exposure to a penalty, other than for a criminal offence, the individual is not excused from doing any of the following on that ground:
+(a) providing information under this Law, the National Regulations or the Rules;
+(b) producing a document under this Law, the National Regulations or the Rules;
+(c) providing evidence under this Law, the National Regulations or the Rules;
+(d) answering a question under this Law, the National Regulations or the Rules.
+322—Court may grant relief from liability
+If in any proceedings under this Law in which a person, other than a body corporate, may be liable for an offence or a civil penalty it appears to the Court that the person acted honestly and reasonably and, having regard to all the circumstances of the case, ought fairly to be excused, the Court may relieve the person either wholly or partly from liability on such terms as the Court thinks fit.
 Schedule 1—Savings and transitionals
 Part 1—Transitional provision related to AEMC rule making powers
 1—AEMC rule making powers
