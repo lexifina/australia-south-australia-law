@@ -4,7 +4,7 @@ Part 2—Treason
 Part 3—Offences against the person etc
 Division 1—Homicide
 Division 1A—Criminal neglect etc
-Division 2—Defence of life and property
+Division 2—Defences
 Division 3—Miscellaneous
 Division 4—Unlawful threats
 Division 5—Stalking
@@ -94,6 +94,5 @@ Division 2—Attempts
 Division 3—Assaults with intent
 Division 4—Preparatory conduct
 Division 5—Apprehension of offenders
-Division 13—Abolition of presumption of marital coercion
 Division 14—Provision as to persons convicted of offence
 Part 12—Regulations
