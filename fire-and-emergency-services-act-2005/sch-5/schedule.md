@@ -27,6 +27,7 @@ Schedule 5—Regulations
 (a) the prevention, control, suppression, containment, mitigation or extinction of fire, including so as to regulate or prohibit any activity, practice or act, or the use of any plant, equipment, apparatus or device (either absolutely or in prescribed circumstances and including so as to provide for the imposition of any conditions or requirements); or
 (b) the prevention or mitigation of, or the means of dealing with, other emergencies; or
 (c) the safety of life or property in the event of a fire or other emergency.
+7A Any matter relevant to the establishment or operations of industry brigades.
 8 Any matter relevant to the operation, maintenance or inspection of equipment by a body within the emergency services sector, the members of such a body, or councils.
 9 Regulate the design, construction, maintenance and use of fire alarms and other equipment or facilities associated with dealing with any fire or other emergency.
 10 The prescription of any form for the purposes of this Act.

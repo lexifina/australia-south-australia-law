@@ -29,7 +29,9 @@ Division 2—Functions and powers
 Division 3—Chief Officer and staff
 Division 4—SACFS regions
 Division 5—Organisational structure
+Division 5A—Industry brigades
 Division 6—Command structure
+Division 6A—Fire and emergency safeguards
 Division 7—Fire prevention authorities—country areas and urban bushfire risk areas
 Subdivision 1—State Bushfire Coordination Committee
 Subdivision 2—Bushfire management committees
@@ -56,6 +58,7 @@ Division 1—Continuation of service
 Division 2—Functions and powers
 Division 3—Chief Officer and staff
 Division 4—SASES units
+Division 4A—Command structure
 Division 5—Powers and duties relating to emergencies
 Subdivision 1—Exercise of control at scene of emergency
 Subdivision 2—Exercise of powers at scene of emergency
