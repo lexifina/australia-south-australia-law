@@ -4,6 +4,7 @@ Part 3—Miscellaneous rules of evidence
 Division 1—Miscellaneous rules of evidence in general cases
 Division 2—Miscellaneous rules of evidence in sexual cases
 Division 3—Admissibility of evidence showing discreditable conduct or disposition
+Division 4—Evidence in proceedings where circumstances of family violence
 Part 4—Documents and other records
 Division 1—Public Acts and documents
 Division 2—Proof of convictions, acquittals etc
