@@ -44,9 +44,9 @@ civil penalty—see section 2AB;
 civil penalty provision—see section 2AA(1);
 conduct provision—see section 2AA(2);
 connection service means a connection service within the meaning of the Rules;
-constituent components, in relation to a reviewable regulatory decision, means the matters that constitute the elements or components of the reviewable regulatory decision and on which that reviewable regulatory decision is based and includes—
-(a) matters that go to the making of the reviewable regulatory decision; and
-(b) decisions made by the AER for the purposes of the reviewable regulatory decision;
+constituent components, in relation to a relevant regulatory decision, means the matters that constitute the elements or components of the relevant regulatory decision and on which that relevant regulatory decision is based and includes—
+(a) matters that go to the making of the relevant regulatory decision; and
+(b) decisions made by the AER for the purposes of the relevant regulatory decision;
 Court means—
 (a) where this Law applies as a law of the Commonwealth, the Federal Court;
 (b) where this Law applies as a law of a participating jurisdiction that is a State or a Territory, the Supreme Court of that jurisdiction;
@@ -120,7 +120,11 @@ listed corporation has the meaning given by section 9 of the Corporations Act 20
 market information instrument means a general market information order or a market information notice;
 market information notice means a notice under section 53(1)(b) requiring information from the person to whom the notice is addressed;
 market liquidity obligation means the obligation imposed by Rules made under Schedule 1 item 6G and includes matters related to the obligation;
-MCE means the Ministerial Council on Energy established on 8 June 2001, being the Council of Ministers with primary carriage of energy matters at national level comprising the Ministers representing the Commonwealth, the States, the Australian Capital Territory and the Northern Territory, acting in accordance with its own procedures;
+MCE means the group of Ministers (constituting or forming part of a Ministerial Council, Standing Council of Ministers or similar body (however described)) responsible for energy matters at a national level comprising 9 Ministers as follows:
+(a) 1 Minister from the Commonwealth;
+(b) 1 Minister from each State (totalling 6 Ministers);
+(c) 1 Minister from each Territory (totalling 2 Ministers),
+acting in accordance with its own procedures;
 MCE directed review means a review conducted by the AEMC under Division 4 of Part 4;
 MCE statement of policy principles means a statement of policy principles issued by the MCE under section 8;
 Ministerial Gazette notice means a notice in the South Australian Government Gazette published by the South Australian Minister on the recommendation of the MCE;
@@ -193,6 +197,10 @@ regulatory information notice has the meaning given by section 28D;
 regulatory obligation or requirement has the meaning given by section 2D;
 regulatory payment has the meaning given by section 2E;
 relevant court means any court of this jurisdiction;
+relevant regulatory decision means—
+(a) a network revenue or pricing determination that specifies a period to be a regulatory period for the purposes of the determination; or
+(b) any other determination (including a distribution determination or transmission determination) or decision of the AER that is prescribed by the Regulations to be a relevant regulatory decision,
+but does not include a decision of the AER made under Part 3 Division 6;
 reliability obligation civil penalty provision—see section 2AA(1a);
 reliability obligations means the obligations that apply to a liable entity under sections 14P(1) and (3) and 14R(2);
 Reliability Panel means the panel of persons established by the AEMC under section 38;
@@ -202,7 +210,6 @@ Retailer Reliability Obligation means—
 (a) Part 2A of this Law; and
 (b) the provisions of the Rules that relate to Part 2A of this Law;
 revenue and pricing principles means the principles set out in section 7A;
-reviewable regulatory decision has the meaning given by section 71A;
 Rule dispute means a dispute between persons in relation to a matter or thing arising under the Rules in respect of which the Rules provide that the dispute must be resolved in accordance with the Rules;
 shared network capability service means a service described in section 50D(1) as a shared network capability service;
 shared transmission service means a service classified under the Rules as a shared transmission service;
@@ -221,6 +228,7 @@ superseded jurisdictional rules means—
 (i) made or issued by the jurisdictional regulator; and
 (ii) in force immediately before the changeover date; and
 (iii) superseded by the AEMO amendments;
+Territory means the Australian Capital Territory or the Northern Territory;
 transmission determination means a determination of the AER under the Rules that regulates any 1 or more of the following:
 (a) the terms and conditions for the provision of electricity network services that are the subject of economic regulation under the Rules including the prices an owner, controller or operator of a transmission system charges or may charge for those services;
 (b) the revenue an owner, controller or operator of a transmission system earns or may earn from the provision by that owner, controller or operator of electricity network services that are the subject of economic regulation under the Rules;
@@ -354,8 +362,8 @@ Schedule 3 to this Law has effect.
 5—Participating jurisdictions
 (1) The following jurisdictions are participating jurisdictions for the purposes of this Law—
 (a) the State of South Australia; and
-(b) the Commonwealth, a Territory or a State (other than South Australia) if there is in force, as part of the law of that jurisdiction, a law that corresponds to Part 2 of the National Electricity (South Australia) Act 1996 of South Australia.
-(2) If a law of a participating jurisdiction referred to in subsection (1)(b) that corresponds to Part 2 of the National Electricity (South Australia) Act 1996 of South Australia ceases to be in force, the jurisdiction ceases to be a participating jurisdiction.
+(b) the Commonwealth, a Territory or a State (other than South Australia) if there is in force, as part of the law of that jurisdiction, a law that applies this Law or any part of this Law (whether by a law that corresponds to Part 2 of the National Electricity (South Australia) Act 1996 of South Australia or by some other law).
+(2) If a law of a participating jurisdiction referred to in subsection (1)(b) ceases to be in force, the jurisdiction ceases to be a participating jurisdiction.
 (3) If, at any time, all participating jurisdictions agree that a specified jurisdiction will cease to be a participating jurisdiction on a specified date, the jurisdiction ceases to be a participating jurisdiction on that date.
 (4) A notice must be published in the South Australian Government Gazette of the date on which a jurisdiction ceases to be a participating jurisdiction under subsection (2) or (3).
 (5) If the legislature of a participating jurisdiction enacts a law that, in the unanimous opinion of the Ministers of the other participating jurisdictions, is inconsistent with this Law, those other participating jurisdictions may give notice to the Minister of the first-mentioned participating jurisdiction to the effect that, if the inconsistent law remains in force as an inconsistent law for more than 6 months after the notice is given, the other participating jurisdictions may declare that the jurisdiction has ceased to be a participating jurisdiction.
@@ -363,7 +371,7 @@ Schedule 3 to this Law has effect.
 6—Ministers of participating jurisdictions
 (1) The Ministers of the participating jurisdictions are—
 (a) the Minister of the Crown in right of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia; and
-(b) the Ministers of the Crown in right of the other participating jurisdictions administering the laws of those jurisdictions that correspond to Part 2 of the National Electricity (South Australia) Act 1996 of South Australia.
+(b) the Ministers of the Crown in right of the other participating jurisdictions administering the laws of those jurisdictions that apply this Law or any part of this Law (whether by a law that corresponds to Part 2 of the National Electricity (South Australia) Act 1996 of South Australia or by some other law).
 6A—Nominated distributors
 (1) The regulations under the application Act of a participating jurisdiction (a local regulation) may—
 (a) nominate an entity, being an entity that is licensed or otherwise authorised under the jurisdictional electricity legislation of that jurisdiction to operate a distribution system but that is not a regulated distribution system operator (within the meaning of this Law) in respect of that distribution system, as an entity to which this section applies (the nominated distributor); and
@@ -693,12 +701,9 @@ Division 1—General
 are, in accordance with the Rules—
 (vi) informed of material issues under consideration by the AER; and
 (vii) given a reasonable opportunity to make submissions in respect of the determination before it is made; and
-(c) in relation to making a reviewable regulatory decision, specify—
+(c) in relation to making a relevant regulatory decision, specify—
 (i) the manner in which the constituent components of the decision relate to each other; and
-(ii) the manner in which that interrelationship has been taken into account in the making of the reviewable regulatory decision; and
-(d) if the AER is making a reviewable regulatory decision and there are 2 or more possible reviewable regulatory decisions that will or are likely to contribute to the achievement of the national electricity objective—
-(i) make the decision that the AER is satisfied will or is likely to contribute to the achievement of the national electricity objective to the greatest degree (the preferable reviewable regulatory decision); and
-(ii) specify reasons as to the basis on which the AER is satisfied that the decision is the preferable reviewable regulatory decision.
+(ii) the manner in which that interrelationship has been taken into account in the making of the relevant regulatory decision.
 (2) In addition, the AER—
 (a) must take into account the revenue and pricing principles—
 (i) when exercising a discretion in making those parts of a distribution determination or transmission determination relating to direct control network services; or
@@ -1217,7 +1222,6 @@ Note—
 See also section 28ZC about what the AER must and may do after receiving submissions.
 28I—Publication requirements for general regulatory information orders
 (1) A general regulatory information order made under section 28F(1)(b) must be published on the AER's website as soon as practicable after it is made.
-(2) Notice of the making of a general regulatory information order must be published in a newspaper circulating generally throughout Australia as soon as practicable after the general regulatory information order is made.
 28J—Opportunity to be heard before regulatory information notice is served
 (1) The AER, before serving a regulatory information notice, must—
 (a) notify, in writing, the regulated network service provider, or the related provider, on whom the AER intends to serve the regulatory information notice of its intention to do so; and
@@ -1526,17 +1530,6 @@ See also section 68A of the National Gas Law and section 219 of the National Ene
 (3) This section does not limit any other provision of this Law that provides for the use of information obtained under this Law or the Rules.
 Note—
 See also section 68B of the National Gas Law and section 220 of the National Energy Retail Law.
-28ZJ—Record of reviewable regulatory decisions
-(1) The AER must, in making a reviewable regulatory decision, keep a written record of decision related matter.
-(2) In this section—
-decision related matter, in relation to a reviewable regulatory decision, means—
-(a) the decision and the written record of it and any written reasons for it; and
-(b) any document, proposal or information required or allowed under the Rules to be submitted as part of the process for the making of the decision; and
-(c) any written submissions made to the AER after the proposal to which the decision relates was lodged by a network service provider and before the decision was made; and
-(d) any reports and materials (including (but not limited to) consultant reports, data sets, models or other documents) considered by the AER in making the decision; and
-(e) any draft of the decision that has been released for consultation purposes; and
-(f) any submissions on the draft of the decision or the decision itself considered by the AER; and
-(g) the transcript of any hearing (if any) conducted by the AER for the purpose of making the decision.
 Part 4—Functions and powers of the Australian Energy Market Commission
 Division 1—General
 29—Functions and powers of the AEMC
@@ -1661,7 +1654,7 @@ The terms of reference may require a MCE directed review to be conducted—
 (ii) to develop appropriate and relevant criteria, or an appropriate and relevant methodology, for the purpose of the required assessment;
 (f) give the AEMC other specific directions in respect of the conduct of a MCE directed review.
 43—Notice of MCE directed review
-(1) The AEMC must publish notice of a MCE directed review on its website and in a newspaper circulating generally throughout Australia.
+(1) The AEMC must publish notice of a MCE directed review on its website.
 (2) The AEMC must publish a further such notice if a term of reference or a requirement or direction relating to the MCE directed review is varied.
 44—Conduct of MCE directed review
 Subject to any requirement or direction of the MCE, a MCE directed review—
@@ -1904,9 +1897,7 @@ Division 5—Information gathering
 (1) Before making a final decision to make a general market information order, AEMO must—
 (a) invite persons of the class to which the proposed order is addressed to make representations about the terms of the proposed order within a period (at least 20 business days) specified in the invitation; and
 (b) consider any written representations made in response to the invitation within the specified period.
-(2) As soon as practicable after a general market information order is made—
-(a) the order must be published on AEMO's website; and
-(b) notice of the making of the order must be published in a newspaper circulating generally throughout Australia.
+(2) A general market information order must be published on AEMO's website as soon as practicable after it is made.
 53B—Service of market information notice
 (1) Before serving a market information notice, AEMO must—
 (a) give the person on whom AEMO intends to serve the market information notice (the respondent) written notice of its intention to do so; and
@@ -2028,8 +2019,8 @@ AEMO is authorised to disclose information given to it in confidence, in complia
 (ii) is of the opinion required by subsection (1).
 (7) For the purposes of this section, the disclosure of anything that is already in the public domain at the time AEMO wishes to disclose it cannot cause detriment to any person referred to in subsection (2) or (3).
 (7a) Despite anything to the contrary in this Law, this section is taken to be an exhaustive statement of the requirements of the natural justice hearing rule in relation to—
-(a) AEMO's decision under subsection (1) to disclose information given in confidence to AEMO; and
-(b) without limiting paragraph (a), if AEMO's decision under subsection (1) is to disclose the confidential information, AEMO's opinion—
+(a) AEMO's decision under subsection (1) to disclose protected information; and
+(b) without limiting paragraph (a), if AEMO's decision under subsection (1) is to disclose the protected information, AEMO's opinion—
 (i) that the disclosure of the information would not cause detriment to the person who gave the information or, if the person who gave the information in turn received the information from another person, that other person (as the case may be); or
 (ii) that, although the disclosure of the information would cause detriment to such a person, the public benefit in disclosing it outweighs that detriment.
 (8) In this section—
@@ -2060,7 +2051,7 @@ Part 5A—Functions and powers of Minister of this participating jurisdiction
 (1) The Minister of this participating jurisdiction has the functions and powers conferred on him or her under this Law, the Regulations or the Rules.
 (2) The Minister of this participating jurisdiction has power to do all things necessary or convenient to be done for or in connection with the performance of his or her functions.
 (3) In this section—
-Minister of this participating jurisdiction means the Minister that administers the Act of this jurisdiction that applies this Law as a law of this jurisdiction.
+Minister of this participating jurisdiction means the Minister that administers the Act of this jurisdiction that applies this Law or a part of this Law as a law of this jurisdiction—see section 6(1)(b).
 Part 5B—Functions and powers of Tribunal
 57B—Functions and powers of Tribunal under this Law
 (1) The Tribunal has the functions and powers conferred on it under Division 3A of Part 6 and any Regulations made for the purposes of that Division.
@@ -2168,24 +2159,9 @@ A person who attempts to commit a breach of a civil penalty provision commits a 
 If a person is ordered to pay a civil penalty, the penalty is payable to the Commonwealth.
 Division 2A—Proceedings before, and awards etc of, Dispute resolution panels
 69A—Commercial Arbitration Acts apply to proceedings before Dispute resolution panels
-(1) The procedural Parts of the Commercial Arbitration Act of this jurisdiction apply to the hearing of a Rule dispute and decision or determination of a Dispute resolution panel—
-(a) as if—
-(i) the Rules providing for a Rule dispute were an arbitration agreement within the meaning of that Act; and
-(ia) the referral of the Rule dispute to a Dispute resolution panel in accordance with the Rules were a referral to arbitration in accordance with an arbitration agreement; and
-(ii) a reference in those Parts to an arbitrator or umpire were a reference to the Dispute resolution panel; and
-(iii) a reference to a party to an arbitration agreement, or in an arbitration proceeding, in those Parts were a reference to a party to the Rule dispute; and
-(iv) in those Parts for "unless otherwise agreed in writing by the parties to the arbitration agreement" there were substituted "unless the Rules provide otherwise"; and
-(v) a reference to an award of an arbitrator or umpire in those Parts were a reference to a decision or determination of a Dispute resolution panel; and
-(b) with any other alterations and modifications that are necessary.
+(1) Subject to the modifications prescribed by the Regulations, the procedural provisions of the Commercial Arbitration Act of this jurisdiction apply to the hearing of a Rule dispute and decision or determination of a Dispute resolution panel.
 (2) In this section—
-procedural Parts of the Commercial Arbitration Act of this jurisdiction means—
-(a) if this Law is applied as a law of the State of New South Wales and a Rule dispute is heard and determined in that State, Parts 3, 4 and 6 of the Commercial Arbitration Act 1984 of New South Wales;
-(b) if this Law is applied as a law of the State of Victoria and a Rule dispute is heard and determined in that State, Parts III, IV and VI of the Commercial Arbitration Act 1984 of Victoria;
-(c) if this Law is applied as a law of the State of Queensland and a Rule dispute is heard and determined in that State, Parts 3, 4 and 6 of the Commercial Arbitration Act 1990 of Queensland;
-(d) if this Law is applied as a law of the State of South Australia and a Rule dispute is heard and determined in that State, Parts 3, 4 and 6 of the Commercial Arbitration and Industrial Referral Agreements Act 1986 of South Australia;
-(e) if this Law is applied as a law of Tasmania and a Rule dispute is heard and determined in that State, Parts III, IV and VI of the Commercial Arbitration Act 1986 of Tasmania;
-(f) if this Law is applied as a law of the Australian Capital Territory and a Rule dispute is heard and determined in that Territory, Parts 3, 4 and 6 of the Commercial Arbitration Act 1986 of the Australian Capital Territory;
-(g) if this Law is applied as a law of another participating jurisdiction and a Rule dispute is heard and determined in that other participating jurisdiction, the Parts of an Act of that jurisdiction or an Act of another participating jurisdiction (as the case requires) prescribed by the Regulations as corresponding to Parts 3, 4 and 6 of the Commercial Arbitration and Industrial Referral Agreements Act 1986 of South Australia.
+procedural provisions of the Commercial Arbitration Act of this jurisdiction means the provisions prescribed by the Regulations for the purposes of this section.
 Division 3—Judicial review of decisions and determinations under this Law, the Regulations and the Rules
 70—Applications for judicial review
 (1) A person aggrieved by—
@@ -2200,230 +2176,19 @@ The AER is subject to judicial review under the Administrative Decisions (Judici
 person aggrieved includes a person whose interests are adversely affected.
 71—Appeals on questions of law from decisions or determinations of Dispute resolution panels
 (1) A person who is a party to a Rule dispute may appeal to the Court, on a question of law, against a decision or determination of a Dispute resolution panel.
-(2) The review provisions of the Commercial Arbitration Act of this jurisdiction apply to a decision or determination of a Dispute resolution panel—
-(a) as if—
-(i) the Rules providing for a Rule dispute were an arbitration agreement within the meaning of that Act; and
-(ii) a reference to an arbitration in those provisions were a reference to the hearing of the Rule dispute; and
-(iii) a reference in those provisions to an award of an arbitrator or umpire were a reference to a decision or determination of a Dispute resolution panel; and
-(iv) a reference to a party to an arbitration agreement, or in an arbitration proceeding, in those provisions were a reference to a party to the Rule dispute; and
-(v) sections 40 and 41 were omitted; and
-(b) with any other alterations and modifications that are necessary.
+(2) Subject to the modifications prescribed by the Regulations, the review provisions of the Commercial Arbitration Act of this jurisdiction apply to a decision or determination of a Dispute resolution panel.
 (3) In this section—
-review provisions of the Commercial Arbitration Act of this jurisdiction means—
-(a) if this Law is applied as a law of the State of New South Wales and a Rule dispute is heard and determined in that State, Part 5 of the Commercial Arbitration Act 1984 of New South Wales;
-(b) if this Law is applied as a law of the State of Victoria and a Rule dispute is heard and determined in that State, Part V of the Commercial Arbitration Act 1984 of Victoria;
-(c) if this Law is applied as a law of the State of Queensland and a Rule dispute is heard and determined in that State, Part 5 of the Commercial Arbitration Act 1990 of Queensland;
-(d) if this Law is applied as a law of the State of South Australia and a Rule dispute is heard and determined in that State, Part 5 of the Commercial Arbitration and Industrial Referral Agreements Act 1986 of South Australia;
-(e) if this Law is applied as a law of Tasmania and a Rule dispute is heard and determined in that State, Part V of the Commercial Arbitration Act 1986 of Tasmania;
-(f) if this Law is applied as a law of the Australian Capital Territory and a Rule dispute is heard and determined in that Territory, Part 5 of the Commercial Arbitration Act 1986 of the Australian Capital Territory;
-(g) if this Law is applied as a law of another participating jurisdiction and a Rule dispute is heard and determined in that other participating jurisdiction, the Parts of an Act of that jurisdiction or an Act of another participating jurisdiction (as the case requires) prescribed by the Regulations as corresponding to Part 5 of the Commercial Arbitration and Industrial Referral Agreements Act 1986 of South Australia.
+review provisions of the Commercial Arbitration Act of this jurisdiction means the provisions prescribed by the Regulations for the purposes of this section.
 Division 3A—Merits review and other non-judicial review
 Subdivision 1—Interpretation
 71A—Definitions
 In this Division—
-affected or interested person or body means—
-(a) a regulated network service provider to whom the reviewable regulatory decision applies;
-(b) a network service provider, network service user, prospective network service user or end user whose commercial interests are materially affected by the reviewable regulatory decision;
-(c) a user or consumer association;
-(d) a reviewable regulatory decision process participant;
 applicant means—
-(a) an affected or interested person or body who has been granted leave to apply for review by the Tribunal under Subdivision 2; or
 (b) a person who makes an application under section 71S;
-average annual regulated revenue means the annual average of regulated revenue calculated for the regulatory period of a network revenue or pricing determination;
 information disclosure decision means—
 (a) a decision to disclose information made by the AER under section 28ZB; or
 (b) a decision to disclose information made by AEMO under section 54H;
-intervener means a person or body referred to in section 71J, 7IK or 71L who has intervened in a review under Subdivision 2 with the leave of the Tribunal or otherwise;
-materially preferable NEO decision—see section 71P(2a)(c);
-prospective user means a person who—
-(a) is a Registered participant, or is capable of becoming a Registered participant; and
-(b) seeks or wishes to be provided with an electricity service,
-but does not include a network service provider;
-regulatory period means the period specified in a network revenue or pricing determination to be the regulatory period;
-regulated revenue means the total revenue earned or to be earned by a regulated network service provider—
-(a) under; and
-(b) during the regulatory period of,
-a network revenue or pricing determination through the provision of the direct control network services to which that determination applies;
-reviewable regulatory decision means—
-(a) a network revenue or pricing determination that sets a regulatory period; or
-(b) any other determination (including a distribution determination or transmission determination) or decision of the AER under the Rules that is prescribed by the Regulations to be a reviewable regulatory decision,
-but does not include a decision of the AER made under Division 6 of Part 3;
-reviewable regulatory decision process participant means a person or body who, in relation to a reviewable regulatory decision that is being reviewed—
-(a) made a submission or comment in relation to the making of that decision within the time required under this Law or the Rules following an invitation to do so by the AER; or
-(b) made a submission or comment in relation to the making of that decision outside the time required under this Law or the Rules following an invitation to do so by the AER but which the AER chose to take into account in making that decision,
-and includes a Minister of a participating jurisdiction;
-review under this Division means a review under Subdivision 2 or Subdivision 3;
-small/medium user or consumer intervener means a user or consumer intervener consisting of an association or group of which—
-(a) the members are only small to medium users or end users; or
-(b) an object or purpose is to promote the interests of small to medium users or end users;
-small to medium user or end user means a user or end user whose annual consumption of electricity does not exceed a level (expressed in megawatt hours) fixed by Regulation for the purposes of this definition;
-user means a person who—
-(a) is a Registered participant, or is capable of becoming a Registered participant; and
-(b) is provided with an electricity service,
-but does not include a network service provider;
-user or consumer association means an association or body (whether incorporated or unincorporated)—
-(a) the members of which include more than 1 user, prospective user or end user; and
-(b) that represents and promotes the interests of those members in relation to the provision of electricity services;
-user or consumer interest group means an association or body (whether incorporated or unincorporated)—
-(a) that has, as an object or purpose, the object or purpose of representing and promoting the interests of users or prospective users or end users of electricity services; but
-(b) the members of which need not include a user, prospective user or end user;
-user or consumer intervener means—
-(a) a user or consumer association; or
-(b) a user or consumer interest group,
-that has made a submission or comment in relation to the making of a reviewable regulatory decision following an invitation to do so by the AER under this Law or the Rules.
-Subdivision 2—Merits review for reviewable regulatory decisions
-71B—Applications for review
-(1) An affected or interested person or body, with the leave of the Tribunal, may apply to the Tribunal for a review of a reviewable regulatory decision.
-(2) An application must—
-(a) be made in the form and manner determined by the Tribunal; and
-(b) specify the grounds for review being relied on.
-71C—Grounds for review
-(1) An application under section 71B(1) may be made only on 1 or more of the following grounds:
-(a) the AER made an error of fact in its findings of facts, and that error of fact was material to the making of the decision;
-(b) the AER made more than 1 error of fact in its findings of facts, and that those errors of fact, in combination, were material to the making of the decision;
-(c) the exercise of the AER's discretion was incorrect, having regard to all the circumstances;
-(d) the AER's decision was unreasonable, having regard to all the circumstances.
-(1a) An application under section 71B(1) must also specify the manner in which a determination made by the Tribunal varying the reviewable regulatory decision, or setting aside the reviewable regulatory decision and a fresh decision being made by the AER following remission of the matter to the AER by the Tribunal, on the basis of 1 or more grounds raised in the application, either separately or collectively, would, or would be likely to, result in a materially preferable NEO decision.
-(2) It is for the applicant to establish a ground listed in subsection (1) and the matter referred to in subsection (1a).
-71D—By when an application must be made
-An application under section 71B(1) in respect of a reviewable regulatory decision must be made no later than 15 business days after the reviewable regulatory decision is published in accordance with this Law or the Rules.
-71E—Tribunal must not grant leave unless serious issue to be heard and determined etc
-Subject to this Subdivision, the Tribunal must not grant leave to apply under section 71B(1) unless it appears to the Tribunal—
-(a) that there is a serious issue to be heard and determined as to whether a ground for review set out in section 71C(1) exists; and
-(b) that the applicant has established a prima facie case that a determination made by the Tribunal varying the reviewable regulatory decision, or setting aside the reviewable regulatory decision and a fresh decision being made by the AER following remission of the matter to the AER by the Tribunal, on the basis of 1 or more grounds raised in the application, either separately or collectively, would, or would be likely to, result in a materially preferable NEO decision.
-71F—Leave must be refused if application is about an error relating to revenue amounts below specified threshold
-(1) This section applies if—
-(a) leave to apply under section 71B(1) is in relation to a reviewable regulatory decision that is a network revenue or pricing determination; and
-(b) the ground for review relied on by the applicant relates to the amount of revenue that may be earned by a regulated network service provider that is specified in or derived from that decision.
-(2) Despite section 71E, the Tribunal must not grant leave to apply under section 71B(1) even if there is a serious issue to be heard and determined as to whether a ground for review set out in section 71C(1) exists unless the amount that is specified in or derived from the decision exceeds the lesser of $5 000 000 or 2% of the average annual regulated revenue of the regulated network service provider.
-71G—Tribunal must refuse to grant leave if submission not made or is made late
-The Tribunal must not grant leave to apply under section 71B(1) to a person or body referred to in paragraph (b) or (c) of the definition of affected or interested person or body if that person or body—
-(a) did not make a submission or comment in relation to the making of the decision following an invitation by the AER to do so under this Law or the Rules; or
-(b) did make a submission or comment in relation to the making of the decision following an invitation by the AER to do so under this Law or the Rules but—
-(i) that submission was not made within the time required under this Law or the Rules following that invitation; and
-(ii) the AER chose not to take that submission or comment into account in making the decision.
-71H—Tribunal may refuse to grant leave to service provider in certain cases
-(1) This section applies—
-(a) in relation to an application under section 71B(1) by a regulated network service provider for a review of a reviewable regulatory decision that applies to the service provider; and
-(b) if the Tribunal is satisfied of the matters set out in section 71E or 71F to grant leave to apply under section 71B(1).
-(2) Despite being satisfied of the matters set out in section 71E or 71F to grant leave to apply under section 71B(1), the Tribunal may refuse to grant leave to the regulated network service provider if the Tribunal is satisfied the service provider—
-(a) without reasonable excuse—
-(i) failed to comply with a request (including a request for relevant information), or a direction, of the AER made under this Law or the Rules for the purpose of making the decision; or
-(ii) conducted itself in a manner that resulted in the making of the decision of the AER being delayed; or
-(b) misled, or attempted to mislead, the AER on a matter relevant to the AER's decision.
-71I—Effect of application on operation of reviewable regulatory decisions
-An application under section 71B(1)—
-(a) does not stay the operation of a network revenue or pricing determination;
-(b) stays the operation of any other reviewable regulatory decision on the granting of leave to apply by the Tribunal, unless the Tribunal otherwise orders.
-71J—Intervention by others in a review without leave
-Only the following persons may intervene in a review under this Subdivision without leave of the Tribunal:
-(a) a regulated network service provider to whom the reviewable regulatory decision being reviewed applies (if that provider is not the applicant);
-(b) a Minister of a participating jurisdiction.
-7IK—Leave for reviewable regulatory decision process participants
-(1) The Tribunal must grant leave to a person or body to intervene in a review under this Subdivision if that person or body is a reviewable regulatory decision process participant (other than a user or consumer intervener).
-71L—Leave for user or consumer intervener
-(1) A user or consumer intervener may apply to the Tribunal for leave to intervene in a review of a reviewable regulatory decision under this Subdivision.
-(2) The Tribunal may grant leave to a user or consumer intervener to intervene in a review under this Subdivision.
-(3) Without limiting subsection (2), the Tribunal may grant leave to a user or consumer intervener to intervene in a review under this Division if the Tribunal is satisfied—
-(a) the user or consumer intervener, in its application for leave to intervene, raises a matter that will not be raised by the AER or the applicant; or
-(b) the information or material the user or consumer intervener wishes to present, or the submissions the user or consumer intervener wishes to make, in the review is likely to be better presented if submitted by the user or consumer intervener rather than another party to the review; or
-(c) the interests of the user or consumer intervener or its members are affected by the decision being reviewed.
-(4) For the purposes of subsection (3)(c)—
-(a) the interests of a user or consumer intervener are to be taken to be affected if the reviewable regulatory decision being reviewed relates to an object or purpose of the user or consumer intervener;
-(b) the interests of a user or consumer intervener are not to be taken to not be affected only because those interests do not coincide with the interests of the applicant.
-71M—Interveners may raise new grounds for review
-(1) An intervener may raise in a review under this Subdivision any of the grounds specified in section 71C even if the ground that is raised by the intervener is not raised by the applicant.
-(1a) If an intervener raises a new ground for review under subsection (1), the intervener must also specify the manner in which a determination made by the Tribunal varying the reviewable regulatory decision, or setting aside the reviewable regulatory decision and a fresh decision being made by the AER following remission of the matter to the AER by the Tribunal, on the basis of 1 or more grounds raised in the notice of intervention or in the application for review, either separately or collectively, would, or would be likely to, result in a materially preferable NEO decision.
-(2) To avoid doubt, it is for the intervener to establish the ground referred to in subsection (1) and the matter referred to in subsection (1a).
-71N—Parties to a review under this Subdivision
-The parties to a review under this Subdivision are—
-(a) the applicant; and
-(b) AER; and
-(c) an intervener.
-71O—Matters that may and may not be raised in a review
-(1) The AER, in a review under this Subdivision, may—
-(a) respond to any matter raised by the applicant or an intervener; and
-(b) raise any other matter that relates to—
-(i) a ground for review; or
-(ii) a matter raised in support of a ground for review; or
-(iii) a matter relevant to the issues to be considered under section 71P(2a) and (2b).
-(2) In a review under this Subdivision, the following provisions apply in relation to a person or body, other than the AER (and so apply at all stages of the proceedings before the Tribunal):
-(a) a regulated network service provider to whom the reviewable regulatory decision being reviewed applies may not raise in relation to the issue of whether a ground for review exists or has been made out any matter that was not raised and maintained by the provider in submissions to the AER before the reviewable regulatory decision was made;
-(b) a regulated network service provider whose commercial interests are materially affected by the reviewable regulatory decision being reviewed may not raise in relation to the issue of whether a ground for review exists or has been made out any matter that was not raised and maintained by the provider in submissions to the AER before the reviewable regulatory decision was made;
-(c) an affected or interested person or body (other than a provider under paragraph (a) or (b)) may not raise in relation to the issue of whether a ground for review exists or has been made out any matter that was not raised by the person or body in a submission to the AER before the reviewable regulatory decision was made;
-(d) subject to paragraphs (a), (b) and (c)—
-(i) the applicant, or an intervener who has raised a new ground for review under section 71M, may raise any matter relevant to the issues to be considered under section 71P(2a) and (2b); and
-(ii) any person or body, other than the applicant or an intervener who has raised a new ground for review under section 71M, may not raise any matter relevant to the issues to be considered under section 71P(2a) and (2b) unless it is in response to a matter raised by—
-(A) the AER under subsection (1)(b)(iii); or
-(B) the applicant under subparagraph (i); or
-(C) an intervener under subparagraph (i).
-(3) For the purposes of subsection (2)(d)—
-(a) a reference to an applicant includes a reference to a person or body who has applied to the Tribunal for leave to apply for a review under this Subdivision; and
-(b) a reference to an intervener includes a reference to a person or body who has applied to the Tribunal for leave to intervene in a review under this Subdivision.
-71P—Tribunal must make determination
-(1) If, following an application, the Tribunal grants leave in accordance with section 71B(1), the Tribunal must make a determination in respect of the application.
-Note—
-See section 71Q for the time limit within which the Tribunal must make its determination.
-(2) Subject to subsection (2a), a determination under this section may—
-(a) affirm the reviewable regulatory decision; or
-(b) vary the reviewable regulatory decision; or
-(c) set aside the reviewable regulatory decision and remit the matter back to the AER to make the decision again in accordance with any direction or recommendation of the Tribunal.
-(2a) Despite subsection (2), the Tribunal may only make a determination—
-(a) to vary the reviewable regulatory decision under subsection (2)(b); or
-(b) to set aside the reviewable regulatory decision and remit the matter back to the AER under subsection (2)(c),
-if—
-(c) the Tribunal is satisfied that to do so will, or is likely to, result in a decision that is materially preferable to the reviewable regulatory decision in making a contribution to the achievement of the national electricity objective (a materially preferable NEO decision) (and if the Tribunal is not so satisfied the Tribunal must affirm the decision); and
-(d) in the case of a determination to vary the reviewable regulatory decision—the Tribunal is satisfied that to do so will not require the Tribunal to undertake an assessment of such complexity that the preferable course of action would be to set aside the reviewable regulatory decision and remit the matter to the AER to make the decision again.
-(2b) In connection with the operation of subsection (2a) (and without limiting any other matter that may be relevant under this Law)—
-(a) the Tribunal must consider how the constituent components of the reviewable regulatory decision interrelate with each other and with the matters raised as a ground for review; and
-(b) without limiting paragraph (a), the Tribunal must take into account the revenue and pricing principles (in the same manner in which the AER is to take into account these principles under section 16); and
-(c) the Tribunal must, in assessing the extent of contribution to the achievement of the national electricity objective, consider the reviewable regulatory decision as a whole; and
-(d) the following matters must not, in themselves, determine the question about whether a materially preferable NEO decision exists:
-(i) the establishment of a ground for review under section 71C(1);
-(ii) consequences for, or impacts on, the average annual regulated revenue of a regulated network service provider;
-(iii) that the amount that is specified in or derived from the reviewable regulatory decision exceeds the amount specified in section 71F(2).
-(2c) If the Tribunal makes a determination under subsection (2)(b) or (c), the Tribunal must specify in its determination—
-(a) the manner in which it has taken into account the interrelationship between the constituent components of the reviewable regulatory decision and how they relate to the matters raised as a ground for review as contemplated by subsection (2b)(a); and
-(b) in the case of a determination to vary the reviewable regulatory decision—the reasons why it is proceeding to make the variation in view of the requirements of subsection (2a)(d).
-(3) For the purposes of making a determination of the kind in subsection (2)(a) or (b), the Tribunal may perform all the functions and exercise all the powers of the AER under this Law or the Rules.
-(5) A determination by the Tribunal affirming, varying or setting aside the reviewable regulatory decision is, for the purposes of this Law (other than this Part), to be taken to be a decision of the AER.
-71Q—Target time limit for Tribunal for making a determination under this Subdivision
-(1) The Tribunal must use its best endeavours to make a determination in respect of the application for review under this Subdivision—
-(a) within 3 months after the Tribunal grants leave in accordance with this Subdivision (the standard period); or
-(b) if the standard period is extended under this section—that period as extended.
-(2) If the Tribunal is unable to make a determination in respect of the application within the standard period, or that period as extended, the Tribunal must, by notice in writing, extend the standard period or that period by a specified period.
-(3) The Tribunal must give a copy of the notice to—
-(a) the applicant; and
-(b) every other party to the application.
-(4) The Tribunal may extend the standard period, or that period as extended, more than once.
-(5) If the Tribunal extends a period, it must publish a notice in a newspaper circulating generally throughout Australia and on its website—
-(a) stating that it has done so; and
-(b) specifying a date by which it must now use its best endeavours to make the determination.
-71R—Matters to be considered by Tribunal in making determination
-(1) Subject to this section, the Tribunal, in acting under this Division with respect to a reviewable regulatory decision—
-(a) must not consider any matter other than review related matter (and any matter arising as a result of consultation under paragraph (b)); and
-(b) must, before making a determination, take reasonable steps to consult with (in such manner as the Tribunal thinks appropriate)—
-(i) network service users and prospective network service users of the relevant services; and
-(ii) any user or consumer associations or user or consumer interest groups,
-that the Tribunal considers have an interest in the determination, other than a user or consumer association or a user or consumer interest group that is a party to the review.
-(3) If in a review the Tribunal is of the view that a ground for review has been made out, the Tribunal may, on application by a party to the review, allow new information or material to be submitted if the party can establish to the satisfaction of the Tribunal that the information or material—
-(a) was publicly available or known to be available to the AER when it was making the reviewable regulatory decision; or
-(b) would assist the Tribunal on any aspect of the determination to be made and was not unreasonably withheld from the AER when it was making the reviewable regulatory decision,
-and was (in the opinion of the Tribunal) information or material that the AER would reasonably have been expected to have considered when it was making the reviewable regulatory decision.
-(4) Subject to this Law, for the purpose of subsection (3)(b), information or material not provided to the AER following a request for that information or material by it under this Law or the Rules is to be taken to have been unreasonably withheld.
-(5) Subsection (4) does not limit what may constitute an unreasonable withholding of information or material.
-(5a) In addition, if in a review the Tribunal is of the view—
-(a) that a ground for review has been made out; and
-(b) that it would assist the Tribunal to obtain information or material under this subsection in order to determine whether a materially preferable NEO decision exists,
-the Tribunal may, on its own initiative, take steps to obtain that information or material (including by seeking evidence from such persons as it thinks fit).
-(5b) The action taken by a person acting in response to steps taken by the Tribunal under subsection (5a) must be limited to considering decision related matter under section 28ZJ.
-(6) In this section—
-review related matter means—
-(a) the application for review; and
-(b) a notice raising new grounds for review filed by an intervener; and
-(c) the submissions made to the Tribunal by the parties to the review; and
-(d) decision related matter under section 28ZJ; and
-(e) any other matter properly before the Tribunal in connection with the relevant proceedings.
+review under this Division means a review under Subdivision 3.
 Subdivision 3—Tribunal review of information disclosure decisions
 71S—Application for review
 (1) A person whose interests are adversely affected by an information disclosure decision may apply to the Tribunal for a review of the decision.
@@ -2453,37 +2218,18 @@ The member of the Tribunal presiding in the review may require the AER or AEMO (
 Subdivision 4—General
 71X—Costs in a review
 (1) Subject to this section, the Tribunal may order that a party to a review under this Division pay all or a specified part of the costs of another party to the review.
-(2) The Tribunal must not make an order requiring the AER or a small/medium user or consumer intervener to pay the costs of another party to the review unless the Tribunal considers that the AER or intervener has conducted their case in the review without due regard to—
-(a) the costs that would have to be incurred by another party to the review as a result of that conduct; or
-(b) the time required by—
-(i) the Tribunal to hear the review as a result of that conduct; or
-(ii) another party to prepare their case as a result of that conduct; or
-(c) in the case of an order relating to the AER—the submissions or arguments made to the Tribunal by another party.
-(3) The Tribunal may make an order requiring a user or consumer intervener (that is not a small/medium user or consumer intervener) that has intervened in the review to pay all or part of the costs of another party to the review if the Tribunal considers that the intervener has conducted their case in the review without due regard to—
+(2) The Tribunal must not make an order requiring the AER to pay the costs of another party to the review unless the Tribunal considers that the AER has conducted their case in the review without due regard to—
 (a) the costs that would have to be incurred by another party to the review as a result of that conduct; or
 (b) the time required by—
 (i) the Tribunal to hear the review as a result of that conduct; or
 (ii) another party to prepare their case as a result of that conduct; or
 (c) the submissions or arguments made to the Tribunal by another party.
 71Y—Amount of costs
-(1) If the Tribunal makes an order for costs in a review under this Division, other than an order for costs against a small/medium user or consumer intervener, the Tribunal may in that order fix the amount of costs payable by a party to the review on—
+(1) If the Tribunal makes an order for costs in a review under this Division, the Tribunal may in that order fix the amount of costs payable by a party to the review on—
 (a) a party and party basis; or
 (b) a solicitor and client basis; or
 (c) an indemnity basis; or
 (d) any other basis as the Tribunal may decide.
-(2) If the Tribunal makes an order for costs against a small/medium user or consumer intervener in favour of another party in a review under this Division, the order must be limited to the payment of the reasonable administrative costs (as determined by the Tribunal) of that other party.
-71YA—Costs not to be passed on
-(1) This section applies to any expenditure or cost that a network service provider incurs, or is forecast to incur, as a result of or incidental to a review under this Division, including costs awarded under section 71X.
-(2) A network service provider—
-(a) must not, for the purposes of a network revenue or pricing determination, include as part of its capital expenditure or operating expenditure any expenditure or cost to which this section applies; and
-(b) must not recover from end users or seek a pass through of any expenditure or cost to which this section applies.
-(3) This section applies despite any provision to the contrary in this Law, the Rules or a network revenue or pricing determination (and this section prevails to the extent of any inconsistency between such a provision and this section).
-71Z—Review of Division
-(1) The MCE must initiate a review of the Tribunal's role under this Division by 1 December 2016.
-(1a) The review will be undertaken by a person nominated by the MCE.
-(2) The MCE must specify the matters to be addressed in the review.
-(3) The person undertaking the review must, during the review, invite public comment and submissions about the matters to be addressed in the review.
-(4) The person undertaking the review must report, in writing, to the MCE on the outcome of the review by the date specified by the MCE.
 Division 3B—Enforcement of access determinations
 71ZA—Enforcement of access determinations
 (1) If the Court is satisfied, on the application of a party to an access determination, that another party to the determination has engaged, is engaging, or is proposing to engage in conduct that constitutes a contravention of the determination, the Court may make all or any of the following orders:
@@ -2640,7 +2386,7 @@ proposed Rule means—
 (b) a proposal for an AEMC initiated Rule; or
 (c) a proposed more preferable Rule;
 publish means—
-(a) in relation to a notice required to be published under this Part (except section 90 or 103)—publish in the South Australian Government Gazette, on the AEMC's website and in a newspaper circulating generally throughout Australia;
+(a) in relation to a notice required to be published under this Part (except section 90 or 103)—publish in the South Australian Government Gazette and on the AEMC's website;
 (ab) in relation to a decision under section 94(2)—publish on the AEMC's website and make available at the offices of the AEMC;
 (b) in relation to a proposed Rule referred to in section 95 and any other documents prescribed by the Regulations in relation to a proposed Rule referred to in section 95—publish on the AEMC's website and make available at the offices of the AEMC;
 (c) in relation to a draft Rule determination or final Rule determination—publish on the AEMC's website and make available at the offices of the AEMC;
@@ -3734,10 +3480,16 @@ Part 2—General
 (3) Without limiting subclause (2), this Law is not to be construed as imposing any duty on the Tribunal or AER to perform a function or exercise a power if the imposition of the duty would be in excess of the legislative power of the Legislature of this jurisdiction.
 Note—
 The term "function" is defined in clause 10 to include "duty".
-(4) In particular, if a provision of this Law appears to impose a duty on the Tribunal or AER to perform a function or exercise a power in matters or circumstances in which the assumption of the duty cannot be validly authorised under the law of the Commonwealth, or is otherwise ineffective, the provision is to be construed as if its operation were expressly confined to—
-(a) acts or omissions of corporations to which section 51(xx) of the Constitution of the Commonwealth applies; or
-(b) acts or omissions taking place in the course of, or in relation to, trade or commerce between this jurisdiction and places outside this jurisdiction (whether within or outside Australia); or
-(c) acts or omissions taking place outside Australia, or in relation to things outside Australia.
+(4) In particular, if a provision of this Law appears to impose a duty on a Commonwealth officer or body to perform a function or exercise a power, the duty is taken to be imposed by the provision to the extent to which imposing the duty—
+(a) is within the legislative powers of this jurisdiction; and
+(b) is consistent with the constitutional doctrines under the Constitution of the Commonwealth restricting the duties that may be imposed on a Commonwealth officer or body.
+(4a) To avoid doubt, a provision of this Law does not impose the duty on the Commonwealth officer or body to the extent to which imposing the duty would—
+(a) contravene any constitutional doctrine under the Constitution of the Commonwealth restricting the duties that may be imposed on a Commonwealth officer or body; or
+(b) otherwise exceed the legislative powers of this jurisdiction.
+(4b) If imposing on the Commonwealth officer or body the duty to do that thing would—
+(a) contravene any constitutional doctrine restricting the duties that may be imposed on a Commonwealth officer or body; or
+(b) otherwise exceed the legislative powers of both the State and the Commonwealth,
+the provision of this Law is taken instead to confer on the Commonwealth officer or body a power to do that thing at the discretion of the Commonwealth officer or body (as the case may require).
 (5) This clause does not limit the effect that a provision of this Law would validly have apart from this clause.
 2A—Changes of drafting practice not to affect meaning
 Differences of language between provisions of this Law or the Rules may be explicable by reference to changes of legislative drafting practice and do not necessarily imply a difference of meaning.
@@ -4267,10 +4019,16 @@ statutory instrument includes the Regulations, a reliability instrument, the rat
 (3) Without limiting subclause (2), the National Electricity Rules are not to be construed as imposing any duty on the Tribunal or AER to perform a function or exercise a power if the imposition of the duty would be in excess of the legislative power of the Legislature of this jurisdiction.
 Note—
 The term "function" is defined in clause 10 to include "duty".
-(4) In particular, if a provision of the National Electricity Rules appears to impose a duty on the Tribunal or AER to perform a function or exercise a power in matters or circumstances in which the assumption of the duty cannot be validly authorised under the law of the Commonwealth, or is otherwise ineffective, the provision is to be construed as if its operation were expressly confined to—
-(a) acts or omissions of corporations to which section 51(xx) of the Constitution of the Commonwealth applies; or
-(b) acts or omissions taking place in the course of, or in relation to, trade or commerce between this jurisdiction and places outside this jurisdiction (whether within or outside Australia); or
-(c) acts or omissions taking place outside Australia, or in relation to things outside Australia.
+(4) In particular, if a provision of the National Electricity Rules appears to impose a duty on a Commonwealth officer or body to perform a function or exercise a power, the duty is taken to be imposed by the provision to the extent to which imposing the duty—
+(a) is within the legislative powers of this jurisdiction; and
+(b) is consistent with the constitutional doctrines under the Constitution of the Commonwealth restricting the duties that may be imposed on a Commonwealth officer or body.
+(4a) To avoid doubt, a provision of the National Electricity Rules does not impose the duty on the Commonwealth officer or body to the extent to which imposing the duty would—
+(a) contravene any constitutional doctrine under the Constitution of the Commonwealth restricting the duties that may be imposed on a Commonwealth officer or body; or
+(b) otherwise exceed the legislative powers of this jurisdiction.
+(4b) If imposing on the Commonwealth officer or body the duty to do that thing would—
+(a) contravene any constitutional doctrine restricting the duties that may be imposed on a Commonwealth officer or body; or
+(b) otherwise exceed the legislative powers of both the State and the Commonwealth,
+the provision of the National Electricity Rules is taken instead to confer on the Commonwealth officer or body a power to do that thing at the discretion of the Commonwealth officer or body (as the case may require).
 (5) This clause does not limit the effect that a provision of the National Electricity Rules, or the provision of this Law under which it is made, would validly have apart from this clause.
 43—Invalid Rules
 (1) If the Court orders (by declaration or otherwise) that a Rule is invalid, the order of the Court does not—
@@ -4526,3 +4284,23 @@ stakeholders means—
 (3) In this clause—
 amended Law means this Law as amended by the Statutes Amendment (National Energy Laws) (Binding Rate of Return Instrument) Act 2018;
 commencement means the commencement of Part 3 Division 1B.
+Part 17—Savings and transitional provisions related to Ministerial Council on Energy amendments
+33—Definitions
+In this Part—
+Amendment Act means the Statutes Amendment (National Energy Laws) (Omnibus) Act 2021;
+commencement day means the day on which section 5 of the Amendment Act comes into operation.
+34—References to Ministerial Council on Energy
+(1) On and from the commencement day, a reference to the Ministerial Council on Energy or MCE in an Act, a legislative instrument, any other kind of instrument, or a contract, agreement or other document will be taken to be a reference to the MCE as defined in section 2 (as amended by section 5 of the Amendment Act).
+(2) In this clause—
+agreement includes the Australian Energy Market Agreement or any other intergovernmental agreement to which this jurisdiction is a party.
+35—Rights under certain change of law provisions in agreements or deeds not to be triggered
+(1) The substitution of the definition of the MCE by section 5 of the Amendment Act is not to be regarded as a change of law (however defined) under any agreement or deed in effect on the commencement day.
+(2) Subclause (1) applies despite any provision in any agreement or deed to the contrary.
+36—Rights under contracts etc
+(1) The substitution of the definition of the MCE by section 5 of the Amendment Act does not affect a right, obligation, liability or immunity of the MCE under an agreement, deed or other instrument entered into by the MCE and in effect on the commencement day.
+(2) On and from the commencement day, a reference to the Ministerial Council on Energy or MCE in an agreement, deed or other instrument referred to in subclause (1) will be taken to be a reference to the MCE as defined in section 2 (as amended by section 5 of the Amendment Act).
+(3) Subclause (1) applies despite any provision in any agreement, deed or other instrument to the contrary.
+37—Saving of decisions etc
+The substitution of the definition of the MCE by section 5 of the Amendment Act does not affect the validity of—
+(a) any decision or direction made by the MCE before the commencement day; or
+(b) any appointment in accordance with a recommendation or nomination of the MCE made before the commencement day.

@@ -24,7 +24,7 @@ AER regulatory function or power means a function or power performed or exercise
 AER Retail Pricing Information Guidelines—see section 61;
 AER Retailer Authorisation Guidelines—see section 117;
 annual turnover has the same meaning as in section 2(1) of Schedule 2 to the Competition and Consumer Act 2010 of the Commonwealth;
-application Act means the Act of a jurisdiction that applies the National Energy Retail Law set out in the Schedule to the National Energy Retail Law (South Australia) Act 2011 of South Australia as a law of the jurisdiction;
+application Act means an Act of a participating jurisdiction that applies, as a law of that jurisdiction, this Law or any part of this Law;
 associate of a retailer or distributor includes—
 (a) an employee or agent of the retailer or distributor; and
 (b) a person contracted by the retailer or distributor; and
@@ -133,7 +133,11 @@ Provisions for determining and reviewing the consumption thresholds are containe
 market offer means an offer by a retailer to a small customer to provide customer retail services under a market retail contract;
 market offer prices means the tariffs and charges that a retailer charges a small customer for or in connection with the sale of energy to a small customer under a market retail contract;
 market retail contract means a customer retail contract referred to in section 33;
-MCE means the Ministerial Council on Energy established on 8 June 2001, being the Council of Ministers with primary carriage of energy matters at a national level comprising the Ministers representing the Commonwealth, the States, the Australian Capital Territory and the Northern Territory, acting in accordance with its own procedures;
+MCE means the group of Ministers (constituting or forming part of a Ministerial Council, Standing Council of Ministers or similar body (however described)) responsible for energy matters at a national level comprising 9 Ministers as follows:
+(a) 1 Minister from the Commonwealth;
+(b) 1 Minister from each State (totalling 6 Ministers);
+(c) 1 Minister from each Territory (totalling 2 Ministers),
+acting in accordance with its own procedures;
 MCE directed review means a review conducted by the AEMC under Division 4 of Part 9;
 MCE statement of policy principles means a statement of policy principles issued by the MCE under section 14;
 meter identifier means—
@@ -203,6 +207,7 @@ standard complaints and dispute resolution procedures—see section 81;
 standard retail contract means a customer retail contract that takes effect under section 26 as a contract between a small customer and a designated retailer;
 standing offer—see section 22;
 standing offer prices means all of the tariffs and charges that a retailer charges a small customer for or in connection with the sale and supply of energy to a small customer under a standard retail contract;
+Territory means the Australian Capital Territory or the Northern Territory;
 this jurisdiction—see the definition of that term in the application Act of each participating jurisdiction;
 Tribunal means the Australian Competition Tribunal referred to in the Competition and Consumer Act 2010 of the Commonwealth and includes a member of the Tribunal or a Division of the Tribunal performing functions of the Tribunal;
 upper consumption threshold—see sections 5 and 6;
@@ -313,12 +318,14 @@ See section 320 of this Law which applies instead of clauses 2 and 52 of Schedul
 Schedule 1 has effect.
 Division 2—Matters relating to participating jurisdictions
 9—Participating jurisdictions
-The State of South Australia, the Commonwealth, each of the States of New South Wales, Victoria, Queensland and Tasmania, and the Australian Capital Territory are participating jurisdictions for the purposes of this Law.
+(1) The following jurisdictions are participating jurisdictions for the purposes of this Law—
+(a) the State of South Australia; and
+(b) the Commonwealth, a Territory or a State (other than South Australia) if there is in force, as part of the law of that jurisdiction, a law that applies this Law or any part of this Law (whether by a law that corresponds to Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia or by some other law).
+(2) If a law of a participating jurisdiction referred to in subsection (1)(b) ceases to be in force, the jurisdiction ceases to be a participating jurisdiction.
 10—Ministers of participating jurisdictions
 The Ministers of the participating jurisdictions are—
 (a) the Minister of the Crown in right of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia; and
-(b) the Ministers of the Crown in right of the other participating jurisdictions administering the laws of those jurisdictions that substantially correspond to Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia; and
-(c) the Commonwealth Minister.
+(b) the Ministers of the Crown in right of the other participating jurisdictions administering the laws of those jurisdictions that apply this Law or any part of this Law (whether by a law that corresponds to Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia or by some other law).
 11—Local area retailers
 (1) The regulations under the application Act of a participating jurisdiction must nominate a retailer as a local area retailer for that jurisdiction for the purposes of this Law.
 (2) One or more retailers may be nominated for a jurisdiction.
@@ -2228,7 +2235,7 @@ The AER is authorised to disclose the information given to it in confidence, in 
 (b) the manner in which it discloses the information does not identify the person to whom that information relates.
 213—Disclosure of information that has entered the public domain
 The AER is authorised to disclose information given to it in confidence, in compliance with this Law or the Rules or voluntarily, if the information is already in the public domain.
-214—Disclosure of confidential information authorised if detriment does not outweigh public benefit
+214—Disclosure of protected information authorised if detriment does not outweigh public benefit
 (1) Despite sections 211, 212 and 213 but subject to this section, the AER is authorised to disclose information given to it in confidence after the restricted period if the AER is of the opinion—
 (a) that the disclosure of the information would not cause detriment to the person who has given it or to the person from whom that person received it; or
 (b) that, although the disclosure of the information would cause detriment to such a person, the public benefit in disclosing it outweighs that detriment.
@@ -2258,6 +2265,11 @@ The AER is authorised to disclose information given to it in confidence, in comp
 (i) wishes to make the disclosure; and
 (ii) is of the opinion required by subsection (1).
 (7) For the purposes of this section, the disclosure of anything that is already in the public domain at the time the AER wishes to disclose it cannot cause detriment to any person referred to in subsection (2) or (3).
+(7a) Despite anything to the contrary in this Law, this section is taken to be an exhaustive statement of the requirements of the natural justice hearing rule in relation to—
+(a) the AER’s decision under subsection (1) to disclose information given in confidence to the AER; and
+(b) without limiting paragraph (a), if the AER’s decision under subsection (1) is to disclose the confidential information, the AER’s opinion—
+(i) that the disclosure of the information would not cause detriment to the person who gave the information or, if the person who gave the information in turn received the information from another person, that other person (as the case may be); or
+(ii) that, although the disclosure of the information would cause detriment to such a person, the public benefit in disclosing it outweighs that detriment.
 (8) In this section—
 restricted period means a period of 5 business days after—
 (a) an initial disclosure notice has been given under this section; or
@@ -2356,7 +2368,7 @@ The terms of reference may require a MCE directed review to be conducted—
 (e) require the AEMC to have specified objectives in the conduct of a MCE directed review which need not be limited by the national energy retail objective;
 (f) give the AEMC other specific directions in respect of the conduct of a MCE directed review.
 230—Notice of MCE directed review
-(1) The AEMC must publish notice of a MCE directed review on its website and in a newspaper circulating generally throughout Australia.
+(1) The AEMC must publish notice of a MCE directed review on its website.
 (2) The AEMC must publish a further such notice if a term of reference or a requirement or direction relating to the MCE directed review is varied.
 231—Conduct of MCE directed review
 Subject to any requirement or direction of the MCE, a MCE directed review—
@@ -2409,7 +2421,7 @@ proposed Rule means—
 (b) a proposal for an AEMC initiated Rule; or
 (c) a proposed more preferable Rule;
 publish means—
-(a) in relation to a notice required to be published under this Part (except section 238 or 261)—publish in the South Australian Government Gazette, on the AEMC's website and in a newspaper circulating generally throughout Australia; or
+(a) in relation to a notice required to be published under this Part (except section 238 or 261)—publish in the South Australian Government Gazette and on the AEMC's website; or
 (b) in relation to a proposed Rule referred to in section 251 and any other documents prescribed by the National Regulations in relation to a proposed Rule referred to in section 251—publish on the AEMC's website and make available at the offices of the AEMC; or
 (c) in relation to a draft Rule determination or final Rule determination—publish on the AEMC's website and make available at the offices of the AEMC; or
 (d) in relation to any submissions or comments received by the AEMC under this Part—subject to section 268, publish on the AEMC's website and make available at the offices of the AEMC; or
@@ -3141,10 +3153,16 @@ compliance with that procedure is taken to satisfy any requirements of this Law 
 (2) If a provision of this Law or the Rules, or the application of a provision of this Law or the Rules to a person, subject matter or circumstance would, but for this section, be construed as exceeding the legislative power of the Legislature of this jurisdiction—
 (a) it is a valid provision to the extent to which it is not in excess of the power; and
 (b) the remainder of this Law or the Rules, and the application of the provision to other persons, subject matters or circumstances, is not affected.
-(3) If a provision of this Law or the Rules imposes a duty on a Commonwealth officer or body to perform a function or exercise a power where the imposition of such a duty would—
+(3) In particular, if a provision of this Law or the Rules appears to impose a duty on a Commonwealth officer or body to perform a function or exercise a power, the duty is taken to be imposed by the provision to the extent to which imposing the duty—
+(a) is within the legislative powers of this jurisdiction; and
+(b) is consistent with the constitutional doctrines under the Constitution of the Commonwealth restricting the duties that may be imposed on a Commonwealth officer or body.
+(3a) To avoid doubt, a provision of this Law or the Rules does not impose the duty on the Commonwealth officer or body to the extent to which imposing the duty would—
+(a) contravene any constitutional doctrine under the Constitution of the Commonwealth restricting the duties that may be imposed on a Commonwealth officer or body; or
+(b) otherwise exceed the legislative powers of this jurisdiction.
+(3b) If imposing on the Commonwealth officer or body the duty to do that thing would—
 (a) contravene any constitutional doctrine restricting the duties that may be imposed on a Commonwealth officer or body; or
-(b) otherwise exceed the legislative power of the Legislature of this jurisdiction,
-that provision is to be taken instead to confer on the officer or body a discretion to perform the function or exercise the power.
+(b) otherwise exceed the legislative powers of both the State and the Commonwealth,
+the provision of this Law or the Rules is taken instead to confer on the Commonwealth officer or body a power to do that thing at the discretion of the Commonwealth officer or body (as the case may require).
 (4) This section does not limit the effect that a provision of this Law or the Rules would validly have apart from this section.
 321—Penalty privilege
 If an individual has a privilege against self‑exposure to a penalty, other than for a criminal offence, the individual is not excused from doing any of the following on that ground:
@@ -3160,3 +3178,23 @@ Part 1—Transitional provision related to AEMC rule making powers
 The amendment to section 252 of this Law by section 19 of the Statutes Amendment (National Energy Laws) (Rules) Act 2018 does not apply to the making of—
 (a) a Rule on a request under section 243(1) of this Law received by the AEMC before the commencement of this clause; or
 (b) an AEMC initiated Rule (within the meaning of section 235 of this Law) in respect of which the AEMC has, before the commencement of this clause, published notice of its intention to make.
+Part 2—Savings and transitional provisions related to Ministerial Council on Energy amendments
+2—Definitions
+In this Part—
+Amendment Act means the Statutes Amendment (National Energy Laws) (Omnibus) Act 2021;
+commencement day means the day on which section 25 of the Amendment Act comes into operation.
+3—References to Ministerial Council on Energy
+(1) On and from the commencement day, a reference to the Ministerial Council on Energy or MCE in an Act, a legislative instrument, any other kind of instrument, or a contract, agreement or other document will be taken to be a reference to the MCE as defined in section 2 (as amended by section 25 of the Amendment Act).
+(2) In this clause—
+agreement includes the Australian Energy Market Agreement or any other intergovernmental agreement to which this jurisdiction is a party.
+4—Rights under certain change of law provisions in agreements or deeds not to be triggered
+(1) The substitution of the definition of the MCE by section 25 of the Amendment Act is not to be regarded as a change of law (however defined) under any agreement or deed in effect on the commencement day.
+(2) Subclause (1) applies despite any provision in any agreement or deed to the contrary.
+5—Rights under contracts etc
+(1) The substitution of the definition of the MCE by section 25 of the Amendment Act does not affect a right, obligation, liability or immunity of the MCE under an agreement, deed or other instrument entered into by the MCE and in effect on the commencement day.
+(2) On and from the commencement day, a reference to the Ministerial Council on Energy or MCE in an agreement, deed or other instrument referred to in subclause (1) will be taken to be a reference to the MCE as defined in section 2 (as amended by section 25 of the Amendment Act).
+(3) Subclause (1) applies despite any provision in any agreement, deed or other instrument to the contrary.
+6—Saving of decisions etc
+The substitution of the definition of the MCE by section 25 of the Amendment Act does not affect the validity of—
+(a) any decision or direction made by the MCE before the commencement day; or
+(b) any appointment in accordance with a recommendation or nomination of the MCE made before the commencement day.
