@@ -1,2 +1,2 @@
-Schedule 1—Related amendments, transitional provisions and repeal
-Part 1—Preliminary
+Schedule 1—Repeal
+Part 5—Repeal of Disability Services Act 1993
