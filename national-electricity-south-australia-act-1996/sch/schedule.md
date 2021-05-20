@@ -65,7 +65,7 @@ distribution reliability standard means a standard imposed by or under the Rules
 distribution service standard means a standard relating to the standard of services provided by a regulated distribution system operator by means of, or in connection with, a distribution system imposed—
 (a) by or under jurisdictional electricity legislation; or
 (b) by the AER in accordance with the Rules;
-distribution system means the apparatus, electric lines, equipment, plant and buildings used to convey or control the conveyance of electricity that the Rules specify as, or as forming part of, a distribution system;
+distribution system means the apparatus, electric lines, equipment, plant and buildings used to convey or control the conveyance of electricity that the Rules specify as, or as forming part of, a distribution system and includes a regulated stand‑alone power system to the extent provided by the Rules;
 distribution system safety duty means a duty or requirement under an Act of a participating jurisdiction, or any instrument made or issued under or for the purposes of that Act, relating to—
 (a) the safe distribution of electricity in that jurisdiction; or
 (b) the safe operation of a distribution system in that jurisdiction;
@@ -153,7 +153,8 @@ National Electricity Rules or Rules means—
 (ii) Rules made by it;
 national electricity system means—
 (a) the generating systems and other facilities owned, controlled or operated in the participating jurisdictions connected to the interconnected national electricity system; and
-(b) the interconnected national electricity system;
+(b) the interconnected national electricity system; and
+(c) regulated stand‑alone power systems;
 National Energy Retail Law means the National Energy Retail Law set out in the Schedule to the National Energy Retail Law (South Australia) Act 2011 of South Australia;
 National Energy Retail Rules has the same meaning as in the National Energy Retail Law;
 National Gas Law means the National Gas Law set out in the Schedule to the National Gas (South Australia) Act 2008 of South Australia;
@@ -166,7 +167,7 @@ Note—
 NEMMCO becomes AEMO (without change of corporate identity). A reference to NEMMCO is a reference to AEMO before its change of name.
 network agreement means the agreement required by section 50D(1);
 network revenue or pricing determination means a distribution determination or a transmission determination;
-network service provider means a Registered participant registered for the purposes of section 11(2) that owns, controls or operates a transmission system or distribution system that forms part of the interconnected national electricity system;
+network service provider means a Registered participant registered for the purposes of section 11(2) that owns, controls or operates a transmission system or distribution system that forms part of the interconnected national electricity system or that owns, controls or operates a regulated stand‑alone power system;
 network service provider performance report means a report prepared by the AER under section 28V;
 network service user means a user who is provided with an electricity network service;
 NTP functions means the functions described in section 49(2);
@@ -177,7 +178,7 @@ participant derogation means a Rule made at the request of a person who is confe
 (a) exempts, in a specified case or class of cases, that person or a class of person of which that person is a member, or AEMO, from complying with a provision, or a part of a provision, of the Rules, including a jurisdictional derogation; or
 (b) modifies or varies the application of a provision of the Rules, including a jurisdictional derogation, (with or without substitution of a provision of the Rules or a part of a provision of the Rules) to that person or class of person of which that person is a member, or AEMO;
 participating jurisdiction means a jurisdiction that is a participating jurisdiction within the meaning of section 5;
-power system security means the safe scheduling and dispatch, and operation and control, of the national electricity system;
+power system security means the safe scheduling and dispatch, and operation and control, of the national electricity system (other than regulated stand‑alone power systems);
 prospective network service user means a person who seeks or wishes to be provided with an electricity network service;
 protected information has the meaning given by section 54(1);
 rate of return instrument—see section 18I(2);
@@ -188,6 +189,7 @@ regulated distribution system operator means an owner, controller or operator of
 regulated network service provider means—
 (a) a regulated distribution system operator; or
 (b) a regulated transmission system operator;
+regulated stand‑alone power system—see section 6B;
 regulated transmission system operator means an owner, controller or operator of a transmission system—
 (a) who is a Registered participant; and
 (b) whose revenue from, or prices that are charged for, the provision of electricity network services are regulated under a transmission determination;
@@ -388,6 +390,23 @@ Schedule 3 to this Law has effect.
 (b) the whole or a specified part of a distribution system that is owned, controlled or operated by the entity,
 or for both.
 (5) The Minister responsible for administering the application Act (other than the application Act of South Australia) under which a local regulation referred to in this section is made is to make arrangements for notice of the making and publication of the regulation to be published for information in the South Australian Government Gazette.
+6B—Regulated stand‑alone power systems
+(1) The regulations under the application Act of a participating jurisdiction (a local regulation) may provide that the following form part of the national electricity system (a regulated stand‑alone power system):
+(a) a particular stand‑alone power system, which consists of a distribution system owned, controlled or operated, or proposed to be owned, controlled or operated, by a regulated distribution system operator;
+(b) a stand‑alone power system, which consists of a distribution system owned, controlled or operated, or proposed to be owned, controlled or operated, by a regulated distribution system operator, that belongs to a particular class of stand‑alone power systems.
+(2) Without limiting subsection (1), the local regulation may provide that a particular stand‑alone power system, or a class of stand‑alone power systems, forms part of the national electricity system by reference to—
+(a) the particular geographic area in which the stand‑alone power system, or class of stand‑alone power systems, is or will be located; or
+(b) the regulated distribution system operator that owns, controls or operates, or proposes to own, control or operate, the stand‑alone power system or class of stand‑alone power systems; or
+(c) whether the stand‑alone power system, or class of stand‑alone power systems, complies with any requirements specified by the Rules.
+(3) The local regulation may modify the application of a specified provision of this Law or the Rules for and with respect to a regulated stand‑alone power system or a class of regulated stand‑alone power systems.
+(4) A regulated distribution system operator that owns, controls or operates a regulated stand‑alone power system—
+(a) must comply with the Rules to the extent that the Rules are applied by the local regulation to the regulated stand‑alone power system; and
+(b) may, to the extent that the Rules apply to the regulated stand‑alone power system, be proceeded against under this Law for any breach of those Rules.
+(5) The Minister responsible for administering the application Act (other than the application Act of South Australia) under which a local regulation referred to in this section is made is to make arrangements for notice of the making and publication of the regulation to be published for information in the South Australian Government Gazette.
+(6) In this section—
+stand‑alone power system means a system that—
+(a) generates and distributes electricity; and
+(b) does not form part of the interconnected national electricity system.
 7—National electricity objective
 The objective of this Law is to promote efficient investment in, and efficient operation and use of, electricity services for the long term interests of consumers of electricity with respect to—
 (a) price, quality, safety, reliability and security of supply of electricity; and
@@ -435,12 +454,12 @@ relevant provision means a provision of the Rules that relates to any of the fol
 Part 2—Participation in the National Electricity Market
 Division 1—Registration
 11—Electricity market activities in this jurisdiction
-(1) A person must not engage in the activity of owning, controlling or operating, in this jurisdiction, a generating system connected to the interconnected national electricity system unless—
+(1) A person must not engage in the activity of owning, controlling or operating, in this jurisdiction, a generating system connected to the interconnected national electricity system or directly or indirectly connected to a regulated stand‑alone power system unless—
 (a) the person is a Registered participant in relation to that activity; or
 (b) the person is the subject of a derogation that exempts the person, or is otherwise exempted by AEMO, from the requirement to be a Registered participant in relation to that activity under this Law and the Rules.
 Note—
 Subsection (1) is a civil penalty provision: See the definition of "civil penalty provision" in section 2AA(1).
-(2) A person must not engage in the activity of owning, controlling or operating, in this jurisdiction, a transmission system or distribution system that forms part of the interconnected national electricity system unless—
+(2) A person must not engage in the activity of owning, controlling or operating, in this jurisdiction, a transmission system or distribution system that forms part of the interconnected national electricity system or that forms part of, or is directly or indirectly connected to, a regulated stand‑alone power system unless—
 (a) the person is a Registered participant in relation to that activity; or
 (b) the person is the subject of a derogation that exempts the person, or is otherwise exempted by the AER, from the requirement to be a Registered participant in relation to that activity under this Law and the Rules.
 Note—
@@ -675,7 +694,7 @@ Division 1—General
 (iii) against persons under section 68 of this Law; or
 (iv) in relation to offences against this Law; and
 (d) to institute and conduct appeals from decisions in proceedings referred to in paragraph (c); and
-(e) to exempt persons proposing to engage, or engaged, in the activity of owning, controlling or operating a transmission system or distribution system forming part of the interconnected transmission and distribution system from being registered as Registered participants; and
+(e) to exempt persons proposing to engage, or engaged, in the activity of owning, controlling or operating a transmission system or distribution system from being registered as Registered participants; and
 (ea) to prepare and publish reports on the financial and operational performance of network service providers in providing electricity network services; and
 (eb) to approve compliance programs of service providers relating to compliance by service providers with this Law or the Rules; and
 (eba) to implement and administer the market liquidity obligation in accordance with the Rules; and
@@ -2537,6 +2556,22 @@ local electricity system means—
 (a) an electricity system in this jurisdiction prescribed or declared in or under the application Act of this jurisdiction to be a local electricity system; and
 (b) the generating systems and other facilities owned, controlled or operated in this jurisdiction connected to that local electricity system;
 Retailer Reliability Obligation amendments means the amendments made to this Law by the National Electricity (South Australia) (Retailer Reliability Obligation) Amendment Act 2019.
+90EB—South Australian Minister to make initial Rules relating to stand‑alone power systems
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules—
+(a) for or with respect to the stand‑alone power system amendments; and
+(b) for or with respect to any other subject contemplated by, or necessary or expedient for, the stand‑alone power system amendments; and
+(c) that revoke or amend a Rule as a consequence of the enactment of the stand‑alone power system amendments.
+(2) Section 34(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(3) As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(4) The notice referred to in subsection (3)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(5) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
+(6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(7) In this section—
+stand‑alone power system amendments means the amendments made to this Law by the Statutes Amendment (National Energy Laws) (Stand-Alone Power Systems) Act 2021.
 Subdivision 2—Rules made by Minister from time to time
 90F—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2).
@@ -2874,7 +2909,7 @@ relevant authority means—
 (a) AEMO; or
 (b) a jurisdictional system security coordinator.
 114—AEMO to ensure maintenance of supply of sensitive loads
-AEMO must use its reasonable endeavours to ensure that the national electricity system is operated in a manner that maintains the supply to sensitive loads.
+AEMO must use its reasonable endeavours to ensure that the national electricity system (other than regulated stand‑alone power systems) is operated in a manner that maintains the supply to sensitive loads.
 115—Shedding and restoring of loads
 (1) Subject to subsection (2), if AEMO considers that it is necessary for loads to be shed in this jurisdiction to maintain power system security, or for reasons of public safety, AEMO may direct the shedding or restoration of loads (including sensitive loads) in this jurisdiction in accordance with the AEMO load shedding procedures developed for this jurisdiction.
 (2) AEMO must use reasonable endeavours to obtain the approval of the jurisdictional system security coordinator before directing the shedding, or preventing the restoration of, sensitive loads or a class of sensitive loads that the jurisdictional system security coordinator has listed in the jurisdictional load shedding guidelines as requiring the coordinator's approval before—

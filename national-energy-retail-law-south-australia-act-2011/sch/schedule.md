@@ -2464,7 +2464,8 @@ The procedure for making initial Rules by the South Australian Minister is set o
 (ii) any other person appointed in accordance with the Rules;
 (g) the liability of retailers, distributors and customers for acts and omissions and the provision of immunity in respect of any such liability;
 (h) the energisation, de‑energisation or re‑energisation of premises of customers;
-(i) benchmarks for energy consumption for residential customers; and
+(ha) the sale of electricity to customers whose premises are connected to a regulated stand‑alone power system (within the meaning of the NEL);
+(i) benchmarks for energy consumption for residential customers;
 (ia) the use of interval meters and smart meters and other related technologies, including devices designed to enable direct load control, including (without limitation) matters relating to the following:
 (i) the ability of a distributor to undertake supply capacity control (SCC), including—
 (A) the inclusion of SCC as part of a connection contract; and
@@ -2528,6 +2529,22 @@ Subdivision 1—Initial Rules made by Minister
 (4) The Rules made under this section may only be made on the recommendation of the MCE.
 (5) Section 237(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+238AB—South Australian Minister may make initial Rules relating to stand‑alone power systems
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia (the South Australian Minister) may make Rules—
+(a) for or with respect to the stand‑alone power system amendments; and
+(b) for or with respect to any other subject contemplated by, or necessary or expedient for, the stand‑alone power system amendments; and
+(c) that revoke or amend a Rule as a consequence of the enactment of the stand‑alone power system amendments.
+(2) As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(3) The notice referred to in subsection (2)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(4) The Rules made under this section may only be made on the recommendation of the MCE.
+(5) Section 237(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(7) In this section—
+stand‑alone power system amendments means the amendments made to the NEL and this Law by the Statutes Amendment (National Energy Laws) (Stand-Alone Power Systems) Act 2021.
 Subdivision 2—Rules made by Minister from time to time
 238B—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2) for any purpose that is necessary or consequential as a result of the making of a NER by the Minister under section 90F of the NEL or a NGR by the Minister under section 294G of the NGL.
@@ -3178,6 +3195,11 @@ Part 1—Transitional provision related to AEMC rule making powers
 The amendment to section 252 of this Law by section 19 of the Statutes Amendment (National Energy Laws) (Rules) Act 2018 does not apply to the making of—
 (a) a Rule on a request under section 243(1) of this Law received by the AEMC before the commencement of this clause; or
 (b) an AEMC initiated Rule (within the meaning of section 235 of this Law) in respect of which the AEMC has, before the commencement of this clause, published notice of its intention to make.
+Part 2—Transitional provision related to stand‑alone power systems
+2—Transitional provision related to stand‑alone power systems
+The designated retailer for a small customer's premises that are connected to a stand‑alone power system that becomes a regulated stand‑alone power system under the NEL after the commencement of section 6B of the NEL is—
+(a) the financially responsible retailer for the premises; or
+(b) if there is no financially responsible retailer for the premises—the local area retailer for the premises.
 Part 2—Savings and transitional provisions related to Ministerial Council on Energy amendments
 2—Definitions
 In this Part—
