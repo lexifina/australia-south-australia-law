@@ -9,4 +9,6 @@ The Bail Act 1985 applies with the following modifications:
 (iia) section 169;
 (iib) section 170;
 (iic) section 170A;
+Note—
+Part A1 has expired.
 Part A2—Criminal Law Consolidation Act 1935
