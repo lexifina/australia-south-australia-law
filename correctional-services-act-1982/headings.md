@@ -20,6 +20,7 @@ Division 7—Release of prisoners from prison or home detention
 Part 5—Offences
 Division 1—Powers of Visiting Tribunals
 Division 2—Breaches of regulations
+Division 3—Criminal offences
 Division 4—Prisoners at large
 Part 6—Parole
 Division 1—The Parole Board
