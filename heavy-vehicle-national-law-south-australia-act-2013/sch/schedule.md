@@ -33,7 +33,9 @@ In this Law—
 accreditation certificate means—
 (a) for a heavy vehicle accreditation granted under this Law—the accreditation certificate given for the accreditation under section 464; or
 (b) for a heavy vehicle accreditation granted under another law of a participating jurisdiction—the certificate of accreditation (however called) issued for the accreditation under that law;
-ADR means a national standard under section 7 of the Motor Vehicle Standards Act 1989 of the Commonwealth;
+ADR means—
+(a) a third edition ADR; or
+(b) a second edition ADR;
 advice purposes means providing advice, information and education to persons with duties or obligations under this Law about compliance with the duties or obligations;
 AFM accreditation means—
 (a) AFM accreditation granted under section 458; or
@@ -322,7 +324,7 @@ home address means—
 (b) for a body corporate with a registered office in Australia—the address of the registered office; or
 (c) for another person—the address of the person's principal or only place of business in Australia;
 identification details, for the purposes of Chapter 9 Part 3 Division 6, has the meaning given by section 525;
-identification plate means a plate authorised to be placed on a vehicle, or taken to have been placed on a vehicle, under the Motor Vehicle Standards Act 1989 of the Commonwealth;
+identification plate means a plate approved to be placed on a vehicle, or taken to have been placed on a vehicle, under the Motor Vehicle Standards Act 1989;
 impaired by fatigue has the meaning given by section 225;
 improvement notice has the meaning given by section 572(2);
 in, a vehicle, includes on the vehicle;
@@ -455,6 +457,7 @@ minor risk breach—
 modification, for the purposes of Chapter 3 Part 3, has the meaning given by section 84;
 monitoring purposes means finding out whether this Law is being complied with;
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle;
+Motor Vehicle Standards Act 1989 means the repealed Motor Vehicle Standards Act 1989 of the Commonwealth as in force before its repeal;
 national regulations means the regulations made under section 730;
 National Transport Commission means the National Transport Commission established by the National Transport Commission Act 2003 of the Commonwealth;
 night means the period between sunset on a day and sunrise on the next day;
@@ -715,6 +718,7 @@ road train means—
 (b) a combination, other than a B‑double, consisting of a motor vehicle towing at least 2 trailers, excluding any converter dolly supporting a semitrailer;
 Typical triple road train
 road transport means transport by road;
+Road Vehicle Standards Act 2018 means the Road Vehicle Standards Act 2018 of the Commonwealth;
 route assessment, for the purposes of Chapter 4 Part 7, has the meaning given by section 154;
 safety duty means a duty imposed under any of the following provisions:
 (a) section 26C;
@@ -744,6 +748,7 @@ schedule, for the driver of a heavy vehicle, means—
 scheduler, for a heavy vehicle, means a person who—
 (a) schedules the transport of any goods or passengers by the vehicle; or
 (b) schedules the work times and rest times of the vehicle's driver;
+second edition ADR means an ADR incorporated in the document described as the "Australian Design Rules for Motor Vehicle Safety, Second Edition" originally published by the former Commonwealth Department of Transport;
 self‑clearing defect notice means a notice complying with the requirements for a self‑clearing defect notice under section 527;
 self‑employed driver, of a heavy vehicle, means a driver of the vehicle who is not an employed driver of the vehicle;
 semitrailer means a trailer that has—
@@ -798,6 +803,9 @@ the State means the Crown in right of this jurisdiction, and includes—
 (a) the Government of this jurisdiction; and
 (b) a Minister of the Crown in right of this jurisdiction; and
 (c) a statutory corporation, or other entity, representing the Crown in right of this jurisdiction;
+third edition ADR means—
+(a) a national standard under section 7 of the Motor Vehicle Standards Act 1989; or
+(b) a national road vehicle standard under section 12 of the Road Vehicle Standards Act 2018;
 third party insurance legislation means—
 (a) legislation about compensation for third parties who are injured or killed by the use of motor vehicles or trailers; or
 (b) legislation about payment of contributions towards compensation of that kind; or
@@ -885,10 +893,15 @@ vehicle standards exemption means—
 vehicle standards exemption (notice) has the meaning given by section 61(2);
 vehicle standards exemption (permit) has the meaning given by section 68(2);
 VIN (vehicle identification number), for a heavy vehicle, means—
-(a) for a heavy vehicle built before 1 January 1989 with an identification plate, the number quoted on the vehicle's identification plate that—
+(a) for a heavy vehicle built before 1 January 1989 that has an identification plate, the number quoted on the vehicle's identification plate that—
 (i) uniquely identifies the vehicle and sets it apart from similar vehicles; and
 (ii) corresponds to the identification number of the vehicle that is permanently recorded elsewhere on the vehicle; or
-(b) otherwise, the unique vehicle identification number assigned to the heavy vehicle under the Motor Vehicle Standards Act 1989 of the Commonwealth;
+(b) for a heavy vehicle built on or after 1 January 1989 that was given an approval under the Motor Vehicle Standards Act 1989 or is given an approval under the Road Vehicle Standards (Consequential and Transitional Provisions) Act 2018 of the Commonwealth, the unique vehicle identification number assigned to the vehicle—
+(i) at the time the vehicle was manufactured, in accordance with a third edition ADR; or
+(ii) by the department of government of the Commonwealth in which the Motor Vehicle Standards Act 1989 was previously administered; or
+(c) otherwise, the unique number assigned to the heavy vehicle—
+(i) at the time the vehicle was manufactured, in accordance with an ADR that is a national road vehicle standard under section 12 of the Road Vehicle Standards Act 2018; or
+(ii) by the department of government of the Commonwealth in which the Road Vehicle Standards Act 2018 is administered;
 work, in relation to a fatigue‑regulated heavy vehicle, has the meaning given by section 221;
 work and rest change, for the purposes of Chapter 6, has the meaning given by section 221;
 work and rest hours exemption means—
@@ -975,6 +988,10 @@ In this Law, a reference to this Law as applied by an Act of a participating jur
 (b) a law prescribed by the national regulations for the purposes of paragraph (a)(iii) of the definition participating jurisdiction in section 5, enacted in a participating jurisdiction.
 13—References to road
 A reference in this Law to a road includes a reference to a road‑related area, unless a contrary intention appears in this Law.
+14—References to particular ADR versions
+A reference in this Law to an ADR followed by a number is a reference to—
+(a) if the reference is to a second edition ADR—the ADR of that number in the "Australian Design Rules for Motor Vehicle Safety, Second Edition"; or
+(b) otherwise—the ADR of that number referenced in the relevant standard.
 15—References to categories of heavy vehicles
 If a provision of this Law provides for the exemption, authorisation, prescription or description of a category of heavy vehicles, heavy vehicles may, without limitation, be categorised for the purposes of the provision as being of any stated class, including, for example—
 (a) a class of heavy vehicles used for a particular task; and
@@ -1424,7 +1441,7 @@ In this Part—
 modification, of a heavy vehicle, means—
 (a) the addition of a component to, or the removal of a component from, the vehicle; or
 (b) a change to the vehicle from the manufacturer's specification for the vehicle,
-but does not include a modification to the vehicle that has been approved under the Motor Vehicle Standards Act 1989 of the Commonwealth.
+but does not include a modification to the vehicle that has been approved under the Road Vehicle Standards Act 2018, item 16(2) of Schedule 3 to the Road Vehicle Standards (Consequential and Transitional Provisions) Act 2018 of the Commonwealth or the Motor Vehicle Standards Act 1989 before the repeal of that Act.
 85—Modifying heavy vehicle requires approval
 (1) A person must not modify a heavy vehicle unless the modification has been approved by—
 (a) an approved vehicle examiner under section 86; or
