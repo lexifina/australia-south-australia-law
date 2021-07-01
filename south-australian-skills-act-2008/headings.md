@@ -1,20 +1,20 @@
 Part 1—Preliminary
-Part 2—Administration
-Division 1—Minister
-Division 2—Training and Skills Commission
-Division 4—Training Advocate
-Part 3—Higher education, vocational education and training and education services for overseas students
-Division 1—Registration of training providers
-Division 2—Accreditation of courses
-Division 3—Duration of registration/accreditation
-Division 4—Other powers of Commission relating to training providers and courses
-Division 5—Review by Tribunal
-Division 6—Offences
-Division 7—Orders for compensation
-Part 4—Apprenticeships/traineeships
+Part 2—Role of Minister
+Part 3—South Australian Skills Commission
+Division 1—South Australian Skills Commissioner
+Division 2—South Australian Skills Commission
+Division 3—South Australian Skills Standards
+Part 4—Apprenticeships, traineeships and training contracts
 Division 1—Interpretation
+Division 1A—Certain training to occur under training contract
 Division 2—Training contracts
-Division 3—Registration of employers
+Division 3—Prohibited employers
+Division 3A—Provisions relating to employers
+Division 3B—Provisions relating to apprentices and trainees
+Division 3C—Substitution of employer under training contract and transfer fees
+Division 3D—Provisions relating to nominated training organisations and training plans
 Division 4—Compliance notices, misconduct, disputes and grievances
-Division 5—General
+Part 4A—Recognition of other trade training etc
+Part 4B—Additional powers of Commission etc
+Part 4C—Review of certain decisions by South Australian Civil and Administrative Tribunal
 Part 5—Miscellaneous
