@@ -18,7 +18,7 @@ Part 4—Chief Executive to assume guardianship of child or young person where p
 Chapter 6—Court orders relating to children and young people
 Part 1—Applications for Court orders
 Part 2—Orders that can be made by Court
-Part 3—Child or young people to be heard in proceedings
+Part 3—Child or young person to be heard in proceedings
 Part 4—Representation of children and young people
 Part 5—Miscellaneous
 Chapter 7—Children and young people in care
