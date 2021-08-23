@@ -5,6 +5,7 @@ Part 4—Health Advisory Councils
 Division 1—Establishment of Councils
 Division 2—Functions and powers
 Division 3—Related matters
+Part 4A—Service agreements
 Part 5—Hospitals
 Division 1—Incorporation
 Division 1A—Transfer of functions etc between incorporated hospitals
