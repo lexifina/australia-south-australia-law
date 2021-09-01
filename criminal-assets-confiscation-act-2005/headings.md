@@ -55,6 +55,7 @@ Subdivision 3—Dealings relating to controlled property
 Subdivision 4—Discharging pecuniary penalty orders and literary proceeds orders
 Division 2—Legal assistance
 Division 3—Credits to funds
+Division 3A—National cooperative scheme on unexplained wealth
 Division 4—Charges on property
 Subdivision 1—Charge to secure certain amounts payable to the Crown
 Subdivision 2—Charge to secure certain amounts payable to Legal Services Commission
