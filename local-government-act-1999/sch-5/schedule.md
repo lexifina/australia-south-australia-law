@@ -11,6 +11,8 @@ Meeting papers
 • Minutes of meetings
 • Documents and reports to the council or a council committee that are able to be supplied to members of the public
 • Recommendations adopted by resolution of the council
+Information and briefing session papers
+• Record made by council or chief executive officer relating to an order under section 90(2) (in accordance with section 90A(4)) made at or in relation to an information or briefing session
 Policy and administrative documents
 • Record of delegations under this Act (other than delegations made by the Minister)
 • Contract and tenders policies
