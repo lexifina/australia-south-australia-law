@@ -1,2 +1,2 @@
-Schedule 1—Related amendments, repeal and transitional provisions
-Part 1—Amendment of Child Sex Offenders Registration Act 2006
+Schedule 1—Repeal and transitional provisions
+Part 15—Repeal of Police (Complaints and Disciplinary Proceedings) Act 1985
