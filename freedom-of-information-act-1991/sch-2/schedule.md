@@ -4,6 +4,7 @@ The following are exempt agencies:
 (ea) the Independent Commissioner Against Corruption;
 (eb) the Office for Public Integrity;
 (ec) the Commissioner for Children and Young People;
+(eca) the Commissioner for Aboriginal Children and Young People;
 (ed) the Guardian for Children and Young People;
 (ee) the Child Death and Serious Injury Review Committee;
 (ef) the Child Development Council;

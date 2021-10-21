@@ -1,7 +1,11 @@
 Part 1—Preliminary
 Part 2—Commissioner for Children and Young People
 Division 1—Commissioner for Children and Young People
-Division 2—Functions and powers of Commissioner
+Division 2—Functions and powers of CCYP
+Division 3—Reporting
+Part 2A—Commissioner for Aboriginal Children and Young People
+Division 1—Commissioner for Aboriginal Children and Young People
+Division 2—Functions and powers of CACYP
 Division 3—Reporting
 Part 3—Guardian for Children and Young People
 Part 4—Child Death and Serious Injury Review Committee
