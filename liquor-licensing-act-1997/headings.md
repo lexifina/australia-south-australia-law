@@ -13,6 +13,7 @@ Division 2—Licences
 Subdivision 1—Authorised trading in liquor
 Subdivision 2—Ongoing licences
 Subdivision 3—Short term licence
+Subdivision 4—Interstate direct sales licence
 Division 3—Conditions of licence
 Division 4—General provisions
 Part 4—Applications and submissions
