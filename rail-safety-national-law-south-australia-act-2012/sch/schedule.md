@@ -1560,6 +1560,12 @@ Maximum penalty: $10 000.
 Maximum penalty: $10 000.
 Note—
 In some participating jurisdictions, provision is made that, for the purposes of this Law, a concentration of alcohol in a sample of a person's breath will be taken to indicate a concentration of alcohol in the person's blood.
+(1a) For the purposes of subsection (1), and without limiting the circumstances in which a rail safety worker will be taken to be carrying out, or attempting to carry out, rail safety work, if a rail safety worker—
+(a) has arrived at the rail safety worker's place of work; and
+(b) —
+(i) has signed on for the purpose of carrying out rail safety work (in such manner as may be required by the practices and procedures at the worker's place of work and however described) and is available to carry out the rail safety work; or
+(ii) is otherwise on duty for the purpose of carrying out rail safety work,
+then the rail safety worker will be taken to be carrying out, or attempting to carry out, rail safety work.
 (2) For the purposes of subsection (1)(c), a person is incapable of effectively discharging a function or duty of a rail safety worker if, owing to the influence of alcohol or a drug, the use of any mental or physical faculty of that person is lost or appreciably impaired (but this subsection does not restrict in any way the operation of subsection (1)(c)).
 (3) Subject to subsection (4), it is a defence to a charge of an offence against subsection (1)(b) if the defendant proves that he or she did not knowingly consume the prescribed drug present in his or her oral fluid or blood.
 (4) Subsection (3) does not apply if the defendant consumed the prescribed drug believing that he or she was consuming a substance unlawfully but was mistaken as to, unaware of, or indifferent to, the identity of the prescribed drug.
