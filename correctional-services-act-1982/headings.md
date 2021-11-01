@@ -25,7 +25,7 @@ Division 4—Prisoners at large
 Part 6—Parole
 Division 1—The Parole Board
 Division 3—Release on parole
-Division 4—Review of release on parole of life prisoners
+Division 4—Review of release on parole of certain prisoners
 Subdivision 1—Preliminary
 Subdivision 2—Parole Administrative Review Commissioner
 Subdivision 3—Reviews by Commissioner
