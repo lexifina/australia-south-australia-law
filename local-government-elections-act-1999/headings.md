@@ -12,7 +12,7 @@ Part 7—Electoral material
 Part 8—Preparation for an election or poll
 Division 1—Elections
 Division 2—Polls
-Part 9—Postal voting
+Part 9—Voting generally
 Part 10—Method of voting
 Part 11—Counting of votes
 Division 1—Arranging voting papers
