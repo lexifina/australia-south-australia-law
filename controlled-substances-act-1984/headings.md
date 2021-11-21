@@ -31,4 +31,5 @@ Division 5—General provisions relating to offences
 Division 6—Procedure in relation to simple possession offences
 Part 6—Offences, penalties etc
 Part 7—Search, seizure, forfeiture and analysis
+Part 7A—Youth treatment orders
 Part 8—Miscellaneous
