@@ -4,5 +4,5 @@ Division 1—Oaths
 Division 2—Affirmations
 Division 3—Miscellaneous
 Part 3—Statutory declarations
-Part 4—Commissioners for taking affidavits
-Part 5—Appointment of police officers to take declarations and attest documents
+Part 4—Affidavits
+Part 5—Miscellaneous
