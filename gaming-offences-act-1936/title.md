@@ -1,4 +1,4 @@
 South Australia
-Lottery and Gaming Act 1936
-An Act relating to lotteries and gaming.
+Gaming Offences Act 1936
+An Act relating to unlawful gaming.
 The Parliament of South Australia enacts as follows:
