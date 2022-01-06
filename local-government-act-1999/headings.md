@@ -116,6 +116,20 @@ Division 2—Associated matters
 Division 3—Policies
 Part 3—Authorised persons
 Chapter 13—Review of local government acts, decisions and operations
+Part A1—Member behaviour
+Division 1—Council to deal with member behaviour
+Editorial note—
+Division 1 had not come into operation at the date of the publication of this version.
+Division 2—Behavioural standards panel
+Subdivision 1—Preliminary
+Editorial note—
+Subdivision 1 had not come into operation at the date of the publication of this version.
+Subdivision 2—Behavioural standards panel
+Editorial note—
+Sections 262G to 262P had not come into operation at the date of the publication of this version.
+Subdivision 3—Inquiries and action on complaints referred to Panel
+Editorial note—
+Subdivision 3 had not come into operation at the date of the publication of this version.
 Part 1—Conduct of members
 Part 2—Internal review of council actions
 Part 3—Reviews initiated by Minister
