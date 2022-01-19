@@ -6,7 +6,7 @@ Division 4—Community service administration
 Division 5—Probation hostels
 Part 3—Correctional institutions
 Division 1—Establishment of correctional institutions
-Division 2—Inspection of correctional institutions
+Division 2—Official visitors
 Part 4—Imprisonment
 Division 1—Admission and assignment of prisoners
 Division 3—Assessment of prisoners
