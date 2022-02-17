@@ -126,7 +126,7 @@ Editorial note—
 Subdivision 1 had not come into operation at the date of the publication of this version.
 Subdivision 2—Behavioural standards panel
 Editorial note—
-Sections 262G to 262P had not come into operation at the date of the publication of this version.
+Sections 262H, 262I and 262K to 262P had not come into operation at the date of the publication of this version.
 Subdivision 3—Inquiries and action on complaints referred to Panel
 Editorial note—
 Subdivision 3 had not come into operation at the date of the publication of this version.
