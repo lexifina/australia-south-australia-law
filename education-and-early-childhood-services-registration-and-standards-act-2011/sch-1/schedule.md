@@ -83,9 +83,7 @@ former education and care services law, in relation to a participating jurisdict
 grade 1, in relation to a school, means the first year of compulsory full‑time schooling;
 guardian, in relation to a child, means the legal guardian of the child;
 infringements law, in relation to a participating jurisdiction, means a law declared by a law of that jurisdiction to be an infringements law for the purposes of this Law;
-Ministerial Council means the Ministerial Council which—
-(a) is constituted from time to time by Ministers of the Crown of the Commonwealth, State and Territory Governments; and
-(b) is responsible for early childhood education and care matters;
+Ministerial Council means a body (however described) that consists of the Minister of the Commonwealth, and the Minister of each State and Territory, who is responsible, or principally responsible, for matters under this Law;
 National Authority means the Australian Children's Education and Care Quality Authority established under this Law;
 national education and care services quality framework means—
 (a) this Law; and
@@ -231,9 +229,9 @@ If a person has been served with an infringement notice for an offence under thi
 (b) whether the financial circumstances of the person may significantly limit the person's capacity to meet the person's obligations in providing an education and care service in accordance with this Law; and
 (c) whether the person has the management capability to operate an education and care service in accordance with this Law; and
 (d) any of the following actions taken under the A New Tax System (Family Assistance) (Administration) Act 1999 of the Commonwealth in relation to a child care service approved under that Act, operated by the person or in relation to which the person was a person with management or control—
-(i) any sanction imposed under section 200 of that Act;
-(ii) any suspension imposed under section 201A of that Act;
-(iii) any infringement notice given under section 219TSI of that Act.
+(i) any sanction imposed under section 195H of that Act;
+(ii) any suspension imposed under section 197A of that Act;
+(iii) any infringement notice given under section 219WA of that Act.
 (3) Nothing in subsection (1) or (2) limits the circumstances in which a person may be considered not to be a fit and proper person to be involved in the provision of an education and care service.
 14—Regulatory Authority may seek further information
 (1) For the purpose of carrying out an assessment as to whether a person is a fit and proper person, the Regulatory Authority may—
@@ -249,7 +247,7 @@ A provider approval is granted subject to conditions in accordance with section 
 (2) The Regulatory Authority must not grant a provider approval unless the Authority is satisfied as to the matters in section 12.
 (3) Subject to subsection (4), the Regulatory Authority must make a decision on the application within 60 days after the Regulatory Authority receives the application.
 Note—
-If further information is requested under section 14(2), the period between the making of the request and the provision of the information is not included in the 60 day period.
+If further information is requested under section 14, the period between the making of the request and the provision of the information is not included in the 60 day period.
 (4) The period referred to in subsection (3) may be extended by up to 30 days with the agreement of the applicant.
 (5) The Regulatory Authority is taken to have refused to grant a provider approval if the Regulatory Authority has not made a decision under subsection (1)—
 (a) within the relevant period required under subsection (3); or
@@ -531,7 +529,7 @@ The Regulatory Authority may, at the time of granting the service approval for a
 (b) meets the educational and developmental needs of the children being educated and cared for by the service.
 (2) A service approval for a family day care service is granted subject to a condition that the approved provider must ensure that each family day care educator engaged by or registered with the service is adequately monitored and supported by a family day care co-ordinator.
 (2A) A service approval for a family day care service is granted subject to a condition that each family day care residence, and any approved family day care venue of the service, are to be located within this jurisdiction.
-(3) A service approval is granted subject to a condition that the service must commence ongoing operation of the service within 6 months after the approval is granted unless the Regulatory Authority agrees to an extension of time.
+(3) A service approval is granted subject to a condition that the approved provider must commence ongoing operation of the service within 6 months after the approval is granted unless the Regulatory Authority agrees to an extension of time.
 (4) A service approval is granted subject to a condition that the approved provider must hold the prescribed insurance in respect of the education and care service.
 (4A) A service approval for an education and care service other than a family day care service is granted subject to a condition that the approved provider must ensure that the number of children educated and cared for by the service at any one time does not exceed the maximum number of children specified in the service approval.
 (4B) An approved provider is not required to comply with subsection (4A) if—
@@ -633,7 +631,7 @@ The Regulatory Authority is taken to have consented to the transfer of a service
 62—Transfer may be subject to intervention by Regulatory Authority
 (1) The Regulatory Authority may intervene in a transfer of a service approval if the Regulatory Authority is concerned as to any of the following matters:
 (a) whether the receiving approved provider is capable of operating the education and care service having regard to its financial capacity and management capability and any other matter the Regulatory Authority considers relevant;
-(b) the receiving approved provider's history of compliance with this Law as applying in a participating jurisdiction, including in relation to any other education and care service it operates;
+(b) the receiving approved provider's history of compliance with this Law as applying in a participating jurisdiction, including in relation to any other education and care service it operates or has operated;
 (c) any other matter relevant to the transfer of the service approval.
 (2) The Regulatory Authority must notify the transferring approved provider and the receiving approved provider of the decision to intervene.
 (3) Subject to subsection (5), the notice must be given at least 28 days before the date on which the transfer is intended to take effect.
@@ -1590,7 +1588,7 @@ Division 2—Powers of entry
 (e) ask a person at the premises—
 (i) to answer a question to the best of that person's knowledge, information and belief; or
 (ii) to take reasonable steps to provide information or produce a document.
-(3) A power under subsection (2)(a) to (d) is limited to a document or thing that is used or likely to being used in the provision of the education and care service.
+(3) A power under subsection (2)(a) to (d) is limited to a document or thing that is used or likely to be used in the provision of the education and care service.
 (4) If the authorised officer takes any document or thing under subsection (2), he or she must—
 (a) give notice of the taking of the document or thing to the person apparently in charge of it or to an occupier of the premises; and
 (b) return the document or thing to that person or the premises within 7 days after taking it.
@@ -2134,8 +2132,8 @@ Division 2—Application of Commonwealth FOI Act
 264—Application of Commonwealth FOI Act
 (1) The FOI Act applies as a law of a participating jurisdiction for the purposes of the National Quality Framework.
 (2) For the purposes of subsection (1), the FOI Act applies—
-(a) as if a reference to the Office of the Freedom of Information Commissioner were a reference to the Office of the National Education and Care Services Freedom of Information Commissioner; and
-(b) as if a reference to the Freedom of Information Commissioner were a reference to the National Education and Care Services Freedom of Information Commissioner; and
+(a) as if a reference to the Office of the Australian Information Commissioner were a reference to the Office of the National Education and Care Services Freedom of Information Commissioner; and
+(b) as if a reference to the Information Commissioner were a reference to the National Education and Care Services Freedom of Information Commissioner; and
 (c) with any other modifications made by the national regulations.
 (3) Without limiting subsection (2), the national regulations may—
 (a) provide that the FOI Act applies under subsection (1) as if a provision of the FOI Act specified in the national regulations were omitted; or
@@ -2238,7 +2236,7 @@ Division 6—Disclosure of information
 (b) a family day care educator who has been suspended from providing education and care to children as part of a family day care service; or
 (c) a person to whom a prohibition notice applies; or
 (d) a person who is being prosecuted for an offence against this Law.
-272—Disclosure of information to education and care services
+272—Disclosure of information to approved providers
 (1) At the request of an approved provider, the National Authority or the Regulatory Authority may disclose the following information to the provider, if the National Authority or Regulatory Authority considers on reasonable grounds that the provider requires the information to comply with the provider's obligations under this Law—
 (a) whether a person named in the request is subject to a prohibition notice given under section 182;
 (b) whether a family day care educator named in the request has been suspended from providing education and care to children as part of a family day care service under section 178.
@@ -2655,19 +2653,6 @@ appointed day means the day that is 12 months after the commencement day.
 (a) the service was an approved family day care service; and
 (b) the service approval included a condition requiring the service provide a specified minimum number of family day care co-ordinators.
 (2) Despite the commencement of the 2017 Act, section 163, as in force immediately before the commencement day, and the condition requiring the service provide a specified minimum number of family day care co ordinators continue to apply to the approved family day care service until the condition is amended under section 54 or 55.
-330—Publication of information about certified supervisors
-(1) The National Authority may publish information about any enforcement action taken under this Law before the commencement day in relation to any person who was a certified supervisor before that day, including—
-(a) the prosecution of any offence; and
-(b) the acceptance of an undertaking; and
-(c) the suspension or cancellation of a supervisor certificate.
-(2) This section expires on 31 December 2021.
-Editorial note—
-Section 330 has expired.
-331—Evidentiary certificates
-(1) Despite the amendment of section 292 by the 2017 Act, a Regulatory Authority or the National Authority may continue to certify matters relating to any person who was a certified supervisor before the commencement day as if that section had not been amended.
-(2) This section expires on 31 December 2021.
-Editorial note—
-Section 331 has expired.
 Division 6—Further transitional provisions—Education and Care Services National Law Amendment Act 2017
 332—Definitions
 In this Division—
