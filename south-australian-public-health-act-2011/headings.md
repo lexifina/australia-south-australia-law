@@ -23,6 +23,7 @@ Division 1—Preliminary
 Division 2—Controls
 Division 3—Related matters
 Part 11—Management of significant emergencies
+Part 11A—COVID-19 arrangements
 Part 12—Notices and emergency situations
 Division 1—Interpretation
 Division 2—Notices and emergencies
