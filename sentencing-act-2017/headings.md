@@ -14,7 +14,7 @@ Division 2—Non‑parole periods
 Division 3—Serious firearm offenders
 Division 4—Serious repeat adult offenders and recidivist young offenders
 Division 5—Offenders incapable of controlling, or unwilling to control, sexual instincts
-Division 6—Sentencing standards for offences involving paedophilia
+Division 6—Sentencing standards for offences involving child sexual abuse
 Division 7—Community based custodial sentences
 Subdivision 1—Home detention
 Subdivision 2—Intensive correction
