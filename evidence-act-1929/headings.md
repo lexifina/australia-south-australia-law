@@ -30,6 +30,7 @@ Division 7—Select Committee evidence
 Division 8—Evidence of settlement negotiations
 Division 9—Protected communications
 Division 10—Sensitive material
+Division 11—Religious confession
 Part 8—Publication of evidence
 Division 1—Preliminary
 Division 2—Orders for clearing court or suppressing publication of evidence etc

@@ -20,6 +20,7 @@ Division 8A—Child marriage
 Division 9—Kidnapping and unlawful child removal
 Division 11—Rape and other sexual offences
 Division 11A—Child exploitation material and related offences
+Division 11B—Institutional and out of home care child sexual abuse
 Division 12—Commercial sexual services and related offences
 Division 13—Miscellaneous sexual offences
 Division 14—Procedure in sexual offences
