@@ -27,6 +27,7 @@ a scheme pipeline and includes a function or power performed or exercised by the
 (f) an access determination (if the AER is the dispute resolution body);
 Note—
 The application of a rate of return instrument under this Law is an AER economic regulatory function or power. See section 30Q(2).
+AER gas price reporting functions means the functions of the AER performed under section 27(1)(fa);
 AER ring fencing determination means a determination of the AER under section 143(1);
 annual turnover has the same meaning as in section 2(1) of Schedule 2 to the Competition and Consumer Act 2010 of the Commonwealth;
 applicable access arrangement means a limited access arrangement or full access arrangement that has taken effect after being approved or made by the AER under the Rules and includes an applicable access arrangement as varied—
@@ -48,7 +49,7 @@ associate pipeline service means a pipeline service provided by means of a pipel
 Australian Energy Market Operator or AEMO means Australian Energy Market Operator Limited (ACN 072 010 327);
 BB Procedures means Procedures directed at regulating the Natural Gas Services Bulletin Board;
 Bulletin Board information means information that—
-(a) a person gives to AEMO to comply with section 223(1) or 223A(1); or
+(a) a person gives to AEMO or the AER to comply with Chapter 7 (or any Rules under that Chapter); or
 (b) a person gives to AEMO in its capacity as operator of the Natural Gas Services Bulletin Board in circumstances expressly permitted by the Rules;
 capacity auction means an auction conducted by AEMO through which a person may buy transportation capacity;
 capacity auction agreement means an agreement that relates to participation in a capacity auction and to which AEMO and persons participating in the capacity auction are parties;
@@ -81,6 +82,7 @@ compression service facility means—
 (b) any other facility or part of a facility (whether or not forming part of another facility or located on or connected to another facility) for compressing natural gas other than—
 (i) a facility operated as part of a gathering system operated as part of an upstream producing operation; or
 (ii) anything downstream of a point on a pipeline from which a person takes natural gas for consumption purposes;
+compression service provider means a person who owns, controls or operates a compression service facility;
 conduct provision has the meaning given by section 4;
 constituent components, in relation to a designated regulatory decision, means the matters that constitute the elements or components of the designated regulatory decision and on which that designated regulatory decision is based and includes—
 (a) matters that go to the making of the designated regulatory decision; and
@@ -109,11 +111,6 @@ Note—
 A light regulation determination cannot be made in respect of pipeline services provided by means of a designated pipeline: see sections 109 and 111.
 designated regulatory decision means an applicable access arrangement decision (other than a full access arrangement decision that does not approve a full access arrangement), or a decision prescribed by the Regulations to be a designated regulatory decision;
 developable capacity means the difference between the current capacity of a covered pipeline and the capacity of a covered pipeline which would be available if a new facility was constructed, but does not include any new capacity of a covered pipeline resulting from an extension to the geographic range of a covered pipeline;
-disposal, in relation to a right to use transportation capacity, includes disposal by means of—
-(a) transfer, sale, assignment, exchange or other disposal; and
-(b) the grant of a right to use, directly or indirectly, the transportation capacity;
-Note—
-See the definition of transfer.
 dispute resolution body means the AER;
 Dispute resolution panel means a person or panel of persons appointed under the Rules to hear and determine a rule dispute;
 distribution pipeline means a pipeline that is classified in accordance with this Law or the Rules as a distribution pipeline and includes any extension to, or expansion of the capacity of, such a pipeline when it is a covered pipeline that, by operation of an applicable access arrangement or under this Law, is to be treated as part of the pipeline;
@@ -171,6 +168,10 @@ general regulatory information order has the meaning given by section 45;
 greenfields pipeline incentive means—
 (a) a 15-year no-coverage determination; or
 (b) a price regulation exemption;
+GSOO information means information that—
+(a) a person gives to AEMO to comply with section 91DB; or
+(b) a person gives to AEMO for the preparation of the gas statement of opportunities in circumstances expressly permitted by the Rules;
+GSOO Procedures means Procedures directed at regulating the collection of information for the gas statement of opportunities;
 GTE amendments means the amendments to this Law made by the National Gas (South Australia) (Gas Trading Exchanges) Amendment Act 2013;
 haulage, in relation to natural gas, includes conveyance or reticulation of natural gas;
 initial classification decision means a decision of the NCC under section 98 or 155;
@@ -197,6 +198,8 @@ limited access arrangement decision means a decision of the AER under the Rules 
 (a) a limited access arrangement submitted to the AER under section 116 or 168; or
 (b) revisions to a limited access arrangement submitted to the AER under section 116(3) or 168(3) or the Rules;
 listed corporation has the meaning given by section 9 of the Corporations Act 2001 of the Commonwealth;
+LNG facility means a facility for the processing of natural gas from a gaseous to a liquefied state or from a liquefied to a gaseous state;
+LNG service provider means a person who owns, controls or operates an LNG facility;
 market information instrument means a general market information order or a market information notice;
 market information notice means a notice under section 91F(1)(b) requiring information from the person to whom the notice is addressed;
 market operator service means a service classified under the Rules as a market operator service;
@@ -242,11 +245,27 @@ natural gas means a substance that—
 (a) is in a gaseous state at standard temperature and pressure; and
 (b) consists of naturally occurring hydrocarbons, or a naturally occurring mixture of hydrocarbons and non-hydrocarbons, the principal constituent of which is methane; and
 (c) is suitable for consumption;
+natural gas industry includes—
+(a) activities and transactions relating to—
+(i) processable gas; or
+(ii) natural gas (including liquefied natural gas) and natural gas services; or
+(iii) natural gas industry facilities; or
+(iv) services provided by means of natural gas industry facilities; and
+(b) activities and transactions relating to petroleum tenements; and
+(c) any other activities or transactions specified by the Regulations for the purposes of this paragraph;
+natural gas industry facility means—
+(a) a pipeline; or
+(b) a compression service facility; or
+(c) a gas processing plant; or
+(d) an LNG facility; or
+(e) a storage facility; or
+(f) a user facility; or
+(g) another facility of a type specified by the Regulations for the purposes of this paragraph;
 natural gas service means—
 (a) a pipeline service; or
 (b) the supply of natural gas; or
 (c) a service ancillary to the service described in paragraph (b);
-Natural Gas Services Bulletin Board means the website maintained by AEMO that contains information of the kind specified in the Rules in relation to natural gas services and secondary capacity transactions;
+Natural Gas Services Bulletin Board means the website maintained by AEMO that contains information of the kind specified in the Rules in relation to the natural gas industry;
 NCC means the National Competition Council established by section 29A of the Competition and Consumer Act 2010 of the Commonwealth;
 NCC recommendation or decision means—
 (a) a coverage recommendation; or
@@ -288,6 +307,8 @@ operational transportation service agreement means an agreement between a transp
 (b) the terms and conditions applicable to the use of that transportation capacity;
 Operational Transportation Service Code has the meaning given by section 228H;
 participating jurisdiction means a jurisdiction that is a participating jurisdiction by reason of section 21;
+petroleum includes any naturally occurring hydrocarbon, mixture of hydrocarbons or mixture of hydrocarbons and non‑hydrocarbons, whether in gaseous, liquid or solid state;
+petroleum tenement means a right granted under law to explore for, extract, recover or process petroleum;
 pipeline means—
 (a) a pipe or system of pipes for the haulage of natural gas, and any tanks, reservoirs, machinery or equipment directly attached to that pipe or system of pipes; or
 (b) a proposed pipe or system of pipes for the haulage of natural gas, and any proposed tanks, reservoirs, machinery or equipment proposed to be directly attached to the proposed pipe or system of pipes; or
@@ -315,12 +336,12 @@ pipeline service standard means a standard relating to the standard of the pipel
 (b) by the AER—
 (i) under an access arrangement decision; or
 (ii) in accordance with the Rules;
+price information order has the meaning given by section 46A;
 price or revenue regulation means regulation of—
 (a) the prices, charges or tariffs for pipeline services to be, or that are to be, provided; or
 (b) the revenue to be, or that is to be, derived from the provision of pipeline services;
 price regulation exemption means an exemption under Chapter 5 Part 3;
 price regulation exemption recommendation means a recommendation of the NCC under section 162;
-primary capacity transaction, in relation to transportation capacity, means the grant by a transportation service provider of the right to use the transportation capacity under the contract from which the transportation capacity is first derived;
 processable gas means a substance that—
 (a) is in a gaseous state at standard temperature and pressure; and
 (b) consists of naturally occurring hydrocarbons, or a naturally occurring mixture of hydrocarbons and non-hydrocarbons, the principal constituent of which is methane;
@@ -343,7 +364,8 @@ regulated retail gas market has the meaning given by section 91L(2);
 Regulations means the regulations made under Part 3 of the National Gas (South Australia) Act 2008 of South Australia that apply as a law of this jurisdiction;
 regulatory information instrument means—
 (a) a general regulatory information order; or
-(b) a regulatory information notice;
+(b) a regulatory information notice; or
+(c) a price information order;
 regulatory information notice has the meaning given by section 46;
 regulatory obligation or requirement has the meaning given by section 6;
 regulatory payment has the meaning given by section 7;
@@ -369,9 +391,6 @@ rule dispute means a dispute for the resolution of which provision is made in th
 scheme pipeline means—
 (a) a covered pipeline; or
 (b) an international pipeline to which a price regulation exemption applies;
-secondary capacity transaction, in relation to transportation capacity, means a disposal of a right by a person to use the transportation capacity but does not include the primary capacity transaction in relation to that transportation capacity;
-Note—
-See the definition of disposal.
 service provider has the meaning given by section 8;
 service provider performance report means a report prepared by the AER under section 64;
 short term trading market means a market for the supply of natural gas that—
@@ -386,7 +405,8 @@ standard OTSA means an operational transportation service agreement within the m
 statutory functions, in relation to AEMO, means functions or powers conferred under—
 (a) this Law, the Rules or the Procedures; or
 (b) the National Electricity Law or the National Electricity Rules;
-storage provider means any person who owns, operates or controls a facility for storing natural gas or processable gas for injection into a pipeline;
+storage facility means a facility for storing processable gas or natural gas (including liquefied natural gas) before or after processing;
+storage provider means any person who owns, controls or operates a storage facility;
 STTM amendments means—
 (a) the amendments to this Law made by the National Gas (South Australia) (Short Term Trading Market) Amendment Act 2009 of South Australia; and
 (b) the amendments to the Rules made under section 294B; and
@@ -447,6 +467,7 @@ Tribunal means the Australian Competition Tribunal referred to in the Competitio
 user means a person who—
 (a) is a party to a contract with a service provider under which the service provider provides or intends to provide a pipeline service to that person by means of a scheme pipeline; or
 (b) has a right under an access determination to be provided with a pipeline service by means of a scheme pipeline;
+user facility means a facility by means of which natural gas is consumed (including by transformation of the gas into a new form) and which is not any other form of natural gas industry facility;
 user or consumer association has the meaning given by section 244;
 user or consumer interest group has the meaning given by section 244;
 VENCorp means the Victorian Energy Networks Corporation continued under Part 8 of the Gas Industry Act 2001 of Victoria until the AEMO amendments come into force;
@@ -595,16 +616,15 @@ or for both.
 (2) The person is, for the purposes of this Law, deemed to provide or intend to provide pipeline services by means of that pipeline even if the person does not, in fact, do so.
 10—Things done by 1 service provider to be treated as being done by all of service provider group
 (1) This section applies if—
-(a) more than 1 service provider (a service provider group) carries out a controlling facility activity in respect of a transportation facility (or a part of a transportation facility); and
-(b) under this Law or the Rules a service provider is required or allowed to do a thing.
-(2) A service provider of the service provider group (the complying service provider) may do that thing on behalf of the other service providers of the service provider group if the complying service provider has the written permission of all of the service providers of that group to do that thing on behalf of the service provider group.
-(3) Unless this Law or the Rules otherwise provide, on the doing of a thing referred to in subsection (2) by a complying service provider, the service providers of the service provider group on whose behalf the complying service provider does that thing, must, for the purposes of this Law and the Rules, each be taken to have done the thing done by the complying service provider.
+(a) more than 1 person (a group) carries out a controlling facility activity in respect of a natural gas industry facility (or part of a natural gas industry facility); and
+(b) under this Law or the Rules a person who carries out a controlling facility activity in respect of the facility (or part of the facility) mentioned in paragraph (a) is required or allowed to do a thing.
+(2) A member of the group (the complying member) may do that thing on behalf of the other members of the group if the complying member has the written permission of all of the members of that group to do that thing on behalf of the group.
+(3) Unless this Law or the Rules otherwise provide, on the doing of a thing referred to in subsection (2) by a complying member, the members of the group on whose behalf the complying member does that thing must, for the purposes of this Law and the Rules, each be taken to have done the thing done by the complying member.
 (4) This section does not apply to a thing required or allowed to be done under section 131, Chapter 4 Part 2 or section 228K or 228L.
 (5) In this section—
-controlling facility activity means own, control or operate a transportation facility (or part of a transportation facility);
-service provider means—
-(a) in relation to a pipeline—a service provider (within the meaning of section 8) for that pipeline; and
-(b) in relation to a transportation facility other than a pipeline—a transportation service provider for that facility.
+controlling facility activity means—
+(a) in relation to a pipeline—own, control or operate, or intend to own, control or operate, the pipeline (or part of the pipeline); or
+(b) in relation to any other natural gas industry facility—own, control or operate the natural gas industry facility (or part of the facility).
 11—Local agents of foreign service providers
 (1) This section applies if—
 (a) a service provider is a foreign company; and
@@ -730,6 +750,10 @@ Division 1—General
 (e) AER economic regulatory functions or powers; and
 (ea) to make and amend the Operational Transportation Service Code in accordance with this Law and the Rules; and
 (f) to prepare and publish reports on the financial and operational performance of service providers in providing pipeline services by means of covered pipelines; and
+(fa) in relation to goods or services in the natural gas industry—
+(i) to prepare and publish, in accordance with the Rules, aggregated and anonymised information or data about prices for those goods or services; and
+(ii) other monitoring, analysing or reporting functions that relate to prices for those goods or services conferred on the AER by this Law or the Rules; and
+(iii) for the purposes of subparagraph (i) or (ii)—to collect and analyse information or data about prices from sources determined by the AER or specified in the Rules; and
 (g) to approve compliance programs of service providers relating to compliance by service providers with this Law or the Rules; and
 (h) any other functions and powers conferred on it under this Law or the Rules.
 (1a) The AER has the following functions and powers in relation to the Procedures:
@@ -1078,7 +1102,7 @@ See Schedule 2 clause 47B, which provides for criminal penalty amounts to be adj
 (19) In this section—
 acting SES employee has the same meaning as in the Public Service Act 1999 of the Commonwealth;
 SES employee has the same meaning as in the Public Service Act 1999 of the Commonwealth.
-Division 4—Regulatory information notices and general regulatory information orders
+Division 4—Regulatory information notices, general regulatory information orders and price information orders
 Subdivision 1—Interpretation
 43—Definitions
 In this Division—
@@ -1101,13 +1125,20 @@ scheme pipeline service provider means—
 (e) whether the service, together with other services, contributes in a material way to the provision of pipeline services;
 (f) any other matter specified under the Rules.
 45—Meaning of general regulatory information order
-A general regulatory information order is an order made by the AER in accordance with this Division that requires each scheme pipeline service provider of a specified class, or each related provider of a specified class, to do either or both of the following:
+(1) A general regulatory information order is an order made by the AER in accordance with this Division that requires each scheme pipeline service provider of a specified class, or each related provider of a specified class, to do either or both of the following:
 (a) provide to the AER the information specified in the order;
 (b) prepare, maintain or keep information specified in the notice in a manner and form specified in the order.
+(2) A general regulatory information order does not include an order that is made as a price information order.
 46—Meaning of regulatory information notice
-A regulatory information notice is a notice prepared and served by the AER in accordance with this Division that requires the scheme pipeline service provider, or a related provider, named in the notice to do either or both of the following:
+(1) A regulatory information notice is a notice prepared and served by the AER in accordance with this Division that requires the scheme pipeline service provider, or a related provider, named in the notice to do either or both of the following:
 (a) provide to the AER the information specified in the notice;
 (b) prepare, maintain or keep information specified in the notice in a manner and form specified in the notice.
+(2) A regulatory information notice does not include an order that is made as a price information order.
+46A—Meaning of price information order
+(1) A price information order is an order made by the AER in accordance with this Division that requires a person of a specified class to provide to the AER information—
+(a) that relates to the AER gas price reporting functions; and
+(b) that is specified in the order.
+(2) The order may require a person to whom the order relates to prepare, maintain or keep information specified in the order in a manner and form specified in the order.
 47—Division does not limit operation of information gathering powers under Division 3
 This Division does not limit the operation of Division 3.
 Subdivision 2—Serving and making of regulatory information instruments
@@ -1122,7 +1153,8 @@ Subdivision 2—Serving and making of regulatory information instruments
 (b) the likely costs that may be incurred by an efficient scheme pipeline service provider or efficient related provider in complying with the notice or order.
 Note—
 The AER must also exercise its powers under this section in a manner that will or is likely to contribute to the achievement of the national gas objective: see section 28.
-(3) A regulatory information notice must not be served, or a general regulatory information order must not be made, solely for the purpose of—
+(2a) Subject to this Division, the AER, if it considers it reasonably necessary for the performance of its AER gas price reporting functions, may make a price information order.
+(3) A regulatory information notice must not be served, or a general regulatory information order or a price information order must not be made, solely for the purpose of—
 (a) investigating breaches or possible breaches of provisions of this Law, the Regulations or the Rules, including offences against this Law; or
 (b) instituting and conducting proceedings in relation to breaches of provisions of this Law, the Regulations or the Rules, including offences against this Law; or
 (c) instituting and conducting appeals from decisions in proceedings referred to in paragraph (b); or
@@ -1144,12 +1176,14 @@ The AER must also exercise its powers under this section in a manner that will o
 (3) For the purposes of subsection (2)(b), in considering whether a contributing service is being supplied on a genuinely competitive basis, the AER may take into account—
 (a) whether there is effective competition in the market for the supply of the contributing service; and
 (b) whether the related provider supplies the contributing service to a scheme pipeline service provider under a contract, arrangement or understanding entered into with that scheme pipeline service provider following a competitive process for the awarding of the right to enter into that contract, arrangement or understanding involving persons who were not associates of the scheme pipeline service provider.
-50—AER must consult before publishing a general regulatory information order
-The AER must, in accordance with the Rules, consult with the public on the general regulatory information order it intends to make before it makes that order.
+50—AER must consult before publishing an order
+The AER must, in accordance with the Rules, consult with the public on the general regulatory information order or the price information order it intends to make before it makes that order.
 Note—
 See also section 65 about what the AER must and may do after receiving submissions.
-51—Publication requirements for general regulatory information orders
-(1) A general regulatory information order made under section 48(1)(b) must be published on the AER's website as soon as practicable after it is made.
+51—Publication requirements for orders
+As soon as practicable after making a general regulatory information order or a price information order, the AER must—
+(a) publish the order on the AER's website; and
+(b) arrange for notice of the making of the order to be published in the South Australian Government Gazette.
 52—Opportunity to be heard before regulatory information notice is served
 (1) The AER, before serving a regulatory information notice, must—
 (a) notify, in writing, the scheme pipeline service provider, or the related provider, on whom the AER intends to serve the regulatory information notice of its intention to do so; and
@@ -1177,20 +1211,21 @@ Subdivision 3—Form and content of regulatory information instruments
 (b) may specify the manner and form in which the information described in the instrument is required to be—
 (i) provided to the AER;
 (ii) prepared, maintained or kept; and
-(c) must state the reasons of the AER for requiring the information described in the instrument to be—
+(c) except in the case of a price information order, must state the reasons of the AER for requiring the information described in the instrument to be—
 (i) provided to the AER;
 (ii) prepared, maintained or kept in the particular manner and form specified in the instrument; and
 (d) in the case of an instrument requiring information to be provided to the AER, must specify when the information must be provided.
 (2) In the case of a regulatory information notice, the notice must name the scheme pipeline service provider or the related provider to whom it applies.
-(3) In the case of a general regulatory information order, the order must specify the class of scheme pipeline service provider, or related provider, to whom the order applies.
+(3) In the case of a general regulatory information order or a price information order, the order must specify the class of persons to whom the order applies.
 54—Further provision about the information that may be described in a regulatory information instrument
-Without limiting section 53(1)(a), the information that may be required to be provided to the AER, or to be prepared, maintained or kept, may include—
+(1) Without limiting section 53(1)(a), the information that may be required to be provided to the AER, or to be prepared, maintained or kept, may include—
 (a) historic, current and forecast information (including financial information);
-(b) information that is or may be derived from other information in the possession or control of the scheme pipeline service provider or the related provider to whom the instrument applies;
+(b) information that is or may be derived from other information in the possession or control of the person to whom the instrument applies;
 (c) information to enable the AER to verify whether the scheme pipeline service provider to whom the instrument applies is or has been complying with Chapter 4;
 (d) information to enable the AER to verify compliance with any requirements for the allocation of costs between natural gas services under—
 (i) the Rules; or
 (ii) an applicable access arrangement.
+(2) Subsection (1)(c) and (d) do not apply in relation to a price information order.
 55—Further provision about manner in which information must be provided to AER or kept
 Without limiting section 53(1)(b), a regulatory information instrument may require that the information specified in the instrument—
 (a) be provided to the AER, or prepared, maintained or kept, on an annual basis or some other basis, including on the occurrence of a specified event or state of affairs;
@@ -1201,15 +1236,15 @@ Without limiting section 53(1)(b), a regulatory information instrument may requi
 (iii) as amended from time to time;
 Example—
 The AER may require a scheme pipeline service provider to provide information in a form and manner that complies with relevant accounting standards.
-(d) be verified by way of statutory declaration by an officer of the scheme pipeline service provider, or of a related provider, to whom the instrument applies;
+(d) be verified by way of statutory declaration by an officer of the person to whom the instrument applies;
 (e) be audited—
 (i) by a class of person specified in the instrument before it is provided to the AER; and
-(ii) at the expense of the scheme pipeline service provider or related provider to whom the instrument applies.
+(ii) at the expense of the person to whom the instrument applies.
 Subdivision 4—Compliance with regulatory information instruments
 56—Compliance with regulatory information notice that is served
 On being served a regulatory information notice, a person named in the notice must comply with the notice.
-57—Compliance with general regulatory information order
-(1) On publication of a general regulatory information order in accordance with section 51(1), a person who is a member of the class of person to which a general regulatory information order applies must comply with the order.
+57—Compliance with order
+(1) On publication of a general regulatory information order or a price information order in accordance with section 51, a person who is a member of the class of persons to which the order applies must comply with the order.
 (2) Subsection (1) does not apply to a person who has been given an exemption under section 58.
 57A—Confidentiality issues
 (1) If a person wishes, in complying with a regulatory information instrument, to give information to the AER in confidence, the person must, when the information is given to the AER—
@@ -1226,11 +1261,13 @@ On being served a regulatory information notice, a person named in the notice mu
 (ii) may be relevant to the AER's consideration under section 329 of whether such detriment may be considered as outweighing the public benefit in disclosing the information.
 (3) A person must, in acting under subsection (1), specifically identify the information in relation to which the claim is made.
 (4) Information given to the AER in compliance with a regulatory information instrument is not to be regarded as being given to the AER in confidence (or to be confidential in any other respect) unless it is subject to an express claim of confidentiality made in accordance with this section.
+(5) This section does not apply in relation to a price information order.
 57B—Disclosure of information given to AER in compliance with regulatory information instrument
-The AER, in relation to information given to the AER in compliance with a regulatory information instrument, is authorised to—
+(1) The AER, in relation to information given to the AER in compliance with a regulatory information instrument, other than a price information order, is authorised to—
 (a) if no claim of confidentiality has been made in accordance with section 57A in relation to the information, disclose the information;
 (b) if a claim of confidentiality has been made in accordance with section 57A in relation to the information, disclose the information in accordance with Chapter 10 Part 2 Division 1.
-58—Exemptions from compliance with general regulatory information order
+(2) The AER, in relation to information given to the AER in compliance with a price information order, is to treat the information as having been given to it in confidence and is authorised to disclose the information in accordance with Chapter 10 Part 2 Division 1.
+58—Exemption from compliance with general regulatory information order or price information order
 (1) The AER may exempt a person, or a class of person, from complying with section 57—
 (a) unconditionally or on specified conditions; or
 (b) wholly or to the extent as is specified in the exemption.
@@ -1246,6 +1283,7 @@ The AER, in relation to information given to the AER in compliance with a regula
 (2) Without limiting sections 56 and 57 and despite anything to the contrary in this Law or the Rules, the AER—
 (a) may make the AER economic regulatory decision or the rate of return instrument on the basis of the information the AER has at the time it makes that decision or instrument; and
 (b) in making that decision or instrument, may make reasonable assumptions (including assumptions adverse to the interests of the scheme pipeline service provider) in respect of the matters the information required under the regulatory information instrument would have addressed had that information been provided as required.
+(3) This section does not apply in relation to a price information order.
 Subdivision 5—General
 60—Providing to AER false and misleading information
 A person must not, in purported compliance with a regulatory information instrument requiring the person to provide information to the AER, provide information to the AER that the person knows is false or misleading in a material particular.
@@ -1263,7 +1301,7 @@ A regulatory information instrument, and sections 56 and 57, are not to be taken
 (b) produce a document to the AER the production of which would disclose information that is the subject of legal professional privilege.
 63—Protection against self-incrimination
 (1) It is a reasonable excuse for a natural person to whom section 56 applies not to comply with a regulatory information notice served on the person requiring the person to provide information to the AER if to do so might tend to incriminate the person, or make the person liable to a criminal penalty, under a law of this jurisdiction or another participating jurisdiction.
-(2) It is a reasonable excuse for a natural person to whom section 57 applies not to comply with a general regulatory information order made requiring the person to provide information to the AER if to do so might tend to incriminate the person, or make the person liable to a criminal penalty, under a law of this jurisdiction or another participating jurisdiction.
+(2) It is a reasonable excuse for a natural person to whom section 57 applies not to comply with a general regulatory information order or a price information order made requiring the person to provide information to the AER if to do so might tend to incriminate the person, or make the person liable to a criminal penalty, under a law of this jurisdiction or another participating jurisdiction.
 Division 5—Service provider performance reports
 64—Preparation of service provider performance reports
 (1) Subject to this section, the AER may prepare a report on the financial performance or operational performance of 1 or more scheme pipeline service providers in providing pipeline services by means of a scheme pipeline.
@@ -1356,7 +1394,7 @@ Division 2—Rule making functions and powers of the AEMC
 (a) regulating—
 (i) access to pipeline services; and
 (ii) the provision of pipeline services; and
-(iii) the collection, use, disclosure, copying, recording, management and publication of information in relation to natural gas services and secondary capacity transactions; and
+(iii) the collection, use, disclosure, copying, recording, management and publication of information in relation to the natural gas industry; and
 (iv) the operation of a regulated retail gas market; and
 (v) AEMO's declared system functions and the operation of a declared wholesale gas market; and
 (va) AEMO's STTM functions and the operation of a short term trading market of an adoptive jurisdiction; and
@@ -1368,6 +1406,7 @@ Division 2—Rule making functions and powers of the AEMC
 (aac) transaction support arrangements; and
 (aad) access to and the provision of operational transportation services; and
 (aa) facilitating and supporting the provision of services to retail customers; and
+(ab) the AER gas price reporting functions; and
 (b) any matter or thing contemplated by this Law, or necessary or expedient for the purposes of this Law.
 Note—
 The procedure for the making of a Rule by the AEMC is set out in Chapter 9 Part 3.
@@ -1971,7 +2010,7 @@ The Minister of an adoptive jurisdiction may be entitled to certain protected in
 (b) state by whom each request was made.
 Division 4—Gas statement of opportunities
 91D—Object and content of gas statement of opportunities
-(1) The purpose of the gas statement of opportunities is to provide information to assist Registered participants and other persons in making informed decisions about investment in pipeline capacity and other aspects of the natural gas industry.
+(1) The purpose of the gas statement of opportunities is to provide information to assist Registered participants and other persons in making informed decisions about investment in the natural gas industry.
 (2) The gas statement of opportunities—
 (a) must contain an assessment of medium to long term demand (including export demand) for natural gas and for pipeline services; and
 (b) must contain an assessment of supply and pipeline capacity to meet existing and foreseeable demand for natural gas and pipeline services; and
@@ -1979,7 +2018,55 @@ Division 4—Gas statement of opportunities
 (d) must point out likely long term shortfalls in natural gas reserves, and production or transmission constraints; and
 (e) must contain any other information required by the Rules.
 91DA—AEMO's obligation in regard to gas statement of opportunities
-AEMO must prepare, periodically review, revise, and publish the gas statement of opportunities in accordance with the Rules.
+(1) AEMO must prepare, periodically review, revise, and publish the gas statement of opportunities in accordance with the Rules.
+(2) AEMO also has the following functions in relation to the gas statement of opportunities:
+(a) to collect and collate GSOO information;
+(b) to collect and collate other information in relation to the natural gas industry;
+(c) to derive from information of the type mentioned in paragraph (a) or (b) information for inclusion in the gas statement of opportunities.
+91DB—Information for the gas statement of opportunities
+(1) A person who has possession or control of information in relation to the natural gas industry must give the information to AEMO for use by AEMO in the preparation, review, revision or publication of the gas statement of opportunities if the person is required to do so under the Rules.
+(2) The information must be given to AEMO in accordance with the Rules.
+(3) Subsection (1) does not apply if the person is exempt under the Rules from giving the information.
+(4) Subsection (1) does not require—
+(a) a person to disclose information that is the subject of legal professional privilege; or
+(b) a natural person to disclose information that would incriminate the person or make the person liable to a criminal penalty under the law of an Australian jurisdiction (whether or not the jurisdiction is a participating jurisdiction).
+91DC—Person cannot rely on duty of confidence to avoid compliance with obligation
+A person must not refuse to comply with the requirement in section 91DB on the ground of any duty of confidence.
+91DD—Giving AEMO false or misleading information
+A person must not give GSOO information to AEMO that the person knows is false or misleading in a material particular.
+91DE—Immunity of persons giving GSOO information to AEMO
+(1) A person who gives GSOO information to AEMO does not incur any civil monetary liability for an act or omission in giving that information unless the act or omission is done or made in bad faith or through negligence.
+(2) The civil monetary liability for an act or omission of a kind referred to in subsection (1) done or made through negligence may not exceed the prescribed maximum amount.
+(3) The Regulations may, for the purposes of subsection (2), without limitation do all or any of the following:
+(a) prescribe a maximum amount that is limited in its application to persons, events, circumstances, losses or periods specified in the Regulations;
+(b) prescribe maximum amounts that vary in their application according to the persons to whom or the events, circumstances, losses or periods to which they are expressed to apply;
+(c) prescribe the manner in which a maximum amount is to be divided amongst claimants.
+(4) A person mentioned in subsection (1) may enter into an agreement with another person varying or excluding the operation of a provision of this section and, to the extent of that agreement, that provision does not apply.
+91DF—GSOO Procedures
+AEMO may, in accordance with the Rules, make GSOO Procedures.
+91DG—Nature of GSOO Procedures
+(1) GSOO Procedures are a form of statutory instrument directed at the collection of information for the gas statement of opportunities.
+(2) The GSOO Procedures may deal with the following matters:
+(a) the matters specified by the Rules;
+(b) any other matter relevant to the gas statement of opportunities on which this Law or the Rules contemplate the making of Procedures.
+(3) The GSOO Procedures—
+(a) may vary according to the persons, times, places or circumstances to which they are expressed to apply; and
+(b) may confer functions or powers on, or leave any matter or thing to be decided by, AEMO; and
+(c) may confer rights or impose obligations; and
+(d) may confer power on AEMO to make or issue guidelines, tests, standards and other documents of an administrative nature; and
+(e) may confer power on AEMO to require a person to whom a right is conferred, or an obligation is imposed, under the Procedures—
+(i) to comply with a guideline, standard or other document of an administrative nature; or
+(ii) to conduct, or submit to, a test designated by AEMO under the Procedures; and
+(f) may exempt, or confer a power of exemption, from the application of the Procedures or specified provisions of the Procedures; and
+(g) may contain provisions of a savings or transitional nature.
+(4) AEMO must not, without the consent of the MCE, make Procedures that confer a right or function, or impose an obligation, on the MCE or a Minister of a participating jurisdiction.
+(5) The GSOO Procedures cannot—
+(a) create an offence; or
+(b) provide for a criminal or civil penalty.
+91DH—Compliance with GSOO Procedures
+(1) AEMO and each person to whom the GSOO Procedures are applicable must comply with the Procedures.
+(2) If AEMO has reason to believe that a person is not complying with the GSOO Procedures, it may, by notice in writing, direct the person to comply with the relevant provisions of the GSOO Procedures.
+(3) A person to whom a direction is addressed under subsection (2) must comply with the direction.
 Division 5—Fees and charges
 91E—AEMO fees and charges
 (1) AEMO may—
@@ -2365,7 +2452,6 @@ AEMO may, in accordance with the Rules, make Retail Market Procedures.
 (b) provide for a criminal or civil penalty.
 91MB—Compliance with Retail Market Procedures
 (1) AEMO and each person to whom the Retail Market Procedures are applicable must comply with the Procedures.
-(2) However, if there is an inconsistency between an applicable access arrangement and the Retail Market Procedures, a person is, to the extent of the inconsistency, not required to comply with the Procedures.
 (3) If AEMO has reasonable grounds to suspect a breach of the Retail Market Procedures, it must, after making such inquiries and investigation as it considers appropriate, make a decision as to whether the breach is a material breach.
 (4) If AEMO decides the breach is material, AEMO—
 (a) must publish the decision and the reasons for it on its website; and
@@ -3500,14 +3586,14 @@ AEMO is responsible for the operation of the Natural Gas Services Bulletin Board
 (1) AEMO must maintain the Natural Gas Services Bulletin Board.
 (2) The Natural Gas Services Bulletin Board—
 (a) must be maintained as a website; and
-(b) must contain information of the kind specified in the Rules in relation to natural gas services and secondary capacity transactions.
-(3) AEMO may replace the website with another website containing information of the kind specified in the Rules in relation to natural gas services and secondary capacity transactions.
+(b) must contain information of the kind specified in the Rules in relation to the natural gas industry.
+(3) AEMO may replace the website with another website containing information of the kind specified in the Rules in relation to the natural gas industry.
 219—AEMO's other functions as operator of Natural Gas Services Bulletin Board
 AEMO also has, in its capacity as operator of the Natural Gas Services Bulletin Board, the following functions:
 (a) to collect and collate Bulletin Board information;
-(b) to collect and collate other information in relation to natural gas services and secondary capacity transactions for inclusion on the Natural Gas Services Bulletin Board;
+(b) to collect and collate other information in relation to the natural gas industry for inclusion on the Natural Gas Services Bulletin Board;
 (c) to derive from information of the type mentioned in paragraphs (a) and (b) information for inclusion on the Natural Gas Services Bulletin Board;
-(d) to publish information on the Natural Gas Services Bulletin Board of the kinds that may or must be included on the Natural Gas Services Bulletin Board under the Rules;
+(d) subject to the Rules, to publish information on the Natural Gas Services Bulletin Board of the kinds that may or must be included on the Natural Gas Services Bulletin Board under the Rules;
 (e) to manage information of the type mentioned in paragraphs (a), (b) and (c);
 (f) the other functions conferred on AEMO in its capacity as the operator of the Natural Gas Services Bulletin Board by this Law, the Rules or any other law prescribed by the Regulations for the purposes of this paragraph.
 222—Fees for services provided
@@ -3517,37 +3603,32 @@ AEMO also has, in its capacity as operator of the Natural Gas Services Bulletin 
 (2) The fee must not be such as to amount to taxation.
 Part 2—Bulletin Board information
 223—Obligation to give information to AEMO
-(1) A person of the following kind who has possession or control of information in relation to natural gas services must give AEMO the information if the person is required to do so under the Rules:
-(a) a service provider;
-(b) a person who determines the allocation of deliveries or receipts of natural gas;
-(c) a user;
-(d) a non scheme pipeline user;
-(e) a producer;
-(f) a storage provider;
-(g) another person who is prescribed by the Regulations for the purposes of this paragraph.
+(1) A person who has possession or control of information in relation to the natural gas industry must give the information to AEMO for use by AEMO in connection with the Natural Gas Services Bulletin Board if the person is required to do so under the Rules.
 (2) The information must be given to AEMO in accordance with the Rules.
 (3) Subsection (1) does not apply if the person is exempt under the Rules from giving the information.
-(4) AEMO must make available for the operation of the Bulletin Board information about natural gas services that it acquires in its capacity as operator or administrator of a regulated gas market.
-223A—Obligation to give information to AEMO about secondary capacity transactions
-(1) A person of the following kind who has possession or control of information in relation to secondary capacity transactions must give AEMO the information if the person is required to do so under the Rules:
-(a) a transportation service provider;
-(b) a transportation facility user;
-(c) another person who is prescribed by the Regulations for the purposes of this subsection.
-(2) The information must be given to AEMO in accordance with the Rules.
-(3) Subsection (1) does not apply if the person is exempt under the Rules from giving the information.
-(4) AEMO must, in accordance with the Rules, make available for the operation of the Bulletin Board information about secondary capacity transactions that it acquires in its capacity as operator or administrator of a gas trading exchange.
+(4) Subsection (1) applies subject to any provision made by the Regulations as to any person, transaction or activity that is not to be the subject of any Rules made under this section.
+(5) AEMO must make available for the operation of the Bulletin Board information about natural gas, natural gas services or the use of natural gas that it acquires in its capacity as the operator or administrator of a regulated gas market.
+(6) Subsection (1) does not require—
+(a) a person to disclose information that is the subject of legal professional privilege; or
+(b) a natural person to disclose information that would incriminate the person or make the person liable to a criminal penalty under the law of an Australian jurisdiction (whether or not the jurisdiction is a participating jurisdiction).
 224—Person cannot rely on duty of confidence to avoid compliance with obligation
-A person must not refuse to comply with the requirement in section 223(1) or 223A(1) on the ground of any duty of confidence.
-225—Giving AEMO false and misleading information
-A person must not give Bulletin Board information to AEMO that the person knows is false or misleading in a material particular.
-226—Immunity of persons giving information to AEMO
-(1) A person who gives Bulletin Board information to AEMO does not incur any civil monetary liability for an act or omission in giving that information unless the act or omission is done or made in bad faith or through negligence.
+A person must not refuse to comply with the requirement in section 223(1) or under section 226A on the ground of any duty of confidence.
+225—Giving false or misleading information
+A person must not give Bulletin Board information to AEMO or the AER that the person knows is false or misleading in a material particular.
+226—Immunity of persons giving information to AEMO or AER
+(1) A person who gives Bulletin Board information to AEMO or the AER does not incur any civil monetary liability for an act or omission in giving that information unless the act or omission is done or made in bad faith or through negligence.
 (2) The civil monetary liability for an act or omission of a kind referred to in subsection (1) done or made through negligence may not exceed the prescribed maximum amount.
 (3) The Regulations may, for the purposes of subsection (2), without limitation do all or any of the following:
 (a) prescribe a maximum amount that is limited in its application to persons, events, circumstances, losses or periods specified in the Regulations;
 (b) prescribe maximum amounts that vary in their application according to the persons to whom or the events, circumstances, losses or periods to which they are expressed to apply;
 (c) prescribe the manner in which a maximum amount is to be divided amongst claimants.
 (4) A person mentioned in subsection (1) may enter into an agreement with another person varying or excluding the operation of a provision of this section and, to the extent of that agreement, that provision does not apply.
+226A—Provision of certain information to AER
+(1) Without limiting any other provision, the Rules may provide for—
+(a) requirements for persons subject to the operation of this Chapter to give to the AER gas price assumptions and forecasts connected with estimates of reserves and resources; and
+(b) requirements to ensure that information satisfies the requirements of the Rules; and
+(c) requirements for the AER to publish information obtained under paragraph (a) on an anonymised basis.
+(2) The AER, in relation to information given to the AER in compliance with a requirement under subsection (1), is to treat the information as having been given to it in confidence and is authorised to disclose the information in accordance with Chapter 10 Part 2 Division 1.
 Part 3—BB Procedures
 227—BB Procedures
 AEMO may, in accordance with the Rules, make BB Procedures.
@@ -3572,7 +3653,6 @@ AEMO may, in accordance with the Rules, make BB Procedures.
 (b) provide for a criminal or civil penalty.
 228A—Compliance with BB Procedures
 (1) AEMO and each person to whom the BB Procedures are applicable must comply with the Procedures.
-(2) However, if there is an inconsistency between an applicable access arrangement and the BB Procedures, a person is, to the extent of the inconsistency, not required to comply with the BB Procedures.
 (3) If AEMO has reason to believe that a person is not complying with the BB Procedures, it may, by notice in writing, direct the person to comply with relevant provisions of the BB Procedures.
 (4) A person to whom a direction is addressed under subsection (3) must comply with the direction.
 Chapter 7A—Access to operational transportation services
@@ -4160,6 +4240,28 @@ Capacity Trading and Auction amendments means the amendments made to this Law by
 (7) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
 (8) In this section—
 Pipelines Access/Arbitration amendments means the amendments made to this Law by the National Gas (South Australia) (Pipelines Access—Arbitration) Amendment Act 2017.
+294FA—South Australian Minister to make initial Rules relating to enhanced market transparency
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 (the South Australian Minister) may make Rules—
+(a) for or with respect to any 1 or more of the following subjects:
+(i) the AER gas price reporting functions;
+(ii) the Natural Gas Services Bulletin Board;
+(iii) the collection and use of information for, or the content of, the gas statement of opportunities;
+(iv) the subject matter of a new head power added to Schedule 1 by the market transparency amendments;
+(v) any other subject contemplated by, or consequential on, the market transparency amendments; and
+(b) that revoke or amend a Rule as a consequence of the market transparency amendments and any of the Rules referred to in paragraph (a).
+(2) Rules may only be made under subsection (1) on the recommendation of the MCE.
+(3) Section 74(3) applies to the Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(4) As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a) publish a notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules commence operation; and
+(b) if different Rules will commence operation on different dates, those dates.
+(6) The Minister may, by a later notice published in the South Australian Government Gazette, vary a commencement date fixed under subsection (5).
+(7) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(8) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
+(9) In this section—
+market transparency amendments means the amendments made to this Law by the National Gas (South Australia) (Market Transparency) Amendment Act 2022.
 Division 2—Rules made by Minister from time to time
 294G—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2).
@@ -4713,6 +4815,8 @@ Regulatory economic methodologies │
 AER economic regulatory function or powers │
 49 │ The way in which the AER performs or exercises an AER economic regulatory function or power, including the basis on which the AER makes an AER economic regulatory decision. │
 50 │ Principles to be applied, and procedures to be followed, by the AER in exercising or performing an AER economic regulatory function or power. │
+AER gas price reporting functions │
+50A │ The AER gas price reporting functions. │
 Ring fencing requirements │
 51 │ The content of a minimum ring fencing requirement. │
 52 │ AER ring fencing determinations and additional ring fencing requirements. │
@@ -4731,6 +4835,8 @@ AEMO │
 55H │ The registration of metering installations used to meter natural gas. │
 55I │ The regulation of persons providing metering services relating to the metering of natural gas. │
 55J │ The matters to be dealt with in the gas statement of opportunities and the obligations of AEMO and other persons in regard to its preparation, review, revision and publication. │
+55JA │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the gas statement of opportunities. │
+55JB │ In relation to the gas statement of opportunities— (a) the kinds of information that may or must be given to AEMO for the gas statement of opportunities, including— (i) historic, current and forecast information; and (ii) information that may be derived from other information in the possession or control of the person required to provide the information; and (b) who must give AEMO the information; and (c) the circumstances in which the information may or must be given; and (d) the procedure for giving the information. │
 55K │ Fees payable to AEMO for services provided, or statutory functions performed, under this Law, the Rules or the Procedures. │
 55L │ The payment of money (including the payment of interest and the provision of related security)— │
 │ (a) for the settlement of transactions for natural gas or services purchased or supplied through a regulated gas market operated and administered by AEMO; or │
@@ -4744,9 +4850,9 @@ AEMO │
 55R │ Other rules relating to the conduct (including suspension) of the members of a gas trading exchange. │
 55S │ The determination and settlement of payments in relation to a gas trading exchange. │
 Natural Gas Services Bulletin Board │
-56 │ The establishment and maintenance of a website that contains information in relation to natural gas services and secondary capacity transactions. │
+56 │ The establishment and maintenance of a website that contains information in relation to the natural gas industry. │
 57 │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the Natural Gas Services Bulletin Board. │
-58 │ The kinds of information that may or must be given to AEMO, the circumstances in which the information may or must be given, and the procedure for giving the information. │
+58 │ The kinds of information that may or must be given to AEMO, who must give AEMO the information, the circumstances in which the information may or must be given, and the procedure for giving the information. │
 59 │ The kinds of information that may or must be included on the Natural Gas Services Bulletin Board and the manner in which information is to be dealt with before being put on the Natural Gas Services Bulletin Board, including, but not limited to, the removal of information that would identify the person who gave the information. │
 60 │ Persons, or classes of persons, to whom the requirement to give information does not apply and the circumstances in which the requirement does not apply, including, but not limited to, the grant of power to AEMO to exempt persons, or classes of persons, from that requirement. │
 61 │ The circumstances in which the requirement to give information may start to apply again to the persons, or classes of persons, mentioned in item 60. │
