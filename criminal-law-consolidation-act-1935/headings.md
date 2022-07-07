@@ -26,7 +26,6 @@ Division 13—Miscellaneous sexual offences
 Division 14—Procedure in sexual offences
 Division 15—Bigamy
 Division 16—Abduction of children
-Division 17—Abortion
 Division 18—Concealment of birth
 Part 3A—Offences relating to public order
 Part 3B—Offences relating to criminal organisations
