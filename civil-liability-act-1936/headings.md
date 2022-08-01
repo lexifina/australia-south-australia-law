@@ -10,6 +10,14 @@ Division 4—Negligence on the part of persons professing to have a particular s
 Division 5—Liability of road authorities
 Division 6—Exclusion of liability for criminal conduct
 Part 7—Contributory negligence
+Part 7A—Child abuse—liability of institutions
+Division 1—Preliminary
+Division 2—Duty of institutions to prevent child abuse
+Division 3—Vicarious liability of institutions
+Division 4—Liability of particular institutions and office holders
+Division 5—Satisfaction of liability
+Division 6—Miscellaneous
+Part 7B—Child abuse—setting aside settlements
 Part 8—Damages for personal injury
 Part 9—Miscellaneous
 Division 1—Rights as between employer and employee
