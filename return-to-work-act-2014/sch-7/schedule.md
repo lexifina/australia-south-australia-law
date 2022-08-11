@@ -25,3 +25,8 @@ Degree of whole person impairment │ Prescribed sum │
 27% │ $290 602 (indexed) │
 28% │ $318 645 (indexed) │
 29% │ $350 000 (indexed) │
+30% │ $371 723 (indexed) │
+31% │ $386 592 (indexed) │
+32% │ $402 056 (indexed) │
+33% │ $418 138 (indexed) │
+34% or more │ $434 863 (indexed) │
