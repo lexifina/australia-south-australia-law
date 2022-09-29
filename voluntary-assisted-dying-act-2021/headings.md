@@ -51,5 +51,3 @@ Division 3—Reports and statistical information
 Editorial note—
 Division 3 will come into operation 31 January 2023.
 Part 11—Miscellaneous
-Editorial note—
-Part 11 will come into operation 31 January 2023.
