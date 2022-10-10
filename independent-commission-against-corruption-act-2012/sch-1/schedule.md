@@ -27,7 +27,7 @@ an officer or employee of the Local Government Association of South Australia �
 the chief executive of an administrative unit of the Public Service │ the Minister responsible for the administrative unit │ Premier │
 a Public Service employee (other than a chief executive) │ the chief executive of the administrative unit of the Public Service in which the employee is employed │ the Minister responsible for the administrative unit │
 a police officer │ Commissioner of Police │ the Minister responsible for the administration of the Police Act 1998 │
-a protective security officer appointed under the Protective Security Act 2007 │ Commissioner of Police │ the Minister responsible for the administration of the Protective Security Act 2007 │
+a police security officer │ Commissioner of Police │ the Minister responsible for the administration of the Police Act 1998 │
 an officer or employee appointed by the Chief Executive under the Education and Children's Services Act 2019 │ the Chief Executive under the Education and Children's Services Act 2019 │ the Minister responsible for the administration of the Education and Children's Services Act 2019 │
 a person appointed by the Premier under the Public Sector Act 2009 │ Premier │ Attorney‑General │
 a person appointed by the Minister under the Public Sector Act 2009 │ the Minister responsible for the administration of the Public Sector Act 2009 │ Premier │
