@@ -4,7 +4,7 @@ Part 1—Preliminary
 This Law may be cited as the Health Practitioner Regulation National Law.
 2—Commencement
 This Law commences in a participating jurisdiction as provided by the Act of that jurisdiction that applies this Law as a law of that jurisdiction.
-3—Objectives and guiding principles
+3—Objectives
 (1) The object of this Law is to establish a national registration and accreditation scheme for—
 (a) the regulation of health practitioners; and
 (b) the registration of students undertaking—
@@ -14,15 +14,25 @@ This Law commences in a participating jurisdiction as provided by the Act of tha
 (a) to provide for the protection of the public by ensuring that only health practitioners who are suitably trained and qualified to practise in a competent and ethical manner are registered; and
 (b) to facilitate workforce mobility across Australia by reducing the administrative burden for health practitioners wishing to move between participating jurisdictions or to practise in more than one participating jurisdiction; and
 (c) to facilitate the provision of high quality education and training of health practitioners; and
+(ca) to build the capacity of the Australian health workforce to provide culturally safe health services to Aboriginal and Torres Strait Islander persons; and
 (d) to facilitate the rigorous and responsive assessment of overseas‑trained health practitioners; and
 (e) to facilitate access to services provided by health practitioners in accordance with the public interest; and
 (f) to enable the continuous development of a flexible, responsive and sustainable Australian health workforce and to enable innovation in the education of, and service delivery by, health practitioners.
-(3) The guiding principles of the national registration and accreditation scheme are as follows—
+3A—Guiding principles
+(1) The main guiding principle of the national registration and accreditation scheme is that the following are paramount—
+(a) protection of the public;
+(b) public confidence in the safety of services provided by registered health practitioners and students.
+(2) The other guiding principles of the national registration and accreditation scheme are as follows:
 (a) the scheme is to operate in a transparent, accountable, efficient, effective and fair way;
-(b) fees required to be paid under the scheme are to be reasonable having regard to the efficient and effective operation of the scheme;
-(c) restrictions on the practice of a health profession are to be imposed under the scheme only if it is necessary to ensure health services are provided safely and are of an appropriate quality.
+(b) the scheme is to ensure the development of a culturally safe and respectful health workforce that—
+(i) is responsive to Aboriginal and Torres Strait Islander persons and their health; and
+(ii) contributes to the elimination of racism in the provision of health services;
+Example—
+Codes and guidelines developed and approved by National Boards undersection 39 may provide guidance to health practitioners about the provision of culturally safe and respectful health care.
+(c) fees required to be paid under the scheme are to be reasonable having regard to the efficient and effective operation of the scheme;
+(d) restrictions on the practice of a health profession are to be imposed under the scheme only if it is necessary to ensure health services are provided safely and are of an appropriate quality.
 4—How functions to be exercised
-An entity that has functions under this Law is to exercise its functions having regard to the objectives and guiding principles of the national registration and accreditation scheme set out in section 3.
+An entity that has functions under this Law is to exercise its functions having regard to the objectives and guiding principles of the national registration and accreditation scheme set out in sections 3 and 3A.
 5—Definitions
 In this Law—
 ACC means the Australian Crime Commission established under section 7 of the Australian Crime Commission Act 2002 of the Commonwealth.
@@ -37,9 +47,8 @@ adjudication body means—
 (b) a responsible tribunal; or
 (c) a Court; or
 (d) an entity of a co‑regulatory jurisdiction that is declared in the Act applying this Law to be an adjudication body for the purposes of this Law.
-Advisory Council means the Australian Health Workforce Advisory Council established by section 18.
+Agency Board means the Australian Health Practitioner Regulation Agency Board established by section 29.
 Agency Fund means the Australian Health Practitioner Regulation Agency Fund established by section 208.
-Agency Management Committee means the Australian Health Practitioner Regulation Agency Management Committee established by section 29.
 appropriate professional indemnity insurance arrangements, in relation to a registered health practitioner, means professional indemnity insurance arrangements that comply with an approved registration standard for the health profession in which the practitioner is registered.
 approved accreditation standard means an accreditation standard—
 (a) approved by a National Board under section 47(3); and
@@ -59,7 +68,7 @@ Australian legal practitioner means a person who—
 (b) holds a current practising certificate under a law of a State or Territory authorising the person to practise the legal profession.
 COAG Agreement means the agreement for a national registration and accreditation scheme for health professions, made on 26 March 2008 between the Commonwealth, the States, the Australian Capital Territory and the Northern Territory.
 Note—
-A copy of the COAG Agreement is available on the Council of Australian Governments' website.
+A copy of the COAG Agreement is available on the National Agency's website.
 co-regulatory authority, for a co‑regulatory jurisdiction, means an entity that is declared by the Act applying this Law in the co‑regulatory jurisdiction to be a co‑regulatory authority for the purposes of this Law.
 co-regulatory jurisdiction means a participating jurisdiction in which the Act applying this Law declares that the jurisdiction is not participating in the health, performance and conduct process provided by Division 3 to Division 12 of Part 8.
 corresponding prior Act means a law of a participating jurisdiction that—
@@ -290,38 +299,13 @@ See section 98 which provides for the endorsement of health practitioners' regis
 (2) An act or thing done by the Ministerial Council (whether by resolution, instrument or otherwise) does not cease to have effect merely because of a change in the Council's membership.
 17—Notification and publication of directions and approvals
 (1) A copy of any direction given by the Ministerial Council to the National Agency—
-(a) is to be given to the Chairperson of the Agency Management Committee; and
+(a) is to be given to the Chairperson of the Agency Board; and
 (b) must be published by the National Agency on its website as soon as practicable after being received by the Chairperson.
 (2) A copy of a direction or approval given by the Ministerial Council to a National Board—
 (a) is to be given to the Chairperson of the National Board; and
 (b) if the direction is given under section 11(3)(d), is to include reasons for the direction; and
 (c) must be published by the National Board on its website as soon as practicable after being received by the Chairperson.
 (3) A copy of a direction or approval given by the Ministerial Council to the National Agency or to a National Board is to be published in the annual report of the National Agency.
-Part 3—Australian Health Workforce Advisory Council
-18—Establishment of Advisory Council
-The Australian Health Workforce Advisory Council is established.
-19—Function of Advisory Council
-(1) The function of the Advisory Council is to provide independent advice to the Ministerial Council about the following—
-(a) any matter relating to the national registration and accreditation scheme that is referred to it by the Ministerial Council;
-(b) if asked by the Ministerial Council, any matter relating to the national registration and accreditation scheme on which the Ministerial Council has been unable to reach a decision;
-(c) any other matter relating to the national registration and accreditation scheme that it considers appropriate.
-(2) Advice under this section cannot be about—
-(a) a particular person; or
-(b) a particular qualification; or
-(c) a particular application, notification or proceeding.
-20—Publication of advice
-(1) The Ministerial Council is to make arrangements for the publication of advice given to it by the Advisory Council as soon as practicable after the Ministerial Council has had the opportunity to consider the advice, in accordance with the COAG Agreement.
-(2) However, the Ministerial Council may decide not to publish an advice or part of an advice if the Advisory Council recommends that the Council not publish it in the interests of protecting the privacy of any person.
-21—Powers of Advisory Council
-The Advisory Council has the powers necessary to enable it to exercise its function.
-22—Membership of Advisory Council
-(1) The Advisory Council is to consist of 7 members.
-(2) Members of the Advisory Council are to be appointed by the Ministerial Council.
-(3) One of the members of the Advisory Council is to be appointed as Chairperson, being a person who—
-(a) is not a registered health practitioner; and
-(b) has not been registered as a health practitioner under this Law or a corresponding prior Act within the last 5 years.
-(4) At least 3 of the other members of the Advisory Council are to be persons who have expertise in health, or education and training, or both.
-(5) Schedule 1 sets out provisions relating to the Advisory Council.
 Part 4—Australian Health Practitioner Regulation Agency
 Division 1—National Agency
 23—National Agency
@@ -348,8 +332,9 @@ The functions of the National Agency are as follows—
 (g) in conjunction with the National Boards, to keep up-to-date national registers of students for each health profession;
 (h) to keep an up-to-date and publicly accessible list of approved programs of study for each health profession;
 (i) to establish an efficient procedure for receiving and dealing with notifications against persons who are or were registered health practitioners and persons who are students, including by establishing a national process for receiving notifications about registered health practitioners in all professions;
-(j) to provide advice to the Ministerial Council in connection with the administration of the national registration and accreditation scheme;
+(j) to give advice to the Ministerial Council on issues relating to the national registration and accreditation scheme;
 (k) if asked by the Ministerial Council, to give to the Ministerial Council the assistance or information reasonably required by the Ministerial Council in connection with the administration of the national registration and accreditation scheme;
+(ka) to do anything else necessary or convenient for the effective and efficient operation of the national registration and accreditation scheme;
 (l) any other function given to the National Agency by or under this Law.
 26—Health profession agreements
 (1) The National Agency must enter into an agreement (a health profession agreement) with a National Board that makes provision for the following—
@@ -372,23 +357,23 @@ The functions of the National Agency are as follows—
 28—Office of National Agency
 (1) The National Agency is to establish a national office.
 (2) The National Agency is also to establish at least one local office in each participating jurisdiction.
-Division 2—Agency Management Committee
-29—Agency Management Committee
-(1) The Australian Health Practitioner Regulation Agency Management Committee is established.
-(2) The Agency Management Committee is to consist of at least 5 members appointed by the Ministerial Council.
+Division 2—Agency Board
+29—Agency Board
+(1) The Australian Health Practitioner Regulation Agency Board is established.
+(2) The Agency Board is to consist of at least 5 members appointed by the Ministerial Council.
 (3) Of the members—
 (a) one is to be a person appointed by the Ministerial Council as Chairperson, being a person who—
 (i) is not a registered health practitioner; and
 (ii) has not been registered as a health practitioner under this Law or a corresponding prior Act within the last 5 years; and
 (b) at least 2 others are to be persons who have expertise in health, or education and training, or both; and
 (c) at least 2 others are to be persons who are not current or former registered health practitioners and who have business or administrative expertise.
-(4) Schedule 2 sets out provisions relating to the Agency Management Committee.
-30—Functions of Agency Management Committee
-(1) The functions of the Agency Management Committee are as follows—
+(4) Schedule 2 sets out provisions relating to the Agency Board.
+30—Functions of Agency Board
+(1) The functions of the Agency Board are as follows—
 (a) subject to any directions of the Ministerial Council, to decide the policies of the National Agency;
 (b) to ensure that the National Agency performs its functions in a proper, effective and efficient way;
-(c) any other function given to the Committee by or under this Law.
-(2) The affairs of the National Agency are to be controlled by the Agency Management Committee and all acts and things done in the name of, or on behalf of, the National Agency by or with the authority of the Agency Management Committee are taken to have been done by the National Agency.
+(c) any other function given to the Board by or under this Law.
+(2) The affairs of the National Agency are to be controlled by the Agency Board and all acts and things done in the name of, or on behalf of, the National Agency by or with the authority of the Agency Board are taken to have been done by the National Agency.
 Part 5—National Boards
 Division 1—National Boards
 31—Regulations must provide for National Boards
@@ -439,7 +424,7 @@ existing Board means a National Health Practitioner Board in existence immediate
 (c) if the National Board is established for 2 or more health professions—at least one member of each health profession for which the Board is established.
 (6) At least 2 of the members of a National Board must be persons appointed as community members.
 (7) At least one of the members of a National Board must live in a regional or rural area.
-(8) A person cannot be appointed as a member of a National Board if the person is a member of the Agency Management Committee.
+(8) A person cannot be appointed as a member of a National Board if the person is a member of the Agency Board.
 (9) One of the practitioner members of the National Board is to be appointed as Chairperson of the Board by the Ministerial Council.
 (9A) The regulations may prescribe matters relating to the composition of practitioner members for a National Board established for 2 or more health professions.
 (10) Schedule 4 sets out provisions relating to a National Board.
@@ -480,7 +465,7 @@ Division 2—Functions of National Boards
 (i) health and performance and professional standards matters in relation to persons who are or were registered in the health profession under this Law or a corresponding prior Act; and
 (ii) health matters in relation to students registered by the Board;
 (i) to refer matters about health practitioners who are or were registered under this Law or a corresponding prior Act to responsible tribunals for participating jurisdictions;
-(j) to oversee the management of health practitioners and students registered in the health profession, including monitoring conditions, undertaking and suspensions imposed on the registration of the practitioners or students;
+(j) to oversee the management of health practitioners and students registered in the health profession, including monitoring conditions, undertakings and suspensions imposed on the registration of the practitioners or students;
 (k) to make recommendations to the Ministerial Council about the operation of specialist recognition in the health profession and the approval of specialties for the profession;
 (l) in conjunction with the National Agency, to keep up-to-date and publicly accessible national registers of registered health practitioners for the health profession;
 (m) in conjunction with the National Agency, to keep an up-to-date national register of students for the health profession;
@@ -989,16 +974,6 @@ Subdivision 2—Endorsement in relation to nurse practitioners
 (2) An endorsement under subsection (1) must state—
 (a) that the registered health practitioner is entitled to use the title "nurse practitioner"; and
 (b) any conditions applicable to the practice by the registered health practitioner as a nurse practitioner.
-Subdivision 3—Endorsement in relation to midwife practitioners
-96—Endorsement as midwife practitioner
-(1) The National Board for the midwifery profession may endorse the registration of a registered health practitioner whose name is included in the Register of Midwives as being qualified to practise as a midwife practitioner if the practitioner—
-(a) holds either of the following qualifications relevant to the endorsement—
-(i) an approved qualification;
-(ii) another qualification that, in the Board's opinion, is substantially equivalent to, or based on similar competencies to, an approved qualification; and
-(b) complies with any approved registration standard relevant to the endorsement.
-(2) An endorsement under subsection (1) must state—
-(a) that the registered health practitioner is entitled to use the title "midwife practitioner"; and
-(b) any conditions applicable to the practice by the registered health practitioner as a midwife practitioner.
 Subdivision 4—Endorsement in relation to acupuncture
 97—Endorsement for acupuncture
 (1) A National Board may endorse the registration of a registered health practitioner registered in a health profession for which the Board is established as being qualified to practise as an acupuncturist if the practitioner—
@@ -1051,7 +1026,7 @@ Subdivision 6—Application for endorsement
 (a) the applicant is not qualified for the endorsement under a relevant section; or
 (b) the Board considers the applicant is not competent to practise the health profession in accordance with the endorsement sought.
 (3) In this section—
-relevant section means section 94, 95, 96, 97 or 98.
+relevant section means section 94, 95, 97 or 98.
 103—Conditions of endorsement
 (1) If a National Board decides to endorse the applicant's registration under section 102, the Board may decide to impose on the endorsement the conditions the Board considers necessary or desirable in the circumstances.
 Note—
@@ -1411,7 +1386,7 @@ Subdivision 2—Review of conditions and undertakings
 (2) The National Board may—
 (a) decide that any change or removal, or change or revocation, may be decided by the review body of a co‑regulatory jurisdiction; and
 (b) give any relevant documents or information held by the Board to the review body.
-(3) If a review body of a co‑regulatory jurisdiction is to decide a matter instead of the Board, the review body must decide the matter under the laws of that jurisdiction.
+(3) If a review body of a co‑regulatory jurisdiction agrees to decide a matter instead of the Board, the review body must decide the matter under the laws of that jurisdiction.
 (4) In this section—
 review body means an entity declared by an Act or regulation of a co‑regulatory jurisdiction to be a review body for this section.
 Subdivision 3—Obligations of registered health practitioners and students
@@ -1478,8 +1453,8 @@ Subdivision 4—Advertising
 (d) creates an unreasonable expectation of beneficial treatment; or
 (e) directly or indirectly encourages the indiscriminate or unnecessary use of regulated health services.
 Maximum penalty:
-(a) in the case of an individual—$5 000; or
-(b) in the case of a body corporate—$10 000.
+(a) in the case of an individual—$60 000; or
+(b) in the case of a body corporate—$120 000.
 (2) A person does not commit an offence against subsection (1) merely because the person, as part of the person's business, prints or publishes an advertisement for another person.
 (3) In proceedings for an offence against this section, a court may have regard to a guideline approved by a National Board about the advertising of regulated health services.
 (4) In this section—
@@ -1507,8 +1482,8 @@ Subdivision 6—General
 136—Directing or inciting unprofessional conduct or professional misconduct
 (1) A person must not direct or incite a registered health practitioner to do anything, in the course of the practitioner's practice of the health profession, that amounts to unprofessional conduct or professional misconduct.
 Maximum penalty:
-(a) in the case of an individual—$30 000; or
-(b) in the case of a body corporate—$60 000.
+(a) in the case of an individual—$60 000; or
+(b) in the case of a body corporate—$120 000.
 (2) Subsection (1) does not apply to a person who is the owner or operator of a public health facility.
 137—Surrender of registration
 (1) A registered health practitioner may, by written notice given to the National Board established for the practitioner's health profession, surrender the practitioner's registration.
@@ -1599,6 +1574,8 @@ See section 237 which provides protection from civil, criminal and administrativ
 (e) the first health practitioner knows, or reasonably believes, the National Agency has been notified of the matter that forms the basis of the reasonable belief.
 142—Mandatory notifications by employers
 (1) If an employer of a registered health practitioner reasonably believes the health practitioner has behaved in a way that constitutes notifiable conduct, the employer must notify the National Agency of the notifiable conduct.
+Example—
+An employer takes action against a registered health practitioner by withdrawing or restricting the practitioner's clinical privileges at a hospital because the employer reasonably believes the public is at risk of harm by the practitioner practising the profession in a way that constitutes a significant departure from accepted professional standards—see paragraph (d) of the definition of notifiable conduct in section 140. The employer must notify the National Agency of the notifiable conduct.
 Note—
 See section 237 which provides protection from civil, criminal and administrative liability for persons who, in good faith, make a notification under this Law. Section 237(3) provides that the making of a notification does not constitute a breach of professional etiquette or ethics or a departure from accepted standards of professional conduct and nor is any liability for defamation incurred.
 (2) If the National Agency becomes aware that an employer of a registered health practitioner has failed to notify the Agency of notifiable conduct as required by subsection (1), the Agency must give a written report about the failure to the responsible Minister for the participating jurisdiction in which the notifiable conduct occurred.
@@ -1732,7 +1709,7 @@ immediate action, in relation to a registered health practitioner or student, me
 156—Power to take immediate action
 (1) A National Board may take immediate action in relation to a registered health practitioner or student registered in a health profession for which the Board is established if—
 (a) the National Board reasonably believes that—
-(i) because of the registered health practitioner's conduct, performance or health, the practitioner poses a serious risk to persons; and
+(i) because of the registered health practitioner's health, conduct or performance, the practitioner poses a serious risk to persons; and
 (ii) it is necessary to take immediate action to protect public health or safety; or
 (b) the National Board reasonably believes that—
 (i) the student poses a serious risk to persons because the student—
@@ -1788,7 +1765,7 @@ Subdivision 1—Preliminary
 (ii) an undertaking given by the practitioner or student to the Board.
 (2) If a National Board decides to investigate a registered health practitioner or student it must direct an appropriate investigator to conduct the investigation.
 161—Registered health practitioner or student to be given notice of investigation
-(1) A National Board that decides to investigate a registered health practitioner or student must, within as soon as practicable after making the decision, give the practitioner or student written notice about the investigation.
+(1) A National Board that decides to investigate a registered health practitioner or student must, as soon as practicable after making the decision, give the practitioner or student written notice about the investigation.
 (2) The notice must advise the registered health practitioner or student of the nature of the matter being investigated.
 (3) Also, the National Board must, at not less than 3 monthly intervals, give the written notice of the progress of the investigation to—
 (a) the registered health practitioner or student; and
@@ -2109,8 +2086,8 @@ The responsible tribunal may make any order about costs it considers appropriate
 (3) If the responsible tribunal decides to impose a condition on the practitioner's registration, the tribunal must also decide a review period for the condition.
 (4) If the tribunal decides to cancel a person's registration under this Law or the person does not hold registration under this Law, the tribunal may also decide to—
 (a) disqualify the person from applying for registration as a registered health practitioner for a specified period; or
-(b) prohibit the person, either permanently or for a stated period, from—
-(i) providing any health service or a specified health service; or
+(b) prohibit the person, either permanently or for a stated period, from doing either or both of the following—
+(i) providing any health service or a specified health service;
 (ii) using any title or a specified title.
 196A—Offences relating to prohibition orders
 (1) A person must not contravene a prohibition order.
@@ -2325,7 +2302,7 @@ Maximum penalty:
 information management agency means a Commonwealth, State or Territory agency that has functions relating to the identification of health practitioners for information management and communication purposes, including, for example, the National E‑health Transition Authority.
 219—Disclosure of information to other Commonwealth, State and Territory entities
 (1) A person exercising functions under this Law may disclose protected information to the following entities—
-(a) the chief executive officer under the Medicare Australia Act 1973 of the Commonwealth;
+(a) the Chief Executive Medicare under the Human Services (Medicare) Act 1973 of the Commonwealth;
 (b) an entity performing functions under the Health Insurance Act 1973 of the Commonwealth;
 (c) the Secretary within the meaning of the National Health Act 1953 of the Commonwealth;
 (d) the Secretary to the Department in which the Migration Act 1958 of the Commonwealth is administered;
@@ -2498,8 +2475,7 @@ Ombudsman Act means the Ombudsman Act 1976 of the Commonwealth, as in force from
 (2) Any liability resulting from an act or omission that would, but for subsection (1), attach to a protected person attaches instead to the National Agency.
 (3) In this section—
 protected person means any of the following—
-(a) a member of the Advisory Council;
-(b) a member of the Agency Management Committee;
+(b) a member of the Agency Board;
 (c) a member of a National Board or a committee of the National Board;
 (d) a member of an external accreditation entity;
 (e) a member of the staff of the National Agency;
@@ -2938,13 +2914,6 @@ Despite section 34(2), a person is eligible for appointment as a practitioner me
 (2) This section applies despite section 53.
 304—Relationship with other provisions of Law
 This Division applies despite any other provision of this Law but does not affect the operation of clause 30 of Schedule 7.
-Division 16—Savings and transitional regulations
-305—Savings and transitional regulations
-(1) The regulations may contain provisions (savings and transitional provisions) of a savings or transitional nature—
-(a) consequent on the enactment of this Law in a participating jurisdiction; or
-(b) to otherwise allow or facilitate the change from the operation of a law of the participating jurisdiction relating to health practitioners to the operation of this Law.
-(2) Savings and transitional provisions may have retrospective operation to a day not earlier than the participation day for that participating jurisdiction.
-(3) This section and any savings and transitional provisions expire on 30 June 2015.
 Part 13—Transitional and other provisions for Health Practitioner Regulation National Law (South Australia) (Amendment of Law) Regulations 2017
 Division 1—Paramedicine Board and registration of paramedics
 306—Definitions
@@ -3079,73 +3048,23 @@ Section 196A also applies to a prohibition order made before the commencement.
 323—Public national registers
 (1) This section applies to a register kept under section 222 or 223 immediately before the commencement.
 (2) The register continues in force immediately after the commencement.
-Schedule 1—Constitution and procedure of Advisory Council
-(Section 22)
-Part 1—General
-1—Definitions
-In this Schedule—
-Chairperson means the Chairperson of the Advisory Council.
-member means a member of the Advisory Council.
-Part 2—Constitution
-2—Terms of office of members
-Subject to this Schedule, a member holds office for the period (not exceeding 3 years) specified in the member's instrument of appointment, but is eligible (if otherwise qualified) for reappointment.
-3—Remuneration
-A member is entitled to be paid such remuneration (including travelling and subsistence allowances) as the Ministerial Council may from time to time determine with respect to the member.
-4—Vacancy in office of member
-(1) The office of a member becomes vacant if the member—
-(a) completes the member's term of office; or
-(b) resigns the office by instrument in writing addressed to the Chairperson of the Ministerial Council; or
-(c) is removed from office by the Chairperson of the Ministerial Council under this clause; or
-(d) dies.
-(2) The Chairperson of the Ministerial Council may remove a member from office if—
-(a) the member has been found guilty of an offence (whether in a participating jurisdiction or elsewhere) that, in the opinion of the Chairperson of the Ministerial Council, renders the member unfit to continue to hold the office of member; or
-(b) the member ceases to be a registered health practitioner as a result of the member's misconduct, impairment or incompetence; or
-(c) the Advisory Council recommends the removal of the member, on the basis that the member has engaged in misconduct or has failed or is unable to properly exercise the member's functions as a member.
-(3) In addition, the Chairperson of the Ministerial Council may remove the Chairperson of the Advisory Council from office as a member if the Chairperson of the Advisory Council becomes a registered health practitioner.
-5—Extension of term of office during vacancy in membership
-(1) If the office of a member becomes vacant because the member has completed the member's term of office, the member is taken to continue to be a member during that vacancy until the date on which the vacancy is filled (whether by reappointment of the member or appointment of a successor to the member).
-(2) However, this clause ceases to apply to the member if—
-(a) the member resigns the member's office by instrument in writing addressed to the Chairperson of the Ministerial Council; or
-(b) the Chairperson of the Ministerial Council determines that the services of the member are no longer required.
-(3) The maximum period for which a member is taken to continue to be a member under this clause after completion of the member's term of office is 6 months.
-6—Disclosure of conflict of interest
-(1) If—
-(a) a member has a direct or indirect pecuniary or other interest in a matter being considered or about to be considered at a meeting of the Advisory Council; and
-(b) the interest appears to raise a conflict with the proper performance of the member's duties in relation to the consideration of the matter;
-the member must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the Advisory Council.
-(2) Particulars of any disclosure made under this clause must be recorded by the Advisory Council in a book kept for the purpose.
-(3) After a member has disclosed the nature of an interest in any matter, the member must not, unless the Ministerial Council or the Advisory Council otherwise determines—
-(a) be present during any deliberation of the Advisory Council with respect to the matter; or
-(b) take part in any decision of the Advisory Council with respect to the matter.
-(4) For the purposes of the making of a determination by the Advisory Council under subclause (3), a member who has a direct or indirect pecuniary or other interest in a matter to which the disclosure relates must not—
-(a) be present during any deliberation of the Advisory Council for the purpose of making the determination; or
-(b) take part in the making of the determination by the Advisory Council.
-(5) A contravention of this clause does not invalidate any decision of the Advisory Council.
-Part 3—Procedure
-7—General procedure
-The procedure for the calling of meetings of the Advisory Council and for the conduct of business at those meetings is, subject to this Law, to be as determined by the Advisory Council.
-8—Quorum
-The quorum for a meeting of the Advisory Council is a majority of its members for the time being.
-9—Presiding member
-The Chairperson (or, in the absence of the Chairperson, a person elected by the members of the Advisory Council who are present at a meeting of the Advisory Council) is to preside at a meeting of the Advisory Council.
-10—Transaction of business outside meetings or by telecommunication
-(1) The Advisory Council may, if it thinks fit, transact any of its business by the circulation of papers among all the members of the Advisory Council for the time being, and a resolution in writing approved in writing by a majority of those members is taken to be a decision of the Advisory Council.
-(2) The Advisory Council may, if it thinks fit, transact any of its business at a meeting at which members (or some members) participate by telephone, closed-circuit television or other means, but only if any member who speaks on a matter before the meeting can be heard by the other members.
-(3) For the purposes of—
-(a) the approval of a resolution under subclause (1); or
-(b) a meeting held in accordance with subclause (2);
-the Chairperson and each member have the same voting rights as they have at an ordinary meeting of the Advisory Council.
-(4) Papers may be circulated among the members for the purposes of subclause (1) by facsimile, email or other transmission of the information in the papers concerned.
-11—First meeting
-The Chairperson may call the first meeting of the Advisory Council in any manner the Chairperson thinks fit.
-Schedule 2—Agency Management Committee
+Part 14—Transitional provisions for Health Practitioner Regulation National Law and Other Legislation Amendment Act 2022
+324—Renaming of Agency Management Committee
+(1) The renaming of the Agency Management Committee by the Health Practitioner Regulation National Law and Other Legislation Amendment Act 2022 does not affect the validity of an appointment of a person to the Committee before the renaming.
+(2) In this section—
+Agency Management Committee means the Australian Health Practitioner Regulation Agency Management Committee established by section 29, as in force immediately before the commencement of this section.
+325—Saving of endorsement of midwife practitioner
+(1) If, immediately before the commencement of section 75 of the Health Practitioner Regulation National Law and Other Legislation Amendment Act 2022, a registered health practitioner's registration was endorsed as being qualified to practise as a midwife practitioner, the practitioner may do any of the following as if section 96 had not been repealed—
+(a) if the practitioner continues to comply with any approved registration standard relevant to the endorsement—continue to hold and renew the endorsement, subject to any conditions stated in the endorsement;
+(b) while holding the endorsement, use the title "midwife practitioner" or otherwise hold themself out as holding the endorsement.
+(2) Section 119 continues to apply in relation to a claim by any other registered health practitioner to hold, or to be qualified to hold, an endorsement as a midwife practitioner as if section 96 had not been repealed.
+Schedule 2—Agency Board
 (Section 29)
 Part 1—General
 1—Definitions
 In this Schedule—
-Chairperson means the Chairperson of the Committee.
-Committee means the Agency Management Committee.
-member means a member of the Committee.
+Chairperson means the Chairperson of the Agency Board.
+member means a member of the Agency Board.
 Part 2—Constitution
 2—Terms of office of members
 Subject to this Schedule, a member holds office for the period (not exceeding 3 years) specified in the member's instrument of appointment, but is eligible (if otherwise qualified) for reappointment.
@@ -3156,7 +3075,7 @@ A member is entitled to be paid such remuneration (including travelling and subs
 (a) completes a term of office; or
 (b) resigns the office by instrument in writing addressed to the Chairperson of the Ministerial Council; or
 (c) is removed from office by the Chairperson of the Ministerial Council under this clause; or
-(d) is absent, without leave first being granted by the Chairperson of the Committee, from 3 or more consecutive meetings of the Committee of which reasonable notice has been given to the member personally or by post; or
+(d) is absent, without leave first being granted by the Chairperson of the Agency Board, from 3 or more consecutive meetings of the Agency Board of which reasonable notice has been given to the member personally or by post; or
 (e) dies.
 (2) The Chairperson of the Ministerial Council may remove a member from office if—
 (a) the member has been found guilty of an offence (whether in a participating jurisdiction or elsewhere) that, in the opinion of the Chairperson of the Ministerial Council, renders the member unfit to continue to hold the office of member; or
@@ -3164,13 +3083,13 @@ A member is entitled to be paid such remuneration (including travelling and subs
 (i) ceases to be a registered health practitioner; or
 (ii) if the member is registered in more than one health profession—ceases to be registered in either or any of the health professions; or
 (c) the member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with the member's creditors or makes an assignment of the member's remuneration for their benefit; or
-(d) the Committee recommends the removal of the member, on the basis that the member has engaged in misconduct or has failed or is unable to properly exercise the member's functions as a member.
-(3) In addition, the Chairperson of the Ministerial Council may remove the Chairperson of the Committee from office as a member if the Chairperson of the Committee becomes a registered health practitioner.
+(d) the Agency Board recommends the removal of the member, on the basis that the member has engaged in misconduct or has failed or is unable to properly exercise the member's functions as a member.
+(3) In addition, the Chairperson of the Ministerial Council may remove the Chairperson of the Agency Board from office as a member if the Chairperson of the Agency Board becomes a registered health practitioner.
 5—Vacancies to be advertised
-(1) Before the Ministerial Council appoints a member of the Committee, the vacancy to be filled is to be publicly advertised.
-(2) It is not necessary to advertise a vacancy in the membership of the Committee before appointing a person to act in the office of a member.
+(1) Before the Ministerial Council appoints a member of the Agency Board, the vacancy to be filled is to be publicly advertised.
+(2) It is not necessary to advertise a vacancy in the membership of the Agency Board before appointing a person to act in the office of a member.
 Note—
-The general interpretation provisions applicable to this Law under section 6 confer power to appoint acting members of the Agency Management Committee.
+The general interpretation provisions applicable to this Law under section 6 confer power to appoint acting members of the Agency Board.
 6—Extension of term of office during vacancy in membership
 (1) If the office of a member becomes vacant because the member has completed the member's term of office, the member is taken to continue to be a member during that vacancy until the date on which the vacancy is filled (whether by reappointment of the member or appointment of a successor to the member).
 (2) However, this clause ceases to apply to the member if—
@@ -3178,63 +3097,63 @@ The general interpretation provisions applicable to this Law under section 6 con
 (b) the Chairperson of the Ministerial Council determines that the services of the member are no longer required.
 (3) The maximum period for which a member is taken to continue to be a member under this clause after completion of the member's term of office is 6 months.
 7—Members to act in public interest
-(1) A member of the Committee is to act impartially and in the public interest in the exercise of the member's functions as a member.
-(2) Accordingly, a member of the Committee is to put the public interest before the interests of particular health practitioners or any body or organisation that represents health practitioners.
+(1) A member of the Agency Board is to act impartially and in the public interest in the exercise of the member's functions as a member.
+(2) Accordingly, a member of the Agency Board is to put the public interest before the interests of particular health practitioners or any body or organisation that represents health practitioners.
 8—Disclosure of conflict of interest
 (1) If—
-(a) a member has a direct or indirect pecuniary or other interest in a matter being considered or about to be considered at a meeting of the Committee; and
+(a) a member has a direct or indirect pecuniary or other interest in a matter being considered or about to be considered at a meeting of the Agency Board; and
 (b) the interest appears to raise a conflict with the proper performance of the member's duties in relation to the consideration of the matter;
-the member must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the Committee.
-(2) Particulars of any disclosure made under this clause must be recorded by the Committee in a book kept for the purpose.
-(3) After a member has disclosed the nature of an interest in any matter, the member must not, unless the Ministerial Council or the Committee otherwise determines—
-(a) be present during any deliberation of the Committee with respect to the matter; or
-(b) take part in any decision of the Committee with respect to the matter.
-(4) For the purposes of the making of a determination by the Committee under subclause (3), a member who has a direct or indirect pecuniary or other interest in a matter to which the disclosure relates must not—
-(a) be present during any deliberation of the Committee for the purpose of making the determination; or
-(b) take part in the making of the determination by the Committee.
-(5) A contravention of this clause does not invalidate any decision of the Committee.
+the member must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the Agency Board.
+(2) Particulars of any disclosure made under this clause must be recorded by the Agency Board in a book kept for the purpose.
+(3) After a member has disclosed the nature of an interest in any matter, the member must not, unless the Ministerial Council or the Agency Board otherwise determines—
+(a) be present during any deliberation of the Agency Board with respect to the matter; or
+(b) take part in any decision of the Agency Board with respect to the matter.
+(4) For the purposes of the making of a determination by the Agency Board under subclause (3), a member who has a direct or indirect pecuniary or other interest in a matter to which the disclosure relates must not—
+(a) be present during any deliberation of the Agency Board for the purpose of making the determination; or
+(b) take part in the making of the determination by the Agency Board.
+(5) A contravention of this clause does not invalidate any decision of the Agency Board.
 Part 3—Procedure
 9—General procedure
-The procedure for the calling of meetings of the Committee and for the conduct of business at those meetings is, subject to this Law, to be as determined by the Committee.
+The procedure for the calling of meetings of the Agency Board and for the conduct of business at those meetings is, subject to this Law, to be as determined by the Agency Board.
 10—Quorum
-The quorum for a meeting of the Committee is a majority of its members for the time being.
+The quorum for a meeting of the Agency Board is a majority of its members for the time being.
 11—Chief executive officer may attend meetings
-The chief executive officer of the National Agency may attend meetings of the Committee and may participate in discussions of the Committee, but is not entitled to vote at a meeting.
+The chief executive officer of the National Agency may attend meetings of the Agency Board and may participate in discussions of the Agency Board, but is not entitled to vote at a meeting.
 12—Presiding member
-(1) The Chairperson (or, in the absence of the Chairperson, a person elected by the members of the Committee who are present at a meeting of the Committee) is to preside at a meeting of the Committee.
+(1) The Chairperson (or, in the absence of the Chairperson, a person elected by the members of the Agency Board who are present at a meeting of the Agency Board) is to preside at a meeting of the Agency Board.
 (2) The presiding member has a deliberative vote and, in the event of an equality of votes, has a second or casting vote.
 13—Voting
-A decision supported by a majority of the votes cast at a meeting of the Committee at which a quorum is present is the decision of the Committee.
+A decision supported by a majority of the votes cast at a meeting of the Agency Board at which a quorum is present is the decision of the Agency Board.
 14—Transaction of business outside meetings or by telecommunication
-(1) The Committee may, if it thinks fit, transact any of its business by the circulation of papers among all the members of the Committee for the time being, and a resolution in writing approved in writing by a majority of those members is taken to be a decision of the Committee.
-(2) The Committee may, if it thinks fit, transact any of its business at a meeting at which members (or some members) participate by telephone, closed‑circuit television or other means, but only if any member who speaks on a matter before the meeting can be heard by the other members.
+(1) The Agency Board may, if it thinks fit, transact any of its business by the circulation of papers among all the members of the Agency Board for the time being, and a resolution in writing approved in writing by a majority of those members is taken to be a decision of the Agency Board.
+(2) The Agency Board may, if it thinks fit, transact any of its business at a meeting at which members (or some members) participate by telephone, closed‑circuit television or other means, but only if any member who speaks on a matter before the meeting can be heard by the other members.
 (3) For the purposes of—
 (a) the approval of a resolution under subclause (1); or
 (b) a meeting held in accordance with subclause (2);
-the Chairperson and each member have the same voting rights as they have at an ordinary meeting of the Committee.
+the Chairperson and each member have the same voting rights as they have at an ordinary meeting of the Agency Board.
 (4) Papers may be circulated among the members for the purposes of subclause (1) by facsimile, email or other transmission of the information in the papers concerned.
 15—First meeting
-The Chairperson may call the first meeting of the Committee in any manner the Chairperson thinks fit.
+The Chairperson may call the first meeting of the Agency Board in any manner the Chairperson thinks fit.
 16—Defects in appointment of members
-A decision of the Committee is not invalidated by any defect or irregularity in the appointment of any member (or acting member) of the Committee.
+A decision of the Agency Board is not invalidated by any defect or irregularity in the appointment of any member (or acting member) of the Agency Board.
 Schedule 3—National Agency
 (Section 23)
 Part 1—Chief executive officer
 1—Chief executive officer
-(1) The Agency Management Committee is to appoint a person as chief executive officer of the National Agency.
+(1) The Agency Board is to appoint a person as chief executive officer of the National Agency.
 (2) The chief executive officer of the National Agency is to be appointed for a period, not more than 5 years, specified in the officer's instrument of appointment, but is eligible for reappointment.
 (3) The chief executive officer of the National Agency is taken, while holding that office, to be a member of the staff of the National Agency.
 2—Functions of chief executive officer
-(1) The chief executive officer of the National Agency has the functions conferred on the chief executive officer by written instrument of the Agency Management Committee.
-(2) The Agency Management Committee may delegate any of the functions of the National Agency, or of the Agency Management Committee, to the chief executive officer of the National Agency, other than this power of delegation.
+(1) The chief executive officer of the National Agency has the functions conferred on the chief executive officer by written instrument of the Agency Board.
+(2) The Agency Board may delegate any of the functions of the National Agency, or of the Agency Board, to the chief executive officer of the National Agency, other than this power of delegation.
 3—Delegation and subdelegation by chief executive officer
 (1) The chief executive officer of the National Agency may delegate any of the functions conferred on the officer under clause 2(1) to a member of the staff of the National Agency, other than this power of delegation.
-(2) The chief executive officer of the National Agency may subdelegate any function delegated to the officer under clause 2(2) to any member of the staff of the National Agency if the chief executive officer is authorised to do so by the Agency Management Committee.
+(2) The chief executive officer of the National Agency may subdelegate any function delegated to the officer under clause 2(2) to any member of the staff of the National Agency if the chief executive officer is authorised to do so by the Agency Board.
 4—Vacancy in office
 (1) The office of the chief executive officer of the National Agency becomes vacant if—
-(a) the chief executive officer resigns the officer's office by written instrument addressed to the Chairperson of the Agency Management Committee; or
-(b) the appointment of the chief executive officer is terminated by the Agency Management Committee under this clause.
-(2) The Agency Management Committee may, at any time and for any reason, terminate the appointment of the chief executive officer of the National Agency by written notice given to the chief executive officer.
+(a) the chief executive officer resigns the officer's office by written instrument addressed to the Chairperson of the Agency Board; or
+(b) the appointment of the chief executive officer is terminated by the Agency Board under this clause.
+(2) The Agency Board may, at any time and for any reason, terminate the appointment of the chief executive officer of the National Agency by written notice given to the chief executive officer.
 Part 2—Staff, consultants and contractors
 5—Staff of National Agency
 (1) The National Agency may, for the purpose of performing its functions, employ staff.
@@ -4156,4 +4075,4 @@ Part 7—Instruments under Law
 (2) The fact that a provision of this Schedule refers to this Law and not also to a statutory instrument does not, by itself, indicate that the provision is intended to apply only to this Law.
 Part 8—Application to coastal sea
 38—Application
-This Law has effect in and relation to the coastal sea of this jurisdiction as if that coastal sea were part of this jurisdiction.
+This Law has effect in and in relation to the coastal sea of this jurisdiction as if that coastal sea were part of this jurisdiction.
