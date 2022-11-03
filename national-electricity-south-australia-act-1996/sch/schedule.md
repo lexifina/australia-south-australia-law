@@ -38,6 +38,8 @@ augmentation connection agreement means an agreement for connecting an augmentat
 Australian Energy Market Operator or AEMO means Australian Energy Market Operator Limited (ACN 072 010 327);
 Note—
 Before its change of name, AEMO was known as NEMMCO.
+CDR data has the same meaning as in the Competition and Consumer Act 2010 of the Commonwealth;
+CDR provisions has the same meaning as in the Competition and Consumer Act 2010 of the Commonwealth;
 changeover date means 1 July 2009 or some other date fixed as the changeover date by Ministerial Gazette notice;
 civil monetary liability means a liability for damages, compensation or any other monetary amount that can be recovered by way of civil proceedings but does not include a liability for a civil penalty or an infringement penalty under this Law or a liability for the costs of a proceeding;
 civil penalty—see section 2AB;
@@ -50,12 +52,14 @@ constituent components, in relation to a relevant regulatory decision, means the
 Court means—
 (a) where this Law applies as a law of the Commonwealth, the Federal Court;
 (b) where this Law applies as a law of a participating jurisdiction that is a State or a Territory, the Supreme Court of that jurisdiction;
+data holder has the same meaning as in the Competition and Consumer Act 2010 of the Commonwealth;
 derogation means a jurisdictional derogation or participant derogation;
 declared network functions—AEMO's declared network functions are as set out in section 50C(1);
 declared power system of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
 declared shared network of an adoptive jurisdiction means the adoptive jurisdiction's declared transmission system excluding any part of it that is a connection asset within the meaning of the Rules;
 declared transmission system of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction and includes any augmentation of the defined declared transmission system;
 declared transmission system operator of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
+designated energy sector means an energy sector designated under section 56AC of the Competition and Consumer Act 2010 of the Commonwealth;
 direct control network service has the meaning given by section 2B;
 Dispute resolution panel means a person or panel of persons appointed under the Rules to hear and determine a rule dispute;
 distribution determination means a determination of the AER under the Rules that regulates any 1 or more of the following:
@@ -1715,13 +1719,14 @@ See also section 31 of this Law and section 24 of the Australian Energy Market C
 Part 5—Role of AEMO under National Electricity Law
 Division 1—General
 49—AEMO's statutory functions
-(1) AEMO has the following functions:
+(1) The following functions are conferred on AEMO:
 (a) to operate and administer the wholesale exchange;
 (b) to promote the development and improve the effectiveness of the operation and administration of the wholesale exchange;
 (c) to register persons as Registered participants;
 (d) to exempt certain persons from being registered as Registered participants;
 (e) to maintain and improve power system security;
 (f) to facilitate retail customer transfer, metering and retail competition;
+(fa) any functions of a data holder under the Competition and Consumer Act 2010 of the Commonwealth for CDR data relating to a designated energy sector;
 (g) for an adoptive jurisdiction—the additional advisory functions or declared network functions (as the case requires);
 (h) any functions conferred by jurisdictional electricity legislation or an application Act;
 (i) any other functions conferred under this Law or the Rules.
@@ -2466,6 +2471,23 @@ Subdivision 1—Initial Rules made by Minister
 (b) if different Rules will commence operation on different dates, those dates.
 (6) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
 (7) If the Minister referred to in subsection (1) makes Rules under that subsection, the Minister cannot make another Rule under that subsection.
+90AB—South Australian Minister to make initial Rules relating to consumer data right and further Rules relating to disclosure of data
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules—
+(a) for or with respect to the implementation of the CDR provisions relating to a designated energy sector, including the disclosure of CDR data; and
+(b) for or with respect to the recovery of costs incurred by AEMO in the carrying out of functions under section 49(1)(fa); and
+(c) for or with respect to access to and disclosure of metering data and NMI Standing Data; and
+(d) that revoke or amend a Rule as a consequence of the enactment of the consumer data right amendments.
+(2) Rules may only be made under subsection (1) on the recommendation of the MCE.
+(3) Section 34(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(4) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(7) In this section—
+consumer data right amendments means the amendments made to this Law by the National Electricity (South Australia) (Consumer Data Right) Amendment Act 2022.
 90B—South Australian Minister to make initial Rules related to AEMO's functions under this Law
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules on any 1 or more of the following subjects:
 (a) AEMO's statutory functions (including the additional advisory functions and the declared network functions);
@@ -3497,6 +3519,7 @@ Miscellaneous
 (a) on the making of a general regulatory information order;
 (b) before the preparation of a network service provider performance report.
 35 Confidential information held by Registered participants, the AER, the AEMC, AEMO and other persons or bodies conferred a function, or exercising a power or right, or on whom an obligation is imposed, under the Rules, and the manner and circumstances in which that information may be disclosed.
+35A Any matter or thing necessary or expedient for the purposes of compliance with, or implementation of, the CDR provisions relating to a designated energy sector.
 36 Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the National Electricity Code as in operation and effect immediately before the commencement of section 12 of the National Electricity (South Australia) (New National Electricity Law) Amendment Act 2005 of South Australia.
 36A Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the superseded jurisdictional rules.
 37 Any matter or thing relating to electricity prescribed by the Regulations.
