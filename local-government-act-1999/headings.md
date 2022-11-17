@@ -27,15 +27,17 @@ Part 2—Term of office and related issues
 Division 1—General issues
 Division 2—Special provisions if majority of members resign on specified grounds
 Part 3—Role of members
-Part 4—Conduct and disclosure of interests
-Division 1—General duties and code of conduct
-Division 2—Register of interests
-Division 3—Conflicts of interest
-Subdivision 1—Material conflicts of interest
-Subdivision 2—Actual and perceived conflicts of interest
-Subdivision 3—Other matters
+Part 4—Member integrity and behaviour
+Division 1—Member integrity
+Subdivision 1—General
+Subdivision 2—Register of Interests
+Subdivision 3—Gifts and benefits
+Subdivision 4—Conflicts of interest
+Division 2—Member behaviour
+Division 3—Health and safety duties
 Part 5—Allowances and benefits
 Part 6—Training and development
+Part 7—Other matters
 Chapter 6—Meetings
 Part 1—Council meetings
 Part 2—Committee meetings
@@ -48,10 +50,13 @@ Chapter 7—Council staff
 Part 1—Chief executive officer
 Part 2—Appointment of other staff
 Part 3—Human resource management principles
-Part 4—Conduct of employees
-Division 1—General duty and code of conduct
-Division 2—Register of interests
-Division 3—Conflict of interest
+Part 4—Employee integrity and behaviour
+Division 1—Employee integrity
+Subdivision 1—General
+Subdivision 2—Register of Interests
+Subdivision 2A—Gifts and benefits
+Subdivision 3—Conflict of interest
+Division 2—Employee behaviour
 Division 4—Protection from personal liability
 Chapter 8—Administrative and financial accountability
 Part 1—Strategic management plans
@@ -118,19 +123,11 @@ Part 3—Authorised persons
 Chapter 13—Review of local government acts, decisions and operations
 Part A1—Member behaviour
 Division 1—Council to deal with member behaviour
-Editorial note—
-Division 1 had not come into operation at the date of the publication of this version.
 Division 2—Behavioural standards panel
 Subdivision 1—Preliminary
-Editorial note—
-Subdivision 1 had not come into operation at the date of the publication of this version.
 Subdivision 2—Behavioural standards panel
-Editorial note—
-Sections 262H, 262I and 262K to 262P had not come into operation at the date of the publication of this version.
 Subdivision 3—Inquiries and action on complaints referred to Panel
-Editorial note—
-Subdivision 3 had not come into operation at the date of the publication of this version.
-Part 1—Conduct of members
+Part 1—Member integrity—complaints, investigations and proceedings
 Part 2—Internal review of council actions
 Part 3—Reviews initiated by Minister
 Division 1—Councils

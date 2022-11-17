@@ -1,1 +1,1 @@
-Schedule 4—Material to be included in the annual report of a council
+Schedule 4—Material to be included in annual report of council
