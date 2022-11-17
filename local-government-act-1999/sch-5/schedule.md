@@ -2,9 +2,9 @@ Schedule 5—Documents to be made available by councils
 Reviews of council constitution, wards and boundaries
 • Representation options papers and reports on reviews of council composition or ward structure (Chapter 3 Part 1 Division 2)
 Registers and Returns
-• Registers required under this Act or the Local Government (Elections) Act 1999, other than the Register of Interests kept for the purposes of Chapter 7 Part 4 Division 2
+• Registers required under this Act or the Local Government (Elections) Act 1999, other than the Register of Interests kept for the purposes of Chapter 7 Part 4 Division 1 Subdivision 2
 Codes
-• Codes of conduct or codes of practice under this Act or the Local Government (Elections) Act 1999
+• Codes of practice under this Act or the Local Government (Elections) Act 1999
 Meeting papers
 • Notice and agenda for meetings of the council, council committees and electors
 • Minutes of meetings
@@ -25,6 +25,9 @@ Policy and administrative documents
 • Annual report
 • List of fees and charges
 • Public consultation policies
+• Behavioural management policies
+• Behavioural support policies
+• Employee behavioural standards
 • Management plans for community land
 • Policy on the making of orders
 • Procedures for the review of council decisions (Chapter 13 Part 2) and any report under section 270(8)
