@@ -28,6 +28,7 @@ AER economic regulatory function or power means a function or power performed or
 Note—
 The application of a rate of return instrument under this Law is an AER economic regulatory function or power. See section 18V(2).
 AER market liquidity obligation functions means the functions conferred on the AER under section 15(1)(eba);
+AER trial waiver functions means the functions conferred on the AER under Part 3 Division 1D;
 AER wholesale market monitoring functions—the AER wholesale market monitoring functions are as set out in section 18C(1);
 AER wholesale market reporting functions—the AER wholesale market reporting functions are as set out in section 18C(2);
 annual turnover has the same meaning as in section 2(1) of Schedule 2 to the Competition and Consumer Act 2010 of the Commonwealth;
@@ -92,6 +93,7 @@ form of regulation factors has the meaning given by section 2F;
 general market information order means an order under section 53(1)(a) requiring information from persons of a class specified in the order;
 general regulatory information order has the meaning given by section 28C;
 initial National Electricity Rules means the National Electricity Rules made under section 90;
+innovative trial principles—see section 7B;
 interconnected national electricity system means the interconnected transmission and distribution system in this jurisdiction and in the other participating jurisdictions used to convey and control the conveyance of electricity to which are connected—
 (a) generating systems and other facilities; and
 (b) loads settled through the wholesale exchange operated and administered by AEMO under this Law and the Rules;
@@ -246,6 +248,13 @@ transmission system means the apparatus, electric lines, equipment, plant and bu
 transmission system safety duty means a duty or requirement under an Act of a participating jurisdiction, or any instrument made or issued under or for the purposes of that Act, relating to—
 (a) the safe transmission of electricity in that jurisdiction; or
 (b) the safe operation of a transmission system in that jurisdiction;
+trial project means a project—
+(a) that—
+(i) the AER is satisfied is genuinely innovative taking into account the innovative trial principles (in relation to a trial waiver for a trial project); or
+(ii) the AEMC is satisfied is genuinely innovative taking into account the innovative trial principles (in relation to a trial Rule for the purposes of a trial project); and
+(b) that tests an approach in relation to the supply of, or demand for, electricity;
+trial Rule—see section 87;
+trial waiver—see section 18ZL;
 Tribunal means the Australian Competition Tribunal referred to in the Competition and Consumer Act 2010 of the Commonwealth and includes a member of the Tribunal or a Division of the Tribunal performing functions of the Tribunal;
 user or consumer association has the meaning given by section 71A;
 user or consumer interest group has the meaning given by section 71A;
@@ -432,6 +441,17 @@ The objective of this Law is to promote efficient investment in, and efficient o
 (5) A price or charge for the provision of a direct control network service should allow for a return commensurate with the regulatory and commercial risks involved in providing the direct control network service to which that price or charge relates.
 (6) Regard should be had to the economic costs and risks of the potential for under and over investment by a regulated network service provider in, as the case requires, a distribution system or transmission system with which the operator provides direct control network services.
 (7) Regard should be had to the economic costs and risks of the potential for under and over utilisation of a distribution system or transmission system with which a regulated network service provider provides direct control network services.
+7B—Innovative trial principles
+The following principles (the innovative trial principles) must be taken into account in determining whether a trial project is genuinely innovative in connection with granting a trial waiver or making a trial Rule relating to a trial project:
+(a) whether the trial project is focused on developing new or materially improved approaches to the use or supply of, or demand for, electricity;
+(b) whether the trial project is likely to contribute to the achievement of the national electricity objective;
+(c) whether the trial project is able to demonstrate a reasonable prospect of giving rise to materially improved services and outcomes for consumers of electricity;
+(d) whether the trial project maintains adequate consumer protections, including whether the trial project may involve risks to consumers and (if so), how those risks might be mitigated;
+(e) whether the trial project is unable to proceed under the existing regulatory framework;
+(f) whether the trial project has moved beyond research and development stages but is not yet established, or of sufficient maturity, size or otherwise commercially ready, to attract investment;
+(g) whether the trial project may negatively impact AEMO's operation of the national electricity system and national electricity market and, if there are impacts, how those impacts can be mitigated;
+(h) whether the trial project may impact on competition in a competitive sector of the national electricity market;
+(i) any other principle prescribed by the Regulations.
 8—MCE statements of policy principles
 (1) Subject to this section, the MCE may issue a statement of policy principles in relation to any matters that are relevant to the exercise and performance by the AEMC of its functions and powers in—
 (a) making a Rule; or
@@ -692,6 +712,11 @@ Division 1—General
 (ii) regulated network service providers with network revenue or pricing determinations; and
 (iii) AEMO with this Law, the Rules, the Regulations or a transmission determination; and
 (b) to investigate breaches or possible breaches of provisions of this Law, the Regulations or the Rules, including offences against this Law; and
+(ba) without limiting paragraphs (a) and (b), in relation to a person undertaking a trial project under a trial Rule or trial waiver, to monitor the conduct and outcomes of the trial project and investigate breaches or possible breaches by the person of—
+(i) this Law, the Regulations and the Rules; and
+(ii) in particular—
+(A) in the case of a person undertaking a trial project under a trial Rule—the trial Rule and any requirements imposed by the AEMC under section 104B; and
+(B) in the case of a person undertaking a trial project under a trial waiver—the trial waiver and any conditions to which the trial waiver is subject; and
 (c) to institute and conduct proceedings—
 (i) against persons under section 61 of this Law or section 44AAG of the Competition and Consumer Act 2010 of the Commonwealth; or
 (ii) in respect of Registered participants under section 63 of this Law; or
@@ -705,6 +730,7 @@ Division 1—General
 (ec) AER wholesale market monitoring functions and AER wholesale market reporting functions; and
 (ed) to make a rate of return instrument; and
 (f) AER economic regulatory functions or powers; and
+(fa) AER trial waiver functions; and
 (g) any other functions and powers conferred on it under this Law and the Rules.
 (2) The AER has the power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 (3) However, the AER—
@@ -1021,6 +1047,52 @@ Otherwise, the AER is subject to Division 6 of this Part and section 44AAF of th
 (iii) the information and data about compliance required to be given to the AER under section 18ZD;
 (b) the carrying out of compliance audits, including the costs payable by regulated entities;
 (c) any additional matters that the AER intends to include in its compliance reports.
+Division 1D—AER trial waiver functions
+18ZJ—Definitions
+In this Division—
+proponent—see section 18ZL(1).
+18ZK—Interpretative matters
+(1) The functions of the AER under this Division are the AER trial waiver functions.
+(2) This Division does not limit any other provision of this Law or the Rules that provides for an exemption from, or for the waiver of, compliance with this Law or the Rules.
+18ZL—Trial waiver
+(1) Subject to this section, the AER may, on application by a person or body that proposes to undertake a trial project (a proponent), make a determination to grant the proponent an exemption (a trial waiver) from 1 or more of the following:
+(a) section 11 of this Law;
+(b) the Rules, or a provision of the Rules.
+(2) Before making a determination to grant a trial waiver, the AER must have regard to the innovative trial principles and any matter required by the Rules.
+(3) An application for a trial waiver must be made in accordance with the Rules.
+18ZM—Conditions of trial waiver
+(1) A trial waiver must be in writing and—
+(a) must be subject to any conditions required by the Rules; and
+(b) may be subject to any conditions the AER considers appropriate.
+(2) The AER may vary or revoke a condition of a trial waiver in accordance with the Rules.
+18ZN—Consultation on trial waiver
+Before granting a trial waiver, the AER must—
+(a) comply with any requirements specified by the Rules; and
+(b) undertake consultation (including with the proponent) in accordance with the Rules.
+18ZO—Publication etc of trial waiver
+As soon as practicable after a trial waiver is made, a copy of the trial waiver must be published on the AER's website.
+18ZP—Duration of trial waiver
+Subject to this Division, a trial waiver has effect from the day specified in the trial waiver and for the period (not exceeding 5 years) specified in the trial waiver.
+18ZQ—Extension of trial waiver
+(1) The AER may, in accordance with the Rules, extend the period for which a trial waiver granted under this Division has effect by a period determined by the AER (which cannot exceed the period prescribed by the Regulations).
+(2) Before granting an extension under subsection (1), the AER must have regard to the innovative trial principles and any matter required by the Rules.
+(3) An extension under subsection (1) must be in writing and must be published on the AER's website.
+(4) An extension under subsection (1) may only be granted once in respect of a trial waiver granted under this Division.
+18ZR—Compliance with trial waiver
+(1) A proponent granted a trial waiver must comply with any conditions to which the trial waiver is subject.
+(2) If a proponent breaches subsection (1), the AER may—
+(a) revoke the trial waiver; or
+(b) vary or revoke a condition of, or impose further conditions on, the trial waiver.
+(3) Nothing in this section limits section 18ZS.
+18ZS—Revocation of trial waiver
+The AER may, in accordance with the Rules, revoke a trial waiver granted under this Division.
+18ZT—Other matters
+(1) The AER must not grant a trial waiver if the AER reasonably considers—
+(a) that the trial project for which the trial waiver is sought is materially similar to a trial project—
+(i) for which a trial Rule has been made; or
+(ii) that is the subject of a request under section 91(1) for the making of a trial Rule; or
+(b) that the trial project is unlikely to be carried out.
+(2) The AER cannot grant itself a trial waiver.
 Division 2—Search warrants
 19—Definitions
 In this Division—
@@ -1583,6 +1655,7 @@ Division 2—Rule making functions and powers of the AEMC
 (iv) the provision of connection services to retail customers; and
 (aa) facilitating and supporting the provision of services to retail customers; and
 (ab) any matter or thing related to, or necessary or expedient for, the purposes of the Retailer Reliability Obligation; and
+(ac) any matter or thing related to, or necessary or expedient for, the purposes of a trial Rule, trial project or trial waiver; and
 (b) any matter or thing contemplated by this Law, or is necessary or expedient for the purposes of this Law.
 Note—
 The procedure for the making of a Rule by the AEMC is set out in Division 3 of Part 7.
@@ -2402,7 +2475,7 @@ electricity market regulatory body means—
 (a) the AER;
 (b) AEMO;
 (c) the Reliability Panel;
-market initiated proposed Rule means a request for a Rule made under section 91(1) in respect of which the AEMC publishes a notice under section 95;
+market initiated proposed Rule means a request for a Rule, including a trial Rule, made under section 91(1) in respect of which the AEMC publishes a notice under section 95;
 more preferable Rule has the meaning given by section 91A;
 non-controversial Rule means a Rule that is unlikely to have a significant effect on the national electricity market;
 proposed Rule means—
@@ -2414,8 +2487,10 @@ publish means—
 (ab) in relation to a decision under section 94(2)—publish on the AEMC's website and make available at the offices of the AEMC;
 (b) in relation to a proposed Rule referred to in section 95 and any other documents prescribed by the Regulations in relation to a proposed Rule referred to in section 95—publish on the AEMC's website and make available at the offices of the AEMC;
 (c) in relation to a draft Rule determination or final Rule determination—publish on the AEMC's website and make available at the offices of the AEMC;
+(ca) in relation to a notice setting out requirements imposed under section 104B—publish on the AEMC's website;
 (d) in relation to any submissions or comments received by the AEMC under this Part—subject to section 108, publish on the AEMC's website and make available at the offices of the AEMC;
 (e) in relation to a report prepared under section 108A—publish on the AEMC's website and make available at the offices of the AEMC;
+trial Rule means a Rule for the purposes of a trial project;
 urgent Rule means a Rule relating to any matter or thing that, if not made as a matter of urgency, will result in that matter or thing imminently prejudicing or threatening—
 (a) the effective operation or administration of the wholesale exchange operated and administered by AEMO; or
 (b) the safety, security or reliability of the national electricity system.
@@ -2437,6 +2512,8 @@ In addition to complying with sections 88 and 88B, the AEMC must take into accou
 (B) a negotiated network service.
 88B—AEMC must take into account revenue and pricing principles in certain cases
 In addition to complying with sections 88 and 88A, the AEMC must take into account the revenue and pricing principles in making a Rule for or with respect to any matter or thing specified in items 15 to 24 and 25 to 26J of Schedule 1 to this Law.
+88C—AEMC must take into account innovative trial principles in certain cases
+In addition to complying with sections 88 to 88B, the AEMC must take into account the innovative trial principles in making a trial Rule.
 89—AEMC must have regard to certain matters in relation to the making of jurisdictional derogations
 In making a jurisdictional derogation, the AEMC must have regard to whether—
 (a) the derogation provides for the orderly transfer of the regulation of the electricity industry in a participating jurisdiction under jurisdictional electricity legislation to the regulation of that industry under the national electricity legislation; or
@@ -2542,6 +2619,23 @@ South Australian Minister means the Minister in right of the Crown of South Aust
 (b) if different Rules will commence operation on different dates, those dates.
 (7) Rules may only be made under this section on the recommendation of the MCE.
 (8) Rules cannot be made under this section once any one of the participating jurisdictions applies the National Energy Retail Law as a law of that jurisdiction.
+90DA—South Australian Minister to make initial Rules relating to regulatory sandboxing
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules—
+(a) for or with respect to—
+(i) the regulatory sandboxing amendments; and
+(ii) any other subject contemplated by, or necessary or expedient for the regulatory sandboxing amendments; and
+(b) that revoke or amend a Rule as a consequence of the enactment of the regulatory sandboxing amendments.
+(2) section 34(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(3) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(4) The notice referred to in subsection (3)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(5) Rules may only be made under subsection (1) on the recommendation of the MCE.
+(6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(7) In this section—
+regulatory sandboxing amendments means the amendments made to this Law by the Statutes Amendment (National Energy Laws) (Regulatory Sandboxing) Act 2022.
 90E—South Australian Minister to make initial Rules relating to Energy Consumers Australia
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules—
 (a) for or with respect to Energy Consumers Australia (including provisions for its funding); and
@@ -2666,7 +2760,7 @@ The AEMC may make a Rule that is different (including materially different) from
 (2) For the purposes of this Part, the AEMC must treat a Rule it may make under subsection (1) as if it were part of the Rule to be made on that request.
 92—Contents of requests for Rules
 (1) A request for the making of a Rule—
-(a) must contain the information prescribed by the Regulations; and
+(a) must contain the information prescribed by the Regulations or the Rules (or both); and
 (ab) must, subject to section 92A, be accompanied by the fee prescribed by the Regulations (if any); and
 (b) may be accompanied by a draft of the Rule to be made.
 (2) A request for the making of a participant derogation must specify a date on which the participant derogation, if made, will expire.
@@ -2681,15 +2775,28 @@ The AEMC may waive the payment of any fee prescribed by the Regulations for the 
 94—Initial consideration of request for Rule
 (1) Subject to this Part, as soon as practicable after receiving a request for the making of a Rule, the AEMC must consider whether—
 (a) the request for the Rule appears to—
-(i) contain the information prescribed by the Regulations; and
+(i) contain the information prescribed by the Regulations or the Rules (or both); and
 (ii) not be misconceived or lacking in substance; and
 (b) the subject matter of the request appears to be for or with respect to a matter in respect of which the AEMC may make a Rule under this Law; and
 Note—
 Section 34 and Schedule 1 to this Law specify the subject matter for Rules.
 (c) the subject matter of the request appears to relate to the subject matter of—
 (i) a Rule made, or a request for the making of a Rule under section 91(1) not proceeded with, in the 12 months immediately before the date of receipt of the request; or
-(ii) another request for the making of a Rule under section 91(1) in respect of which the AEMC is taking action under this Part.
-(2) If the AEMC considers that, having regard to the matters set out in subsection (1), it should not take any action under this Division in respect of the request for the making of the Rule, the AEMC must make a decision to that effect and inform the person or body, in writing, that requested the Rule of that decision.
+(ii) another request for the making of a Rule under section 91(1) in respect of which the AEMC is taking action under this Part; and
+(d) in the case of a request for a trial Rule—the subject matter of the request appears to relate to the subject matter of—
+(i) a trial waiver granted by the AER; or
+(ii) an application for a trial waiver that has been received by the AER (but that has not been granted at the time of the request for the trial Rule).
+(2) If the AEMC considers that—
+(a) in the case of a request for the making of any Rule—having regard to the matters set out in subsection (1), it should not take any action under this Division in respect of the request; or
+(b) in the case of a request for the making of a trial Rule—it should not take any action under this Division in respect of the request on the basis that—
+(i) the trial project to which the request relates—
+(A) is unlikely to be carried out; or
+(B) offers no reasonable prospect of leading to better services and outcomes for consumers of electricity; or
+(ii) the trial Rule requested—
+(A) is unnecessary to enable the trial project to be undertaken (including, for example, because the trial project could be undertaken under a trial waiver); or
+(B) is unlikely to enable the trial project to be undertaken; or
+(C) should be the subject of a request for a Rule other than a trial Rule,
+the AEMC must make a decision to that effect and inform the person or body, in writing, that requested the Rule of that decision.
 (3) Despite subsection (1) or (2), the AEMC may make a decision to the effect that it should not take any action under this Division in respect of the request for the making of the Rule if the person or body that made the request has not complied with a notice in accordance with section 94A.
 (4) In making a decision under subsection (3), the AEMC must have regard to any representation it receives under section 94A(4).
 (5) A decision under subsection (2) or (3) must—
@@ -2697,6 +2804,7 @@ Section 34 and Schedule 1 to this Law specify the subject matter for Rules.
 (b) be given to the person or body that made the request without delay; and
 (c) in the case where the decision was made only because of the matters set out in subsection (1)(c)—be published.
 (6) Subject to this Part, if the AEMC considers that, having regard to the matters set out in subsection (1), it should take action under this Division in respect of the request for the making of the Rule, the AEMC must publish notice of the request for the making of a Rule in accordance with section 95.
+(7) The AEMC must, as soon as practicable after receiving a request for the making of a trial Rule, consult with AEMO on the matter.
 94A—AEMC may request further information from Rule proponent in certain cases
 (1) This section applies if the AEMC—
 (a) receives a request for the making of a Rule under section 91(1); and
@@ -2734,6 +2842,9 @@ the AEMC may make the relevant Rule in accordance with this Division (except sec
 (a) make a decision to that effect; and
 (b) give the person or body its reasons, in writing, for that decision without delay.
 (5) If the AEMC is of the opinion that the reasons given by a person or body in a written request for it not to make the non-controversial Rule or urgent Rule, are not misconceived or lacking in substance, the AEMC must publish a notice to the effect that it will make the relevant Rule in accordance with this Division (other than this section).
+96AA—Publication of final Rule determination for trial Rule
+(1) If the AEMC considers that a request for a Rule is a request for a trial Rule, the AEMC may make the relevant Rule in accordance with this Division (except sections 98 to 101) and as if the period of time within which the final Rule determination in respect of the relevant Rule must be published were 10 weeks from the date of publication of the notice under section 95.
+(2) Sections 96 and 96A do not apply to a request for a trial Rule.
 96A—"Fast track" Rules where previous public consultation by electricity market regulatory body or an AEMC review
 (1) This section applies if—
 (a) an electricity market regulatory body has—
@@ -2802,6 +2913,7 @@ Any person or body, within the period specified in a notice under section 99(1a)
 (i) in the case where the Rule to be made is not a more preferable Rule, the reasons of the AEMC as to whether it is satisfied the Rule will or is likely to contribute to the achievement of the national electricity objective; and
 (ii) in the case where the Rule to be made is a more preferable Rule, the reasons of the AEMC as to whether it is satisfied the more preferable Rule to be made will or is likely to better contribute to the achievement of the national electricity objective than the market initiated Rule request to which the more preferable Rule relates; and
 (iii) if the AEMC is required to take into account the form of regulation factors or the revenue and pricing principles, the reasons of the AEMC taking those factors or principles (as the case requires) into account; and
+(iiia) if the AEMC is required to take into account the innovative trial principles, the reasons of the AEMC taking those principles into account; and
 (iv) the reasons of the AEMC having regard to any relevant MCE statement of policy principles; and
 (v) the reasons of the AEMC having regard to any other matters the AEMC considers relevant; and
 (b) any other matters that are prescribed by the Regulations.
@@ -2819,8 +2931,41 @@ Any person or body, within the period specified in a notice under section 99(1a)
 (a) a participant derogation; or
 (b) a jurisdictional derogation where the request for the derogation specified a date on which the derogation will expire,
 the AEMC must not make the derogation unless that derogation specifies a date on which it will expire.
+(5) The AEMC must not make a trial Rule unless the date on which the Rule will expire (which must be no more than 5 years after the date on which the trial Rule commences operation) is specified in the Rule.
 104—Operation and commencement of Rule
 A Rule made under section 103 commences operation on the day the relevant notice is published in the South Australian Government Gazette or on any day after that day that is provided for in the relevant notice or the Rule.
+104A—Extension of trial Rule
+(1) Subject to this section, the AEMC may, on request, extend, by notice, the date on which a trial Rule will expire (the expiry date) to a later date, being a date that falls not more than the period prescribed by the Regulations after the expiry date.
+(2) Before extending the expiry date of a trial Rule, the AEMC—
+(a) must have regard to the innovative trial principles; and
+(b) must consult with the AER; and
+(c) if the AEMC considers that the trial Rule, or the trial project to which the trial Rule relates, may impact on AEMO's operation of the national electricity system and national electricity market—must consult with AEMO; and
+(d) may consult with any other person.
+(3) A request under subsection (1) must—
+(a) be made to the AEMC at least 60 days before the expiry date; and
+(b) specify the length of the extension required.
+(4) A notice under subsection (1) must—
+(a) be published; and
+(b) specify the later date referred to in subsection (1).
+(5) The expiry date of a trial Rule may only be extended once under subsection (1).
+104B—AEMC may impose requirements on proponent of trial project on making trial Rule
+(1) The AEMC may, in connection with making a trial Rule, by notice, impose requirements on a person or body that proposes to undertake the trial project (a proponent) to which the trial Rule relates.
+(2) Without limiting subsection (1), the AEMC may impose a requirement that 1 or more reports be submitted to the AER in relation to the trial project.
+(3) A notice under subsection (1) must—
+(a) be published; and
+(b) comply with any other requirements prescribed by the Regulations.
+(4) A proponent to which requirements imposed under this section apply must comply with those requirements.
+(5) If a proponent breaches subsection (4) and, as a result of the breach, the AER recommends that a trial Rule be revoked before the date on which the Rule will expire, the AEMC may—
+(a) revoke the trial Rule; or
+(b) vary or revoke a requirement imposed on the proponent, or impose further requirements on the proponent.
+104C—AEMC may revoke trial Rule on recommendation of AER
+(1) The AEMC may, on the recommendation of the AER, revoke a trial Rule in accordance with this Part.
+(2) This section is in addition to, and does not limit, section 104B.
+104D—Special provision for revocation of trial Rule
+(1) Division 1 Subdivision 2, Division 3 and Division 4 do not apply to the revocation of a trial Rule by the AEMC under section 104B(5)(a) or 104C(1).
+(2) As soon as practicable after revoking a trial Rule under section 104B(5)(a) or 104C(1), the AEMC must—
+(a) publish notice of the revocation, specifying the date on which the revocation takes effect, on its website; and
+(b) publish reasons for the revocation on its website.
 105—Rule that is made to be published on website and made available to the public
 On publication of a notice in accordance with section 103(2), the AEMC must, without delay—
 (a) publish the Rule on its website; and

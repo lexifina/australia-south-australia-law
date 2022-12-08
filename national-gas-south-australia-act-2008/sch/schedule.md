@@ -29,6 +29,7 @@ Note—
 The application of a rate of return instrument under this Law is an AER economic regulatory function or power. See section 30Q(2).
 AER gas price reporting functions means the functions of the AER performed under section 27(1)(fa);
 AER ring fencing determination means a determination of the AER under section 143(1);
+AER trial waiver functions means the functions conferred on the AER under Chapter 2 Part 1 Division 1B;
 annual turnover has the same meaning as in section 2(1) of Schedule 2 to the Competition and Consumer Act 2010 of the Commonwealth;
 applicable access arrangement means a limited access arrangement or full access arrangement that has taken effect after being approved or made by the AER under the Rules and includes an applicable access arrangement as varied—
 (a) under the Rules; or
@@ -178,6 +179,7 @@ initial classification decision means a decision of the NCC under section 98 or 
 initial National Gas Procedures means National Gas Procedures made under section 294A and includes Wholesale Market Procedures and BB Procedures in force immediately before the commencement of the National Gas (South Australia) (National Gas Law—Australian Energy Market Operator) Amendment Act 2009;
 initial National Gas Rules means the Initial National Gas Rules made under Chapter 9 Part 2;
 initial Operational Transportation Service Code means the Operational Transportation Service Code made under section 294DA;
+innovative trial principles—see section 24A;
 international pipeline means a pipeline for the haulage of gas from a foreign source;
 jurisdictional determination criteria, in relation to a cross boundary distribution pipeline, has the meaning given by section 14;
 jurisdictional gas legislation means an Act of a participating jurisdiction (other than national gas legislation), or any instrument made or issued under or for the purposes of that Act, that regulates the haulage of gas in that jurisdiction;
@@ -463,6 +465,13 @@ transportation service means—
 (b) a service provided by means of a compression service facility; or
 (c) a service provided by means of any other facility of a type specified by the Regulations for the purposes of paragraph (c) of the definition of transportation facility;
 transportation service provider means a person who owns, controls or operates a transportation facility;
+trial project means a project—
+(a) that—
+(i) the AER is satisfied is genuinely innovative taking into account the innovative trial principles (in relation to a trial waiver for a trial project); or
+(ii) the AEMC is satisfied is genuinely innovative taking into account the innovative trial principles (in relation to a trial Rule for the purposes of a trial project); and
+(b) tests an approach in relation to natural gas services;
+trial Rule—see section 290;
+trial waiver—see section 30W;
 Tribunal means the Australian Competition Tribunal referred to in the Competition and Consumer Act 2010 of the Commonwealth and includes a member of the Tribunal or a Division of the Tribunal performing functions of the Tribunal;
 user means a person who—
 (a) is a party to a contract with a service provider under which the service provider provides or intends to provide a pipeline service to that person by means of a scheme pipeline; or
@@ -719,6 +728,18 @@ Division 2—Revenue and pricing principles
 (5) A reference tariff should allow for a return commensurate with the regulatory and commercial risks involved in providing the reference service to which that tariff relates.
 (6) Regard should be had to the economic costs and risks of the potential for under and over investment by a service provider in a pipeline with which the service provider provides pipeline services.
 (7) Regard should be had to the economic costs and risks of the potential for under and over utilisation of a pipeline with which a service provider provides pipeline services.
+Division 2A—Innovative trial principles
+24A—Innovative trial principles
+The following principles (the innovative trial principles) must be taken into account in determining whether a trial project is genuinely innovative in connection with granting a trial waiver or making a trial Rule relating to a trial project:
+(a) whether the trial project is focused on developing new or materially improved natural gas services;
+(b) whether the trial project is likely to contribute to the achievement of the national gas objective;
+(c) whether the trial project is able to demonstrate a reasonable prospect of giving rise to materially improved services and outcomes for consumers of natural gas;
+(d) whether the trial project maintains adequate consumer protections, including whether the trial project may involve risks to consumers and (if so), how those risks might be mitigated;
+(e) whether the trial project is unable to proceed under the existing regulatory framework;
+(f) whether the trial project has moved beyond research and development stages but is not yet established, or of sufficient maturity, size or otherwise commercially ready, to attract investment;
+(g) whether the trial project may negatively impact AEMO's operation of systems relating to natural gas (including AEMO's performance of its declared system functions), and markets and auctions for natural gas and, if there are impacts, how those impacts can be mitigated;
+(h) whether the trial project may impact on competition in a competitive sector of a market for natural gas;
+(i) any other principle prescribed by the Regulations.
 Division 3—MCE policy principles
 25—MCE statements of policy principles
 (1) Subject to this section, the MCE may issue a statement of policy principles in relation to any matters that are relevant to the exercise and performance by the AEMC of its functions and powers in—
@@ -744,11 +765,17 @@ Division 1—General
 (1) The AER has the following functions and powers:
 (a) to monitor compliance by persons (including AEMO) with this Law, the Regulations and the Rules, including compliance with an applicable access arrangement, an access determination and a ring fencing decision; and
 (b) to investigate breaches or possible breaches of provisions of this Law, the Regulations or the Rules, including offences against this Law; and
+(ba) without limiting paragraphs (a) and (b), in relation to a person undertaking a trial project under a trial Rule or trial waiver, to monitor the conduct and outcomes of the trial project and investigate breaches or possible breaches by the person of—
+(i) this Law, the Regulations and the Rules; and
+(ii) in particular—
+(A) in the case of a person undertaking a trial project under a trial Rule—the trial Rule and any requirements imposed by the AEMC under section 314B; and
+(B) in the case of a person undertaking a trial project under a trial waiver—the trial waiver and any conditions to which the trial waiver is subject; and
 (c) to institute and conduct proceedings in relation to breaches of provisions of this Law, the Regulations or the Rules, including offences against this Law; and
 (d) to institute and conduct appeals from decisions in proceedings referred to in paragraph (c); and
 (da) to make a rate of return instrument; and
 (e) AER economic regulatory functions or powers; and
 (ea) to make and amend the Operational Transportation Service Code in accordance with this Law and the Rules; and
+(eb) the AER trial waiver functions; and
 (f) to prepare and publish reports on the financial and operational performance of service providers in providing pipeline services by means of covered pipelines; and
 (fa) in relation to goods or services in the natural gas industry—
 (i) to prepare and publish, in accordance with the Rules, aggregated and anonymised information or data about prices for those goods or services; and
@@ -947,6 +974,55 @@ Subdivision 5—Confidentiality of information
 (1) Chapter 10 Part 2 Division 1 applies in relation to publishing information given to the AER in confidence under this Division.
 (2) In this section—
 information includes advice, recommendations, submissions and reports.
+Division 1B—AER trial waiver functions
+30U—Definitions
+In this Division—
+proponent—section 30W(1).
+30V—Interpretative matters
+(1) The functions of the AER under this Division are the AER trial waiver functions.
+(2) This Division does not limit any other provision of this Law or the Rules that provides for an exemption from, or for the waiver of, compliance with this Law or the Rules.
+30W—Trial waiver
+(1) Subject to this section, the AER may, on application by a person or body that proposes to undertake a trial project (a proponent), make a determination to grant the proponent an exemption (a trial waiver) from 1 or more of the following:
+(a) section 91BJ;
+(b) section 91BRD;
+(c) section 91BRR;
+(d) section 91LB;
+(e) the Rules, or a provision of the Rules.
+(2) Before making a determination to grant a trial waiver, the AER must have regard to the innovative trial principles and any matter required by the Rules.
+(3) An application for a trial waiver must be made in accordance with the Rules.
+30X—Conditions of trial waiver
+(1) A trial waiver must be in writing and—
+(a) must be subject to any conditions required by the Rules; and
+(b) may be subject to any conditions the AER considers appropriate.
+(2) The AER may vary or revoke a condition of a trial waiver in accordance with the Rules.
+30Y—Consultation on trial waiver
+Before granting a trial waiver, the AER must—
+(a) comply with any requirements specified by the Rules; and
+(b) undertake consultation (including with the proponent) in accordance with the Rules.
+30Z—Publication etc of trial waiver
+As soon as practicable after a trial waiver is made, a copy of the trial waiver must be published on the AER's website.
+30ZA—Duration of trial waiver
+Subject to this Division, a trial waiver has effect from the day specified in the trial waiver and for the period (not exceeding 5 years) specified in the trial waiver.
+30ZB—Extension of trial waiver
+(1) The AER may, in accordance with the Rules, extend the period for which a trial waiver granted under this Division has effect by a period determined by the AER (which cannot exceed the period prescribed by the Regulations).
+(2) Before granting an extension under subsection (1), the AER must have regard to the innovative trial principles and any matter required by the Rules.
+(3) An extension under subsection (1) must be in writing and must be published on the AER's website.
+(4) An extension under subsection (1) may only be granted once in respect of a trial waiver granted under this Division.
+30ZC—Compliance with trial waiver
+(1) A proponent granted a trial waiver must comply with any conditions to which the trial waiver is subject.
+(2) If a proponent breaches subsection (1), the AER may—
+(a) revoke the trial waiver; or
+(b) vary or revoke a condition of, or impose further conditions on, the trial waiver.
+(3) Nothing in this section limits section 30ZD.
+30ZD—Revocation of trial waiver
+The AER may, in accordance with the Rules, revoke a trial waiver granted under this Division.
+30ZE—Other matters
+(1) The AER must not grant a trial waiver if the AER reasonably considers—
+(a) that the trial project for which the trial waiver is sought is materially similar to a trial project—
+(i) for which a trial Rule has been made; or
+(ii) that is the subject of a request under section 295(1) for the making of a trial Rule; or
+(b) that the trial project is unlikely to be carried out.
+(2) The AER cannot grant itself a trial waiver.
 Division 2—Search warrants
 31—Definitions
 In this Division—
@@ -1406,6 +1482,7 @@ Division 2—Rule making functions and powers of the AEMC
 (aac) transaction support arrangements; and
 (aad) access to and the provision of operational transportation services; and
 (aa) facilitating and supporting the provision of services to retail customers; and
+(ab) any matter or thing related to, or necessary or expedient for, the purposes of a trial Rule, trial project or trial waiver; and
 (ab) the AER gas price reporting functions; and
 (b) any matter or thing contemplated by this Law, or necessary or expedient for the purposes of this Law.
 Note—
@@ -4055,7 +4132,7 @@ gas market regulatory body means—
 (d) REMCo;
 (e) a person or body prescribed by Regulation to be a gas market regulatory body;
 GMCo means the Gas Market Company Ltd (ACN 095 400 258);
-market initiated proposed Rule means a request for a Rule made under section 295(1) in respect of which the AEMC publishes a notice under section 303;
+market initiated proposed Rule means a request for a Rule, including a trial Rule, made under section 295(1) in respect of which the AEMC publishes a notice under section 303;
 more preferable Rule has the meaning given by section 296;
 non-controversial Rule means a Rule that is unlikely to have a significant effect on a market for gas or the regulation of pipeline services;
 proposed Rule means—
@@ -4067,9 +4144,11 @@ publish means—
 (b) in relation to a decision under section 301(2)—publish on the AEMC's website and make available at the offices of the AEMC;
 (c) in relation to a proposed Rule referred to in section 303 and any other documents prescribed by the Regulations in relation to a proposed Rule referred to in section 303—publish on the AEMC's website and make available at the offices of the AEMC;
 (d) in relation to a draft Rule determination or final Rule determination—publish on the AEMC's website and make available at the offices of the AEMC;
+(da) in relation to a notice setting out requirements imposed under section 314B—publish on the AEMC's website;
 (e) in relation to any submissions or comments received by the AEMC under this Chapter—subject to section 319, publish on the AEMC's website and make available at the offices of the AEMC;
 (f) in relation to a report prepared under section 320—publish on the AEMC's website and make available at the offices of the AEMC;
 REMCo means the Retail Energy Market Company Ltd (ACN 103 318 556);
+trial Rule means a Rule for the purposes of a trial project;
 urgent Rule means a Rule relating to any matter or thing that, if not made as a matter of urgency, will result in that matter or thing imminently prejudicing or threatening—
 (a) the effective operation or administration of a regulated gas market operated and administered by AEMO; or
 (b) the supply of gas.
@@ -4087,6 +4166,8 @@ In addition to complying with sections 291 and 293, the AEMC must take into acco
 (ii) confers a function or power on the AER to specify under a full access arrangement decision approving or making an access arrangement a pipeline service (to which the relevant applicable access arrangement applies) as a reference service.
 293—AEMC must take into account revenue and pricing principles in certain cases
 In addition to complying with sections 291 and 292, the AEMC must take into account the revenue and pricing principles in making a Rule for or with respect to any matter or thing specified in items 40 to 48 of Schedule 1 to this Law.
+293A—AEMC must take into account innovative trial principles in certain cases
+In addition to complying with sections 291 to 293, the AEMC must take into account the innovative trial principles in making a trial Rule.
 Part 2—Minister initiated National Gas Rules
 Division 1—Initial Rules made by Minister
 294—South Australian Minister to make initial National Gas Rules
@@ -4225,6 +4306,23 @@ Capacity Trading and Auction amendments means the amendments made to this Law by
 (b) if different Rules will commence operation on different dates, those dates.
 (5) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+294EA—South Australian Minister to make initial Rules relating to regulatory sandboxing
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia (the South Australian Minister) may make Rules—
+(a) for or with respect to—
+(i) the regulatory sandboxing amendments; and
+(ii) any other subject contemplated by, or necessary or expedient for the regulatory sandboxing amendments; and
+(b) that revoke or amend a Rule as a consequence of the enactment of the regulatory sandboxing amendments.
+(2) Section 74(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(3) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(4) The notice referred to in subsection (3)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(5) Rules may only be made under subsection (1) on the recommendation of the MCE.
+(6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(7) In this section—
+regulatory sandboxing amendments means the amendments made to this Law by the Statutes Amendment (National Energy Laws) (Regulatory Sandboxing) Act 2022.
 294F—South Australian Minister to make initial Rules relating to access to non‑scheme pipelines
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia (the South Australian Minister) may make Rules on any 1 or more of the following subjects:
 (a) access proposals, access disputes and arbitrations under Chapter 6A;
@@ -4306,7 +4404,7 @@ The AEMC may make a Rule that is different (including materially different) from
 (2) For the purposes of this Chapter, the AEMC must treat a Rule it may make under subsection (1) as if it were part of the Rule to be made on that request.
 298—Content of requests for a Rule
 A request for the making of a Rule—
-(a) must contain the information prescribed by the Regulations; and
+(a) must contain the information prescribed by the Regulations or the Rules (or both); and
 (b) must, subject to section 299, be accompanied by the fee prescribed by the Regulations (if any); and
 (c) may be accompanied by a draft of the Rule to be made.
 299—Waiver of fee for Rule requests
@@ -4319,15 +4417,28 @@ The AEMC may waive the payment of any fee prescribed by the Regulations for the 
 301—Initial consideration of request for Rule
 (1) Subject to this Chapter, as soon as practicable after receiving a request for the making of a Rule (an active request), the AEMC must consider whether—
 (a) the active request appears to—
-(i) contain the information prescribed by the Regulations; and
+(i) contain the information prescribed by the Regulations or the Rules (or both); and
 (ii) not be misconceived or lacking in substance; and
 (b) the subject matter of the active request appears to be for or with respect to a matter in respect of which the AEMC may make a Rule under this Law; and
 Note—
 Section 74 and Schedule 1 to this Law specify the subject matter for Rules.
 (c) the subject matter of the active request appears to relate to the subject matter of—
 (i) a Rule made, or a request for the making of a Rule under section 295(1) not proceeded with, in the 12 months immediately before the date of receipt of the active request; or
-(ii) another request for the making of a Rule under section 295(1) in respect of which the AEMC is taking action under this Part.
-(2) If the AEMC considers that, having regard to the matters set out in subsection (1), it should not take any action under this Part in respect of the active request, the AEMC must make a decision to that effect and inform the person or body, in writing, that requested the Rule of that decision.
+(ii) another request for the making of a Rule under section 295(1) in respect of which the AEMC is taking action under this Part; and
+(d) in the case of an active request for a trial Rule—the subject matter of the request appears to relate to the subject matter of—
+(i) a trial waiver granted by the AER; or
+(ii) an application for a trial waiver that has been received by the AER (but that has not been granted at the time of the active request for the trial Rule).
+(2) If the AEMC considers that—
+(a) in the case of an active request for the making of any Rule—having regard to the matters set out in subsection (1), it should not take any action under this Part in respect of the active request; or
+(b) in the case of an active request for the making of a trial Rule—it should not take any action under this Part in respect of the active request on the basis that—
+(i) the trial project to which the active request relates—
+(A) is unlikely to be carried out; or
+(B) offers no reasonable prospect of leading to better services and outcomes for consumers of gas; or
+(ii) the trial Rule requested—
+(A) is unnecessary to enable the trial project to be undertaken (including, for example, because the trial project could be undertaken under a trial waiver); or
+(B) is unlikely to enable the trial project to be undertaken; or
+(C) should be the subject of a request for a Rule other than a trial Rule,
+the AEMC must make a decision to that effect and inform the person or body, in writing, that requested the Rule of that decision.
 (3) Despite subsection (1) or (2), the AEMC may make a decision to the effect that it should not take any action under this Part in respect of the active request if the person or body that made the active request has not complied with a notice in accordance with section 302.
 (4) In making a decision under subsection (3), the AEMC must have regard to any representation it receives under section 302(4).
 (5) A decision under subsection (2) or (3) must—
@@ -4335,6 +4446,7 @@ Section 74 and Schedule 1 to this Law specify the subject matter for Rules.
 (b) be given to the person or body that made the active request without delay; and
 (c) in the case where the decision was made only because of the matters set out in subsection (1)(c)—be published.
 (6) Subject to this Chapter, if the AEMC considers that, having regard to the matters set out in subsection (1), it should take action under this Part in respect of an active request the AEMC must publish notice of that active request in accordance with section 303.
+(7) The AEMC must, as soon as practicable after receiving an active request relating to a trial Rule, consult with AEMO on the matter.
 302—AEMC may request further information from Rule proponent in certain cases
 (1) This section applies if the AEMC—
 (a) receives a request for the making of a Rule under section 295(1); and
@@ -4372,6 +4484,9 @@ the AEMC may make the relevant Rule in accordance with this Part (except section
 (a) make a decision to that effect; and
 (b) give the person or body its reasons, in writing, for that decision without delay.
 (5) If the AEMC is of the opinion that the reasons given by a person or body in a written request for it not to make the non-controversial Rule or urgent Rule, are not misconceived or lacking in substance, the AEMC must publish a notice to the effect that it will make the relevant Rule in accordance with this Part (other than this section).
+304A—Publication of final Rule determination for trial Rule
+(1) If the AEMC considers that a request for a Rule is a request for a trial Rule, the AEMC may make the relevant Rule in accordance with this Part (except sections 307 to 310) and as if the period of time within which the final Rule determination in respect of the relevant Rule must be published were 10 weeks from the date of publication of the notice under section 303.
+(2) Sections 304 and 305 do not apply to a request for a trial Rule.
 305—"Fast track" Rules where previous public consultation by gas market regulatory body or an AEMC review
 (1) This section applies if—
 (a) a gas market regulatory body has—
@@ -4440,6 +4555,7 @@ Any person or body, within the period specified in a notice under section 308(1)
 (i) in the case where the Rule to be made is not a more preferable Rule, the reasons of the AEMC as to whether it is satisfied the Rule will or is likely to contribute to the achievement of the national gas objective; and
 (ii) in the case where the Rule to be made is a more preferable Rule, the reasons of the AEMC as to whether it is satisfied the more preferable Rule to be made will or is likely to better contribute to the achievement of the national gas objective than the market initiated Rule request to which the more preferable Rule relates; and
 (iii) if the AEMC is required to take into account the form of regulation factors or the revenue and pricing principles, the reasons of the AEMC taking those factors or principles (as the case requires) into account; and
+(iiia) if the AEMC is required to take into account the innovative trial principles, the reasons of the AEMC taking those principles into account; and
 (iv) the reasons of the AEMC having regard to any relevant MCE statement of policy principles; and
 (v) the reasons of the AEMC having regard to any other matters the AEMC considers relevant; and
 (b) any other matters that are prescribed by the Regulations.
@@ -4452,8 +4568,41 @@ Any person or body, within the period specified in a notice under section 308(1)
 313—Making of Rule
 (1) Subject to this section, if the AEMC, in its final Rule determination, determines to make a Rule, the AEMC must make the relevant Rule as soon as practicable after the publication of the final Rule determination.
 (2) Notice of the making of the Rule must be published in the South Australian Government Gazette as soon as practicable after the making of the Rule.
+(3) The AEMC must not make a trial Rule unless the date on which the Rule will expire (which must be no more than 5 years after the date on which the trial Rule commences operation) is specified in the Rule.
 314—Operation and commencement of Rule
 A Rule made under section 313 commences operation on the day the relevant notice is published in the South Australian Government Gazette or on any day after that day that is provided for in the relevant notice or the Rule.
+314A—Extension of trial Rule
+(1) Subject to this section, the AEMC may, on request, extend, by notice, the date on which a trial Rule will expire (the expiry date) to a later date, being a date that falls not more than the period prescribed by the Regulations after the expiry date.
+(2) Before extending the expiry date of a trial Rule, the AEMC—
+(a) must have regard to the innovative trial principles; and
+(b) must consult with the AER; and
+(c) if the AEMC considers that the trial Rule, or the trial project to which the trial Rule relates, may impact on AEMO's operation of systems relating to natural gas and markets for natural gas—must consult with AEMO; and
+(d) may consult with AEMO or any other person.
+(3) A request under subsection (1) must—
+(a) be made to the AEMC at least 60 days before the expiry date; and
+(b) specify the length of the extension required.
+(4) A notice under subsection (1) must—
+(a) be published; and
+(b) specify the later date referred to in subsection (1).
+(5) The expiry date of a trial Rule may only be extended once under subsection (1).
+314B—AEMC may impose requirements on proponent of trial project on making trial Rule
+(1) The AEMC may, in connection with making a trial Rule, by notice, impose requirements on a person or body that proposes to undertake the trial project (a proponent) to which the trial Rule relates.
+(2) Without limiting subsection (1), the AEMC may impose a requirement that 1 or more reports be submitted to the AER in relation to the trial project.
+(3) A notice under subsection (1) must—
+(a) be published; and
+(b) comply with any other requirements prescribed by the Regulations.
+(4) A proponent to which requirements imposed under this section apply must comply with those requirements.
+(5) If a proponent breaches subsection (4) and, as a result of the breach, the AER recommends that a trial Rule be revoked before the date on which the Rule will expire, the AEMC may—
+(a) revoke the trial Rule; or
+(b) vary or revoke a requirement imposed on the proponent, or impose further requirements on the proponent.
+314C—AEMC may revoke trial Rule on recommendation of AER
+(1) The AEMC may, on the recommendation of the AER, revoke a trial Rule in accordance with this Chapter.
+(2) This section is in addition to, and does not limit, section 314B.
+314D—Special provision for revocation of trial Rule
+(1) Part 1 Division 2, Part 3 and Part 4 do not apply to the revocation of a trial Rule by the AEMC under section 314B(5)(a) or 314C(1).
+(2) As soon as practicable after revoking a trial Rule under section 314B(5)(a) or 314C(1), the AEMC must—
+(a) publish notice of the revocation, specifying the date on which the revocation takes effect, on its website; and
+(b) publish reasons for the revocation on its website.
 315—Rule that is made to be published on website and made available to the public
 On publication of a notice in accordance with section 313(2), the AEMC must, without delay—
 (a) publish the Rule on its website; and
