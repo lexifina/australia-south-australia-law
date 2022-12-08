@@ -14,6 +14,7 @@ Division 2—Restrictions on entry or movement of livestock or other property
 Division 3—Investigations
 Division 4—Control or eradication of disease or contamination
 Division 5—Implied contractual terms and conditions as to health of livestock
+Division 6—Liability
 Part 5—Exotic Diseases Eradication Fund
 Part 6—Special provisions relating to bees
 Part 7—Brands
