@@ -30,12 +30,12 @@ the person commits an offence against this subsection and is liable to the same 
 (A) a drug screening test or an oral fluid analysis—the person's right to request the taking of a blood sample under subsection (11); or
 (B) a blood test—the person's right to request an oral fluid analysis under subsection (12); or
 (c) there was, in the circumstances of the case, good cause for the refusal or failure of the defendant to comply with the requirement or direction.
-(11) If a person of whom a requirement is made or to whom a direction is given under this section relating to a drug screening test or oral fluid analysis refuses or fails to comply with the requirement or direction by reason of some physical or medical condition of the person and forthwith makes a request of a police officer that a sample of the person's blood be taken by a medical practitioner, a police officer must do all things reasonably necessary to facilitate the taking of a sample of the person's blood—
-(a) by a medical practitioner nominated by the person; or
+(11) If a person of whom a requirement is made or to whom a direction is given under this section relating to a drug screening test or oral fluid analysis refuses or fails to comply with the requirement or direction by reason of some physical or medical condition of the person and forthwith makes a request of a police officer that a sample of the person's blood be taken by a medical practitioner or registered nurse, a police officer must do all things reasonably necessary to facilitate the taking of a sample of the person's blood—
+(a) by a medical practitioner or registered nurse nominated by the person; or
 (b) if—
-(i) it becomes apparent to the police officer that there is no reasonable likelihood that a medical practitioner nominated by the person will be available to take the sample within 1 hour of the time of the request at some place not more than 10 kilometres distant from the place of the request; or
-(ii) the person does not nominate a particular medical practitioner,
-by any medical practitioner who is available to take the sample.
+(i) it becomes apparent to the police officer that there is no reasonable likelihood that a medical practitioner or registered nurse nominated by the person will be available to take the sample within 1 hour of the time of the request at some place not more than 10 kilometres distant from the place of the request; or
+(ii) the person does not nominate a particular medical practitioner or registered nurse,
+by any medical practitioner or registered nurse who is available to take the sample.
 (12) If a person of whom a requirement is made or to whom a direction is given under this section relating to a blood test refuses or fails to comply with the requirement or direction by reason of some physical or medical condition of the person and forthwith makes a request of a police officer that an oral fluid analysis be conducted, a police officer must do all things reasonably necessary to facilitate the conduct of an oral fluid analysis unless—
 (a) a requirement or direction under this section relating to a drug screening test or oral fluid analysis has been made of, or been given to, the person; and
 (b) —
@@ -48,7 +48,7 @@ by any medical practitioner who is available to take the sample.
 (a) a sample of the person's blood was taken in accordance with subsection (11); or
 (b) the person made a request as referred to in subsection (11), but—
 (i) a police officer failed to facilitate the taking of a sample of the person's blood as required by that subsection; or
-(ii) a medical practitioner was not reasonably available for the purpose of taking such a sample; or
+(ii) a medical practitioner or registered nurse was not reasonably available for the purpose of taking such a sample; or
 (c) the taking of a sample of the person's blood in accordance with subsection (11) was not possible or reasonably advisable or practicable in the circumstances by reason of some physical or medical condition of the person.
 (15) A person may not raise a defence that the person had good cause for a refusal or failure to comply with a requirement or direction under this section relating to a blood test by reason of some physical or medical condition of the person unless—
 (a) an oral fluid analysis was conducted in accordance with subsection (12); or
