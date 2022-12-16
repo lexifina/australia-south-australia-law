@@ -55,6 +55,7 @@ Division 3—Exclusion of defence
 Part 6A—Serious criminal trespass
 Part 6B—Blackmail
 Part 6C—Piracy
+Part 6D—Offences relating to human remains
 Part 7—Offences of a public nature
 Division 1—Preliminary
 Division 2—Impeding investigation of offences or assisting offenders
