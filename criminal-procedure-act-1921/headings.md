@@ -6,6 +6,7 @@ Division 3—Hearing of summary offence
 Division 4—Judgment
 Division 5—Non‑association and place restriction orders
 Division 7—Restraining orders
+Division 8—Bushfire offender monitoring orders
 Part 5—Indictable offences
 Division 1—Informations
 Division 2—Pre-committal hearings etc
