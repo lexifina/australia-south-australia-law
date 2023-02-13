@@ -2,11 +2,15 @@
 (1) This section applies to the following offences:
 (a) a category 2 offence;
 (b) a category 3 offence;
+(ba) an offence against section 46;
+(bb) an offence against section 47BA(1) or (1a);
 (c) an offence against section 47E(3) or (3a);
 (ca) an offence against section 47EAA(9) or (9a);
 (cb) an offence against section 47I(7);
 (d) an offence against section 47I(14) committed by a person who was the driver of a motor vehicle involved in the accident.
-(2) Subject to this section, if a police officer reasonably believes that a person has, after the commencement of this section, committed an offence to which this section applies, the police officer may give the person a notice of immediate licence disqualification or suspension in the prescribed form.
+(2) Subject to this section, a police officer may give a person a notice of immediate licence disqualification or suspension that includes the prescribed particulars if—
+(a) the police officer reasonably suspects that the person has committed an offence against section 47BA(1) or (1a); or
+(b) the police officer reasonably believes that the person has committed an offence (other than an offence against section 47BA(1) or (1a)) to which this section applies.
 (3) The notice must specify the offence to which the notice relates.
 (4) If a person is given a notice of immediate licence disqualification or suspension under subsection (2)—
 (a) in the case of a person who does not hold a driver's licence—the person is disqualified from holding or obtaining a driver's licence for the relevant period; or
@@ -36,8 +40,8 @@ and if the person is the holder of a driver's licence, the licence will be taken
 (11) Subsection (10) does not protect a police officer from liability in respect of the exercise, or purported exercise, of powers otherwise than in good faith.
 (12) For the purposes of this section—
 (a) the relevant period commences—
-(i) at the time at which the person is given the notice of immediate licence disqualification or suspension or, if the police officer giving the notice is satisfied that, in the circumstances, it would be appropriate to postpone the commencement of the relevant period and indicates in the notice that the commencement is to be postponed, 48 hours after the time at which the person is given the notice; or
-(ii) if the person is already disqualified from holding or obtaining a driver's licence or holds a driver's licence that is suspended, at the end of that period of disqualification or suspension; and
+(i) in the case of a notice of immediate licence disqualification or suspension for an offence against section 47BA(1) or (1a)—at the time at which the person is given the notice of immediate licence disqualification or suspension or, if a police officer referred to in subsection (2) is satisfied that, in the circumstances, it would be appropriate to postpone the commencement of the relevant period and the notice indicates that the commencement is to be postponed, 28 days after the time at which the person is given the notice; or
+(ii) in any other case—at the time at which the person is given the notice of immediate licence disqualification or suspension or, if the police officer giving the notice is satisfied that, in the circumstances, it would be appropriate to postpone the commencement of the relevant period and indicates in the notice that the commencement is to be postponed, 48 hours after the time at which the person is given the notice; and
 (b) the relevant period ends—
 (i) if the Magistrates Court, on application under section 47IAB, makes an order that the person given the notice is not disqualified, or that the driver's licence held by the person is not suspended, by the notice; or
 (ii) if the Magistrates Court reduces the period of disqualification or suspension on application under section 47IAB, when that period ends; or
@@ -45,8 +49,9 @@ and if the person is the holder of a driver's licence, the licence will be taken
 (iii) if proceedings for the offence to which the notice relates are determined by a court or are withdrawn or otherwise discontinued; or
 (iv) in any event—
 (A) if the offence to which the notice relates is a category 2 offence or an offence against section 47EAA(9) or (9a)—at the end of 6 months from the commencement of the relevant period; or
+(AB) if the offence to which the notice relates is an offence against section 47BA(1) or (1a)—at the end of 3 months from the commencement of the relevant period; or
 (B) in any other case—at the end of 12 months from the commencement of the relevant period.
-(14) The Commissioner of Police must establish procedures to be followed by police officers giving notices of immediate licence disqualification or suspension under this section for the purpose of determining whether the commencement of the relevant period should be postponed under subsection (12)(a)(i).
+(14) The Commissioner of Police must establish procedures to be followed by police officers giving notices of immediate licence disqualification or suspension under this section for the purpose of determining whether the commencement of the relevant period should be postponed under subsection (12)(a)(i) or (ii).
 (15) A regulation made before the commencement of this subsection prescribing the form of a notice of immediate licence disqualification or suspension under this section or varying such a form is declared to be, and to have always been, valid.
 (16) A notice given to a person by a police officer before the commencement of this subsection that purported to be a notice of immediate licence disqualification or suspension under this section is declared to be, and to have always been, valid if the notice was completed in the prescribed form and was given in the circumstances specified in subsection (2).
 (17) The following provisions apply in relation to a prescribed notice:
@@ -55,3 +60,11 @@ and if the person is the holder of a driver's licence, the licence will be taken
 (c) the relevant period under such a notice will be taken to have ended on 26 June 2006 (unless the period ended before that date in accordance with subsection (12)).
 (18) For the purposes of subsection (17)—
 prescribed notice means a notice that purported to be a notice of immediate licence disqualification or suspension under this section and that was given to a person before 27 June 2006, other than a notice that specified, as the offence to which the notice relates, an offence described in subsection (1)(c) or (d).
+(19) If the Commissioner of Police is satisfied that a notice of immediate licence disqualification or suspension under this section should not have been given because—
+(a) the notice has been given to a particular person in error; or
+(b) the notice is defective; or
+(c) there is other proper cause for which the notice should not have been given,
+the Commissioner may authorise the withdrawal of the notice.
+(20) A withdrawal referred to in subsection (19) is effected by giving notice of the withdrawal, in a manner and form determined by the Commissioner, to the person to whom the notice of immediate licence disqualification or suspension was given.
+(21) The notice of withdrawal must specify the reason for withdrawal.
+(22) If a notice of immediate licence disqualification or suspension under this section is withdrawn, the Commissioner of Police may, if satisfied that there are proper grounds to give a fresh notice of immediate licence disqualification or suspension to any person, give such a notice.
