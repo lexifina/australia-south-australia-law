@@ -6,6 +6,7 @@ Division 2—References to Australian Consumer Law
 Division 3—Application of Australian Consumer Law to Crown
 Division 4—Miscellaneous
 Part 3A—Industry codes
+Part 3B—Regulation of motor vehicle insurers and repairers
 Part 4—Fair reporting
 Part 4A—Regulation of event ticket transactions
 Division 1—Preliminary
@@ -22,7 +23,7 @@ Division 1—Legal proceedings and warnings
 Division 1A—Authorised officers
 Division 2—Assurances and enforcement orders
 Division 3—Civil remedies
-Division 3A—Civil penalties and civil expiation notices for contravention of industry codes
+Division 3A—Civil penalties and civil expiation notices
 Subdivision 1—Interpretation
 Subdivision 2—Civil penalties
 Subdivision 3—Civil expiation notices
