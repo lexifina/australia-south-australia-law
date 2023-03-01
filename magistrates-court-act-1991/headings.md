@@ -4,7 +4,7 @@ Division 1—Establishment of Court
 Division 2—Structure and constitution of Court
 Subdivision 1—Divisions and constitution of Court
 Subdivision 2—Provisions relating to Judicial Registrars
-Subdivision 3—Assessors
+Subdivision 3—Assessors and Aboriginal and Torres Strait Islander Elders and Respected Persons etc
 Division 3—Jurisdiction of Court
 Part 3—Administration of Court
 Division 1—Chief Magistrate
