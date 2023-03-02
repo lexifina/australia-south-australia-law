@@ -77,11 +77,11 @@ designated retailer for a small customer's premises means—
 disconnection—see the definition of de‑energisation;
 distribution system means—
 (a) for a distributor who is a regulated distribution system operator within the meaning of the NEL—a distribution system within the meaning of the NEL; or
-(b) for a distributor who is a service provider within the meaning of the NGL who owns, operates or controls a distribution pipeline that is a covered pipeline under that law—a distribution pipeline within the meaning of the NGL; or
+(b) for a distributor who is a service provider within the meaning of the NGL who owns, operates or controls a distribution pipeline that is a scheme pipeline under that law—a distribution pipeline within the meaning of the NGL; or
 (c) for a nominated distributor under section 12—the nominated distribution system that is specified under that section;
 distributor means—
 (a) a regulated distribution system operator within the meaning of the NEL; or
-(b) a service provider within the meaning of the NGL who owns, operates or controls a distribution pipeline that is a covered pipeline under that Law; or
+(b) a service provider within the meaning of the NGL who owns, operates or controls a distribution pipeline that is a scheme pipeline under that Law; or
 (c) a nominated distributor, to the extent provided by section 12;
 distributor service standards means service standards imposed on distributors by or under energy laws, including, for example, service standards relating to the following:
 (a) the frequency and duration of supply interruptions;
@@ -1010,7 +1010,7 @@ Division 1—Prohibition on unauthorised selling of energy
 (2) Subsection (1) does not limit—
 (a) in the case of the sale of electricity—any requirement under section 11(4) of the NEL relating to the purchasing of electricity through a wholesale exchange; or
 (b) in the case of the sale of gas—
-(i) any requirement under section 91LB of the NGL, as it applies to this jurisdiction in relation to a user or non‑scheme pipeline user (within the meaning of the NGL), to be registered (or exempted from registration) in this jurisdiction in order to participate in a regulated retail gas market; or
+(i) any requirement under section 91LB of the NGL, as it applies to this jurisdiction in relation to a user (within the meaning of the NGL), to be registered (or exempted from registration) in this jurisdiction in order to participate in a regulated retail gas market; or
 (ii) any requirement under section 91BJ of the NGL, as it applies in relation to a declared wholesale gas market, to be registered (or exempted from registration) in order to participate in that market and to sell natural gas to customers that has been transported through the relevant declared transmission system; or
 (iii) any requirement under section 91BRD of the NGL, as it applies to a short term trading market, to be registered (or exempted from registration) in order to participate in that market.
 (3) A person must not engage in an activity referred to in subsection (1) unless the person has complied with any requirement referred to in subsection (2) (to the extent that any such requirement applies in relation to the person) (but nothing in this subsection requires a requirement under subsection (2) to be satisfied before the AER may grant a retailer authorisation or confer an exemption under this Part).
@@ -1575,7 +1575,7 @@ the transfer date is taken to be the date of the revocation or suspension (as th
 (4) The designated RoLR may, but is not obliged to, use any or all of the capacity or take any or all of the gas made available to it by a person who received a direction under subsection (1).
 (5) The terms and conditions for the transmission, distribution, sale and supply of gas to the designated RoLR—
 (a) are—
-(i) if there is an applicable access arrangement with respect to the distribution pipeline or transmission pipeline—to be in accordance with that applicable access arrangement, including (if the applicable access arrangement is a limited access arrangement) at the price paid or payable by the failed retailer; or
+(i) if there is an applicable access arrangement with respect to the distribution pipeline or transmission pipeline—to be in accordance with that applicable access arrangement; or
 (ii) if there is no applicable access arrangement—to be on the same terms and conditions as the contract for pipeline services (however the contract is named in the contract or elsewhere, but referred to in this section as the haulage contract) in force with the failed retailer immediately before the transfer date; and
 (b) are otherwise to be the same terms and conditions as in the gas sale and purchase contract (however the contract is named in the contract or elsewhere, but referred to in this section as the gas sale contract) in force with the failed retailer immediately before the transfer date.
 (6) Despite subsection (5), if the terms and conditions of the haulage contract or the gas sale contract materially differ from those that otherwise prevail in the market, the AER may specify in the RoLR notice (or an amendment, which may have effect back to the transfer date) terms and conditions that, in its opinion, better accord with those that otherwise prevail in the market.
@@ -1583,10 +1583,10 @@ the transfer date is taken to be the date of the revocation or suspension (as th
 (8) The designated RoLR and distributor or service provider of the transmission pipeline (as the case may be) must, as soon as practicable after the transfer date, commence negotiations for a replacement contract for pipeline services.
 (9) If a replacement contract is agreed, the direction ceases to have effect as from the date the replacement contract has effect.
 (10) If, after 3 months from the transfer date, no replacement contract has been agreed—
-(a) either party may commence an access dispute under Chapter 6 of the NGL; and
+(a) either party may commence an access dispute under Chapter 5 of the NGL; and
 (b) the provisions of section 91BH(4) of the NGL apply to the access dispute in the same way as they apply to a determination by the AER of an access dispute referred to in those provisions; and
-(c) the direction continues in force for the haulage contract until an access determination has effect under section 184(4) of the NGL.
-(11) For the purposes of subsection (10)(a), the failure to agree to a replacement contract is taken to be an access dispute within the meaning of section 178 of the NGL regardless of whether the pipeline concerned is a scheme pipeline within the meaning of section 2 of the NGL.
+(c) the direction continues in force for the haulage contract until an access determination has effect under the NGL.
+(11) For the purposes of subsection (10)(a), the failure to agree to a replacement contract is taken to be an access dispute within the meaning of section 2(1) of the NGL.
 (12) If the gas sale contract in its terms continues in force despite the RoLR event—
 (a) the insolvency official of the failed retailer or the failed retailer (as the case may be) must as soon as practicable after the transfer date commence negotiations with the designated RoLR and the producer or other person who was under the contract selling gas to the failed retailer for—
 (i) the novation of the contract; or
@@ -1604,7 +1604,7 @@ between the designated RoLR and the producer or other person; and
 (i) the producer or other person who was under the terminated contract selling gas to the failed retailer (as the case may be) must put the gas that is the subject of the terminated contract up for sale by auction and must use their best endeavours to ensure that the auction is completed and the gas is sold within 6 months of the transfer date; and
 (ii) the producer or other person who was under the terminated contract selling gas to the failed retailer (as the case may be) must execute all documents required for both the auction and the sale of gas, including any new gas sale and purchase contract (however named in the contract or elsewhere) consequent on the auction; and
 (iii) when the gas has been sold, the direction ceases to have effect for the gas sale contract.
-(14) In this section, access determination, distribution pipeline, limited access arrangement, pipeline services, producer, service provider and transmission pipeline have the same meanings as in the NGL and distributor includes a service provider for a pipeline that is not a scheme pipeline within the meaning of the NGL.
+(14) In this section, access determination, distribution pipeline, pipeline services, producer, service provider and transmission pipeline have the same meanings as in the NGL and distributor includes a service provider for a pipeline that is not a scheme pipeline within the meaning of the NGL.
 138—Service and publication of RoLR notice
 (1) A RoLR notice or a notice amending a RoLR notice—
 (a) must be given to—

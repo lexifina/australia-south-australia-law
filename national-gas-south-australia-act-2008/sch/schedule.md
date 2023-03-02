@@ -5,10 +5,10 @@ Part 1—Citation and interpretation
 This law may be cited as the National Gas Law.
 2—Definitions
 (1) In this Law—
-15-year no-coverage determination means a determination of a relevant Minister under Chapter 5 Part 2;
 ACCC means the Australian Competition and Consumer Commission established by section 6A of the Competition and Consumer Act 2010 of the Commonwealth;
-access arrangement means an arrangement setting out terms and conditions about access to pipeline services provided or to be provided by means of a pipeline;
-access determination means a determination of the dispute resolution body under Chapter 6 Part 3 and includes a determination varied under Part 4 of that Chapter;
+access arrangement means an arrangement setting out terms and conditions about access to pipeline services provided or to be provided by means of a scheme pipeline;
+access determination means a determination of the relevant adjudicator for an access dispute under Chapter 5 Part 5 and includes a determination varied under Part 6 of that Chapter;
+access dispute means a dispute between a user or prospective user and a service provider about 1 or more aspects of access to a pipeline service provided by means of a pipeline and includes a matter that is deemed to be an access dispute under the Rules;
 adoptive jurisdiction means a participating jurisdiction for which AEMO is authorised to exercise its declared system functions or STTM functions;
 AEMC means the Australian Energy Market Commission established by section 5 of the Australian Energy Market Commission Establishment Act 2004 of South Australia;
 AEMO amendments means—
@@ -16,11 +16,12 @@ AEMO amendments means—
 (b) the amendments to the Rules made by the National Gas (South Australia) (National Gas Rules—Australian Energy Market Operator) Amendment Rules 2009; and
 (c) the Procedures first made under this Law after the enactment of the amendments referred to in paragraph (a);
 AER means the Australian Energy Regulator established by section 44AE of the Competition and Consumer Act 2010 of the Commonwealth;
+AER Compliance Procedures and Guidelines has the meaning given by section 64F;
 AER economic regulatory decision means a decision (however described) of the AER under this Law or the Rules performing or exercising an AER economic regulatory function or power;
 AER economic regulatory function or power means a function or power performed or exercised by the AER under this Law or the Rules (other than making a rate of return instrument) that relates to the economic regulation of pipeline services provided by a service provider—
 (a) by means of; or
 (b) in connection with,
-a scheme pipeline and includes a function or power performed or exercised by the AER under this Law or the Rules (other than making a rate of return instrument) that relates to—
+a pipeline and includes a function or power performed or exercised by the AER under this Law or the Rules (other than making a rate of return instrument) that relates to—
 (c) the preparation of a service provider performance report;
 (d) a ring fencing decision;
 (e) an applicable access arrangement decision;
@@ -31,12 +32,17 @@ AER gas price reporting functions means the functions of the AER performed under
 AER ring fencing determination means a determination of the AER under section 143(1);
 AER trial waiver functions means the functions conferred on the AER under Chapter 2 Part 1 Division 1B;
 annual turnover has the same meaning as in section 2(1) of Schedule 2 to the Competition and Consumer Act 2010 of the Commonwealth;
-applicable access arrangement means a limited access arrangement or full access arrangement that has taken effect after being approved or made by the AER under the Rules and includes an applicable access arrangement as varied—
+applicable access arrangement means an access arrangement that has taken effect after being approved or made by the AER under the Rules and includes an applicable access arrangement as varied—
 (a) under the Rules; or
 (b) by an access determination as provided by this Law or the Rules;
-applicable access arrangement decision means—
-(a) a full access arrangement decision; or
-(b) a limited access arrangement decision;
+applicable access arrangement decision means a decision of the AER under the Rules that—
+(a) approves or does not approve an access arrangement or revisions to an applicable access arrangement submitted to the AER under section 113 or the Rules; or
+(b) makes an access arrangement—
+(i) in place of an access arrangement the AER does not approve in that decision; or
+(ii) because a scheme pipeline service provider does not submit an access arrangement in accordance with section 113 or the Rules; or
+(c) makes revisions to an access arrangement—
+(i) in place of revisions submitted to the AER under section 113 that the AER does not approve in that decision; or
+(ii) because a scheme pipeline service provider does not submit revisions to the AER under section 113;
 application Act means an Act of a participating jurisdiction that applies, as a law of that jurisdiction, this Law or any part of this Law;
 approved associate contract means an associate contract approved by the AER under an associate contract decision;
 associate in relation to a person has the same meaning it would have under Division 2 of Part 1.2 of the Corporations Act 2001 of the Commonwealth if sections 13, 16(2) and 17 did not form part of that Act;
@@ -45,8 +51,8 @@ associate contract means—
 (b) a contract, arrangement or understanding between a service provider and any person in connection with the provision of an associate pipeline service—
 (i) that provides a direct or indirect benefit to an associate; and
 (ii) that is not at arm's length;
-associate contract decision means a decision of the AER under the Rules that approves or does not approve an associate contract for the purposes of Chapter 4 Part 2 Division 5;
-associate pipeline service means a pipeline service provided by means of a pipeline other than a pipeline to which a 15-year no coverage determination applies;
+associate contract decision means a decision of the AER under the Rules that approves or does not approve an associate contract for the purposes of Chapter 4 Part 2 Division 4;
+associate pipeline service means a pipeline service provided by means of a pipeline other than a pipeline to which a greenfields incentive determination applies;
 Australian Energy Market Operator or AEMO means Australian Energy Market Operator Limited (ACN 072 010 327);
 BB Procedures means Procedures directed at regulating the Natural Gas Services Bulletin Board;
 Bulletin Board information means information that—
@@ -71,11 +77,7 @@ charge, in relation to a pipeline service, means the amount that is payable by a
 civil monetary liability means a liability for damages, compensation or any other monetary amount that can be recovered by way of civil proceedings but does not include a liability for a civil penalty or an infringement penalty under this Law or a liability for the costs of a proceeding;
 civil penalty—see section 3A;
 civil penalty provision has the meaning given by section 3;
-classification decision under the Rules means a decision of the NCC under the Rules that classifies either of the following pipelines as a cross boundary transmission pipeline, cross boundary distribution pipeline, transmission pipeline or a distribution pipeline:
-(a) a pipeline in respect of which a tender approval decision becomes irrevocable by operation of the Rules;
-(b) a pipeline—
-(i) by means of which a service provider intends to provide pipeline services to which a full access arrangement voluntarily submitted to the AER for approval by that provider will apply, if approved; and
-(ii) in respect of which the NCC has not previously made an initial classification decision;
+classification decision means a decision of the AER under Chapter 3 Part 6 Division 1;
 commission, in relation to a pipeline, has the meaning given by section 12;
 Commonwealth Minister means the Minister of the Commonwealth administering the Australian Energy Market Act 2004 of the Commonwealth;
 compression service facility means—
@@ -88,16 +90,6 @@ conduct provision has the meaning given by section 4;
 constituent components, in relation to a designated regulatory decision, means the matters that constitute the elements or components of the designated regulatory decision and on which that designated regulatory decision is based and includes—
 (a) matters that go to the making of the designated regulatory decision; and
 (b) decisions made by the AER for the purposes of the designated regulatory decision;
-coverage determination means a determination of a relevant Minister under Chapter 3 Part 1 Division 1;
-coverage recommendation means a recommendation of the NCC under Chapter 3 Part 1 Division 1;
-coverage revocation determination means a determination of a relevant Minister under Chapter 3 Part 1 Division 2;
-coverage revocation recommendation means a recommendation of the NCC under Chapter 3 Part 1 Division 2;
-covered pipeline means a pipeline—
-(a) to which a coverage determination applies; or
-(b) deemed to be a covered pipeline by operation of section 126 or 127;
-covered pipeline service provider means a service provider that provides or intends to provide pipeline services by means of a covered pipeline;
-cross boundary distribution pipeline means a distribution pipeline that is partly situated in the jurisdictional areas of 2 or more participating jurisdictions;
-cross boundary transmission pipeline means a transmission pipeline that is partly situated in the jurisdictional areas of 2 or more participating jurisdictions;
 declared distribution system of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
 declared LNG storage provider of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
 declared system functions—AEMO's declared system functions are as set out in section 91BA(1);
@@ -107,17 +99,22 @@ declared system provisions means—
 declared transmission system of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
 declared wholesale gas market means the wholesale market for natural gas defined in the application Act of an adoptive jurisdiction;
 designated compression service facility means a facility or part of a facility for compressing natural gas prescribed by the Regulations as a designated compression service facility;
-designated pipeline means a pipeline classified by the Regulations, or designated in the application Act of a participating jurisdiction, as a designated pipeline;
+designated pipeline means a pipeline classified by the Regulations, or designated in the application Act of a participating jurisdiction, as a designated pipeline and includes an extension to, or expansion of the capacity of, the pipeline that is taken to be part of the pipeline under section 18;
 Note—
-A light regulation determination cannot be made in respect of pipeline services provided by means of a designated pipeline: see sections 109 and 111.
-designated regulatory decision means an applicable access arrangement decision (other than a full access arrangement decision that does not approve a full access arrangement), or a decision prescribed by the Regulations to be a designated regulatory decision;
-developable capacity means the difference between the current capacity of a covered pipeline and the capacity of a covered pipeline which would be available if a new facility was constructed, but does not include any new capacity of a covered pipeline resulting from an extension to the geographic range of a covered pipeline;
+A designated pipeline is a scheme pipeline. See the definition of scheme pipeline.
+designated regulatory decision means an applicable access arrangement decision (other than a decision that does not approve an access arrangement), or a decision prescribed by the Regulations to be a designated regulatory decision;
+developable capacity means the difference between the current capacity of a pipeline and the capacity of a pipeline which would be available if a new facility was constructed, but does not include any new capacity of a pipeline resulting from an extension to the geographic range of a pipeline;
 dispute resolution body means the AER;
-Dispute resolution panel means a person or panel of persons appointed under the Rules to hear and determine a rule dispute;
-distribution pipeline means a pipeline that is classified in accordance with this Law or the Rules as a distribution pipeline and includes any extension to, or expansion of the capacity of, such a pipeline when it is a covered pipeline that, by operation of an applicable access arrangement or under this Law, is to be treated as part of the pipeline;
 Note—
-See also sections 18 and 19.
-distributor means, except where elsewhere defined in this Law, a service provider who owns, operates or controls a covered pipeline that is a distribution pipeline;
+In Western Australia, under the National Gas Access (WA) Act 2009 of Western Australia, section 9, the dispute resolution body generally is the entity known as the Western Australian Energy Disputes Arbitrator.
+Dispute resolution panel means a person or panel of persons appointed under the Rules to hear and determine a rule dispute;
+distribution pipeline means a pipeline that—
+(a) is classified as a distribution pipeline under a licence or authorisation granted in relation to the pipeline under jurisdictional gas legislation; or
+(b) if the licence or authorisation mentioned in paragraph (a) does not include a classification of the pipeline—is classified by the AER as a distribution pipeline,
+and includes a pipeline that is reclassified by the AER as a distribution pipeline;
+Note—
+See Chapter 3 Part 6 in relation to the classification and reclassification of pipelines. See also sections 18 and 19.
+distributor means, except where elsewhere defined in this Law, a service provider who owns, operates or controls a scheme pipeline that is a distribution pipeline;
 draft Rule determination means a determination of the AEMC under section 308;
 ECA amendments means the amendments to this Law made by the Statutes Amendment (Energy Consumers Australia) Act 2014 of South Australia;
 end user means a person who acquires natural gas for consumption purposes, and includes a retail customer;
@@ -125,12 +122,13 @@ Energy Consumers Australia or ECA means the company incorporated, or to be incor
 energy ombudsman has the same meaning as in the National Energy Retail Law;
 Energy Security Board means the Energy Security Board referred to in section 2(1) of the NEL;
 ERA means the Economic Regulation Authority established by section 4 of the Economic Regulation Authority Act 2003 of Western Australia;
+excluded infrastructure, in relation to a pipeline, means tanks, reservoirs, machinery, equipment or other infrastructure that forms part of the pipeline but is classified by the Rules as excluded infrastructure for the purposes of this Law;
 exempted participant means a person exempted from registration as a Registered participant;
 extension and expansion requirements means—
 (a) the requirements contained in an access arrangement that, in accordance with the Rules, specify—
-(i) the circumstances when an extension to, or expansion of the capacity of, a covered pipeline is to be treated as forming part of the covered pipeline; and
-(ii) whether the pipeline services provided or to be provided by means of, or in connection with, spare capacity arising out of an extension to, or expansion of the capacity of, a covered pipeline will be subject to the applicable access arrangement applying to the pipeline services to which that arrangement applies; and
-(iii) whether an extension to, or expansion of the capacity of, a covered pipeline will affect a reference tariff, and if so, the effect on the reference tariff; and
+(i) the circumstances when an extension to a scheme pipeline is to be treated as forming part of the scheme pipeline; and
+(ii) whether the pipeline services provided or to be provided by means of, or in connection with, spare capacity arising out of an extension to a scheme pipeline will be subject to the applicable access arrangement applying to the pipeline services to which that arrangement applies; and
+(iii) whether an extension to, or expansion of the capacity of, a scheme pipeline will affect a reference tariff and, if so, the effect on the reference tariff; and
 (b) any other requirements specified by the Rules as extension and expansion requirements;
 Note—
 See also sections 18 and 19.
@@ -147,17 +145,6 @@ former gas market operator means any of the following:
 (c) in relation to South Australia (but not Western Australia)—Retail Energy Market Company Limited (ACN 103 318 556);
 (d) the gas retail market operator appointed under section 257A of the Gas Supply Act 2003 (Qld);
 form of regulation factors has the meaning given by section 16;
-full access arrangement means an access arrangement that—
-(a) provides for price or revenue regulation as required by the Rules; and
-(b) deals with all other matters for which the Rules require provision to be made in an access arrangement;
-full access arrangement decision means a decision of the AER under the Rules that—
-(a) approves or does not approve a full access arrangement or revisions to an applicable access arrangement submitted to the AER under section 132 or the Rules; or
-(b) makes a full access arrangement—
-(i) in place of a full access arrangement the AER does not approve in that decision; or
-(ii) because a service provider does not submit a full access arrangement in accordance with section 132 or the Rules;
-(c) makes revisions to an access arrangement—
-(i) in place of revisions submitted to the AER under section 132 that the AER does not approve in that decision; or
-(ii) because a service provider does not submit revisions to the AER under section 132;
 Gas Code means the National Third Party Access Code for Natural Gas Pipeline Systems set out in Schedule 2 to the Gas Pipelines Access (South Australia) Act 1997 of South Australia as in force from time to time before the commencement of section 20 of the National Gas (South Australia) Act 2008 of South Australia;
 gas statement of opportunities means the statement published under Chapter 2 Part 6 Division 4;
 gas trading exchange means a facility through which persons may elect to buy and sell natural gas or related goods or services, including pipeline capacity;
@@ -166,22 +153,21 @@ gas trading exchange functions—AEMO's gas trading exchange functions are as se
 gas trading exchange member means a person who is (or who was at the relevant time) a member of a gas trading exchange under a gas trading exchange agreement;
 general market information order means an order under section 91F(1)(a) requiring information from persons of a class specified in the order;
 general regulatory information order has the meaning given by section 45;
-greenfields pipeline incentive means—
-(a) a 15-year no-coverage determination; or
-(b) a price regulation exemption;
+greenfields incentive determination has the meaning given by section 100;
+greenfields pipeline project means a project for the construction of—
+(a) a pipeline that is to be structurally separate from any existing pipeline; or
+(b) a major extension to an existing pipeline;
+greenfields price protection determination has the meaning given by section 109;
 GSOO information means information that—
 (a) a person gives to AEMO to comply with section 91DB; or
 (b) a person gives to AEMO for the preparation of the gas statement of opportunities in circumstances expressly permitted by the Rules;
 GSOO Procedures means Procedures directed at regulating the collection of information for the gas statement of opportunities;
 GTE amendments means the amendments to this Law made by the National Gas (South Australia) (Gas Trading Exchanges) Amendment Act 2013;
 haulage, in relation to natural gas, includes conveyance or reticulation of natural gas;
-initial classification decision means a decision of the NCC under section 98 or 155;
 initial National Gas Procedures means National Gas Procedures made under section 294A and includes Wholesale Market Procedures and BB Procedures in force immediately before the commencement of the National Gas (South Australia) (National Gas Law—Australian Energy Market Operator) Amendment Act 2009;
 initial National Gas Rules means the Initial National Gas Rules made under Chapter 9 Part 2;
 initial Operational Transportation Service Code means the Operational Transportation Service Code made under section 294DA;
 innovative trial principles—see section 24A;
-international pipeline means a pipeline for the haulage of gas from a foreign source;
-jurisdictional determination criteria, in relation to a cross boundary distribution pipeline, has the meaning given by section 14;
 jurisdictional gas legislation means an Act of a participating jurisdiction (other than national gas legislation), or any instrument made or issued under or for the purposes of that Act, that regulates the haulage of gas in that jurisdiction;
 jurisdictional regulator means—
 (a) for New South Wales—the Independent Pricing and Regulatory Tribunal of New South Wales established by section 5(1) of the Independent Pricing and Regulatory Tribunal Act 1992 of New South Wales;
@@ -193,12 +179,6 @@ jurisdictional regulator means—
 (g) any other person or body—
 (i) to which the functions of the jurisdictional regulator for a participating jurisdiction are assigned by or under an Act of the participating jurisdiction; or
 (ii) that is prescribed by the Regulations as jurisdictional regulator of a participating jurisdiction;
-light regulation determination means a determination of the NCC under Chapter 3 Part 2 Division 1;
-light regulation services means pipeline services to which a light regulation determination applies;
-limited access arrangement means an access arrangement that, under this Law and the Rules, is not required to make provision for price or revenue regulation but deals with the matters for which this Law and the Rules require provision to be made in an access arrangement;
-limited access arrangement decision means a decision of the AER under the Rules that approves or does not approve—
-(a) a limited access arrangement submitted to the AER under section 116 or 168; or
-(b) revisions to a limited access arrangement submitted to the AER under section 116(3) or 168(3) or the Rules;
 listed corporation has the meaning given by section 9 of the Corporations Act 2001 of the Commonwealth;
 LNG facility means a facility for the processing of natural gas from a gaseous to a liquefied state or from a liquefied to a gaseous state;
 LNG service provider means a person who owns, controls or operates an LNG facility;
@@ -215,9 +195,6 @@ MCE statement of policy principles means a statement of policy principles issued
 minimum ring fencing requirement means a requirement under Chapter 4 Part 2 Division 2;
 Ministerial Gazette notice means a notice in the South Australian Government Gazette published by the South Australian Minister on the recommendation of the MCE;
 Minister of a participating jurisdiction means a Minister who is a Minister of a participating jurisdiction within the meaning of section 22;
-Ministerial coverage decision means—
-(a) a decision of a relevant Minister under section 99, 106 or 156; or
-(b) a decision of the Commonwealth Minister under section 164;
 National Electricity Law means the National Electricity Law set out in the Schedule to the National Electricity (South Australia) Act 1996 of South Australia;
 National Electricity Rules has the same meaning as in the National Electricity Law;
 National Energy Retail Law means the National Energy Retail Law set out in the Schedule to the National Energy Retail Law (South Australia) Act 2011 of South Australia;
@@ -268,26 +245,13 @@ natural gas service means—
 (b) the supply of natural gas; or
 (c) a service ancillary to the service described in paragraph (b);
 Natural Gas Services Bulletin Board means the website maintained by AEMO that contains information of the kind specified in the Rules in relation to the natural gas industry;
-NCC means the National Competition Council established by section 29A of the Competition and Consumer Act 2010 of the Commonwealth;
-NCC recommendation or decision means—
-(a) a coverage recommendation; or
-(b) a coverage revocation recommendation; or
-(c) a no-coverage recommendation; or
-(d) a price regulation exemption recommendation; or
-(e) a reclassification decision; or
-(f) a light regulation determination; or
-(g) a decision of the NCC under Chapter 3 Part 2 Division 2 to revoke a light regulation determination; or
-(h) a decision of the NCC not to make a decision referred to in paragraph (f) or (g); or
-(i) advice under section 172;
-new facility means an extension to, or expansion of the capacity of, a covered pipeline which is to be treated as part of the covered pipeline—
-(a) in accordance with the extension and expansion requirements contained in an applicable access arrangement applying to the pipeline services provided by means of that covered pipeline; or
+new facility means an extension to, or expansion of the capacity of, a pipeline which is to be treated as part of the pipeline—
+(a) in accordance with the extension and expansion requirements contained in an applicable access arrangement applying to the pipeline services provided by means of that pipeline; or
 (b) under this Law;
 Note—
 See also sections 18 and 19.
-no-coverage recommendation means a recommendation of the NCC under Chapter 5 Part 2;
-non scheme pipeline user means a person who—
-(a) is a party to a contract with a service provider under which the service provider provides or intends to provide a pipeline service to that person by means of a pipeline that is not a scheme pipeline; or
-(b) has a right under an access determination to be provided with a pipeline service by means of a pipeline that is not a scheme pipeline;
+non‑scheme pipeline means a pipeline other than a scheme pipeline;
+non‑scheme pipeline access dispute means an access dispute that involves a non‑scheme pipeline;
 offence provision means a provision of this Law the breach or contravention of which by a person exposes that person to a finding of guilt by a court;
 officer has the same meaning as officer has in relation to a corporation under section 9 of the Corporations Act 2001 of the Commonwealth;
 old access law means Schedule 1 to the Gas Pipelines Access (South Australia) Act 1997 of South Australia as in force from time to time before the commencement of section 20 of the National Gas (South Australia) Act 2008 of South Australia;
@@ -308,6 +272,7 @@ operational transportation service agreement means an agreement between a transp
 (iii) any other means provided for in the agreement; and
 (b) the terms and conditions applicable to the use of that transportation capacity;
 Operational Transportation Service Code has the meaning given by section 228H;
+operative period, for a greenfields incentive determination, has the meaning given by section 102(2);
 participating jurisdiction means a jurisdiction that is a participating jurisdiction by reason of section 21;
 petroleum includes any naturally occurring hydrocarbon, mixture of hydrocarbons or mixture of hydrocarbons and non‑hydrocarbons, whether in gaseous, liquid or solid state;
 petroleum tenement means a right granted under law to explore for, extract, recover or process petroleum;
@@ -321,8 +286,11 @@ but does not include—
 (f) a gathering system operated as part of an upstream producing operation; or
 (g) any tanks, reservoirs, machinery or equipment used to remove or add components to or change natural gas (other than odourisation facilities) such as a gas processing plant; or
 (h) anything downstream of a point on a pipeline from which a person takes natural gas for consumption purposes;
+Note—
+See also sections 18 and 19.
+pipeline capacity right means a right under a contract with a service provider to be provided with a pipeline service, by means of a pipeline, for a given quantity of natural gas over a given period of time;
 pipeline classification criterion has the meaning given by section 13;
-pipeline coverage criteria has the meaning given by section 15;
+pipeline interconnection principles has the meaning given by section 136;
 pipeline reliability standard means a standard imposed by or under an Act of a participating jurisdiction, or any instrument made or issued under or for the purposes of that Act, relating to the reliable haulage of natural gas in that jurisdiction;
 pipeline safety duty means a duty or requirement under an Act of a participating jurisdiction, or any instrument made or issued under or for the purposes of that Act, relating to—
 (a) the safe haulage of natural gas in that jurisdiction; or
@@ -330,7 +298,7 @@ pipeline safety duty means a duty or requirement under an Act of a participating
 pipeline service means—
 (a) a service provided by means of a pipeline, including—
 (i) a haulage service (such as firm haulage, interruptible haulage, spot haulage and backhaul); and
-(ii) a service providing for, or facilitating, the interconnection of pipelines; and
+(ii) a service providing for, or facilitating, the interconnection of pipelines; or
 (b) a service ancillary to the provision of a service referred to in paragraph (a),
 but does not include the production, sale or purchase of natural gas or processable gas;
 pipeline service standard means a standard relating to the standard of the pipeline services provided by a service provider by means of a covered pipeline imposed—
@@ -339,11 +307,7 @@ pipeline service standard means a standard relating to the standard of the pipel
 (i) under an access arrangement decision; or
 (ii) in accordance with the Rules;
 price information order has the meaning given by section 46A;
-price or revenue regulation means regulation of—
-(a) the prices, charges or tariffs for pipeline services to be, or that are to be, provided; or
-(b) the revenue to be, or that is to be, derived from the provision of pipeline services;
-price regulation exemption means an exemption under Chapter 5 Part 3;
-price regulation exemption recommendation means a recommendation of the NCC under section 162;
+prescribed transparency information has the meaning given by section 136C;
 processable gas means a substance that—
 (a) is in a gaseous state at standard temperature and pressure; and
 (b) consists of naturally occurring hydrocarbons, or a naturally occurring mixture of hydrocarbons and non-hydrocarbons, the principal constituent of which is methane;
@@ -352,11 +316,11 @@ prospective user has the meaning given by section 5;
 protected information has the meaning given by section 91G;
 queuing requirements means terms and conditions providing for the priority that a prospective user has, as against any other prospective user, to obtain access to spare capacity and developable capacity;
 rate of return instrument—see section 30D(2);
-reclassification decision means a decision of the NCC under Chapter 3 Part 5;
+reclassification decision means a decision of the AER under Chapter 3 Part 6 Division 2;
 reference service means a pipeline service specified by, or determined or approved by the AER under, the Rules as a reference service;
 reference tariff means a tariff or charge for a reference service—
-(a) specified in an applicable access arrangement approved or made under a full access arrangement decision; or
-(b) determined by applying the formula or methodology contained in an applicable access arrangement approved or made under a full access arrangement decision;
+(a) specified in an applicable access arrangement approved or made under an access arrangement decision; or
+(b) determined by applying the formula or methodology contained in an applicable access arrangement approved or made under an access arrangement decision;
 Registered participant means a person registered as such by AEMO under this Law (section 91BJ, section 91BRD or section 91LB) and the Rules, but does not include a transportation service provider registered under section 91BRR;
 regulated gas market means—
 (a) a declared wholesale gas market; or
@@ -371,28 +335,32 @@ regulatory information instrument means—
 regulatory information notice has the meaning given by section 46;
 regulatory obligation or requirement has the meaning given by section 6;
 regulatory payment has the meaning given by section 7;
-relevant Minister means if, in a coverage recommendation, no-coverage recommendation, classification decision under the Rules or reclassification decision, the NCC determines the pipeline is—
-(a) a cross boundary transmission pipeline—the Commonwealth Minister;
-(b) a transmission pipeline situated wholly within a participating jurisdiction—the designated Minister;
-Note—
-The term designated Minister is defined in the Act of this jurisdiction that applies this Law as a law of this jurisdiction.
-(c) a distribution pipeline situated wholly within a participating jurisdiction—the Minister of the participating jurisdiction;
-(d) a cross boundary distribution pipeline—the Minister of the participating jurisdiction determined by the NCC in the recommendation as being the participating jurisdiction with which the cross boundary distribution pipeline is most closely connected;
+relevant adjudicator means—
+(a) for a scheme pipeline access dispute—the dispute resolution body; or
+(b) for a non‑scheme pipeline access dispute—the arbitrator for the dispute;
 relevant Regulator has the same meaning as in section 2 of the old access law;
 REMCo means the Retail Energy Market Company Limited (ACN 103 318 556);
 retail customer means a person to whom natural gas is sold for premises by a retailer;
 retailer means a person who is the holder of a retailer authorisation issued under the National Energy Retail Law in respect of the sale of gas;
 retail gas market has the meaning given by section 91L(1);
 Retail Market Procedures means Procedures directed at regulating a retail gas market;
-revenue and pricing principles means the principles set out in section 24;
+revenue and pricing principles, in relation to a pipeline service provided by means of a scheme pipeline, means the principles set out in section 24;
 ring fencing decision means—
 (a) an AER ring fencing determination; or
-(b) a decision under section 146 granting or not granting an exemption under that section; or
+(b) a decision granting or not granting an exemption under Rules made under section 148A; or
 (c) an associate contract decision;
 rule dispute means a dispute for the resolution of which provision is made in the Rules;
 scheme pipeline means—
-(a) a covered pipeline; or
-(b) an international pipeline to which a price regulation exemption applies;
+(a) a pipeline to which a scheme pipeline determination applies; or
+(b) a designated pipeline; or
+(c) a pipeline in respect of which a scheme pipeline election takes effect;
+Note—
+However, see section 99 in relation to when a pipeline the subject of a scheme pipeline revocation determination ceases to be a scheme pipeline.
+scheme pipeline access dispute means an access dispute that involves a scheme pipeline;
+scheme pipeline determination has the meaning given by section 92(1);
+scheme pipeline election has the meaning given by section 95;
+scheme pipeline revocation determination means a determination made under section 97(1);
+scheme pipeline service provider means a service provider who provides or intends to provide pipeline services by means of a scheme pipeline;
 service provider has the meaning given by section 8;
 service provider performance report means a report prepared by the AER under section 64;
 short term trading market means a market for the supply of natural gas that—
@@ -400,6 +368,8 @@ short term trading market means a market for the supply of natural gas that—
 (b) is defined in a Rule made for the purposes of Chapter 2 Part 6 Division 2A to be a short term trading market of that adoptive jurisdiction;
 Note—
 There may be more than 1 short term trading market of an adoptive jurisdiction.
+small shipper has the meaning given by section 8AB;
+South Australian Minister means the Minister of the Crown in right of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia;
 spare capacity means unutilised capacity of a pipeline;
 standard gas day means the 24 hour period starting at the time specified in the standard market timetable;
 standard market timetable means the standard market timetable provided for in the Rules in accordance with section 83B;
@@ -443,7 +413,6 @@ supply includes—
 (a) in relation to goods—supply (including re-supply) by way of sale, exchange, lease, hire or hire purchase; and
 (b) in relation to services—provide, grant or confer;
 tariff means a rate by which a charge for a pipeline service is calculated;
-tender approval decision means a decision of the AER under the Rules under which the AER approves a tender process for the construction and operation of a pipeline as a competitive tender process;
 Territory means the Australian Capital Territory or the Northern Territory;
 trader means a person who—
 (a) buys or sells natural gas; and
@@ -451,15 +420,18 @@ trader means a person who—
 (c) where the person is the purchaser of natural gas, is not buying the natural gas for the purchaser's own use;
 transaction support arrangements means arrangements to facilitate transactions with respect to transportation capacity and related goods and services concluded or to be concluded through a gas trading exchange or a capacity auction;
 transfer, in relation to transportation capacity, includes a reduction in a person's right to the transportation capacity and a corresponding increase in another person's right to transportation capacity, whether or not on the same terms and conditions;
-transmission pipeline means a pipeline that is classified in accordance with this Law or the Rules as a transmission pipeline and includes any extension to, or expansion of the capacity of, such a pipeline when it is a covered pipeline that, by operation of an applicable access arrangement or under this Law, is to be treated as part of the pipeline;
+transmission pipeline means a pipeline that—
+(a) is classified as a transmission pipeline under a licence or authorisation granted in relation to the pipeline under jurisdictional gas legislation; or
+(b) if the licence or authorisation mentioned in paragraph (a) does not include a classification of the pipeline—is classified by the AER as a transmission pipeline,
+and includes a pipeline that is reclassified by the AER as a transmission pipeline;
 Note—
-See also sections 18 and 19.
+See Chapter 3 Part 6 in relation to the classification and reclassification of pipelines. See also sections 18 and 19.
 transportation capacity means a right under a contract with a transportation service provider to be provided with a transportation service by means of a transportation facility, for a given quantity of natural gas over a given period of time;
 transportation facility means—
 (a) a pipeline; or
 (b) a compression service facility; or
 (c) another facility of a type specified by the Regulations for the purposes of this paragraph;
-transportation facility user means a person who is a party to a contract with a transportation service provider under which the transportation service provider provides, or intends to provide, a transportation service to that person by means of a transportation facility and includes a user and a non scheme pipeline user;
+transportation facility user means a person who is a party to a contract with a transportation service provider under which the transportation service provider provides, or intends to provide, a transportation service to that person by means of a transportation facility and includes a user;
 transportation service means—
 (a) a pipeline service; or
 (b) a service provided by means of a compression service facility; or
@@ -474,11 +446,9 @@ trial Rule—see section 290;
 trial waiver—see section 30W;
 Tribunal means the Australian Competition Tribunal referred to in the Competition and Consumer Act 2010 of the Commonwealth and includes a member of the Tribunal or a Division of the Tribunal performing functions of the Tribunal;
 user means a person who—
-(a) is a party to a contract with a service provider under which the service provider provides or intends to provide a pipeline service to that person by means of a scheme pipeline; or
-(b) has a right under an access determination to be provided with a pipeline service by means of a scheme pipeline;
+(a) is a party to a contract with a service provider under which the service provider provides or intends to provide a pipeline service to that person by means of a pipeline; or
+(b) has a right under an access determination to be provided with a pipeline service by means of a pipeline;
 user facility means a facility by means of which natural gas is consumed (including by transformation of the gas into a new form) and which is not any other form of natural gas industry facility;
-user or consumer association has the meaning given by section 244;
-user or consumer interest group has the meaning given by section 244;
 VENCorp means the Victorian Energy Networks Corporation continued under Part 8 of the Gas Industry Act 2001 of Victoria until the AEMO amendments come into force;
 Wholesale Market Procedures means Procedures directed at regulating the declared wholesale gas market of an adoptive jurisdiction.
 (2) A reference in this Law to an end user includes a reference to a prospective end user.
@@ -497,13 +467,12 @@ Item │ Provision │
 2D │ Section 91BN(5) │
 2DA │ Section 91BRD(1) │
 2DB │ Section 91BRJ(5) │
-2DC │ Section 91FEA │
-2E │ Section 91FC(3) and (4) │
+2DC │ Section 91FC(3) and (4) │
+2E │ Section 91FEA │
 2F │ Section 91LB(1) │
 2G │ Section 91MB(6) │
 3 │ Section 131 │
 4 │ Section 133 │
-5 │ Section 134 │
 6 │ Section 135 │
 7 │ Section 136 │
 8 │ Section 139 │
@@ -512,10 +481,6 @@ Item │ Provision │
 11 │ Section 143(6) │
 12 │ Section 147 │
 13 │ Section 148 │
-14 │ Section 168 │
-15 │ Section 169(3) │
-16 │ Section 170 │
-17 │ Section 195 │
 18 │ Section 223 │
 19 │ Section 225 │
 3A—Civil penalty amounts for breaches of civil penalty provisions
@@ -554,15 +519,13 @@ A1 │ Section 91BP │
 A2 │ Section 91BRF │
 A3 │ Section 91BRG │
 1 │ Section 133 │
-2 │ Section 134 │
 3 │ Section 135 │
 4 │ Section 136 │
 5 │ Section 147 │
 6 │ Section 148 │
-7 │ Section 170 │
 5—Meaning of prospective user
-(1) A prospective user is a person who seeks or wishes to be provided with a pipeline service by means of a scheme pipeline.
-(2) To avoid doubt, a user is also a prospective user if the user seeks or wishes to be provided with a pipeline service by means of a scheme pipeline other than a pipeline service already provided to them under—
+(1) A prospective user is a person who seeks or wishes to be provided with a pipeline service by means of a pipeline.
+(2) To avoid doubt, a user is also a prospective user if the user seeks or wishes to be provided with a pipeline service by means of a pipeline other than a pipeline service already provided to them under—
 (a) a contract; or
 (b) an access determination.
 6—Meaning of regulatory obligation or requirement
@@ -598,15 +561,28 @@ See also section 24(2)(b).
 (1) A service provider is a person who—
 (a) owns, controls or operates; or
 (b) intends to own, control or operate,
-a pipeline or scheme pipeline, or any part of a pipeline or scheme pipeline.
+a pipeline or any part of a pipeline.
 Note—
-A service provider must not provide pipeline services by means of a scheme pipeline unless the service provider is a legal entity of a specified kind: see section 131, and section 169 where the scheme pipeline is an international pipeline to which a price regulation exemption applies.
-(2) If AEMO controls or operates (without at the same time owning) a pipeline or scheme pipeline, or any part of a pipeline or scheme pipeline, AEMO is not for that reason to be taken to be a service provider for the purposes of this Law.
+A service provider must not provide a pipeline service by means of a pipeline unless the service provider is a legal entity of a specified kind: see section 131.
+(2) If AEMO controls or operates (without at the same time owning) a pipeline or any part of a pipeline, AEMO is not for that reason to be taken to be a service provider for the purposes of this Law.
 8AA—Meaning of transportation service provider
 If AEMO controls or operates (without at the same time owning) a compression service facility or another facility of a type prescribed by the Regulations for the purposes of paragraph (c) of the definition of transportation facility in section 2, AEMO is not for that reason to be taken to be a transportation service provider for the purposes of this Law.
+8AB—Meaning of small shipper
+(1) A small shipper is a user or prospective user—
+(a) who is, or seeks to be, a party to a contract with a service provider for the provision of a pipeline service by means of a pipeline; and
+(b) for whom the total daily pipeline capacity right provided, or sought to be provided, under 1 or more contracts with the same service provider and by means of the same pipeline is not more than—
+(i) the daily pipeline capacity right prescribed for this definition by the Regulations; or
+(ii) if no daily pipeline capacity right is prescribed by the Regulations, the lesser of the following amounts:
+(A) 5 terajoules per day;
+(B) 20% of the pipeline's nameplate rating.
+(2) However, a small shipper does not include a corporation with a market capitalisation of more than $500 000 000 or a related body corporate of the corporation.
+Note—
+See also section 19A in relation to related bodies corporate.
+(3) In this section—
+nameplate rating, in relation to a pipeline, means the maximum daily capacity of the pipeline under normal operating conditions.
 8A—Nominated distributors
 (1) The regulations under the application Act of a participating jurisdiction (a local regulation) may—
-(a) nominate an entity, being an entity that is licensed or otherwise authorised under the jurisdictional gas legislation of that jurisdiction to operate a distribution pipeline that is not a covered pipeline, as an entity to which this section applies (the nominated distributor); and
+(a) nominate an entity, being an entity that is licensed or otherwise authorised under the jurisdictional gas legislation of that jurisdiction to operate a distribution pipeline that is not a scheme pipeline, as an entity to which this section applies (the nominated distributor); and
 (b) apply to the nominated distributor specified provisions of the Rules that relate to the following matters:
 (i) the connection of premises of retail customers;
 (ii) retail support obligations between distributors and retailers;
@@ -620,8 +596,8 @@ If AEMO controls or operates (without at the same time owning) a compression ser
 (b) the whole or a specified part of the distribution pipeline that is operated by the entity,
 or for both.
 (5) The Minister responsible for administering the application Act (other than the application Act of South Australia) under which a local regulation referred to in this section is made is to make arrangements for notice of the making and publication of the regulation to be published for information in the South Australian Government Gazette.
-9—Passive owners of scheme pipelines deemed to provide or intend to provide pipeline services
-(1) This section applies to a person who owns a scheme pipeline but does not provide or intend to provide pipeline services by means of that pipeline.
+9—Passive owners of pipelines deemed to provide or intend to provide pipeline services
+(1) This section applies to a person who owns a pipeline but does not provide or intend to provide pipeline services by means of that pipeline.
 (2) The person is, for the purposes of this Law, deemed to provide or intend to provide pipeline services by means of that pipeline even if the person does not, in fact, do so.
 10—Things done by 1 service provider to be treated as being done by all of service provider group
 (1) This section applies if—
@@ -655,20 +631,8 @@ A pipeline is commissioned when the pipeline is first used for the haulage of na
 (e) the pressure at which the pipeline is or will be designed to operate;
 (f) the number of points at which gas can or will be injected into the pipeline;
 (g) the extent of the area served or to be served by the pipeline;
-(h) the pipeline's linear or dendritic configuration.
-14—Jurisdictional determination criteria—cross boundary distribution pipelines
-The pipeline jurisdictional determination criteria are—
-(a) whether more gas is to be delivered by a cross boundary distribution pipeline in the jurisdictional area of 1 participating jurisdiction than in the jurisdictional area of any other participating jurisdiction;
-(b) whether more customers to be served by a cross boundary distribution pipeline are resident in the jurisdictional area of 1 participating jurisdiction than in the jurisdictional area of any other participating jurisdiction;
-(c) whether more of the network for a cross boundary distribution pipeline is in the jurisdictional area of 1 participating jurisdiction than in the jurisdictional area of any other participating jurisdiction;
-(d) whether 1 participating jurisdiction has greater prospects for growth in the gas market served or to be served by a cross boundary distribution pipeline than any other participating jurisdiction;
-(e) whether the regional economic benefits from competition are likely to be greater for 1 participating jurisdiction than for any other participating jurisdiction.
-15—Pipeline coverage criteria
-The pipeline coverage criteria are—
-(a) that access (or increased access) to pipeline services provided by means of the pipeline would promote a material increase in competition in at least 1 market (whether or not in Australia), other than the market for the pipeline services provided by means of the pipeline;
-(b) that it would be uneconomic for anyone to develop another pipeline to provide the pipeline services provided by means of the pipeline;
-(c) that access (or increased access) to the pipeline services provided by means of the pipeline can be provided without undue risk to human health or safety;
-(d) that access (or increased access) to the pipeline services provided by means of the pipeline would not be contrary to the public interest.
+(h) the pipeline's linear or dendritic configuration;
+(i) the type of pipeline licence or authorisation that has been obtained in respect of the pipeline under jurisdictional gas legislation.
 16—Form of regulation factors
 The form of regulation factors are—
 (a) the presence and extent of any barriers to entry in a market for pipeline services;
@@ -676,22 +640,26 @@ The form of regulation factors are—
 (c) the presence and extent of any network externalities (that is, interdependencies) between a natural gas service provided by a service provider and any other service provided by the service provider in any other market;
 (d) the extent to which any market power possessed by a service provider is, or is likely to be, mitigated by any countervailing market power possessed by a user or prospective user;
 (e) the presence and extent of any substitute, and the elasticity of demand, in a market for a pipeline service in which a service provider provides that service;
-(f) the presence and extent of any substitute for, and the elasticity of demand in a market for, electricity or gas (as the case may be);
-(g) the extent to which there is information available to a prospective user or user, and whether that information is adequate, to enable the prospective user or user to negotiate on an informed basis with a service provider for the provision of a pipeline service to them by the service provider.
+(f) the presence and extent of any substitute for, and the elasticity of demand in a market for, electricity or gas (as the case may be).
 17—Effect of separate and consolidated access arrangements in certain cases
 (1) This section applies despite anything to the contrary in this Law.
-(2) If, under this Law and the Rules, separate access arrangements are approved in an applicable access arrangement decision for pipeline services provided, or to be provided, by means of different parts of a covered pipeline, each part of the covered pipeline—
+(2) If, under this Law and the Rules, separate access arrangements are approved in an applicable access arrangement decision for pipeline services provided, or to be provided, by means of different parts of a scheme pipeline, each part of the scheme pipeline—
 (a) by which pipeline services are provided; and
 (b) to which each separate applicable access arrangement applies,
 must to be taken to be a separate covered pipeline for the purposes of this Law.
-(3) If under this Law and the Rules, a single access arrangement is approved in an applicable access arrangement decision for pipeline services provided, or to be provided, by means of 2 or more covered pipelines, those pipelines must be taken to be a single covered pipeline for the purposes of this Law.
-18—Certain extensions to, or expansion of the capacity of, pipelines to be taken to be part of a covered pipeline
+(3) If under this Law and the Rules, a single access arrangement is approved in an applicable access arrangement decision for pipeline services provided, or to be provided, by means of 2 or more pipelines, those pipelines must be taken to be a single pipeline for the purposes of this Law.
+18—Certain extensions to, or expansion of the capacity of, pipelines to be taken to be part of a scheme pipeline
+(1) Subsection (2) applies in relation to an extension to a scheme pipeline if, by operation of the extension and expansion requirements under an applicable access arrangement, the applicable access arrangement will apply to pipeline services provided by means of the scheme pipeline as extended.
+(2) For the purposes of this Law—
+(a) the extension to the scheme pipeline must be taken to be part of the scheme pipeline; and
+(b) the pipeline as extended must be taken to be a scheme pipeline.
+(3) Also, for the purposes of this Law—
+(a) an expansion of the capacity of a scheme pipeline must be taken to be part of the scheme pipeline; and
+(b) the pipeline as expanded must be taken to be a scheme pipeline.
+19—Expansions of the capacity of non‑scheme pipelines to be taken to be part of non‑scheme pipeline
 For the purposes of this Law—
-(a) an extension to, or expansion of the capacity of, a covered pipeline must be taken to be part of the covered pipeline; and
-(b) the pipeline as extended or expanded must be taken to be a covered pipeline,
-if, by operation of the extension and expansion requirements under an applicable access arrangement, the applicable access arrangement will apply to pipeline services provided by means of the covered pipeline as extended or expanded.
-19—Expansions of and extensions to covered pipeline by which light regulation services are provided
-For the purposes of this Law, an extension to, or expansion of the capacity of, a covered pipeline by means of which light regulation services (and in respect of which there is no limited access arrangement) are provided, must be taken to be part of the covered pipeline unless the AER determines otherwise in writing.
+(a) an expansion of the capacity of a non‑scheme pipeline must be taken to be part of the non‑scheme pipeline; and
+(b) the pipeline as expanded must be taken to be a non‑scheme pipeline.
 19A—Related bodies corporate
 For the purposes of this Law, 2 or more bodies corporate are related to each other if they are related bodies corporate within the meaning of the Corporations Act 2001 of the Commonwealth.
 20—Interpretation generally
@@ -704,30 +672,30 @@ Part 2—Participating jurisdictions
 (2) If a law of a participating jurisdiction referred to in subsection (1)(b) ceases to be in force, the jurisdiction ceases to be a participating jurisdiction.
 22—Ministers of participating jurisdictions
 The Ministers of the participating jurisdictions are—
-(a) the Minister of the Crown in right of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia; and
+(a) the South Australian Minister; and
 (b) the Ministers of the Crown in right of the other participating jurisdictions administering the laws of those jurisdictions that apply this Law or any part of this Law (whether by a law that corresponds to Part 2 of the National Gas (South Australia) Act 2008 of South Australia or by some other law).
 Part 3—National gas objective and principles
 Division 1—National gas objective
 23—National gas objective
 The objective of this Law is to promote efficient investment in, and efficient operation and use of, natural gas services for the long term interests of consumers of natural gas with respect to price, quality, safety, reliability and security of supply of natural gas.
-Division 2—Revenue and pricing principles
-24—Revenue and pricing principles
-(1) The revenue and pricing principles are the principles set out in subsections (2) to (7).
-(2) A service provider should be provided with a reasonable opportunity to recover at least the efficient costs the service provider incurs in—
+Division 2—Revenue and pricing principles relating to scheme pipelines
+24—Revenue and pricing principles relating to scheme pipelines
+(1) The revenue and pricing principles that apply in relation to a pipeline service provided by means of a scheme pipeline are the principles set out in subsections (2) to (7).
+(2) A scheme pipeline service provider should be provided with a reasonable opportunity to recover at least the efficient costs the service provider incurs in—
 (a) providing reference services; and
 (b) complying with a regulatory obligation or requirement or making a regulatory payment.
-(3) A service provider should be provided with effective incentives in order to promote economic efficiency with respect to reference services the service provider provides. The economic efficiency that should be promoted includes—
+(3) A scheme pipeline service provider should be provided with effective incentives in order to promote economic efficiency with respect to reference services the service provider provides. The economic efficiency that should be promoted includes—
 (a) efficient investment in, or in connection with, a pipeline with which the service provider provides reference services; and
 (b) the efficient provision of pipeline services; and
 (c) the efficient use of the pipeline.
 (4) Regard should be had to the capital base with respect to a pipeline adopted—
 (a) in any previous—
-(i) full access arrangement decision; or
+(i) access arrangement decision; or
 (ii) decision of a relevant Regulator under section 2 of the Gas Code;
 (b) in the Rules.
 (5) A reference tariff should allow for a return commensurate with the regulatory and commercial risks involved in providing the reference service to which that tariff relates.
-(6) Regard should be had to the economic costs and risks of the potential for under and over investment by a service provider in a pipeline with which the service provider provides pipeline services.
-(7) Regard should be had to the economic costs and risks of the potential for under and over utilisation of a pipeline with which a service provider provides pipeline services.
+(6) Regard should be had to the economic costs and risks of the potential for under and over investment by a scheme pipeline service provider in a pipeline with which the service provider provides pipeline services.
+(7) Regard should be had to the economic costs and risks of the potential for under and over utilisation of a pipeline with which a scheme pipeline service provider provides pipeline services.
 Division 2A—Innovative trial principles
 24A—Innovative trial principles
 The following principles (the innovative trial principles) must be taken into account in determining whether a trial project is genuinely innovative in connection with granting a trial waiver or making a trial Rule relating to a trial project:
@@ -772,11 +740,17 @@ Division 1—General
 (B) in the case of a person undertaking a trial project under a trial waiver—the trial waiver and any conditions to which the trial waiver is subject; and
 (c) to institute and conduct proceedings in relation to breaches of provisions of this Law, the Regulations or the Rules, including offences against this Law; and
 (d) to institute and conduct appeals from decisions in proceedings referred to in paragraph (c); and
+(daa) to make—
+(i) scheme pipeline determinations; and
+(ii) scheme pipeline revocation determinations; and
+(iii) greenfields incentive determinations; and
+(iv) greenfields price protection determinations; and
+(dab) to monitor service providers' behaviour in relation to particular matters, including, for example, the prices charged by service providers for pipeline services; and
 (da) to make a rate of return instrument; and
 (e) AER economic regulatory functions or powers; and
 (ea) to make and amend the Operational Transportation Service Code in accordance with this Law and the Rules; and
 (eb) the AER trial waiver functions; and
-(f) to prepare and publish reports on the financial and operational performance of service providers in providing pipeline services by means of covered pipelines; and
+(f) to prepare and publish reports on the financial and operational performance of service providers in providing pipeline services by means of scheme pipelines; and
 (fa) in relation to goods or services in the natural gas industry—
 (i) to prepare and publish, in accordance with the Rules, aggregated and anonymised information or data about prices for those goods or services; and
 (ii) other monitoring, analysing or reporting functions that relate to prices for those goods or services conferred on the AER by this Law or the Rules; and
@@ -794,7 +768,7 @@ Division 1—General
 (a) perform or exercise that function or power in a manner that will or is likely to contribute to the achievement of the national gas objective; and
 (b) if the AER is making a designated regulatory decision—
 (i) ensure that—
-(A) the covered pipeline service provider that provides the pipeline services to which the applicable access arrangement decision will apply; and
+(A) the scheme pipeline service provider that provides the pipeline services to which the applicable access arrangement decision will apply; and
 (B) users or prospective users of the pipeline services that the AER considers have an interest in the matter; and
 (C) any user or consumer associations or user or consumer interest groups that the AER considers have an interest in the matter,
 are, in accordance with the Rules—
@@ -809,6 +783,13 @@ are, in accordance with the Rules—
 (ii) when making an access determination relating to a rate or charge for a pipeline service; and
 (b) may take into account the revenue and pricing principles when performing or exercising any other AER economic regulatory function or power, if the AER considers it appropriate to do so.
 (3) For the purposes of subsection (2)(a)(ii), a reference to a "reference service" in the revenue and pricing principles must be read as a reference to a "pipeline service".
+(4) In this section—
+user or consumer association means an association or body (whether incorporated or unincorporated)—
+(a) the members of which include more than 1 user, prospective user or end user; and
+(b) that represents and promotes the interests of those members in relation to the provision of natural gas services;
+user or consumer interest group means an association or body (whether incorporated or unincorporated)—
+(a) that has, as an object or purpose, the object or purpose of representing and promoting the interests of users, prospective users or end users of natural gas services; but
+(b) the members of which need not include a user, prospective user or end user.
 29—Delegations
 Any delegation by the AER under section 44AAH of the Competition and Consumer Act 2010 of the Commonwealth extends to, and has effect for the purposes of, this Law, the Regulations and the Rules.
 30—Confidentiality
@@ -836,10 +817,10 @@ explanatory information, for a rate of return instrument, means information abou
 30B—Rate of return instrument has force of law
 (1) A rate of return instrument has the force of law in this jurisdiction.
 (2) An Act of this jurisdiction regulating the making of subordinate legislation does not apply to a rate of return instrument.
-30C—Rate of return instrument is binding on AER and covered pipeline service providers
+30C—Rate of return instrument is binding on AER and scheme pipeline service providers
 A rate of return instrument is binding on—
 (a) the AER in relation to the performance or exercise of an AER economic regulatory function or power; and
-(b) each covered pipeline service provider in relation to a matter relevant to the performance or exercise of an AER economic regulatory function or power.
+(b) each scheme pipeline service provider in relation to a matter relevant to the performance or exercise of an AER economic regulatory function or power.
 Subdivision 2—Requirement to make rate of return instrument
 30D—AER to make rate of return instrument
 (1) This section applies if a rate of return on capital or the value of imputation credits is required for performing or exercising an AER economic regulatory function or power.
@@ -852,15 +833,15 @@ Subdivision 2—Requirement to make rate of return instrument
 (a) the revenue and pricing principles; and
 (b) other information the AER considers appropriate.
 30E—Content of rate of return instrument
-(1) If a rate of return instrument states the value of imputation credits, the instrument must state a single value to apply in relation to all covered pipeline service providers.
+(1) If a rate of return instrument states the value of imputation credits, the instrument must state a single value to apply in relation to all scheme pipeline service providers.
 (2) If a rate of return instrument states a way to calculate the rate of return on capital or the value of imputation credits, the instrument must—
-(a) provide for the same methodology to apply in relation to all covered pipeline service providers in calculating the rate or value; and
+(a) provide for the same methodology to apply in relation to all pipeline service providers in calculating the rate or value; and
 (b) provide for the methodology to apply automatically without the exercise of any discretion by the AER.
 Example for paragraph (b)—
 The instrument can not include different methodologies or a band of values from which the AER could choose in applying the instrument.
 (3) Subject to subsections (1) and (2), the instrument may include other matters the AER considers appropriate.
 Example—
-Matters to help a covered pipeline service provider calculate a rate of return or the value of imputation credits.
+Matters to help a scheme pipeline service provider calculate a rate of return or the value of imputation credits.
 Subdivision 3—Consultation requirements
 30F—Process for making rate of return instrument
 Subject to this Division, the AER may make a rate of return instrument in the way it considers appropriate.
@@ -946,7 +927,7 @@ A rate of return instrument—
 (1) A rate of return instrument—
 (a) applies for the purposes of an AER economic regulatory decision made after the commencement of the instrument; and
 (b) does not affect an AER economic regulatory decision made before the commencement of the instrument.
-(2) To remove any doubt, it is declared that the application of the instrument under this Law, including, for example, in making a full access arrangement decision, is an AER economic regulatory function or power.
+(2) To remove any doubt, it is declared that the application of the instrument under this Law, including, for example, in making an access arrangement decision, is an AER economic regulatory function or power.
 30R—Rate of return instrument may apply for this Law and the National Electricity Law
 (1) The AER may make 1 rate of return instrument for the purposes of this Law and the National Electricity Law.
 (2) If the AER acts under subsection (1)—
@@ -1183,30 +1164,27 @@ Subdivision 1—Interpretation
 43—Definitions
 In this Division—
 contributing service has the meaning given by section 44;
-related provider means a person who supplies a contributing service to a scheme pipeline service provider;
-scheme pipeline service provider means—
-(a) a covered pipeline service provider; or
-(b) a service provider who provides or intends to provide pipeline services by means of an international pipeline to which a price regulation exemption applies.
+related provider means a person who supplies a contributing service to a service provider.
 44—Meaning of contributing service
-(1) A contributing service is a service that the AER, in accordance with this section, decides is a service that contributes in a material way to the provision of a pipeline service by a scheme pipeline service provider.
-(2) In deciding whether a service is a service that contributes in a material way to the provision of a pipeline service by a scheme pipeline service provider, the AER must have regard to—
+(1) A contributing service is a service that the AER, in accordance with this section, decides is a service that contributes in a material way to the provision of a pipeline service by a service provider.
+(2) In deciding whether a service is a service that contributes in a material way to the provision of a pipeline service by a service provider, the AER must have regard to—
 (a) the nature and kind of the service;
 (b) when the service was first supplied;
 (c) the nature and extent of the contribution of the service relative to—
 (i) the pipeline service; and
-(ii) all other services supplied by the scheme pipeline service provider;
+(ii) all other services supplied by the service provider;
 (d) whether the service was previously supplied—
-(i) by the scheme pipeline service provider; or
-(ii) directly or indirectly by an associate of the scheme pipeline service provider;
+(i) by the service provider; or
+(ii) directly or indirectly by an associate of the service provider;
 (e) whether the service, together with other services, contributes in a material way to the provision of pipeline services;
 (f) any other matter specified under the Rules.
 45—Meaning of general regulatory information order
-(1) A general regulatory information order is an order made by the AER in accordance with this Division that requires each scheme pipeline service provider of a specified class, or each related provider of a specified class, to do either or both of the following:
+(1) A general regulatory information order is an order made by the AER in accordance with this Division that requires each service provider of a specified class, or each related provider of a specified class, to do either or both of the following:
 (a) provide to the AER the information specified in the order;
 (b) prepare, maintain or keep information specified in the notice in a manner and form specified in the order.
 (2) A general regulatory information order does not include an order that is made as a price information order.
 46—Meaning of regulatory information notice
-(1) A regulatory information notice is a notice prepared and served by the AER in accordance with this Division that requires the scheme pipeline service provider, or a related provider, named in the notice to do either or both of the following:
+(1) A regulatory information notice is a notice prepared and served by the AER in accordance with this Division that requires the service provider, or a related provider, named in the notice to do either or both of the following:
 (a) provide to the AER the information specified in the notice;
 (b) prepare, maintain or keep information specified in the notice in a manner and form specified in the notice.
 (2) A regulatory information notice does not include an order that is made as a price information order.
@@ -1220,13 +1198,13 @@ This Division does not limit the operation of Division 3.
 Subdivision 2—Serving and making of regulatory information instruments
 48—Service and making of regulatory information instruments
 (1) Subject to this Division, the AER, if it considers it reasonably necessary for the performance or exercise of its functions or powers under this Law or the Rules, may—
-(a) serve a regulatory information notice on a scheme pipeline service provider or a related provider; or
+(a) serve a regulatory information notice on a service provider or a related provider; or
 (b) make a general regulatory information order.
 (2) In considering whether it is reasonably necessary to serve a regulatory information notice, or make a general regulatory information order, the AER must have regard to—
 (a) the matter to be addressed by—
 (i) the service of the regulatory information notice; or
 (ii) the making of the general regulatory information order; and
-(b) the likely costs that may be incurred by an efficient scheme pipeline service provider or efficient related provider in complying with the notice or order.
+(b) the likely costs that may be incurred by an efficient service provider or efficient related provider in complying with the notice or order.
 Note—
 The AER must also exercise its powers under this section in a manner that will or is likely to contribute to the achievement of the national gas objective: see section 28.
 (2a) Subject to this Division, the AER, if it considers it reasonably necessary for the performance of its AER gas price reporting functions, may make a price information order.
@@ -1240,18 +1218,18 @@ The AER must also exercise its powers under this section in a manner that will o
 (a) serve a regulatory information notice on a related provider; or
 (b) make a general regulatory information order that will apply to a class of related providers.
 (2) In addition to the matters set out in section 48(2), the AER, in considering whether it is reasonably necessary to serve the regulatory information notice, or make the general regulatory information order, must have regard to—
-(a) whether the scheme pipeline service provider being supplied a contributing service by the related provider or related providers to which the intended regulatory information instrument will apply can—
+(a) whether the service provider being supplied a contributing service by the related provider or related providers to which the intended regulatory information instrument will apply can—
 (i) provide the information to be specified in that instrument; or
 (ii) prepare, maintain or keep the information to be specified in the particular manner and form to be specified in that instrument; and
 (b) the extent to which the related provider or related providers to which the intended regulatory information instrument will apply is, or are, supplying a contributing service on a genuinely competitive basis; and
 (c) the nature of any ownership or control between—
-(i) the scheme pipeline service provider being supplied a contributing service by a related provider to which the intended regulatory information instrument will apply; and
+(i) the service provider being supplied a contributing service by a related provider to which the intended regulatory information instrument will apply; and
 (ii) that related provider; and
-(d) the nature of any ownership or control as between different related providers supplying the contributing service to the scheme pipeline service provider; and
+(d) the nature of any ownership or control as between different related providers supplying the contributing service to the service provider; and
 (e) any other matter the AER considers relevant.
 (3) For the purposes of subsection (2)(b), in considering whether a contributing service is being supplied on a genuinely competitive basis, the AER may take into account—
 (a) whether there is effective competition in the market for the supply of the contributing service; and
-(b) whether the related provider supplies the contributing service to a scheme pipeline service provider under a contract, arrangement or understanding entered into with that scheme pipeline service provider following a competitive process for the awarding of the right to enter into that contract, arrangement or understanding involving persons who were not associates of the scheme pipeline service provider.
+(b) whether the related provider supplies the contributing service to a service provider under a contract, arrangement or understanding entered into with that service provider following a competitive process for the awarding of the right to enter into that contract, arrangement or understanding involving persons who were not associates of the service provider.
 50—AER must consult before publishing an order
 The AER must, in accordance with the Rules, consult with the public on the general regulatory information order or the price information order it intends to make before it makes that order.
 Note—
@@ -1262,18 +1240,18 @@ As soon as practicable after making a general regulatory information order or a 
 (b) arrange for notice of the making of the order to be published in the South Australian Government Gazette.
 52—Opportunity to be heard before regulatory information notice is served
 (1) The AER, before serving a regulatory information notice, must—
-(a) notify, in writing, the scheme pipeline service provider, or the related provider, on whom the AER intends to serve the regulatory information notice of its intention to do so; and
-(b) give the scheme pipeline service provider, or the related provider, a draft of the regulatory information notice it intends to serve.
+(a) notify, in writing, the service provider, or the related provider, on whom the AER intends to serve the regulatory information notice of its intention to do so; and
+(b) give the service provider, or the related provider, a draft of the regulatory information notice it intends to serve.
 (2) If the regulatory information notice to be served is an urgent notice, the AER must, in a notice under subsection (1)—
 (a) identify the regulatory information notice to be served as an urgent notice; and
 (b) give its reasons, in writing, why the regulatory information notice to be served is an urgent notice.
 (3) A regulatory information notice is an urgent notice if—
-(a) under the notice the AER will require the scheme pipeline service provider or related provider to provide information to the AER; and
+(a) under the notice the AER will require the service provider or related provider to provide information to the AER; and
 (b) that requirement has arisen because the AER considers it must deal with or address a particular matter or thing in order for it to make an AER economic regulatory decision or a rate of return instrument; and
 (c) the AER considers that, having regard to the time within which it must make that AER economic regulatory decision or rate of return instrument, the time within which the AER requires the information is of the essence.
 (4) A notice under subsection (1) must—
-(a) invite the scheme pipeline service provider, or the related provider, to make written representations to the AER as to whether the AER should serve the regulatory information notice on them; and
-(b) specify the period within which the scheme pipeline service provider, or the related provider, may make the representations.
+(a) invite the service provider, or the related provider, to make written representations to the AER as to whether the AER should serve the regulatory information notice on them; and
+(b) specify the period within which the service provider, or the related provider, may make the representations.
 (5) The period that must be specified in accordance with subsection (4) must be—
 (a) in the case of an urgent notice to be served—a period of not less than 5 business days and not more than 10 business days calculated from the date of the notice under subsection (1);
 (b) in all other cases—a period of at least 20 business days calculated from the date of the notice under subsection (1).
@@ -1291,13 +1269,13 @@ Subdivision 3—Form and content of regulatory information instruments
 (i) provided to the AER;
 (ii) prepared, maintained or kept in the particular manner and form specified in the instrument; and
 (d) in the case of an instrument requiring information to be provided to the AER, must specify when the information must be provided.
-(2) In the case of a regulatory information notice, the notice must name the scheme pipeline service provider or the related provider to whom it applies.
+(2) In the case of a regulatory information notice, the notice must name the service provider or the related provider to whom it applies.
 (3) In the case of a general regulatory information order or a price information order, the order must specify the class of persons to whom the order applies.
 54—Further provision about the information that may be described in a regulatory information instrument
 (1) Without limiting section 53(1)(a), the information that may be required to be provided to the AER, or to be prepared, maintained or kept, may include—
 (a) historic, current and forecast information (including financial information);
 (b) information that is or may be derived from other information in the possession or control of the person to whom the instrument applies;
-(c) information to enable the AER to verify whether the scheme pipeline service provider to whom the instrument applies is or has been complying with Chapter 4;
+(c) information to enable the AER to verify whether the service provider to whom the instrument applies is or has been complying with Chapter 4;
 (d) information to enable the AER to verify compliance with any requirements for the allocation of costs between natural gas services under—
 (i) the Rules; or
 (ii) an applicable access arrangement.
@@ -1311,7 +1289,7 @@ Without limiting section 53(1)(b), a regulatory information instrument may requi
 (ii) as formulated, issued, prescribed or published at the time the instrument is served or published or at any time before the instrument is served or published; or
 (iii) as amended from time to time;
 Example—
-The AER may require a scheme pipeline service provider to provide information in a form and manner that complies with relevant accounting standards.
+The AER may require a service provider to provide information in a form and manner that complies with relevant accounting standards.
 (d) be verified by way of statutory declaration by an officer of the person to whom the instrument applies;
 (e) be audited—
 (i) by a class of person specified in the instrument before it is provided to the AER; and
@@ -1351,14 +1329,14 @@ On being served a regulatory information notice, a person named in the notice mu
 59—Assumptions where there is non-compliance with regulatory information instrument
 (1) This section applies if—
 (a) under a regulatory information instrument the AER—
-(i) requires a scheme pipeline service provider to provide information to the AER for the purpose of enabling the AER to make an AER economic regulatory decision relating to the scheme pipeline service provider or to make a rate of return instrument; or
-(ii) requires a related provider to provide information to the AER that is relevant to the making of an AER economic regulatory decision relating to a scheme pipeline service provider or the making of a rate of return instrument; and
-(b) the scheme pipeline service provider or related provider—
+(i) requires a service provider to provide information to the AER for the purpose of enabling the AER to make an AER economic regulatory decision relating to the service provider or to make a rate of return instrument; or
+(ii) requires a related provider to provide information to the AER that is relevant to the making of an AER economic regulatory decision relating to a service provider or the making of a rate of return instrument; and
+(b) the service provider or related provider—
 (i) does not provide the information to the AER in accordance with the applicable regulatory information instrument; or
 (ii) provides information that is insufficient (when compared to what was requested under the applicable regulatory information instrument).
 (2) Without limiting sections 56 and 57 and despite anything to the contrary in this Law or the Rules, the AER—
 (a) may make the AER economic regulatory decision or the rate of return instrument on the basis of the information the AER has at the time it makes that decision or instrument; and
-(b) in making that decision or instrument, may make reasonable assumptions (including assumptions adverse to the interests of the scheme pipeline service provider) in respect of the matters the information required under the regulatory information instrument would have addressed had that information been provided as required.
+(b) in making that decision or instrument, may make reasonable assumptions (including assumptions adverse to the interests of the service provider) in respect of the matters the information required under the regulatory information instrument would have addressed had that information been provided as required.
 (3) This section does not apply in relation to a price information order.
 Subdivision 5—General
 60—Providing to AER false and misleading information
@@ -1378,8 +1356,31 @@ A regulatory information instrument, and sections 56 and 57, are not to be taken
 63—Protection against self-incrimination
 (1) It is a reasonable excuse for a natural person to whom section 56 applies not to comply with a regulatory information notice served on the person requiring the person to provide information to the AER if to do so might tend to incriminate the person, or make the person liable to a criminal penalty, under a law of this jurisdiction or another participating jurisdiction.
 (2) It is a reasonable excuse for a natural person to whom section 57 applies not to comply with a general regulatory information order or a price information order made requiring the person to provide information to the AER if to do so might tend to incriminate the person, or make the person liable to a criminal penalty, under a law of this jurisdiction or another participating jurisdiction.
-Division 5—Service provider performance reports
-64—Preparation of service provider performance reports
+Division 4A—Monitoring service providers
+63A—AER must monitor service providers' behaviour
+The AER must regularly and systematically monitor the following matters:
+(a) the prices charged by service providers for pipeline services;
+(b) the non-price terms and conditions for pipeline services;
+(c) the financial information reported by service providers;
+(d) the outcomes of access negotiations;
+(e) service providers' dealings with associates;
+(f) service providers' compliance with ring fencing requirements;
+(g) the compliance of service providers with other requirements of this Law and the Rules.
+63B—AER must report to MCE
+(1) At least every 2 years, the AER must report to the MCE on its work under this Division for the previous 2 years (the relevant period).
+(2) The MCE may issue a direction to the AER requiring the AER to include information in the report about a stated matter that relates to the AER's performance or exercise of its functions or powers under Chapters 3 to 5.
+(3) The report must—
+(a) state how many service providers the AER monitored during the relevant period for the purposes of this Division; and
+(b) summarise the information obtained in relation to the matters mentioned in section 63A; and
+(c) state how the AER obtained information contained in the report; and
+(d) give an assessment of the behaviour of service providers in relation to the matters mentioned in section 63A; and
+(e) state the extent to which service providers have complied, or failed to comply, with their obligations under this Law, the Regulations and the Rules; and
+(f) include any information requested in a direction issued by the MCE under subsection (2).
+(4) As soon as practicable after giving a report to the MCE under this section, the AER must publish, on its website, a version of the report that—
+(a) contains aggregated information about each of the matters mentioned in section 63A; and
+(b) is not likely to result in the identification of a particular service provider.
+Division 5—Service provider performance reports relating to scheme pipelines
+64—Preparation of service provider performance reports relating to scheme pipelines
 (1) Subject to this section, the AER may prepare a report on the financial performance or operational performance of 1 or more scheme pipeline service providers in providing pipeline services by means of a scheme pipeline.
 Note—
 The AER may only prepare a report under subsection (1) if the preparation of the report will or is likely to contribute to the achievement of the national gas objective: see section 28.
@@ -1396,6 +1397,32 @@ The AER may only prepare a report under subsection (1) if the preparation of the
 (4) Before preparing a report under this section, the AER must, in accordance with the Rules, consult with the persons or bodies specified by the Rules.
 (4A) Any information that is used to prepare a report under this section may be used by the AER in preparing any report under the National Energy Retail Law or the National Energy Retail Rules, including (but not limited to) a retail market performance report under Division 2 of Part 12 of that Law.
 (5) The AER may publish a report prepared under this section on its website.
+Division 5A—Compliance and performance
+64A—References in this Division to service providers
+In this Division, a reference to a service provider includes a reference to a person, other than a service provider, to whom Chapter 4, or a provision of Chapter 4, applies under section 130.
+64B—Compliance audits by AER
+For the purpose of assessing a service provider's compliance with the requirements of this Law, the Regulations and the Rules, the AER may—
+(a) carry out compliance audits of any or all activities of the service provider; or
+(b) arrange for the carrying out by contractors or other persons of compliance audits on behalf of the AER of any or all activities of the service provider.
+64C—Compliance audits by service providers
+(1) A service provider must, if required by the AER, carry out a compliance audit in connection with specified aspects of the activities of the service provider in relation to the service provider's compliance with the requirements of this Law, the Regulations and the Rules.
+(2) If the AER requires a service provider to carry out a compliance audit under this section, the service provider may arrange for the audit to be carried out on its behalf by contractors or other persons, but the service provider remains responsible for the audit.
+(3) A service provider must, within a period specified by the AER, provide the AER with the results of a compliance audit carried out under this section.
+Note—
+Subsections (1) and (3) are civil penalty provisions.
+64D—Carrying out of compliance audits
+A compliance audit is to be carried out in accordance with the AER Compliance Procedures and Guidelines.
+64E—Cost of compliance audits
+(1) The cost of conducting a compliance audit under section 64B is an amount to be determined in accordance with the AER Compliance Procedures and Guidelines and is recoverable by the AER from the service provider to whom the audit relates.
+(2) The cost of conducting a compliance audit under section 64C is to be borne by the service provider to whom the audit relates.
+64F—AER Compliance Procedures and Guidelines
+(1) The AER must make procedures and guidelines (AER Compliance Procedures and Guidelines) in accordance with the Rules.
+(2) Without limiting subsection (1), the AER Compliance Procedures and Guidelines may provide guidance for service providers about the following matters:
+(a) compliance with the requirements of this Law, the Regulations and the Rules;
+(b) the carrying out of compliance audits, and the costs payable by service providers, under this Division.
+(3) The AER Compliance Procedures and Guidelines may include a statement of the AER's compliance priorities.
+(4) The AER may amend the AER Compliance Procedures and Guidelines in accordance with the Rules.
+(5) The AER Compliance Procedures and Guidelines may form part of similar guidelines under this Law, the National Electricity Law or the National Energy Retail Law.
 Division 6—Miscellaneous matters
 65—Consideration by the AER of submissions or comments made to it under this Law or the Rules
 If, under this Law or the Rules, the AER publishes a notice inviting submissions in relation to the making of an AER economic regulatory decision, the AER, in making the decision—
@@ -1594,24 +1621,20 @@ Division 5—Other reviews
 (a) give a copy of the report to the MCE; and
 (b) publish a report or a version of a report from which confidential information has been omitted in accordance with section 331.
 Division 6—Miscellaneous matters
-83A—Special information and transparency requirements relating to non‑scheme pipelines
-(1) In this section—
-non-scheme pipeline means—
-(a) a transmission pipeline that is not a scheme pipeline; and
-(b) a distribution pipeline that is not a scheme pipeline.
-(2) Without limiting any other provision, the Rules may provide for such things as—
-(a) the collection, disclosure, verification, management and publication of information in relation to services that may be provided by a non‑scheme pipeline; and
-(b) without limiting paragraph (a), requirements about the information that must be provided by service providers in relation to access (or potential access) to services provided by means of any non‑scheme pipeline, including information about—
-(i) the terms and conditions on which the service provider is prepared to make a non‑scheme pipeline available for use by others; and
-(ii) the procedures that the service provider will apply in determining a proposal for access to a non‑scheme pipeline; and
-(iii) relevant prices, costs and methodologies associated with gaining access to (and using) a non‑scheme pipeline and relevant or related services; and
-(iv) access contracts and arrangements used (or required to be used) by the service provider; and
-(c) without limiting paragraphs (a) and (b), information to be provided by a service provider in response to a request for access to services provided by means of a non‑scheme pipeline; and
+83A—Information and transparency requirements relating to compression service facilities and storage facilities
+(1) Without limiting any other provision, the Rules may provide for such things as—
+(a) the collection, disclosure, verification, management and publication of information in relation to services that may be provided by means of a compression service facility or a storage facility; and
+(b) without limiting paragraph (a), requirements about the information that must be provided by a compression service provider or a storage provider (each a relevant provider) in relation to access (or potential access) to services provided by means of any compression service facility or storage facility, including information about—
+(i) the terms and conditions on which the relevant provider is prepared to make the facility available for use by others; and
+(ii) the procedures that the relevant provider will apply in determining a proposal for access to the facility; and
+(iii) relevant prices, costs and methodologies associated with gaining access to (and using) a facility and relevant or related services; and
+(iv) access contracts and arrangements used (or required to be used) by the relevant provider; and
+(c) without limiting paragraphs (a) and (b), information to be provided by a relevant provider in response to a request for access to services provided by means of a compression service facility or a storage facility; and
 (d) requirements to ensure that information is accurate and complete; and
-(e) requirements that relate to any matter that is contemplated by Chapter 4 Part 2 (as if a reference to a covered pipeline service provider in that Part were a reference to a service provider in relation to a non-scheme pipeline and subject to any modifications made by the Rules and subject to such other necessary alterations and modifications so as to apply those requirements in relation to non‑scheme pipelines); and
-(f) the imposition or recovery of costs associated with any matter referred to in a preceding paragraph or otherwise associated with facilitating access (or potential access) to services provided by means of a non‑scheme pipeline.
-(3) Nothing in subsection (2) limits any power to grant an exemption from complying with a provision, or part of a provision, of the Rules.
-(4) A reference in subsection (2) with respect to gaining access (or potential access) to services provided by means of a non‑scheme pipeline includes a reference to services that will require an extension to, or expansion of the capacity of, a non‑scheme pipeline.
+(e) the imposition or recovery of costs associated with any matter referred to in a preceding paragraph or otherwise associated with facilitating access (or potential access) to services provided by means of a compression service facility or a storage facility.
+(2) Nothing in subsection (1) limits any power to grant an exemption from complying with a provision, or part of a provision, of the Rules.
+83AA—Publication of information relating to compression service facilities and storage facilities
+A person required by the Rules made under section 83A to publish information must do so in accordance with the Rules.
 83B—Standard market timetable
 (1) Without limiting any other provision, the Rules may provide for a standard market timetable.
 (2) The standard market timetable may do the following:
@@ -1665,37 +1688,6 @@ Part 3—Functions and powers of Ministers of participating jurisdictions
 (2) The Minister of this participating jurisdiction has power to do all things necessary or convenient to be done for or in connection with the performance of his or her functions.
 (3) In this section—
 Minister of this participating jurisdiction means the Minister that administers the Act of this jurisdiction that applies this Law or a part of this Law as a law of this jurisdiction—see section 22(b).
-88—Functions and powers of Commonwealth Minister under this Law
-(1) The Commonwealth Minister has the functions and powers conferred on him or her under this Law, the Regulations or the Rules.
-(2) The Commonwealth Minister has power to do all things necessary or convenient to be done for or in connection with the performance of his or her functions.
-Part 4—Functions and powers of the NCC
-89—Functions and powers of NCC under this Law
-(1) The NCC has the functions and powers conferred on it under this Law, the Regulations or the Rules.
-(2) The NCC has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
-90—Confidentiality
-(1) The NCC must take all reasonable measures to protect from unauthorised use or disclosure information given to it in confidence in, or in connection with, the performance of its functions or the exercise of its powers under this Law, the Regulations or the Rules.
-(2) For the purposes of subsection (1), the disclosure of information as required or permitted by this Law, a law of the Commonwealth, a State or Territory is taken to be authorised use and disclosure of the information.
-(3) Disclosing information to 1 of the following is authorised use and disclosure of the information:
-(a) the ACCC;
-(b) the AER;
-(c) the ERA;
-(d) the AEMC;
-(e) any staff or consultant assisting a body mentioned in paragraph (a) to (d) in performing its functions or exercising its powers;
-(f) any other person or body prescribed by the Regulations for the purpose of this paragraph.
-(4) A person or body to whom information is disclosed under subsection (3) may use the information for any purpose connected with the performance of the functions, or the exercise of the powers, of the person or body.
-(5) The NCC may impose conditions to be complied with in relation to information disclosed under subsection (3).
-(6) For the purposes of subsection (1), the use or disclosure of information by a person for the purposes of performing the person's functions, or exercising the person's powers, as—
-(a) a Councillor or a person referred to in section 29M of the Competition and Consumer Act 2010 of the Commonwealth; or
-(b) a person who is authorised to perform or exercise a function or power of, or on behalf of, the NCC,
-is taken to be authorised use and disclosure of the information.
-(7) Regulations made for the purposes of this section may specify uses of information and disclosures of information that are authorised uses and authorised disclosures for the purposes of this section.
-(8) Nothing in any of the above subsections limits—
-(a) anything else in any of those subsections; or
-(b) what may otherwise constitute, for the purposes of subsection (1), authorised use or disclosure of information.
-(9) In this section—
-Councillor has the same meaning as in the Competition and Consumer Act 2010 of the Commonwealth.
-Note—
-See also Chapter 10 Part 2 Division 2.
 Part 5—Functions and powers of Tribunal
 91—Functions and powers of Tribunal under this Law
 (1) The Tribunal has the functions and powers conferred on it under Chapter 8 Part 5 and any Regulations made for the purposes of that Division.
@@ -1837,7 +1829,7 @@ Subdivision 3—AEMO's relationship with transmission system service providers a
 (c) any other matter that has a bearing on the subject matter of the agreement.
 (3) A determination cannot alter the allocation of risk under an existing service envelope agreement or an existing operating agreement unless AEMO agrees.
 (4) The provisions applicable to the determination of an access dispute apply to a determination by the AER under this Division with the following changes:
-(a) section 186(1)(c), section 186(2) and sections 187 to 191 do not apply; and
+(a) sections 163 to 166 and section 169(1)(b)(i), (iv) and (2) do not apply; and
 (b) any further changes necessary to adapt those provisions to the determination of a dispute under this Division.
 Subdivision 4—Declared wholesale gas market
 91BI—Market participation
@@ -2457,7 +2449,6 @@ Division 10—Immunity
 (b) prescribe a limitation of liability that varies in amount according to the persons to whom, or the events, circumstances, losses or periods to which, it is expressed to apply;
 (c) prescribe the manner in which a maximum amount is to be divided amongst claimants.
 (5) In this section—
-distribution pipeline includes a pipeline that would be likely to be classified as a distribution pipeline;
 distributor means the service provider that provides pipeline services by means of a distribution pipeline and includes an officer, employee or agent of the service provider.
 91KB—Immunity in relation to use of computer software
 (1) A protected person incurs no civil monetary liability for loss or damage suffered by a Registered participant or other person in consequence of the use of computer software to operate a gas market.
@@ -2490,7 +2481,6 @@ Division 1—Registration
 (2) A person cannot be classified under the Rules as a participant in a regulated retail gas market unless the person falls within 1 or more of the following classes:
 (a) service providers;
 (b) users;
-(c) non-scheme pipeline users;
 (d) producers;
 (e) storage providers;
 (f) traders;
@@ -2545,297 +2535,234 @@ AEMO may, in accordance with the Rules, make Retail Market Procedures.
 (b) give a copy of the decision and the reasons for it to the AER.
 Note—
 AEMO may provide the AER with relevant information (including protected information) related to a suspected breach of the Procedures. (For disclosure of protected information, see section 91GC(2)(b).)
-Chapter 3—Coverage and classification of pipelines
-Part 1—Coverage of pipelines
-Division 1—Coverage determinations
-92—Application for recommendation that a pipeline be a covered pipeline
-(1) Any person may apply for a determination that a pipeline be a covered pipeline (a coverage determination).
-(2) An application for a coverage determination—
-(a) is to be made to the NCC in accordance with the Rules; and
-(b) must contain the information required by the Rules; and
-(c) must be accompanied by the fee prescribed by the Regulations (if any).
-93—Application to be dealt with in accordance with the Rules
-Subject to section 94, on receiving an application under section 92 the NCC must deal with it in accordance with the Rules.
-94—NCC may defer consideration of application in certain cases
-(1) This section applies if an application under section 92 is made in relation to a proposed pipeline after—
-(a) an application has been made to the AER under the Rules for the approval, by the AER, of the tender process for the construction and operation of the proposed pipeline as a competitive tender process; or
-(b) a tender approval decision has been made in respect of the tender process for the construction and operation of the proposed pipeline.
-(2) The NCC may defer consideration of whether to make a recommendation in respect of the application until—
-(a) the application for the approval, by the AER, of the tender process for the construction and operation of the proposed pipeline as a competitive tender process has been rejected by the AER under the Rules; or
-(b) the tender approval decision—
-(i) has been revoked under the Rules; or
-(ii) has lapsed as provided under the Rules.
-95—NCC coverage recommendation
-(1) Subject to sections 94 and 96, the NCC must recommend to the relevant Minister that the pipeline the subject of the application—
-(a) be a covered pipeline; or
-(b) not be a covered pipeline.
-Note—
-See also Chapter 3 Part 2 Division 1 Subdivision 1.
-(2) A recommendation under this section must—
-(a) be made in accordance with this Law and the Rules; and
-(b) be made within the time specified by the Rules; and
-(c) contain the information required by the Rules; and
-(d) be given to the persons specified by the Rules; and
-(e) be made publicly available in accordance with the Rules.
-(3) A recommendation under this section may recommend an outcome different from the outcome sought in the application under section 92.
-Example—
-An applicant may apply for a determination that the whole of a pipeline be a covered pipeline. The NCC may recommend that only a part of the pipeline the subject of the application be covered or may recommend that the pipeline not be covered.
-(4) A recommendation under this section must be delivered to the relevant Minister without delay.
-96—NCC must not make coverage recommendation if tender approval decision becomes irrevocable
-Despite anything to the contrary in this Division, the NCC—
-(a) must not make a recommendation under section 95 if the pipeline is the subject of a tender approval decision that—
-(i) has not lapsed as provided under the Rules; or
-(ii) is not revoked under the Rules; and
-(b) must, for the purposes of paragraph (a), treat the application as having never been made.
-97—Principles governing the making of a coverage recommendation
-(1) In making a coverage recommendation, the NCC—
-(a) must give effect to the pipeline coverage criteria; and
-(b) in deciding whether or not the pipeline coverage criteria are satisfied must have regard to the national gas objective.
-(2) The NCC gives effect to the pipeline coverage criteria as follows:
-(a) if the NCC is satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline—the recommendation must be in favour of the pipeline being a covered pipeline;
-(b) if the NCC is not satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline—the recommendation must be against the pipeline being a covered pipeline.
-98—Initial classification decision to be made as part of recommendation
-(1) The NCC must, as part of a coverage recommendation, classify the pipeline the subject of an application under section 92 as a transmission pipeline or a distribution pipeline (an initial classification decision). In doing so, the NCC must apply the pipeline classification criterion.
-(2) The NCC must as part of an initial classification decision—
-(a) if it classifies the pipeline the subject of the application as a transmission pipeline—determine whether the transmission pipeline is also a cross boundary transmission pipeline;
-(b) if it classifies the pipeline the subject of the application as a distribution pipeline—determine whether the distribution pipeline is also a cross boundary distribution pipeline.
-(3) The NCC must also determine, as part of an initial classification decision, the participating jurisdiction with which the pipeline the subject of the application under section 92 is most closely connected if the NCC determines the pipeline is also a cross boundary distribution pipeline. In doing so, the NCC must apply the jurisdictional determination criteria.
-99—Relevant Minister's determination on application
-(1) On receiving a coverage recommendation, the relevant Minister must decide whether to make a coverage determination in respect of the pipeline to which the recommendation relates.
-(2) The relevant Minister must use his or her best endeavours to make the decision within 20 business days after receiving the coverage recommendation.
-(3) If the relevant Minister is unable to make the decision within the period specified under subsection (2), he or she must make the decision as soon as reasonably practicable after the end of the specified period.
-(4) The relevant Minister, for the purpose of making the decision, may request submissions or comments in relation to an application under section 92.
-(5) A coverage determination or a decision not to make a coverage determination must—
+Chapter 3—Regulatory framework for pipelines
+Part 1—Scheme pipeline determinations and scheme pipeline elections
+Division 1—Scheme pipeline determinations
+92—AER may make scheme pipeline determination
+(1) The AER may, on its own initiative or on the application of any person, make a determination that a non‑scheme pipeline is a scheme pipeline (a scheme pipeline determination).
+(2) An application for a scheme pipeline determination must—
+(a) be made in accordance with the Rules; and
+(b) contain the information required by the Rules; and
+(c) be accompanied by the fee prescribed by the Regulations (if any); and
+(d) be dealt with in accordance with the Rules.
+93—Requirements for making, or not making, a scheme pipeline determination
+(1) A scheme pipeline determination or a decision not to make a scheme pipeline determination must—
 (a) be made in accordance with this Law and the Rules; and
 (b) contain the information required by the Rules; and
 (c) be given to the persons specified by the Rules; and
-(d) be made publicly available in accordance with the Rules.
-(6) In the case of a coverage determination, the determination must specify the date the determination takes effect.
-(7) A coverage determination may have an outcome different to the outcome—
-(a) sought in the application under section 92; or
-(b) of the coverage recommendation.
-Example—
-An applicant may apply for a determination that the whole of a pipeline be a covered pipeline. The NCC may recommend that only a part of the pipeline the subject of the application be covered. The relevant Minister may determine that different parts of the pipeline to those recommended by the NCC be covered.
-100—Principles governing the making of a coverage determination or decision not to do so
-(1) In deciding whether to make a coverage determination under this Division, the relevant Minister—
-(a) must give effect to the pipeline coverage criteria; and
-(b) in deciding whether or not the pipeline coverage criteria are satisfied in relation to the pipeline—
-(i) must have regard to the national gas objective; and
-(ii) must have regard to the coverage recommendation; and
-(iii) must take into account any submissions or comments he or she receives on a request under section 99(4); and
-(iv) may take into account any relevant submissions and comments made to the NCC by the public under the Rules in relation to the application.
-(2) The relevant Minister gives effect to the pipeline coverage criteria as follows:
-(a) if the relevant Minister is satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline—the Minister must make a coverage determination;
-(b) if the relevant Minister is not satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline—the Minister must not make a coverage determination.
-101—Operation and effect of coverage determination
-The pipeline the subject of a coverage determination becomes a covered pipeline—
-(a) when the coverage determination takes effect; and
-(b) continues to be a covered pipeline while the coverage determination remains in effect.
-Division 2—Coverage revocation determinations
-102—Application for a determination that a pipeline no longer be a covered pipeline
-(1) Any person may apply for a determination that a covered pipeline no longer be a covered pipeline (a coverage revocation determination).
-(2) An application for a coverage revocation determination—
-(a) is to be made to the NCC in accordance with the Rules; and
-(b) must contain the information required by the Rules; and
-(c) must be accompanied by the fee prescribed by the Regulations (if any).
-103—Application to be dealt with in accordance with the Rules
-On receiving an application under section 102, the NCC must deal with it in accordance with the Rules.
-104—NCC coverage revocation recommendation
-(1) The NCC must make a recommendation to the relevant Minister as to whether the covered pipeline the subject of the application should continue to be a covered pipeline.
-Note—
-See also section 119.
-(2) A recommendation under this section must—
-(a) be made in accordance with this Law and the Rules; and
-(b) be made within the time specified by the Rules; and
-(c) contain the information required by the Rules; and
-(d) be given to the persons specified by the Rules; and
-(e) be made publicly available in accordance with the Rules.
-(3) A recommendation under this section may recommend an outcome different from the outcome sought in the application under section 102.
-Example—
-A service provider may apply for a determination that revokes the coverage of the covered pipeline by means of which the provider provides pipeline services. The NCC may recommend that the coverage of the covered pipeline be only partly revoked or not be revoked.
-(4) A recommendation under this section must be delivered to the relevant Minister without delay.
-105—Principles governing the making of a coverage revocation recommendation
-(1) In making a coverage revocation recommendation, the NCC—
-(a) must give effect to the pipeline coverage criteria; and
-(b) in deciding whether or not the pipeline coverage criteria are satisfied must have regard to the national gas objective.
-(2) The NCC gives effect to the pipeline coverage criteria as follows:
-(a) if the NCC is satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline—the recommendation must be in favour of the pipeline continuing to be a covered pipeline;
-(b) if the NCC is not satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline—the recommendation must be in favour of the pipeline no longer being a covered pipeline.
-106—Relevant Minister's determination on application
-(1) On receiving a coverage revocation recommendation, the relevant Minister must decide whether to make a coverage revocation determination in respect of the pipeline to which the recommendation relates.
-(2) The relevant Minister must use his or her best endeavours to make the decision within 20 business days after receiving the coverage revocation recommendation.
-(3) If the relevant Minister is unable to make the decision within the period specified under subsection (2), he or she must make the decision as soon as reasonably practicable after the end of the specified period.
-(4) The relevant Minister, for the purpose of making the decision, may request submissions or comments in relation to an application under section 102.
-(5) A coverage revocation determination or a decision not to make a coverage revocation determination must—
+(d) be made publicly available in accordance with the Rules; and
+(e) if a scheme pipeline determination is made—specify the date the determination takes effect.
+(2) For subsection (1)(e), the date specified must be at least 6 months, but not more than 12 months, after the determination is made.
+94—Effect of scheme pipeline determination
+A pipeline the subject of a scheme pipeline determination—
+(a) becomes a scheme pipeline when the scheme pipeline determination takes effect; and
+(b) continues to be a scheme pipeline while the scheme pipeline determination remains in effect.
+Division 2—Scheme pipeline elections
+95—Scheme pipeline elections
+(1) A service provider for a non‑scheme pipeline may elect for the pipeline to be dealt with under this Law as a scheme pipeline (a scheme pipeline election).
+(2) A scheme pipeline election must be made in accordance with the Rules.
+96—Effect of scheme pipeline elections
+(1) A scheme pipeline election takes effect on a day, determined by the AER, that is at least 6 months, but not more than 12 months, after the AER receives the election.
+(2) However, if the AER does not make a determination under subsection (1), the scheme pipeline election takes effect on the day that is 12 months after the AER receives the election.
+(3) On the day a scheme pipeline election takes effect under this section, the non‑scheme pipeline the subject of the scheme pipeline election becomes a scheme pipeline.
+Part 2—Scheme pipeline revocation determinations
+97—AER may make scheme pipeline revocation determination
+(1) The AER may, on its own initiative or on the application of any person, make a scheme pipeline revocation determination in relation to any scheme pipeline other than a designated pipeline.
+(2) An application for a scheme pipeline revocation determination must—
+(a) be made in accordance with the Rules; and
+(b) contain the information required by the Rules; and
+(c) be accompanied by the fee prescribed by the Regulations (if any); and
+(d) be dealt with in accordance with the Rules.
+98—Requirements for making, or not making, a scheme pipeline revocation determination
+A scheme pipeline revocation determination or a decision not to make a scheme pipeline revocation determination must—
 (a) be made in accordance with this Law and the Rules; and
 (b) contain the information required by the Rules; and
 (c) be given to the persons specified by the Rules; and
-(d) be made publicly available in accordance with the Rules.
-(6) In the case of a coverage revocation determination, the determination must specify the date the determination takes effect.
-(7) A coverage revocation determination may have an outcome different to the outcome—
-(a) sought in the application under section 102; or
-(b) of the coverage revocation recommendation.
+(d) be made publicly available in accordance with the Rules; and
+(e) if a scheme pipeline revocation determination is made—specify the date the determination takes effect.
+99—Effect of scheme pipeline revocation determination
+A pipeline the subject of a scheme pipeline revocation determination ceases to be a scheme pipeline when the scheme pipeline revocation determination takes effect.
+Part 3—Greenfields incentive determinations and greenfields price protection determinations
+Division 1—Greenfields incentive determinations
+100—AER may make greenfields incentive determination
+(1) The AER may, on the application of the service provider for a greenfields pipeline project, make a determination that the pipeline the subject of the greenfields pipeline project cannot become a scheme pipeline during the operative period for the determination (a greenfields incentive determination).
+(2) An application for a greenfields incentive determination—
+(a) cannot be made after the pipeline is commissioned; and
+(b) must be made in accordance with the Rules; and
+(c) must include a description of the pipeline that meets the requirements specified by the Rules; and
+(d) must contain the information required by the Rules; and
+(e) need not describe, or include details of, excluded infrastructure; and
+(f) must be accompanied by the fee prescribed by the Regulations (if any); and
+(g) must be dealt with in accordance with the Rules.
+101—Requirements for making, or not making, a greenfields incentive determination
+(1) A greenfields incentive determination or a decision not to make a greenfields incentive determination must—
+(a) be made in accordance with this Law and the Rules; and
+(b) contain the information required by the Rules; and
+(c) be given to the persons specified by the Rules; and
+(d) be made publicly available in accordance with the Rules; and
+(e) if a greenfields incentive determination is made—specify the date the determination takes effect.
+(2) The AER may, in having regard to the matters mentioned in section 112, decide a period during which a greenfields incentive determination is to continue in operation that is less than 15 years.
+(3) If the AER decides a period under subsection (2), the greenfields incentive determination must also specify the period.
+102—Effect of greenfields incentive determination
+(1) A greenfields incentive determination takes effect on and from the date specified in the determination.
+(2) The period during which a greenfields incentive determination continues in force (the operative period) is—
+(a) if the AER decides a period under section 101(2) that is less than 15 years—that period; or
+(b) otherwise—15 years from the commissioning of the pipeline.
+(3) During the operative period, the pipeline the subject of the greenfields incentive determination cannot become a scheme pipeline.
+(4) An application for a scheme pipeline determination in relation to a pipeline to which a greenfields incentive determination applies can be made—
+(a) before the end of the operative period for the greenfields incentive determination; but
+(b) only if the scheme pipeline determination is to commence from, or after, the end of the operative period.
+103—Requirement for conformity between pipeline description and pipeline as constructed
+(1) Subject to this Part—
+(a) a greenfields incentive determination applies to the pipeline as described in the relevant pipeline description; and
+(b) if the pipeline, as constructed, materially differs from the pipeline as described in the relevant pipeline description, the determination does not apply to the pipeline and the service provider is not entitled to its benefit.
+(2) In determining whether a pipeline, as constructed, materially differs from the relevant pipeline description, excluded infrastructure is not to be taken into account.
+(3) In this section—
+relevant pipeline description means a description of the pipeline required to be included in the application for the greenfields incentive determination made under section 100.
+104—Power of AER to amend pipeline description
+(1) The AER may, on application by the service provider for a pipeline to which a greenfields incentive determination applies, amend the relevant pipeline description.
+(2) An amendment cannot, however, be made under this section after the pipeline has been commissioned.
+(3) In deciding whether to make the amendment sought, the AER must have regard to the criteria that were relevant to the making of the greenfields incentive determination.
+(4) In this section—
+relevant pipeline description means a description of the pipeline required to be included in the application for the greenfields incentive determination made under section 100.
+Division 2—Early termination of greenfields incentive determination
+105—Greenfields incentive determination may lapse
+(1) A greenfields incentive determination lapses if the pipeline to which it applies is not commissioned within 3 years after the determination takes effect.
+(2) The AER may, in a particular case, extend the 3 year period mentioned in subsection (1).
+106—Revocation by consent
+The AER may, at the request of the service provider for the pipeline to which a greenfields incentive determination applies, revoke the determination.
+107—Revocation for misrepresentation
+The AER may revoke a greenfields incentive determination on the ground that—
+(a) the applicant misrepresented a material fact on the basis of which the determination was made; or
+(b) the applicant failed to disclose material information that the applicant was required to disclose under this Chapter.
+108—Exhaustive provision for termination of greenfields incentive determination
+A greenfields incentive determination does not terminate, and cannot be revoked, before the end of the operative period for the determination other than as provided for under this Part.
+Division 3—Greenfields price protection determinations
+109—AER may make greenfields price protection determination
+(1) The AER may, on the application of the service provider for a greenfields pipeline project, make a determination that prices and non-price terms and conditions for particular pipeline services provided by means of a pipeline that are specified in the determination are protected, in the manner provided for in the Rules, in any arbitration of an access dispute involving the pipeline (a greenfields price protection determination).
+(2) An application for a greenfields price protection determination—
+(a) cannot be made after the pipeline is commissioned; and
+(b) must be made in accordance with the Rules; and
+(c) must contain the information required by the Rules; and
+(d) must be dealt with in accordance with the Rules.
+110—Requirements for making, or not making, a greenfields price protection determination
+(1) The AER must not make a greenfields price protection determination unless—
+(a) the pipeline the subject of the determination is also the subject of a greenfields incentive determination; and
+(b) the AER is satisfied—
+(i) that—
+(A) the pipeline has been developed following a competitive process; and
+(B) the prices and non‑price terms and conditions for pipeline services that will be made available to prospective users during the operative period for the greenfields price protection determination have been set as a result of that process; or
+(ii) that—
+(A) one or more form of regulation factors effectively constrained the exercise of market power by the service provider when the prices and non‑price terms and conditions for pipeline services that will be made available to prospective users during the operative period for the greenfields price protection determination were determined; and
+(B) the making of the determination will, or is likely to, contribute to the achievement of the national gas objective.
+(2) For the purposes of subsection (1)(b)(i)(A), a pipeline is taken to have been developed following a competitive process if the AER is reasonably satisfied from the information provided to it by the applicant for the greenfields price protection determination that there was competition (whether formal or informal) to develop the pipeline between 2 or more prospective service providers that—
+(a) were not related bodies corporate of each other; and
+(b) did not include a related body corporate of the applicant.
 Example—
-A service provider may apply for a determination that revokes the coverage of the covered pipeline by means of which the provider provides pipeline services. The NCC may recommend that the coverage of the covered pipeline be only partly revoked. The relevant Minister may make a determination that revokes coverage of different parts of the covered pipeline to those parts in relation to which the NCC recommended coverage be revoked.
-107—Principles governing the making of a coverage revocation determination or decision not to do so
-(1) In deciding whether to make a coverage revocation determination under this Division, the relevant Minister—
-(a) must give effect to the pipeline coverage criteria; and
-(b) in deciding whether or not the pipeline coverage criteria are satisfied in relation to the pipeline—
-(i) must have regard to the national gas objective; and
-(ii) must have regard to the coverage revocation recommendation; and
-(iii) must take into account any submissions or comments he or she receives on a request under section 106(4); and
-(iv) may take into account any relevant submissions and comments made to the NCC by the public under the Rules in relation to the application.
-(2) The relevant Minister gives effect to the pipeline coverage criteria as follows:
-(a) if the relevant Minister is satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline—the Minister must not make a coverage revocation determination;
-(b) if the relevant Minister is not satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline—the Minister must make a coverage revocation determination.
-108—Operation and effect of coverage revocation determination
-The pipeline the subject of a coverage revocation determination ceases to be a covered pipeline when the coverage revocation determination takes effect.
-Part 2—Light regulation of covered pipeline services
-Division 1—Making of light regulation determinations
-Subdivision 1—Decisions when pipeline is not a covered pipeline
-109—Application of Subdivision
-This Subdivision applies if—
-(a) an application has been made under section 92 for a coverage determination; and
-(b) the pipeline the subject of the application is not a designated pipeline.
-110—NCC's decision on light regulation of pipeline services
-(1) The NCC must decide whether to make a determination that the pipeline services provided or to be provided by means of the pipeline are light regulation services (a light regulation determination).
-(2) The NCC must make its decision under subsection (1)—
-(a) at the same time as it makes the coverage recommendation; and
-(b) within the time it must make the coverage recommendation.
-(3) A light regulation determination or a decision not to make a light regulation determination must—
+Competition between prospective service providers could involve the service providers competing on the basis of—
+(a) different pipeline routes; or
+(b) an expansion of an existing pipeline and the development of a new pipeline.
+(3) A greenfields price protection determination or a decision not to make a greenfields price protection determination must—
 (a) be made in accordance with this Law and the Rules; and
-Note—
-For example, see section 122.
-(b) be attached to the coverage recommendation; and
-(c) contain the information required by the Rules.
-Note—
-If the NCC makes a light regulation determination, and the relevant Minister makes the coverage determination, the service provider may submit a limited access arrangement in respect of the light regulation services to the AER for approval: see section 116.
-Subdivision 2—Decisions when pipeline is a covered pipeline
-111—Application of Subdivision
-This Subdivision applies if a service provider provides pipelines services—
-(a) by means of a covered pipeline that is not a designated pipeline; and
-(b) to which an applicable access arrangement approved or made under a full access arrangement decision applies.
-112—Application
-(1) A service provider may apply to the NCC for a determination that pipeline services provided by the service provider by means of a covered pipeline be light regulation services (a light regulation determination).
-(2) An application must—
-(a) be in accordance with the Rules; and
-(b) contain the information required by the Rules.
-(3) An application may only be made in respect of all of the pipeline services provided by means of the covered pipeline.
-113—Application to be dealt with in accordance with the Rules
-On receiving an application under section 112, the NCC must deal with it in accordance with the Rules.
-114—NCC's decision on light regulation of pipeline services
-(1) The NCC must decide whether to make a light regulation determination within—
-(a) 4 months after receiving an application under section 112; or
-(b) if the Rules specify a later period, that period.
-(2) A light regulation determination or a decision not to make a light regulation determination must—
-(a) be made in accordance with this Law and the Rules; and
-Note—
-For example, see section 122.
 (b) contain the information required by the Rules; and
 (c) be given to the persons specified by the Rules; and
-(d) be made publicly available in accordance with the Rules.
-Note—
-If the NCC makes a light regulation determination, the service provider may submit a limited access arrangement in respect of the light regulation services to the AER for approval: see section 116.
-Subdivision 3—Operation and effect of light regulation determinations
-115—When light regulation determinations take effect
-(1) A light regulation determination takes effect—
-(a) in the case of a light regulation determination made under Subdivision 1—on the day the relevant coverage determination takes effect;
-(b) in the case of a light regulation determination made under Subdivision 2—60 business days after the light regulation determination is made.
-(2) A light regulation determination continues in operation until—
-(a) it is revoked by operation of section 117(5); or
-(b) a decision under section 119(2) or 120 takes effect; or
-(c) it is revoked by operation of section 123(2); or
-(d) it is revoked by operation of section 124.
-116—Submission of limited access arrangement for light regulation services
-(1) A service provider may, in respect of light regulation services the service provider provides or intends to provide, submit a limited access arrangement to the AER for approval by the AER under the Rules.
-(2) If the service provider chooses to submit a limited access arrangement in accordance with subsection (1), the limited access arrangement must—
-(a) be submitted in accordance with the Rules; and
-(b) contain the information required by the Rules.
-(3) A service provider must submit to the AER, for approval by the AER under the Rules, revisions to an applicable access arrangement that is a limited access arrangement and that applies to the light regulation services the provider provides—
-(a) in accordance with the Rules; and
-(b) within the period specified by the Rules.
-Division 2—Revocation of light regulation determinations
-Subdivision 1—On advice from service providers
-117—Advice by service provider that light regulation services should cease to be light regulation services
-(1) A service provider may advise the NCC that it wishes that the pipeline services it provides cease to be light regulation services.
-(2) An advice under subsection (1) must be in writing.
-(3) On receiving an advice under subsection (1), the NCC must, without delay, publish notice of receipt of that advice on its website.
-(4) On publication of a notice under subsection (3) the service provider must comply with section 132.
-(5) The light regulation determination applying to the pipeline services is, by force of this section, revoked on the same day that an access arrangement that applies to the pipeline services provided by that service provider is, as the case requires, approved or made under a full access arrangement decision.
-(6) On the revocation of the light regulation determination the pipeline services to which the light regulation determination applied cease to be light regulation services.
-Subdivision 2—On application by persons other than service providers
-118—Application (other than by service provider) for revocation of light regulation determinations
-(1) A person (other than the service provider who provides light regulation services) may apply to the NCC for the revocation of a light regulation determination relating to those services.
-(2) An application under subsection (1) must—
-(a) be in accordance with the Rules; and
-(b) contain the information required by the Rules.
-119—Decisions on applications made around time of applications for coverage revocation determinations
-(1) This section applies if an application is made under section 118 and—
-(a) there is an application for a coverage revocation determination under section 102 under consideration—
-(i) in respect of the covered pipeline by means of which the light regulation services the subject of the application under section 118 are provided; and
-(ii) in respect of which the NCC has not made a coverage revocation recommendation; or
-(b) an application for a coverage revocation determination is made under section 102 in respect of the covered pipeline by means of which the light regulation services the subject of the application under section 118 are provided—
-(i) after the application under section 118; but
-(ii) before the NCC makes its decision in respect of the application under section 118.
-(2) Despite anything to the contrary in this Part, the NCC must make its decision in respect of the application under this section.
-(3) On receiving the application under section 118, the NCC must decide whether to revoke the light regulation determination.
-(4) The NCC must make its decision under subsection (3)—
-(a) at the same time as it makes the coverage revocation recommendation; and
-(b) within the time it must make the coverage revocation recommendation.
-(5) A decision under subsection (3) must—
-(a) be made in accordance with this Law and the Rules; and
-Note—
-For example, see section 122.
-(b) be attached to the coverage revocation recommendation; and
-(c) contain the information required by the Rules.
-120—NCC decision on application where no application for a coverage revocation recommendation
-(1) This section applies if—
-(a) an application is made under section 118; and
-(b) no application for a coverage revocation determination in respect of the covered pipeline (by means of which the light regulation services the subject of the application under section 118) are provided is made before the NCC makes its decision in respect of the application under section 118.
-(2) Subject to this section, on receiving an application under section 118 the NCC must deal with it in accordance with the Rules.
-(3) The NCC must decide whether to revoke a light regulation determination within—
-(a) 4 months after receiving an application under section 118; or
-(b) if the Rules specify a later period, that period.
-(4) A decision under this section must—
-(a) be made in accordance with this Law and the Rules; and
-Note—
-For example, see section 122.
-(b) contain the information required by the Rules; and
-(c) be given to the persons specified by the Rules; and
-(d) be made publicly available in accordance with the Rules.
-121—Operation and effect of decision of NCC under this Division
-(1) Subject to section 124, on the making of a decision under section 119(2) or 120 revoking a light regulation determination, the service provider must comply with section 132.
-(2) However, the decision under section 119(2) or 120 revoking a light regulation determination does not take effect until an access arrangement that applies to the pipeline services provided by that service provider is approved or made under a full access arrangement decision.
-(3) The effect of a decision under section 119(2) or 120 revoking a light regulation determination is that the pipeline services to which the light regulation determination applied cease to be light regulation services.
-Division 3—Principles governing light regulation determinations
-122—Principles governing the making or revoking of light regulation determinations
-(1) In deciding whether to make a light regulation determination under Division 1 or to revoke a light regulation determination under Division 2, the NCC must consider—
-(a) the likely effectiveness of the forms of regulation provided for under this Law and the Rules to regulate the provision of the pipeline services (the subject of the application) to promote access to pipeline services; and
-(b) the effect of the forms of regulation provided for under this Law and the Rules on—
-(i) the likely costs that may be incurred by an efficient service provider; and
-(ii) the likely costs that may be incurred by efficient users and efficient prospective users; and
-(iii) the likely costs of end users.
-Note—
-The forms of regulation provided for under this Law and the Rules to regulate the provision of the pipeline services by means of a covered pipeline are—
-(a) making a light regulation determination so that those services become light regulation services;
-(b) not making a light regulation determination so that those services are regulated under a full access arrangement decision that approves or makes the applicable access arrangement that applies to those services.
-(2) In doing so, the NCC—
+(d) be made publicly available in accordance with the Rules; and
+(e) if a greenfields price protection determination is made, specify—
+(i) the date the determination takes effect; and
+(ii) the operative period for the determination.
+(4) For subsection (3)(e)(ii), the operative period for a greenfields price protection determination—
+(a) is the period during which the prices and non-price terms and conditions specified in the determination will be made available to prospective users; but
+(b) cannot be longer than the operative period for the greenfields incentive determination relating to the pipeline.
+111—Effect of greenfields price protection determination
+(1) A greenfields price protection determination—
+(a) takes effect on and from the date specified in the determination; and
+(b) continues in operation for the operative period for the determination mentioned in section 110(4).
+(2) A greenfields price protection determination ends if the greenfields incentive determination to which the greenfields price protection determination relates ceases to apply to the pipeline.
+Part 4—Principles governing the making of particular determinations
+112—Principles governing the making of particular determinations
+(1) This section sets out principles that apply for the making of the following determinations (each a relevant determination) by the AER—
+(a) a scheme pipeline determination under Part 1 Division 1;
+(b) a scheme pipeline revocation determination under Part 2;
+(c) a greenfields incentive determination under Part 3.
+(2) In deciding whether to make a relevant determination, the AER must consider the effect of regulating the pipeline, to which the determination would apply, as a scheme pipeline or non‑scheme pipeline on—
+(a) the promotion of access to pipeline services; and
+(b) the costs that are likely to be incurred by an efficient service provider; and
+(c) the costs that are likely to be incurred by efficient users and efficient prospective users; and
+(d) the likely costs of end users.
+(3) In doing so the AER—
 (a) must have regard to the national gas objective; and
-(b) must have regard to the form of regulation factors; and
-(c) may have regard to any other matters it considers relevant.
-Division 4—Revocation if coverage determination not made
-123—Light regulation determination revoked if coverage determination not made
-(1) This section applies if—
-(a) a light regulation determination has been made in respect of pipeline services; but
-(b) the pipeline by means of which those services will be provided does not become a covered pipeline because the relevant Minister, contrary to a coverage recommendation recommending coverage, makes a decision not to make a coverage determination.
-(2) The light regulation determination is, by force of this section, revoked on the same day as the relevant Minister's decision not to make a coverage determination takes effect.
-Division 5—Effect of pipeline ceasing to be covered pipeline
-124—Light regulation services cease to be such services on cessation of coverage of pipeline
-If a pipeline by means of which light regulation services are provided ceases to be a covered pipeline because of a coverage revocation determination—
-(a) the light regulation determination applying to the light regulation services provided by means of that pipeline is, by force of this section, revoked on the same day the coverage revocation determination takes effect; and
-(b) to avoid doubt, the light regulation services to which that determination applied cease to be light regulation services on the same day.
-Division 6—AER reviews into designated pipelines
-125—AER reviews
+(b) must have regard to—
+(i) the form of regulation factors; and
+(ii) for a greenfields incentive determination—the extent to which the form of regulation factors or competition to develop the pipeline (whether formal or informal) between 2 or more unrelated prospective service providers will, or is likely to, pose an effective constraint on the exercise of market power in respect of services provided by means of the pipeline for the period the determination is in operation; and
+Example—
+Competition between prospective service providers could involve the service providers competing on the basis of—
+(a) different pipeline routes; or
+(b) an expansion of an existing pipeline and the development of a new pipeline.
+(c) may have regard to any other matter it considers relevant, including, for example, any information it obtains in the course of performing its functions.
+Example for paragraph (c)—
+The AER may have regard to information contained in a report made by a mediator in relation to an access dispute.
+(4) For subsection (3)(b)(ii), prospective service providers are unrelated if the service providers—
+(a) are not related bodies corporate of each other; and
+(b) do not include a related body corporate of the applicant for the greenfields incentive determination.
+Part 5—Access arrangements for scheme pipelines
+Division 1—Submissions generally
+113—Submission of access arrangement or revisions to applicable access arrangement
+A scheme pipeline service provider must submit to the AER, for approval by the AER under the Rules, an access arrangement or revisions to an applicable access arrangement, in relation to the pipeline services the service provider provides or intends to provide—
+(a) in the circumstances specified by the Rules; and
+(b) within the period of time specified by the Rules.
+Division 2—Provisions relating to applicable access arrangements
+114—Protection of certain pre-existing contractual rights
+(1) An applicable access arrangement must not have the effect of depriving a person of a relevant protected contractual right.
+(2) In this section—
+relevant exclusivity right means an express contractual right that arose on or after 30 March 1995 that—
+(a) prevents a service provider supplying pipeline services to persons who are not parties to the contract; or
+(b) limits or controls a service provider's ability to supply pipeline services to persons who are not parties to the contract,
+but does not include a user's contractual right to obtain a certain amount of pipeline services;
+relevant protected contractual right means—
+(a) in the case of an applicable access arrangement approved under an applicable access arrangement decision—a right under a contract (other than a relevant exclusivity right) in force immediately before that access arrangement was submitted for approval under this Law; or
+(b) in the case of an applicable access arrangement made under an applicable access arrangement decision because—
+(i) an access arrangement was not submitted for approval as required under section 113—a right under a contract (other than a relevant exclusivity right) in force immediately before the date on which an access arrangement was required to be submitted for approval; or
+(ii) an access arrangement was not approved under an applicable access arrangement decision—a right under a contract (other than a relevant exclusivity right) in force immediately before the date on which that access arrangement was submitted for approval.
+115—Service provider may enter into agreement for access different from applicable access arrangement
+Subject to sections 83C and 135, nothing in this Law is to be taken as preventing a service provider from entering into an agreement with a user or a prospective user about access to a pipeline service provided by means of a scheme pipeline that is different from an applicable access arrangement that applies to that pipeline service.
+116—Applicable access arrangements continue to apply regardless of who provides pipeline service
+An applicable access arrangement applies to a pipeline service provided, or to be provided, by means of a scheme pipeline regardless of who provides that pipeline service.
+Part 6—Classification and reclassification of pipelines
+Division 1—Classification of pipelines
+117—Application for classification of pipeline
+(1) This section applies if a pipeline is not classified as a distribution or transmission pipeline under a licence or authorisation granted in relation to the pipeline under jurisdictional gas legislation.
+(2) Within 20 business days after the commissioning of the pipeline, the service provider for the pipeline must apply to the AER for the pipeline to be classified as a distribution pipeline or transmission pipeline.
+(3) An application for a classification decision must—
+(a) be made in accordance with the Rules; and
+(b) contain the information required by the Rules; and
+(c) be accompanied by the fee prescribed by the Regulations (if any); and
+(d) be dealt with in accordance with the Rules.
+Division 2—Reclassification of pipelines
+118—Reclassification of pipelines
+(1) The AER may, on its own initiative or on the application of a service provider, make a decision for a pipeline to be reclassified as—
+(a) if the pipeline is a transmission pipeline—a distribution pipeline; or
+(b) if the pipeline is a distribution pipeline—a transmission pipeline.
+(2) An application for a reclassification decision must—
+(a) be made in accordance with the Rules; and
+(b) contain the information required by the Rules; and
+(c) be accompanied by the fee prescribed by the Regulations (if any); and
+(d) be dealt with in accordance with the Rules.
+Division 3—Provisions relating to classification and reclassification decisions
+119—Requirements for making classification or reclassification decisions
+(1) In making a classification decision or reclassification decision, the AER must have regard to—
+(a) the national gas objective; and
+(b) the pipeline classification criterion.
+(2) A classification decision or reclassification decision must—
+(a) be made in accordance with this Law and the Rules; and
+(b) contain the information required by the Rules; and
+(c) be given to the persons specified by the Rules; and
+(d) be made publicly available in accordance with the Rules.
+120—Effect of classification decision or reclassification decision
+On the making of a classification decision or reclassification decision, a pipeline is—
+(a) if the pipeline is classified or reclassified as a distribution pipeline—a distribution pipeline; or
+(b) if the pipeline is classified or reclassified as a transmission pipeline—a transmission pipeline.
+Part 7—AER reviews into designated pipelines
+121—AER reviews
 (1) The MCE may request the AER to conduct a review into, and report to it as to, whether a pipeline should continue to be a designated pipeline.
 (2) A service provider that provides pipeline services by means of a designated pipeline may request the AER to conduct a review into, and report to the MCE as to, whether that pipeline should continue to be a designated pipeline.
 (3) A request under subsection (1) or (2) must be in writing.
@@ -2849,177 +2776,128 @@ Division 6—AER reviews into designated pipelines
 (a) give the report to the MCE; and
 (b) publish the report on its website.
 (7) The AER must also give a copy of the report to the service provider that has requested the review.
-Part 3—Coverage of pipelines the subject of tender process
-126—Tender approval pipelines deemed to be covered pipelines
-(1) A pipeline to which a tender approval decision relates is deemed to be a covered pipeline on and from the date the tender approval decision becomes irrevocable by operation of the Rules.
-(2) The pipeline ceases to be a covered pipeline—
-(a) if there is an applicable access arrangement that applies to the pipeline services provided, or that are to be provided by means of that pipeline—when that arrangement expires; or
-(b) when a coverage revocation determination made in respect of that pipeline takes effect.
-Note—
-Under the Rules, the NCC will—
-(a) classify the pipeline to be constructed and operated in accordance with an approved tender process as a cross boundary transmission pipeline, cross boundary distribution pipeline, transmission pipeline or distribution pipeline; and
-(b) determine the relevant Minister for the purposes of that pipeline.
-Part 4—Coverage following approval of voluntary access arrangement
-127—Certain pipelines become covered pipelines on approval of voluntary access arrangement
-(1) This section applies if—
-(a) a service provider voluntarily submits to the AER for approval by the AER, under the Rules, a full access arrangement that will apply to the pipeline services provided, or that are to be provided, by means of a pipeline; and
-(b) that pipeline is not a covered pipeline.
-(2) The pipeline is deemed to be a covered pipeline on the day the voluntarily submitted full access arrangement takes effect as an applicable access arrangement.
-(3) The pipeline ceases to be a covered pipeline—
-(a) when the applicable access arrangement that applies to the pipeline services provided, or that are to be provided, expires; or
-(b) when a coverage revocation determination is made in respect of that pipeline takes effect.
-Note—
-Under the Rules, the NCC will—
-(a) classify the pipeline (by means of which the pipeline services to which the arrangement relates are provided) as a cross boundary transmission pipeline, cross boundary distribution pipeline, transmission pipeline or distribution pipeline; and
-(b) determine the relevant Minister for the purposes of that pipeline.
-Part 5—Reclassification of pipelines
-128—Service provider may apply for reclassification of pipeline
-(1) A service provider may, in respect of a pipeline by means of which the service provider provides pipeline services, apply to the NCC for the pipeline to be reclassified as—
-(a) if the pipeline is a transmission pipeline—a distribution pipeline; or
-(b) if the pipeline is a distribution pipeline—a transmission pipeline.
-(2) The application must be accompanied by the fee prescribed by the Regulations (if any).
-129—Reclassification decision
-(1) The NCC must make a decision (a reclassification decision) within—
-(a) 4 months after receiving an application under section 128; or
-(b) if the Rules specify a later period, that period.
-(2) A reclassification decision must—
-(a) be made in accordance with this Law and the Rules; and
-(b) contain the information required by the Rules; and
-(c) be given to the persons specified by the Rules; and
-(d) be made publicly available in accordance with the Rules.
-(3) In making a reclassification decision, the NCC must have regard to—
-(a) the national gas objective; and
-(b) the pipeline classification criterion.
-(4) The NCC must also as part of the reclassification decision—
-(a) if it reclassifies the pipeline the subject of the application as a transmission pipeline—determine whether the transmission pipeline is also a cross boundary transmission pipeline;
-(b) if it reclassifies the pipeline the subject of the application as a distribution pipeline—determine whether the distribution pipeline is also a cross boundary distribution pipeline.
-(5) If, under subsection (4), the NCC determines that a pipeline reclassified as a distribution pipeline is also a cross boundary distribution pipeline, the NCC must determine the participating jurisdiction with which the cross boundary distribution pipeline is most closely connected. In doing so, the NCC must have regard to the jurisdictional determination criteria.
-130—Effect of reclassification decision
-On the making of a reclassification decision—
-(a) the pipeline is, in accordance with the decision, reclassified as either a transmission pipeline or distribution pipeline; and
-(b) the relevant Minister in respect of the pipeline is the relevant Minister as provided under this Law.
-Chapter 4—General requirements for provision of covered pipeline services
-Part 1—General duties for provision of pipeline services by covered pipelines
-131—Service provider must be legal entity of a specified kind to provide pipeline services by covered pipeline
-A covered pipeline service provider must not provide a pipeline service by means of a covered pipeline unless the service provider is—
+Chapter 4—General requirements for provision of pipeline services
+Part A1—Preliminary
+130—Application of this Chapter
+(1) This Chapter applies in relation to scheme pipelines and non‑scheme pipelines.
+(2) Also, this Chapter, or a provision of this Chapter, applies to a person other than a service provider as if a reference in the Chapter or provision to a service provider were a reference to the person—
+(a) if—
+(i) this Chapter, or the provision, is prescribed by the Regulations for the purposes of this subsection; and
+(ii) the person—
+(A) is prescribed by the Regulations for the purposes of this subsection; or
+(B) is a member of a class of persons prescribed by the Regulations for the purposes of this subsection; and
+(b) subject to any modifications prescribed by the Regulations for the purposes of this subsection.
+Part 1—General duties for provision of pipeline services by pipelines
+131—Service provider must be legal entity of a specified kind to provide pipeline services
+A service provider must not provide a pipeline service by means of a pipeline unless the service provider is—
 (a) a legal entity registered under the Corporations Act 2001 of the Commonwealth; or
 (b) a foreign company; or
 (c) a corporation established by or under a law of this jurisdiction or another participating jurisdiction, whether or not that corporation has been established for a public purpose; or
 (d) the Crown in right of this jurisdiction or another participating jurisdiction; or
-(e) a person referred to in paragraph (a) to (d) and that person provides a pipeline service by means of a covered pipeline together with another person referred to in paragraph (a) to (d).
-132—Submission of full access arrangement or revisions to applicable full access arrangements
-(1) A covered pipeline service provider must submit to the AER, for approval by the AER under the Rules, a full access arrangement or revisions to an applicable access arrangement that is a full access arrangement, in respect of the pipeline services the provider provides or intends to provide—
-(a) in the circumstances specified by the Rules; and
-(b) within the period of time specified by the Rules.
-(2) Subsection (1) does not apply—
-(a) if the pipeline services that are, or are intended to be, provided by the service provider light regulation services; or
-(b) to the extent the Rules provide subsection (1) is not to apply.
-Note—
-A service provider who provides or intends to provide pipeline services by means of an international pipeline to which a price regulation applies must submit a limited access arrangement to the AER for approval: see section 168.
+(e) a person referred to in paragraph (a) to (d) and that person provides a pipeline service by means of a pipeline together with another person referred to in paragraph (a) to (d).
 133—Preventing or hindering access
 (1) A person who is—
-(a) a covered pipeline service provider; or
+(a) a service provider; or
 (b) a person who—
-(i) is a party to an agreement with a service provider relating to a pipeline service provided by means of a covered pipeline; or
-(ii) as a result of an access determination is entitled to a pipeline service provided by means of a covered pipeline; or
+(i) is a party to an agreement with a service provider relating to a pipeline service provided by means of a pipeline; or
+(ii) as a result of an access determination is entitled to a pipeline service provided by means of a pipeline; or
 (c) an associate of a service provider or a person referred to in paragraph (b),
-must not engage in conduct for the purpose of preventing or hindering the access of another person to a pipeline service provided by means of the covered pipeline.
+must not engage in conduct for the purpose of preventing or hindering the access of another person to a pipeline service provided by means of the pipeline.
 (2) For the purposes of subsection (1), a person is deemed to engage in conduct for a particular purpose if—
 (a) the conduct is or was engaged in for that purpose or for a purpose that includes, or included, that purpose; and
 (b) that purpose is or was a substantial purpose.
 (3) A person may be taken to have engaged in conduct for the purpose referred to in subsection (1) even though, after all the evidence has been considered, the existence of that purpose is ascertainable only by inference from the conduct of the person or of any other person or from other relevant circumstances.
 (4) Subsection (3) does not limit the manner in which the purpose of a person may be established for the purpose of subsection (1).
 (5) In this section—
-(a) a reference to engaging in conduct is a reference to doing or refusing to do any act, including refusing to supply a pipeline service or, without reasonable grounds, limiting or disrupting a pipeline service, or making, or giving effect to, a provision of, a contract or arrangement, arriving at, or giving effect to, a provision of, an understanding or requiring the giving of, or giving, a covenant;
+(a) a reference to engaging in conduct is a reference to doing or refusing to do any act, including the following—
+(i) refusing to supply a pipeline service;
+(ii) without reasonable grounds, limiting or disrupting a pipeline service;
+(iii) making, or giving effect to a provision of a contract or arrangement, arriving at, or giving effect to, a provision of an understanding, or requiring the giving of, or giving, a covenant; and
 (b) a reference to refusing to do an act includes a reference to—
 (i) refraining (otherwise than inadvertently) from doing that act; or
 (ii) making it known that that act will not be done.
 (6) Subsection (1) does not apply to conduct engaged in in accordance with an agreement, if the agreement was in force on 30 March 1995.
 Example—
 An example of conduct which may be prohibited if the requisite purpose is established is refusing to supply, or limiting or disrupting the supply of, a pipeline service to a user or prospective user for technical or safety reasons without reasonable grounds.
-134—Supply and haulage of natural gas
-(1) If a producer states terms and conditions (whether or not including the price) (the first terms) on which the producer offers to supply natural gas through a covered pipeline that is in operation at the time of the offer to a person at a place other than the exit flange of the producer's processing plant, the producer must, on request by the person, state terms and conditions (including the price, if the price was included in the first terms) (the second terms) on which the producer will supply natural gas to the person at the exit flange.
-(2) If there is a difference in the price stated in the first terms and the second terms, the producer must include in the second terms a statement of the reasons for the difference.
-(3) If the producer offers to supply natural gas to a person at a place other than the exit flange of the producer's processing plant, the producer must, on request, offer to supply the gas at the exit flange on the terms and conditions (including price) stated in accordance with this section.
-135—Covered pipeline service provider must comply with queuing requirements
-A covered pipeline service provider must comply with the queuing requirements of an applicable access arrangement.
-136—Covered pipeline service provider providing light regulation services must not price discriminate
-(1) A covered pipeline service provider must not engage in price discrimination when providing light regulation services.
-(2) Subsection (1) does not apply if the covered pipeline service provider engages in price discrimination that is conducive to efficient service provision.
+135—Service provider must comply with queuing requirements
+A service provider must comply with the queuing requirements of an applicable access arrangement or the Rules.
+136—Compliance with pipeline interconnection principles
+Subject to section 91BF, a service provider must comply with the principles relating to the interconnection of pipelines and facilities (the pipeline interconnection principles) specified in the Rules.
+136A—Prohibition against increasing charges to subsidise particular development
+(1) This section applies to a service provider for a transmission pipeline, other than a pipeline within a declared transmission system.
+(2) The service provider must not increase a charge for a pipeline service payable by an existing user to the service provider to subsidise the development of an extension, or expansion of the capacity, of the pipeline.
+(3) However, subsection (2) does not apply to a service provider if the service provider is exempt from complying with subsection (2) under the Rules.
+(4) Nothing in this section prevents a service provider from charging an existing user of the service provider for pipeline services provided by means of an extension, or expansion of the capacity, of a pipeline.
+136B—Prohibition on bundling of services
+A service provider must not make it a condition of the provision of a particular pipeline service to a prospective user that the prospective user accept another service from the service provider unless the bundling of the services is reasonably necessary.
+136C—Service providers must publish prescribed transparency information
+(1) A service provider must—
+(a) publish the information relating to pipelines and pipeline services specified in the Rules made for the purposes of this paragraph (the prescribed transparency information); and
+(b) ensure the prescribed transparency information is published in accordance with the Rules.
+(2) However, subsection (1) does not apply to a service provider if the service provider is exempt from complying with subsection (1) under the Rules.
 Part 2—Structural and operational separation requirements (ring fencing)
 Division 1—Interpretation
 137—Definitions
 In this Part—
 additional ring fencing requirement has the meaning given by section 143(1);
-compliance date means the date that is 6 months after the date a pipeline becomes a covered pipeline;
 marketing staff has the meaning given by section 138;
 related business means the business of producing, purchasing or selling natural gas or processable gas, but does not include purchasing or selling of natural gas or processable gas to the extent necessary—
-(a) for the safe and reliable operation of a covered pipeline; or
-(b) to enable a service provider to provide balancing services in connection with a covered pipeline.
+(a) for the safe and reliable operation of a pipeline; or
+(b) to enable a service provider to provide balancing services in connection with a pipeline.
 138—Meaning of marketing staff
 (1) A person is marketing staff of—
-(a) a covered pipeline service provider, if the person—
-(i) is an officer, employee, consultant or independent contractor or agent of the covered pipeline service provider; and
+(a) a service provider, if the person—
+(i) is an officer, employee, consultant or independent contractor or agent of the service provider; and
 (ii) is directly involved in the sale, marketing or advertising of pipeline services (whether or not the person is also involved in other activities);
-(b) an associate of a covered pipeline service provider, if the person—
+(b) an associate of a service provider, if the person—
 (i) is an officer, employee, consultant or independent contractor or agent of the associate; and
 (ii) is directly involved in the sale, marketing or advertising of pipeline services (whether or not the person is also involved in other activities).
-(2) A person is not marketing staff of a covered pipeline service provider, or an associate of a covered pipeline service provider, if—
-(a) the person's function or role (as an officer, employee, consultant or independent contractor or agent of a covered pipeline service provider, or an associate of a covered pipeline service provider) is only to provide technical, administrative, legal and accounting services to that provider or associate; or
-(b) the sale, marketing or advertising of pipeline services is only an incidental part of the person's function or role (as an officer, employee, consultant or independent contractor or agent of a covered pipeline service provider, or an associate of a covered pipeline service provider).
+(2) A person is not marketing staff of a service provider, or an associate of a service provider, if—
+(a) the person's function or role (as an officer, employee, consultant or independent contractor or agent of a service provider, or an associate of a service provider) is only to provide technical, administrative, legal and accounting services to that provider or associate; or
+(b) the sale, marketing or advertising of pipeline services is only an incidental part of the person's function or role (as an officer, employee, consultant or independent contractor or agent of a service provider, or an associate of a service provider).
 Example—
-A person in the position of general manager of marketing of a covered pipeline service provider or an associate of a covered pipeline service provider would be marketing staff whereas a person in the position of chief executive officer, or chief financial officer, of a covered pipeline service provider or an associate of a covered pipeline service provider would not be marketing staff.
+A person in the position of general manager of marketing of a service provider or an associate of a service provider would be marketing staff whereas a person in the position of chief executive officer, or chief financial officer, of a service provider or an associate of a service provider would not be marketing staff.
 Division 2—Minimum ring fencing requirements
 139—Carrying on of related businesses prohibited
-On and after the compliance date, a covered pipeline service provider must not carry on a related business.
+A service provider must not carry on a related business.
 140—Marketing staff and the taking part in related businesses
-(1) On and after the compliance date, a covered pipeline service provider must ensure that none of its marketing staff are officers, employees, consultants, independent contractors or agents of an associate of the covered pipeline service provider that takes part in a related business.
-(2) On and after the compliance date, a covered pipeline service provider must ensure that none of its officers, employees, consultants, independent contractors or agents are marketing staff of an associate of the covered pipeline service provider that takes part in a related business.
+(1) A service provider must ensure that none of its marketing staff are officers, employees, consultants, independent contractors or agents of an associate of the service provider that takes part in a related business.
+(2) A service provider must ensure that none of its officers, employees, consultants, independent contractors or agents are marketing staff of an associate of the service provider that takes part in a related business.
 141—Accounts that must be prepared, maintained and kept
-On and after the compliance date, a covered pipeline service provider must prepare, maintain and keep—
-(a) separate accounts in respect of pipeline services provided by means of every covered pipeline owned, operated or controlled by the covered pipeline service provider; and
-(b) a consolidated set of accounts in respect of the whole of the business of the covered pipeline service provider.
+A service provider must prepare, maintain and keep—
+(a) separate accounts in respect of pipeline services provided by means of every pipeline owned, operated or controlled by the service provider; and
+(b) a consolidated set of accounts in respect of the whole of the business of the service provider.
 Division 3—Additional ring fencing requirements
 142—Division does not limit operation of Division 2
 This Division does not limit Division 2.
 143—AER ring fencing determinations
-(1) Subject to this Division and subject to and in accordance with the Rules, the AER may make a determination requiring a covered pipeline service provider or associate of a covered pipeline service provider named in the determination to do, or refrain from doing, a thing specified in the determination (an additional ring fencing requirement).
+(1) Subject to this Division and subject to and in accordance with the Rules, the AER may make a determination requiring a service provider or associate of a service provider named in the determination to do, or refrain from doing, a thing specified in the determination (an additional ring fencing requirement).
 (2) In specifying an additional ring fencing requirement the AER must have regard to the following principles:
-(a) in the case where 1 part of the business of a covered pipeline service provider (business unit A) is providing pipeline services to another part of the business of the covered pipeline service provider (business unit B), the covered pipeline service provider must ensure that business unit A provides the pipeline services to business unit B as if business unit B were a separate unrelated entity;
-(b) in the case where a covered pipeline service provider is providing pipeline services to an associate of the service provider, the covered pipeline service provider must ensure that those services are provided as if the associate of the covered pipeline service provider were a separate unrelated entity;
-(c) users and prospective users should have sufficient information in order to understand whether a covered pipeline service provider is complying with paragraph (a) or (b).
+(a) in the case where 1 part of the business of a service provider (business unit A) is providing pipeline services to another part of the business of the service provider (business unit B), the service provider must ensure that business unit A provides the pipeline services to business unit B as if business unit B were a separate unrelated entity;
+(b) in the case where a service provider is providing pipeline services to an associate of the service provider, the service provider must ensure that those services are provided as if the associate of the service provider were a separate unrelated entity;
+(c) users and prospective users should have sufficient information in order to understand whether a service provider is complying with paragraph (a) or (b).
 (3) The AER must—
-(a) notify, in writing, the covered pipeline service provider or associate named in the AER ring fencing determination of the making of that determination; and
-(b) give the covered pipeline service provider or associate a copy of the AER ring fencing determination.
-(4) An AER ring fencing determination must specify the date on and after which the covered pipeline service provider or associate of a covered pipeline service provider must do, or refrain from doing, a thing specified in the determination (a notified compliance date).
-(5) A notified compliance date must not be a date that is earlier than 10 business days after the date the covered pipeline service provider or associate of a covered pipeline service provider is given a copy of the AER ring fencing determination.
-(6) A covered pipeline service provider or associate of a covered pipeline service provider must comply with every additional ring fencing requirement specified in an AER ring fencing determination on and after the notified compliance date.
+(a) notify, in writing, the service provider or associate named in the AER ring fencing determination of the making of that determination; and
+(b) give the service provider or associate a copy of the AER ring fencing determination.
+(4) An AER ring fencing determination must specify the date on and after which the service provider or associate of a service provider must do, or refrain from doing, a thing specified in the determination (a notified compliance date).
+(5) A notified compliance date must not be a date that is earlier than 10 business days after the date the service provider or associate of a service provider is given a copy of the AER ring fencing determination.
+(6) A service provider or associate of a service provider must comply with every additional ring fencing requirement specified in an AER ring fencing determination on and after the notified compliance date.
 144—AER to have regard to likely compliance costs of additional ring fencing requirements
 In making an AER ring fencing determination the AER must have regard to the likely costs that may be incurred by, as the case requires—
-(a) an efficient covered pipeline service provider; or
-(b) an efficient associate of a covered pipeline service provider,
+(a) an efficient service provider; or
+(b) an efficient associate of a service provider,
 in complying with an additional ring fencing requirement specified in the determination.
 145—Types of ring fencing requirements that may be specified in an AER ring fencing determination
-Without limiting what may be specified as an additional ring fencing requirement, the AER, in an AER ring fencing determination, may require a covered pipeline service provider to—
+Without limiting what may be specified as an additional ring fencing requirement, the AER, in an AER ring fencing determination, may require a service provider to—
 (a) ensure that its business and business activities are conducted, structured and arranged in the particular manner specified;
 Example 1—
-An AER ring fencing determination may require the covered pipeline service provider to ensure that persons employed or engaged by the covered pipeline service provider in relation to the provision of pipeline services are not also associates, or employed by associates, of the covered pipeline service provider that take part in a related business and how this must be effected.
+An AER ring fencing determination may require the service provider to ensure that persons employed or engaged by the service provider in relation to the provision of pipeline services are not also associates, or employed by associates, of the service provider that take part in a related business and how this must be effected.
 Example 2—
-An AER ring fencing determination may require the covered pipeline service provider to put in place electronic, physical and procedural security measures in respect of the offices and computer systems of the covered pipeline service provider, and of the offices and computer systems of its associates, so that certain specified employees or persons engaged by the covered pipeline service provider do not have access to certain specified information.
+An AER ring fencing determination may require the service provider to put in place electronic, physical and procedural security measures in respect of the offices and computer systems of the service provider, and of the offices and computer systems of its associates, so that certain specified employees or persons engaged by the service provider do not have access to certain specified information.
 (b) in a specified manner, disclose, to the AER and to the public, specified information in a specified manner about its business operations, structure and arrangements, and its business activities.
-Division 4—AER ring fencing exemptions
-146—Exemptions from minimum ring fencing requirements
-(1) A covered pipeline service provider may, in accordance with the Rules, apply to the AER for an exemption from—
-(a) the requirement under section 139; or
-(b) a requirement under section 140; or
-(c) the requirement under section 141.
-(2) On receiving an application under subsection (1), the AER, subject to and in accordance with the Rules, may exempt a covered pipeline service provider from—
-(a) the requirement under section 139; or
-(b) a requirement under section 140; or
-(c) the requirement under section 141.
-Division 5—Associate contracts
+Division 4—Associate contracts
 147—Service provider must not enter into or give effect to associate contracts that have anti-competitive effect
-A covered pipeline service provider must not—
+A service provider must not—
 (a) enter into an associate contract that has; or
 (b) vary an associate contract so that contract, as varied, has; or
 (c) give effect to a provision of an associate contract that has,
@@ -3027,396 +2905,291 @@ the purpose, or would have or be likely to have the effect, of substantially les
 (d) that associate contract is an approved associate contract; or
 (e) that provision is contained in an approved associate contract.
 148—Service provider must not enter into or give effect to associate contracts inconsistent with competitive parity rule
-(1) A covered pipeline service provider must not—
+(1) A service provider must not—
 (a) enter into an associate contract that is; or
 (b) vary an associate contract so that contract, as varied, is; or
 (c) give effect to a provision of an associate contract that is,
 inconsistent with the competitive parity rule unless—
 (d) that associate contract is an approved associated contract; or
 (e) that provision is contained in an approved associate contract.
-(2) For the purposes of subsection (1), and any Rules made for the purposes of that subsection, the competitive parity rule is the rule that a covered pipeline service provider must ensure that any pipeline services that the covered pipeline service provider provides to an associate of the covered pipeline service provider are provided to that associate as if that associate were a separate unrelated entity.
-Chapter 5—Greenfields pipeline incentives
-Part 1—Interpretation
+(2) For the purposes of subsection (1), and any Rules made for the purposes of that subsection, the competitive parity rule is the rule that a service provider must ensure that any pipeline services that the service provider provides to an associate of the service provider are provided to that associate as if that associate were a separate unrelated entity.
+Division 5—Exemptions from particular requirements
+148A—Exemptions from particular requirements
+The Rules may make provisions with respect to exemptions from the requirements under section 139, 140, 141, 147 or 148.
+Part 3—Negotiation of access
+148B—Definition
+In this Part—
+relevant pipeline service means a pipeline service provided, or to be provided, by means of a pipeline and includes a pipeline service provided, or to be provided, by an extension to, or expansion of the capacity of, a pipeline.
+148C—Access proposals
+A service provider must comply with the Rules relating to access to a relevant pipeline service made for the purposes of this section.
+148D—Duty to negotiate in good faith
+A user or prospective user seeking access to a relevant pipeline service and the service provider for the service must negotiate in good faith with each other about—
+(a) whether access can be granted to the user or prospective user; and
+(b) if access is to be granted—the terms and conditions for the provision of access to the user or prospective user.
+Part 4—AER reviews about application of this Chapter
+148E—AER reviews about application of this Chapter
+(1) The MCE may request the AER to conduct a review into, and report to it as to, whether this Chapter, or a provision of this Chapter, should apply to any person or class of persons to whom the Chapter or provision does not currently apply.
+(2) A request under subsection (1) must be in writing.
+(3) On receiving a request under this section, the AER must conduct the review.
+(4) In conducting a review under this section, the AER must—
+(a) have regard to—
+(i) the national gas objective; and
+(ii) the effect the application of this Chapter, or a provision of this Chapter, to another person or class of persons would have on—
+(A) the promotion of access to pipeline services and any other benefits that may be associated with the application; and
+(B) the costs that are likely to be incurred by the person or class of persons if they were operating efficiently; and
+(b) consult, in accordance with the Rules, with the public.
+(5) On the completion of a review under this section, the AER must prepare a report and—
+(a) give the report to the MCE; and
+(b) publish the report on its website.
+Chapter 5—Access disputes
+Part 1—Interpretation and application
 149—Definitions
 In this Chapter—
-excluded infrastructure, in relation to a pipeline, means tanks, reservoirs, machinery, equipment or other infrastructure that forms part of the pipeline but is classified by the Rules as excluded infrastructure for the purposes of this Law;
-greenfields pipeline project means a project for the construction of—
-(a) a pipeline that is to be structurally separate from any existing pipeline (whether or not it is to traverse a route different from the route of an existing pipeline); or
-(b) a major extension to an existing pipeline that is not a covered pipeline; or
-(c) a major extension to a covered pipeline by means of which light regulation services are provided if that extension is exempted by the AER under section 19.
-150—International pipeline to be a transmission pipeline for purposes of Chapter
-An international pipeline is, for the purposes of this Chapter, a transmission pipeline.
-Part 2—15-year no-coverage determinations
-151—Application for 15-year no‑coverage determination for proposed pipeline
-(1) If a greenfields pipeline project is proposed, or has commenced, the service provider may, before the pipeline is commissioned, apply for a determination (a 15-year no‑coverage determination) exempting the pipeline from being a covered pipeline.
-(2) If a price regulation exemption has been granted for an international pipeline, an application for a 15-year no-coverage determination for the pipeline may be made by the service provider—
-(a) before the pipeline is commissioned; or
-(b) after the pipeline is commissioned but before the term of the price regulation exemption comes to an end.
-(3) An application for a 15-year no-coverage determination—
-(a) is to be made to the NCC; and
-(b) must include a description of the pipeline that meets the requirements specified by the Rules; and
-(c) must contain the information required by the Rules; and
-(d) need not describe, or include details of, excluded infrastructure; and
-(e) must be accompanied by the fee prescribed by the Regulations (if any).
-(4) In this section—
-service provider includes a person that intends to be a service provider.
-152—Application to be dealt with in accordance with the Rules
-On receiving an application under section 151, the NCC must deal with it in accordance with the Rules.
-153—No-coverage recommendation
-(1) The NCC must make a recommendation recommending to the relevant Minister that the pipeline the subject of the application—
-(a) be exempted from being a covered pipeline for a period of 15 years; or
-(b) not be exempted from being a covered pipeline for a period of 15 years.
-(2) A recommendation under this section must—
-(a) be made in accordance with this Law and the Rules; and
-(b) be made within the time specified by the Rules; and
-(c) contain the information required by the Rules; and
-(d) be given to the persons specified by the Rules; and
-(e) be made publicly available in accordance with the Rules.
-(3) A recommendation under this section may recommend an outcome different to the outcome sought in the application under section 151.
-Example—
-An applicant may apply for a 15-year no-coverage determination in relation to the whole pipeline. The NCC may recommend that only a part of the pipeline the subject of the application be subject to a 15-year no-coverage determination.
-(4) A recommendation under this section must be delivered to the relevant Minister without delay.
-154—Principles governing the making of a no-coverage recommendation
-(1) In making a no-coverage recommendation, the NCC—
-(a) must give effect to the pipeline coverage criteria; and
-(b) in deciding whether or not the pipeline coverage criteria are satisfied must have regard to the national gas objective.
-(2) The NCC gives effect to the pipeline coverage criteria as follows:
-(a) if the NCC is satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline the recommendation must be against making a 15-year no‑coverage determination;
-(b) if the NCC is not satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline the recommendation must be in favour of making a 15‑year no coverage determination.
-155—Initial classification decision to be made as part of recommendation
-(1) If the pipeline the subject of an application under section 151 is not an international pipeline, the NCC must, as part of a no-coverage recommendation, classify the pipeline as a transmission pipeline or a distribution pipeline (an initial classification decision). In doing so, the NCC must apply the pipeline classification criterion.
-(2) The NCC must as part of an initial classification decision—
-(a) if it classifies the pipeline the subject of the application as a transmission pipeline—determine whether the transmission pipeline is also a cross boundary transmission pipeline; or
-(b) if it classifies the pipeline the subject of the application as a distribution pipeline—determine whether the distribution pipeline is also a cross boundary distribution pipeline.
-(3) The NCC must also determine, as part of an initial classification decision, the participating jurisdiction with which the pipeline the subject of the application under section 151 is most closely connected if the NCC determines the pipeline is also a cross boundary distribution pipeline. In doing so, the NCC must have regard to the jurisdictional determination criteria.
-156—Relevant Minister's determination on application
-(1) On receiving a no-coverage recommendation the relevant Minister must decide whether or not to make a 15-year no-coverage determination in respect of the pipeline to which the recommendation relates.
-(2) The relevant Minister must use his or her best endeavours to make the decision within 30 business days after receiving the coverage recommendation.
-(3) If the relevant Minister is unable to make the decision within the period specified under subsection (2), he or she must make the decision as soon as reasonably practicable after the end of the specified period.
-(4) The relevant Minister, for the purpose of making the decision, may request submissions or comments in relation to an application under section 151.
-(5) A 15-year no-coverage determination or a decision not to make a 15-year no‑coverage determination must—
-(a) be made in accordance with this Law and the Rules; and
-(b) contain the information required by the Rules; and
-(c) be given to the persons specified by the Rules; and
-(d) be made publicly available in accordance with the Rules.
-(6) A 15-year no-coverage determination may have an outcome different to the outcome—
-(a) sought in the application under section 151; or
-(b) of the no-coverage recommendation.
-Example—
-An applicant may apply for a 15-year no-coverage determination in relation to the whole pipeline. The NCC may recommend that only a part of the pipeline the subject of the application be subject to a 15-year no-coverage determination. The relevant Minister may make a 15-year no-coverage determination that applies to different parts of the pipeline to those recommended by the NCC be subject to the determination.
-157—Principles governing the making of a 15‑year no‑coverage determination or decision not to do so
-(1) In deciding whether to make a 15‑year no‑coverage determination under this Part, the relevant Minister—
-(a) must give effect to the pipeline coverage criteria; and
-(b) in deciding whether or not the pipeline coverage criteria are satisfied in relation to the pipeline—
-(i) must have regard to the national gas objective; and
-(ii) must have regard to the no-coverage recommendation; and
-(iii) must take into account any submissions or comments he or she receives on a request under section 156(4); and
-(iv) may take into account any relevant submissions and comments made to the NCC by the public under the Rules in relation to the application.
-(2) The relevant Minister gives effect to the pipeline coverage criteria as follows:
-(a) if the Minister is satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline the Minister must not make a 15‑year no‑coverage determination;
-(b) if the Minister is not satisfied that all the pipeline coverage criteria are satisfied in relation to the pipeline the Minister must make a 15‑year no‑coverage determination.
-158—Effect of 15-year no-coverage determination
-(1) A 15-year no-coverage determination—
-(a) takes effect on and from the date specified in the determination; and
-(b) continues in operation for a period of 15 years from the commissioning of the pipeline.
-(2) An application for coverage of a pipeline to which a 15-year no-coverage determination applies can be made before the end of the period for which the determination remains in operation only if the coverage sought in the application is to commence from, or after, the end of that period.
-159—Consequences of Minister deciding against making 15-year no‑coverage determination for international pipeline
-(1) If—
-(a) the Commonwealth Minister decides against making a 15-year no‑coverage determination for an international pipeline; and
-(b) the applicant asks the Commonwealth Minister to treat the application as an application for a price regulation exemption,
-the Commonwealth Minister may treat the application as an application for a price regulation exemption under Chapter 5 Part 3.
-(2) If the Commonwealth Minister decides to treat an application for a 15‑year no‑coverage determination as an application for a price regulation exemption, the Commonwealth Minister may—
-(a) refer the application to the NCC for a recommendation under Chapter 5 Part 3; or
-(b) proceed to determine the application without a recommendation under Chapter 5 Part 3.
-Part 3—Price regulation exemptions
-Division 1—Application for price regulation exemption
-160—Application for price regulation exemption
-(1) If a greenfields pipeline project for construction of an international pipeline is proposed, or has commenced, the service provider may, before the pipeline is commissioned, apply for a price regulation exemption for the pipeline.
-(2) An application for a price regulation exemption—
-(a) is to be made to the NCC; and
-(b) must include a description of the pipeline that meets the requirements specified by the Rules; and
-(c) must contain the information required by the Rules; and
-(d) need not describe, or include details of, excluded infrastructure; and
-(e) must be accompanied by the fee prescribed by the Regulations (if any).
-(3) In this section—
-service provider includes a person that intends to be a service provider.
-Division 2—Recommendations by NCC
-161—Application to be dealt with in accordance with the Rules
-On receiving an application under section 160, the NCC must deal with it in accordance with the Rules.
-162—NCC's recommendation
-(1) The NCC must make a recommendation to the Commonwealth Minister as to whether the Minister should grant a price regulation exemption for the pipeline the subject of the application.
-(2) A recommendation under this section must—
-(a) be made in accordance with this Law and the Rules; and
-(b) be made within the time specified by the Rules; and
-(c) contain the information required by the Rules; and
-(d) be given to the persons specified by the Rules; and
-(e) be made publicly available in accordance with the Rules.
-(3) A recommendation under this section must be delivered to the Commonwealth Minister without delay.
-163—General principle governing NCC's recommendation
-(1) In making its recommendation on an application for a price regulation exemption, the NCC must weigh the benefits to the public of granting the exemption against the detriments to the public.
-(2) In doing so, the NCC—
-(a) must have regard to the national gas objective with particular reference to—
-(i) the implications of the exemption for relevant markets (including the effect on market power); and
-(ii) other possible effects on the public interest; and
-(b) may have regard to any other relevant matter.
-Division 3—Making and effect of price regulation exemption
-164—Making of price regulation exemption
-(1) On receiving the NCC's recommendation under section 162, the Commonwealth Minister must decide whether to grant a price regulation exemption.
-(2) The Commonwealth Minister must use his or her best endeavours to make the decision within 10 business days after receiving the NCC's recommendation.
-(3) If the Commonwealth Minister is unable to make the decision within the period specified under subsection (2), he or she must make the decision as soon as reasonably practicable after the end of the specified period.
-(4) A decision under this section must—
-(a) be made in accordance with this Law and the Rules; and
-(b) contain the information required by the Rules; and
-(c) be given to the persons specified by the Rules; and
-(d) be made publicly available in accordance with the Rules.
-165—Principles governing the making of a price regulation exemption
-(1) In deciding whether to make a decision to grant a price regulation exemption, the Commonwealth Minister must weigh the benefits to the public of granting the exemption against the detriments to the public.
-(2) In doing so, the Commonwealth Minister—
-(a) must have regard to the national gas objective with particular reference to—
-(i) the implications of the exemption for relevant markets (including the effect on market power); and
-(ii) other possible effects of the exemption on the public interest; and
-(b) must have regard to the NCC's recommendation; and
-(c) may take into account any relevant submissions and comments made to the NCC by the public under the Rules in relation to the application; and
-(d) may have regard to any other relevant matter.
-166—Conditions applying to a price regulation exemption
-A price regulation exemption granted under this Part is subject to the following conditions:
-(a) the service provider must publish on its website prices for the provision of pipeline services by means of the international pipeline; and
-(b) the service provider's limited access arrangement and the register of spare capacity are to be accessible on the service provider's website; and
-(c) the service provider—
-(i) must, as and when required by the AER or the Commonwealth Minister, provide information requested by the AER or the Commonwealth Minister (in a manner and form determined or approved by the AER or the Commonwealth Minister) on access negotiations and the result of access negotiations; and
-(ii) must report annually to the AER and the Commonwealth Minister (in a manner and form approved by the AER or the Commonwealth Minister) on access negotiations and the result of access negotiations.
-Note—
-See also sections 168 and 169(3).
-167—Effect of price regulation exemption
-(1) If a price regulation exemption is granted, then for a period of 15 years from the commissioning of the pipeline, the services provided by means of the pipeline are not subject to price or revenue regulation under this Law or the Rules.
-(2) A price regulation exemption is, however, ineffective unless a limited access arrangement, approved by the AER, is in force in relation to the relevant pipeline.
-Note—
-See also section 168.
-(3) If, while a price regulation exemption remains in force, the Commonwealth Minister makes a 15-year no-coverage determination for the pipeline, the 15‑year no-coverage determination supersedes the price regulation exemption (which is then terminated) and remains in force for the balance of the period for which the exemption was granted.
-(4) An application for coverage of a pipeline to which a price regulation exemption applies can only be made before the end of the period of exemption if the coverage sought in the application is to commence from, or after, the end of that period.
-Division 4—Limited access arrangements
-168—Limited access arrangements for pipeline services provided by international pipeline to which a price regulation exemption applies
-(1) A service provider must, within 60 business days after the grant of a price regulation exemption, submit a limited access arrangement to the AER for approval by the AER under the Rules.
-(2) A limited access arrangement must—
-(a) be submitted in accordance with the Rules; and
-(b) contain the information required by the Rules.
-(3) A service provider must submit to the AER, for approval by the AER under the Rules, revisions to an applicable access arrangement that is a limited access arrangement and that applies to the pipeline service to which that arrangement applies—
+access dispute pipeline, in relation to an access dispute, means the pipeline the subject of the dispute;
+dispute hearing means a hearing conducted by the relevant adjudicator for an access dispute for the purpose of making an access determination in relation to the dispute;
+party, in relation to an access dispute, has the meaning given by section 154.
+150—Application of this Chapter to disputes arising under the Rules
+(1) The provisions of this Chapter applicable to the determination of an access dispute apply to the determination of any dispute arising under any provision of the Rules specified in the Rules for the purposes of this section.
+(2) This section applies subject to any modification of the provisions of this Chapter specified in the Rules.
+151—Chapter does not limit how disputes about access may be raised or dealt with
+This Chapter does not limit how a dispute about access to a pipeline service may be raised or dealt with.
+Part 2—Notice of access dispute and other provisions
+Division 1—Notice of access dispute
+152—Notice of access dispute
+(1) This section applies if there is an access dispute between a user or prospective user and a service provider.
+(2) The user, prospective user or service provider may give a notice in writing to the following entity that the access dispute exists—
+(a) for a scheme pipeline access dispute—the dispute resolution body;
+(b) for a non‑scheme pipeline access dispute—the AER.
+(3) A notice given under subsection (2) must—
+(a) include information about—
+(i) the matters (if any) on which agreement has been reached; and
+(ii) the matters that are in dispute; and
+(iii) any other matter specified by the Rules; and
+(b) be accompanied by—
+(i) if an access dispute is a scheme pipeline access dispute—the fee prescribed by the Regulations (if any); or
+(ii) if an access dispute is a non‑scheme pipeline access dispute—the fee set by the AER from time to time and specified on the AER's website; and
+(c) be given to any other party to any negotiations that gave rise to the dispute as soon as practicable after it is given to the dispute resolution body or AER; and
+(d) be dealt with in accordance with the Rules.
+(4) The user, prospective user, or service provider may not give a notice under subsection (2) if the dispute relates to a matter excluded from the operation of this Chapter by the Rules.
+153—Withdrawal of notice
+Subject to the Rules, a notice given under section 152 may be withdrawn—
 (a) in accordance with the Rules; and
-(b) within the period specified by the Rules.
-Division 5—Other matters
-169—Other obligations to which service provider is subject
-(1) The service provider for a pipeline to which a price regulation exemption applies is subject to the following provisions as if the pipeline were a covered pipeline:
-(a) Chapter 4 Part 1 (except sections 132 and 136); and
-(b) Chapter 4 Part 2.
-(2) The service provider for a pipeline to which a price regulation exemption applies must comply with any Rules that—
-(a) relate to the facilitation of, and request for access to, pipeline services provided by means of that pipeline; and
-(b) apply to the service provider or a class of person of which the service provider is a member.
-(3) A service provider must ensure compliance with conditions to which the price regulation exemption is subject.
-Note—
-See also section 160.
-170—Service provider must not price discriminate in providing international pipeline services
-(1) A service provider must not, when providing pipeline services—
-(a) by means of an international pipeline to which a price regulation exemption applies; and
-(b) to which a limited access arrangement applies,
-engage in price discrimination.
-(2) Subsection (1) does not apply if the service provider engages in price discrimination that is conducive to efficient service provision.
-Part 4—Extended or modified application of greenfields pipeline incentive
-171—Requirement for conformity between pipeline description and pipeline as constructed
-(1) Subject to this Part—
-(a) a greenfields pipeline incentive applies to the pipeline as described in the relevant pipeline description; and
-(b) if the pipeline, as constructed, materially differs from the pipeline as described in the relevant pipeline description, the incentive does not attach to the pipeline and the service provider is not entitled to its benefit.
-(2) In determining whether a pipeline, as constructed, materially differs from the relevant pipeline description, excluded infrastructure is not to be taken into account.
-(3) In this section—
-relevant pipeline description means a description of a pipeline required to be included in an application under section 151 or 160.
-172—Power of relevant Minister to amend pipeline description
-(1) The relevant Minister may, on application by the service provider for a pipeline for which a greenfields pipeline incentive has been granted, amend the relevant pipeline description.
-(2) An amendment cannot, however, be made under this section after the pipeline has been commissioned.
-(3) The relevant Minister—
-(a) may refer an application for amendment to a pipeline description to the NCC for advice; and
-(b) if the amendment sought involves a substantial change to the pipeline description as it currently exists must refer the application to the NCC for advice.
-(4) In giving its advice to the relevant Minister, the NCC must have regard to the criteria that were relevant to the grant of the greenfields pipeline incentive.
-(5) In deciding whether to make the amendment sought, the relevant Minister—
-(a) must have regard to the criteria that were relevant to the grant of the greenfields pipeline incentive; and
-(b) if the application has been referred to the NCC for advice must consider the NCC's advice.
-Part 5—Early termination of greenfields pipeline incentive
-173—Greenfields pipeline incentive may lapse
-(1) A greenfields pipeline incentive lapses if the pipeline for which it was granted is not commissioned within 3 years after the incentive was granted.
-(2) The Regulations may, in a particular case, extend the period of 3 years referred to in subsection (1).
-174—Revocation by consent
-The relevant Minister may, at the request of the service provider, revoke a greenfields pipeline incentive.
-175—Revocation for misrepresentation
-The relevant Minister may, on application by the AER, revoke a greenfields pipeline incentive on the ground that—
-(a) the applicant misrepresented a material fact on the basis of which the application was granted; or
-(b) the applicant failed to disclose material information that the applicant was required to disclose under this Chapter.
-176—Revocation for breach of condition to which a price regulation exemption is subject
-The Commonwealth Minister, on application by the AER, may revoke a price regulation exemption on the ground that the service provider has breached a condition to which the price regulation exemption is subject.
-177—Exhaustive provision for termination of greenfields pipeline incentive
-A greenfields pipeline incentive does not terminate, and cannot be revoked, before the end of its term except as provided in this Part.
-Chapter 6—Access disputes—scheme pipelines
-Part 1—Interpretation and application
-178—Definitions
-In this Chapter—
-access dispute means a dispute between a user or prospective user and a service provider about 1 or more aspects of access to a pipeline service provided by means of a scheme pipeline;
-access dispute pipeline means a scheme pipeline used or that could be used to provide a pipeline service that is the subject of an access dispute;
-dispute hearing means a hearing conducted by the dispute resolution body for the purpose of making an access determination;
-party, in relation to an access dispute, has the meaning given by section 183.
-178A—Application of this Chapter to disputes arising under the Rules
-The provisions of this Chapter applicable to the determination of an access dispute apply, subject to such modifications as may be specified in the Rules, to the determination of any dispute arising under any provision of the Rules specified in the Rules for the purposes of the section.
-179—Chapter does not limit how disputes about access may be raised or dealt with
-This Chapter is not to be taken to limit how a dispute about access to a pipeline service may be raised or dealt with.
-180—No price or revenue regulation for access disputes relating to international pipeline services
-An access dispute notified under this Chapter in relation to a pipeline service provided by means of an international pipeline to which a price regulation exemption applies must not be resolved under this Chapter on terms—
-(a) regulating the price at which a service is to be provided by the service provider; or
-(b) limiting the revenue to be derived by the service provider from the provision of a service.
-Part 2—Notification of access dispute
-181—Notification of access dispute
-(1) Subject to this section, if a prospective user or user is unable to agree with a service provider about 1 or more aspects of access to a pipeline service provided or to be provided by means of a scheme pipeline, the prospective user, user or service provider may notify the dispute resolution body, in writing, that an access dispute exists.
-Note—
-A dispute about access to a light regulation service may be notified under this section because light regulation services are pipeline services provided by means of a covered pipeline (which is a scheme pipeline).
-(2) A notification must be accompanied by the fee prescribed by the Regulations (if any).
-(3) On receiving a notification under subsection (1), the dispute resolution body must notify, in writing, of the access dispute—
-(a) the service provider, if a prospective user or user (as the case requires) notified the dispute resolution body of the access dispute under subsection (1);
-(b) the prospective user or user (as the case requires), if the service provider notified the dispute resolution body of the access dispute under subsection (1).
-182—Withdrawal of notification
-(1) The person who notified the dispute resolution body of an access dispute under section 181(1) may withdraw that notification at any time before the dispute resolution body makes an access determination in respect of that access dispute.
-(2) The notification must be withdrawn by notice in writing.
-(3) If the notification is withdrawn, it must be taken, for the purposes of this Chapter, never to have been given.
-183—Parties to an access dispute
-The parties to an access dispute are—
-(a) the person notifying the dispute resolution body of an access dispute under section 181(1); and
-(b) a person notified by the dispute resolution body under section 181(3); and
-(c) if the dispute resolution body is of the opinion that the resolution of the access dispute may involve requiring another person to do something—that other person; and
-(d) any other person who applies in writing to be made a party and is accepted by the dispute resolution body as having a sufficient interest.
-Part 3—Access determinations
-184—Determination of access dispute
-(1) Unless the dispute resolution body terminates an access dispute under section 186, the dispute resolution body must make a determination on access by the prospective user or user, as the case requires.
-(2) In making an access determination the dispute resolution body must comply with this Chapter and the Rules.
-(3) An access determination must—
-(a) be in writing; and
-(b) include a statement of reasons for making the determination; and
-(c) be given to the parties without delay.
-(4) An access determination has effect on and after the date specified in the determination.
-185—Dispute resolution body may require parties to mediate, conciliate or engage in an alternative dispute resolution process
-(1) The dispute resolution body may require the parties, in accordance with the Rules, to mediate, conciliate or engage in another alternative dispute resolution process for the purpose of resolving the dispute.
-(2) A party must comply with a requirement under subsection (1).
-186—Dispute resolution body may terminate access dispute in certain cases
-(1) The dispute resolution body may at any time terminate an access dispute (without making an access determination) if the dispute resolution body considers that—
-(a) the notification of the access dispute was vexatious; or
-(b) the subject matter of the dispute is trivial, misconceived or lacking in substance; or
-(c) the party who notified the access dispute had, but did not avail itself of, an opportunity to engage in negotiations in good faith with the other party before that notification; or
-(d) a specified dispute termination circumstance has occurred.
-(2) Subject to section 188, the dispute resolution body may also terminate an access dispute (without making an access determination) if the dispute resolution body considers that the aspect of access about which there is a dispute is expressly or impliedly dealt with under a contract between, as the case requires—
-(a) the prospective user and service provider;
-(b) the user and service provider.
-(3) In this section—
-specified dispute termination circumstance means a circumstance specified by the Rules as being a circumstance, the occurrence of which, entitles the dispute resolution body to terminate an access dispute (without making an access determination).
-187—No access determination if dispute resolution body considers there is genuine competition
-Despite anything to the contrary in this Chapter, the dispute resolution body may refuse to make an access determination that requires the service provider to provide a particular pipeline service to a prospective user or user if the dispute resolution body considers that the pipeline service the subject of the access dispute could be provided on a genuinely competitive basis by a person other than the service provider or an associate of the service provider.
-188—Restrictions on access determinations
-(1) The dispute resolution body must not make an access determination that would have any of the following effects:
-(a) preventing a user obtaining a sufficient amount of a pipeline service under a contract or previous access determination to be able to meet the user's reasonably anticipated requirements, measured at the time the access dispute was notified;
-(b) preventing a prospective user or user from obtaining, by the exercise of a pre‑notification right, a sufficient amount of a pipeline service to be able to meet the prospective user's or user's actual requirements;
+(b) at any time before an access determination is made in relation to the dispute.
+Division 2—Parties to an access dispute
+154—Parties to an access dispute
+(1) The parties to an access dispute are—
+(a) the parties to any negotiations that gave rise to the access dispute; and
+(b) if the dispute resolution body or AER (as the case requires) is of the opinion that the resolution of the access dispute may involve requiring another person to do something and that it is appropriate that the person be joined as a party—that other person; and
+(c) if a small shipper is a party and has elected, in accordance with the Rules, for a user association to be joined as a party—the user association; and
+(d) if the access dispute is a scheme pipeline access dispute—any other person who applies in writing, in accordance with the Rules, to be made a party and is accepted by the dispute resolution body as having a sufficient interest.
+(2) In this section—
+user association means an association or body, whether incorporated or not—
+(a) the members of which include more than 1 user or prospective user; and
+(b) that represents and promotes the interests of those members in relation to the provision of pipeline services.
+Part 3—Alternative dispute resolution for access disputes
+Division 1—Alternative dispute resolution for scheme pipeline access disputes
+155—Dispute resolution body may require parties to engage in alternative dispute resolution
+(1) This section applies if the dispute resolution body receives a notice of a scheme pipeline access dispute under section 152.
+(2) The dispute resolution body may require the parties to the dispute, in accordance with the Rules, to mediate, conciliate or engage in another alternative dispute resolution process for the purpose of resolving the dispute.
+(3) A party must comply with a requirement under subsection (2).
+Division 2—Mediation of access disputes involving small shippers
+156—Small shipper may elect to have access dispute mediated
+A small shipper who is a party to an access dispute may, in accordance with the Rules, elect for the dispute to be resolved by mediation.
+157—Appointment of mediator
+(1) This section applies if a small shipper makes an election under section 156.
+(2) The parties to the access dispute may agree to appoint, in accordance with the Rules, a mediator to resolve the dispute.
+(3) If the parties do not agree to the appointment of a mediator within a period specified by the Rules, the AER must—
+(a) consult with the parties to the dispute about the appointment of a mediator; and
+(b) after consultation, appoint a mediator the AER considers appropriate for the dispute.
+(4) A mediator must be a person who—
+(a) is independent of the parties to the dispute; and
+(b) is properly qualified to act in the resolution of the dispute; and
+(c) has no direct or indirect interest in the outcome of the dispute.
+(5) If a mediator does not, for any reason, complete a mediation of a dispute, the parties to the dispute may agree to appoint, in accordance with the Rules, an alternative mediator to resolve the dispute.
+(6) However, if the parties do not agree to the appointment of an alternative mediator within a period specified by the Rules, the AER must appoint another mediator in the way set out under subsection (3).
+(7) If an alternative mediator does not, for any reason, complete a mediation of the dispute, the dispute must be determined by the relevant adjudicator for the dispute under Part 5.
+158—Party's lawyer may be present at mediation
+A party to a mediation may have a lawyer present at the mediation.
+Part 4—Arbitration of non‑scheme pipeline access disputes
+159—Reference of non‑scheme pipeline access dispute to arbitration
+(1) This section applies if the AER receives a notice of a non‑scheme pipeline access dispute under section 152.
+(2) The AER must refer the dispute to arbitration.
+(3) The AER must give notice of the referral of an access dispute to arbitration to—
+(a) the parties to the access dispute; and
+(b) if relevant, any other person who will be a party to the access dispute.
+(4) However, this section applies subject to section 156.
+160—Appointment of arbitrator
+(1) This section applies if a non‑scheme pipeline access dispute is referred to arbitration under section 159.
+(2) The parties to the access dispute may agree to appoint, in accordance with the Rules, an arbitrator to resolve the dispute.
+(3) If the parties do not agree to the appointment of an arbitrator within a period specified by the Rules, the AER must—
+(a) consult with the parties to the dispute about the appointment of an arbitrator; and
+(b) after consultation, appoint an arbitrator the AER considers appropriate for the dispute.
+(4) An arbitrator must be a person who—
+(a) is independent of the parties to the dispute; and
+(b) is properly qualified to act in the resolution of the dispute; and
+(c) has no direct or indirect interest in the outcome of the dispute.
+(5) If an arbitrator does not, for any reason, complete an arbitration of a dispute, the parties to the dispute may agree to appoint, in accordance with the Rules, an alternative arbitrator to resolve the dispute.
+(6) However, if the parties do not agree to the appointment of an alternative arbitrator within a period specified by the Rules, the AER must appoint another arbitrator in the way set out under subsection (3).
+Part 5—Access determination
+Division 1—Determination of access disputes generally
+161—Determination of access dispute
+(1) Unless the relevant adjudicator for an access dispute terminates the access dispute under Part 7, the relevant adjudicator must make a determination on access by the user or prospective user (as the case requires) (including a determination that does not require a service provider to provide access to any pipeline services).
+(2) In making an access determination, the relevant adjudicator must comply with this Chapter and the Rules.
+(3) An access determination may deal with any matter relating to access by the user or prospective user to the pipeline services specified by the Rules for the purposes of this subsection.
+(4) The Rules may also, in connection with the making of an access determination, contain provisions for or with respect to such things as—
+(a) the form of any determination; and
+(b) the content of any determination, including as to the giving of reasons; and
+(c) the time within which a determination must be made; and
+(d) the process for making a determination; and
+(e) when a determination takes effect; and
+(f) the giving of notice of the making of a determination; and
+(g) the publication of an access determination and other information related to the determination, including a statement of reasons for making the access determination, relevant financial calculations and any reports.
+162—Matters to be taken into account for access disputes
+In making an access determination, the relevant adjudicator for an access dispute the subject of the determination must take into account any matters specified in the Rules for the purposes of this section.
+163—Restrictions on access determinations
+(1) An access determination must not have any of the following effects:
+(a) preventing a user from obtaining a sufficient amount of a pipeline service under a contract or previous access determination to be able to meet the user's reasonably anticipated requirements, measured at the time the access dispute was notified;
+(b) preventing a user or prospective user from obtaining, by the exercise of a pre‑notification right, a sufficient amount of a pipeline service to be able to meet the user's or prospective user's actual requirements;
 (c) depriving a person of a relevant protected contractual right.
 (2) In this section—
-pre-notification right means a right under a contract, or under an access determination, that was in force at the time when the access dispute was notified under section 181;
+pre-notification right means a right under a contract, or under an access determination, that was in force at the time when the access dispute was notified under section 152;
 relevant exclusivity right means an express contractual right that arose on or after 30 March 1995 that—
 (a) prevents a service provider supplying pipeline services to persons who are not parties to the contract; or
 (b) limits or controls a service provider's ability to supply pipeline services to persons who are not parties to the contract,
 but does not include a user's contractual right to obtain a certain amount of pipeline services;
-relevant protected contractual right means a right under a contract (other than a relevant exclusivity right) that was in force immediately before the notification of an access dispute under section 181.
-189—Access determination must give effect to applicable access arrangement
-Subject to sections 190 and 191 and any Rules made for the purposes of this Part, the dispute resolution body must, in making an access determination, give effect to the applicable access arrangement—
-(a) applying to the pipeline services provided, or to be provided, by means of the access dispute pipeline; and
-(b) in effect at the time the determination is made,
-(even though that arrangement may not have been in force when notification of the access dispute was given).
-190—Access determinations and past contributions of capital to fund installations or the construction of new facilities
-(1) In making an access determination, the dispute resolution body may (where relevant) take into account past contributions of capital to fund installations or the construction of new facilities.
+relevant protected contractual right means a right under a contract (other than a relevant exclusivity right) that was in force immediately before the notification of an access dispute under section 152.
+164—Access determinations and part contributions of capital to fund installations or the construction of new facilities
+(1) In making an access determination, the relevant adjudicator for an access dispute the subject of the determination may take into account past contributions of capital to fund installations or the construction of new facilities for the access dispute pipeline.
 (2) Without limiting section 74, the Rules may—
-(a) specify the matters that the dispute resolution body must address in making that access determination;
+(a) specify the matters that the relevant adjudicator must address in making that access determination; and
 (b) specify the content of that access determination.
-191—Rules may allow determination that varies applicable access arrangement for installation of a new facility
-(1) This section applies if the dispute resolution body is proposing to make an access determination that will require—
+Division 2—Particular provisions relating to scheme pipeline access disputes
+165—Access determination must give effect to applicable access arrangement
+(1) This section applies subject to sections 161, 164 and 166 and any Rules made for the purposes of this Part.
+(2) In making an access determination for a scheme pipeline access dispute, the dispute resolution body must give effect to the applicable access arrangement (the relevant applicable access arrangement)—
+(a) applying to the pipeline services provided, or to be provided, by means of the access dispute pipeline; and
+(b) in effect at the time the determination is made.
+(3) Subsection (2) applies even though the relevant applicable access arrangement may not have been in force when notice of the access dispute was given.
+166—Rules may allow determination that varies applicable access arrangement for installation of a new facility
+(1) This section applies in relation to an access determination for a scheme pipeline access dispute that requires—
 (a) a service provider to install or construct a new facility to expand the capacity of the access dispute pipeline; and
-(b) the prospective user or user who is a party to the access dispute to contribute some or all of the capital to fund the installation or construction of the new facility.
+(b) the user or prospective user who is a party to the access dispute to contribute some or all of the capital to fund the installation or construction of the new facility.
 (2) Without limiting section 74, the Rules may—
-(a) confer a function or power on the dispute resolution body to, when making the access determination, vary the applicable access arrangement; and
-(b) specify the matters that the dispute resolution body must address in making that access determination; and
+(a) confer a function or power on the dispute resolution body, when making the access determination, to vary the applicable access arrangement; and
+(b) specify the matters that the dispute resolution body must address in making the access determination; and
 (c) specify the kinds of variations that may be made to the applicable access arrangement; and
-(d) specify the content of that access determination.
-192—Access determinations need not require the provision of a pipeline service
-An access determination may, but need not, require a service provider to provide a pipeline service to a prospective user.
-193—Content of access determinations
-Subject to this Chapter, an access determination may deal with any matter relating to the provision of a pipeline service to a prospective user or user.
-Example—
-An access determination may require the service provider to provide a pipeline service to the prospective user or user at—
-(a) a specified tariff, rate or charge; and
-(b) on specified terms and conditions.
-Part 4—Variation of access determinations
-194—Variation of access determination
-(1) The dispute resolution body may vary an access determination on the application of any party to the determination. However, it cannot vary the final determination if any other party objects.
+(d) specify the content of the access determination.
+Part 6—Variation of access determinations
+167—Variation of access determination—scheme pipeline disputes
+(1) This section applies in relation to an access determination for a scheme pipeline access dispute.
+(2) The dispute resolution body may vary the access determination on the application of any party to the determination, but cannot vary the final determination if any other party objects.
 Note—
-If the parties cannot agree on a variation, a new access dispute can be notified under section 181.
-(2) Section 188 applies to a variation under this section as if—
+If the parties cannot agree on a variation, a new access dispute can be notified under section 152.
+(3) Section 163 applies to a variation under this section as if—
 (a) an access dispute arising out of the access determination had been notified when the application was made to the dispute resolution body for the variation of the determination; and
 (b) the variation were the making of an access determination in the terms of the varied determination.
-Part 5—Compliance with access determinations
-195—Compliance with access determination
-A party to an access dispute in respect of which an access determination is made must comply with the access determination.
-Part 6—Access dispute hearing procedure
-196—Hearing to be in private
-(1) Subject to subsection (2), a dispute hearing is to be in private.
-(2) If the parties agree, a dispute hearing or part of a dispute hearing may be conducted in public.
-(3) The dispute resolution body may give written directions as to the persons who may be present at a dispute hearing that is conducted in private.
-(4) In giving directions under subsection (3), the dispute resolution body must have regard to the wishes of the parties and the need for commercial confidentiality.
-197—Right to representation
-In a dispute hearing a party may appear in person or be represented by another person.
-198—Procedure of dispute resolution body
-(1) In a dispute hearing the dispute resolution body—
+168—Variation of access determination—non‑scheme pipeline disputes
+(1) This section applies in relation to an access determination for a non‑scheme pipeline access dispute.
+(2) The access determination may be varied by agreement between all parties to the access determination.
+(3) The Rules may also contain provisions with respect to seeking variations to an access determination.
+(4) The provisions of this Chapter about the arbitration of an access dispute apply with necessary modifications to a proposal under the Rules to vary an access determination or to a dispute arising out of such a proposal.
+Part 7—Termination of access dispute
+169—Relevant adjudicator may terminate access dispute in particular circumstances
+(1) The relevant adjudicator for an access dispute may at any time terminate the access dispute (without making an access determination) if—
+(a) the notice of dispute given under section 152 is withdrawn; or
+(b) the relevant adjudicator considers that—
+(i) the pipeline service the subject of the access dispute could be provided on a genuinely competitive basis by a person other than the service provider or an associate of the service provider; or
+(ii) the notice of the access dispute was vexatious; or
+(iii) the subject matter of the dispute is trivial, misconceived or lacking in substance; or
+(iv) the party who notified the access dispute did not negotiate in good faith; or
+(v) a specified dispute termination circumstance has occurred; or
+(vi) there is some other good reason why the dispute should be terminated.
+(2) Subject to section 163, the relevant adjudicator for an access dispute may also terminate the access dispute (without making an access determination) if the relevant adjudicator considers that the aspect of access about which there is a dispute is expressly or impliedly dealt with under a contract between the user or prospective user and the service provider.
+(3) Furthermore, a relevant adjudicator who is an arbitrator for a non‑scheme pipeline access dispute may terminate an arbitration (without making an access determination) if the arbitrator considers that the user or prospective user seeking access is not engaging in the arbitration in good faith.
+(4) In this section—
+specified dispute termination circumstance means a circumstance specified by the Rules as being a circumstance, the occurrence of which, entitles the relevant adjudicator for an access dispute to terminate the access dispute (without making an access determination).
+Part 8—Compliance with access determinations
+170—Compliance with access determination
+(1) Subject to the Rules and subsection (2)—
+(a) a party to a scheme pipeline access dispute in respect of which an access determination is made must comply with the access determination; and
+(b) an access determination in relation to a non‑scheme pipeline is enforceable as if it were a contract between the parties to the access determination.
+Note—
+See also Chapter 8 Part 6 in relation to the enforcement of access determinations.
+(2) A user or prospective user of a pipeline service to which an access determination relates is not bound to seek access to the service.
+(3) However, if a user or prospective user of a pipeline service seeks or obtains access, the user or prospective user is bound by any relevant provision of the access determination.
+171—Subsequent service providers bound by access determinations
+(1) An access determination applies to every subsequent service provider as if that subsequent service provider were a party to the access dispute in respect of which the access determination was made.
+(2) In this section—
+subsequent service provider means a service provider (other than the service provider to whom the access determination applies) who provides pipeline services—
+(a) the subject of the access dispute; and
+(b) in respect of which the access determination was made.
+Part 9—Access dispute hearing procedure
+172—Part applies subject to any modifications prescribed by the Regulations
+This Part applies subject to any modifications prescribed by the Regulations.
+173—Fast track resolution process—scheme pipeline access disputes
+A scheme pipeline access dispute may be dealt with in accordance with a fast track resolution process under the Rules in the circumstances provided for in the Rules.
+174—Hearing to be in private
+(1) A dispute hearing is to be in private.
+(2) However, if the parties agree, a dispute hearing or part of a dispute hearing may be conducted in public.
+(3) The relevant adjudicator for an access dispute the subject of the dispute hearing may give written directions as to the persons who may be present at a dispute hearing that is conducted in private.
+(4) In giving directions under subsection (3), the relevant adjudicator must have regard to the wishes of the parties and the need for commercial confidentiality.
+175—Right to representation
+In a dispute hearing, a party may appear in person or be represented by another person.
+176—Procedure of relevant adjudicator
+(1) In a dispute hearing the relevant adjudicator for an access dispute—
 (a) is not bound by technicalities, legal forms or rules of evidence; and
 (b) must act as speedily as a proper consideration of the access dispute allows, having regard to the need to carefully and quickly inquire into and investigate the access dispute and all matters affecting the merits, and fair settlement, of the access dispute; and
 (c) may inform itself about any matter relevant to the access dispute in any way it thinks appropriate.
-(2) The dispute resolution body may determine the periods that are reasonably necessary for the fair and adequate presentation of the respective cases of the parties in the dispute hearing, and may require that the cases be presented within those periods.
-(3) The dispute resolution body may require evidence or argument to be presented in writing, and may decide the matters on which the dispute resolution body will hear oral evidence or argument.
-(4) The dispute resolution body may determine that a dispute hearing is to be conducted by—
+(2) The relevant adjudicator may determine the periods that are reasonably necessary for the fair and adequate presentation of the respective cases of the parties in the dispute hearing, and may require that the cases be presented within those periods.
+(3) The relevant adjudicator may require evidence or argument to be presented in writing, and may decide the matters on which the relevant adjudicator will hear oral evidence or argument.
+(4) The relevant adjudicator may determine that a dispute hearing is to be conducted by—
 (a) telephone; or
 (b) closed circuit television; or
 (c) any other means of communication.
 (5) The Rules may make further provision about the procedure for the conduct of dispute hearings.
-199—Particular powers of dispute resolution body in a hearing
-(1) The dispute resolution body may do any of the following things for the purpose of determining an access dispute:
+177—Particular powers of relevant adjudicator in a hearing
+(1) The relevant adjudicator for an access dispute may do any of the following things for the purpose of determining the access dispute:
 (a) give a direction in the course of, or for the purpose of, a dispute hearing;
 (b) hear and determine the access dispute in the absence of a party who has been given notice of the dispute hearing;
 (c) sit at any place;
 (d) adjourn to any time and place;
 (e) refer any matter to an independent expert and accept the expert's report as evidence.
-(2) The dispute resolution body may make an interim determination.
-200—Disclosure of information
-(1) The dispute resolution body may give an oral or written order to a person not to divulge or communicate to anyone else specified information that was given to the person in the course of an access dispute unless the person has the dispute resolution body's permission.
+(2) The relevant adjudicator may make an interim determination.
+178—Role of a dispute resolution expert
+(1) This section applies if, for the purpose of determining an access dispute, a matter is referred to an independent expert under section 177(1)(e).
+(2) The expert is to be appointed on terms and conditions determined by the relevant adjudicator for the access dispute.
+(3) The expert must report to the relevant adjudicator in accordance with the requirements of the relevant adjudicator.
+(4) The independent expert must—
+(a) have knowledge and experience that is relevant to the matter; and
+(b) not have any material direct or indirect interest or association that compromises, or is likely to compromise, the impartiality of the expert; and
+(c) disclose to the relevant adjudicator any material or indirect interest or association that compromises, or would reasonably be seen to compromise, the impartiality of the expert.
+179—Disclosure of information
+(1) The relevant adjudicator for an access dispute may give an oral or written order to a person not to divulge or communicate to anyone else specified information that was given to the person in the course of the access dispute unless the person has the relevant adjudicator's permission.
 (2) A person must not, without reasonable excuse, refuse or fail to comply with an order under subsection (1).
 Maximum penalty:
 (a) in the case of a natural person—$3 400;
 (b) in the case of a body corporate—$17 000.
 Note—
 See Schedule 2 clause 47B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
-201—Power to take evidence on oath or affirmation
-(1) The dispute resolution body may take evidence on oath or affirmation and for that purpose the dispute resolution body may administer an oath or affirmation.
-(2) The dispute resolution body may summon a person to appear before the dispute resolution body to—
+180—Power to take evidence on oath or affirmation
+(1) The relevant adjudicator for an access dispute may take evidence on oath or affirmation and for that purpose the relevant adjudicator may administer an oath or affirmation.
+(2) The relevant adjudicator may summon a person to appear before the relevant adjudicator to—
 (a) give evidence; or
 (b) produce such documents (if any) as are referred to in the summons; or
 (c) give evidence and produce such documents (if any) as are referred to in the summons.
-(3) The powers in this section may be exercised only for the purposes of hearing and determining an access dispute.
-202—Failing to attend as a witness
-A person who is served, as prescribed by the Regulations, with a summons to appear as a witness before the dispute resolution body must not, without reasonable excuse—
+(3) The powers in this section may be exercised only for the purposes of hearing and determining the access dispute.
+181—Failing to attend as a witness
+A person who is served, as prescribed by the Regulations, with a summons to appear as a witness at a dispute hearing before the relevant adjudicator for an access dispute must not, without reasonable excuse—
 (a) fail to attend as required by the summons; or
-(b) fail to appear and report himself or herself from day to day unless excused, or released from further attendance, by the dispute resolution body.
+(b) fail to appear and report from day to day unless excused, or released from further attendance, by the relevant adjudicator.
 Maximum penalty: $6 300.
 Note—
 See Schedule 2 clause 47B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
-203—Failing to answer questions etc
-(1) A person appearing as a witness before the dispute resolution body must not, without reasonable excuse—
+182—Failing to answer questions etc
+(1) A person appearing at a dispute hearing as a witness before the relevant adjudicator for an access dispute the subject of the dispute hearing must not, without reasonable excuse—
 (a) refuse or fail to be sworn or to make an affirmation; or
-(b) refuse or fail to answer a question that the person is required to answer by the dispute resolution body; or
-(c) refuse or fail to produce a document that he or she is required to produce by a summons under this Chapter served on him or her as prescribed by the Regulations.
+(b) refuse or fail to answer a question that the person is required to answer by the relevant adjudicator; or
+(c) refuse or fail to produce a document that the person is required to produce by a summons under this Chapter served on the person as prescribed by the Regulations.
 Maximum penalty: $6 300.
 Note—
 See Schedule 2 clause 47B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
@@ -3424,237 +3197,116 @@ See Schedule 2 clause 47B, which provides for criminal penalty amounts to be adj
 (a) tend to incriminate the person; or
 (b) expose the person to a criminal penalty.
 (3) Subsection (2) does not limit what is a reasonable excuse for the purposes of subsection (1).
-204—Intimidation etc
+183—Intimidation etc
 A person must not—
 (a) threaten, intimidate or coerce another person; or
 (b) cause or procure damage, loss or disadvantage to another person,
 because that other person—
-(c) proposes to produce, or has produced, documents to the dispute resolution body; or
-(d) proposes to appear, or has appeared, as a witness before the dispute resolution body.
+(c) proposes to produce, or has produced, documents to the relevant adjudicator for a dispute hearing; or
+(d) proposes to appear, or has appeared, as a witness before the relevant adjudicator for a dispute hearing.
 Maximum penalty: $6 300.
 Note—
 See Schedule 2 clause 47B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
-205—Party may request dispute resolution body to treat material as confidential
+184—Particular powers of a relevant adjudicator in a hearing
 (1) A party in a dispute hearing may—
-(a) inform the dispute resolution body that, in the party's opinion, a specified part of a document contains confidential information; and
-(b) request the dispute resolution body not to give a copy of that part to another party.
-(2) On receiving a request, the dispute resolution body must—
+(a) inform the relevant adjudicator for an access dispute the subject of the dispute hearing that, in the party's opinion, a specified part of a document contains confidential information (the relevant part of the document); and
+(b) request the relevant adjudicator not to give a copy of the relevant part of the document to another party.
+(2) On receiving a request, the relevant adjudicator must—
 (a) inform the other party or parties that the request has been made and of the general nature of the matters to which the relevant part of the document relates; and
-(b) ask the other party or parties whether there is any objection to the dispute resolution body complying with the request.
-(3) If there is an objection to the dispute resolution body complying with the request, the party objecting may inform the dispute resolution body of the objection and of the reasons for it.
-(4) After considering—
+(b) ask the other party or parties whether there is any objection to the relevant adjudicator complying with the request.
+(3) If there is an objection to the relevant adjudicator complying with the request, the party objecting may inform the relevant adjudicator of the objection and of the reasons for it.
+(4) The relevant adjudicator must consider—
 (a) a request; and
 (b) any objection; and
-(c) any further submissions that any party has made in relation to the request,
-the dispute resolution body may decide—
-(d) not to give the other party or parties a copy of so much of the document as contains confidential information that the dispute resolution body thinks should not be given; or
-(e) to give the other party or another specified party a copy of the whole, or part, of the part of the document that contains confidential information subject to a condition that the party give an undertaking not to disclose the information to another person except to the extent specified by the dispute resolution body and subject to such other conditions as the dispute resolution body determines.
-206—Costs
-(1) Each party is to bear its own costs in a dispute hearing except to the extent that an order under this section specifies otherwise.
-(2) At any time, the dispute resolution body may order that a party pay all or a specified part of the costs of another party in a dispute hearing.
+(c) any further submissions that any party has made in relation to the request.
+(5) After considering the matters mentioned in subsection (4), the relevant adjudicator may decide—
+(a) not to give the other party or parties a copy of any part of the relevant part of the document that the relevant adjudicator thinks should not be given; or
+(b) to give the other party or another specified party a copy of the whole, or part, of the relevant part of the document subject to—
+(i) a condition that the party give an undertaking not to disclose the information contained in the relevant part of the document to another person except to the extent specified by the relevant adjudicator; and
+(ii) any other condition the relevant adjudicator considers appropriate.
+Part 10—Costs
+Division 1—Scheme pipeline access disputes
+185—Costs—scheme pipeline access disputes
+(1) Each party to a scheme pipeline access dispute is to bear its own costs in a dispute hearing except to the extent that an order under this section specifies otherwise.
+(2) At any time, the dispute resolution body may order that a party (other than a small shipper) pay all or a specified part of the costs of another party in a dispute hearing.
 (3) The dispute resolution body may make an order under subsection (2) only if satisfied that it is fair to do so, having regard to—
 (a) whether a party has conducted the dispute hearing in a way that unnecessarily disadvantaged another party by conduct such as—
-(i) failing to comply with an order or direction of the dispute resolution body without reasonable excuse;
-(ii) failing to comply with this Law, the Regulations or the Rules;
-(iii) asking for an adjournment as a result of subparagraph (i) or (ii);
-(iv) causing an adjournment;
-(v) attempting to deceive another party or the dispute resolution body;
-(vi) vexatiously conducting an access dispute;
-(b) whether a party has been responsible for prolonging unreasonably the time taken to complete the dispute hearing;
-(c) the relative strengths of the claims made by each of the parties, including whether a party has made a claim that has no tenable basis in fact or law;
-(d) the nature and complexity of the access dispute;
+(i) failing to comply with an order or direction of the dispute resolution body without reasonable excuse; or
+(ii) failing to comply with this Law, the Regulations or the Rules; or
+(iii) asking for an adjournment as a result of subparagraph (i) or (ii); or
+(iv) causing an adjournment; or
+(v) attempting to deceive another party or the dispute resolution body; or
+(vi) vexatiously conducting an access dispute; and
+(b) whether a party has been responsible for prolonging unreasonably the time taken to complete the dispute hearing; and
+(c) the relative strengths of the claims made by each of the parties, including whether a party has made a claim that has no tenable basis in fact or law; and
+(d) the nature and complexity of the access dispute; and
 (e) any other matter the dispute resolution body considers relevant.
 (4) A party to whom an order made under subsection (2) is directed must comply with the order.
-(5) If the dispute resolution body considers that the representative of a party, rather than the party, is responsible for conduct described in subsection (3)(a) or (b), the dispute resolution body may order that the representative in his or her own capacity compensate another party for any costs incurred unnecessarily.
+(5) If the dispute resolution body considers that the representative of a party, rather than the party, is responsible for conduct described in subsection (3)(a) or (b), the dispute resolution body may order that the representative in the representative's own capacity compensate another party for any costs incurred unnecessarily.
 (6) Before making an order under subsection (5), the dispute resolution body must give the representative a reasonable opportunity to be heard.
 (7) A representative of a party to whom an order made under subsection (5) is directed must comply with the order.
 (8) If the dispute resolution body makes an order for costs before the end of an access dispute, the dispute resolution body may require that the order be complied with before it continues with the proceeding.
 (9) If the dispute resolution body makes an order for costs, the dispute resolution body may fix the amount of costs itself.
-(10) This section applies to costs incurred by the parties in a dispute hearing even if the notification of the access dispute to which the dispute hearing relates is withdrawn.
-207—Outstanding costs are a debt due to party awarded the costs
-Costs that are payable under section 206(4) or (7)—
+(10) This section applies to costs incurred by the parties in a dispute hearing even if the notice of the access dispute to which the dispute hearing relates is withdrawn.
+186—Outstanding costs are a debt due to party awarded the costs—scheme pipelines
+Costs that are payable under section 185(4) or (7)—
 (a) are a debt due to the party to whom the dispute resolution body has ordered that they be paid; and
 (b) may be recovered by that party in a court of competent jurisdiction.
-Part 7—Joint access dispute hearings
-208—Definition
+187—Regulations about the costs to be paid by parties to access dispute—scheme pipelines
+The Regulations may provide for the dispute resolution body to—
+(a) charge the parties to an access dispute for its costs in the access dispute; and
+(b) apportion those costs between the parties.
+Division 2—Non‑scheme pipeline disputes
+188—Costs of arbitration of non‑scheme pipeline disputes
+(1) This section applies in relation to the parties to an arbitration of a non‑scheme pipeline dispute conducted under this Chapter.
+(2) Despite any other provision of this Chapter, the parties to the arbitration bear their own costs.
+(3) The costs of the arbitration (including costs associated with the arbitration process and the cost of the arbitrator) must be shared equally between the parties to the arbitration.
+(4) The Rules may make provision in relation to the costs of an arbitration conducted under this Chapter, including rules that provide for a different approach to allocating costs under subsection (3) in specified circumstances.
+(5) Costs that are payable to the arbitrator under this section—
+(a) are a debt due by the party to the arbitrator; and
+(b) may be recovered by the arbitrator in a court of competent jurisdiction.
+Division 3—Mediation of access disputes involving small shippers
+189—Costs of mediation of access disputes involving small shippers
+(1) This section applies in relation to an access dispute involving small shippers that is referred to mediation under this Chapter.
+(2) The parties to the mediation bear their own costs.
+(3) The costs of the mediation (including costs associated with the mediation process and the cost of the mediator) must be shared equally between the parties to the mediation.
+(4) Subsections (2) and (3) apply subject to any agreement between the parties to the access dispute about who will bear any costs (or a particular share of any costs) in the particular case.
+(5) Costs that are payable to the mediator under this section—
+(a) are a debt due by the party to the mediator; and
+(b) may be recovered by the mediator in a court of competent jurisdiction.
+Part 11—Joint access dispute hearings—scheme pipeline disputes
+190—Definition
 In this Part—
-nominated disputes has the meaning given by section 209(2).
-209—Joint dispute hearing
+nominated disputes has the meaning given by section 191(2).
+191—Joint dispute hearing
 (1) This section applies if—
-(a) the dispute resolution body is conducting 2 or more dispute hearings at a particular time; and
-(b) 1 or more matters are common to the access disputes in relation to which the dispute hearings are being conducted.
+(a) the dispute resolution body is conducting 2 or more dispute hearings in relation to scheme pipeline access disputes at a particular time; and
+(b) one or more matters are common to the access disputes in relation to which the dispute hearings are being conducted.
 (2) The dispute resolution body may, by notice in writing, decide that it will hold a joint dispute hearing in respect of such of those access disputes (the nominated disputes) as are specified in the notice.
 (3) The dispute resolution body may do so only if it considers this would be likely to result in the nominated disputes being resolved in a more efficient and timely manner.
-210—Consulting the parties
-(1) Before making a decision under section 209(2), the dispute resolution body must give each party to each of the nominated disputes a notice in writing—
+192—Consulting the parties
+(1) Before making a decision under section 191(2), the dispute resolution body must give each party to each of the nominated disputes a notice in writing—
 (a) specifying what the dispute resolution body is proposing to do; and
 (b) inviting the party to make a written submission on the proposal to the dispute resolution body within 10 business days after the notice is given.
-(2) The dispute resolution body must have regard to any submission so made in deciding whether to do so. The dispute resolution body may have regard to any other matter it considers relevant.
-211—Constitution and procedure of dispute resolution body for joint dispute hearings
-Chapter 6 Part 6 applies to the joint dispute hearing in a corresponding way to the way in which it applies to a particular dispute hearing.
-212—Record of proceedings etc
+(2) The dispute resolution body must have regard to any submission so made in deciding whether to do so.
+(3) The dispute resolution body may also have regard to any other matter it considers relevant.
+193—Constitution and procedure of dispute resolution body for joint dispute hearings
+Part 9 applies to the joint dispute hearing in a corresponding way to the way in which it applies to a particular dispute hearing.
+194—Record of proceedings etc
 (1) The dispute resolution body as constituted for the purposes of the joint dispute hearing may have regard to any record of the proceedings of the dispute of any of the nominated disputes.
 (2) The dispute resolution body as constituted for the purposes of the dispute hearing of each of the nominated disputes may, for the purposes of making an access determination in relation to the access dispute to which that hearing relates—
 (a) have regard to any record of the proceedings of the joint dispute hearing; and
 (b) adopt any findings of fact made by the dispute resolution body as constituted for the purposes of the joint dispute hearing.
-Part 8—Miscellaneous matters
-213—Correction of access determinations for clerical mistakes etc
-If an access determination contains—
+Part 12—Miscellaneous matters
+195—Correction of access determinations for clerical mistakes etc
+(1) This section applies if an access determination contains—
 (a) a clerical mistake; or
 (b) an error arising from an accidental slip or omission; or
 (c) a material miscalculation of figures or a material mistake in the description of any person, thing or matter referred to in the determination; or
-(d) a defect in form,
-the dispute resolution body may correct the access determination.
-214—Reservation of capacity during an access dispute
-A service provider who is in an access dispute with a user must not, without the consent of the user, alter the rights that the user has to use the capacity of the access dispute pipeline during the period of the dispute.
-215—Subsequent service providers bound by access determinations
-(1) An access determination applies to every subsequent service provider as if that subsequent service provider were a party to the access dispute in respect of which the access determination was made.
-(2) In this section—
-subsequent service provider means a service provider (other than the service provider to whom the access determination applies) who provides pipeline services—
-(a) the subject of the access dispute; and
-(b) in respect of which the access determination was made.
-216—Regulations about the costs to be paid by parties to access dispute
-The Regulations may provide for the dispute resolution body to—
-(a) charge the parties to an access dispute for its costs in the access dispute; and
-(b) apportion those costs between the parties.
-Chapter 6A—Access disputes—non-scheme pipelines
-Part 1—Interpretation and application
-216A—Definitions
-In this Chapter—
-access determination means a determination of an arbitrator under Part 3 and includes a variation under Part 5;
-access dispute means a dispute between a user or prospective user and a service provider about 1 or more aspects of access to a pipeline service provided by means of a non‑scheme pipeline (subject to the operation of section 216C(2));
-dispute hearing means a hearing conducted by an arbitrator under this Chapter for the purpose of making an access determination;
-distribution pipeline means a pipeline that is classified in accordance with this Law or the Rules as a distribution pipeline and includes any extension to, or expansion of the capacity of, such a pipeline that, by operation of an access arrangement or access determination, is to be treated as part of the pipeline;
-non‑scheme pipeline means a pipeline to which this Chapter applies by operation of section 216C;
-party, in relation to an access dispute, has the meaning given by section 216I;
-prospective user has the meaning given by section 216B;
-scheme administrator means the AER;
-transmission pipeline means a pipeline that is classified in accordance with this Law or the Rules as a transmission pipeline and includes any extension to, or expansion of the capacity of, such a pipeline that, by operation of an access arrangement or access determination, is to be treated as part of the pipeline;
-user means a person who—
-(a) is a party to a contract with a service provider under which the service provider provides or intends to provide a pipeline service to that person by means of a non‑scheme pipeline; or
-(b) has a right under an access determination to be provided with a pipeline service by means of a non‑scheme pipeline.
-216B—Meaning of prospective user
-(1) For the purposes of this Chapter, a prospective user is a person who seeks or wishes to be provided with a pipeline service by means of a non‑scheme pipeline.
-(2) To avoid doubt, a user is also a prospective user for the purposes of this Chapter if the user seeks or wishes to be provided with a pipeline service by means of a non‑scheme pipeline other than a pipeline service already provided to them under—
-(a) a contract; or
-(b) an access determination.
-(3) Subsection (2)(b) does not limit the operation of Part 5.
-216C—Application of Chapter
-(1) Subject to subsection (2), this Chapter applies to and in relation to—
-(a) a transmission pipeline that is not a scheme pipeline; and
-(b) a distribution pipeline that is not a scheme pipeline.
-(2) This Chapter does not apply to or in relation to—
-(a) a pipeline, or part of a pipeline, excluded from the operation of this Chapter by the Rules; or
-(b) a pipeline within a class or group of pipelines excluded from the operation of this Chapter by the Rules; or
-(c) a pipeline service (including in relation to a specific pipeline, or part of a specific pipeline) excluded from the operation of this Chapter by the Rules.
-216D—Application of this Chapter to disputes arising under Rules
-The provisions of this Chapter applicable to the determination of an access dispute apply, subject to such modifications as may be prescribed by the Rules, to the determination of any dispute arising under any provision of the Rules specified in the Rules for the purposes of this section.
-216E—Chapter does not limit how disputes about access may be raised or dealt with
-This Chapter is not to be taken to limit how a dispute about access to a pipeline service may be raised or dealt with.
-Part 2—Negotiation of access
-216F—Access proposals
-The Rules may contain provisions for or with respect to seeking access to a pipeline service provided or to be provided by means of a non‑scheme pipeline (or by part of a non‑scheme pipeline or by an extension to, or expansion of the capacity of, a non‑scheme pipeline).
-216G—Duty to negotiate in good faith
-A prospective user or user seeking access to a pipeline service provided or to be provided by means of a non‑scheme pipeline (or by part of a non‑scheme pipeline or by an extension to, or expansion of the capacity of, a non‑scheme pipeline), and the service provider for the relevant non‑scheme pipeline, must negotiate in good faith with each other about whether access can be granted and, if so, the terms and conditions for the provision of access to the prospective user or user (as the case requires).
-216H—Notification of access dispute
-(1) Subject to this section, if a prospective user or user (as the case requires) and a service provider cannot agree about 1 or more aspects of access to a pipeline service after a request has been made in accordance with the Rules, the prospective user or user, or the service provider, may notify the scheme administrator, in writing, that an access dispute exists.
-(2) A notification must include, in accordance with the Rules, information about—
-(a) the matters (if any) on which agreement has been reached; and
-(b) the matters that are in dispute; and
-(c) any other matter specified by the Rules.
-(3) A notification must be accompanied by the fee set by the Rules (if any).
-(4) A notification cannot be made under this section if the access dispute relates to a matter excluded from arbitration under this Chapter by the Rules.
-216I—Parties to an access dispute
-The parties to an access dispute are—
-(a) the parties to the negotiations that gave rise to the access dispute under section 216H(1); and
-(b) if the scheme administrator is of the opinion that the resolution of the access dispute may involve requiring another person to do something and that it is appropriate that the person be joined as a party—that other person.
-Part 3—Reference of dispute to arbitration
-216J—Reference of dispute
-(1) If the scheme administrator receives notification of an access dispute under Part 2, the dispute must be referred to arbitration.
-(2) The scheme administrator must give notice of the referral of an access dispute to arbitration to the parties to the negotiations that gave rise to the access dispute and, if relevant, to any other person who will be a party to the access dispute.
-216K—Selection of arbitrator
-(1) The parties to an access dispute may agree to appoint, in accordance with the Rules, the arbitrator for the purposes of an access dispute that is to be referred to arbitration under this Part.
-(2) If the parties do not agree to the appointment of an arbitrator within a period specified by the Rules, the arbitrator will be a person selected by the scheme administrator after consultation with the parties to the access dispute.
-(3) The arbitrator must be a person who—
-(a) is independent of the parties to the dispute; and
-(b) is properly qualified to act in the resolution of the dispute; and
-(c) has no direct or indirect interest in the outcome of the dispute.
-(4) If for some reason an arbitrator does not complete an arbitration, the parties may agree, in accordance with the Rules, to make a fresh appointment and, in default of agreement within a period specified by the Rules, the scheme administrator may, after consultation with the parties, make the appointment.
-216L—Determination of access dispute
-(1) Unless an arbitration is terminated under another provision of this Chapter, the arbitrator must make a determination on access by the prospective user or user (as the case requires) (including a determination that does not require a service provider to provide access to any pipeline services).
-(2) A determination may deal with any matter relating to access by the prospective user or user to the pipeline services specified by the Rules for the purposes of this subsection (and the arbitrator must not make a determination that is inconsistent with the Rules or goes beyond the matters specified by the Rules).
-(3) The Rules may also, in connection with the making of an access determination, contain provisions for or with respect to such things as—
-(a) the form of any determination; and
-(b) the content of any determination, including as to the giving of reasons; and
-(c) the time within which a determination must be made; and
-(d) the process for making a determination; and
-(e) when a determination takes effect; and
-(f) the giving of notice of the making of a determination.
-216M—Principles to be taken into account
-The arbitrator must, when making a determination on access, take into account any pricing or other principle specified in the Rules.
-216N—Restrictions on access determinations
-(1) The arbitrator must not make an access determination that would have any of the following effects:
-(a) preventing a user obtaining a sufficient amount of a pipeline service under a contract or previous access determination to be able to meet the user's reasonably anticipated requirements, measured at the time that the access dispute was notified;
-(b) preventing a prospective user or user from obtaining, by the exercise of a pre‑notification right, a sufficient amount of a pipeline service to be able to meet the prospective user's or user's actual requirements;
-(c) depriving a person of a relevant protected contractual right.
-(2) In this section—
-pre-notification right means a right under a contract, or under an access determination, that was in force at the time when the access dispute was notified under section 216H;
-relevant exclusivity right means an express contractual right that—
-(a) prevents a service provider supplying pipeline services to persons who are not parties to the contract; or
-(b) limits or controls a service provider's ability to supply pipeline services to persons who are not parties to the contract,
-but does not include a user's contractual right to obtain a certain amount of pipeline services;
-relevant protected contractual right means a right under a contract (other than a relevant exclusivity right) that was in force immediately before notification of an access dispute under section 216H.
-216O—Arbitrator's power to terminate arbitration
-(1) An arbitrator may determine not to proceed with an arbitration (and terminate the proceedings under this Chapter) if the arbitrator considers that—
-(a) the notification of the dispute was vexatious; or
-(b) the subject matter of the dispute is trivial, misconceived or lacking in substance; or
-(c) the party who notified the access dispute did not negotiate in good faith; or
-(d) there is some other good reason why the arbitration should not proceed.
-(2) Furthermore, the arbitrator may at any time terminate an arbitration without making an access determination if the arbitrator considers that—
-(a) the prospective user or user seeking access is not engaging in the arbitration in good faith; or
-(b) the terms and conditions on which access is to be granted should be governed by an existing contract or determination.
-(3) The arbitrator may also at any time terminate an arbitration if the arbitrator considers that a specified dispute termination circumstance has occurred.
-(4) In subsection (3), a specified dispute termination circumstance is a circumstance specified by the Rules as being a circumstance, the occurrence of which, entitles the arbitrator to terminate an access dispute without any further step being taken.
-216P—Access seeker's right to terminate arbitration
-(1) The prospective user or user seeking access to pipelines services under this Chapter may terminate the arbitration before an access determination is made by the arbitrator.
-(2) The arbitration is terminated under this section by giving notice of termination to—
-(a) the arbitrator; and
-(b) the other parties to the arbitration; and
-(c) the scheme administrator.
-Part 4—Compliance with access determinations
-216Q—Compliance with access determinations
-(1) Subject to the Rules and to subsection (2), an access determination is enforceable as if it were a contract between the parties to the access determination.
-(2) A prospective user or user of a pipeline service to which an access determination relates is not bound to seek access to the service (but if access is sought or obtained then the prospective user or user (as the case requires) is bound by any relevant provision of the access determination).
-Part 5—Variation of access determinations
-216R—Variation of access determinations
-(1) An access determination may be varied by agreement between all parties to the access determination.
-(2) The Rules may also contain provisions with respect to seeking variations to an access determination.
-(3) The provisions of this Chapter about the arbitration of an access dispute apply with necessary modifications to a proposal under the Rules to vary an access determination or to a dispute arising out of such a proposal.
-Part 6—Hearing procedures
-216S—Hearing procedures
-Chapter 6 Part 6 applies to an arbitration under this Chapter—
-(a) as if—
-(i) a reference in that Part to a dispute hearing were a reference to a hearing conducted by an arbitrator for the purposes of making an access determination under this Chapter; and
-(ii) a reference in that Part to a party or parties were a reference to a party or the parties to an arbitration under this Chapter; and
-(iii) a reference in that Part to the dispute resolution body were a reference to an arbitrator under this Chapter; and
-(iv) a reference in that Part to an access dispute were a reference to an access dispute under this Chapter; and
-(b) subject to the exclusion of sections 206 and 207, and subject to any other exclusion prescribed by the Regulations; and
-(c) subject to any modifications prescribed by the Regulations; and
-(d) with such other necessary alterations and modifications.
-Part 7—Miscellaneous matters
-216T—Correction of access determinations for clerical mistakes etc
-The Rules may make provision with respect to correcting the following in an access determination:
-(a) a clerical mistake;
-(b) an error arising from an accidental slip or omission;
-(c) a material miscalculation of figures or a material mistake in the description of any person, thing or matter referred to in an access determination;
 (d) a defect in form.
-216U—Reservation of capacity during an access dispute
-A service provider who is in an access dispute with a user must not, without the consent of the user, alter the rights that the user has to use the capacity of the non‑scheme pipeline during the period of the dispute.
-216V—Costs of arbitration
-(1) Subject to this section, the costs of an arbitration under this Chapter (including costs associated with the arbitration process and the cost of the arbitrator) will be shared equally between the parties to the arbitration.
-(2) The Rules may make provision with respect to the costs of an arbitration under this Chapter, including rules that provide for a different approach to allocating costs under subsection (1) in specified circumstances.
-(3) Costs payable to an arbitrator are a debt due to the arbitrator and may be recovered by the arbitrator in a court of competent jurisdiction.
-(4) Despite anything in a preceding subsection, the parties to an arbitration will bear their own costs.
+(2) Subject to the Rules, the relevant adjudicator for the access dispute the subject of the dispute hearing may correct the determination.
+196—User's existing capacity rights during an access dispute
+A service provider who is in an access dispute with a user must not, without the consent of the user, alter the rights that the user has to use the capacity of the pipeline during the period of the dispute.
 Chapter 7—The Natural Gas Services Bulletin Board
 Part 1—AEMO to be Bulletin Board operator
 217—AEMO to be Bulletin Board operator
@@ -3855,7 +3507,7 @@ Part 2—Proceedings for breaches of this Law, Regulations, the Rules or the Pro
 (1) The Court may make an order, on application by the AER on behalf of the Commonwealth, declaring that a person has breached a provision of this Law, the Regulations, the Rules or the Procedures that is not an offence provision.
 Note—
 A Supreme Court of a participating jurisdiction that is a State may hear an application by the AER under subsection (1) by operation of section 39(2) of the Judiciary Act 1903 of the Commonwealth.
-(2) If the order declares a person has breached a provision of this Law the Regulations, the Rules or the Procedures that is not an offence provision, the order may include 1 or more of the following:
+(2) If the order declares a person has breached a provision of this Law, the Regulations, the Rules or the Procedures that is not an offence provision, the order may include 1 or more of the following:
 (a) an order that the person pay a civil penalty determined in accordance with this Law, the Regulations and the Rules if the breach is a breach of a civil penalty provision;
 (b) an order that the person cease, within a specified period, the act, activity or practice constituting the breach;
 (c) an order that the person take such action, or adopt such practice, as the Court requires for remedying the breach or preventing a recurrence of the breach;
@@ -3932,7 +3584,7 @@ person aggrieved includes a person whose interests are adversely affected.
 (c) conduct engaged in, or proposed to be engaged in, by the AEMC for the purpose of making a decision or determination under this Law, the Regulations or the Rules,
 may apply to the Court for judicial review of the decision or determination, failure or conduct or proposed conduct.
 Note—
-The Commonwealth Minister, NCC and AER are subject to judicial review under the Administrative Decisions (Judicial Review) Act 1977 of the Commonwealth.
+The AER is subject to judicial review under the Administrative Decisions (Judicial Review) Act 1977 of the Commonwealth.
 (2) Unless the Court otherwise orders, the making of an application to the Court under subsection (1) does not affect the operation of the decision or determination referred to in that subsection or prevent the taking of action to implement the decision or determination.
 243—Applications for judicial review of AEMO's decisions
 (1) A person aggrieved by—
@@ -4018,7 +3670,6 @@ Part 6—Enforcement of access determinations
 (b) induced the contravention, whether through threats or promises or otherwise; or
 (c) been in any way (directly or indirectly) knowingly concerned in or a party to the contravention; or
 (d) conspired with others to effect the contravention.
-(5) A reference in this section to an access determination includes a reference to an access determination under Chapter 6A.
 272—Consent injunctions
 On an application for an injunction under section 271, the Court may grant an injunction by consent of all of the parties to the proceedings, whether or not the Court is satisfied that the section applies.
 273—Interim injunctions
@@ -4160,12 +3811,12 @@ Division 2—Rule making tests
 In addition to complying with sections 291 and 293, the AEMC must take into account the form of regulation factors and any other matter the AEMC considers relevant—
 (a) in making a Rule that—
 (i) specifies a pipeline service as a reference service; or
-(ii) confers a function or power on the AER to specify under a full access arrangement decision approving or making an access arrangement a pipeline service (to which the relevant applicable access arrangement applies) as a reference service; or
+(ii) confers a function or power on the AER to specify under an access arrangement decision approving or making an access arrangement a pipeline service (to which the relevant applicable access arrangement applies) as a reference service; or
 (b) in revoking a Rule that has been made or is in force that—
 (i) specifies a pipeline service as a reference service; or
-(ii) confers a function or power on the AER to specify under a full access arrangement decision approving or making an access arrangement a pipeline service (to which the relevant applicable access arrangement applies) as a reference service.
+(ii) confers a function or power on the AER to specify under an access arrangement decision approving or making an access arrangement a pipeline service (to which the relevant applicable access arrangement applies) as a reference service.
 293—AEMC must take into account revenue and pricing principles in certain cases
-In addition to complying with sections 291 and 292, the AEMC must take into account the revenue and pricing principles in making a Rule for or with respect to any matter or thing specified in items 40 to 48 of Schedule 1 to this Law.
+In addition to complying with sections 291 and 292, the AEMC must take into account the revenue and pricing principles in making a Rule for or with respect to any matter or thing specified in items 45 to 53 of Schedule 1 to this Law.
 293A—AEMC must take into account innovative trial principles in certain cases
 In addition to complying with sections 291 to 293, the AEMC must take into account the innovative trial principles in making a trial Rule.
 Part 2—Minister initiated National Gas Rules
@@ -4360,9 +4011,24 @@ Pipelines Access/Arbitration amendments means the amendments made to this Law by
 (8) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
 (9) In this section—
 market transparency amendments means the amendments made to this Law by the National Gas (South Australia) (Market Transparency) Amendment Act 2022.
+294FB—South Australian Minister to make initial Rules relating to pipeline regulation
+(1) The South Australian Minister may make Rules on any 1 or more of the following subjects:
+(a) scheme pipeline determinations, scheme pipeline revocation determinations, scheme pipeline elections, greenfields incentive determinations, greenfields price protection determinations, monitoring of service providers, general requirements for the provision of pipeline services, information disclosure requirements, access negotiations and access disputes;
+(b) the subject matter of a new head of power added to Schedule 1, or an existing head of power amended, by the Gas Pipelines amendments;
+(c) any other subject contemplated by, or consequential on, the Gas Pipelines amendments.
+(2) Rules may only be made under subsection (1) on the recommendation of the MCE.
+(3) Section 74(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(4) As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette stating the date of commencement or, if they commence at different times, various dates of commencement; and
+(b) make the Rules publicly available.
+(5) The South Australian Minister may, by a later notice published in the South Australian Government Gazette, vary a commencement date fixed under subsection (4)(a) or this subsection.
+(6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(7) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
+(8) In this section—
+Gas Pipelines amendments means the amendments made by the Statutes Amendment (National Energy Laws) (Gas Pipelines) Act 2022 and the amendments to the National Gas (South Australia) Regulations by regulations that are expressed to be made in connection with the Statutes Amendment (National Energy Laws) (Gas Pipelines) Act 2022.
 Division 2—Rules made by Minister from time to time
 294G—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
-(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2).
+(1) The South Australian Minister may make Rules recommended by the MCE in accordance with subsection (2).
 (2) The MCE may only recommend the making of Rules under subsection (1) if—
 (a) the Rules are for or with respect to any matter or thing referred to in section 74 and Schedule 1 to this Law; and
 (b) the Energy Security Board has recommended to the MCE that it recommend the making of the Rules under subsection (1).
@@ -4657,29 +4323,12 @@ See also section 71 of this Law and section 24 of the Australian Energy Market C
 320A—Subsequent rule making by AEMC
 Nothing in Part 2 Division 2 is to be taken to affect the power of the AEMC to make Rules (in accordance with this Law and the Regulations) for or with respect to any matter or thing referred to in section 74 and Schedule 1 to this Law (whether before or after Rules have been made under Part 2 Division 2).
 Chapter 10—General
-Part 1—Provisions relating to applicable access arrangements
-321—Protection of certain pre-existing contractual rights
-(1) An applicable access arrangement must not have the effect of depriving a person of a relevant protected contractual right.
-(2) In this section—
-relevant exclusivity right means an express contractual right that arose on or after 30 March 1995 that—
-(a) prevents a service provider supplying pipeline services to persons who are not parties to the contract; or
-(b) limits or controls a service provider's ability to supply pipeline services to persons who are not parties to the contract,
-but does not include a user's contractual right to obtain a certain amount of pipeline services;
-relevant protected contractual right means—
-(a) in the case of an applicable access arrangement approved under an applicable arrangement decision—a right under a contract (other than a relevant exclusivity right) in force immediately before that access arrangement was submitted for approval under this Law;
-(b) in the case of an applicable access arrangement made under an applicable arrangement decision because—
-(i) a full access arrangement was not submitted for approval as required under section 132—a right under a contract (other than a relevant exclusivity right) in force immediately before the date on which an access arrangement was required to be submitted for approval;
-(ii) an access arrangement was not approved under an applicable arrangement decision—a right under a contract (other than a relevant exclusivity right) in force immediately before the date on which that access arrangement was submitted for approval.
-322—Service provider may enter into agreement for access different from applicable access arrangement
-Subject to section 83C and section 135, nothing in this Law is to be taken as preventing a service provider from entering into an agreement with a user or a prospective user about access to a pipeline service provided by means of a scheme pipeline that is different from an applicable access arrangement that applies to that pipeline service.
-323—Applicable access arrangements continue to apply regardless of who provides pipeline service
-An applicable access arrangement applies to a pipeline service provided, or to be provided, by means of a pipeline regardless of who provides that pipeline service.
 Part 2—Handling of confidential information
 Division 1—Disclosure of confidential information held by AER
 324—Authorised disclosure of information given to the AER in confidence
 The AER is authorised to disclose information given to it in confidence in, or in connection with, the performance or exercise of its functions or powers under this Law or the Rules subject to and in accordance with—
 (a) this Division; or
-(b) section 205.
+(b) section184.
 Note—
 See also section 30 of this Law and section 44AAF of the Competition and Consumer Act 2010 of the Commonwealth.
 325—Disclosure with prior written consent is authorised
@@ -4789,35 +4438,16 @@ whichever is the later; or
 (i) an initial disclosure notice has been given under this section; or
 (ii) a further disclosure notice has been given under this section,
 whichever is the later.
-Division 2—Disclosure of confidential information held by relevant Ministers, NCC and AEMC
-330—Definitions
-In this Division—
-relevant decision maker means—
-(a) a relevant Minister;
-(b) the Commonwealth Minister in the case of decisions relating to applications for price regulation exemptions;
-(c) the NCC;
-(d) the AEMC;
-scheme decision means—
-(a) in relation to a relevant Minister or the Commonwealth Minister, a Ministerial coverage decision;
-(b) in relation to the NCC, an NCC recommendation or decision;
-(c) in relation to the AEMC, a report published under Division 4 or Division 5 of Chapter 2 Part 2;
-scheme procedure means—
-(a) in the case of a relevant Minister or the Commonwealth Minister, the procedure to be followed by the relevant Minister or Commonwealth Minister under this Law for the purpose of making a Ministerial coverage decision;
-(b) in the case of the NCC, the procedure to be followed by the NCC under this Law and the Rules for the purpose of making an NCC recommendation or decision;
-(c) in the case of the AEMC, an MCE directed review or a review conducted by the AEMC under section 83.
-331—Confidentiality of information received for scheme procedure purpose and for making of scheme decision
-(1) Information provided to a relevant decision maker for the purposes of a scheme procedure is confidential information for the purposes of that procedure if—
-(a) the person who provides it claims, when providing it to the relevant decision maker, that it is confidential information; and
-(b) the relevant decision maker decides that the information is confidential information.
-(2) However, subject to this section, nothing prevents the disclosure of confidential information by the relevant decision maker (the principal decision maker) in a scheme decision or to another relevant decision maker or the MCE, but the principal decision maker must ensure that the information is identified as such—
-(a) in the scheme decision; or
-(b) when the principal decision maker discloses that information to another relevant decision maker or MCE.
-(3) In the case of where the AEMC publishes a report under Division 4 or Division 5 of Chapter 2 Part 2, nothing prevents the disclosure of confidential information in a report to the MCE or a Minister of a participating jurisdiction, but the AEMC must ensure that the information is identified as such in the report.
-(4) If the AEMC decides that information provided to it for the purposes of a MCE directed review or a review conducted by the AEMC under section 83, is confidential information, the AEMC, the MCE or a Minister of a participating jurisdiction may only publish a version of the report from which the information has been omitted.
-(5) If the NCC decides that information provided to it for the purposes of an NCC recommendation or decision is confidential information, the NCC and the relevant Minister may only publish a version of (as the case requires) an NCC recommendation or decision or Ministerial coverage decision from which the information has been omitted.
-(6) If information is omitted from a published version of a scheme decision as being confidential information, a note to that effect must be included in the decision at the place in the decision from which the information is omitted.
+Division 2—Disclosure of confidential information held by AEMC
+330—Confidentiality of information
+(1) Information provided to the AEMC for the purposes of an MCE directed review or a review conducted by the AEMC under section 83 is confidential information for the purposes of that procedure if—
+(a) the person who provides it claims, when providing it to the AEMC, that it is confidential information; and
+(b) the AEMC decides that the information is confidential information.
+(2) Nothing prevents the disclosure of confidential information by the AEMC in a report published under Division 4 or Division 5 of Chapter 2 Part 2, but the AEMC must ensure that the information is identified as such in the report.
+(3) If the AEMC decides that information provided to it for the purposes of an MCE directed review or a review conducted by the AEMC under section 83 is confidential information, the AEMC, the MCE or a Minister of a participating jurisdiction may only publish a version of the report from which the information has been omitted.
+(4) If information is omitted from a published version of a report as being confidential information, a note to that effect must be included in the decision at the place in the decision from which the information is omitted.
 Note—
-In relation to the AEMC, see section 71 of this Law and section 24 of the Australian Energy Market Commission Establishment Act 2004 of South Australia.
+See also section 71 of this Law and section 24 of the Australian Energy Market Commission Establishment Act 2004 of South Australia.
 Part 3—Miscellaneous
 332—Failure to make a decision under this Law or the Rules within time does not invalidate the decision
 (1) A decision (however described) made under this Law or the Rules by a regulatory scheme decision maker after the expiry of the period of time specified by this Law or Rules for the making of that decision is not to be taken to be an invalid decision only because the decision is not made within the specified period of time.
@@ -4825,32 +4455,23 @@ Part 3—Miscellaneous
 (a) the day it is made; or
 (b) if it specifies a date for operation or effect that is after the day it is made, that specified date.
 (3) In this section—
-regulatory scheme decision maker means—
-(a) a relevant Minister;
-(b) the Commonwealth Minister in the case of decisions relating to price regulation exemptions;
-(c) the NCC;
-(d) the AER;
-(e) the AEMC;
-(f) AEMO.
-333—Withdrawal of applications relating to coverage or reclassification
-(1) A person who has made an application for a Ministerial or NCC scheme decision may withdraw the application at any time before the Ministerial or NCC scheme decision is made.
+regulatory scheme decision maker means any of the following:
+(a) the AER;
+(b) the AEMC;
+(c) AEMO.
+333—Withdrawal of applications relating to particular determinations or classification
+(1) A person who has made an application for a relevant decision may withdraw the application at any time before the decision is made.
 (2) A withdrawal of an application in accordance with this section must be—
 (a) in writing; and
-(b) given to, as the case requires, the relevant Minister, Commonwealth Minister or the NCC.
+(b) given to the AER.
 (3) In this section—
-Ministerial or NCC scheme decision means—
-(a) a decision of a relevant Minister under section 99, 106 or 156; or
-(b) a decision of the Commonwealth Minister under section 164; or
-(c) a reclassification decision; or
-(d) a decision of the NCC relating to the making or revoking of a light regulation determination under Chapter 3 Part 2.
-334—Notification of Ministers of participating jurisdictions of receipt of application
-If the NCC receives an application for a coverage determination, a 15‑year no‑coverage determination, a coverage revocation determination or a reclassification decision, it must, without delay, notify the Ministers of the participating jurisdictions of receipt of the application.
-335—Relevant Minister may request NCC to give information or assistance
-(1) A relevant Minister may request the NCC, in writing, to give to him or her information or assistance that the Minister may require for the purpose of making—
-(a) a coverage determination; or
-(b) a 15‑year no‑coverage determination; or
-(c) a coverage revocation determination.
-(2) The NCC must comply with a request.
+relevant decision means—
+(a) a scheme pipeline determination; or
+(b) a scheme pipeline revocation determination; or
+(c) a greenfields incentive determination; or
+(d) a greenfields price protection determination; or
+(e) a classification decision; or
+(f) a reclassification decision.
 335A—Penalty privilege
 If an individual has a privilege against self‑exposure to a penalty, other than for a criminal offence, the individual is not excused from doing any of the following on that ground:
 (a) providing information under this Law, the Regulations or the Rules;
@@ -4862,240 +4483,227 @@ If in any proceedings under this Law in which a person, other than a body corpor
 336—Savings and transitionals
 Schedule 3 to this Law has effect.
 Schedule 1—Subject matter for the National Gas Rules
-(section 74)
-Classification and coverage of pipelines │
-1 │ The content of applications for coverage determinations, coverage revocation determinations and 15-year no‑coverage determinations. │
-2 │ The content of coverage recommendations, coverage revocation recommendations and no-coverage recommendations. │
-3 │ The content of decisions about coverage determinations, coverage revocation determinations and 15-year no‑coverage determinations. │
-4 │ The classification of pipelines by the NCC— │
-│ (a) after a tender approval decision becomes irrevocable; or │
-│ (b) during the process the approval of a voluntarily submitted access arrangement. │
-5 │ The content of applications for the reclassification of pipelines and reclassification decisions. │
-Price regulation exemptions │
-6 │ The content of applications for price regulation exemptions. │
-7 │ The content of recommendations by the NCC in relation to price regulation exemptions. │
-8 │ The content of decisions about price regulation exemptions. │
-Light regulation determinations │
-9 │ The content of applications for light regulation determinations or the revocation of light regulation determinations. │
-10 │ The content of decisions about light regulation determinations or the revocation of light regulation determinations. │
-11 │ The matters to be addressed by the NCC in making decisions about light regulation determinations or the revocation of light regulation determinations. │
-Tender approvals for the construction of pipelines │
-12 │ Applications for and the approval by the AER of a tender for the construction of a pipeline (by means of which pipeline services are intended to be provided) as a competitive tender process. │
-13 │ The content of tender approval decisions. │
-14 │ The procedure for the making and the publication of a tender approval decision. │
-15 │ Reports on the conduct of tender processes approved under tender approval decisions. │
-16 │ The lapsing or revocation of tender approval decisions. │
+Regulatory determinations and classification of pipelines │
+1 │ Scheme pipeline determinations, scheme pipeline revocation determinations, greenfields incentive determinations and greenfields price protection determinations (regulatory determinations), including— (a) the content of applications for regulatory determinations; and (b) procedures for dealing with applications for regulatory determinations; and (c) information that must be provided by a service provider and the consequences of failing to provide that information; and (d) procedures for making regulatory determinations; and (e) the content of regulatory determinations and decisions not to make regulatory determinations; and (f) publication of regulatory determinations and decisions not to make regulatory determinations. │
+2 │ Scheme pipeline elections, including— (a) the circumstances in which scheme pipeline elections may be made; and (b) the content of scheme pipeline elections. │
+3 │ The classification or reclassification of pipelines, including— (a) the content of applications for classification and reclassification of pipelines; and (b) procedures for dealing with applications for classification and reclassification of pipelines; and (c) procedures for making classification decisions and reclassification decisions; and (d) the content of classification decisions, reclassification decisions and decisions not to make a reclassification decision; and (e) publication of classification decisions, reclassification decisions and decisions not to make a reclassification decision. │
+Access arrangements │
+4 │ The submission to the AER, by service providers, of access arrangements or revisions to applicable access arrangements for approval by the AER, including requiring service providers to— │
+│ (a) submit access arrangements for pipeline services provided by means of scheme pipelines; and │
+│ (b) submit more than 1 access arrangement; and │
+│ (c) to consolidate access arrangements. │
+5 │ The content of access arrangements and applicable access arrangements, including— │
+│ (a) a description of pipeline services provided or that may be provided by means of scheme pipelines, including reference services; and │
+│ (b) the content of expansion and extension requirements; and │
+│ (c) the content of queuing requirements; and │
+│ (d) review submission dates, expiry dates and dates when revisions to access arrangements and applicable access arrangements are to take effect. │
+6 │ Variations to applicable access arrangements. │
+7 │ Information to accompany access arrangements submitted for approval, or proposals for revisions or variations to access arrangements, including information to enable a person to understand the background or basis or derivation of the access arrangement or proposal. │
+8 │ The provision and publication of information referred to in item 7. │
+9 │ Decisions of the AER that approve (with or without revisions or modifications) or do not approve access arrangements or proposals for revisions or variations to access arrangements. │
+10 │ The making of access arrangements by the AER when it does not approve access arrangements. │
+11 │ The contents of decisions of the AER that— │
+│ (a) approve or do not approve access arrangements or proposals for revisions or variations to access arrangements; and │
+│ (b) make access arrangements. │
+12 │ The procedure for the approval or making by the AER of access arrangements, or approval by the AER of proposals for revisions or variations to applicable access arrangements, including the publication and giving of— │
+│ (a) access arrangements and proposals; and │
+│ (b) decisions of the AER; and │
+│ (c) applicable access arrangements; and │
+│ (d) drafts of decisions of access arrangements and proposals and decisions of the AER. │
+13 │ Matters to be addressed by the AER in approving or not approving an access arrangement, or making an access arrangement, or approving or not approving revisions or variations to an applicable access arrangement. │
+General duties for provision of pipeline services │
+14 │ Queuing requirements for non‑scheme pipelines. │
+15 │ Pipeline interconnection principles. │
+16 │ Exemptions from the prohibition in section 136A. │
+17 │ Information that must be published by service providers under section 136C, including— │
+│ (a) the collection, disclosure, verification, management and publication of information in relation to pipeline services, including information about— (i) the terms and conditions on which the service provider is prepared to make a pipeline available for use by others; and (ii) relevant prices, costs and methodologies associated with gaining access to (and using) a pipeline and relevant or related services; and (iii) access contracts and arrangements used (or required to be used) by the service provider; and │
+│ (b) requirements to ensure that information is accurate and complete; and │
+│ (c) the imposition or recovery of costs associated with any matter referred to in a paragraph (a) or (b); and │
+│ (d) exemptions from the requirement to publish information. │
+Ring fencing requirements │
+18 │ The content of a minimum ring fencing requirement. │
+19 │ AER ring fencing determinations and additional ring fencing requirements. │
+20 │ The approval by the AER of associate contracts and variations to associate contracts. │
+21 │ The grounds on which the AER may approve associate contracts and variations to associate contracts, including grounds different from those specified in section 147 or section 148. │
+22 │ Exemptions from minimum ring fencing requirements and associate contract provisions, including applications for exemptions. │
 Access to pipeline services │
-17 │ Access to pipeline services provided or that may be provided by means of a scheme pipeline. │
-18 │ The facilitation of requests for access to pipeline services provided by means of a scheme pipeline. │
-19 │ The transfer of capacity of a pipeline to deliver pipeline services, including— │
+23 │ Access to pipeline services. │
+24 │ The facilitation of requests for access to pipeline services (access requests), including— │
+│ (a) requirements for the publication by service providers of user access guides that describe the processes for making access requests, access offers and access negotiations; and │
+│ (b) exemptions from the requirement to publish a user access guide; and │
+│ (c) requirements about access requests and the information to be provided by the service provider in response to access requests; and │
+│ (d) requirements about access offers; and │
+│ (e) access negotiations between a user or prospective user and a service provider; and │
+│ (f) the imposition or recovery of costs associated with facilitating access (or potential access) to pipeline services. │
+25 │ Requirements to ensure that information published in a user access guide, in response to access requests or during access negotiations, is accurate and complete. │
+26 │ The transfer of capacity of a pipeline to deliver pipeline services, including— │
 │ (a) the circumstances when and how it is to happen; and │
 │ (b) the legal consequences of a transfer of that capacity. │
-20 │ The establishment and maintenance of registers of unutilised capacity of pipelines to deliver pipeline services, including the information to be included in such registers. │
-21 │ The public availability of information on registers referred to in item 20. │
-22 │ The provision of information to users of information about unutilised capacity of pipelines to deliver pipeline services. │
-23 │ The disclosure to the AER of information relating to access to light regulation services. │
-24 │ Reports on negotiations relating to access to light regulation services. │
-25 │ The publication of prices and other terms and conditions of access to light regulation services. │
-26 │ The conditions a service provider may impose for the provision of pipeline services. │
-Access arrangements │
-27 │ The submission to the AER, by service providers, of access arrangements or revisions to applicable access arrangements for approval by the AER including requiring service providers to— │
-│ (a) submit full access arrangements for pipeline services (that are not light regulation services) provided by means of covered pipelines; │
-│ (b) submit limited access arrangements for pipeline services provided by means of international pipelines to which price regulation exemptions apply; │
-│ (c) submit more than 1 access arrangement; │
-│ (d) to consolidate access arrangements. │
-28 │ The content of access arrangements and applicable access arrangements including— │
-│ (a) a description of pipeline services provided or that may be provided by means of scheme pipelines, including reference services; │
-│ (b) the content of expansion and extension requirements; │
-│ (c) the content of queuing requirements; │
-│ (d) review submission dates, expiry dates and dates when revisions to access arrangements and applicable access arrangements are to take effect. │
-29 │ Variations to applicable access arrangements. │
-30 │ Information to accompany access arrangements submitted for approval, or proposals for revisions or variations to access arrangements, including information to enable a person to understand the background or basis or derivation of the access arrangement or proposal. │
-31 │ The provision and publication of information referred to in item 30. │
-32 │ Decisions of the AER that approve (with or without revisions or modifications) or not approve access arrangements or proposals for revisions or variations to access arrangements. │
-33 │ The making of access arrangements by the AER when it does not approve access arrangements. │
-34 │ The contents of decisions of the AER that— │
-│ (a) approve or do not approve access arrangements or proposals for revisions or variations to access arrangements; │
-│ (b) make access arrangements. │
-35 │ The procedure for the approval or making by the AER of access arrangements, or approval by the AER of proposals for revisions or variations to applicable access arrangements, including the publication and giving of— │
-│ (a) access arrangements and proposals; │
-│ (b) decisions of the AER; │
-│ (c) applicable access arrangements; │
-│ (d) drafts of decisions of access arrangements and proposals and decisions of the AER. │
-36 │ Matters to be addressed by the AER in approving or not approving an access arrangement, or making an access arrangement, or approving or not approving revisions or variations to an applicable access arrangement. │
-Sale and supply of gas to customers │
-36A │ Credit support arrangements between service providers and retailers, including the financial obligations of service providers and retailers to support the sale and supply of natural gas to retail customers. │
-36B │ Charges for the connection of premises of retail customers. │
+27 │ The establishment and maintenance of registers of unutilised capacity of pipelines to deliver pipeline services, including the information to be included in such registers. │
+28 │ The public availability of information on registers referred to in item 27. │
+29 │ The provision of information to users of information about unutilised capacity of pipelines to deliver pipeline services. │
+30 │ The conditions a service provider may impose for the provision of pipeline services. │
 Access disputes │
-37 │ The procedure and time limits for the making of access determinations under Chapter 6 or 6A. │
-38 │ The appointment of persons to inquire into and report on the safe operation of pipelines for the purpose of enabling the dispute resolution body to make an access determination under Chapter 6 or an arbitrator to make an access determination under Chapter 6A. │
-39 │ The kinds of access determinations that may be made under Chapter 6 or 6A including determinations— │
-│ (a) requiring prospective users or users to make capital contributions towards a service provider's capital expenditure for the installation or construction of new facilities for the expansion of the capacity of pipelines; │
-│ (b) that enable service providers to charge prospective users or users surcharges to recover capital expenditure for the installation or construction of new facilities for the expansion of the capacity of pipelines. │
+31 │ Access dispute notices, including— │
+│ (a) the content of access dispute notices; and │
+│ (b) procedures for dealing with access dispute notices; and │
+│ (c) withdrawal of access dispute notices. │
+32 │ Parties to an access dispute, including— │
+│ (a) applications to become a party to an access dispute; and │
+│ (b) procedures for dealing with applications to become a party to an access dispute. │
+33 │ Mediation of access disputes involving small shippers, including— │
+│ (a) elections by small shippers to have an access dispute mediated; and │
+│ (b) appointments of mediators; and │
+│ (c) mediation procedures; and │
+│ (d) reports required to be given by mediators to the AER. │
+34 │ Procedures and time limits for the making of access determinations, including a fast track procedure for scheme pipeline access disputes. │
+35 │ The appointment of persons to inquire into and report on the safe operation of pipelines for the purpose of enabling the relevant adjudicator to make an access determination. │
+36 │ Principles to be taken into account by the relevant adjudicator when making an access determination. │
+37 │ Matters an access determination may deal with. │
+38 │ The kinds of access determinations that may be made, including determinations— │
+│ (a) requiring prospective users or users to make capital contributions towards a service provider's capital expenditure for the expansion of the capacity of pipelines; and │
+│ (b) that enable service providers to charge prospective users or users surcharges to recover capital expenditure for the expansion of the capacity of pipelines. │
+39 │ Circumstances in which an access dispute may be terminated. │
+40 │ Procedures for varying an access determination. │
+41 │ Allocation of costs of an arbitration between parties to a non‑scheme pipeline access dispute. │
+42 │ Procedures for correcting errors in an access determination. │
+Sale and supply of gas to customers │
+43 │ Credit support arrangements between service providers and retailers, including the financial obligations of service providers and retailers to support the sale and supply of natural gas to retail customers. │
+44 │ Charges for the connection of premises of retail customers. │
 Regulatory economic methodologies │
-40 │ The regulatory economic methodologies (including the use of the methodology known as the "building block approach") to be applied by— │
-│ (a) the AER in approving or making a full access arrangement; │
-│ (b) the AER in approving revisions or a variation to an applicable access arrangement that is a full access arrangement; │
-│ (c) the dispute resolution body in making an access determination. │
-41 │ If the Rules provide for the regulatory economic methodology known as the "building block approach" to be applied by— │
-│ (a) the AER for the purpose of approving or making a full access arrangement; or │
-│ (b) the AER for the purpose of approving revisions or a variation to an applicable access arrangement that is a full access arrangement; or │
-│ (c) the dispute resolution body for the purpose of making an access determination, the determination by the AER or the dispute resolution body (as the case requires) of allowances for— │
-│ (d) depreciation; │
-│ (e) the operating costs of a service provider; │
+45 │ The regulatory economic methodologies (including the use of the methodology known as the "building block approach") to be applied by— │
+│ (a) the AER in approving or making an access arrangement; or │
+│ (b) the AER in approving revisions or a variation to an applicable access arrangement; or │
+│ (c) the relevant adjudicator in making an access determination. │
+46 │ If the Rules provide for the regulatory economic methodology known as the "building block approach" to be applied by— │
+│ (a) the AER for the purpose of approving or making an access arrangement; or │
+│ (b) the AER for the purpose of approving revisions or a variation to an applicable access arrangement; or │
+│ (c) the relevant adjudicator for the purpose of making an access determination, the determination by the AER or the relevant adjudicator (as the case requires) of allowances for— │
+│ (d) depreciation; or │
+│ (e) the operating costs of a service provider; or │
 │ (f) if the service provider is a corporation, the income tax payable by corporations. │
-42 │ The methodology known as "total factor productivity"— │
-│ (a) as a regulatory economic methodology to be applied by— (i) the AER for the purpose of approving or making a full access arrangement; (ii) the AER for the purpose of approving revisions or a variation to an applicable access arrangement that is a full access arrangement; (iii) the dispute resolution body for the purpose of making an access determination; │
-│ (b) as an economic regulatory tool to inform and assist the AER in applying, or analysing the application of, the regulatory economic methodology known as the "building block approach" by the AER for the purpose of— (i) approving or making a full access arrangement; or (ii) approving revisions or a variation to an applicable access arrangement that is a full access arrangement; │
-│ (c) as an economic regulatory tool to inform and assist the dispute resolution body in applying, or analysing the application of, the regulatory economic methodology known as the "building block approach" by the dispute resolution body for the purpose of making an access determination. │
-43 │ The capital base with respect to a covered pipeline, and of a new facility for the purposes of— │
-│ (a) approving or making a full access arrangement; or │
-│ (b) approving revisions or a variation to an applicable access arrangement that is a full access arrangement; or │
+47 │ The methodology known as "total factor productivity"— │
+│ (a) as a regulatory economic methodology to be applied by— (i) the AER for the purpose of approving or making an access arrangement; or (ii) the AER for the purpose of approving revisions or a variation to an applicable access arrangement; or (iii) the relevant adjudicator for the purpose of making an access determination; and │
+│ (b) as an economic regulatory tool to inform and assist the AER in applying, or analysing the application of, the regulatory economic methodology known as the "building block approach" by the AER for the purpose of— (i) approving or making an access arrangement; or (ii) approving revisions or a variation to an applicable access arrangement; and │
+│ (c) as an economic regulatory tool to inform and assist the relevant adjudicator in applying, or analysing the application of, the regulatory economic methodology known as the "building block approach" by the relevant adjudicator for the purpose of making an access determination in relation to the dispute. │
+48 │ The capital base with respect to a pipeline, and of a new facility for the purposes of— │
+│ (a) approving or making an access arrangement; or │
+│ (b) approving revisions or a variation to an applicable access arrangement; or │
 │ (c) making an access determination. │
-44 │ The assessment, or treatment of, investment in covered pipelines and new facilities by— │
-│ (a) the AER for the purposes of approving or making a full access arrangement; │
-│ (b) the AER for the purposes of approving revisions or a variation to an applicable access arrangement that is a full access arrangement; │
-│ (c) the dispute resolution body for the purposes of making an access determination. │
-45 │ The economic framework and methodologies to be applied by the AER or the dispute resolution body for the purposes of item 44. │
-46 │ Incentives for service providers to make efficient operating and investment decisions including, where applicable, service performance incentive schemes. │
-47 │ The treatment of capital contributions referred to in item 39(a) when determining the capital base with respect to a covered pipeline. │
-48 │ The handling of surcharges referred to in item 39(b). │
-48A │ For the purposes of items 40 to 47 (inclusive)— (a) a reference to the dispute resolution body will be taken to include a reference to an arbitrator under Chapter 6A; and (b) a reference to an access determination will be taken to include a reference to an access determination under Chapter 6A; and (c) a reference to a covered pipeline will be taken to include a reference to a non‑scheme pipeline under Chapter 6A. │
+49 │ The assessment, or treatment of, investment in pipelines and new facilities by— │
+│ (a) the AER for the purposes of approving or making an access arrangement; or │
+│ (b) the AER for the purposes of approving revisions or a variation to an applicable access arrangement; or │
+│ (c) the relevant adjudicator for the purposes of making an access determination in relation to the dispute. │
+50 │ The economic framework and methodologies to be applied by the AER or the relevant adjudicator for the purposes of item 49. │
+51 │ Incentives for service providers to make efficient operating and investment decisions including, where applicable, service performance incentive schemes. │
+52 │ The treatment of capital contributions referred to in item 38(a) when determining the capital base with respect to a pipeline. │
+53 │ The handling of surcharges referred to in item 38(b). │
 AER economic regulatory function or powers │
-49 │ The way in which the AER performs or exercises an AER economic regulatory function or power, including the basis on which the AER makes an AER economic regulatory decision. │
-50 │ Principles to be applied, and procedures to be followed, by the AER in exercising or performing an AER economic regulatory function or power. │
+54 │ The way in which the AER performs or exercises an AER economic regulatory function or power, including the basis on which the AER makes an AER economic regulatory decision. │
+55 │ Principles to be applied, and procedures to be followed, by the AER in exercising or performing an AER economic regulatory function or power. │
 AER gas price reporting functions │
-50A │ The AER gas price reporting functions. │
-Ring fencing requirements │
-51 │ The content of a minimum ring fencing requirement. │
-52 │ AER ring fencing determinations and additional ring fencing requirements. │
-53 │ Exemptions from a minimum ring fencing requirement. │
-Associate contracts │
-54 │ The approval by the AER of associate contracts and variations to associate contracts. │
-55 │ The grounds on which the AER may approve associate contracts and variations to associate contracts, including grounds different from those specified in section 147 or section 148. │
-AEMO │
-55A │ A registration scheme to be administered by AEMO for Registered participants in relation to a regulated gas market; the prudential and other requirements to be met by a Registered participant; exemption from registration; the suspension from registration or deregistration of a Registered participant; the exclusion of a Registered participant from a regulated gas market operated or administered by AEMO. │
-55B │ The operation and administration of a regulated gas market. │
-55C │ The declared system functions or STTM functions. │
-55D │ AEMO's functions, powers and duties, and the duties and obligations of Registered participants, exempted participants and others, in regard to the operation of a declared transmission system or a regulated gas market. │
-55E │ The setting of prices (including maximum and minimum prices) for natural gas and services purchased through the declared wholesale gas market or short term trading market operated and administered by AEMO. │
-55F │ The regulation of a declared LNG storage provider and liquefied natural gas stored by the provider. │
-55G │ The metering of natural gas to record the production or consumption of natural gas. │
-55H │ The registration of metering installations used to meter natural gas. │
-55I │ The regulation of persons providing metering services relating to the metering of natural gas. │
-55J │ The matters to be dealt with in the gas statement of opportunities and the obligations of AEMO and other persons in regard to its preparation, review, revision and publication. │
-55JA │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the gas statement of opportunities. │
-55JB │ In relation to the gas statement of opportunities— (a) the kinds of information that may or must be given to AEMO for the gas statement of opportunities, including— (i) historic, current and forecast information; and (ii) information that may be derived from other information in the possession or control of the person required to provide the information; and (b) who must give AEMO the information; and (c) the circumstances in which the information may or must be given; and (d) the procedure for giving the information. │
-55K │ Fees payable to AEMO for services provided, or statutory functions performed, under this Law, the Rules or the Procedures. │
-55L │ The payment of money (including the payment of interest and the provision of related security)— │
+56 │ The AER gas price reporting functions. │
+AEMO │ │
+57 │ A registration scheme to be administered by AEMO for Registered participants in relation to a regulated gas market; the prudential and other requirements to be met by a Registered participant; exemption from registration; the suspension from registration or deregistration of a Registered participant; the exclusion of a Registered participant from a regulated gas market operated or administered by AEMO. │
+58 │ The operation and administration of a regulated gas market. │
+59 │ The declared system functions or STTM functions. │
+60 │ AEMO's functions, powers and duties, and the duties and obligations of Registered participants, exempted participants and others, in regard to the operation of a declared transmission system or a regulated gas market. │
+61 │ The setting of prices (including maximum and minimum prices) for natural gas and services purchased through the declared wholesale gas market or short term trading market operated and administered by AEMO. │
+62 │ The regulation of a declared LNG storage provider and liquefied natural gas stored by the provider. │
+63 │ The metering of natural gas to record the production or consumption of natural gas. │
+64 │ The registration of metering installations used to meter natural gas. │
+65 │ The regulation of persons providing metering services relating to the metering of natural gas. │
+66 │ The matters to be dealt with in the gas statement of opportunities and the obligations of AEMO and other persons in regard to its preparation, review, revision and publication. │
+67 │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the gas statement of opportunities. │
+68 │ In relation to the gas statement of opportunities— │
+│ (a) the kinds of information that may or must be given to AEMO for the gas statement of opportunities, including— (i) historic, current and forecast information; and (ii) information that may be derived from other information in the possession or control of the person required to provide the information; and │
+│ (b) who must give AEMO the information; and │
+│ (c) the circumstances in which the information may or must be given; and │
+│ (d) the procedure for giving the information. │
+69 │ Fees payable to AEMO for services provided, or statutory functions performed, under this Law, the Rules or the Procedures. │
+70 │ The payment of money (including the payment of interest and the provision of related security)— │
 │ (a) for the settlement of transactions for natural gas or services purchased or supplied through a regulated gas market operated and administered by AEMO; or │
 │ (b) to or from a Rule fund; or │
 │ (c) for any service provided, or statutory function performed, for which the Rules require payment. │
-55M │ Rules for determining the ownership of, and the transfer of title to, natural gas supplied at an STTM hub and for resolving disputes about ownership. │
-55N │ The terms and conditions on which service providers, or classes of service providers, may recover costs for allocating quantities of natural gas relating to market operator services. │
-55O │ The operation and administration of a gas trading exchange. │
-55P │ The content, operation and administration of a gas trading exchange agreement. │
-55Q │ The duties and obligations of members of a gas trading exchange. │
-55R │ Other rules relating to the conduct (including suspension) of the members of a gas trading exchange. │
-55S │ The determination and settlement of payments in relation to a gas trading exchange. │
+71 │ Rules for determining the ownership of, and the transfer of title to, natural gas supplied at an STTM hub and for resolving disputes about ownership. │
+72 │ The terms and conditions on which service providers, or classes of service providers, may recover costs for allocating quantities of natural gas relating to market operator services. │
+73 │ The operation and administration of a gas trading exchange. │
+74 │ The content, operation and administration of a gas trading exchange agreement. │
+75 │ The duties and obligations of members of a gas trading exchange. │
+76 │ Other rules relating to the conduct (including suspension) of the members of a gas trading exchange. │
+77 │ The determination and settlement of payments in relation to a gas trading exchange. │
 Natural Gas Services Bulletin Board │
-56 │ The establishment and maintenance of a website that contains information in relation to the natural gas industry. │
-57 │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the Natural Gas Services Bulletin Board. │
-58 │ The kinds of information that may or must be given to AEMO, who must give AEMO the information, the circumstances in which the information may or must be given, and the procedure for giving the information. │
-59 │ The kinds of information that may or must be included on the Natural Gas Services Bulletin Board and the manner in which information is to be dealt with before being put on the Natural Gas Services Bulletin Board, including, but not limited to, the removal of information that would identify the person who gave the information. │
-60 │ Persons, or classes of persons, to whom the requirement to give information does not apply and the circumstances in which the requirement does not apply, including, but not limited to, the grant of power to AEMO to exempt persons, or classes of persons, from that requirement. │
-61 │ The circumstances in which the requirement to give information may start to apply again to the persons, or classes of persons, mentioned in item 60. │
-62 │ Persons, or classes of persons, who may access the Natural Gas Services Bulletin Board and the class, or classes, of information to which they may have access. │
-63 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 62 may access the Natural Gas Services Bulletin Board. │
-64 │ The procedure for dealing with information that was, but is no longer, on the Natural Gas Services Bulletin Board. │
-65 │ Persons, or classes of persons, who may have access to information that was, but is no longer on the Natural Gas Services Bulletin Board and the class, or classes, of information to which they may have access. │
-66 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 65 may have access to information that was, but is no longer on the Natural Gas Services Bulletin Board. │
-67 │ The terms and conditions on which service providers, or classes of service providers, may recover amounts from AEMO for aggregating Bulletin Board information for the Bulletin Board operator. │
-68 │ Matters mentioned in items 56 to 67, in so far as they relate to emergency situations. │
+78 │ The establishment and maintenance of a website that contains information in relation to the natural gas industry. │
+79 │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the Natural Gas Services Bulletin Board. │
+80 │ The kinds of information that may or must be given to AEMO, who must give AEMO the information, the circumstances in which the information may or must be given, and the procedure for giving the information. │
+81 │ The kinds of information that may or must be included on the Natural Gas Services Bulletin Board and the manner in which information is to be dealt with before being put on the Natural Gas Services Bulletin Board, including, but not limited to, the removal of information that would identify the person who gave the information. │
+82 │ Persons, or classes of persons, to whom the requirement to give information does not apply and the circumstances in which the requirement does not apply, including, but not limited to, the grant of power to AEMO to exempt persons, or classes of persons, from that requirement. │
+83 │ The circumstances in which the requirement to give information may start to apply again to the persons, or classes of persons, mentioned in item 82. │
+84 │ Persons, or classes of persons, who may access the Natural Gas Services Bulletin Board and the class, or classes, of information to which they may have access. │
+85 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 84 may access the Natural Gas Services Bulletin Board. │
+86 │ The procedure for dealing with information that was, but is no longer, on the Natural Gas Services Bulletin Board. │
+87 │ Persons, or classes of persons, who may have access to information that was, but is no longer on the Natural Gas Services Bulletin Board and the class, or classes, of information to which they may have access. │
+88 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 87 may have access to information that was, but is no longer on the Natural Gas Services Bulletin Board. │
+89 │ The terms and conditions on which service providers, or classes of service providers, may recover amounts from AEMO for aggregating Bulletin Board information for the Bulletin Board operator. │
+90 │ Matters mentioned in items 78 to 89, in so far as they relate to emergency situations. │
 Facilitating capacity trades and the capacity auction │
-68A │ The making of, and amendment to, an Operational Transportation Service Code, including— │
+91 │ The making of, and amendment to, an Operational Transportation Service Code, including— │
 │ (a) the establishment, membership and operation of a representative panel for the Code; and │
 │ (b) the functions of AEMO in relation to the panel; and │
 │ (c) the functions of the panel in connection with proposals for amendment of the Code. │
-68B │ The content of an Operational Transportation Service Code. │
-68C │ Requirements for a standard OTSA and the services provided under a standard OTSA. │
-68D │ Publication of a standard OTSA, entry into a standard OTSA and amendment of a standard OTSA. │
-68E │ Requirements for transportation service providers to give effect to operational transfers. │
-68F │ The determination of payments to transportation service providers for use of an operational transportation service after termination or suspension of the contract from which the transportation capacity was first derived. │
-68G │ A registration scheme to be administered by AEMO for registration of transportation service providers and transportation facilities. │
-68H │ The provision of information to AEMO about the points at or between which transportation services are provided and the publication of that information by AEMO. │
-68I │ The allocation of service points to zones and the transfer of transportation capacity between service points. │
-68J │ The recording of information about nominations and renominations for the use of transportation services and the scheduling and curtailment of transportation services and the provision of that information to AEMO or the AER. │
-68K │ The recovery of the costs of transportation service providers in connection with the provision of a standard OTSA, a capacity auction and the transaction support arrangements and the publication of schedules of charges. │
-68L │ The negotiation or determination of provisions in agreements with transportation facility users to facilitate sale by operational transfer and the transfer of capacity between service points. │
-68M │ Exemptions in connection with a standard OTSA or capacity auction. │
+92 │ The content of an Operational Transportation Service Code. │
+93 │ Requirements for a standard OTSA and the services provided under a standard OTSA. │
+94 │ Publication of a standard OTSA, entry into a standard OTSA and amendment of a standard OTSA. │
+95 │ Requirements for transportation service providers to give effect to operational transfers. │
+96 │ The determination of payments to transportation service providers for use of an operational transportation service after termination or suspension of the contract from which the transportation capacity was first derived. │
+97 │ A registration scheme to be administered by AEMO for registration of transportation service providers and transportation facilities. │
+98 │ The provision of information to AEMO about the points at or between which transportation services are provided and the publication of that information by AEMO. │
+99 │ The allocation of service points to zones and the transfer of transportation capacity between service points. │
+100 │ The recording of information about nominations and renominations for the use of transportation services and the scheduling and curtailment of transportation services and the provision of that information to AEMO or the AER. │
+101 │ The recovery of the costs of transportation service providers in connection with the provision of a standard OTSA, a capacity auction and the transaction support arrangements and the publication of schedules of charges. │
+102 │ The negotiation or determination of provisions in agreements with transportation facility users to facilitate sale by operational transfer and the transfer of capacity between service points. │
+103 │ Exemptions in connection with a standard OTSA or capacity auction. │
 Capacity auctions │
-68N │ The capacity auction functions and the operation and administration of a capacity auction. │
-68O │ The transportation services to be available through a capacity auction and the determination of the quantities of transportation capacity to be offered in the capacity auction. │
-68P │ The form of a capacity auction and the rules relating to the conduct (including suspension) of a capacity auction. │
-68Q │ The duties and obligations of transportation service providers in relation to a capacity auction, including the provision of information and the maintenance of records in relation to the nomination, scheduling and supply of transportation services. │
-68R │ The content, operation and administration of capacity auction agreements. │
-68S │ The duties and obligations of capacity auction participants. │
-68T │ The activities of transportation service providers and transportation facility users in connection with a capacity auction. │
-68U │ The determination and settlement of payments in relation to a capacity auction. │
-68V │ The order of priority to be given to transportation services using transportation capacity bought in a capacity auction, including in the scheduling, supply or curtailment of transportation services. │
-68W │ The classification of transportation services as priority services in connection with a capacity auction. │
-68X │ The functions of the AER in relation to transportation services classified as priority services in connection with a capacity auction and variations to those services. │
+104 │ The capacity auction functions and the operation and administration of a capacity auction. │
+105 │ The transportation services to be available through a capacity auction and the determination of the quantities of transportation capacity to be offered in the capacity auction. │
+106 │ The form of a capacity auction and the rules relating to the conduct (including suspension) of a capacity auction. │
+107 │ The duties and obligations of transportation service providers in relation to a capacity auction, including the provision of information and the maintenance of records in relation to the nomination, scheduling and supply of transportation services. │
+108 │ The content, operation and administration of capacity auction agreements. │
+109 │ The duties and obligations of capacity auction participants. │
+110 │ The activities of transportation service providers and transportation facility users in connection with a capacity auction. │
+111 │ The determination and settlement of payments in relation to a capacity auction. │
+112 │ The order of priority to be given to transportation services using transportation capacity bought in a capacity auction, including in the scheduling, supply or curtailment of transportation services. │
+113 │ The classification of transportation services as priority services in connection with a capacity auction. │
+114 │ The functions of the AER in relation to transportation services classified as priority services in connection with a capacity auction and variations to those services. │
 Standard market timetable │
-68Y │ Provision for or with respect to a standard market timetable, including requirements concerning use of a standard market timetable and the measurement of gas flows over periods corresponding to the standard gas day. │
-68Z │ Provision for or with respect to the negotiation or determination of amendments to contracts for transition to the use of a standard market timetable. │
+115 │ Provision for or with respect to a standard market timetable, including requirements concerning use of a standard market timetable and the measurement of gas flows over periods corresponding to the standard gas day. │
+116 │ Provision for or with respect to the negotiation or determination of amendments to contracts for transition to the use of a standard market timetable. │
 Miscellaneous │
-69 │ Specification of pipeline services as reference services. │
-70 │ The preparation (including public consultation) and publication by the AER of discussion papers relating to the AER's functions and powers under this Law and the Rules. │
-71 │ Reviews by or on behalf of— │
+117 │ Specification of pipeline services as reference services. │
+118 │ The preparation (including public consultation) and publication by the AER of discussion papers relating to the AER's functions and powers under this Law and the Rules. │
+119 │ Reviews by or on behalf of— │
 │ (a) the AER or the AEMC; or │
 │ (b) any other person appointed, in accordance with the Rules. │
-72 │ Reporting and disclosing information to the AER. │
-73 │ Procedure to be followed by the NCC or a relevant Minister in dealing with an application for— │
-│ (a) a coverage determination; │
-│ (b) a coverage revocation determination; │
-│ (c) a 15-year no-coverage determination; │
-│ (d) a price regulation exemption; │
-│ (e) a reclassification decision; │
-│ (f) a light regulation determination; │
-│ (g) a determination to revoke a light regulation determination. │
-74 │ The publication and the giving of NCC recommendations or decisions or Ministerial coverage decisions. │
-75 │ The establishment and maintenance of a register by the AEMC of all previous and current— │
-│ (a) coverage determinations; and │
-│ (b) coverage revocation determinations; and │
-│ (c) greenfields pipeline incentives; and │
-│ (d) decisions under section 99 not to make a coverage determination; and │
-│ (e) decisions under section 106 not to make a coverage revocation determination; and │
-│ (f) decisions under section 156 not to make a 15-year no-coverage determination; and │
-│ (g) decisions under section 1.13 of the Gas Code that a pipeline is not covered under the old access law and Gas Code; and │
-│ (h) decisions under section 1.34 of the Gas Code that coverage of a covered pipeline under the old access law and Gas Code is not revoked; and │
-│ (i) tender approval decisions; and │
-│ (j) light regulation determinations; and │
-│ (k) decisions revoking light regulation determinations; and │
-│ (l) covered pipelines, including their description and classification as transmission pipelines or distribution pipelines; and │
-│ (m) covered pipelines by means of which light regulation services are or intended to be provided; and │
-│ (n) international pipelines; and │
-│ (o) applicable access arrangements. │
-76 │ The inclusion on the register referred to in item 75 of descriptions of— │
-│ (a) all old scheme transmission pipelines and old scheme distribution pipelines; and │
-│ (b) all old scheme classifications or determinations. │
-77 │ Time periods within which— │
-│ (a) the NCC must make an NCC recommendation or decision; │
-│ (b) the AER must make a decision (including an AER economic regulatory decision). │
-78 │ Extensions to periods of time referred to in item 77. │
-79 │ Reports into failures to make decisions within a specified period of time and the publication of such reports. │
-80 │ Confidential information held by service providers, users, prospective users, end users, the AER, the AEMC, the NCC, AEMO and other persons or bodies conferred a function, or exercising a power or right, or on whom an obligation is imposed, under the Rules, and the manner and circumstances in which that information may be disclosed. │
-80A │ Dispute resolution, including— │
+120 │ Reporting and disclosing information to the AER. │
+121 │ The establishment and maintenance of a register by the AEMC of the following: │
+│ (a) all previous and current determinations and decisions made in relation to a pipeline under Chapter 3; and │
+│ (b) all previous and current exemptions from publishing prescribed transparency information under section 136C; and │
+│ (c) all previous and current determinations and decisions made in relation to a pipeline under Chapters 3 and 5 as in force from time to time before the commencement of Part 19 of Schedule 3. │
+122 │ Time periods within which the AER must make a decision (including an AER economic regulatory decision). │
+123 │ Extensions to periods of time referred to in item 122. │
+124 │ Reports into failures to make decisions within a specified period of time and the publication of such reports. │
+125 │ Confidential information held by service providers, users, prospective users, end users, the AER, the AEMC, AEMO and other persons or bodies conferred a function, or exercising a power or right, or on whom an obligation is imposed, under the Rules, and the manner and circumstances in which that information may be disclosed. │
+126 │ Dispute resolution, including— │
 │ (a) definition of the class of disputes subject to the dispute resolution provisions of the Rules; and │
 │ (b) the appointment of persons to arbitrate, mediate or assist in some other way in the resolution of such disputes; and │
 │ (c) the appointment of a person to manage and facilitate the dispute resolution process (without however derogating from that person's power to act personally as an arbitrator or mediator in a particular dispute); and │
 │ (d) the dispute resolution process; and │
 │ (e) rights of appeal on questions of law against decisions made in the course of the dispute resolution process. │
-80B │ Energy Consumers Australia (including provisions for its funding). │
-81 │ The modification of section 3, 8 or 10.8 of the Gas Code as those sections apply to a transitioned access arrangement (as defined in clause 1 of Schedule 3 to this Law). Note— See also clause 30 of Schedule 3 to this Law. │
-82 │ Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the Gas Code as in operation and effect immediately before the commencement of section 20 of the National Gas (South Australia) Act 2008 of South Australia. │
-82A │ Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the superseded jurisdictional rules. │
-83 │ Any matter or thing relating to gas prescribed by the Regulations. │
+127 │ Energy Consumers Australia (including provisions for its funding). │
+128 │ The modification of section 3, 8 or 10.8 of the Gas Code as those sections apply to a transitioned access arrangement (as defined in clause 1 of Schedule 3 to this Law). Note— See also clause 30 of Schedule 3 to this Law. │
+129 │ Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the Gas Code as in operation and effect immediately before the commencement of section 20 of the National Gas (South Australia) Act 2008 of South Australia. │
+130 │ Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the superseded jurisdictional rules. │
+131 │ Any matter or thing relating to gas prescribed by the Regulations. │
 Schedule 2—Miscellaneous provisions relating to interpretation
 (section 20)
 Part 1—Preliminary
@@ -5108,7 +4716,7 @@ Part 2—General
 (2) If a provision of this Law, or the application of a provision of this Law to a person, subject matter or circumstance, would, but for this clause, be construed as being in excess of the legislative power of the Legislature of this jurisdiction—
 (a) it is a valid provision to the extent to which it is not in excess of the power; and
 (b) the remainder of this Law, and the application of the provision to other persons, subject matters or circumstances, is not affected.
-(3) Without limiting subclause (2), this Law is not to be construed as imposing any duty on the Commonwealth Minister, the NCC, the Australian Competition Tribunal or AER to perform a function or exercise a power if the imposition of the duty would be in excess of the legislative power of the Legislature of this jurisdiction.
+(3) Without limiting subclause (2), this Law is not to be construed as imposing any duty on the Australian Competition Tribunal or AER to perform a function or exercise a power if the imposition of the duty would be in excess of the legislative power of the Legislature of this jurisdiction.
 Note—
 The term function is defined in clause 10 to include "duty".
 (4) In particular, if a provision of this Law appears to impose a duty on a Commonwealth officer or body to perform a function or exercise a power, the duty is taken to be imposed by the provision to the extent to which imposing the duty—
@@ -5170,7 +4778,7 @@ Rule extrinsic material means—
 (c) any document (however described)—
 (i) relied on by the AEMC in making a draft Rule determination or final Rule determination; or
 (ii) adopted by the AEMC in making a draft Rule determination or final Rule determination.
-(2) Subject to subclause (3), in the interpretation of a provision of this Law, consideration may be given to Law extrinsic material capable of assisting in the interpretation—
+(2) Subject to subclause (4), in the interpretation of a provision of this Law, consideration may be given to Law extrinsic material capable of assisting in the interpretation—
 (a) if the provision is ambiguous or obscure, to provide an interpretation of it; or
 (b) if the ordinary meaning of the provision leads to a result that is manifestly absurd or is unreasonable, to provide an interpretation that avoids such a result; or
 (c) in any other case, to confirm the interpretation conveyed by the ordinary meaning of the provision.
@@ -5481,7 +5089,7 @@ Part 7—Evidentiary matters
 Division 1—Publication on websites
 31—Definitions
 In this Division—
-decision maker means a relevant Minister, the NCC, the AER, the AEMC or AEMO;
+decision maker means the AER, the AEMC or AEMO;
 relevant decision or document means—
 (a) a decision (however described) or determination (however described) of a decision maker under this Law or the Rules; or
 (b) an access arrangement to which a decision of the AER under the Law or Rules relates;
@@ -5498,7 +5106,6 @@ acting SES employee has the same meaning as in section 17AA of the Acts Interpre
 AEMC chief executive means the chief executive of the AEMC appointed under section 16 of the Australian Energy Market Commission Establishment Act 2004 of South Australia;
 AEMC Commissioner means a Commissioner within the meaning of the Australian Energy Market Commission Establishment Act 2004 of South Australia;
 AER member has the same meaning as in the Competition and Consumer Act 2010 of the Commonwealth;
-NCC member means a Councillor within the meaning of the Competition and Consumer Act 2010 of the Commonwealth;
 relevant notice has the same meaning as in clause 31;
 SES employee has the same meaning as in section 17AA of the Acts Interpretation Act 1901 of the Commonwealth.
 34—Evidentiary certificates—AER
@@ -5519,8 +5126,7 @@ In any proceedings under this Law, a certificate signed or purported to be signe
 (d) on a stated day any of the following were published on the AER's website:
 (i) a decision (however described) or determination (however described);
 (ii) a general regulatory information order;
-(iii) a full access arrangement or revisions to an applicable access arrangement submitted for approval under section 132;
-(iv) a limited access arrangement or revisions to an applicable access arrangement submitted for approval under section 116 or 168;
+(iii) an access arrangement or revisions to an applicable access arrangement submitted for approval under section 113;
 (v) a relevant notice.
 35—Evidentiary certificates—AEMC
 In any proceedings under this Law, a certificate signed or purported to be signed by a Commissioner or the AEMC chief executive, stating any of the following matters is evidence of the matter:
@@ -5528,21 +5134,6 @@ In any proceedings under this Law, a certificate signed or purported to be signe
 (b) a stated document is a copy of a thing referred to in paragraph (a);
 (c) on a stated day, a person was or was not given a decision (however described);
 (d) on a stated day a relevant notice was published on the AEMC's website.
-36—Evidentiary certificates—NCC
-In any proceedings under this Law, a certificate signed or purported to be signed by an NCC member, or an SES employee or acting SES employee who is an employee assisting the NCC as mentioned in section 29M of the Competition and Consumer Act 2010 of the Commonwealth, stating any of the following matters is evidence of the matter:
-(a) a stated document is—
-(i) an NCC recommendation or decision;
-(ii) a decision of the NCC not to make a coverage determination because of section 96;
-(b) on a stated day, a person was or was not given a reclassification decision;
-(c) on a stated day any 1 of the following was, in accordance with the Rules, published on the NCC's website:
-(i) a Ministerial coverage decision;
-(ii) an NCC recommendation or decision;
-(iii) a decision of the NCC not to make a coverage determination because of section 96;
-(iv) a relevant notice.
-37—Evidentiary certificates—relevant Minister and Commonwealth Minister
-In any proceedings under this Law, a certificate signed or purported to be signed by a relevant Minister or the Commonwealth Minister stating any of the following matters is evidence of the matter:
-(a) a stated document is a Ministerial coverage decision; or
-(b) on a stated day a person or the NCC was or was not given a Ministerial coverage decision.
 38—Evidentiary certificates—AEMO
 (1) In any proceedings under this Law, any of the following certificates signed or purportedly signed by an authorised officer is evidence of the matter certified:
 (a) a certificate certifying that a document identified in the certificate is a decision (however described) or a determination (however described) made by AEMO or a copy of such a decision or determination;
@@ -5683,7 +5274,7 @@ the provision of the National Gas Rules is taken instead to confer on the Common
 (4) However, the AER must deal with any affected access arrangement decision to apply the new rate of return instrument to the decision as if the new instrument had applied from the start of the decision.
 (5) Subclause (4) applies despite section 30Q(1).
 (6) In this clause—
-affected access arrangement decision means a full access arrangement decision to which the invalid instrument applied or continued to apply;
+affected access arrangement decision means an access arrangement decision to which the invalid instrument applied or continued to apply;
 deal with, an affected access arrangement decision, means to do either of the following the AER considers appropriate in the circumstances—
 (a) revoke the decision and substitute a new decision;
 (b) vary the decision.
@@ -5727,6 +5318,10 @@ transitioned access arrangement means—
 (c) a current access arrangement incorporating revisions approved, or approved and made, in accordance with clause 29.
 Note—
 The Regulations or the Rules may also contain provisions of an application, savings or transitional nature.
+1A—Words in particular provisions have meanings given by former section 2
+(1) Words defined under former section 2 and used in Parts 2 to 18 of this Schedule have, unless the context otherwise requires, the same meanings as they had under former section 2.
+(2) In this section—
+former section 2 means section 2 of the Law as in force immediately before the commencement of Part 19.
 2—Schedule subject to jurisdictional transitional arrangements in jurisdictional legislation
 (1) This Schedule, and any Regulations or Rules of a savings and transitional nature, apply in this jurisdiction except to the extent provided by or under an Act of this jurisdiction (including an Act that applies this Law and the Regulations as a law of this jurisdiction).
 (2) In this clause—
@@ -6405,3 +6000,189 @@ agreement includes the Australian Energy Market Agreement or any other intergove
 The substitution of the definition of the MCE by section 33 of the Amendment Act does not affect the validity of—
 (a) any decision or direction made by the MCE before the commencement day; or
 (b) any appointment in accordance with a recommendation or nomination of the MCE made before the commencement day.
+Part 19—Transitional provisions related to pipeline regulation amendments
+Division 1—Preliminary
+104—Definitions
+In this Part—
+15-year no-coverage determination means a 15-year no-coverage determination within the meaning of section 2 of the pre-amended Law;
+commencement day means the day on which this Part comes into operation;
+covered pipeline means a covered pipeline within the meaning of section 2 of the pre-amended Law;
+limited access arrangement means a limited access arrangement within the meaning of section 2 of the pre-amended Law;
+pre-amended Law means this Law as in force immediately before the commencement day;
+price regulation exemption means a price regulation exemption within the meaning of section 2 of the pre-amended Law;
+relevant entity means—
+(a) a relevant Minister within the meaning of section 2 of the pre-amended Law; or
+(b) the NCC within the meaning of section 2 of the pre-amended Law;
+tender approval decision means a tender approval decision within the meaning of section 2 of the pre-amended Law;
+tender approval pipeline means a pipeline to which a tender approval decision relates under section 126 of the pre-amended Law;
+voluntary access arrangement pipeline means a pipeline in relation to which a full access arrangement was voluntarily submitted under section 127 of the pre-amended Law.
+Division 2—Regulation and classification of pipelines
+Subdivision 1—Covered pipelines generally
+105—Particular covered pipelines deemed to be scheme pipelines
+(1) This clause applies in relation to a pipeline that, immediately before the commencement day, was a covered pipeline, other than a light regulation pipeline.
+Note—
+A covered pipeline includes a pipeline deemed to be a covered pipeline by operation of section 126 or 127 of the pre-amended Law.
+(2) On the commencement day—
+(a) the covered pipeline is deemed to be a scheme pipeline; and
+(b) a scheme pipeline determination is deemed to have been made in relation to the pipeline.
+(3) In this section—
+light regulation pipeline means a covered pipeline by means of which light regulation services, within the meaning of section 2 of the pre-amended Law, are supplied under a light regulation determination, within the meaning of section 2 of the pre-amended Law.
+Subdivision 2—Provisions for tender approval pipelines
+106—Particular tender approval pipelines become scheme pipelines
+(1) This clause applies in relation to a tender approval pipeline if the tender approval decision for the pipeline has not become irrevocable before the commencement day.
+(2) On the tender approval decision becoming irrevocable—
+(a) the pipeline becomes a scheme pipeline; and
+(b) a scheme pipeline determination is deemed to have been made in relation to the pipeline.
+107—When particular scheme pipelines become non‑scheme pipelines
+(1) This clause applies in relation to a pipeline that, before the commencement day, was a tender approval pipeline and—
+(a) is deemed to be a scheme pipeline under clause 105; or
+(b) becomes a scheme pipeline under clause 106.
+(2) On the earlier of the following events happening, the pipeline becomes a non‑scheme pipeline—
+(a) if there is an applicable access arrangement that applies to the pipeline services provided by means of that pipeline—when that arrangement expires;
+(b) when a scheme pipeline revocation determination made in relation to that pipeline takes effect.
+Subdivision 3—Provisions for voluntary access arrangement pipelines
+108—Particular voluntary access arrangement pipelines become scheme pipelines
+(1) This clause applies in relation to a voluntary access arrangement pipeline if the full access arrangement voluntarily submitted to the AER has not been approved before the commencement day.
+(2) On the day the full access arrangement takes effect as an applicable access arrangement—
+(a) the pipeline becomes a scheme pipeline; and
+(b) a scheme pipeline determination is deemed to have been made in relation to the pipeline.
+109—When particular scheme pipelines become non‑scheme pipelines
+(1) This clause applies to a pipeline that, before the commencement day, was a voluntary access arrangement pipeline and—
+(a) is deemed to be a scheme pipeline under clause 105; or
+(b) becomes a scheme pipeline under clause 108.
+(2) On the earlier of the following events happening, the pipeline becomes a non‑scheme pipeline—
+(a) if there is an applicable access arrangement that applies to the pipeline services provided by means of that pipeline—when that arrangement expires;
+(b) when a scheme pipeline revocation determination takes effect in relation to the pipeline.
+Subdivision 4—Classification of pipelines
+110—Classification under pre-amended Law continues in effect
+(1) On the commencement day—
+(a) a pipeline that, immediately before the commencement day, is a distribution pipeline within the meaning of section 2 of the pre-amended Law continues to be a distribution pipeline; and
+(b) a pipeline that, immediately before the commencement day, is a transmission pipeline within the meaning of section 2 of the pre-amended Law continues to be a transmission pipeline.
+(2) Nothing in subclause (1) prevents a pipeline from being reclassified, under this Law, as a distribution pipeline or transmission pipeline.
+111—Pipelines not classified under pre-amended Law or jurisdictional gas legislation
+(1) This clause applies in relation to an existing pipeline that, immediately before the commencement day, was not classified as a distribution pipeline or transmission pipeline under the pre-amended Law or under a licence or authorisation granted in relation to the pipeline under jurisdictional gas legislation.
+(2) On the commencement day, the pipeline is taken to have the classification shown in the register known as the 'Gas pipeline register' that is maintained by the AEMC under Part 15 of the Rules (the AEMC register).
+(3) However, if the AEMC register does not contain a classification for the pipeline, the service provider must apply to the AER for a classification decision within 2 months after the commencement day.
+(4) Nothing in subclause (2) prevents the pipeline from being reclassified, under this Law, as a distribution pipeline or transmission pipeline.
+112—Notice to be given about classification of particular pipelines
+(1) This clause applies in relation to a pipeline that—
+(a) immediately before the commencement day, was a pipeline to which the pre-amended Law applied; but
+(b) does not have a classification that is continued, or taken to be, in effect for the pipeline under clauses 110 to 111.
+(2) Within 2 months after the commencement day, the service provider for the pipeline must notify the AEMC whether the pipeline is classified as a distribution pipeline or as a transmission pipeline under the licence or authorisation granted in relation to the pipeline under jurisdictional gas legislation.
+Division 3—Pending matters under Chapter 3 of pre-amended Law
+113—Pending applications under Chapter 3 of pre-amended Law
+(1) This clause applies despite clause 43(1)(b) and (c) of Schedule 2 to this Law.
+(2) On the commencement day, any application under Chapter 3 of the pre-amended Law in respect of which a decision has not been made under that Chapter immediately before that day lapses.
+114—Recommendation-making process under Chapter 3 of pre-amended Law
+(1) This clause applies if, immediately before the commencement day, a relevant entity—
+(a) is deciding whether to make a recommendation (however described) under a requirement of Chapter 3 of the pre-amended Law; and
+(b) has not made the recommendation.
+(2) On the commencement day—
+(a) the requirement to make the recommendation stops having effect; and
+(b) the relevant entity must stop deciding whether to make the recommendation.
+115—Decision-making process under Chapter 3 of pre-amended Law
+(1) This clause applies if, immediately before the commencement day, a relevant entity—
+(a) is deciding whether to make a decision (however described) or determination (however described) under a requirement of Chapter 3 of the pre-amended Law; and
+(b) has not made the decision or determination.
+(2) On the commencement day—
+(a) the requirement to make the decision or determination stops having effect; and
+(b) the relevant entity must stop deciding whether to make the decision or determination.
+Division 4—Provisions for limited access arrangements
+116—Limited access arrangements
+(1) This clause applies in relation to a limited access arrangement that is in force immediately before the commencement day.
+(2) On the commencement day, the limited access arrangement lapses.
+117—Submission of limited access arrangement
+(1) This clause applies if, before the commencement day—
+(a) a service provider has submitted a limited access arrangement to the AER for approval; and
+(b) the AER has not approved the limited access arrangement.
+(2) On the commencement day, the submission lapses.
+Division 5—Provisions for 15-year no-coverage determinations
+Subdivision 1—General provisions
+118—15-year no-coverage determinations deemed to be greenfields incentive determinations
+(1) On the commencement day, a 15‑year no-coverage determination that was in force immediately before the commencement day is deemed to be a greenfields incentive determination.
+(2) The determination continues in operation for a period of 15 years from the commissioning of the pipeline.
+119—Exemption for pipelines to which a 15‑year no-coverage determination applied
+(1) This clause applies to a pipeline if a 15‑year no-coverage determination that applied to the pipeline before the commencement day is deemed to be a greenfields incentive determination under clause 118.
+(2) During the period mentioned in clause 118(2), Chapters 4 and 5 do not apply to the pipeline unless the pipeline is or becomes a third party access pipeline.
+(3) A pipeline is a third party access pipeline for the purposes of this clause if any pipeline services provided by means of the pipeline are provided, directly or indirectly, to any person other than—
+(a) the service provider for the pipeline; or
+(b) a related body corporate of the service provider for the pipeline; or
+(c) a joint venture in which the service provider for the pipeline or a related body corporate of the service provider is a joint venture participant.
+120—Pending applications for 15‑year no-coverage determinations under pre-amended Law
+(1) This clause applies in relation to an application for a 15‑year no-coverage determination under Chapter 5 Part 2 of the pre-amended Law in respect of which a decision has not been made under that Part immediately before the commencement day.
+(2) Chapter 5 Part 2 as in force immediately before the commencement day continues to apply to the application as if that Part were still in force.
+(3) To remove any doubt, a relevant entity may, in relation to the application, make a recommendation or determination under Chapter 5 Part 2 as in force immediately before the commencement day as if that Part were still in force.
+(4) A 15‑year no-coverage determination made on or after the commencement day, under the operation of this clause, is deemed to be a greenfields incentive determination.
+(5) The greenfields incentive determination continues in operation for a period of 15 years from the commissioning of the pipeline.
+Subdivision 2—Price regulation exemptions
+121—Pending applications for price regulation exemption
+On the commencement day, any application for a price regulation exemption under section 160 of the pre-amended Law in respect of which a decision has not been made under Chapter 5 Part 3 of the pre-amended Law immediately before that day lapses.
+122—Making of recommendations for price regulation exemptions
+(1) This clause applies if the NCC—
+(a) has received under section 160 of the pre-amended Law an application for a price regulation exemption for a pipeline the subject of the application; and
+(b) immediately before the commencement day, has not made a recommendation under section 162 of the pre-amended Law.
+(2) On the commencement day—
+(a) the requirement to make the recommendation stops having effect; and
+(b) the NCC must not make the recommendation.
+123—Granting of price regulation exemptions
+(1) This clause applies if, immediately before the commencement day, the Commonwealth Minister—
+(a) is deciding whether to make a decision to grant a price regulation exemption under section 164 of the pre-amended Law; and
+(b) has not granted the exemption.
+(2) On the commencement day—
+(a) the requirement to decide whether to make a decision to grant the exemption stops having effect; and
+(b) the Commonwealth Minister must stop deciding whether to make a decision to grant the exemption.
+124—Price regulation exemptions deemed to be greenfields incentive determinations
+(1) This clause applies in relation to a price regulation exemption if the exemption—
+(a) has been granted before the commencement day; and
+(b) immediately before the commencement day, is not ineffective only because of section 167(2) of the pre-amended Law.
+Note—
+Under section 167(2) of the pre-amended Law, a price regulation exemption is ineffective unless a limited access arrangement, approved by the AER, is in force in relation to the relevant pipeline.
+(2) On the commencement day, the exemption is deemed to be a greenfields incentive determination.
+(3) The greenfields incentive determination continues in operation for a period of 15 years from the commissioning of the pipeline.
+Note—
+Under section 167(1) of the pre-amended Law, if a price regulation exemption is granted, the exemption remains in force for a period of 15 years from the commissioning of the pipeline.
+Division 6—Access disputes
+125—Access disputes started under pre-amended Law
+(1) This clause applies if—
+(a) an access dispute has been started under Chapter 6 or 6A of the pre-amended Law; and
+(b) the access dispute has not been finally dealt with or decided immediately before the commencement day.
+(2) An access dispute started under Chapter 6 of the pre-amended Law must be dealt with and decided under that Chapter as if it were still in force and despite Chapter 5.
+(3) An access dispute started under Chapter 6A of the pre-amended Law must be dealt with and decided under that Chapter as if it were still in force and despite Chapter 5.
+Division 7—Miscellaneous provisions
+126—Service provider for non‑scheme pipeline not required to comply with section 131
+(1) This clause applies in relation to a service provider for a pipeline that—
+(a) was in operation before the commencement day; and
+(b) on the commencement day, is a non‑scheme pipeline.
+(2) The service provider is not required to comply with section 131.
+127—Exemptions from minimum ring fencing requirements
+(1) This clause applies in relation to a service provider who held an exemption under section 146 of the pre-amended Law that was in force immediately before the commencement day.
+(2) On the commencement day, the exemption continues in force.
+128—Delayed commencement of ring fencing requirements for non‑scheme pipelines
+(1) This clause applies in relation to a pipeline that, immediately before the commencement day, was a non‑scheme pipeline.
+(2) On the commencement day, Part 2 of Chapter 4 does not apply to the pipeline.
+(3) However, Part 2 of Chapter 4 starts applying to the pipeline at the end of 12 months after the commencement day.
+129—Provision for Goldfields Gas Pipeline
+(1) On the commencement day, any expansion of the Goldfields Gas Pipeline that did not previously form part of the scheme pipeline becomes part of the scheme pipeline.
+(2) In this section—
+Goldfields Gas Pipeline means the transmission pipeline between Yarraloola and Kalgoorlie in Western Australia and defined in Pipeline Licence 24 (as amended) issued under the Petroleum Pipelines Act 1969 of Western Australia, including any extension to, or expansion of the capacity of, that pipeline.
+130—Provision for Northern Gas Pipeline
+(1) This clause applies in relation to the Northern Gas Pipeline.
+(2) On the commencement day, Chapters 4 and 5 do not apply to the pipeline.
+(3) However, Chapters 4 and 5 start applying to the pipeline—
+(a) if the pipeline becomes a scheme pipeline—when the pipeline becomes a scheme pipeline; or
+(b) otherwise—at the end of a period of 15 years from the commissioning of the pipeline.
+(4) In this clause—
+access principles means the arrangements agreed between the service provider for the Northern Gas Pipeline and the Northern Territory Government under which a prospective user may gain access to pipeline services on the Northern Gas Pipeline;
+Northern Gas Pipeline means the pipeline between Tennant Creek in the Northern Territory and Mount Isa in Queensland, the subject of Pipeline Licence 34 granted under the Energy Pipelines Act 1981 of the Northern Territory and Pipeline Licence 2015 granted under the Petroleum and Gas (Production and Safety) Act 2004 of Queensland, including any extension to, or expansion of the capacity of, that pipeline that is subject to the access principles.
+131—Pending applications under Rules for approval of tender process
+(1) This clause applies—
+(a) in relation to an application that has been made to the AER under the Rules for the approval, by the AER, of a tender process for the construction and operation of a proposed pipeline as a competitive tender process; and
+(b) in respect of which the AER has not made a tender approval decision before the commencement day.
+(2) On the commencement day, the application lapses despite clause 43(1)(b) and (c) of Schedule 2 to this Law.
+132—Decision-making process under Rules for approval of tender process
+(1) This clause applies if, before the commencement day, the AER—
+(a) is deciding whether to make a tender approval decision; and
+(b) has not made the decision.
+(2) On the commencement day—
+(a) the requirement to make the tender approval decision stops having effect; and
+(b) the AER must stop deciding whether to make the tender approval decision.

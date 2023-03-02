@@ -256,8 +256,6 @@ trial project means a project—
 trial Rule—see section 87;
 trial waiver—see section 18ZL;
 Tribunal means the Australian Competition Tribunal referred to in the Competition and Consumer Act 2010 of the Commonwealth and includes a member of the Tribunal or a Division of the Tribunal performing functions of the Tribunal;
-user or consumer association has the meaning given by section 71A;
-user or consumer interest group has the meaning given by section 71A;
 VENCorp means the Victorian Energy Networks Corporation continued under Part 8 of the Gas Industry Act 2001 of Victoria until the AEMO amendments came into force;
 wholesale electricity market means any wholesale market for electricity regulated under this Law and the Rules.
 (2) A reference in this Law to an end user includes a reference to a prospective end user.
@@ -760,7 +758,13 @@ are, in accordance with the Rules—
 (b) may take into account the revenue and pricing principles when performing or exercising any other AER economic regulatory function or power, if the AER considers it appropriate to do so.
 (3) For the purposes of subsection (2)(a)(ii), a reference to a "direct control network service" in the revenue and pricing principles must be read as a reference to an "electricity network service".
 (4) In this section—
-affected Registered participant means a Registered participant (other than the regulated network service provider to whom the distribution determination or transmission determination will apply) whose interests are affected by the distribution determination or transmission determination.
+affected Registered participant means a Registered participant (other than the regulated network service provider to whom the distribution determination or transmission determination will apply) whose interests are affected by the distribution determination or transmission determination;
+user or consumer association means an association or body (whether incorporated or unincorporated)—
+(a) the members of which include more than 1 user, prospective user or end user; and
+(b) that represents and promotes the interests of those members in relation to the provision of electricity services;
+user or consumer interest group means an association or body (whether incorporated or unincorporated)—
+(a) that has, as an object or purpose, the object or purpose of representing and promoting the interests of users, prospective users or end users of electricity services; but
+(b) the members of which need not include a user, prospective user or end user.
 17—Delegations
 Any delegation by the AER under section 44AAH of the Competition and Consumer Act 2010 of the Commonwealth extends to, and has effect for the purposes of, this Law, the Regulations and the Rules.
 18—Confidentiality
