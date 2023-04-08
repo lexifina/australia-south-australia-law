@@ -30,6 +30,7 @@ Subdivision 1—Preliminary
 Subdivision 2—Parole Administrative Review Commissioner
 Subdivision 3—Reviews by Commissioner
 Subdivision 4—Other matters
+Part 6A—Management of officers, employees of Department etc
 Part 7—Prisoner compensation quarantine funds
 Division 1—Preliminary
 Division 2—Award of damages to prisoners
