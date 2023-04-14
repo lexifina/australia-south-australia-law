@@ -530,6 +530,7 @@ In this Part—
 contract position day—see section 14K(4)(b)(i);
 forecast reliability gap—see section 14G(1);
 forecast reliability gap period—see section 14G(2);
+Ministerial reliability gap and Ministerial reliability gap period—see section 14JA(1)(b);
 net contract position—see section 14O(3);
 one‑in‑two year peak demand forecast, for a region during a specified period, means the peak demand forecast in accordance with the Rules—
 (a) to occur for the region during the period; and
@@ -542,7 +543,9 @@ reporting day—see section 14K(4)(b)(ii);
 T‑1 cut‑off day—see section 14G(4);
 T‑1 reliability instrument means a reliability instrument for a forecast reliability gap made by the AER under section 14K that relates to the T‑1 cut‑off day for the forecast reliability gap;
 T‑3 cut‑off day—see section 14G(3);
-T‑3 reliability instrument means a reliability instrument for a forecast reliability gap made by the AER under section 14K that relates to the T‑3 cut‑off day for the forecast reliability gap;
+T‑3 reliability instrument means—
+(a) a reliability instrument for a forecast reliability gap made by the AER under section 14K that relates to the T‑3 cut‑off day for the forecast reliability gap; or
+(b) a reliability instrument for a Ministerial reliability gap period made by a Minister of a participating jurisdiction under section 14JA;
 trading interval means a period prescribed by the Rules to be a trading interval for the wholesale exchange;
 wholesale exchange means the wholesale exchange for electricity operated and administered by AEMO under this Law and the Rules.
 14D—Meaning of liable entity for a region
@@ -569,8 +572,8 @@ Each year, AEMO must—
 (a) perform the functions stated in the Rules for the purposes of forecasting for the occurrence of reliability gaps in future years; and
 (b) prepare and publish, in the manner, form and timeframes required by the Rules, information about the forecasting.
 14G—Meaning of forecast reliability gap, forecast reliability gap period, T‑3 cut‑off day and T‑1 cut‑off day
-(1) A forecast reliability gap occurs when the amount of electricity forecast for a region, in accordance with the Rules, does not meet the reliability standard to an extent that, in accordance with the Rules, is material.
-(2) A forecast reliability gap period is the period during which a forecast reliability gap is forecast to occur.
+(1) A forecast reliability gap occurs when the amount of electricity forecast for a region, in accordance with the Rules, does not meet the reliability standard to an extent that, in accordance with the Rules, is material and a reference in this Part to a forecast reliability gap includes, where the context requires, a reference to a Ministerial reliability gap.
+(2) A forecast reliability gap period is the period during which a forecast reliability gap is forecast to occur and a reference in this Part to a forecast reliability gap period includes, where the context requires, a reference to a Ministerial reliability gap period.
 (3) The T‑3 cut‑off day for a forecast reliability gap is the day that is 3 years before the day the forecast reliability gap period for the forecast reliability gap starts.
 (4) The T‑1 cut‑off day for a forecast reliability gap is the day that is 1 year before the day the forecast reliability gap period for the forecast reliability gap starts.
 (5) In this section—
@@ -584,14 +587,15 @@ reliability standard means the standard prescribed by the Rules for the reliabil
 (i) ending on or before the T‑1 cut-off day, during which the contract position day must be set; and
 (ii) ending on or after the T‑1 cut-off day, during which the reporting day must be set;
 (c) the periods that apply for the matters mentioned in paragraph (a) or (b) if AEMO corrects a request under section 14J.
-(2) Also, the Rules must provide for the way to determine whether a request for the AER to make a T‑1 reliability instrument under section 14I is related to a T‑3 reliability instrument.
-(3) For subsection (2), the way prescribed may include the extent to which the reliability gap period and trading intervals stated in a request for the AER to make a T‑1 reliability instrument must be the same as, or may be different to, the forecast reliability gap period and trading intervals stated in the T‑3 reliability instrument.
+(2) Also, the Rules must provide for 1 or more ways to determine whether a request for the AER to make a T‑1 reliability instrument under section 14I is related to a T‑3 reliability instrument.
+(3) For subsection (2), a prescribed way may include the extent to which the reliability gap period and trading intervals stated in a request for the AER to make a T‑1 reliability instrument must be the same as, or may be different to, the forecast reliability gap period and trading intervals stated in the T‑3 reliability instrument.
+(4) In addition, for subsection (2), in the case of a T‑3 reliability instrument made by a Minister of a participating jurisdiction, a prescribed way may include the extent to which the reliability gap period and trading intervals stated in a request for the AER to make a T‑1 reliability instrument must be the same as, or may be different to, any Ministerial reliability gap period or trading intervals stated in the T‑3 reliability instrument.
 14I—AEMO must request reliability instrument
 (1) This section applies if—
 (a) AEMO is satisfied a forecast reliability gap is forecast to occur in a region; and
 (b) AEMO has published the information about the forecast that AEMO is required to publish under section 14F(b).
 (2) Subject to subsection (3), AEMO must request the AER to consider making a reliability instrument for the region in relation to the forecast reliability gap.
-(3) AEMO must make a request under subsection (2) for a T‑1 reliability instrument for a region only if the AER has made a related T‑3 reliability instrument.
+(3) AEMO must make a request under subsection (2) for a T‑1 reliability instrument for a region only if the AER has made a related T‑3 reliability instrument or the Minister of the participating jurisdiction in which the region is located has made a related T‑3 reliability instrument.
 (4) A request under subsection (2)—
 (a) is made by giving a written notice about the request to the AER; and
 (b) must be made within the period required by the Rules; and
@@ -614,10 +618,30 @@ The trading intervals between 4pm and 8pm each weekday during the forecast relia
 (b) a material mistake in the description of a person, period, thing or matter referred to in the request; or
 (c) a defect in form.
 (2) AEMO may correct the request by giving a written notice about the correction, and a correct request, to the AER.
+14JA—Minister may make T‑3 reliability instrument
+(1) Subject to this section, a Minister of a participating jurisdiction may make a T‑3 reliability instrument for a region if—
+(a) the geographical area of the participating jurisdiction constitutes the whole or a part of the region; and
+(b) it appears to the Minister, on reasonable grounds, that there is a real risk during a period specified in the instrument (a Ministerial reliability gap period) that the supply of electricity to all or part of the region may be disrupted to a significant degree (a Ministerial reliability gap) on 1 or more occasions during the Ministerial reliability gap period.
+(2) Before making a T‑3 reliability instrument under subsection (1), the Minister must consult with AEMO and the AER in relation to the instrument the Minister proposes to make.
+(3) The regulations under the application Act of a participating jurisdiction (a local regulation) may provide for requirements (including procedures and any methodology) that must be complied with by the Minister in determining whether there is a real risk that the supply of electricity to all or part of a region may be disrupted to a significant degree.
+(4) A T‑3 reliability instrument under subsection (1) must state—
+(a) the date on which it takes effect; and
+(b) the region to which it applies; and
+(c) the first and last days of the Ministerial reliability gap period; and
+(d) the trading intervals during the Ministerial reliability gap period for which liable entities may be required to hold net contract positions that are sufficient to meet their share of the one‑in‑two year peak demand forecast for the Ministerial reliability gap period; and
+(e) AEMO's one‑in‑two year peak demand forecast for the Ministerial reliability gap period.
+(5) A Minister of a participating jurisdiction may vary or revoke a T‑3 reliability instrument made by the Minister under subsection (1).
+(6) As soon as practicable after making or varying a T‑3 reliability instrument under this section, the relevant Minister must—
+(a) publish a copy of the instrument or variation in accordance with any requirements of the local regulations; and
+(b) publish notice of the making or variation of the instrument in the South Australian Government Gazette.
+(7) The following provisions apply to a T‑3 reliability instrument under subsection (1):
+(a) the first day of a Ministerial reliability gap period specified in the instrument under subsection (4)(c) may not be earlier than 3 years after the day on which the instrument is made;
+(b) despite any other provision of this Part, a T‑3 reliability instrument under subsection (1) that relates to 1 or more days occurring in the period commencing on 1 December 2025 and ending on 31 December 2026 may be made at any time before 1 December 2023.
+(8) The Minister responsible for administering the application Act (other than the application Act of South Australia) under which a local regulation referred to in this section is made is to make arrangements for notice of the making and publication of the regulation to be published for information in the South Australian Government Gazette.
 14K—AER may make reliability instrument for a region
 (1) This section applies if—
 (a) AEMO makes a request under section 14I in relation to a forecast reliability gap for a region; and
-(b) where AEMO's request is for a T‑1 reliability instrument for the region, the AER has made a related T‑3 reliability instrument for the region.
+(b) where AEMO's request is for a T‑1 reliability instrument for the region, the AER has made a related T‑3 reliability instrument or the Minister of the participating jurisdiction in which the region is located has made a related T‑3 reliability instrument for the region.
 (2) The AER must, within the period required by the Rules—
 (a) consider the request; and
 (b) decide whether or not to make a reliability instrument for the region in relation to the forecast reliability gap.
@@ -2692,6 +2716,34 @@ Retailer Reliability Obligation amendments means the amendments made to this Law
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
 (7) In this section—
 stand‑alone power system amendments means the amendments made to this Law by the Statutes Amendment (National Energy Laws) (Stand-Alone Power Systems) Act 2021.
+90EC—South Australian Minister to make initial Rules relating to Ministerial reliability instrument
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules—
+(a) for or with respect to—
+(i) the Ministerial reliability instrument amendments; and
+(ii) any other subject contemplated by, or necessary or expedient for, the Ministerial reliability instrument amendments; and
+(b) that revoke or amend a Rule as a consequence of the enactment of the Ministerial reliability instrument amendments.
+(2) Section 34(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(3) For the purposes of subsection (1), a reference in section 34(1) to the national electricity system is taken to be a reference to the national electricity system or a local electricity system (as the context requires).
+(4) Rules in the nature of a derogation may be made under subsection (1) even though there may not have been a request for a derogation.
+(5) Rules made under subsection (1) may be differential Rules.
+(6) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(7) The notice referred to in subsection (6)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(8) Rules may only be made under subsection (1) on the recommendation of the MCE.
+(9) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(10) In this section—
+differential Rule means a Rule that—
+(a) varies in its terms as between—
+(i) the national electricity system; and
+(ii) 1 or more, or all, of the local electricity systems; or
+(b) does not have effect with respect to 1 or more of those systems;
+local electricity system means—
+(a) an electricity system in this jurisdiction prescribed or declared in or under the application Act of this jurisdiction to be a local electricity system; and
+(b) the generating systems and other facilities owned, controlled or operated in this jurisdiction connected to that local electricity system;
+Ministerial reliability instrument amendments means the amendments made to this Law by the National Electricity (South Australia) (Ministerial Reliability Instrument) Amendment Act 2023.
 Subdivision 2—Rules made by Minister from time to time
 90F—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2).
