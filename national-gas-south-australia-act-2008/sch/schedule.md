@@ -116,6 +116,15 @@ Note—
 See Chapter 3 Part 6 in relation to the classification and reclassification of pipelines. See also sections 18 and 19.
 distributor means, except where elsewhere defined in this Law, a service provider who owns, operates or controls a scheme pipeline that is a distribution pipeline;
 draft Rule determination means a determination of the AEMC under section 308;
+east coast gas system means the following, located wholly or partly within an east coast jurisdiction:
+(a) a natural gas industry facility;
+(b) a regulated gas market;
+(c) a gas trading exchange for which AEMO has established a gas trading exchange agreement;
+(d) a system, market or other thing specified by the Rules;
+east coast gas system direction, for Part 6 Division 1A—see section 91AF(1);
+East Coast Gas System Procedures, for Part 6 Division 1A—see section 91AD(1)(h);
+east coast gas system reliability and supply adequacy functions of AEMO are set out in section 91AD;
+east coast jurisdiction means a participating jurisdiction other than Western Australia;
 ECA amendments means the amendments to this Law made by the Statutes Amendment (Energy Consumers Australia) Act 2014 of South Australia;
 end user means a person who acquires natural gas for consumption purposes, and includes a retail customer;
 Energy Consumers Australia or ECA means the company incorporated, or to be incorporated, by the name Energy Consumers Australia Limited;
@@ -146,6 +155,7 @@ former gas market operator means any of the following:
 (d) the gas retail market operator appointed under section 257A of the Gas Supply Act 2003 (Qld);
 form of regulation factors has the meaning given by section 16;
 Gas Code means the National Third Party Access Code for Natural Gas Pipeline Systems set out in Schedule 2 to the Gas Pipelines Access (South Australia) Act 1997 of South Australia as in force from time to time before the commencement of section 20 of the National Gas (South Australia) Act 2008 of South Australia;
+gas powered generator means the owner, controller or operator of a generating system, within the meaning of the National Electricity Rules, that is powered by natural gas;
 gas statement of opportunities means the statement published under Chapter 2 Part 6 Division 4;
 gas trading exchange means a facility through which persons may elect to buy and sell natural gas or related goods or services, including pipeline capacity;
 gas trading exchange agreement means an agreement that relates to participation in, and the operation and administration of, a gas trading exchange established by AEMO to which AEMO (or a person appointed by AEMO to operate the gas trading exchange), and a person who becomes a member of the exchange, are parties;
@@ -338,6 +348,7 @@ regulatory payment has the meaning given by section 7;
 relevant adjudicator means—
 (a) for a scheme pipeline access dispute—the dispute resolution body; or
 (b) for a non‑scheme pipeline access dispute—the arbitrator for the dispute;
+relevant entity, for Part 6 Division 1A—see section 91AF(8);
 relevant Regulator has the same meaning as in section 2 of the old access law;
 REMCo means the Retail Energy Market Company Limited (ACN 103 318 556);
 retail customer means a person to whom natural gas is sold for premises by a retailer;
@@ -452,6 +463,7 @@ user facility means a facility by means of which natural gas is consumed (includ
 VENCorp means the Victorian Energy Networks Corporation continued under Part 8 of the Gas Industry Act 2001 of Victoria until the AEMO amendments come into force;
 Wholesale Market Procedures means Procedures directed at regulating the declared wholesale gas market of an adoptive jurisdiction.
 (2) A reference in this Law to an end user includes a reference to a prospective end user.
+(3) A reference in this Law to the east coast gas system includes a reference to part of the east coast gas system.
 3—Meaning of civil penalty provision
 A civil penalty provision is—
 (a) a provision of this Law specified in an item in the Table at the foot of this section; or
@@ -1503,6 +1515,7 @@ Division 2—Rule making functions and powers of the AEMC
 (va) AEMO's STTM functions and the operation of a short term trading market of an adoptive jurisdiction; and
 (vi) the activities of Registered participants, users, end users and other persons in a regulated gas market; and
 (vii) the safety, security and reliability of pipelines; and
+(viia) the reliability or adequacy of the supply of natural gas within the east coast gas system; and
 (viii) the connection of premises of retail customers; and
 (aaa) AEMO's gas trading exchange functions and the operation of a gas trading exchange; and
 (aab) the capacity auction functions of AEMO, the operation of a capacity auction and the activities of transportation service providers and transportation facility users in connection with a capacity auction; and
@@ -1511,6 +1524,7 @@ Division 2—Rule making functions and powers of the AEMC
 (aa) facilitating and supporting the provision of services to retail customers; and
 (ab) any matter or thing related to, or necessary or expedient for, the purposes of a trial Rule, trial project or trial waiver; and
 (ab) the AER gas price reporting functions; and
+(ac) AEMO′s east coast gas system reliability and supply adequacy functions; and
 (b) any matter or thing contemplated by this Law, or necessary or expedient for the purposes of this Law.
 Note—
 The procedure for the making of a Rule by the AEMC is set out in Chapter 9 Part 3.
@@ -1702,6 +1716,7 @@ Division 1—General
 (c) to register persons as Registered participants;
 (d) to exempt certain persons from being registered as Registered participants;
 (e) to facilitate retail customer transfer, metering and retail competition (including balancing, allocation and reconciliation of gas deliveries and withdrawals to and from subnetworks);
+(ea) the east coast gas system reliability and supply adequacy functions;
 (f) for an adoptive jurisdiction—the declared system functions or STTM functions (as the case requires);
 (g) to make, amend or revoke Procedures;
 (ga) the gas trading exchange functions;
@@ -1727,6 +1742,97 @@ AEMO has the power to do all things necessary or convenient for or in connection
 (2) However, a function or power classified by the Regulations as non‑delegable cannot be delegated.
 (3) A delegate may, subject to AEMO's directions, subdelegate a delegated function or power to a director, officer or employee of AEMO.
 (4) A delegate (or subdelegate) must comply with any direction given by AEMO that is relevant to the exercise of the delegated functions or powers.
+Division 1A—AEMO's east coast gas system reliability and supply adequacy functions
+91AD—AEMO's east coast gas system reliability and supply adequacy functions
+(1) AEMO's east coast gas system reliability and supply adequacy functions are as follows:
+(a) to monitor trends in the supply of, and demand for, natural gas in the east coast gas system and factors affecting, or that may potentially affect, the reliability or adequacy of the supply of gas within that system;
+(b) to identify and communicate actual or potential risks or threats to the reliability or adequacy of the supply of natural gas within the east coast gas system;
+(c) to report to and advise the MCE, including a member of the MCE, on matters relating to the reliability or adequacy of the supply of natural gas within the east coast gas system;
+(d) to publish information relating to the reliability or adequacy of the supply of natural gas within the east coast gas system;
+(e) to give directions to relevant entities to the extent AEMO considers necessary to maintain and improve the reliability or adequacy of the supply of natural gas within the east coast gas system;
+(f) to trade in natural gas or to purchase pipeline services or services provided by a compression service provider or a storage provider to the extent AEMO considers necessary to maintain and improve the reliability or adequacy of the supply of natural gas within the east coast gas system;
+(g) other functions conferred on AEMO by the Rules for the purposes of this section;
+(h) to make, amend or revoke Procedures (East Coast Gas System Procedures) relating to a function specified in paragraphs (a) to (g).
+(2) AEMO must not exercise the function specified in subsection (1)(f) unless AEMO is of the opinion that the trade or purchase is necessary to prevent, reduce or mitigate an actual or potential threat identified by AEMO in the exercise of the function specified in subsection (1)(b).
+(3) AEMO must, within 3 months after the commencement of this section—
+(a) prepare, in accordance with the Rules, guidelines relating to the exercise or performance of the functions specified in subsection (1)(e) and (f); and
+(b) publish the guidelines on its website.
+(4) The Regulations may specify the following:
+(a) the relationship between the operation of this Division, or a provision of this Division, and a law of a participating jurisdiction, in the event of an inconsistency;
+(b) the extent to which a relevant entity is or is not required to comply with an east coast gas system direction in circumstances where the direction is inconsistent with a law of a participating jurisdiction;
+(c) the extent to which an east coast gas system direction is not valid in circumstances where the direction is inconsistent with a law of a participating jurisdiction.
+(5) The Rules may specify the following:
+(a) the matters that AEMO may or must consider in determining there is or is not an actual or potential threat to the reliability or adequacy of the supply of natural gas within the east coast gas system;
+(b) the kinds of directions that AEMO may or may not give under this section;
+(c) the matters that AEMO may or must consider in determining whether to exercise a function specified in subsection (1)(e) or (f).
+91AE—AEMO to account to relevant Minister for performance of east coast gas system reliability and supply adequacy functions
+(1) AEMO must, at the written request of a Minister of a participating jurisdiction that is an east coast jurisdiction, provide information about the performance of its east coast gas system reliability and supply adequacy functions in relation to that jurisdiction.
+(2) AEMO must, at the written request of the MCE, provide information about the performance of its east coast gas system reliability and supply adequacy functions in accordance with the request.
+(3) Protected information provided in response to a request under this section must be identified as such by AEMO at the time of providing the information.
+(4) No fee is to be charged for the provision of information under this section.
+91AF—AEMO's power of direction—east coast gas system reliability and supply adequacy
+(1) AEMO may give a written direction (an east coast gas system direction) to a relevant entity for 1 or more of the following purposes:
+(a) to maintain and improve the reliability of the supply of natural gas within the east coast gas system;
+(b) to maintain and improve the adequacy of the supply of natural gas within the east coast gas system.
+(2) A direction must not be given under subsection (1) unless AEMO is of the opinion that the giving of the direction is necessary to prevent, reduce or mitigate an actual or potential threat identified by AEMO in the exercise of the function specified in section 91AD(1)(b).
+(3) Without limiting subsection (1), an east coast gas system direction may relate to 1 or more of the following:
+(a) the operation, maintenance or use of any equipment or installation;
+(b) the control of the flow of natural gas;
+(c) any other matter that may affect the reliability or adequacy of the supply of natural gas within the east coast gas system.
+(4) An east coast gas system direction may apply, adopt or incorporate (with or without modification) a relevant code of practice or standard (made in or outside Australia) as in force or existing when the direction is made or as in force or existing from time to time.
+(5) A prohibition imposed by an east coast gas system direction may be either unconditional or subject to conditions stated in the direction.
+(6) A person to whom an east coast gas system direction applies must comply with the direction to the extent to which compliance is consistent with a law of a participating jurisdiction applying to the person.
+(7) A person incurs no civil monetary liability for damage, loss or injury resulting from an act or omission done or made in good faith and in compliance or purported compliance with an east coast gas system direction.
+(8) In this section—
+relevant entity means the following, excluding a small customer:
+(a) a Registered participant;
+(b) an exempted participant;
+(c) a producer who injects natural gas into the east coast gas system;
+(d) a person who buys or sells natural gas in the east coast gas system;
+(e) a gas powered generator;
+(f) a storage provider whose storage facility is connected to the east coast gas system;
+(g) a person who provides pipeline, transport, compression or other related services in, into or out of the east coast gas system;
+(h) a person specified as a relevant entity by the Rules;
+small customer means—
+(a) a small customer within the meaning of section 5(2) of the National Energy Retail Law; and
+(b) a relevant customer within the meaning of the Order made under section 43 of the Gas Industry Act 2001 of Victoria and published in the Victoria Government Gazette on 25 November 2008.
+91AG—East Coast Gas System Procedures
+(1) The East Coast Gas System Procedures may deal with the following matters:
+(a) the matters specified by the Rules;
+(b) any other matter relevant to AEMO′s east coast gas system reliability and supply adequacy functions on which this Law or the Rules contemplate the making of Procedures.
+(2) The East Coast Gas System Procedures—
+(a) may vary according to the persons, times, places or circumstances to which they are expressed to apply; and
+(b) may confer functions or powers on, or leave any matter or thing to be decided by, AEMO; and
+(c) may confer rights or impose obligations on relevant entities; and
+(d) may require a relevant entity to give an indemnity against injury, damage or loss arising from the entity′s failure to comply with requirements imposed by the Procedures; and
+(e) may confer power on AEMO to make or issue guidelines, tests, standards and other documents of an administrative nature; and
+(f) may confer power on AEMO to require a person on whom a right is conferred, or an obligation imposed, under the Procedures—
+(i) to comply with a guideline, standard or other document of an administrative nature; or
+(ii) to conduct, or submit to, a test designed by AEMO; and
+(g) may exempt, or confer a power of exemption, from the application of the Procedures or specified provisions of the Procedures; and
+(h) may contain provisions of a savings or transitional nature.
+(3) AEMO must not, without the consent of the MCE, make East Coast Gas System Procedures that confer a right or function, or impose an obligation, on the MCE or a Minister of a participating jurisdiction.
+(4) The East Coast Gas System Procedures must not—
+(a) create an offence; or
+(b) provide for a criminal or civil penalty.
+91AH—Compliance with East Coast Gas System Procedures
+(1) AEMO and each person to whom the East Coast Gas System Procedures are applicable must comply with those Procedures.
+(2) If AEMO has reasonable grounds to suspect a breach of the East Coast Gas System Procedures, it must, after making such inquiries and investigation as it considers appropriate, make a decision as to whether the breach is a material breach.
+(3) If AEMO decides the breach is material, AEMO—
+(a) must publish the decision and the reasons for it on its website; and
+(b) may direct the person suspected of the breach to rectify it or to take specified measures to ensure future compliance (or both); and
+(c) may refer the breach to the AER.
+(4) A direction by AEMO under subsection (3)(b) must—
+(a) specify the breach; and
+(b) specify the date by which the direction must be complied with; and
+(c) be addressed to, and given to, the person suspected of the breach.
+(5) A person to whom a direction is given under subsection (3)(b) must comply with the direction.
+(6) AEMO must give a copy of its decision under subsection (2), its reasons for the decision and (if relevant) any direction under subsection (3)(b) to the AER.
+(7) If AEMO decides the breach is not material, AEMO must—
+(a) publish the decision and the reasons for the decision on its website; and
+(b) give a copy of the decision and the reason for the decision to the AER.
+Note—
+AEMO may provide the AER with relevant information, including protected information, related to a suspected breach of the Procedures. For disclosure of protected information, see section 91GC(2)(b).
 Division 2—AEMO's declared system functions
 Subdivision 1—Preliminary
 91B—Application of this Division
@@ -1744,7 +1850,7 @@ Subdivision 1—Preliminary
 (e) to coordinate the interaction of producers, storage providers and service providers for ensuring a safe, secure, reliable and efficient declared transmission system;
 (f) to operate and administer the declared wholesale gas market;
 (g) to make, amend or revoke Procedures governing the operation and administration of the declared wholesale gas market.
-(2) AEMO may trade in natural gas—
+(2) AEMO may trade in natural gas or purchase pipeline services or services provided by a compression service provider or a storage provider—
 (a) to the extent necessary or desirable for the safety, security or reliability of a declared transmission system; or
 (b) in an emergency.
 (3) AEMO may, subject to the Rules, suspend a declared wholesale gas market.
@@ -2162,10 +2268,13 @@ Subdivision 1—Market information orders and market information notices
 (b) serve a market information notice requiring information from the person to whom the notice is addressed.
 (2) A relevant function is—
 (a) the preparation, review, revision or publication of the gas statement of opportunities; or
+(ba) an east coast gas system reliability and supply adequacy function; or
 (b) a declared system function; or
 (c) any other statutory function for which this Law authorises AEMO to gather information by means of a market information instrument.
 (3) A general market information order or a market information notice may only be addressed to persons of a class declared by the Regulations to be a class to which such an order or notice may be addressed.
 (4) In considering whether to make a general market information order or to issue a market information notice and, if so, the terms of the order or notice, AEMO must have regard to the reasonable costs of efficient compliance.
+(4a) Subsections (3) and (4) do not apply to an order or notice relating to an east coast gas system reliability and supply adequacy function.
+(4b) The Rules may specify a person, or class of persons, to whom an order or notice relating to an east coast gas system reliability and supply adequacy function may be issued.
 (5) A market information instrument—
 (a) must specify—
 (i) the information, or categories of information, that is to be provided to AEMO; and
@@ -2183,6 +2292,10 @@ Subdivision 1—Market information orders and market information notices
 (a) invite persons of the class to which the proposed order is addressed to make representations about the terms of the proposed order within a period (at least 20 business days) specified in the invitation; and
 (b) consider any written representations made in response to the invitation within the specified period.
 (2) A general market information order must be published on AEMO's website as soon as practicable after it is made.
+(3) Subsection (1) does not apply to an order relating to an east coast gas system reliability and supply adequacy function.
+(4) AEMO must, before making an order relating to an east coast gas system reliability and supply adequacy function—
+(a) consider the extent to which persons of the class to which the proposed order is addressed may make representations about the terms of the proposed order; and
+(b) invite those persons to make representations to the extent AEMO considers possible in the circumstances.
 91FB—Service of market information notice
 (1) Before serving a market information notice, AEMO must—
 (a) give the person on whom AEMO intends to serve the market information notice (the respondent) written notice of its intention to do so; and
@@ -2191,6 +2304,7 @@ Subdivision 1—Market information orders and market information notices
 (a) invite the respondent to make written representations to AEMO about whether AEMO should serve the market information notice; and
 (b) specify the period (at least 20 business days) allowed for making the representations.
 (3) AEMO must consider written representations made in response to the invitation within the specified period before making a final decision to serve the market information notice.
+(4) This section does not apply to a notice relating to an east coast gas system reliability and supply adequacy function.
 91FC—Compliance with market information instrument
 (1) A market information instrument takes effect—
 (a) in the case of a general market information order—on publication on AEMO's website; or
@@ -2331,8 +2445,8 @@ AEMO is authorised to disclose information given to it in confidence, in complia
 91GG—Disclosure of protected information for safety, proper operation of the market etc
 (1) AEMO is authorised to disclose protected information if—
 (a) the disclosure is necessary for—
-(i) the safety, reliability or security of the supply of natural gas; or
-(ii) the safety, reliability or security of a pipeline; or
+(i) the safety, reliability, adequacy or security of the supply of natural gas; or
+(ii) the safety, reliability, adequacy or security of a pipeline; or
 (b) the disclosure is necessary for the proper operation of a regulated gas market, a capacity auction or the Capacity Transfer and Auction Procedures; or
 (c) the information is in the public domain.
 (2) AEMO may impose conditions to be complied with in relation to information disclosed under subsection (1)(a) or (b).
@@ -2397,7 +2511,8 @@ Registered participant includes the following:
 (a) an exempted participant;
 (b) a capacity auction participant;
 (c) a transportation service provider registered with AEMO under section 91BRR or exempted from registration under that section;
-(d) a gas trading exchange member.
+(d) a gas trading exchange member;
+(e) a relevant entity (within the meaning of section 91AF).
 Division 9—AEMO's statutory funds
 91J—Definitions
 In this Division—
@@ -4046,6 +4161,24 @@ Division 2—Rules made by Minister from time to time
 (7) The notice referred to in subsection (6)(a) must state—
 (a) the date on which the Rules commence operation; or
 (b) if different Rules will commence operation on different dates, those dates.
+294H—South Australian Minister may make Rules relating to AEMO′s east coast gas system reliability and supply adequacy functions
+(1) The South Australian Minister may make Rules on any 1 or more of the following subjects:
+(a) AEMO′s east coast gas system reliability and supply adequacy functions;
+(b) the subject matter of the heads of power specified in items 55W, 55ZA and 55ZC to 55ZF (inclusive) under the heading "East coast gas system reliability and supply adequacy functions", as inserted into Schedule 1 by the east coast gas system amendments;
+(c) any other subject contemplated by, or consequential on, the east coast gas system amendments.
+(2) Rules may only be made under subsection (1) on the recommendation of the MCE.
+(3) Section 74(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(4) As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette stating the date of commencement or, if they commence at different times, various dates of commencement; and
+(b) make the Rules publicly available.
+(5) The South Australian Minister may, by a later notice published in the South Australian Government Gazette, vary a commencement date fixed under subsection (4)(a).
+(6) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
+(7) This section expires on the day occurring 6 calendar months after it commences.
+(8) In this section—
+east coast gas system amendments means the amendments to—
+(a) this Law made by the National Gas (South Australia) (East Coast Gas System) Amendment Act 2023; and
+(b) the National Gas (South Australia) Regulations by regulations that are expressed to be made in connection with the National Gas (South Australia) (East Coast Gas System) Amendment Act 2023;
+South Australian Minister means the Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia.
 Part 3—Procedure for the making of a Rule by the AEMC
 295—Initiation of making of a Rule
 (1) The AEMC may make a Rule at the request of any person or the MCE.
@@ -4601,6 +4734,21 @@ Regulatory economic methodologies │
 AER economic regulatory function or powers │
 54 │ The way in which the AER performs or exercises an AER economic regulatory function or power, including the basis on which the AER makes an AER economic regulatory decision. │
 55 │ Principles to be applied, and procedures to be followed, by the AER in exercising or performing an AER economic regulatory function or power. │
+East coast gas system reliability and supply adequacy functions │
+55T │ The development of reliability standards, including standards applying to specified geographical zones, location, markets, infrastructure or entities. │
+55U │ The obligations and functions of AEMO, the AEMC or the AER in relation to the reliability standards, including determining the standards, or the manner or process for determining the standards. │
+55V │ The way in which AEMO must use or consider the reliability standards in the exercise of its east coast gas system reliability and supply adequacy functions. │
+55W │ The way in which AEMO must exercise or perform its east coast gas system reliability and supply adequacy functions. │
+55X │ Arrangements to enable AEMO to contract with other parties to reduce or curtail natural gas demand. │
+55Y │ Obligations on relevant entities to contract with each other for certain purposes and on certain terms and conditions. │
+55Z │ Arrangements to procure, by or on behalf of AEMO, the supply or storage of natural gas, transport capacity and other services for the purposes of AEMO′s east coast gas system reliability and supply adequacy functions, including the terms and conditions of the procurement. │
+55ZA │ Measures or mechanisms that must or may be implemented in response to actual or potential threats to the reliability or adequacy of the supply of natural gas within the east coast gas system. │
+55ZB │ Obligations on retailers, gas powered generators and other large gas users to develop plans to manage peak or other demand scenarios, including the form, content and implementation of those plans. │
+55ZC │ Arrangements to enable AEMO to, publicly or otherwise, signal or communicate actual or potential threats to the reliability or adequacy of the supply of natural gas within the east coast gas system, including the convening of conferences and requiring particular participants to attend those conferences. │
+55ZD │ The payment of fees and charges under section 91E to enable AEMO to recover costs relating to its east coast gas system reliability and supply adequacy functions. │
+55ZE │ The provision of information to AEMO in relation to its east coast gas system reliability and supply adequacy functions, who must give AEMO the information, the circumstances in which the information may or must be given and the way in which the information may or must be given, including a way set out in the Procedures. │
+55ZF │ Arrangements to pay compensation to relevant entities adversely affected by AEMO′s exercise or performance of its east coast gas system reliability and supply adequacy functions, and to recover the compensation paid from relevant entities. │
+55ZG │ Arrangements to assist AEMO and participating jurisdictions to coordinate with each other in relation to addressing actual or potential threats. │
 AER gas price reporting functions │
 56 │ The AER gas price reporting functions. │
 AEMO │ │
