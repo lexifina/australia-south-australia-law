@@ -514,7 +514,7 @@ Division 6—Miscellaneous
 (b) the variation, cancellation, suspension or expiry of the accreditation of a rail transport operator under Part 3 Division 4;
 (c) the registration of a rail infrastructure manager of a private siding under Part 3 Division 5;
 (d) the variation, cancellation, suspension or expiry of the registration of a rail infrastructure manager of a private siding under Part 3 Division 5;
-(e) an exemption from this Law or specified provisions of this Law conferred on a person and details of the exemption;
+(e) an exemption from this Law or specified provisions of this Law granted under Part 6 and details of the exemption;
 (f) a decision to accept a rail safety undertaking and the reasons for that decision under Part 10 Division 6;
 (g) a decision to withdraw or vary a rail safety undertaking under Part 10 Division 6;
 (h) the issuing of an improvement notice to a person;
@@ -1436,6 +1436,11 @@ Maximum penalty:
 Maximum penalty:
 (a) in the case of an individual—$10 000;
 (b) in the case of a body corporate—$50 000.
+(6a) A person who provides a document or information in relation to the assessment by a rail transport operator of the competency of that person to carry out rail safety work that the person knows—
+(a) is false or misleading in a material particular; or
+(b) omits any matter or thing without which the document or information is misleading,
+is guilty of an offence.
+Maximum penalty: $10 000.
 (7) In this section, a reference to the AQF is a reference to the Australian Qualifications Framework within the meaning of the Higher Education Support Act 2003 of the Commonwealth as in force from time to time, and includes a reference to any national policy that may be made in substitution for the Australian Qualifications Framework as in force from time to time.
 118—Identification of rail safety workers
 (1) A rail transport operator must ensure that each rail safety worker who is to carry out rail safety work in relation to the operator's railway operations has a form of identification that is sufficient to enable the type of competence and training of the worker for that rail safety work to be checked by a rail safety officer.
@@ -2210,13 +2215,34 @@ Division 1—Ministerial exemptions
 (a) on conditions specified in the notice; and
 (b) for a period (not exceeding 3 months) specified in the notice.
 (3) The Minister may, at any time, by further notice in the Gazette—
-(a) vary or cancel an exemption; or
+(a) vary an exemption (but not so as to extend the operation of the exemption to exceed the period referred to in subsection (2)(b)); or
+(ab) cancel an exemption; or
 (b) vary or cancel a condition of an exemption.
 (4) A person who has been granted an exemption under this section who contravenes a condition imposed on the exemption is guilty of an offence.
 Maximum penalty:
 (a) in the case of an individual—$20 000;
 (b) in the case of a body corporate—$100 000.
-Division 2—Exemptions granted by Regulator
+Division 1A—Exemptions granted by Regulator in event of emergency
+203A—Exemptions granted by Regulator in event of emergency
+(1) The Regulator may, in the event of an emergency, by notice in the South Australian Government Gazette, exempt rail transport operators or rail transport operators of a class, from the operation of section 114 in respect of the railway operations, or specified railway operations, of the operator.
+(2) The Regulator may grant an exemption under subsection (1)—
+(a) on conditions specified in the notice; and
+(b) for a period (not exceeding 3 months) specified in the notice.
+(3) The Regulator may, at any time, by further notice in the South Australian Government Gazette—
+(a) vary an exemption (but not so as to extend the operation of the exemption to exceed the period referred to in subsection (2)(b)); or
+(b) cancel an exemption; or
+(c) vary or cancel a condition of an exemption.
+(4) A rail transport operator who, without reasonable excuse, contravenes a condition of an exemption that applies to the operator is guilty of an offence.
+Maximum penalty:
+(a) in the case of an individual—$20 000;
+(b) in the case of a body corporate—$100 000.
+(5) Subsection (4) places an evidential burden on the accused to show a reasonable excuse.
+(6) The Regulator must publish a copy of a notice under this section on the ONRSR's website.
+(7) In this section—
+emergency means an event or circumstance that is declared to be an emergency or disaster by—
+(a) the Commonwealth or a State or Territory; or
+(b) a Commonwealth, State or Territory authority responsible for managing responses to emergencies or disasters.
+Division 2—Exemptions granted by Regulator on application
 Subdivision 1—Interpretation
 204—Interpretation
 In this Division—
