@@ -12,6 +12,7 @@ Division 8—Numbers and number plates
 Division 10—Suspension, cancellation and transfer of registration
 Division 11—Trade plates
 Division 12—Property in and replacement of plates and documents
+Division 13—Miscellaneous
 Part 3—Drivers' licences
 Part 3A—Motor driving instructors' licences
 Part 3B—Demerit points scheme
