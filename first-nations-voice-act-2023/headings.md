@@ -6,6 +6,8 @@ Division 3—Elections of members of Local First Nations Voices
 Division 4—Annual meeting of Local First Nations Voices
 Part 3—State First Nations Voice
 Part 4—Addresses to Parliament
+Editorial note—
+Part 4 will come into operation 1 January 2024.
 Part 5—Interaction with South Australian Government
 Division 1—Meeting with Cabinet
 Division 2—Briefings with Chief Executives of administrative units
