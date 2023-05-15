@@ -1,10 +1,4 @@
 Schedule 2—Stamp duties and exemptions
-Note—
-No liability to duty arises in relation to the following:
-• a mortgage, bond, debenture, covenant or warrant of attorney executed, or that first affects property in South Australia, on or after 1 July 2009;
-• a mortgage executed, or that first affects property in South Australia, before 1 July 2009 if no advance secured under the mortgage is made before that day;
-• an advance or further advance on or after 1 July 2009 under a mortgage first executed, or that first affects property in South Australia, before that day.
-See Part 4A Division 2.
 Part 1—Specified instruments
 2—Application to register or transfer registration of motor vehicle │
 (1) │ Application to register or transfer the registration of a motor vehicle—component payable in respect of registration— │ │
@@ -100,7 +94,7 @@ Part 1—Specified instruments
 │ 10. Policy of insurance where the application for registration is made by an entity which satisfies the Registrar of Motor Vehicles— │ │
 │ (a) that the entity is a disability services provider endorsed as an income tax exempt charity under the Income Tax Assessment Act 1997 of the Commonwealth; and │ │
 │ (b) that the motor vehicle will be wholly or mainly used for transporting people with disabilities. │ │
-3—Conveyance or transfer on sale of property not otherwise charged │ │ │
+3—Conveyance or transfer on sale of property not otherwise charged │ │
 (1) │ Conveyance or transfer on sale of any property (not otherwise charged), including contract or agreement for sale, or conveyance operating as a voluntary disposition inter vivos of any property (including a statement under Part 4)— │ │
 │ (b) where the value of the property conveyed— │ │
 │ (i) does not exceed $12 000—for every $100 or fractional part of $100 of the value │ $1.00 │
