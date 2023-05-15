@@ -22,7 +22,7 @@ This Law commences in a participating jurisdiction as provided by the Act of tha
 (1) The main guiding principle of the national registration and accreditation scheme is that the following are paramount—
 (a) protection of the public;
 (b) public confidence in the safety of services provided by registered health practitioners and students.
-(2) The other guiding principles of the national registration and accreditation scheme are as follows:
+(2) The other guiding principles of the national registration and accreditation scheme are as follows—
 (a) the scheme is to operate in a transparent, accountable, efficient, effective and fair way;
 (b) the scheme is to ensure the development of a culturally safe and respectful health workforce that—
 (i) is responsive to Aboriginal and Torres Strait Islander persons and their health; and
@@ -161,6 +161,11 @@ participating jurisdiction means a State or Territory—
 performance and professional standards panel means a panel established under section 182.
 performance assessment means an assessment of the knowledge, skill or judgment possessed, or care exercised by, a registered health practitioner in the practice of the health profession in which the practitioner is registered.
 police commissioner means the commissioner of the police force or police service of a participating jurisdiction or the Commonwealth.
+practice arrangement, between a registered health practitioner or unregistered person, and an entity—
+(a) includes—
+(i) a contract of employment, contract for services or another arrangement or agreement between the practitioner or person and the entity in relation to the provision of services; or
+(ii) an agreement for the practitioner or person to provide services for or on behalf of the entity, whether in an honorary capacity, as a volunteer or otherwise, and whether or not the practitioner or person receives payment for the services; but
+(b) does not include a contract or agreement not directly related to the provision of a health service.
 principal place of practice, for a registered health practitioner, means the address declared by the practitioner to be the address—
 (a) at which the practitioner is predominantly practising the profession; or
 (b) if the practitioner is not practising the profession or is not practising the profession predominantly at one address, that is the practitioner's principal place of residence.
@@ -191,10 +196,16 @@ registration status, in relation to an applicant for registration, includes—
 (b) any conditions previously imposed on the applicant's registration by a registration authority, whether before or after the commencement of this Law; and
 (c) any decisions made by a registration authority, a tribunal, a court or another entity having functions relating to the regulation of health practitioners about the applicant's practice of the profession, whether before or after the commencement of this Law; and
 (d) any investigation commenced by a registration authority or a health complaints entity into the applicant's conduct, performance or possible impairment but not finalised at the time of the application.
+regulatory body, in relation to a person, means any of the following—
+(a) the National Agency;
+(b) for a person who is or was a registered health practitioner—a National Board for a health profession in which the person is or was registered.
 relevant action, for Division 10 of Part 8, see section 178.
 relevant fee, for a service provided by a National Board, means the fee—
 (a) set under a health profession agreement between the Board and the National Agency for the service; and
 (b) published on the Board's website under section 26(3).
+relevant provision—
+(a) for Division 7A of Part 8, see section 159B; or
+(b) for Division 7B of Part 8, see section 159P.
 responsible Minister means a Minister responsible for the administration of this Law in a participating jurisdiction.
 responsible tribunal means a tribunal or court that—
 (a) is declared, by the Act applying this Law in a participating jurisdiction, to be the responsible tribunal for that jurisdiction for the purposes of this Law as applied in that jurisdiction; or
@@ -218,6 +229,7 @@ unprofessional conduct, of a registered health practitioner, means professional 
 (f) accepting a benefit as inducement, consideration or reward for referring another person to a health service provider or recommending another person use or consult with a health service provider; and
 (g) offering or giving a person a benefit, consideration or reward in return for the person referring another person to the practitioner or recommending to another person that the person use a health service provided by the practitioner; and
 (h) referring a person to, or recommending that a person use or consult, another health service provider, health service or health product if the practitioner has a pecuniary interest in giving that referral or recommendation, unless the practitioner discloses the nature of that interest to the person before or at the time of giving the referral or recommendation.
+unregistered person means a person who is not registered, or whose registration is suspended, under this Law.
 unsatisfactory professional performance, of a registered health practitioner, means the knowledge, skill or judgment possessed, or care exercised by, the practitioner in the practice of the health profession in which the practitioner is registered is below the standard reasonably expected of a health practitioner of an equivalent level of training or experience.
 voluntary notification means a notification made under Division 3 of Part 8.
 6—Interpretation generally
@@ -632,7 +644,9 @@ Division 1—General registration
 (c) the individual is a suitable person to hold general registration in the health profession; and
 (d) the individual is not disqualified under this Law or a law of a co‑regulatory jurisdiction from applying for registration, or being registered, in the health profession; and
 (e) the individual meets any other requirements for registration stated in an approved registration standard for the health profession.
-(2) Without limiting subsection (1), the National Board established for the health profession may decide the individual is eligible for general registration in the profession by imposing conditions on the registration under section 83.
+(2) Without limiting subsection (1), the National Board established for the health profession may decide the individual is eligible for general registration in the profession by doing either or both of the following—
+(a) imposing conditions on the registration under section 83;
+(b) accepting an undertaking from the individual under section 83A.
 53—Qualifications for general registration
 An individual is qualified for general registration in a health profession if—
 (a) the individual holds an approved qualification for the health profession; or
@@ -676,7 +690,9 @@ Division 2—Specialist registration
 (c) the individual is a suitable person to hold registration in the health profession; and
 (d) the individual is not disqualified under this Law or a law of a co‑regulatory jurisdiction from applying for registration, or being registered, in the specialty; and
 (e) the individual meets any other requirements for registration stated in an approved registration standard for the specialty.
-(2) Without limiting subsection (1), the National Board may decide the individual is eligible for registration in the recognised specialty by imposing conditions on the registration under section 83.
+(2) Without limiting subsection (1), the National Board may decide the individual is eligible for registration in the recognised specialty by doing either or both of the following—
+(a) imposing conditions on the registration under section 83;
+(b) accepting an undertaking from the individual under section 83A.
 58—Qualifications for specialist registration
 An individual is qualified for specialist registration in a recognised specialty in a health profession if the individual—
 (a) holds an approved qualification for the specialty; or
@@ -704,7 +720,9 @@ Division 3—Provisional registration
 (b) the individual is a suitable person to hold provisional registration in the profession; and
 (c) the individual is not disqualified under this Law or a law of a co-regulatory jurisdiction from applying for, or being registered in, the profession; and
 (d) the individual meets any other requirements for registration stated in an approved registration standard for the health profession.
-(2) Without limiting subsection (1), the National Board established for the health profession may decide the individual is eligible for provisional registration in the health profession by imposing conditions on the registration under section 83.
+(2) Without limiting subsection (1), the National Board established for the health profession may decide the individual is eligible for provisional registration in the health profession by doing either or both of the following—
+(a) imposing conditions on the registration under section 83;
+(b) accepting an undertaking from the individual under section 83A.
 63—Unsuitability to hold provisional registration
 (1) Section 55 applies to a decision by a National Board that an individual is not a suitable person to hold provisional registration in a health profession.
 (2) For the purposes of subsection (1), a reference in section 55 to general registration in the health profession is taken to be a reference to provisional registration in the health profession.
@@ -732,7 +750,9 @@ Division 4—Limited registration
 (1b) Despite subsection (1)(a) and (b), the individual is eligible for limited registration in another division of the profession if the individual—
 (a) is not qualified for general registration under the other division; and
 (b) is qualified under this Division for limited registration under the other division.
-(2) Without limiting subsection (1), the National Board established for the health profession may decide the individual is eligible for registration in the profession by imposing conditions on the registration under section 83.
+(2) Without limiting subsection (1), the National Board established for the health profession may decide the individual is eligible for limited registration in the profession by doing either or both of the following—
+(a) imposing conditions on the registration under section 83;
+(b) accepting an undertaking from the individual under section 83A.
 66—Limited registration for postgraduate training or supervised practice
 (1) An individual may apply for limited registration to enable the individual to undertake a period of postgraduate training or supervised practice in a health profession, or to undertake assessment or sit an examination, approved by the National Board established for the profession.
 (2) The individual is qualified for the limited registration applied for if the National Board is satisfied the individual has completed a qualification that is relevant to, and suitable for, the postgraduate training, supervised practice, assessment or examination.
@@ -780,6 +800,7 @@ An individual is eligible for non‑practising registration in a health professi
 74—Unsuitability to hold non-practising registration
 A National Board may decide an individual is not a suitable person to hold non‑practising registration in a health profession if—
 (a) having regard to the individual's criminal history to the extent that is relevant to the individual's practise of the profession, the individual is not, in the Board's opinion, an appropriate person to hold registration in the profession or it is not in the public interest for the individual to hold registration in the profession; or
+(aa) the person's registration has been withdrawn by a National Board under section 85A; or
 (b) in the Board's opinion, the individual is for any other reason not a fit and proper person to hold non‑practising registration in the profession.
 75—Registered health practitioner who holds non‑practising registration must not practise the profession
 (1) A registered health practitioner who holds non‑practising registration in a health profession must not practise the profession.
@@ -865,6 +886,8 @@ relevant section means section 52, 57, 62, 65 or 73.
 Note—
 A failure by a registered health practitioner to comply with a condition of the practitioner's registration does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
 (2) If the National Board decides to register the person subject to a condition referred to in subsection (1), the Board must decide a review period for the condition.
+83A—Undertakings at registration
+If a National Board decides to register a person in a health profession for which the Board is established, the Board may accept any undertaking from the person the Board considers necessary or desirable in the circumstances.
 84—Notice to be given to applicant
 (1) Within 30 days after making the decision under section 82, the National Board must—
 (a) give the applicant written notice of the Board's decision; and
@@ -875,6 +898,36 @@ A failure by a registered health practitioner to comply with a condition of the 
 (c) how an application for appeal may be made and the period within which the application must be made.
 85—Failure to decide application
 If a National Board fails to decide an application for registration within 90 days after its receipt, or the longer period agreed between the Board and the applicant, the failure by the Board to make a decision is taken to be a decision to refuse to register the applicant.
+Division 6A—Withdrawal of registration
+85A—Power to withdraw registration
+A National Board may withdraw the registration of a registered health practitioner registered in a health profession for which the Board is established if the Board reasonably believes the practitioner's registration was improperly obtained because the practitioner or someone else gave the Board information or a document that was false or misleading in a material particular.
+85B—Registered health practitioner may make submissions about proposed withdrawal of registration
+(1) If a National Board is proposing to withdraw a registered health practitioner's registration under section 85A, the Board must give the practitioner written notice of the proposal.
+(2) The notice must—
+(a) state the reasons for the proposal; and
+(b) invite the registered health practitioner to make a written or verbal submission to the National Board, within the reasonable time stated in the notice, about the proposal.
+(3) This section does not prevent a National Board from taking immediate action under Division 7 of Part 8 in relation to the registered health practitioner.
+85C—Decision about withdrawal of registration
+After considering any submissions made in accordance with a notice under section 85B, the National Board must—
+(a) decide—
+(i) the registration was not improperly obtained on the ground the registered health practitioner or someone else gave the Board information or a document that was false or misleading in a material particular; and
+(ii) no further action is to be taken; or
+(b) decide the registration was improperly obtained because the practitioner or someone else gave the Board information or a document that was false or misleading in a material particular and do one or more of the following—
+(i) withdraw the practitioner's registration;
+(ii) refer the matter to a responsible tribunal;
+(iii) take other appropriate action under Part 8.
+85D—Notice to be given to registered health practitioner
+(1) The National Board must give the registered health practitioner written notice of the Board's decision under section 85C as soon as practicable, but no later than 30 days after making the decision.
+(2) If the National Board decides to withdraw the registered health practitioner's registration, the notice must state—
+(a) the reasons for the decision; and
+(b) that the practitioner may appeal against the decision; and
+(c) how the application for appeal may be made and the period within which the application must be made.
+Note—
+If, under section 85C(b)(ii) or (iii), the National Board decides to refer the matter to a responsible tribunal or take other appropriate action under Part 8, notice of the referral or other action will be given to the registered health practitioner under the relevant provision of Part 8.
+85E—When decision takes effect
+The decision by the National Board to withdraw a person's registration takes effect on—
+(a) the day notice of the Board's decision is given to the person; or
+(b) the later day stated in the notice.
 Division 7—Student registration
 Subdivision 1—Persons undertaking approved programs of study
 86—Definitions
@@ -1032,6 +1085,8 @@ relevant section means section 94, 95, 97 or 98.
 Note—
 A failure by a registered health practitioner to comply with a condition of the practitioner's registration does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
 (2) If the National Board decides to impose a condition on the endorsement, the Board must also decide a review period for the condition.
+103A—Undertakings at endorsement
+If a National Board decides to endorse the applicant's registration under section 102, the Board may accept any undertaking from the applicant the Board considers necessary or desirable in the circumstances.
 104—Notice of decision to be given to applicant
 (1) As soon as practicable after making the decision under section 102, the National Board must—
 (a) give the applicant written notice of the Board's decision; and
@@ -1077,9 +1132,12 @@ Division 9—Renewal of registration
 Note—
 See the definition of criminal history which applies to offences in participating jurisdictions and elsewhere, including outside Australia.
 (c) if the applicant's right to practise at a hospital or another facility at which health services are provided was withdrawn or restricted during the applicant's preceding period of registration because of the applicant's conduct, professional performance or health, details of the withdrawal or restriction of the right to practise;
-(d) if the applicant's billing privileges were withdrawn or restricted under the Medicare Australia Act 1973 of the Commonwealth during the applicant's preceding period of registration because of the applicant's conduct, professional performance or health, details of the withdrawal or restriction of the privileges;
+(d) if, during the applicant's preceding period of registration and because of the applicant's conduct, professional performance or health, the applicant was—
+(i) disqualified under an agreement under section 92 of the Health Insurance Act 1973 of the Commonwealth; or
+(ii) subject to a final determination under section 106TA of the Health Insurance Act 1973 of the Commonwealth that contained a direction under section 106U(1)(g) or (h) of that Act that the applicant be disqualified;
 (e) details of any complaint made about the applicant to a registration authority or another entity having functions relating to professional services provided by health practitioners or the regulation of health practitioners;
 (f) any other information required by an approved registration standard.
+(1A) To avoid doubt, subsection (1)(d) applies only to the extent the applicant is not prohibited from disclosing information about the disqualification or final determination by the Health Insurance Act 1973 of the Commonwealth.
 (2) Subsection (1)(a)(ii), (iii) and (iv), (c) and (d) does not apply to an applicant who is applying for the renewal of non‑practising registration.
 110—National Board's powers before making decision
 Before deciding an application for renewal of registration, a National Board may exercise a power under section 80 as if the application were an application for registration made under section 77.
@@ -1093,15 +1151,18 @@ Before deciding an application for renewal of registration, a National Board may
 (2) The National Board may refuse to renew the applicant's registration or any endorsement on the applicant's registration—
 (a) on any ground on which the Board could refuse to grant the registration or endorsement under section 82 or 102 if the application were for a grant of registration or endorsement; or
 (b) if the applicant contravened any condition to which the applicant's previous registration or endorsement was subject; or
+(ba) if the applicant failed to comply with any undertaking given by the applicant to the Board that was in effect during the applicant's previous period of registration or endorsement; or
 (c) if, during the applicant's previous period of registration, the applicant failed to have appropriate professional indemnity insurance arrangements or failed to complete the continuing professional development required by an approved registration standard for the profession; or
 (d) if a statement made by the applicant in the applicant's annual statement was false or misleading in a material particular; or
 (e) if the application is for the renewal of provisional registration and the applicant's provisional registration has previously been renewed twice; or
 (f) if the application is for the renewal of limited application and the applicant's limited registration has previously been renewed 3 times.
 (3) If the National Board renews a registration, including any endorsement on the registration, the registration or endorsement is subject to—
 (a) any condition to which the registration was subject immediately before the renewal; and
-(b) any condition the Board considers necessary or desirable in the circumstances.
+(b) any condition the Board considers necessary or desirable in the circumstances; and
+(c) any undertaking given by the applicant to the Board that was in effect immediately before the renewal; and
+(d) any undertaking given by the applicant to the Board that the Board considers necessary or desirable in the circumstances.
 Note—
-A failure by a registered health practitioner to comply with a condition of the practitioner's registration does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
+A failure by a registered health practitioner to comply with a condition of the practitioner's registration, or an undertaking given by the practitioner to the Board, does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
 (4) If the National Board decides to renew a registered health practitioner's registration or an endorsement of the registration subject to a condition under subsection (3)(b), the Board must decide a review period for the condition.
 (5) If a National Board decides to refuse to renew an applicant's registration or the endorsement of the applicant's registration, or to renew the registration or the endorsement subject to a condition under subsection (3)(b), the Board must give the applicant a notice that states—
 (a) the decision made by the Board; and
@@ -1199,7 +1260,7 @@ Maximum penalty:
 (a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
 (b) in the case of a body corporate—$120 000.
 Note—
-A contravention of this subsection by a registered health practitioner may also constitute unprofessional conduct for which health, conduct or performance action may be taken.
+A contravention of this subsection by a registered health practitioner, or in some cases by a person who was a registered health practitioner, may also constitute unprofessional conduct for which health, conduct or performance action may be taken.
 118—Claims by persons as to specialist registration
 (1) A person who is not a specialist health practitioner must not knowingly or recklessly—
 (a) take or use the title of "specialist health practitioner", whether with or without any other words; or
@@ -1222,7 +1283,7 @@ Maximum penalty:
 (a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
 (b) in the case of a body corporate—$120 000.
 Note—
-A contravention of this section by a registered health practitioner may also constitute unprofessional conduct for which health, conduct or performance action may be taken.
+A contravention of this section by a registered health practitioner, or in some cases by a person who was a registered health practitioner, may also constitute unprofessional conduct for which health, conduct or performance action may be taken.
 119—Claims about type of registration or registration in recognised specialty
 (1) A registered health practitioner must not knowingly or recklessly—
 (a) claim to hold a type of registration or endorsement under this Law that the practitioner does not hold or hold himself or herself out as holding a type of registration or endorsement if the practitioner does not hold that type of registration; or
@@ -1239,7 +1300,7 @@ Maximum penalty:
 (a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
 (b) in the case of a body corporate—$120 000.
 Note—
-A contravention of this subsection by a registered health practitioner may also constitute unprofessional conduct for which health, conduct or performance action may be taken.
+A contravention of this subsection by a registered health practitioner, or in some cases by a person who was a registered health practitioner, may also constitute unprofessional conduct for which health, conduct or performance action may be taken.
 120—Registered health practitioner registered on conditions
 (1) A registered health practitioner who is registered on conditions must not knowingly or recklessly claim, or hold himself or herself out, to be registered without the conditions or any conditions.
 (2) A contravention of subsection (1) by a registered health practitioner does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
@@ -1349,7 +1410,9 @@ Subdivision 2—Review of conditions and undertakings
 (b) that the registered health practitioner or student may appeal against the decision; and
 (c) how an application for appeal may be made and the period within which the application must be made.
 126—Changing conditions on Board's initiative
-(1) This section applies if a National Board reasonably believes it is necessary to change a condition imposed on the registration of a registered health practitioner or student registered in a health profession for which the Board is established.
+(1) This section applies if a National Board established for a health profession reasonably believes it is necessary to change a condition imposed on—
+(a) for a registered health practitioner registered in the health profession—the practitioner's registration or endorsement; or
+(b) for a student registered in the health profession—the student's registration.
 (2) The National Board must give the registered health practitioner or student a written notice stating—
 (a) that the Board proposes to change the condition; and
 (b) how the Board proposes to change the condition; and
@@ -1360,7 +1423,7 @@ Subdivision 2—Review of conditions and undertakings
 (b) if the condition was imposed by an adjudication body for a co‑regulatory jurisdiction, unless the adjudication body decided, when imposing the condition or at a later time, that this Subdivision applied to the condition.
 (4) The registered health practitioner or student may make written or verbal submissions about the proposed change to the condition as stated in the notice.
 (5) The National Board must consider any submissions made under subsection (4) and decide whether or not to change the condition.
-(6) If the National Board's decision results in the registration being subject to a condition, the Board may decide a review period for the condition.
+(6) If the National Board's decision results in the registration or endorsement being subject to a condition, the Board may decide a review period for the condition.
 (6A) As soon as practicable after making the decision under subsection (5), the National Board must give written notice to the registered health practitioner or student of—
 (a) the decision; and
 (b) if the Board has decided a review period for a condition—details of the review period.
@@ -1369,9 +1432,13 @@ Subdivision 2—Review of conditions and undertakings
 (b) that the registered health practitioner or student may appeal against the decision; and
 (c) how an application for appeal may be made and the period within which the application must be made.
 127—Removal of condition or revocation of undertaking
-(1) This section applies if a National Board reasonably believes—
-(a) that a condition imposed on the registration of a registered health practitioner or student registered in a health profession for which the Board is established is no longer necessary; or
-(b) that an undertaking given to the Board by a health practitioner or student registered in a health profession for which the Board is established is no longer necessary.
+(1) This section applies if a National Board established for a health profession reasonably believes the following is no longer necessary—
+(a) for a registered health practitioner registered in the health profession—
+(i) a condition imposed on the practitioner's registration or endorsement; or
+(ii) an undertaking given to the Board by the practitioner;
+(b) for a student registered in the health profession—
+(i) a condition imposed on the student's registration; or
+(ii) an undertaking given to the Board by the student.
 (2) The National Board may decide to remove the condition or revoke the undertaking.
 (3) However, the condition or undertaking may not be removed or revoked—
 (a) during a review period applying to the condition or undertaking, unless the National Board reasonably believes there has been a material change in the registered health practitioner's or student's circumstances; or
@@ -1405,21 +1472,35 @@ registered health practitioner does not include a registered health practitioner
 130—Registered health practitioner or student to give National Board notice of certain events
 (1) A registered health practitioner or student must, within 7 days after becoming aware that a relevant event has occurred in relation to the practitioner or student, give the National Board established for the practitioner's or student's health profession written notice of the event.
 (2) A contravention of subsection (1) by a registered health practitioner or student does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
+(2A) To avoid doubt, a registered health practitioner is not required to give the National Board written notice of an event within the meaning of paragraphs (e) or (f) of the definition of relevant event if the notification is prohibited by the Health Insurance Act 1973 of the Commonwealth.
 (3) In this section—
-relevant event means—
-(a) in relation to a registered health practitioner—
-(i) the practitioner is charged, whether in a participating jurisdiction or elsewhere, with an offence punishable by 12 months imprisonment or more; or
-(ii) the practitioner is convicted of or the subject of a finding of guilt for an offence, whether in a participating jurisdiction or elsewhere, punishable by imprisonment; or
-(iii) appropriate professional indemnity insurance arrangements are no longer in place in relation to the practitioner's practice of the profession; or
-(iv) the practitioner's right to practise at a hospital or another facility at which health services are provided is withdrawn or restricted because of the practitioner's conduct, professional performance or health; or
-(v) the practitioner's billing privileges are withdrawn or restricted under the Medicare Australia Act 1973 of the Commonwealth because of the practitioner's conduct, professional performance or health; or
-(vi) the practitioner's authority under a law of a State or Territory to administer, obtain, possess, prescribe, sell, supply or use a scheduled medicine or class of scheduled medicines is cancelled or restricted; or
-(vii) a complaint is made about the practitioner to an entity referred to in section 219(1)(a) to (e); or
-(viii) the practitioner's registration under the law of another country that provides for the registration of health practitioners is suspended or cancelled or made subject to a condition or another restriction; or
-(b) in relation to a student—
-(i) the student is charged with an offence punishable by 12 months imprisonment or more; or
-(ii) the student is convicted of or the subject of a finding of guilt for an offence punishable by imprisonment; or
-(iii) the student's registration under the law of another country that provides for the registration of students has been suspended or cancelled.
+relevant event, in relation to a registered health practitioner, means—
+(a) the practitioner is charged with—
+(i) a scheduled medicine offence; or
+(ii) an offence punishable by 12 months imprisonment or more, whether in a participating jurisdiction or elsewhere; or
+(b) the practitioner is convicted of or is the subject of a finding of guilt for—
+(i) a scheduled medicine offence; or
+(ii) an offence punishable by imprisonment, whether in a participating jurisdiction or elsewhere; or
+(c) appropriate professional indemnity insurance arrangements are no longer in place in relation to the practitioner's practice of the profession; or
+(d) the practitioner's right to practise at a hospital or another facility at which health services are provided is withdrawn or restricted because of the practitioner's conduct, professional performance or health; or
+(e) the practitioner is disqualified under an agreement under section 92 of the Health Insurance Act 1973 of the Commonwealth because of the practitioner's conduct, professional performance or health; or
+(f) the practitioner is subject to a final determination under section 106TA of the Health Insurance Act 1973 of the Commonwealth that contains a direction under section 106U(1)(g) or (h) of that Act that the practitioner be disqualified because of the practitioner's conduct, professional performance or health; or
+(g) the practitioner's authority under a law of a State or Territory to administer, obtain, possess, prescribe, sell, supply or use a scheduled medicine or class of scheduled medicines is cancelled or restricted; or
+(h) a complaint is made about the practitioner to an entity referred to in section 219(1)(a) to (e); or
+(i) the practitioner's registration under the law of another country that provides for the registration of health practitioners is suspended or cancelled or made subject to a condition or another restriction.
+relevant event, in relation to a student, means—
+(a) the student is charged with—
+(i) a scheduled medicine offence; or
+(ii) an offence punishable by 12 months imprisonment or more, whether in a participating jurisdiction or elsewhere; or
+(b) the student is convicted of or is the subject of a finding of guilt for—
+(i) a scheduled medicine offence; or
+(ii) an offence punishable by imprisonment, whether in a participating jurisdiction or elsewhere; or
+(c) the student's registration under the law of another country that provides for the registration of students has been suspended or cancelled.
+scheduled medicine offence means an offence against a law of a participating jurisdiction—
+(a) if—
+(i) the law regulates the authority of registered health practitioners or students to administer, obtain, possess, prescribe, sell, supply or use scheduled medicines; and
+(ii) the offence relates to registered health practitioners or students administering, obtaining, possessing, prescribing, selling, supplying or using scheduled medicines; but
+(b) does not include an offence declared or prescribed by a law of the jurisdiction not to be a scheduled medicine offence for the purposes of this Law.
 131—Change in principal place of practice, address or name
 (1) A registered health practitioner must, within 30 days of any of the following changes happening, give the National Board established for the practitioner's health profession written notice of the change and any evidence providing proof of the change required by the Board—
 (a) a change in the practitioner's principal place of practice;
@@ -1431,18 +1512,16 @@ relevant event means—
 (2) The registered health practitioner must not, without reasonable excuse, fail to comply with the notice from the Board.
 (3) A contravention of subsection (2) by a registered health practitioner does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
 (4) In this section—
-practice information, for a registered health practitioner practising in the health profession for which the practitioner is registered, means each of the following if it applies to the practitioner—
-(a) if the practitioner is self‑employed and shares premises with other registered health practitioners with whom the practitioner shares the cost of the premises—
-(i) that the practitioner is self‑employed; and
-(ii) the address of each of the premises at which the practitioner practises; and
-(iii) if the practitioner practises under a business name or names, each business name; and
-(iv) the names of the other registered health practitioners with whom the practitioner shares premises;
-(b) if the practitioner is self‑employed and paragraph (a) does not apply—that the practitioner is self‑employed, the address of each of the premises at which the practitioner practises and, if the practitioner practises under a business name or names, each business name;
-(c) if the practitioner is engaged by one or more entities under a contract of employment, contract for services or any other arrangement or agreement—the name, address and contact details of each entity;
-(d) if the practitioner is providing services for or on the behalf of one or more entities, whether in an honorary capacity, as a volunteer or otherwise, and whether or not the practitioner receives payment from an entity for the services—the name, address and contact details of each entity;
-Example for paragraph (d)—
-A physiotherapist practises physiotherapy as a volunteer at a sporting club or charity under an arrangement with that entity.
-(e) if the practitioner practises under a name or names that are not the same as the name under which the practitioner is registered under this Law—the other name or names.
+practice information, for a registered health practitioner practising in the health profession for which the practitioner is registered, means each of the following, as it applies to the current practice, and all previous practices, of the profession by the practitioner—
+(a) if the practitioner is, or was, self-employed—
+(i) that the practitioner is, or was, self-employed; and
+(ii) the address of each of the premises at which the practitioner practises, or practised; and
+(iii) if the practitioner practises, or practised, under a business name or names—each business name; and
+(iv) if the practitioner shares, or shared, premises and the cost of the premises with other registered health practitioners—the names of the other registered health practitioners;
+(b) if the practitioner has, or had, a practice arrangement with one or more entities—the name, address and contact details of each entity;
+Example of practice arrangement—
+A physiotherapist practises, or practised, physiotherapy as a volunteer at a sporting club or charity under an arrangement with that entity.
+(c) if the practitioner practises, or practised, under a name or names that are not the same as the name under which the practitioner is registered under this Law—the other name or names.
 premises at which the practitioner practises does not include the residential premises of a patient of the practitioner.
 Subdivision 4—Advertising
 133—Advertising
@@ -1492,19 +1571,39 @@ Maximum penalty:
 (b) the later day stated in the notice.
 Part 8—Health, performance and conduct
 Division 1—Preliminary
-138—Part applicable to persons formerly registered under this Law
-(1) This section applies if a person was, but is no longer, registered in a health profession under this Law.
-(2) A notification may be made, and proceedings may be taken, under this Part in relation to the person's behaviour while registered as if the person were still registered under this Law by the National Board established for the health profession.
-(3) For the purposes of subsection (2), this Part (other than Division 2 and Division 6) applies, with any necessary changes, to the person as if a reference to a registered health practitioner included that person.
-139—Part applicable to persons formerly registered under corresponding prior Act in certain circumstances
-(1) This section applies if a person—
+138—Application of Part to persons who are registered health practitioners
+(1) A notification may be made under this Part about, and proceedings may be taken under this Part against, a person who is a registered health practitioner in relation to behaviour that—
+(a) occurs while the practitioner is registered in a health profession under this Law; or
+(b) occurred before the practitioner was registered in a health profession under this Law; or
+(c) occurred during any other period in which the practitioner was not registered in a health profession under this Law, including, for example, if the registration had ended or was cancelled, suspended or withdrawn.
+(2) A registered health practitioner's behaviour that occurred at a time specified in subsection (1)(b)) or (c) may not constitute—
+(a) unsatisfactory professional performance; or
+(b) unprofessional conduct, except as provided by section 139.
+139—Proceedings in relation to practitioner's behaviour while temporarily unregistered
+(1) This section applies if—
+(a) proceedings are taken under this Part against a person who is a registered health practitioner; and
+(b) the panel or tribunal is satisfied the behaviour to which the proceedings relate occurred—
+(i) after the practitioner's registration ended under section 108(2)(a); and
+(ii) while the practitioner continued to practise the health profession.
+(2) The proceedings may be taken and findings may be made as if the practitioner were registered at the time the behaviour occurred.
+(3) Subsection (2) does not prevent a finding of unprofessional conduct on the basis the person was contravening a provision of Division 10 of Part 7, whether or not the person has been prosecuted for, or convicted of, an offence in relation to the contravention.
+(4) In this section—
+behaviour includes—
+(a) continuing to take or use a title protected under Subdivision 1 of Division 10 of Part 7 for a health profession; or
+(b) continuing to undertake a practice protected under Subdivision 2 of Division 10 of Part 7 for a health profession.
+139A—Application of Part to persons who were registered health practitioners
+(1) This section applies to a person who was, but is no longer, registered in a health profession under this Law.
+(2) A notification may be made under this Part about, and proceedings may be taken under this Part against, the person as if the person were still registered in a health profession under this Law in relation to behaviour that occurred while the person was registered.
+(3) For the purposes of subsection (2), this Part (other than Divisions 2 and 6) applies, with any necessary changes, to the person as if a reference to a registered health practitioner included that person.
+139B—Application of Part to persons who were registered under corresponding prior Act
+(1) This section applies to a person who—
 (a) was registered in a health profession under a corresponding prior Act; and
-(b) is not, and has not been, registered in the health profession under this Law.
-(2) A notification may be made, and proceedings may be taken, under this Part in relation to the person's behaviour while registered under the corresponding prior Act as if the person were registered under this Law by the National Board established for the health profession.
+(b) is not, and has not been, registered in a health profession under this Law.
+(2) A notification may be made under this Part about, and proceedings may be taken under this Part against, the person as if the person were registered in a health profession under this Law in relation to behaviour that occurred while the person was registered under the corresponding prior Act.
 (3) However, subsection (2) applies only to the extent—
 (a) a notification about the person's behaviour could have been made under the corresponding prior Act; and
-(b) proceedings of that type could have been taken under the corresponding prior Act.
-(4) For the purposes of subsection (2), this Part (other than Division 2 and Division 7) applies, with any necessary changes, to the person as if a reference to a registered health practitioner included that person.
+(b) proceedings could have been taken under the corresponding prior Act.
+(4) For the purposes of subsection (2), this Part (other than Divisions 2 and 7) applies, with any necessary changes, to the person as if a reference to a registered health practitioner included that person.
 Division 2—Mandatory notifications
 140—Definition of notifiable conduct
 In this Division—
@@ -1643,6 +1742,19 @@ Division 5—Preliminary assessment
 (i) a number of notifications that suggest a pattern of conduct; and
 (ii) notifications made to a health complaints entity.
 (3) If the National Board decides the notification relates to a person who is not registered in a health profession for which the Board is established but the Board reasonably suspects the person is registered in a health profession for which another National Board is established, the Board must refer the notification to that other Board.
+149A—Power to require information
+(1) For the purpose of conducting the preliminary assessment of a notification, a National Board may, by written notice given to a person, require the person to give specified information or produce specified documents to the Board within a specified reasonable time and in a specified reasonable way.
+(2) The person must comply with the notice unless the person has a reasonable excuse.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(3) Without limiting subsection (2), it is a reasonable excuse for an individual not to give information or produce a document if giving the information or producing the document might tend to incriminate the individual.
+149B—Inspection of documents
+(1) If a document is produced to a National Board, the Board may—
+(a) inspect the document; and
+(b) make a copy of, or take an extract from, the document; and
+(c) keep the document while it is necessary for the preliminary assessment of a notification.
+(2) If the National Board keeps the document, the Board must permit a person otherwise entitled to possession of the document to inspect, make a copy of, or take an extract from, the document at the reasonable time and in the reasonable way decided by the Board.
 150—Relationship with health complaints entity
 (1) If the subject matter of a notification would also provide a ground for a complaint to a health complaints entity under a law of a participating jurisdiction, the National Board that received the notification must, as soon as practicable after its receipt—
 (a) notify the health complaints entity that the Board has received the notification; and
@@ -1666,6 +1778,14 @@ Division 5—Preliminary assessment
 (b) details of—
 (i) the issues raised about the health, conduct or performance of the registered health practitioner; or
 (ii) the health, conduct or performance action taken in relation to the registered health practitioner.
+150A—Referral to other entities
+(1) If, after conducting the preliminary assessment of a notification, the National Board decides the subject matter, or part of the subject matter, of the notification may be dealt with by another entity, the Board may refer the notification or part of the notification to the other entity.
+(2) A decision by the National Board to refer a notification or part of a notification to another entity does not prevent the Board from continuing to deal with the notification or part of the notification.
+(3) If the National Board decides to refer a notification or part of a notification to another entity, it must give the other entity—
+(a) a copy of the notification or, if the notification was not made in writing, a copy of the Board's record of the details of the notification; and
+(b) any other information the Board has that is relevant to the notification.
+(4) The National Board may ask the other entity to give the Board information about how the subject matter of the notification or the part of the notification was resolved.
+(5) The other entity may provide the information requested by the National Board.
 151—When National Board may decide to take no further action
 (1) A National Board may decide to take no further action in relation to a notification if—
 (a) the Board reasonably believes the notification is frivolous, vexatious, misconceived or lacking in substance; or
@@ -1674,8 +1794,9 @@ Division 5—Preliminary assessment
 (d) the subject matter of the notification has already been dealt with adequately by the Board; or
 (e) the subject matter of the notification—
 (i) is being dealt with, or has already been dealt with, by another entity; or
-(ii) has been referred by the Board to another entity to be dealt with by that entity; or
+(ii) has been referred by the Board under section 150 or 150A to another entity to be dealt with by that entity; or
 (f) the health practitioner to whom the notification relates has taken appropriate steps to remedy the matter the subject of the notification and the Board reasonably believes no further action is required in relation to the notification.
+(1A) A National Board may decide to take no further action in relation to part of a notification if the subject matter of the part of the notification has been referred by the Board under section 150 or 150A to another entity to be dealt with by that entity.
 (2) A decision by a National Board to decide to take no further action in relation to a notification does not prevent a National Board or adjudication body taking the notification into consideration at a later time as part of a pattern of conduct or practice by the health practitioner.
 (3) If a National Board decides to take no further action in relation to a notification it must give written notice of the decision to the notifier.
 (4) A notice under subsection (3) must state—
@@ -1750,6 +1871,60 @@ A registered health practitioner is charged with a serious criminal offence, unr
 159A—Board may give information to notifier about immediate action
 (1) This section applies if a notification about a registered health practitioner or student results in immediate action by a National Board under this division in relation to the practitioner or student.
 (2) After deciding to take the immediate action, the National Board may inform the notifier who made the notification of the decision and the reasons for the decision.
+Division 7B—Public statements
+159P—Definition
+In this Division—
+relevant provision means any of the following provisions—
+(a) section 113;
+(b) sections 115 to 119;
+(c) sections 121 to 123;
+(d) section 133;
+(e) section 136.
+159Q—Making of public statement
+(1) A regulatory body may make a public statement about a person if—
+(a) the person—
+(i) has, in the regulatory body's reasonable belief, contravened a relevant provision; or
+(ii) is the subject of an assessment, investigation or other proceedings under this Part; and
+(b) the regulatory body reasonably believes that—
+(i) because of the person's conduct, performance or health, the person poses a serious risk to persons; and
+(ii) it is necessary to issue a public statement to protect public health or safety.
+(2) A public statement made by a regulatory body may be made in a way the body considers appropriate.
+(3) The regulatory body may identify and give warnings or information about either or both of the following if the body considers it appropriate in the circumstances—
+(a) a person;
+(b) health services provided by a person.
+(4) No liability is incurred by the regulatory body for the making of, or for anything done for the purpose of making, a public statement under this section in good faith.
+159R—Show cause process for public statement
+(1) If a regulatory body proposes to make a public statement about a person, the body must give the person a written notice that includes the following information—
+(a) that the body proposes to make a public statement about the person;
+(b) the way in which it is proposed to make the public statement;
+(c) the content of the proposed public statement;
+(d) that the person may make written or verbal submissions to the regulatory body, within the reasonable time stated in the notice, about the proposed public statement.
+(2) After considering any submission made by the person in accordance with the notice, the regulatory body must decide—
+(a) not to make the public statement; or
+(b) to make the public statement as proposed; or
+(c) to make the public statement in a different way or with different content.
+(3) The regulatory body must give written notice of the body's decision, that includes the following information, to the person—
+(a) the decision made by the body;
+(b) the reasons for the body's decision;
+(c) if the decision is to make the public statement—
+(i) that the person may appeal against the decision; and
+(ii) how an application for an appeal may be made; and
+(iii) the period within which the application must be made.
+(4) The regulatory body must give the notice to the person—
+(a) as soon as practicable after the decision is made; and
+(b) if the decision is to make the public statement—at least one business day before the statement is to be made.
+159S—Revision of public statement by regulatory body
+(1) A regulatory body that made a public statement about a person may revise the statement if the regulatory body reasonably believes it is necessary in the circumstances.
+(2) If the proposed revision changes the public statement in a material way, sections 159Q(2) and (3) and 159R apply to the proposed revision, with any necessary modifications, as if it were the proposed making of a public statement.
+159T—Revocation of public statement
+(1) A regulatory body that made a public statement about a person must revoke the public statement if the body is satisfied the grounds on which the statement was made—
+(a) no longer exist in relation to the person; or
+(b) did not exist at the time the statement was made.
+(2) As soon as practicable after deciding to revoke the public statement, the regulatory body must—
+(a) give the person a written notice stating—
+(i) the regulatory body has decided to revoke the public statement; and
+(ii) the date on which the public statement will be revoked; and
+(b) make a public statement revoking the original public statement in the same way, or a similar way, to the way in which the original public statement was made.
 Division 8—Investigations
 Subdivision 1—Preliminary
 160—When investigation may be conducted
@@ -1879,8 +2054,9 @@ Division 10—Action by National Board
 (i) the way a registered health practitioner registered in a health profession for which the Board is established practises the health profession, or the practitioner's professional conduct, is or may be unsatisfactory; or
 (ii) a registered health practitioner or student registered in a health profession for which the Board is established has or may have an impairment; or
 (iii) a student has been charged with an offence, or has been convicted or found guilty of an offence, that is punishable by 12 months imprisonment or more; or
-(iv) a student has or may have contravened a condition of the student's registration or an undertaking given by the student to a National Board; and
-(b) the matter is not required to be referred to a responsible tribunal under section 193; and
+(iv) a student has or may have contravened a condition of the student's registration or an undertaking given by the student to a National Board; or
+(v) a registered health practitioner's registration was improperly obtained because the practitioner or someone else gave the Board information or a document that was false or misleading in a material particular; and
+(b) the matter is not required to be referred to a responsible tribunal under section 193, including because of a decision made under section 193A that it is not in the public interest; and
 (c) the Board decides it is not necessary or appropriate to refer the matter to a panel.
 (2) The National Board may decide to take one or more of the following actions (relevant action) in relation to the registered health practitioner or student—
 (a) caution the registered health practitioner or student;
@@ -1900,16 +2076,12 @@ Division 10—Action by National Board
 (b) invite the practitioner or student to make a written or verbal submission to the Board, within the reasonable time stated in the notice, about the proposed relevant action.
 (2) After considering any submissions made by the registered health practitioner or student in accordance with this section, the National Board must decide to—
 (a) take no action in relation to the matter; or
-(b) do either or both of the following—
+(b) do any of the following—
 (i) take the proposed relevant action or other relevant action;
-(ii) refer the matter to another entity, including, for example, a health complaints entity, for investigation or other action.
-(3) This section does not apply if—
-(a) a National Board is proposing to take relevant action in relation to a registered health practitioner or student; and
-(b) the National Board has, in relation to the matter that forms the basis for the relevant action—
-(i) investigated the registered health practitioner or student under Division 8; or
-(ii) conducted a health assessment or performance assessment of the registered health practitioner or student under Division 9.
+(ii) take other action under this Part;
+(iii) refer the matter to another entity, including, for example, a health complaints entity, for investigation or other action.
 180—Notice to be given to health practitioner or student and notifier
-(1) As soon as practicable after making a decision under section 179(2) or 178(2), if section 179 does not apply, the National Board must give written notice of the decision to—
+(1) As soon as practicable after making a decision under section 179(2), the National Board must give written notice of the decision to—
 (a) the registered health practitioner or student; and
 (b) if the decision was the result of a notification, the notifier.
 (2) A notice under subsection (1)(b) may also include the reasons for the decision.
@@ -1980,12 +2152,11 @@ If a matter the subject of a hearing before a panel relates to a notification, t
 At a hearing, a panel may proceed in the absence of the registered health practitioner or student the subject of the proceedings if the panel reasonably believes the practitioner or student has been given notice of the hearing.
 189—Hearing not open to the public
 A hearing before a panel is not open to the public.
-190—Referral to responsible tribunal
-A panel must stop hearing a matter and require the National Board that established the panel to refer the matter to a responsible tribunal under section 193 if, at any time—
+190—Referral to responsible tribunal or National Board
+(1) A panel must stop hearing a matter and require the National Board that established the panel to refer the matter to a responsible tribunal under section 193 if, at any time—
 (a) the practitioner or student the subject of the hearing asks the panel for the matter to be referred to a responsible tribunal under section 193; or
-(b) if the subject of the hearing is a registered health practitioner—
-(i) the panel reasonably believes the evidence demonstrates the practitioner may have behaved in a way that constitutes professional misconduct; or
-(ii) the panel reasonably believes the evidence demonstrates the practitioner's registration may have been improperly obtained because the practitioner or someone else gave the Board information or a document that was false or misleading in a material particular.
+(b) if the subject of the hearing is a registered health practitioner—the panel reasonably believes the evidence demonstrates the practitioner may have behaved in a way that constitutes professional misconduct.
+(2) A panel must stop hearing a matter and refer the matter to the National Board that established the panel if the panel reasonably believes the evidence demonstrates the practitioner's registration may have been improperly obtained because the practitioner or someone else gave the Board information or a document that was false or misleading in a material particular.
 191—Decision of panel
 (1) After hearing a matter about a registered health practitioner, a panel may decide—
 (a) the practitioner has no case to answer and no further action is to be taken in relation to the matter; or
@@ -2046,16 +2217,27 @@ Examples of when the panel may be reasonably satisfied a later reconsideration d
 (4) A notice under subsection (2)(b) may also include the reasons for the decision.
 Division 12—Referring matter to responsible tribunals
 193—Matters to be referred to responsible tribunal
-(1) A National Board must refer a matter about a registered health practitioner or student to a responsible tribunal if—
-(a) for a registered health practitioner, the Board reasonably believes, based on a notification or for any other reason—
-(i) the practitioner has behaved in a way that constitutes professional misconduct; or
-(ii) the practitioner's registration was improperly obtained because the practitioner or someone else gave the Board information or a document that was false or misleading in a material particular; or
+(1) Subject to section 193A, a National Board must refer a matter about a registered health practitioner or student to a responsible tribunal if—
+(a) for a registered health practitioner, the Board reasonably believes, based on a notification or for any other reason, the practitioner has behaved in a way that constitutes professional misconduct; or
 (b) for a registered health practitioner or student, a panel established by the Board requires the Board to refer the matter to a responsible tribunal.
 (2) The National Board must—
 (a) refer the matter to—
 (i) the responsible tribunal for the participating jurisdiction in which the behaviour the subject of the matter occurred; or
 (ii) if the behaviour occurred in more than one jurisdiction, the responsible tribunal for the participating jurisdiction in which the practitioner's principal place of practice is located; and
 (b) give written notice of the referral to the registered health practitioner or student to whom the matter relates.
+(3) Subsection (1)(a) does not require a National Board to refer a matter to a responsible tribunal if the behaviour constituting the professional misconduct consists of a registered health practitioner improperly obtaining registration because the practitioner or someone else gave the Board information or a document that was false or misleading in a material particular.
+Note—
+See section 85C(b) which provides for the action a National Board may take if the Board decides a registered health practitioner's registration was improperly obtained.
+193A—National Boards may decide not to refer certain matters
+(1) A National Board may decide not to refer a matter about a registered health practitioner mentioned in section 193(1)(a) to a responsible tribunal if the Board decides there is no public interest in the matter being heard by a responsible tribunal.
+(2) In deciding whether or not there is public interest in the matter being heard by a responsible tribunal, the National Board must have regard to the following—
+(a) the need to protect the health and safety of the public;
+(b) the seriousness of the alleged conduct, including whether the registered health practitioner may have engaged in wilful misconduct;
+(c) whether the practitioner is the subject of more than one notification or has previously been the subject of a notification;
+(d) whether the practitioner is still registered and, if not still registered, may again seek registration in the future;
+(e) any other benefit the public may receive by having the matter referred to a responsible tribunal, including the benefit of a public decision in relation to the matter;
+(f) any other matter the Board considers relevant to the decision.
+(3) If a decision is made under this section to not refer a matter to a responsible tribunal, the National Agency must publish information about the decision in its annual report.
 194—Parties to the proceedings
 The parties to proceedings relating to a matter being heard by a responsible tribunal are—
 (a) the registered health practitioner or student who is the subject of the proceedings; and
@@ -2088,7 +2270,8 @@ The responsible tribunal may make any order about costs it considers appropriate
 (a) disqualify the person from applying for registration as a registered health practitioner for a specified period; or
 (b) prohibit the person, either permanently or for a stated period, from doing either or both of the following—
 (i) providing any health service or a specified health service;
-(ii) using any title or a specified title.
+(ii) using any title or a specified title; or
+(c) impose restrictions, either permanently or for a stated period, on the provision of any health service or a specified health service by the person.
 196A—Offences relating to prohibition orders
 (1) A person must not contravene a prohibition order.
 Maximum penalty: $60 000 or 3 years imprisonment or both.
@@ -2115,6 +2298,7 @@ Division 13—Appeals
 199—Appellable decisions
 (1) A person who is the subject of any of the following decisions (an appellable decision) may appeal against the decision to the appropriate responsible tribunal for the appellable decision—
 (a) a decision by a National Board to refuse to register the person;
+(aa) a decision by a National Board to withdraw the person's registration;
 (b) a decision by a National Board to refuse to endorse the person's registration;
 (c) a decision by a National Board to refuse to renew the person's registration;
 (d) a decision by a National Board to refuse to renew the endorsement of the person's registration;
@@ -2124,6 +2308,7 @@ Division 13—Appeals
 (f) a decision by a National Board to refuse to change or remove a condition imposed on the person's registration or the endorsement of the person's registration;
 (g) a decision by a National Board to refuse to change or revoke an undertaking given by the person to the Board;
 (h) a decision by a National Board to suspend the person's registration;
+(hb) a decision by a regulatory body to make or revise a public statement under Division 7B;
 (i) a decision by a panel to impose a condition on the person's registration;
 (j) a decision by a health panel to suspend the person's registration;
 (ja) a decision by a health panel not to revoke a suspension;
@@ -2142,7 +2327,10 @@ The parties to proceedings relating to an appellable decision being heard by a r
 (a) the person who is the subject of the appellable decision; and
 (b) the National Board that—
 (i) made the appellable decision; or
-(ii) established the panel that made the appellable decision.
+(ii) established the panel that made the appellable decision; and
+(c) the National Agency if—
+(i) the appellable decision is a decision mentioned in section 199(1)(ha) or (hb); and
+(ii) the National Agency made the appellable decision.
 201—Costs
 The responsible tribunal may make any order about costs it considers appropriate for the proceedings.
 202—Decision
@@ -2171,9 +2359,18 @@ Division 14—Miscellaneous
 (ii) receives notice from an adjudication body that the adjudication body has decided to take health, conduct or performance action against a registered health practitioner; or
 (iii) receives notice from a co‑regulatory authority that an adjudication body in the co‑regulatory jurisdiction has decided to take health, conduct or performance action against a registered health practitioner; and
 (b) the National Board has been given practice information under section 132 or becomes aware of practice information it should have been given under that section.
-(2) The National Board, as soon as practicable after making the decision or receiving the notice—
-(a) if the practice information given to the Board, or of which the Board becomes aware, is information referred to in section 132(4)(a) and includes the names of other registered health practitioners—may give written notice to each of those practitioners of the decision to take health, conduct or performance action against the registered health practitioner; or
-(b) if the practice information given to the Board, or of which the Board becomes aware, is information referred to in section 132(4)(c) or (d) and includes the name of an entity—must give written notice to the entity of the decision to take health, conduct or performance action against the registered health practitioner.
+(2) If the practice information given to the National Board, or of which the Board becomes aware, is information referred to in paragraph (a) of the definition of practice information in section 132(4) and includes the names of other registered health practitioners, the Board, as soon as practicable after an event specified in subsection (1)(a) occurs, may give written notice of the decision to—
+(a) the named registered health practitioners with whom the practitioner currently shares premises and the cost of the premises; and
+(b) the named registered health practitioners with whom the practitioner previously shared premises and the cost of the premises if the Board reasonably believes the practitioner's health, conduct or performance while the practitioner shared the premises with the registered health practitioners posed—
+(i) a risk of harm to a person or a class of persons; or
+(ii) a risk to public health or safety.
+(3) If the practice information given to the Board, or of which the Board becomes aware, is information referred to in paragraph (b) of the definition of practice information in section 132(4), the Board, as soon as practicable after an event specified in subsection (1)(a) occurs—
+(a) if the registered health practitioner has a current practice arrangement with an entity named in the information—must give written notice of the decision to the entity; or
+(b) if the practitioner had a previous practice arrangement with an entity named in the information—may give written notice of the decision to the entity if the Board reasonably believes the practitioner's health, conduct or performance while the practitioner had a practice arrangement with the entity posed—
+(i) a risk of harm to a person or a class of persons; or
+(ii) a risk to public health or safety.
+(4) In this section—
+decision means a decision of a National Board or adjudication body to take health, conduct or performance action against a registered health practitioner.
 207—Effect of suspension
 If a person's registration as a health practitioner or student is suspended under this Law the person is taken during the period of suspension not to be registered under this Law, other than for the purposes of this Part.
 Part 9—Finance
@@ -2319,6 +2516,42 @@ information management agency means a Commonwealth, State or Territory agency th
 (i) a registered health practitioner's practice as a health practitioner; or
 (ii) the provision of a health service by a person who is not a registered health practitioner.
 (2) The National Board may give written notice of the risk and any relevant information about a person mentioned in subsection (1)(a) or (b) to an entity of the Commonwealth or a State or Territory that the Board considers may be required to take action in relation to the risk.
+220A—Disclosure of information about registered health practitioners to protect health or safety of persons
+(1) This section applies if—
+(a) because of a notification or an investigation under this Law, a National Board reasonably believes that—
+(i) because of the registered health practitioner's health, conduct or performance, the practitioner poses a serious risk to persons; and
+(ii) it is necessary to give notice under this section to protect public health or safety; and
+(b) the Board has been given practice information under section 132 or becomes aware of practice information the Board has the power to request under that section.
+(2) If the practice information given to the National Board, or of which the Board becomes aware, is information referred to in paragraph (a) of the definition of practice information in section 132(4) and includes the names of other registered health practitioners, the Board may give the following to the named registered health practitioners with whom the practitioner currently shares premises and the cost of the premises—
+(a) written notice of the risk;
+(b) any relevant information about the registered health practitioner.
+(3) If the practice information given to the National Board, or of which the Board becomes aware, is information referred to in paragraph (b) of the definition of practice information in section 132(4), the Board, as soon as practicable after receiving or becoming aware of the information, must give the following to a named entity that has a current practice arrangement with the registered health practitioner—
+(a) written notice of the risk;
+(b) any relevant information about the registered health practitioner.
+(4) To avoid doubt, subsections (2) and (3) do not allow the Board to give health information about a patient to—
+(a) the named registered health practitioners with whom the practitioner currently shares premises and the cost of the premises; or
+(b) the named entity that has a current practice arrangement with the practitioner.
+(5) Subsections (2) and (3) do not apply if the National Board decides it is not in the public interest to give the notice.
+Examples—
+A National Board may decide it is not in the public interest to give the notice because—
+(a) it would impact on an investigation into the registered health practitioner; or
+(b) it would place a notifier at risk of harassment, harm or intimidation; or
+(c) the public interest is outweighed by the registered health practitioner's right to privacy.
+(6) Subsection (3) does not apply if the National Board has already notified the named entity about the practitioner, in relation to the same risk, under section 206 or another provision of this Law.
+(7) In this section—
+health information has the same meaning as in the Privacy Act 1988 of the Commonwealth.
+220B—Disclosure of information about unregistered persons to protect health or safety of persons
+(1) This section applies if—
+(a) because of an investigation into a possible offence against Part 7, or a prosecution of an offence against that Part, the National Agency or a National Board reasonably believes that—
+(i) an unregistered person poses a serious risk to persons; and
+(ii) it is necessary to give notice under this section to protect public health or safety; and
+(b) the unregistered person—
+(i) is self-employed and shares premises and the cost of the premises with registered health practitioners; or
+(ii) has a practice arrangement with an entity.
+(2) The National Agency or the National Board may give written notice of the risk, and any relevant information about the unregistered person, to the registered health practitioners or entities mentioned in subsection (1)(b).
+(3) To avoid doubt, subsection (2) does not allow the Board to give health information about a patient to the registered health practitioners or entities mentioned in subsection (1)(b).
+(4) In this section—
+health information has the same meaning as in the Privacy Act 1988 of the Commonwealth.
 221—Disclosure to registration authorities
 A person exercising functions under this Law may disclose protected information to a registration authority if the disclosure is necessary for the authority to exercise its functions.
 Division 3—Registers in relation to registered health practitioner
