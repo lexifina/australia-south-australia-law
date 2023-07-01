@@ -11,6 +11,7 @@ Division 1—The State Courts Administrator
 Division 2—Senior staff of the Council
 Division 3—Other staff
 Division 4—General provisions as to staff
+Part 4A—Reporting
 Part 5—Financial provisions
 Part 5A—Responsibilities of jurisdictional head
 Part 6—Miscellaneous
