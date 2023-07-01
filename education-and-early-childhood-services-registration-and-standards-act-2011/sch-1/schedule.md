@@ -118,11 +118,7 @@ person means—
 (d) a partnership; or
 (e) a prescribed entity;
 person in day-to-day charge, in relation to an education and care service, means a person who is placed in day-to-day charge of the service in accordance with the national regulations;
-person with management or control, in relation to an education and care service, means—
-(a) if the provider or intended provider of the service is a body corporate, an officer of the body corporate within the meaning of the Corporations Act 2001 of the Commonwealth who is responsible for managing the delivery of the education and care service; or
-(b) if the provider of the service is an eligible association, each member of the executive committee of the association who has the responsibility, alone or with others, for managing the delivery of the education and care service; or
-(c) if the provider of the service is a partnership, each partner who has the responsibility, alone or with others, for managing the delivery of the education and care service; or
-(d) in any other case, a person who has the responsibility, alone or with others, for managing the delivery of the education and care service;
+person with management or control means a person referred to in section 5A;
 personal arrangement means education and care provided to a child—
 (a) by a family member or guardian of a child personally, otherwise than as a staff member of, or under an engagement with, a service providing education and care on a regular basis to children under 13 years of age; or
 (b) by a friend of the family of the child personally under an informal arrangement where no offer to provide that education and care was advertised;
@@ -166,6 +162,26 @@ working with vulnerable people law, in relation to a participating jurisdiction,
 (4) In this Law, an education and care service as defined in subsection (1) is an education and care service even if the service also provides education and care to children of or over the age of 13 years.
 (5) In this Law, a children's service as defined in subsection (1) is a children's service even if the service also provides education and care to children of or over the age of 13 years.
 (6) In this Law, a reference to this Law as applying in a jurisdiction, includes a reference to a law that substantially corresponds to this Law enacted, or applying, in a jurisdiction.
+5A—Meaning of person with management or control
+For the purposes of this Law, each of the following persons is a person with management or control of an education and care service:
+(a) if the provider or intended provider of the service is a body corporate—
+(i) an officer (within the meaning of the Corporations Act 2001 of the Commonwealth) of the body corporate who has authority or responsibility for, or significant influence over, the planning, direction or control of the activities or the delivery of the education and care service; and
+(ii) any other person who—
+(A) is a member of the group of persons responsible for the executive decisions made in relation to the education and care service; or
+(B) has authority or responsibility for, or significant influence over, the planning, direction or control of the activities or the delivery of the education and care service;
+(b) if the provider or intended provider of the service is an eligible association—
+(i) each member of the executive committee of the association who has authority or responsibility for, or significant influence over, the planning, direction or control of the activities or the delivery of the education and care service; and
+(ii) any other person who—
+(A) is a member of the group of persons responsible for the executive decisions made in relation to the education and care service; or
+(B) has authority or responsibility for, or significant influence over, the planning, direction or control of the activities or the delivery of the education and care service;
+(c) if the provider or intended provider of the service is a partnership—
+(i) each partner who has authority or responsibility for, or significant influence over, the planning, direction or control of the activities or the delivery of the education and care service; and
+(ii) any other person who—
+(A) is a member of the group of persons responsible for the executive decisions made in relation to the education and care service; or
+(B) has authority or responsibility for, or significant influence over, the planning, direction or control of the activities or the delivery of the education and care service;
+(d) in any other case, any person who—
+(i) is a member of the group of persons responsible for the executive decisions made in relation to the education and care service; or
+(ii) has authority or responsibility for, or significant influence over, the planning, direction or control of the activities or the delivery of the education and care service.
 6—Interpretation generally
 (1) Schedule 1 applies in relation to this Law.
 (2) The National Partnership Agreement is declared to be a relevant document for the purposes of Schedule 1 of the definition of extrinsic material in clause 8(1) of Schedule 1.
@@ -235,9 +251,11 @@ If a person has been served with an infringement notice for an offence under thi
 (3) Nothing in subsection (1) or (2) limits the circumstances in which a person may be considered not to be a fit and proper person to be involved in the provision of an education and care service.
 14—Regulatory Authority may seek further information
 (1) For the purpose of carrying out an assessment as to whether a person is a fit and proper person, the Regulatory Authority may—
-(a) ask the person to provide further information; and
-(b) undertake inquiries in relation to the person.
+(a) ask the person to provide further information, including for the purposes of assessing the person's knowledge of the National Quality Framework; and
+(b) undertake inquiries in relation to the person; and
+(c) by written notification, require the person to undergo an oral or written assessment of the person's knowledge of the National Quality Framework.
 (2) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of the request until the provision of the further information is not included in the period referred to in section 15 for the Regulatory Authority to make a decision on the application.
+(3) If the Regulatory Authority requires the applicant to undergo an assessment under this section, the period from the giving of the notification until the conduct of the assessment is not included in the period referred to in section 15 for the Regulatory Authority to make a decision on the application.
 15—Grant or refusal of provider approval
 (1) On an application under section 10, the Regulatory Authority may—
 (a) grant the provider approval; or
@@ -246,8 +264,9 @@ Note—
 A provider approval is granted subject to conditions in accordance with section 19.
 (2) The Regulatory Authority must not grant a provider approval unless the Authority is satisfied as to the matters in section 12.
 (3) Subject to subsection (4), the Regulatory Authority must make a decision on the application within 60 days after the Regulatory Authority receives the application.
-Note—
-If further information is requested under section 14, the period between the making of the request and the provision of the information is not included in the 60 day period.
+Notes—
+1 If further information is requested under section 14(1)(a), the period between the making of the request and the provision of the information is not included in the 60 day period.
+2 If an assessment is required under section 14(1)(c), the period between the giving of the notification and the conduct of the assessment is not included in the 60 day period.
 (4) The period referred to in subsection (3) may be extended by up to 30 days with the agreement of the applicant.
 (5) The Regulatory Authority is taken to have refused to grant a provider approval if the Regulatory Authority has not made a decision under subsection (1)—
 (a) within the relevant period required under subsection (3); or
@@ -315,7 +334,13 @@ The Regulatory Authority may suspend a provider approval if—
 (d) action is being taken under Part 7 (other than a compliance direction) in respect of more than one education and care service operated by the approved provider; or
 (e) the approved provider has not operated any education and care service for a period of more than 12 months (including any period of suspension); or
 (f) the approved provider purported to transfer or receive a transfer of an approved education and care service without the consent of the Regulatory Authority; or
-(g) the approved provider has not paid any outstanding prescribed fees.
+(g) the approved provider has not paid any outstanding prescribed fees; or
+(h) under section 195H(1)(b) of the A New Tax System (Family Assistance) (Administration) Act 1999 of the Commonwealth, the approved provider's approval as a provider has been cancelled for the reason that the approved provider has not satisfied, or is not satisfying, the provider eligibility rules in section 194C(b), (c) or (d) of that Act; or
+Note—
+It is a condition for continued approval of an approved provider that the approved provider continues to satisfy the provider eligibility rules—see section 195A(1)(a) of the A New Tax System (Family Assistance) (Administration) Act 1999 of the Commonwealth.
+(i) the approved provider has been refused approval as a provider under section 194B(6) of the A New Tax System (Family Assistance) (Administration) Act 1999 of the Commonwealth for the reason that the provider does not satisfy the provider eligibility rules in section 194C(b), (c) or (d) of that Act.
+Note—
+The Regulatory Authority must refuse to approve a provider if the Regulatory Authority is not satisfied that the provider satisfies the provider eligibility rules—see section 194B(1)(a) and (6) of the A New Tax System (Family Assistance) (Administration) Act 1999 of the Commonwealth.
 26—Show cause notice before suspension
 (1) This section applies if the Regulatory Authority is considering the suspension of a provider approval under section 25.
 (2) The Regulatory Authority must first give the approved provider a notice (show cause notice) stating—
@@ -351,7 +376,13 @@ The Regulatory Authority may cancel a provider approval if—
 (c) the approved provider has been found guilty of an indictable offence or an offence that if committed in this jurisdiction would be an indictable offence; or
 (d) the approved provider has been found guilty of an offence under this Law as applying in any participating jurisdiction; or
 (e) the approved provider has breached a condition of the provider approval; or
-(f) the approved provider has not operated any education and care service for a period of more than 12 months (including any period of suspension).
+(f) the approved provider has not operated any education and care service for a period of more than 12 months (including any period of suspension); or
+(g) under section 195H(1)(b) of the A New Tax System (Family Assistance) (Administration) Act 1999 of the Commonwealth, the approved provider's approval as a provider has been cancelled for the reason that the approved provider has not satisfied, or is not satisfying, the provider eligibility rules in section 194C(b), (c) or (d) of that Act; or
+Note—
+It is a condition for continued approval of an approved provider that the approved provider continues to satisfy the provider eligibility rules—see section 195A(1)(a) of the A New Tax System (Family Assistance) (Administration) Act 1999 of the Commonwealth.
+(h) the approved provider has been refused approval as a provider under section 194B(6) of the A New Tax System (Family Assistance) (Administration) Act 1999 of the Commonwealth for the reason that the provider does not satisfy the provider eligibility rules in section 194C(b), (c) or (d) of that Act.
+Note—
+The Regulatory Authority must refuse to approve a provider if the Regulatory Authority is not satisfied that the provider satisfies the provider eligibility rules—see section 194B(1)(a) and (6) of the A New Tax System (Family Assistance) (Administration) Act 1999 of the Commonwealth.
 32—Show cause notice before cancellation
 (1) This section applies if the Regulatory Authority is considering the cancellation of a provider approval under section 31.
 (2) The Regulatory Authority must first give the approved provider a notice (show cause notice) stating—
@@ -586,8 +617,11 @@ Division 2—Amendment of service approval
 (a) 14 days after the Regulatory Authority gives notice of the amendment under subsection (3); or
 (b) if another period is specified by the Regulatory Authority, at the end of that period.
 (5) The Regulatory Authority must amend a service approval to the extent that it relates to an associated children's service in accordance with any direction by the children's services regulator if that direction is given in accordance with the children's services law of this jurisdiction.
-55A—Condition relating to family day care co ordinators
-(1) Without limiting section 55, an amendment under that section may impose a condition on the service approval for a family day care service requiring the approved provider to ensure that there is a minimum of one qualified person employed or engaged as a family day care co-ordinator for each 15 family day care educators engaged by or registered with that service.
+55A—Condition relating to family day care co‑ordinators
+(1) Without limiting section 55, an amendment under that section may impose a condition on the service approval for a family day care service requiring the approved provider to ensure that there is a minimum of one qualified person employed or engaged as a family day care co-ordinator for every 15 family day care educators (or part of that number) engaged by or registered with that service.
+Examples—
+1 If between 1 and 15 family day care educators are engaged by or registered with the family day care service, at least one qualified person must be employed or engaged by the approved provider as a family day care co‑ordinator.
+2 If between 16 and 30 family day care educators are engaged by or registered with the family day care service, at least 2 qualified persons must be employed or engaged by the approved provider as a family day care co‑ordinator.
 (2) A condition may only be imposed under subsection (1) if—
 (a) the family day care service has been operating for more than 12 months; and
 (b) the Regulatory Authority—
@@ -1069,7 +1103,7 @@ Division 5—Awarding of highest rating
 (a) if a request for information and documents is made under section 154; or
 (b) by agreement between the approved provider and the Board.
 (4) If the Board gives the highest rating level to an approved education and care service, that rating becomes the rating level for that service.
-(5) The highest rating level awarded to an approved education and care service applies to that service for 3 years, unless sooner revoked.
+(5) The highest rating level awarded to an approved education and care service applies to that service for 5 years, unless sooner revoked.
 156—Notice of decision
 (1) The Board must give written notice of its decision under section 155 in relation to an approved education and care service to—
 (a) the approved provider; and
@@ -2171,7 +2205,7 @@ Division 4—Registers
 (3) The register of approved education and care services may be inspected at the office of the Regulatory Authority during normal office hours without charge.
 (4) A person may obtain a copy of, or extract from, the register of approved education and care services on payment of the prescribed fee.
 (5) The Regulatory Authority must provide a copy of the register of approved education and care services (as updated from time to time) to the National Authority and the relevant Commonwealth Department.
-269—Register of family day care educators, co ordinators and assistants
+269—Register of family day care educators, co‑ordinators and assistants
 (1) The approved provider of a family day care service must keep a register at the principal office of the service that contains the prescribed information in respect of the following persons—
 (a) each family day care educator engaged by or registered with the service;
 (b) each family day care co-ordinator employed or engaged by the service;
@@ -2684,3 +2718,29 @@ relevant day means—
 (3) Despite its amendment by the 2017 Act, section 158 as in force immediately before the commencement day continues to apply to the revocation of the highest rating level and for the purposes of that section—
 (a) the criteria to be met are the criteria published under section 153(1) immediately before the commencement day; and
 (b) the overall rating level is to be determined in accordance with the National Quality Standard as in force immediately before the commencement day.
+Division 7—Transitional provisions—Early Childhood Legislation Amendment Act 2022
+336—Transitional provision—notification of persons with management or control of an education and care service
+(1) For the purposes of section 173(1)(b), a person who is a person with management or control on the commencement day is taken to be appointed as a person with management or control on that day.
+(2) Subsection (1) does not apply to a person who, immediately before the commencement day, was a person with management or control within the meaning of this Law as in force immediately before the commencement day.
+(3) In this section—
+commencement day, in relation to a participating jurisdiction, means the day on which section 5A as inserted by section 16 of the Early Childhood Legislation Amendment Act 2022 of Victoria comes into operation in that jurisdiction.
+337—Transitional provision—assessment of provider approval applications
+(1) Section 14, as amended by section 17 of the Early Childhood Legislation Amendment Act 2022 of Victoria, applies in relation to—
+(a) an application for a provider approval that was made but had not been determined before the commencement day; and
+(b) a reassessment that had commenced but had not yet been completed before the commencement day.
+(2) In this section—
+commencement day, in relation to a participating jurisdiction, means the day on which the amendments made by section 17 of the Early Childhood Legislation Amendment Act 2022 of Victoria comes into operation in that jurisdiction.
+338—Transitional provision—service waivers
+(1) Despite the commencement of section 27 of the Early Childhood Legislation Amendment Act 2022 of Victoria—
+(a) this Law as in force immediately before the commencement day continues to apply in respect of a service waiver that was in force immediately before the commencement day; and
+(b) the service waiver continues in force on and after the commencement day until it is revoked by the Regulatory Authority.
+(2) In this section—
+commencement day, in relation to a participating jurisdiction, means the day on which the amendments made by section 27 of the Early Childhood Legislation Amendment Act 2022 of Victoria comes into operation in that jurisdiction.
+339—Transitional provision—temporary waivers
+(1) Despite the commencement of section 31 of the Early Childhood Legislation Amendment Act 2022 of Victoria—
+(a) this Law as in force immediately before the commencement day continues to apply in respect of a temporary waiver that was in force immediately before the commencement day; and
+(b) the temporary waiver continues in force on and after the commencement day until the earliest of the following:
+(i) the temporary waiver expires;
+(ii) the temporary waiver is revoked by the Regulatory Authority.
+(2) In this section—
+commencement day, in relation to a participating jurisdiction, means the day on which the amendments made by section 31 of the Early Childhood Legislation Amendment Act 2022 of Victoria comes into operation in that jurisdiction.
