@@ -22,6 +22,7 @@ Division 11—Statutory charges
 Division 12—Assignment
 Division 13—Tenant's vicarious liability
 Division 14—Harsh or unconscionable terms
+Division 14A—Tenant information
 Division 15—Miscellaneous
 Part 5—Termination of residential tenancy agreements
 Division 1—Termination generally
