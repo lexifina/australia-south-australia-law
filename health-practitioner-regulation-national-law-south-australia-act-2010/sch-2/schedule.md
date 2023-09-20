@@ -175,8 +175,8 @@ professional misconduct, of a registered health practitioner, includes—
 (c) conduct of the practitioner, whether occurring in connection with the practice of the health practitioner's profession or not, that is inconsistent with the practitioner being a fit and proper person to hold registration in the profession.
 program of study means a program of study provided by an education provider.
 prohibition order means—
-(a) a decision by a responsible tribunal of this jurisdiction under section 196(4)(b); or
-(b) a decision by a responsible tribunal of another participating jurisdiction under section 196(4)(b) as it applies in the other jurisdiction; or
+(a) a decision by a responsible tribunal of this jurisdiction under section 196(4)(b) or (c); or
+(b) a decision by a responsible tribunal of another participating jurisdiction under section 196(4)(b) or (c) as it applies in the other jurisdiction; or
 (c) a prohibition order under section 149C(5) of the Health Practitioner Regulation National Law (NSW); or
 (d) a decision under section 107(4)(b) of the Health Ombudsman Act 2013 of Queensland.
 psychologist means a person registered under this Law in the psychology profession.
@@ -1225,6 +1225,34 @@ Maximum penalty:
 (a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
 (b) in the case of a body corporate—$120 000.
 (3) Subsection (1) applies whether or not the title is taken or used with or without any other words and whether in English or any other language.
+115A—Claims by persons as to membership of surgical class
+(1) A medical practitioner who is not a member of a surgical class must not knowingly or recklessly do any of the following—
+(a) take or use the title "surgeon";
+(b) take or use a title, name, initial, symbol, word or description that, having regard to the circumstances in which it is taken or used, indicates or could be reasonably understood to indicate the practitioner is a member of a surgical class;
+(c) claim to be, or hold out as being, a member of a surgical class.
+Maximum penalty: $60 000 or 3 years imprisonment or both.
+(2) A person must not knowingly or recklessly do any of the following in relation to a medical practitioner who is not a member of a surgical class—
+(a) take or use the title "surgeon" in relation to the practitioner;
+(b) take or use a title, name, initial, symbol, word or description that, having regard to the circumstances in which it is taken or used, indicates or could be reasonably understood to indicate the practitioner is a member of a surgical class;
+(c) claim the practitioner is, or hold the practitioner out as being, a member of a surgical class.
+Maximum penalty:
+(a) in the case of an individual—$60 000 or 3 years imprisonment or both; or
+(b) in the case of a body corporate—$120 000.
+(3) Subsections (1)(a) and (2)(a)—
+(a) apply whether or not the title "surgeon" is taken or used with or without any other words and whether in English or any other language; but
+(b) do not apply to, or in relation to, a medical practitioner who is not a member of a surgical class if the practitioner—
+(i) holds registration in the dentists division of the dental profession; or
+(ii) is permitted under this Law, or another law of a State or Territory, to take or use the title "surgeon" for practising a profession other than the medical profession.
+(4) Before making regulations prescribing a class of medical practitioner as a surgical class, the Ministerial Council must have regard to—
+(a) any advice the National Board for the medical profession gives to the Ministerial Council about prescribing the class; and
+(b) the surgical training required to be undertaken by members of the proposed class.
+(5) In this section—
+surgical class means the following classes of medical practitioners—
+(a) a medical practitioner holding specialist registration in the recognised specialty of surgery;
+(b) a medical practitioner holding specialist registration in the recognised specialty of obstetrics and gynaecology;
+(c) a medical practitioner holding specialist registration in the recognised specialty of ophthalmology;
+(d) a medical practitioner holding specialist registration in another recognised specialty in the medical profession with the word "surgeon" in a specialist title for the specialty;
+(e) another class of medical practitioner prescribed as a surgical class by regulations made by the Ministerial Council.
 116—Claims by persons as to registration as health practitioner
 (1) A person who is not a registered health practitioner must not knowingly or recklessly—
 (a) take or use the title of "registered health practitioner", whether with or without any other words; or
@@ -2266,11 +2294,11 @@ The responsible tribunal may make any order about costs it considers appropriate
 (d) suspend the practitioner's registration for a specified period;
 (e) cancel the practitioner's registration.
 (3) If the responsible tribunal decides to impose a condition on the practitioner's registration, the tribunal must also decide a review period for the condition.
-(4) If the tribunal decides to cancel a person's registration under this Law or the person does not hold registration under this Law, the tribunal may also decide to—
-(a) disqualify the person from applying for registration as a registered health practitioner for a specified period; or
+(4) If the tribunal decides to cancel a person's registration under this Law or the person does not hold registration under this Law, the tribunal may also decide to do one or more of the following—
+(a) disqualify the person from applying for registration as a registered health practitioner for a specified period;
 (b) prohibit the person, either permanently or for a stated period, from doing either or both of the following—
 (i) providing any health service or a specified health service;
-(ii) using any title or a specified title; or
+(ii) using any title or a specified title;
 (c) impose restrictions, either permanently or for a stated period, on the provision of any health service or a specified health service by the person.
 196A—Offences relating to prohibition orders
 (1) A person must not contravene a prohibition order.
@@ -3291,6 +3319,12 @@ Agency Management Committee means the Australian Health Practitioner Regulation 
 (a) if the practitioner continues to comply with any approved registration standard relevant to the endorsement—continue to hold and renew the endorsement, subject to any conditions stated in the endorsement;
 (b) while holding the endorsement, use the title "midwife practitioner" or otherwise hold themself out as holding the endorsement.
 (2) Section 119 continues to apply in relation to a claim by any other registered health practitioner to hold, or to be qualified to hold, an endorsement as a midwife practitioner as if section 96 had not been repealed.
+Part 15—Transitional provision for Health Practitioner Regulation National Law (Surgeons) Amendment Act 2023
+326—Application of sections 196A, 222, 223 and 227 to particular prohibition orders
+(1) This section applies in relation to a prohibition order that is—
+(a) a decision by a responsible tribunal of this jurisdiction under section 196(4)(c); or
+(b) a decision by a responsible tribunal of another jurisdiction under section 196(4)(c) as it applies in the other jurisdiction.
+(2) Sections 196A, 222, 223 and 227 apply in relation to the prohibition order even if the order was made before the commencement.
 Schedule 2—Agency Board
 (Section 29)
 Part 1—General
