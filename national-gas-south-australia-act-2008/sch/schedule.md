@@ -689,7 +689,15 @@ The Ministers of the participating jurisdictions are—
 Part 3—National gas objective and principles
 Division 1—National gas objective
 23—National gas objective
-The objective of this Law is to promote efficient investment in, and efficient operation and use of, natural gas services for the long term interests of consumers of natural gas with respect to price, quality, safety, reliability and security of supply of natural gas.
+The objective of this Law is to promote efficient investment in, and efficient operation and use of, natural gas services for the long term interests of consumers of natural gas with respect to—
+(a) price, quality, safety, reliability and security of supply of natural gas; and
+(b) the achievement of targets set by a participating jurisdiction—
+(i) for reducing Australia's greenhouse gas emissions; or
+(ii) that are likely to contribute to reducing Australia's greenhouse gas emissions.
+Note—
+The AEMC must publish targets in a targets statement: see section 72A.
+23A—Regulations may prescribe matters for national gas objective
+Without limiting Part 3 of the National Gas (South Australia) Act 2008 of South Australia, the Regulations may make provision about a matter relating to the achievement of targets mentioned in section 23(b) of this Law.
 Division 2—Revenue and pricing principles relating to scheme pipelines
 24—Revenue and pricing principles relating to scheme pipelines
 (1) The revenue and pricing principles that apply in relation to a pipeline service provided by means of a scheme pipeline are the principles set out in subsections (2) to (7).
@@ -1499,6 +1507,14 @@ Note—
 See also Chapter 10 Part 2 Division 2.
 72—AEMC must have regard to national gas objective
 In performing or exercising any function or power under this Law, the Regulations or the Rules, the AEMC must have regard to the national gas objective.
+72A—Targets statement for greenhouse gas emissions targets
+(1) The AEMC must prepare and maintain a document (the targets statement) stating the targets set by a participating jurisdiction mentioned in section 23(b).
+(2) If the MCE or a Minister of a participating jurisdiction gives a written direction to the AEMC to include a target in, or remove a target from, the targets statement, the AEMC must comply with the direction.
+(3) A Minister may give a written direction under subsection (2) only in relation to a target set by the Minister's participating jurisdiction.
+(4) The AEMC must publish on its website—
+(a) the targets statement; and
+(b) each direction given under subsection (2).
+(5) In having regard to the national gas objective under this Law, the Regulations or the Rules with respect to the matters mentioned in section 23(b), a person or body must consider, as a minimum, the targets stated in the targets statement.
 73—AEMC must have regard to MCE statements of policy principles in relation to Rule making and reviews
 The AEMC must have regard to any relevant MCE statement of policy principles—
 (a) in making a Rule; or
@@ -4141,6 +4157,23 @@ market transparency amendments means the amendments made to this Law by the Nati
 (7) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
 (8) In this section—
 Gas Pipelines amendments means the amendments made by the Statutes Amendment (National Energy Laws) (Gas Pipelines) Act 2022 and the amendments to the National Gas (South Australia) Regulations by regulations that are expressed to be made in connection with the Statutes Amendment (National Energy Laws) (Gas Pipelines) Act 2022.
+294FC—South Australian Minister to make initial Rules relating to national gas objective
+(1) The South Australian Minister may, within 9 months after the commencement of this section—
+(a) make Rules for or with respect to any matter or thing necessary or expedient to implement the amended objective; and
+(b) make Rules for or with respect to any other subject contemplated by, or necessary or expedient for implementing, the amended objective; and
+(c) make Rules that revoke or amend a Rule as a consequence of the enactment of the Statutes Amendment (National Energy Laws) (Emissions Reduction Objectives) Act 2023 of South Australia.
+(2) Rules in the nature of a derogation may be made under subsection (1) even though there may not have been a request for a derogation.
+(3) Section 74(3) applies to the making of Rules under subsection (1) as if the Rules being made under subsection (1) were Rules being made by the AEMC.
+(4) As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(6) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
+(7) If the South Australian Minister makes Rules under subsection (1), the Minister cannot make another Rule under that subsection.
+(8) In this section—
+amended objective means the national gas objective as in force on the commencement of this section.
 Division 2—Rules made by Minister from time to time
 294G—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The South Australian Minister may make Rules recommended by the MCE in accordance with subsection (2).
@@ -4179,6 +4212,8 @@ east coast gas system amendments means the amendments to—
 (a) this Law made by the National Gas (South Australia) (East Coast Gas System) Amendment Act 2023; and
 (b) the National Gas (South Australia) Regulations by regulations that are expressed to be made in connection with the National Gas (South Australia) (East Coast Gas System) Amendment Act 2023;
 South Australian Minister means the Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia.
+Editorial note—
+Section 294H has expired.
 Part 3—Procedure for the making of a Rule by the AEMC
 295—Initiation of making of a Rule
 (1) The AEMC may make a Rule at the request of any person or the MCE.
@@ -6334,3 +6369,57 @@ Northern Gas Pipeline means the pipeline between Tennant Creek in the Northern T
 (2) On the commencement day—
 (a) the requirement to make the tender approval decision stops having effect; and
 (b) the AER must stop deciding whether to make the tender approval decision.
+Part 20—Transitional provisions related to national gas objective amendments
+133—Definitions
+In this Part—
+amended objective means the national gas objective as in force on the commencement of this clause;
+amending Act means the Statutes Amendment (National Energy Laws) (Emissions Reduction Objectives) Act 2023;
+government or regulatory entity means the AEMC, AEMO, the AER, the Energy Security Board, the MCE or another government entity;
+start day—see clause 134(2)(a).
+134—When amended objective takes effect for particular matters
+(1) This clause applies in relation to a thing required or permitted to be done under this Law by a person or body, other than the AEMC, if, in doing the thing, the person or body is required to consider or apply the national gas objective including, for example, by—
+(a) having regard to the national gas objective; or
+(b) doing the thing in a manner that will or is likely to contribute to the achievement of the national gas objective.
+(2) Despite section 14 of the amending Act—
+(a) the national gas objective as in force before that section came into operation continues to apply for the doing of the thing until the day (the start day) that is 2 months after the commencement of this clause; and
+(b) the amended objective applies in relation to the doing of the thing from the start day.
+(3) However, if the thing required or permitted to be done relates to a relevant access arrangement—
+(a) on the commencement of this clause the amended objective applies to the doing of the thing; and
+(b) clause 135(3) does not apply in relation to the doing of the thing.
+(4) Subclauses (1) and (2) are subject to clause 135.
+(5) In this clause—
+relevant access arrangement means an access arrangement under the Rules proposed to commence on 1 January 2025 for—
+(a) the Mid-West and South-West Gas Distribution System comprised of the scheme distribution pipeline in Western Australia and defined in gas distribution licence 8 (as amended) issued under the Energy Coordination Act 1994 of Western Australia, including any extension to or expansion of the capacity of that pipeline; or
+(b) the Goldfields Gas Pipeline comprised of the transmission pipeline between Yarraloola and Kalgoorlie in Western Australia and defined in Pipeline Licence 24 (as amended) issued under the Petroleum Pipelines Act 1969 of Western Australia, including an extension to or expansion of the capacity of, that pipeline.
+135—Application of national gas objective to particular matters in progress on start day
+(1) This clause applies if—
+(a) before the start day, a person or body had started, or was required or permitted to start, doing a thing; and
+(b) on the start day—
+(i) the person or body has not finished doing the thing; or
+(ii) the period within which the thing is required or permitted to be done has not ended; and
+(c) in doing the thing the person or body is required to consider or apply the national gas objective by, for example—
+(i) having regard to the national gas objective; or
+(ii) doing the thing in a manner that will or is likely to contribute to the achievement of the national gas objective.
+(2) The national gas objective as in force before the commencement of this clause, and as continued in effect under clause 134 until the start day, continues to apply in relation to the doing of the thing.
+(3) However, a government or regulatory entity may decide to consider or apply the amended objective in relation to the doing of the thing.
+(4) For subclause (1), a matter relating to an access arrangement is taken not to have been started, or required or permitted to have been started, before the start day if, on the start day, the access arrangement proposal for the access arrangement has not been submitted for the AER's approval under Rule 46 of the Rules.
+136—Administrative guidance for decisions under clause 135(3)
+(1) If a government or regulatory entity, other than the AER, proposes to exercise a discretion under clause 135(3), the entity must use its best endeavours to ensure that within 45 days after the commencement of this clause, it issues administrative guidance about the matters the entity is likely to have regard to in deciding whether to consider or apply the amended objective in doing a thing.
+(2) The AER must, within 45 days after the commencement of this clause, issue administrative guidance about the matters the AER is likely to have regard to in deciding whether to consider or apply the amended objective in doing a thing.
+(3) A failure to comply with this section does not prevent a government or regulatory entity from exercising a discretion under clause 135(3).
+137—Administrative guidance about value of greenhouse gas emissions
+(1) This clause applies if—
+(a) administrative guidance is issued by a government or regulatory entity about considering or applying the amended objective; and
+(b) the guidance includes the value, or a method of working out the value, of greenhouse gas emissions or greenhouse gas emissions reduction; and
+(c) the guidance is consistent with any MCE statement.
+(2) The value or method stated in the administrative guidance must be complied with by the government or regulatory entity in considering or applying the amended objective.
+(3) This clause applies until a Regulation or Rule takes effect for the matter described in subclause (1).
+(4) In this clause—
+MCE statement means a statement issued by the MCE that states the value, or a method of or guidance for working out the value, of greenhouse gas emissions or greenhouse gas emissions reduction, that is to be used by a government or regulatory entity in considering or applying the amended objective until a Regulation or Rule mentioned in subclause (3) takes effect.
+138—Validation of things done in relation to Rules before commencement
+(1) This clause applies if, before the commencement of this clause—
+(a) the MCE or a Minister of a participating jurisdiction had requested a Rule under section 295(1) in relation to the national gas objective as if the amended objective were in force; and
+(b) the AEMC had done a thing under Chapter 9, other than sections 313 to 315, in relation to the request.
+(2) On the commencement of this clause—
+(a) the thing is taken to have been validly done under Chapter 9; and
+(b) the AEMC is taken to have satisfied a requirement under the Law to apply the national gas objective in relation to the thing.

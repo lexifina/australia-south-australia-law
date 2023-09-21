@@ -421,7 +421,14 @@ stand‑alone power system means a system that—
 7—National electricity objective
 The objective of this Law is to promote efficient investment in, and efficient operation and use of, electricity services for the long term interests of consumers of electricity with respect to—
 (a) price, quality, safety, reliability and security of supply of electricity; and
-(b) the reliability, safety and security of the national electricity system.
+(b) the reliability, safety and security of the national electricity system; and
+(c) the achievement of targets set by a participating jurisdiction—
+(i) for reducing Australia's greenhouse gas emissions; or
+(ii) that are likely to contribute to reducing Australia's greenhouse gas emissions.
+Note—
+The AEMC must publish targets in a targets statement: see section 32A.
+7AA—Regulations may prescribe matters for national electricity objective
+Without limiting Part 4 of the National Electricity (South Australia) Act 1996 of South Australia, the Regulations may make provision about a matter relating to the achievement of targets mentioned in section 7(c) of this Law.
 7A—Revenue and pricing principles
 (1) The revenue and pricing principles are the principles set out in subsections (2) to (7).
 (2) A regulated network service provider should be provided with a reasonable opportunity to recover at least the efficient costs the operator incurs in—
@@ -1669,6 +1676,14 @@ Note—
 See also sections 48 and 108.
 32—AEMC must have regard to national electricity objective
 In performing or exercising any function or power under this Law, the Regulations or the Rules, the AEMC must have regard to the national electricity objective.
+32A—Targets statement for greenhouse gas emissions targets
+(1) The AEMC must prepare and maintain a document (the targets statement) stating the targets set by a participating jurisdiction mentioned in section 7(c).
+(2) If the MCE or a Minister of a participating jurisdiction gives a written direction to the AEMC to include a target in, or remove a target from, the targets statement, the AEMC must comply with the direction.
+(3) A Minister may give a written direction under subsection (2) only in relation to a target set by the Minister's participating jurisdiction.
+(4) The AEMC must publish on its website—
+(a) the targets statement; and
+(b) each direction given under subsection (2).
+(5) In having regard to the national electricity objective under this Law, the Regulations or the Rules with respect to the matters mentioned in section 7(c), a person or body must consider, as a minimum, the targets stated in the targets statement.
 33—AEMC must have regard to MCE statements of policy principles in relation to Rule making and reviews
 The AEMC must have regard to any relevant MCE statement of policy principles—
 (a) in making a Rule; or
@@ -2744,6 +2759,23 @@ local electricity system means—
 (a) an electricity system in this jurisdiction prescribed or declared in or under the application Act of this jurisdiction to be a local electricity system; and
 (b) the generating systems and other facilities owned, controlled or operated in this jurisdiction connected to that local electricity system;
 Ministerial reliability instrument amendments means the amendments made to this Law by the National Electricity (South Australia) (Ministerial Reliability Instrument) Amendment Act 2023.
+90ED—South Australian Minister may make initial Rules relating to national electricity objective
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia may, within 9 months after the commencement of this section—
+(a) make Rules for or with respect to any matter or thing necessary or expedient to implement the amended objective; and
+(b) make Rules for or with respect to any other subject contemplated by, or necessary or expedient for implementing, the amended objective; and
+(c) make Rules that revoke or amend a Rule as a consequence of the enactment of the Statutes Amendment (National Energy Laws) (Emissions Reduction Objectives) Act 2023 of South Australia.
+(2) Rules in the nature of a derogation may be made under subsection (1) even though there may not have been a request for a derogation.
+(3) Section 34(3) applies to the making of Rules under subsection (1) as if the Rules being made under subsection (1) were Rules being made by the AEMC.
+(4) As soon as practicable after making Rules under subsection (1), the Minister referred to in that subsection must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(6) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
+(7) If the Minister referred to in subsection (1) makes Rules under that subsection, the Minister cannot make another Rule under that subsection.
+(8) In this section—
+amended objective means the national electricity objective as in force on the commencement of this section.
 Subdivision 2—Rules made by Minister from time to time
 90F—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2).
@@ -4563,3 +4595,73 @@ agreement includes the Australian Energy Market Agreement or any other intergove
 The substitution of the definition of the MCE by section 5 of the Amendment Act does not affect the validity of—
 (a) any decision or direction made by the MCE before the commencement day; or
 (b) any appointment in accordance with a recommendation or nomination of the MCE made before the commencement day.
+Part 18—Transitional provisions related to national electricity objective amendments
+38—Definitions
+In this Part—
+amended objective means the national electricity objective as in force on the commencement of this clause;
+amending Act means the Statutes Amendment (National Energy Laws) (Emissions Reduction Objectives) Act 2023;
+government or regulatory entity means—
+(a) the AEMC, the Reliability Panel, the AER, the MCE, the Energy Security Board or another government entity; or
+(b) AEMO, other than to the extent it is exercising a power or performing a function under this Law or the Rules as—
+(i) a network service provider for a declared transmission system; or
+(ii) a declared transmission system operator;
+start day—see clause 39(2)(a).
+39—When amended objective takes effect for particular matters
+(1) This clause applies in relation to a thing required or permitted to be done under this Law by a person or body, other than the AEMC, if, in doing the thing, the person or body is required to consider or apply the national electricity objective including, for example, by—
+(a) having regard to the national electricity objective; or
+(b) doing the thing in a manner that will or is likely to contribute to the achievement of the national electricity objective.
+(2) Despite section 4 of the amending Act—
+(a) the national electricity objective as in force before that section came into operation continues to apply for the doing of the thing until the day (the start day) that is 2 months after the commencement of this clause; and
+(b) the amended objective applies in relation to the doing of the thing from the start day.
+(3) However, if the thing required or permitted to be done relates to a relevant revenue determination—
+(a) on the commencement of this clause the amended objective applies to the doing of the thing; and
+(b) clause 40(3) does not apply in relation to the doing of the thing.
+(4) Subclauses (1) and (2) are subject to clause 40.
+(5) In this clause—
+relevant revenue determination means a revenue determination made under the Rules in relation to the following matters for the regulatory period 2024 to 2029:
+(a) Ausgrid Operator Partnership ABN 78 508 211 731 for the distribution network supplying the Greater Sydney, Central Coast or Hunter Valley region of New South Wales;
+(b) Endeavour Energy Network Operator Partnership ABN 11 247 365 823 for the distribution network in the Sydney Greater West, Blue Mountains, Southern Highlands, Illawaarra and South Coast regions of New South Wales;
+(c) Essential Energy constituted under the Energy Services Corporations Act 1995 of New South Wales and specified in Part 2 of Schedule 1 of that Act;
+(d) Evoenergy, the joint venture between Icon Distribution Investments Limited ACN 073 025 224 and Jemena Networks (ACT) Pty Ltd ACN 008 552 663 registered as a network service provider under section 12(1) of this Law for the distribution network in the Australian Capital Territory;
+(e) Power and Water Corporation ABN 15 947 352 360 for the distribution network in the Northern Territory;
+(f) Tasmanian Networks Pty Ltd ACN 167 357 299 for the distribution network and transmission network supplying Tasmania;
+(g) a successor to the business of an entity mentioned in paragraphs (a) to (f).
+40—Application of national electricity objective to particular matters in progress on start day
+(1) This clause applies if—
+(a) before the start day, a person or body had started, or was required or permitted to start, doing a thing under this Law; and
+(b) on the start day—
+(i) the person or body has not finished doing the thing; or
+(ii) the period within which the thing is required or permitted to be done has not ended; and
+(c) in doing the thing the person or body is required to consider or apply the national electricity objective by, for example—
+(i) having regard to the national electricity objective; or
+(ii) doing the thing in a manner that will or is likely to contribute to the achievement of the national electricity objective.
+(2) The national electricity objective as in force before the commencement of this clause, and as continued under clause 39 until the start day, continues to apply in relation to the doing of the thing.
+(3) However, a government or regulatory entity may decide to consider or apply the amended objective in relation to the doing of the thing.
+(4) For subclause (1), the following matters are taken not to have been started, or required or permitted to have been started, before the start day:
+(a) the making of a revenue determination under the Rules for a network service provider if, on the start day—
+(i) for a transmission network service provider under the Rules—a revenue proposal has not yet been submitted under clause 6A.10.1(a) of the Rules; or
+(ii) for a distribution network service provider under the Rules—a regulatory proposal has not yet been submitted under clause 6.8.2(a) of the Rules;
+(b) the application of the regulatory investment test for transmission to an RIT-T project under the Rules, if a project assessment draft report for the RIT-T project has not yet been made available by the RIT-T proponent under clause 5.16.4(j) of the Rules or published under clause 5.16A.4(c) of the Rules before the start day;
+(c) the application of the regulatory investment test for distribution to an RIT-D project under the Rules, if a draft project assessment report for the RIT-D project has not yet been published by the proponent under clause 5.17.4(i) of the Rules before the start day.
+41—Administrative guidance about decisions under clause 40(3)
+(1) If a government or regulatory entity, other than the AER, proposes to exercise a discretion under clause 40(3), the entity must use its best endeavours to ensure that within 45 days after the commencement of this clause, it issues administrative guidance about the matters the entity is likely to have regard to in deciding whether to consider or apply the amended objective in doing a thing.
+(2) The AER must, within 45 days after the commencement of this clause, issue administrative guidance about the matters the AER is likely to have regard to in deciding whether to consider or apply the amended objective in doing a thing.
+(3) A failure to comply with this section does not prevent a government or regulatory entity from exercising a discretion under clause 40(3).
+42—Administrative guidance about value of greenhouse gas emissions
+(1) This clause applies if—
+(a) administrative guidance is issued by a government or regulatory entity about considering or applying the amended objective; and
+(b) the guidance includes the value, or a method of working out the value, of greenhouse gas emissions or greenhouse gas emissions reduction; and
+(c) the guidance is consistent with any MCE statement.
+(2) The value or method stated in the administrative guidance must be complied with by the government or regulatory entity in considering or applying the amended objective.
+(3) Subclause (4) applies in relation to a RIT-T project or RIT-D project under the Rules.
+(4) Without limiting subclauses (1) and (2), if the AER issues the administrative guidance mentioned in subclause (1), the AER and RIT-D proponent or RIT-T proponent for the project under the Rules must comply with the administrative guidance in relation to the project.
+(5) This clause applies until a Regulation or Rule takes effect for the matter described in subclause (1).
+(6) In this clause—
+MCE statement means a statement issued by the MCE that states the value, or a method of or guidance for working out the value, of greenhouse gas emissions or greenhouse gas emissions reduction, that is to be used by a government or regulatory entity in considering or applying the amended objective until a Regulation or Rule mentioned in subclause (5) takes effect.
+43—Validation of things done in relation to Rules before commencement
+(1) This clause applies if, before the commencement of this clause—
+(a) the MCE or a Minister of a participating jurisdiction had requested a Rule under section 91(1) in relation to the national electricity objective as if the amended objective were in force; and
+(b) the AEMC had done a thing under Part 7, other than sections 103 to 105, in relation to the request.
+(2) On the commencement of this clause—
+(a) the thing is taken to have been validly done under Part 7; and
+(b) the AEMC is taken to have satisfied a requirement under the Law to apply the national electricity objective in relation to the thing.

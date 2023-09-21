@@ -351,7 +351,15 @@ The Ministers of the participating jurisdictions are—
 (3) A nomination of an entity has the effect of applying this Law and the Rules (in whole or in part as specified in the regulations and with any specified modifications) to the entity as if it were a distributor within the meaning of this Law, and references in this Law and the Rules to a distributor are accordingly taken to include references to the nominated distributor.
 Division 3—National energy retail objective and policy principles
 13—National energy retail objective
-The objective of this Law is to promote efficient investment in, and efficient operation and use of, energy services for the long term interests of consumers of energy with respect to price, quality, safety, reliability and security of supply of energy.
+The objective of this Law is to promote efficient investment in, and efficient operation and use of, energy services for the long term interests of consumers of energy with respect to—
+(a) price, quality, safety, reliability and security of supply of energy; and
+(b) the achievement of targets set by a participating jurisdiction—
+(i) for reducing Australia's greenhouse gas emissions; or
+(ii) that are likely to contribute to reducing Australia's greenhouse gas emissions.
+Note—
+The AEMC must publish targets in a targets statement: see section 224A.
+13AA—National Regulations may prescribe matters for national energy retail objective
+Without limiting Part 11 of this Law, the National Regulations may make provision about a matter relating to the achievement of targets mentioned in section 13(b).
 13A—Innovative trial principles
 The following principles (the innovative trial principles) must be taken into account in determining whether a trial project is genuinely innovative in connection with granting a trial waiver or making a trial Rule relating to a trial project:
 (a) whether the trial project is focused on developing new or materially improved customer connection services or customer retail services;
@@ -2403,6 +2411,14 @@ Note—
 See also sections 234 and 268 of this Law.
 224—AEMC must have regard to national energy retail objective
 In performing or exercising any function or power under this Law, the National Regulations or the Rules, the AEMC must have regard to the national energy retail objective.
+224A—Targets statement for greenhouse gas emissions targets
+(1) The AEMC must prepare and maintain a document (the targets statement) stating the targets set by a participating jurisdiction mentioned in section 13(b).
+(2) If the MCE or a Minister of a participating jurisdiction gives a written direction to the AEMC to include a target in, or remove a target from, the targets statement, the AEMC must comply with the direction.
+(3) A Minister may give a written direction under subsection (2) only in relation to a target set by the Minister's participating jurisdiction.
+(4) The AEMC must publish on its website—
+(a) the targets statement; and
+(b) each direction given under subsection (2).
+(5) In having regard to the national energy retail objective under this Law, the National Regulations or the Rules with respect to the matters mentioned in section 13(b), a person or body must consider, as a minimum, the targets stated in the targets statement.
 225—AEMC must have regard to MCE statements of policy principles in relation to Rule making and reviews
 The AEMC must have regard to any relevant MCE statement of policy principles—
 (a) in making a Rule; or
@@ -2639,6 +2655,23 @@ regulatory sandboxing amendments means the amendments made to this Law by the St
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
 (7) In this section—
 stand‑alone power system amendments means the amendments made to the NEL and this Law by the Statutes Amendment (National Energy Laws) (Stand-Alone Power Systems) Act 2021.
+238AC—South Australian Minister may make initial Rules relating to national energy retail objective
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia may, within 9 months after the commencement of this section—
+(a) make Rules for or with respect to any matter or thing necessary or expedient to implement the amended objective; and
+(b) make Rules for or with respect to any other subject contemplated by, or necessary or expedient for implementing, the amended objective; and
+(c) make Rules that revoke or amend a Rule as a consequence of the enactment of the Statutes Amendment (National Energy Laws) (Emissions Reduction Objectives) Act 2023 of South Australia.
+(2) Rules in the nature of a derogation may be made under subsection (1) even though there may not have been a request for a derogation.
+(3) Section 237(3) applies to the making of Rules under subsection (1) as if the Rules being made under subsection (1) were Rules being made by the AEMC.
+(4) As soon as practicable after making Rules under subsection (1), the Minister referred to in that subsection must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(6) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
+(7) If the Minister referred to in subsection (1) makes Rules under that subsection, the Minister cannot make another Rule under that subsection.
+(8) In this section—
+amended objective means the national energy retail objective as in force on the commencement of this section.
 Subdivision 2—Rules made by Minister from time to time
 238B—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2) for any purpose that is necessary or consequential as a result of the making of a NER by the Minister under section 90F of the NEL or a NGR by the Minister under section 294G of the NGL.
@@ -3345,8 +3378,8 @@ Part 2—Transitional provision related to stand‑alone power systems
 The designated retailer for a small customer's premises that are connected to a stand‑alone power system that becomes a regulated stand‑alone power system under the NEL after the commencement of section 6B of the NEL is—
 (a) the financially responsible retailer for the premises; or
 (b) if there is no financially responsible retailer for the premises—the local area retailer for the premises.
-Part 2—Savings and transitional provisions related to Ministerial Council on Energy amendments
-2—Definitions
+Part 3—Savings and transitional provisions related to Ministerial Council on Energy amendments
+2A—Definitions
 In this Part—
 Amendment Act means the Statutes Amendment (National Energy Laws) (Omnibus) Act 2021;
 commencement day means the day on which section 25 of the Amendment Act comes into operation.
@@ -3365,3 +3398,49 @@ agreement includes the Australian Energy Market Agreement or any other intergove
 The substitution of the definition of the MCE by section 25 of the Amendment Act does not affect the validity of—
 (a) any decision or direction made by the MCE before the commencement day; or
 (b) any appointment in accordance with a recommendation or nomination of the MCE made before the commencement day.
+Part 4—Transitional provisions related to national energy retail objective amendments
+7—Definitions
+In this Part—
+amended objective means the national energy retail objective as in force on the commencement of this clause;
+amending Act means the Statutes Amendment (National Energy Laws) (Emissions Reduction Objectives) Act 2023;
+government or regulatory entity means the AEMC, AEMO, the AER, the Energy Security Board, the MCE or another government entity;
+start day—see clause 8(2)(a).
+8—When amended objective takes effect for particular matters
+(1) This clause applies in relation to a thing required or permitted to be done under this Law by a person or body, other than the AEMC, if, in doing the thing, the person or body is required to consider or apply the national energy retail objective including, for example, by—
+(a) having regard to the national energy retail objective; or
+(b) doing the thing in a manner that will or is likely to contribute to the achievement of the national energy retail objective.
+(2) Despite section 9 of the amending Act—
+(a) the national energy retail objective as in force before that section came into operation continues to apply for the doing of the thing until the day (the start day) that is 2 months after the commencement of this clause; and
+(b) the amended objective applies in relation to the doing of the thing from the start day.
+(3) This clause is subject to clause 9.
+9—Application of national energy retail objective to particular matters in progress on start day
+(1) This clause applies if—
+(a) before the start day, an entity or other person had started, or was required or permitted to start, doing a thing; and
+(b) on the start day—
+(i) the entity or other person has not finished doing the thing; or
+(ii) the period within which the thing is required or permitted to be done has not ended; and
+(c) in doing the thing the entity or other person is required to consider or apply the national energy retail objective by, for example—
+(i) having regard to the national energy retail objective; or
+(ii) doing the thing in a manner that will or is likely to contribute to the achievement of the national energy retail objective.
+(2) The national energy retail objective as in force before the commencement of this clause, and as continued under clause 8 until the start day, continues to apply in relation to the doing of the thing.
+(3) However, a government or regulatory entity may decide to consider or apply the amended objective in relation to the doing of the thing.
+10—Administrative guidance for decisions under clause 9(3)
+(1) If a government or regulatory entity, other than the AER, proposes to exercise a discretion under clause 9(3), the entity must use its best endeavours to ensure that within 45 days after the commencement of this clause, it issues administrative guidance about the matters the entity is likely to have regard to in deciding whether to consider or apply the amended objective in doing a thing.
+(2) The AER must, within 45 days after the commencement of this clause, issue administrative guidance about the matters the AER is likely to have regard to in deciding whether to consider or apply the amended objective in doing a thing.
+(3) A failure to comply with this section does not prevent a government or regulatory entity from exercising a discretion under clause 9(3).
+11—Administrative guidance about value of greenhouse gas emissions
+(1) This clause applies if—
+(a) administrative guidance is issued by a government or regulatory entity about considering or applying the amended objective; and
+(b) the guidance includes the value, or a method of working out the value, of greenhouse gas emissions or greenhouse gas emissions reduction; and
+(c) the guidance is consistent with any MCE statement.
+(2) The value or method stated in the administrative guidance must be complied with by the government or regulatory entity in considering or applying the amended objective.
+(3) This clause applies until a National Regulation or Rule takes effect for the matter described in subclause (1).
+(4) In this clause—
+MCE statement means a statement issued by the MCE that states the value, or a method of or guidance for working out the value, of greenhouse gas emissions or greenhouse gas emissions reduction, that is to be used by a government or regulatory entity in considering or applying the amended objective until a National Regulation or Rule mentioned in subclause (3) takes effect.
+12—Validation of things done in relation to Rules before commencement
+(1) This clause applies if, before the commencement of this clause—
+(a) the MCE or a Minister of a participating jurisdiction had requested a Rule under section 243(1) in relation to the national energy retail objective as if the amended objective were in force; and
+(b) the AEMC had done a thing under Part 10, other than sections 261 to 264, in relation to the request.
+(2) On the commencement of this clause—
+(a) the thing is taken to have been validly done under Part 10; and
+(b) the AEMC is taken to have satisfied a requirement under the Law to apply the national energy retail objective in relation to the thing.
