@@ -24,6 +24,11 @@ This Law commences in a participating jurisdiction as provided under the Act of 
 An entity that has functions under this Law is to exercise its functions having regard to the objectives and guiding principles of the national education and care services quality framework set out in section 3.
 5—Definitions
 (1) In this Law—
+approval in principle means an approval in principle granted under section 110 for a proposed education and care service premises;
+approval in principle criteria means, of the national regulations that regulate the education and care service premises, those which are prescribed to be the approval in principle criteria;
+approval in principle holder means—
+(a) a person granted an approval in principle under section 110; or
+(b) if the approval in principle is transferred to another person under section 118 or 119, that person;
 approved education and care service means an education and care service for which a service approval exists;
 approved family day care service means an approved education and care service that is a family day care service;
 approved family day care venue means a place (other than a residence) approved under section 50A or 54(8A) as a family day care venue for an approved family day care service;
@@ -83,6 +88,9 @@ former education and care services law, in relation to a participating jurisdict
 grade 1, in relation to a school, means the first year of compulsory full‑time schooling;
 guardian, in relation to a child, means the legal guardian of the child;
 infringements law, in relation to a participating jurisdiction, means a law declared by a law of that jurisdiction to be an infringements law for the purposes of this Law;
+mandatory approval in principle jurisdiction means a Part 4 jurisdiction in which section 49A of this Law applies;
+Note—
+See section 49A.
 Ministerial Council means a body (however described) that consists of the Minister of the Commonwealth, and the Minister of each State and Territory, who is responsible, or principally responsible, for matters under this Law;
 National Authority means the Australian Children's Education and Care Quality Authority established under this Law;
 national education and care services quality framework means—
@@ -107,6 +115,14 @@ office, in relation to a family day care service, means—
 parent, in relation to a child, includes—
 (a) a guardian of the child; and
 (b) a person who has parental responsibility for the child under a decision or order of a court;
+Part 4 building means—
+(a) a building that has 3 or more storeys (including the ground level and each level of a split level); or
+(b) a building of a prescribed class;
+Part 4 building law, in relation to a participating jurisdiction, means a law declared by or under a law of that jurisdiction to be a Part 4 building law;
+Part 4 jurisdiction means a participating jurisdiction in which Part 4 of this Law applies;
+Note—
+See section 105.
+Part 4 planning law, in relation to a participating jurisdiction, means a law declared by or under a law of that jurisdiction to be a Part 4 planning law;
 participating jurisdiction means a State or Territory in which—
 (a) this Law applies as a Law of the State or Territory; or
 (b) a law that substantially corresponds to the provisions of this Law has been enacted;
@@ -492,6 +508,8 @@ Division 1—Application for service approval
 (1) An approved provider may apply to the Regulatory Authority for a service approval for an education and care service.
 (2) An approved provider may only apply for a service approval for an education and care service if the approved provider is or will be the operator of the education and care service and is or will be responsible for the management of the staff members and nominated supervisors of that service.
 (3) A person who has applied for a provider approval may apply to the Regulatory Authority for a service approval, however the Regulatory Authority must not grant the service approval unless the provider approval is granted.
+Note—
+Mandatory approval in principle jurisdictions require an approved provider to hold an approval in principle under Part 4 for the education and care service premises as a precondition of service approval. See section 49A.
 44—Form of application
 (1) An application for a service approval must—
 (a) be made to the Regulatory Authority of the participating jurisdiction in which the service is to be located; and
@@ -517,6 +535,9 @@ This approval is granted under section 50A only if exceptional circumstances exi
 (1) Subject to subsection (3), in determining an application under section 43, the Regulatory Authority must have regard to—
 (a) the National Quality Framework; and
 (b) except in the case of a family day care residence, the suitability of the education and care service premises and the site and location of those premises for the operation of an education and care service; and
+(ba) any approval in principle held by the approved provider for the education and care service premises, and whether the premises were constructed, altered or repaired in accordance with the plans, drawings or specifications attached to, or described in, the approval in principle; and
+Note—
+The approval in principle process in Part 4 only applies to certain premises in certain participating jurisdictions. See section 105.
 (c) the adequacy of the policies and procedures of the service; and
 (d) whether the applicant has a provider approval; and
 (e) except in the case of a nominated supervisor who is the approved provider, whether each nominated supervisor has consented in writing to the nomination; and
@@ -550,6 +571,28 @@ as the case requires.
 (a) the Regulatory Authority is satisfied that the service, if permitted to operate, would constitute an unacceptable risk to the safety, health or wellbeing of children who would be educated or cared for by the education and care service; or
 (b) the applicant does not have a provider approval.
 (2) The Regulatory Authority may refuse to grant a service approval on any other grounds prescribed in the national regulations.
+(3) The Regulatory Authority must not refuse to grant a service approval on the ground that the education and care service premises do not meet the approval in principle criteria if—
+(a) the approved provider is an approval in principle holder for the premises; and
+(b) the premises were constructed, altered or repaired in accordance with the plans, drawings or specifications attached to, or described in, the approval in principle.
+Note—
+The approval in principle process in Part 4 only applies to certain premises in certain participating jurisdictions. See section 105.
+(4) Subsection (3) does not prevent the Regulatory Authority from refusing to grant a service approval on any other ground, including a ground set out in subsection (1)(a) or section 47(1)(b).
+49A—Additional ground for refusal in certain participating jurisdictions—mandatory approval in principle
+(1) This section applies to, and in relation to, a Part 4 jurisdiction if a law of the Part 4 jurisdiction, or an instrument made under that law, specifically declares that section 49A of this Law applies.
+(2) Without limiting section 49(1), the Regulatory Authority must refuse to grant a service approval if—
+(a) the education and care service premises for the service (other than a family day care service) are located in a Part 4 building; and
+(b) under a Part 4 planning law or Part 4 building law (or both) of the Part 4 jurisdiction, a permit or approval is or was required for the construction, alteration or repair of the premises or the development of the land; and
+(c) either—
+(i) the approved provider is not the approval in principle holder for the premises; or
+(ii) the premises are not constructed, altered or repaired in accordance with the plans, drawings or specifications attached to, or described in, the approval in principle.
+(3) Despite subsection (2), the Regulatory Authority may grant a service approval for an education and care service—
+(a) if satisfied that—
+(i) the service approval is required for the emergency relocation of an education and care service; and
+(ii) the education and care service premises is the most suitable available premises for the education and care service; or
+(b) in any other prescribed circumstances.
+(4) Subsection (2) does not apply if—
+(a) a service approval was previously granted for an education and care service at the premises; and
+(b) since the cancellation or surrender of that service approval, there has been no further construction, alteration or repair of the premises requiring a permit or approval under a Part 4 planning law or Part 4 building law (or both) of the Part 4 jurisdiction.
 50—Notice of decision on application
 The Regulatory Authority must give written notice to the applicant of a decision under section 48 and the reasons for the decision within 7 days after the decision is made.
 50A—Approval of a place as a family day care venue
@@ -939,6 +982,188 @@ Penalty:
 (a) $6 800, in the case of an individual.
 (b) $34 400, in any other case.
 (2) Subsection (1) does not apply if an application for a service approval in respect of the education and care service has been made under this Law but has not been decided.
+Part 4—Approval in principle for education and care service premises located in certain types of buildings
+Division 1—Application of this Part
+105—Application of Part to certain participating jurisdictions only
+This Part applies to, and in relation to, a participating jurisdiction if a law of the participating jurisdiction, or an instrument made under that law, specifically declares that Part 4 of this Law applies.
+Division 2—Application for approval in principle
+106—Application for approval in principle
+(1) A person may apply to the Regulatory Authority for the approval in principle of proposed education and care service premises.
+(2) An application may be made if—
+(a) the premises are for an education and care service (other than a family day care service); and
+(b) the premises are proposed to be located in a new or existing Part 4 building; and
+(c) under a Part 4 planning law or Part 4 building law (or both) of the Part 4 jurisdiction, a permit or approval is required for the construction, alteration or repair of the proposed education and care service premises or the development of the land.
+107—Form and timing of application
+(1) An application for an approval in principle must—
+(a) be made to the Regulatory Authority of the Part 4 jurisdiction in which the building is to be located or is located; and
+(b) be in writing; and
+(c) include any plan, drawing or specification as to the construction, alteration or repair of the proposed premises and building in which the premises are or will be located; and
+(d) include the prescribed information; and
+(e) include payment of the prescribed fee.
+(2) An application for an approval in principle must be made to the Regulatory Authority within the period declared by or under a law of the Part 4 jurisdiction to be the application period.
+108—Regulatory Authority may seek further information
+(1) The Regulatory Authority may ask an applicant for an approval in principle to provide any further information that is reasonably required for the purpose of assessing the application.
+(2) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of the request until the provision of the further information is not included in the period referred to in section 110 for the Regulatory Authority to make a decision on the application.
+109—Determination of application for an approval in principle
+In determining an application for an approval in principle, the Regulatory Authority must have regard to—
+(a) the suitability of the proposed education and care service premises and the site and location of those premises for the operation of an education and care service; and
+(b) whether the proposed education and care service premises would meet the approval in principle criteria once constructed, altered or repaired; and
+(c) whether the proposed education and care service premises will have direct egress to an assembly area to allow the safe evacuation of all children; and
+(d) any other matter the Regulatory Authority considers relevant; and
+(e) any other prescribed matters.
+110—Grant or refusal of approval in principle
+(1) On receiving an application under section 106, the Regulatory Authority may—
+(a) subject to section 111, grant an approval in principle; or
+(b) refuse to grant an approval in principle.
+(2) Subject to subsection (3), the Regulatory Authority must make a decision on the application within 60 days after the Regulatory Authority receives the application.
+Note—
+If further information is requested under section 108(1), the period between the making of the request and the provision of the information is not included in the 60 day period.
+(3) The period referred to in subsection (2) may be extended with the agreement of the applicant.
+(4) The Regulatory Authority is taken to have refused to grant an approval in principle if the Regulatory Authority has not made a decision under subsection (1)—
+(a) within the relevant time required under subsection (2); or
+(b) within the period extended under subsection (3),
+as the case requires.
+111—Regulatory Authority must refuse to grant approval in principle unless satisfied of certain matters
+The Regulatory Authority must refuse to grant an approval in principle unless satisfied that—
+(a) the proposed education and care service premises (once constructed, altered or repaired) and the site and location of those premises—
+(i) will be suitable for the operation of an education and care service; and
+(ii) will meet the approval in principle criteria; and
+(b) the proposed education and care service premises will have direct egress to an assembly area to allow the safe evacuation of all children.
+112—Notice of decision on application for approval in principle
+The Regulatory Authority must give written notice to the applicant of a decision under section 110 and the reasons for the decision within 7 days after the decision is made.
+113—Copy of approval in principle to be provided
+(1) If the Regulatory Authority grants an approval in principle, the Regulatory Authority must give a copy of the approval in principle to the applicant stating—
+(a) the name of the approval in principle holder; and
+(b) the site and location of the building or proposed building; and
+(c) the location of the proposed education and care service premises within the building or proposed building; and
+(d) the date on which the approval in principle was granted; and
+(e) the date on which the approval in principle expires; and
+Note—
+An approval in principle expires 3 years from the day it is granted. See section 123.
+(f) any other prescribed matters.
+(2) The copy of the approval in principle must—
+(a) attach a copy of any plan, drawing or specification that is the basis of the approval in principle of the premises; or
+(b) sufficiently describe any such plan, drawing or specification.
+Division 3—Duties of approval in principle holder
+114—Duty to notify Regulatory Authority of any material change
+The approval in principle holder must notify the Regulatory Authority of any material change to—
+(a) any plan, drawing or specification attached to, or described in, the approval in principle in accordance with section 113(2); or
+(b) the environment surrounding the proposed education and care service premises that may affect the suitability of the premises for the operation of an education and care service.
+Example—
+A neighbouring building is constructed which impacts adequate natural light in the indoor spaces of the proposed premises.
+Division 4—Amendment and transfer of approval in principle
+115—Amendment of approval in principle on application
+(1) The approval in principle holder may apply to the Regulatory Authority for an amendment of an approval in principle.
+(2) The application must—
+(a) be in writing; and
+(b) include the prescribed information; and
+(c) include payment of the prescribed fee.
+(3) The Regulatory Authority may ask the applicant to provide further information that is reasonably required for the purpose of assessing the application.
+(4) If the Regulatory Authority asks the applicant for further information under this section, the period from the making of the request until the provision of the further information is not included in the period referred to in subsection (5).
+(5) The Regulatory Authority must make a decision on the application within 60 days after the Regulatory Authority receives the application.
+(6) The Regulatory Authority must decide the application by—
+(a) amending the approval in principle in the way applied for; or
+(b) with the applicant's written agreement, amending the approval in principle in another way; or
+(c) refusing to amend the approval in principle.
+(7) An amendment cannot change the location of the proposed education and care service premises.
+(8) The Regulatory Authority must give written notice of its decision to the approval in principle holder within 7 days after the decision is made.
+116—Amendment of approval in principle by Regulatory Authority
+(1) The Regulatory Authority may amend an approval in principle at any time without an application.
+(2) The Regulatory Authority must give written notice of the amendment to the approval in principle holder and the reasons for the decision within 7 days after the decision is made.
+(3) An amendment under this section has effect—
+(a) 14 days after the Regulatory Authority gives notice of the amendment under subsection (2); or
+(b) if another period is specified by the Regulatory Authority, at the end of that period.
+117—Copy of amended approval in principle to be provided
+If the Regulatory Authority amends an approval in principle under section 115 or 116, the Regulatory Authority must give an amended copy of the approval in principle to the approval in principle holder.
+118—Transfer of approval in principle
+(1) The approval in principle holder (transferring approval in principle holder) may transfer the approval in principle to another person (receiving approval in principle holder).
+(2) A transfer takes effect on the day the Regulatory Authority receives a notice of transfer in accordance with subsection (3).
+(3) A notice of transfer must—
+(a) be in writing; and
+(b) be signed by both the transferring approval in principle holder and the receiving approval in principle holder; and
+(c) include the prescribed information; and
+(d) include payment of the prescribed fee.
+(4) As soon as practicable after receiving a notice of transfer, the Regulatory Authority must—
+(a) amend the approval in principle to specify the name of the receiving approval in principle holder; and
+(b) provide an amended copy of the approval in principle to the receiving approval in principle holder.
+119—Transfer of approval in principle by Regulatory Authority
+(1) The Regulatory Authority may transfer an approval in principle to another person if the Regulatory Authority becomes aware that the approval in principle holder has died or does not exist.
+(2) On transferring an approval in principle, the Regulatory Authority must—
+(a) amend the approval in principle to specify the name of the receiving approval in principle holder; and
+(b) provide an amended copy of the approval in principle to the receiving approval in principle holder.
+Division 5—Cancellation of approval in principle
+120—Regulatory Authority may cancel approval in principle
+The Regulatory Authority may cancel an approval in principle if the Regulatory Authority is satisfied—
+(a) that the proposed education and care service premises to which the approval relates, or the site or location of those premises, is no longer suitable for the operation of an education and care service; or
+(b) the proposed education and care service premises will not be constructed, altered or repaired in accordance with the plans, drawings or specifications attached to, or described in, the approval in principle.
+121—Show cause notice before cancellation
+If the Regulatory Authority is considering the cancellation of an approval in principle under section 120, the Regulatory Authority must first give the approval in principle holder a show cause notice stating—
+(a) that the Regulatory Authority intends to cancel the approval in principle; and
+(b) the reasons for the proposed cancellation; and
+(c) that within 30 days after the notice is given, the holder may give the Regulatory Authority a written response to the proposed cancellation.
+122—Decision in relation to cancellation
+(1) After considering any written response from the approval in principle holder received within the time allowed by section 121(c), the Regulatory Authority must—
+(a) cancel the approval in principle; or
+(b) decide not to cancel the approval in principle.
+(2) The Regulatory Authority must give the approval in principle holder written notice of the decision and the reasons for the decision within 7 days after the decision is made.
+(3) The decision to cancel the approval in principle takes effect—
+(a) 14 days after the Regulatory Authority gives notice of the decision; or
+(b) if another period is specified by the Regulatory Authority, at the end of that period.
+(4) The notice of a decision to cancel must set out the date on which the cancellation takes effect.
+Division 6—Expiry of approval in principle
+123—Expiry of approval in principle
+(1) An approval in principle expires—
+(a) on the third anniversary of the day on which the approval in principle was granted; or
+(b) if the approval in principle is extended under section 124, on the day determined by the Regulatory Authority in accordance with that section.
+(2) Despite subsection (1), if an application for extension is made under section 124 before the expiry of the approval in principle, the approval in principle does not expire before the application for extension is determined by the Regulatory Authority.
+(3) Despite subsection (1), if an application for service approval is made before the expiry of the approval in principle, the approval in principle does not expire before the application for service approval is determined by the Regulatory Authority.
+124—Approval in principle may be extended
+(1) Any time before an approval in principle expires, the Regulatory Authority may extend an approval in principle—
+(a) on the application of the approval in principle holder; or
+(b) without an application.
+(2) The Regulatory Authority may extend an approval in principle for a period no longer than 3 years after the date on which the approval in principle would otherwise expire under section 123(1)(a).
+(3) An application for extension must—
+(a) be in writing; and
+(b) include the prescribed information; and
+(c) include payment of the prescribed fee.
+(4) The Regulatory Authority may ask the applicant to provide further information that is reasonably required for the purpose of assessing the application.
+(5) In determining an application for extension, the Regulatory Authority—
+(a) must consider whether, before the proposed new expiry date—
+(i) the construction, alteration or repair of the proposed education and care service premises is likely to be completed; and
+(ii) an application for a service approval is likely to be made; and
+(b) may consider whether—
+(i) the proposed education and care service premises is, or is being, constructed, altered or repaired in accordance with the approval in principle; and
+(ii) the approval in principle has previously been extended; and
+(iii) the approval in principle has previously been reinstated.
+(6) After considering an application for extension, the Regulatory Authority must—
+(a) decide to extend the approval in principle; or
+(b) refuse to extend the approval in principle.
+(7) If the Regulatory Authority decides to extend an approval in principle, the Regulatory Authority must—
+(a) amend the approval in principle to specify the new date on which the approval in principle expires; and
+(b) provide an amended copy of the approval in principle to the approval in principle holder.
+(8) If the Regulatory Authority decides not to extend an approval in principle, the Regulatory Authority must give the approval in principle holder written notice of its decision and the reasons for the decision within 7 days after the decision is made.
+125—Expired approval in principle may be reinstated
+(1) If an approval in principle expires, the former approval in principle holder may apply to the Regulatory Authority for reinstatement of the approval in principle.
+(2) An application for reinstatement must—
+(a) be in writing; and
+(b) include the prescribed information; and
+(c) include payment of the prescribed fee.
+(3) The application for reinstatement must be made no later than 6 months after the date on which the approval in principle expired.
+(4) The Regulatory Authority may ask the applicant to provide further information that is reasonably required for the purpose of assessing the application.
+(5) In determining whether to reinstate an approval in principle, the Regulatory Authority—
+(a) must consider whether, within the period that the approval in principle is to be reinstated—
+(i) the construction, alteration or repair of the proposed education and care service premises is likely to be completed; and
+(ii) an application for a service approval is likely to be made; and
+(b) may consider whether—
+(i) the proposed education and care service premises is, or is being, constructed, altered or repaired in accordance with the approval in principle; and
+(ii) the approval in principle has previously been extended; and
+(iii) the approval in principle has previously expired and been reinstated.
+(6) The Regulatory Authority must—
+(a) reinstate an approval in principle; or
+(b) refuse to reinstate an approval in principle.
+(7) A reinstated approval in principle expires 12 months after the day on which the decision to reinstate the approval in principle is made.
+(8) If the Regulatory Authority reinstates an approval in principle, the Regulatory Authority must give the approval in principle holder a copy of the reinstated approval in principle which specifies the date on which the reinstated approval in principle expires.
+(9) If the Regulatory Authority refuses to reinstate an approval in principle, the Regulatory Authority must give the applicant written notice of its decision and the reasons for the decision within 7 days after the decision is made.
 Part 5—Assessments and ratings
 Division 1—Assessment and rating
 133—Assessment for rating purposes
@@ -1570,6 +1795,12 @@ A reviewable decision for internal review is a decision of the Regulatory Author
 (ii) a service approval under section 73; or
 (e) to refuse to consent to the transfer of a service approval; or
 (f) to revoke a service waiver; or
+(fa) to refuse to grant an approval in principle; or
+(fb) to amend or refuse to amend an approval in principle; or
+(fc) to transfer an approval in principle under section 119; or
+(fd) to cancel an approval in principle; or
+(fe) to refuse to extend an approval in principle; or
+(ff) to refuse to reinstate an approval in principle; or
 (g) to issue a compliance direction; or
 (h) to issue a compliance notice.
 191—Internal review of reviewable decisions
@@ -2773,3 +3004,14 @@ commencement day, in relation to a participating jurisdiction, means the day on 
 (ii) the temporary waiver is revoked by the Regulatory Authority.
 (2) In this section—
 commencement day, in relation to a participating jurisdiction, means the day on which the amendments made by section 31 of the Early Childhood Legislation Amendment Act 2022 of Victoria comes into operation in that jurisdiction.
+Division 8—Transitional provisions—Early Childhood Legislation Amendment (Premises Approval in Principle) Act 2023
+340—Transitional provision—approvals in principle—applications for service approval
+(1) This section applies if—
+(a) a participating jurisdiction declares that section 49A applies to, and in relation to, that jurisdiction; and
+(b) before, on or after the commencement day, a person makes an application for a service approval in respect of education and care service premises located in a Part 4 building; and
+(c) before the commencement day, a permit or approval under a Part 4 planning law or Part 4 building law was issued for the premises.
+(2) Despite section 49A(2)—
+(a) the applicant for the service approval is not required to be an approval in principle holder for the premises; and
+(b) the Regulatory Authority must not refuse to grant a service approval on the ground that the applicant is not an approval in principle holder for the premises.
+(3) In this Division—
+commencement day, in relation to a mandatory approval in principle jurisdiction, means the day on which section 49A is declared to come into operation in that jurisdiction.
