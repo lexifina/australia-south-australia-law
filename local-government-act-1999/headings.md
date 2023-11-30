@@ -63,7 +63,7 @@ Part 1—Strategic management plans
 Part 2—Annual business plans and budgets
 Part 3—Accounts, financial statements and audit
 Division 1—Accounts
-Division 2—Internal control and audit committee
+Division 2—Internal control, audit and risk committee etc
 Division 3—Financial statements
 Division 4—Audit
 Division 5—Other investigations
