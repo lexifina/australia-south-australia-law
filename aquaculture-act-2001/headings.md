@@ -14,6 +14,7 @@ Division 5—Emergency leases
 Division 6—Occupation of marked-off areas
 Division 7—Power to require or carry out work
 Part 7—Licences
+Part 7A—Tourism development
 Part 8—Reference of matters to EPA
 Part 9—Reviews
 Part 10—Administration
