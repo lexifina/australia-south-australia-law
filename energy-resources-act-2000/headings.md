@@ -35,6 +35,7 @@ Division 6—Grant, resumption etc of land
 Division 7—Multiple licensees
 Division 8—Consolidation and division of licence areas etc
 Division 9—Record keeping and reporting requirements
+Division 9A—Change in control of holder of licence
 Division 10—General requirements for operations
 Division 11—Minister's power to carry out work
 Division 12—Surrender, suspension or cancellation of licence
