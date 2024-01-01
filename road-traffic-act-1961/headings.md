@@ -18,7 +18,7 @@ Part 2A—Mutual recognition and corresponding road laws
 Part 3—Duties of drivers, passengers and pedestrians
 Division 2—Duty to stop and give assistance where person killed or injured
 Division 3—Fraudulent use of motor vehicles
-Division 4—Vehicle misuse and careless and dangerous driving
+Division 4—Vehicle misuse etc and careless and dangerous driving
 Division 5—Drink driving and drug driving
 Division 6—Traffic speed analysers and radar detectors and jammers
 Division 7—Photographic detection devices
