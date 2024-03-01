@@ -19,7 +19,7 @@ Division 9—Tenant's conduct on the premises
 Division 9A—Landlord's obligation to advise of sale of premises
 Division 10—Landlord's right of entry
 Division 11—Statutory charges
-Division 12—Assignment
+Division 12—Assignment and sub-letting
 Division 13—Tenant's vicarious liability
 Division 14—Harsh or unconscionable terms
 Division 14A—Tenant information
