@@ -52,6 +52,7 @@ connection alteration means an alteration to an existing connection, including a
 Court means—
 (a) where this Law applies as a law of the Commonwealth, the Federal Court;
 (b) where this Law applies as a law of a participating jurisdiction that is a State or a Territory, the Supreme Court of that jurisdiction;
+covered gas has the same meaning as in the NGL;
 customer—see section 5;
 customer connection contract means a contract between a distributor and a customer of the kind referred to in section 67;
 customer connection service for premises means any or all of the following:
@@ -115,13 +116,17 @@ explicit informed consent—see section 39;
 financially responsible retailer for premises means—
 (a) in the case of electricity—the retailer who is the financially responsible Market Participant responsible for the premises under the NER; or
 (b) in the case of gas—the retailer who is responsible for settling the account for gas withdrawn from the delivery point (however described) associated with the premises under the relevant Retail Market Procedures;
-gas means natural gas within the meaning of the NGL;
+gas means the following:
+(a) natural gas;
+(b) a natural gas equivalent;
+(c) a prescribed covered gas;
 GSL scheme means a scheme set out in energy laws under which there are distributor service standards to which an associated payment (a Guaranteed Service Level payment or GSL payment) is payable by a distributor to the customer where the distributor fails to meet the service standard;
 hardship customer means a residential customer of a retailer who is identified as a customer experiencing financial payment difficulties due to hardship in accordance with the retailer's customer hardship policy;
 hardship program indicators means the hardship program indicators under section 287;
 initial National Energy Retail Rules means the Initial National Energy Retail Rules made under Part 10 Division 3;
 innovative trial principles—see section 13A;
 jurisdictional energy legislation means legislation of a participating jurisdiction (other than national energy legislation), or any instrument made or issued under or for the purposes of that legislation, that regulates energy in that jurisdiction;
+jurisdictional gas legislation has the same meaning as in the NGL;
 jurisdictional regulator means a body or person that is prescribed by the National Regulations as a jurisdictional regulator;
 large customer—see section 5;
 life support equipment means life support equipment of a kind or kinds defined in the Rules;
@@ -165,6 +170,8 @@ National Energy Retail Rules or Rules means—
 (b) Rules made by the AEMC under this Law, including Rules that amend or revoke—
 (i) the initial National Energy Retail Rules or Rules made under Part 10 Division 3 Subdivision 2; or
 (ii) Rules made by it;
+natural gas has the same meaning as in the NGL;
+natural gas equivalent—see section 2A;
 negotiated connection contract means a customer connection contract that is entered into in accordance with section 78;
 NEL means the National Electricity Law set out in the Schedule to the National Electricity (South Australia) Act 1996 of South Australia;
 NER means the National Electricity Rules as in force from time to time under the NEL;
@@ -184,6 +191,7 @@ payment plan means a plan for—
 to pay a retailer, by periodic instalments in accordance with the Rules, any amounts payable by the customer for the sale and supply of energy;
 prepayment meter market retail contract means a market retail contract in respect of particular premises to which energy is supplied using a prepayment meter system;
 prepayment meter system means a device, componentry, software or other mechanism that operates to permit the flow of energy through a meter after prepayment and when activated by a card, code or some other method;
+prescribed covered gas means a covered gas, other than natural gas, prescribed for this definition by the National Regulations that has not, for a participating jurisdiction, been excluded by a local instrument of the jurisdiction;
 price comparator—see section 62;
 Public Register of Authorised Retailers and Exempt Sellers—see section 119;
 reconnection—see the definition of re‑energisation;
@@ -205,6 +213,7 @@ shared customer, in relation to a distributor and a retailer, means a person who
 short term trading market for gas has the same meaning as in the NGL;
 small customer—see section 5;
 small market offer customer—see section 5;
+South Australian Minister means the Minister of the Crown in right of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia;
 standard complaints and dispute resolution procedures—see section 81;
 standard retail contract means a customer retail contract that takes effect under section 26 as a contract between a small customer and a designated retailer;
 standing offer—see section 22;
@@ -227,10 +236,25 @@ Provisions for determining and reviewing the consumption thresholds are containe
 (4) A reference in this Law to the premises of a customer in the context of a customer retail contract or customer connection contract is a reference to the premises of the customer to which the contract relates, but does not include a reference to other premises of the customer.
 (5) To avoid doubt, a customer can be a residential customer in respect of particular premises and a business customer in respect of other premises.
 (6) The Minister responsible for administering the application Act (other than the application Act of South Australia) under which a local instrument is made is to make arrangements for notice of the making and publication of the instrument to be published for information in the South Australian Government Gazette.
+(7) A local instrument may provide that a prescribed covered gas is not a prescribed covered gas in the relevant participating jurisdiction.
+2A—Natural gas equivalent
+(1) A covered gas is a natural gas equivalent if the gas is suitable for use as natural gas and—
+(a) the gas has been prescribed by a local instrument for use in a jurisdiction or a specified area in the jurisdiction as a natural gas equivalent; or
+(b) the gas is supplied through an existing distribution system or an extension of an existing distribution system.
+(2) The following are not natural gas equivalents:
+(a) natural gas;
+(b) a prescribed covered gas.
+(3) In this section—
+existing distribution system means a distribution system that—
+(a) on the NGL extension date was a natural gas distribution system; and
+(b) after the NGL extension date is authorised to haul a covered gas, other than natural gas or a prescribed covered gas;
+NGL extension date means the date on which the Statutes Amendment (National Energy Laws) (Other Gases) Act 2023 commenced.
 3—Application of Law, National Regulations and Rules in this jurisdiction
 This Law, the National Regulations and the Rules apply in this jurisdiction except to the extent provided by or under the application Act of this jurisdiction or any other Act of this jurisdiction.
 Note—
 This Law, the National Regulations and the Rules are, in their application to a jurisdiction, to be read in conjunction with the application Act and jurisdictional energy legislation of the jurisdiction.
+3A—Application to prescribed covered gas
+The National Regulations may modify the way that this Law, the National Regulations and the Rules apply to a prescribed covered gas.
 4—Meaning of civil penalty provision and conduct provision
 (1) A civil penalty provision is—
 (a) a provision of this Law specified in the Table at the foot of this subsection; or
@@ -333,7 +357,7 @@ Division 2—Matters relating to participating jurisdictions
 (2) If a law of a participating jurisdiction referred to in subsection (1)(b) ceases to be in force, the jurisdiction ceases to be a participating jurisdiction.
 10—Ministers of participating jurisdictions
 The Ministers of the participating jurisdictions are—
-(a) the Minister of the Crown in right of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia; and
+(a) the South Australian Minister; and
 (b) the Ministers of the Crown in right of the other participating jurisdictions administering the laws of those jurisdictions that apply this Law or any part of this Law (whether by a law that corresponds to Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia or by some other law).
 11—Local area retailers
 (1) The regulations under the application Act of a participating jurisdiction must nominate a retailer as a local area retailer for that jurisdiction for the purposes of this Law.
@@ -342,7 +366,10 @@ The Ministers of the participating jurisdictions are—
 (a) the whole or a specified part of the geographical area of a jurisdiction;
 (b) specified premises or a specified class of premises;
 (c) specified customers or a specified class of customers.
-(4) A nomination of a retailer may relate to electricity or gas or both.
+(4) A nomination of a retailer may relate to 1 or more of the following:
+(a) electricity;
+(b) natural gas and natural gas equivalents;
+(c) 1 or more types of prescribed covered gas.
 12—Nominated distributors
 (1) The regulations under an application Act of a participating jurisdiction may nominate an entity (being an entity that is licensed or otherwise authorised under jurisdictional energy legislation of that jurisdiction) to provide customer connection services as a nominated distributor for the purposes of this Law.
 (2) A nomination of an entity may be made for any or all of the following:
@@ -370,6 +397,7 @@ The following principles (the innovative trial principles) must be taken into ac
 (f) whether the trial project has moved beyond research and development stages but is not yet established, or of sufficient maturity, size or otherwise commercially ready, to attract investment;
 (g) whether the trial project may negatively impact on AEMO's operation of national energy systems and national energy markets or AEMO's facilitation of customer connection services and customer retail services and, if there are impacts, how those impacts can be mitigated;
 (h) whether the trial project may impact on competition in a competitive sector of a national energy market;
+(ha) whether the licences, authorisations and consents required for the trial project under jurisdictional gas legislation have been obtained or will be obtained;
 (i) any other principle prescribed by the National Regulations.
 14—MCE statements of policy principles
 (1) Subject to this section, the MCE may issue a statement of policy principles in relation to any matters that are relevant to the performance and exercise by the AEMC of its functions and powers in—
@@ -384,9 +412,18 @@ The National Energy Retail Rules have the force of law in this jurisdiction.
 Division 5—Application of this Law and the Rules to forms of energy
 16—Application of Law and Rules to energy
 (1) This Law and the Rules apply to—
-(a) the sale and supply of electricity or gas or both to customers; and
-(b) a retailer to the extent the retailer sells electricity or gas or both; and
-(c) a distributor to the extent the distributor supplies electricity or gas or both.
+(a) the sale and supply to customers of 1 or more of the following:
+(i) electricity;
+(ii) natural gas or natural gas equivalents, or both;
+(iii) 1 or more types of prescribed covered gas; and
+(b) a retailer to the extent that the retailer sells 1 or more of the following:
+(i) electricity;
+(ii) natural gas or natural gas equivalents, or both;
+(iii) 1 or more types of prescribed covered gas; and
+(c) a distributor to the extent that the distributor supplies 1 or more of the following:
+(i) electricity;
+(ii) natural gas or natural gas equivalents, or both;
+(iii) 1 or more types of prescribed covered gas.
 (2) References in this Law and the Rules to energy are to be construed accordingly.
 (3) Nothing in this section affects the application of provisions of this Law or the Rules to persons who are neither retailers nor distributors.
 Division 6—Miscellaneous
@@ -1019,7 +1056,7 @@ Division 1—Prohibition on unauthorised selling of energy
 (a) in the case of the sale of electricity—any requirement under section 11(4) of the NEL relating to the purchasing of electricity through a wholesale exchange; or
 (b) in the case of the sale of gas—
 (i) any requirement under section 91LB of the NGL, as it applies to this jurisdiction in relation to a user (within the meaning of the NGL), to be registered (or exempted from registration) in this jurisdiction in order to participate in a regulated retail gas market; or
-(ii) any requirement under section 91BJ of the NGL, as it applies in relation to a declared wholesale gas market, to be registered (or exempted from registration) in order to participate in that market and to sell natural gas to customers that has been transported through the relevant declared transmission system; or
+(ii) any requirement under section 91BJ of the NGL, as it applies in relation to a declared wholesale gas market, to be registered (or exempted from registration) in order to participate in that market and to sell gas to customers that has been transported through the relevant declared transmission system; or
 (iii) any requirement under section 91BRD of the NGL, as it applies to a short term trading market, to be registered (or exempted from registration) in order to participate in that market.
 (3) A person must not engage in an activity referred to in subsection (1) unless the person has complied with any requirement referred to in subsection (2) (to the extent that any such requirement applies in relation to the person) (but nothing in this subsection requires a requirement under subsection (2) to be satisfied before the AER may grant a retailer authorisation or confer an exemption under this Part).
 Note—
@@ -1060,11 +1097,15 @@ Before deciding an application, the AER must—
 Note—
 See section 170 where the applicant is a failed retailer or an associate of a failed retailer.
 94—Notice of decision to grant application
-If the AER decides to grant an application, the AER must, as soon as practicable, give the applicant a notice—
+(1) If the AER decides to grant an application, the AER must, as soon as practicable, give the applicant a notice—
 (a) stating the decision; and
-(b) stating that the applicant is authorised to sell electricity or gas, as the case requires, when the retailer authorisation is issued under section 96; and
+(b) stating that the applicant is, when the retailer authorisation is issued under section 96, authorised to sell—
+(i) electricity; or
+(ii) gas; and
+(ba) if the applicant is authorised to sell gas—stating the types of gas the applicant is authorised to sell; and
 (c) specifying the conditions (if any) that the AER has decided to impose on the retailer authorisation under section 93(1) or 170(1)(b); and
 (d) stating any other matter relevant to the grant of the retailer authorisation.
+(2) The AER must be satisfied the applicant satisfies the entry criteria in section 90 for each type of gas the applicant is authorised to sell.
 95—Deemed refusal
 (1) This section applies if the AER specifies conditions in a notice under section 94.
 (2) The AER is taken to have decided to refuse an application if, within—
@@ -1098,6 +1139,9 @@ the applicant satisfies the AER that the conditions specified in the notice have
 A retailer authorisation continues in force until it is surrendered or revoked.
 99—Variation of retailer authorisation
 (1) The AER may amend a retailer authorisation to make any alterations requested by the retailer.
+(1a) An amendment must not change the type or types of gas a retailer is authorised to sell unless—
+(a) the retailer makes an application under this Division; and
+(b) the AER determines the application under this Division.
 (2) In this section—
 alterations includes omissions and additions.
 100—Form of energy authorised to be sold
@@ -1577,7 +1621,8 @@ the transfer date is taken to be the date of the revocation or suspension (as th
 (1) If, in the case of gas, there is no declared wholesale gas market or short term trading market or where, in the opinion of the AER, sufficient capacity or gas is not available in a short term trading market, the AER may include a direction in a RoLR notice to the effect of any or all of the following:
 (a) a distributor must make available to a designated RoLR the capacity that was available, immediately before the transfer date, to the failed retailer on the distributor's distribution pipeline;
 (b) a service provider for a transmission pipeline must make available to a designated RoLR the capacity that was available, immediately before the transfer date, to the failed retailer on the provider's transmission pipeline;
-(c) a producer or any other person that has contracted to sell gas to the failed retailer must make available to a designated RoLR the gas that was contracted to the failed retailer.
+(c) a producer or any other person that has contracted to sell gas to the failed retailer must make available to a designated RoLR the gas that was contracted to the failed retailer;
+(d) a blend processing service provider must make available to a designated RoLR the capacity in its blend processing facility that, immediately before the transfer date, was available to the failed retailer.
 (2) In forming its opinion under subsection (1) as to whether or not sufficient gas is available in a short term trading market, the AER may proceed on the assumption that there is not sufficient gas unless, before the issue of a RoLR notice, AEMO notifies the AER in writing that there is sufficient gas.
 (3) The following subsections of this section apply if the AER includes a direction under subsection (1).
 (4) The designated RoLR may, but is not obliged to, use any or all of the capacity or take any or all of the gas made available to it by a person who received a direction under subsection (1).
@@ -1586,9 +1631,17 @@ the transfer date is taken to be the date of the revocation or suspension (as th
 (i) if there is an applicable access arrangement with respect to the distribution pipeline or transmission pipeline—to be in accordance with that applicable access arrangement; or
 (ii) if there is no applicable access arrangement—to be on the same terms and conditions as the contract for pipeline services (however the contract is named in the contract or elsewhere, but referred to in this section as the haulage contract) in force with the failed retailer immediately before the transfer date; and
 (b) are otherwise to be the same terms and conditions as in the gas sale and purchase contract (however the contract is named in the contract or elsewhere, but referred to in this section as the gas sale contract) in force with the failed retailer immediately before the transfer date.
+(5a) The terms and conditions for access by the designated RoLR to a blend processing facility are to be the same terms and conditions applicable to the failed retailer immediately before the transfer date.
 (6) Despite subsection (5), if the terms and conditions of the haulage contract or the gas sale contract materially differ from those that otherwise prevail in the market, the AER may specify in the RoLR notice (or an amendment, which may have effect back to the transfer date) terms and conditions that, in its opinion, better accord with those that otherwise prevail in the market.
-(7) In forming its opinion under subsection (6) as to terms and conditions that better accord with those that otherwise prevail in the market, the AER may (without limitation) take into account the individual circumstances of the failed retailer and the designated RoLR.
+(6a) Despite subsection (5a), the AER may specify terms and conditions if—
+(a) the terms and conditions under which the failed retailer accessed the blend processing facility materially differ from those that otherwise prevail in the market; and
+(b) the AER considers that the terms and conditions it specifies better accord with the terms and conditions that otherwise prevail in the market.
+(6b) For subsection (6a), the terms and conditions specified by the AER may be specified in—
+(a) the RoLR notice; or
+(b) an amendment to the RoLR notice, which may have effect back to the transfer date.
+(7) In forming its opinion under subsection (6) or (6a) as to terms and conditions that better accord with those that otherwise prevail in the market, the AER may (without limitation) take into account the individual circumstances of the failed retailer and the designated RoLR.
 (8) The designated RoLR and distributor or service provider of the transmission pipeline (as the case may be) must, as soon as practicable after the transfer date, commence negotiations for a replacement contract for pipeline services.
+(8a) The designated RoLR and a relevant blend processing service provider must, as soon as practicable after the transfer date, commence negotiations for a replacement contract for access to the blend processing facility.
 (9) If a replacement contract is agreed, the direction ceases to have effect as from the date the replacement contract has effect.
 (10) If, after 3 months from the transfer date, no replacement contract has been agreed—
 (a) either party may commence an access dispute under Chapter 5 of the NGL; and
@@ -1612,7 +1665,7 @@ between the designated RoLR and the producer or other person; and
 (i) the producer or other person who was under the terminated contract selling gas to the failed retailer (as the case may be) must put the gas that is the subject of the terminated contract up for sale by auction and must use their best endeavours to ensure that the auction is completed and the gas is sold within 6 months of the transfer date; and
 (ii) the producer or other person who was under the terminated contract selling gas to the failed retailer (as the case may be) must execute all documents required for both the auction and the sale of gas, including any new gas sale and purchase contract (however named in the contract or elsewhere) consequent on the auction; and
 (iii) when the gas has been sold, the direction ceases to have effect for the gas sale contract.
-(14) In this section, access determination, distribution pipeline, pipeline services, producer, service provider and transmission pipeline have the same meanings as in the NGL and distributor includes a service provider for a pipeline that is not a scheme pipeline within the meaning of the NGL.
+(14) In this section, access determination, blend processing facility, blend processing service provider, distribution pipeline, pipeline services, producer, service provider and transmission pipeline have the same meanings as in the NGL and distributor includes a service provider for a pipeline that is not a scheme pipeline within the meaning of the NGL.
 138—Service and publication of RoLR notice
 (1) A RoLR notice or a notice amending a RoLR notice—
 (a) must be given to—
@@ -1710,7 +1763,10 @@ Subsection (2)(a) is a civil penalty provision.
 (d) any other matter relevant to the RoLR scheme;
 (e) any matter consequential on or related to any of the above.
 (2) Procedures that AEMO makes pursuant to this section may—
-(a) apply to electricity or gas separately; and
+(a) apply separately to—
+(i) electricity; or
+(ii) natural gas and natural gas equivalents; or
+(iii) 1 or more types of prescribed covered gas; and
 (b) vary according to the persons, times, places or circumstances to which they are expressed to apply; and
 (c) confer functions or powers on, or leave any matter or thing to be decided by, AEMO; and
 (d) confer rights or impose obligations on retailers (including failed retailers), insolvency officials of failed retailers, distributors, the AER, AEMO or other persons; and
@@ -2558,6 +2614,10 @@ The procedure for making initial Rules by the South Australian Minister is set o
 (g) the liability of retailers, distributors and customers for acts and omissions and the provision of immunity in respect of any such liability;
 (h) the energisation, de‑energisation or re‑energisation of premises of customers;
 (ha) the sale of electricity to customers whose premises are connected to a regulated stand‑alone power system (within the meaning of the NEL);
+(hb) the transition from the sale or supply of natural gas to the sale or supply of a natural gas equivalent or a prescribed covered gas, including, without limitation, matters relating to the following:
+(i) the process to be followed, or the transition scheme to be applied, in making the change;
+(ii) the powers and functions of the AER in relation to the transition;
+(iii) the technical capabilities that must be demonstrated by a retailer or distributor in relation to the sale of a natural gas equivalent before making the change;
 (i) benchmarks for energy consumption for residential customers;
 (ia) the use of interval meters and smart meters and other related technologies, including devices designed to enable direct load control, including (without limitation) matters relating to the following:
 (i) the ability of a distributor to undertake supply capacity control (SCC), including—
@@ -2601,7 +2661,7 @@ The procedure for making initial Rules by the South Australian Minister is set o
 Division 3—Minister initiated National Energy Retail Rules
 Subdivision 1—Initial Rules made by Minister
 238—South Australian Minister to make initial National Energy Retail Rules
-(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia (the South Australian Minister) may make Rules for or with respect to any matter or thing referred to in Division 2.
+(1) The South Australian Minister may make Rules for or with respect to any matter or thing referred to in Division 2.
 (2) The South Australian Minister may make Rules that amend the Rules made under subsection (1) for any purpose that is necessary or consequential on the application of the Law or those Rules in a participating jurisdiction.
 (3) As soon as practicable after making Rules under this section, the South Australian Minister must—
 (a) publish notice of the making of the Rules in the South Australian Government Gazette; and
@@ -2612,7 +2672,7 @@ Subdivision 1—Initial Rules made by Minister
 (5) The Rules made under this section may only be made on the recommendation of the MCE.
 (6) Rules cannot be made under this section once any one of the participating jurisdictions applies this Law as a law of that jurisdiction.
 238AA—South Australian Minister to make initial Rules relating to regulatory sandboxing
-(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia (the South Australian Minister) may make Rules—
+(1) The South Australian Minister may make Rules—
 (a) for or with respect to—
 (i) the regulatory sandboxing amendments; and
 (ii) any other subject contemplated by, or necessary or expedient for the regulatory sandboxing amendments; and
@@ -2629,7 +2689,7 @@ Subdivision 1—Initial Rules made by Minister
 (7) In this section—
 regulatory sandboxing amendments means the amendments made to this Law by the Statutes Amendment (National Energy Laws) (Regulatory Sandboxing) Act 2022.
 238A—South Australian Minister may make initial Rules related to consumer protections and smart meters
-(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia (the South Australian Minister) may make Rules for or with respect to any matter or thing that is referred to in section 237(2)(ia) and that relates to, or is relevant to the interests of, small customers.
+(1) The South Australian Minister may make Rules for or with respect to any matter or thing that is referred to in section 237(2)(ia) and that relates to, or is relevant to the interests of, small customers.
 (2) As soon as practicable after making Rules under this section, the South Australian Minister must—
 (a) publish notice of the making of the Rules in the South Australian Government Gazette; and
 (b) make the Rules publicly available.
@@ -2640,7 +2700,7 @@ regulatory sandboxing amendments means the amendments made to this Law by the St
 (5) Section 237(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
 238AB—South Australian Minister may make initial Rules relating to stand‑alone power systems
-(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia (the South Australian Minister) may make Rules—
+(1) The South Australian Minister may make Rules—
 (a) for or with respect to the stand‑alone power system amendments; and
 (b) for or with respect to any other subject contemplated by, or necessary or expedient for, the stand‑alone power system amendments; and
 (c) that revoke or amend a Rule as a consequence of the enactment of the stand‑alone power system amendments.
@@ -2672,9 +2732,28 @@ stand‑alone power system amendments means the amendments made to the NEL and t
 (7) If the Minister referred to in subsection (1) makes Rules under that subsection, the Minister cannot make another Rule under that subsection.
 (8) In this section—
 amended objective means the national energy retail objective as in force on the commencement of this section.
+238AD—South Australian Minister to make initial Rules relating to other gases
+(1) The South Australian Minister may make Rules—
+(a) for or with respect to—
+(i) the other gas amendments; and
+(ii) any other subject contemplated by, or necessary or expedient for, the other gas amendments; and
+(b) that revoke or amend a Rule as a consequence of the enactment of the other gas amendments.
+(2) Rules made under this section may revoke or amend an existing Rule.
+(3) Rules may only be made under this section on the recommendation of the MCE.
+(4) Section 237(3) applies to Rules made under this section in the same way as it applies to a Rule made by the AEMC.
+(5) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish a notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(6) The notice referred to in subsection (5)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates—those dates.
+(7) The Minister may, by a later notice published in the South Australian Government Gazette, vary a commencement date fixed under subsection (6).
+(8) Once the first Rules have been made, no further Rules can be made under this section.
+(9) In this section—
+other gas amendments means the amendments made to this Law by the Statutes Amendment (National Energy Laws) (Other Gases) Act 2023.
 Subdivision 2—Rules made by Minister from time to time
 238B—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
-(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Energy Retail Law (South Australia) Act 2011 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2) for any purpose that is necessary or consequential as a result of the making of a NER by the Minister under section 90F of the NEL or a NGR by the Minister under section 294G of the NGL.
+(1) The South Australian Minister may make Rules recommended by the MCE in accordance with subsection (2) for any purpose that is necessary or consequential as a result of the making of a NER by the Minister under section 90F of the NEL or a NGR by the Minister under section 294G of the NGL.
 (2) The MCE may only recommend the making of Rules under subsection (1) if—
 (a) the Rules are for or with respect to any matter or thing referred to in Division 2; and
 (b) the Energy Security Board has recommended to the MCE that it recommend the making of the Rules under subsection (1).
@@ -3444,3 +3523,19 @@ MCE statement means a statement issued by the MCE that states the value, or a me
 (2) On the commencement of this clause—
 (a) the thing is taken to have been validly done under Part 10; and
 (b) the AEMC is taken to have satisfied a requirement under the Law to apply the national energy retail objective in relation to the thing.
+Part 5—Transitional provisions related to other gas amendments
+13—Definition
+In this Part—
+commencement day means the day on which this Part comes into operation.
+14—Retailer authorisations
+A retailer authorisation authorising the sale of natural gas and in effect immediately before the commencement day is taken to authorise the sale of natural gas and natural gas equivalents.
+15—Exempt sellers
+(1) A person who immediately before the commencement day was an exempt seller for natural gas is taken to be an exempt seller for natural gas and natural gas equivalents to the same extent and on the same conditions as applied immediately before the commencement day.
+(2) In this clause—
+exempt seller means a person who is exempt, under Part 5, Division 6 of this Law, from the requirement to hold a retailer authorisation.
+16—RoLR arrangements
+(1) A retailer who immediately before the commencement day was appointed and registered as the default RoLR for a gas distribution system continues to be the default RoLR for that distribution system whether the distribution system is used for natural gas or a natural gas equivalent.
+(2) A retailer who immediately before the commencement day was registered as an additional RoLR for a gas distribution system continues to be an additional RoLR for that distribution system whether the distribution system is used for natural gas or a natural gas equivalent.
+(3) A retailer who immediately before the commencement day was appointed as a designated RoLR for a gas distribution system continues to be the designated RoLR for that distribution system whether the distribution system is used for natural gas or a natural gas equivalent.
+(4) Nothing in this clause limits the power of the AER to terminate the appointment and registration of a retailer as a default RoLR in accordance with section 125(9) of this Law.
+(5) Nothing in this clause limits the power of the AER to terminate the registration of a retailer as a RoLR in accordance with section 128 of this Law.

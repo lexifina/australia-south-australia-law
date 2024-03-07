@@ -54,10 +54,23 @@ associate contract means—
 associate contract decision means a decision of the AER under the Rules that approves or does not approve an associate contract for the purposes of Chapter 4 Part 2 Division 4;
 associate pipeline service means a pipeline service provided by means of a pipeline other than a pipeline to which a greenfields incentive determination applies;
 Australian Energy Market Operator or AEMO means Australian Energy Market Operator Limited (ACN 072 010 327);
-BB Procedures means Procedures directed at regulating the Natural Gas Services Bulletin Board;
+BB Procedures means Procedures directed at regulating the Gas Bulletin Board;
+biogas means a gas derived or recovered from organic matter other than fossilised organic matter;
+biomethane means a substance—
+(a) that is in a gaseous state at standard temperature and pressure; and
+(b) the principal constituent of which is methane; and
+(c) that is produced by refining biogas; and
+(d) that is suitable for consumption;
+blend processing facility means a facility for 1, or more, of the following:
+(a) the blending of 1 or more primary gases, with or without other substances, for injection into a pipeline;
+(b) the separation of a gas blend withdrawn from a pipeline into constituent gases before re-injection into a pipeline as—
+(i) a primary gas; or
+(ii) a gas blend;
+blend processing service means a service provided by means of a blend processing facility;
+blend processing service provider means a person who owns, operates or controls a blend processing facility;
 Bulletin Board information means information that—
 (a) a person gives to AEMO or the AER to comply with Chapter 7 (or any Rules under that Chapter); or
-(b) a person gives to AEMO in its capacity as operator of the Natural Gas Services Bulletin Board in circumstances expressly permitted by the Rules;
+(b) a person gives to AEMO in its capacity as operator of the Gas Bulletin Board in circumstances expressly permitted by the Rules;
 capacity auction means an auction conducted by AEMO through which a person may buy transportation capacity;
 capacity auction agreement means an agreement that relates to participation in a capacity auction and to which AEMO and persons participating in the capacity auction are parties;
 capacity auction functions of AEMO are set out in section 91BRM(1);
@@ -82,14 +95,39 @@ commission, in relation to a pipeline, has the meaning given by section 12;
 Commonwealth Minister means the Minister of the Commonwealth administering the Australian Energy Market Act 2004 of the Commonwealth;
 compression service facility means—
 (a) a designated compression service facility; or
-(b) any other facility or part of a facility (whether or not forming part of another facility or located on or connected to another facility) for compressing natural gas other than—
-(i) a facility operated as part of a gathering system operated as part of an upstream producing operation; or
-(ii) anything downstream of a point on a pipeline from which a person takes natural gas for consumption purposes;
+(b) any other facility or part of a facility (whether or not forming part of another facility or located on or connected to another facility) for compressing covered gas other than—
+(i) a facility operated as part of a gathering system operated as part of an upstream producing operation for processable gas; or
+(ii) anything downstream of a point on a pipeline from which a person takes covered gas for consumption purposes;
 compression service provider means a person who owns, controls or operates a compression service facility;
 conduct provision has the meaning given by section 4;
 constituent components, in relation to a designated regulatory decision, means the matters that constitute the elements or components of the designated regulatory decision and on which that designated regulatory decision is based and includes—
 (a) matters that go to the making of the designated regulatory decision; and
 (b) decisions made by the AER for the purposes of the designated regulatory decision;
+covered gas means the following:
+(a) a primary gas;
+(b) a gas blend;
+covered gas industry includes—
+(a) activities and transactions relating to the following:
+(i) processable gas;
+(ii) biogas;
+(iii) covered gas, including liquefied natural gas, and covered gas services;
+(iv) covered gas industry facilities;
+(v) services provided by means of covered gas industry facilities; and
+(b) activities and transactions relating to petroleum tenements; and
+(c) any other activity or transaction, or type of activity or transaction, specified by the Regulations for the purpose of this definition;
+covered gas industry facility means the following:
+(a) a blend processing facility;
+(b) a compression service facility;
+(c) a gas processing plant;
+(d) an LNG facility;
+(e) a pipeline;
+(f) a storage facility;
+(g) a user facility;
+(h) another facility of a type specified by the Regulations for the purpose of this definition;
+covered gas service means the following:
+(a) a pipeline service;
+(b) the supply of covered gas;
+(c) a service ancillary to the service described in paragraph (b);
 declared distribution system of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
 declared LNG storage provider of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
 declared system functions—AEMO's declared system functions are as set out in section 91BA(1);
@@ -97,8 +135,8 @@ declared system provisions means—
 (a) Chapter 2 Part 6 Division 2; and
 (b) the Rules regulating the declared wholesale gas market of an adoptive jurisdiction or otherwise relevant to Chapter 2 Part 6 Division 2;
 declared transmission system of an adoptive jurisdiction has the meaning given by the application Act of that jurisdiction;
-declared wholesale gas market means the wholesale market for natural gas defined in the application Act of an adoptive jurisdiction;
-designated compression service facility means a facility or part of a facility for compressing natural gas prescribed by the Regulations as a designated compression service facility;
+declared wholesale gas market means the wholesale market for covered gas defined in the application Act of an adoptive jurisdiction;
+designated compression service facility means a facility or part of a facility for compressing covered gas prescribed by the Regulations as a designated compression service facility;
 designated pipeline means a pipeline classified by the Regulations, or designated in the application Act of a participating jurisdiction, as a designated pipeline and includes an extension to, or expansion of the capacity of, the pipeline that is taken to be part of the pipeline under section 18;
 Note—
 A designated pipeline is a scheme pipeline. See the definition of scheme pipeline.
@@ -117,7 +155,7 @@ See Chapter 3 Part 6 in relation to the classification and reclassification of p
 distributor means, except where elsewhere defined in this Law, a service provider who owns, operates or controls a scheme pipeline that is a distribution pipeline;
 draft Rule determination means a determination of the AEMC under section 308;
 east coast gas system means the following, located wholly or partly within an east coast jurisdiction:
-(a) a natural gas industry facility;
+(a) a covered gas industry facility;
 (b) a regulated gas market;
 (c) a gas trading exchange for which AEMO has established a gas trading exchange agreement;
 (d) a system, market or other thing specified by the Rules;
@@ -126,7 +164,7 @@ East Coast Gas System Procedures, for Part 6 Division 1A—see section 91AD(1)(h
 east coast gas system reliability and supply adequacy functions of AEMO are set out in section 91AD;
 east coast jurisdiction means a participating jurisdiction other than Western Australia;
 ECA amendments means the amendments to this Law made by the Statutes Amendment (Energy Consumers Australia) Act 2014 of South Australia;
-end user means a person who acquires natural gas for consumption purposes, and includes a retail customer;
+end user means a person who acquires covered gas for consumption purposes, and includes a retail customer;
 Energy Consumers Australia or ECA means the company incorporated, or to be incorporated, by the name Energy Consumers Australia Limited;
 energy ombudsman has the same meaning as in the National Energy Retail Law;
 Energy Security Board means the Energy Security Board referred to in section 2(1) of the NEL;
@@ -154,10 +192,12 @@ former gas market operator means any of the following:
 (c) in relation to South Australia (but not Western Australia)—Retail Energy Market Company Limited (ACN 103 318 556);
 (d) the gas retail market operator appointed under section 257A of the Gas Supply Act 2003 (Qld);
 form of regulation factors has the meaning given by section 16;
+gas blend means primary gases that have been blended together;
+Gas Bulletin Board means the website maintained by AEMO that contains information of the kind specified in the Rules for the covered gas industry;
 Gas Code means the National Third Party Access Code for Natural Gas Pipeline Systems set out in Schedule 2 to the Gas Pipelines Access (South Australia) Act 1997 of South Australia as in force from time to time before the commencement of section 20 of the National Gas (South Australia) Act 2008 of South Australia;
-gas powered generator means the owner, controller or operator of a generating system, within the meaning of the National Electricity Rules, that is powered by natural gas;
+gas powered generator means the owner, controller or operator of a generating system, within the meaning of the National Electricity Rules, that is powered by covered gas;
 gas statement of opportunities means the statement published under Chapter 2 Part 6 Division 4;
-gas trading exchange means a facility through which persons may elect to buy and sell natural gas or related goods or services, including pipeline capacity;
+gas trading exchange means a facility through which persons may elect to buy and sell covered gas or related goods or services, including a pipeline capacity right;
 gas trading exchange agreement means an agreement that relates to participation in, and the operation and administration of, a gas trading exchange established by AEMO to which AEMO (or a person appointed by AEMO to operate the gas trading exchange), and a person who becomes a member of the exchange, are parties;
 gas trading exchange functions—AEMO's gas trading exchange functions are as set out in section 91BRK;
 gas trading exchange member means a person who is (or who was at the relevant time) a member of a gas trading exchange under a gas trading exchange agreement;
@@ -173,7 +213,7 @@ GSOO information means information that—
 (b) a person gives to AEMO for the preparation of the gas statement of opportunities in circumstances expressly permitted by the Rules;
 GSOO Procedures means Procedures directed at regulating the collection of information for the gas statement of opportunities;
 GTE amendments means the amendments to this Law made by the National Gas (South Australia) (Gas Trading Exchanges) Amendment Act 2013;
-haulage, in relation to natural gas, includes conveyance or reticulation of natural gas;
+haulage, in relation to covered gas, includes conveyance or reticulation of covered gas;
 initial National Gas Procedures means National Gas Procedures made under section 294A and includes Wholesale Market Procedures and BB Procedures in force immediately before the commencement of the National Gas (South Australia) (National Gas Law—Australian Energy Market Operator) Amendment Act 2009;
 initial National Gas Rules means the Initial National Gas Rules made under Chapter 9 Part 2;
 initial Operational Transportation Service Code means the Operational Transportation Service Code made under section 294DA;
@@ -192,6 +232,7 @@ jurisdictional regulator means—
 listed corporation has the meaning given by section 9 of the Corporations Act 2001 of the Commonwealth;
 LNG facility means a facility for the processing of natural gas from a gaseous to a liquefied state or from a liquefied to a gaseous state;
 LNG service provider means a person who owns, controls or operates an LNG facility;
+local regulation means the regulations under the application Act of a participating jurisdiction;
 market information instrument means a general market information order or a market information notice;
 market information notice means a notice under section 91F(1)(b) requiring information from the person to whom the notice is addressed;
 market operator service means a service classified under the Rules as a market operator service;
@@ -234,27 +275,6 @@ natural gas means a substance that—
 (a) is in a gaseous state at standard temperature and pressure; and
 (b) consists of naturally occurring hydrocarbons, or a naturally occurring mixture of hydrocarbons and non-hydrocarbons, the principal constituent of which is methane; and
 (c) is suitable for consumption;
-natural gas industry includes—
-(a) activities and transactions relating to—
-(i) processable gas; or
-(ii) natural gas (including liquefied natural gas) and natural gas services; or
-(iii) natural gas industry facilities; or
-(iv) services provided by means of natural gas industry facilities; and
-(b) activities and transactions relating to petroleum tenements; and
-(c) any other activities or transactions specified by the Regulations for the purposes of this paragraph;
-natural gas industry facility means—
-(a) a pipeline; or
-(b) a compression service facility; or
-(c) a gas processing plant; or
-(d) an LNG facility; or
-(e) a storage facility; or
-(f) a user facility; or
-(g) another facility of a type specified by the Regulations for the purposes of this paragraph;
-natural gas service means—
-(a) a pipeline service; or
-(b) the supply of natural gas; or
-(c) a service ancillary to the service described in paragraph (b);
-Natural Gas Services Bulletin Board means the website maintained by AEMO that contains information of the kind specified in the Rules in relation to the natural gas industry;
 new facility means an extension to, or expansion of the capacity of, a pipeline which is to be treated as part of the pipeline—
 (a) in accordance with the extension and expansion requirements contained in an applicable access arrangement applying to the pipeline services provided by means of that pipeline; or
 (b) under this Law;
@@ -287,41 +307,52 @@ participating jurisdiction means a jurisdiction that is a participating jurisdic
 petroleum includes any naturally occurring hydrocarbon, mixture of hydrocarbons or mixture of hydrocarbons and non‑hydrocarbons, whether in gaseous, liquid or solid state;
 petroleum tenement means a right granted under law to explore for, extract, recover or process petroleum;
 pipeline means—
-(a) a pipe or system of pipes for the haulage of natural gas, and any tanks, reservoirs, machinery or equipment directly attached to that pipe or system of pipes; or
-(b) a proposed pipe or system of pipes for the haulage of natural gas, and any proposed tanks, reservoirs, machinery or equipment proposed to be directly attached to the proposed pipe or system of pipes; or
+(a) a pipe or system of pipes for the haulage of covered gas, and any tanks, reservoirs, machinery or equipment directly attached to that pipe or system of pipes; or
+(b) a proposed pipe or system of pipes for the haulage of covered gas, and any proposed tanks, reservoirs, machinery or equipment proposed to be directly attached to the proposed pipe or system of pipes; or
 (c) a part of a pipe or system of pipes or proposed pipe or system of pipes referred to in paragraph (a) or (b),
 but does not include—
-(d) unless paragraph (e) applies, anything upstream of a prescribed exit flange on a pipeline conveying natural gas from a prescribed gas processing plant; or
+(d) unless paragraph (e) applies, anything upstream of a prescribed exit flange on a pipeline conveying covered gas from a prescribed gas processing plant; or
 (e) if a connection point upstream of an exit flange on such a pipeline is prescribed, anything upstream of that point; or
-(f) a gathering system operated as part of an upstream producing operation; or
-(g) any tanks, reservoirs, machinery or equipment used to remove or add components to or change natural gas (other than odourisation facilities) such as a gas processing plant; or
-(h) anything downstream of a point on a pipeline from which a person takes natural gas for consumption purposes;
+(f) a gathering system operated as part of an upstream producing operation for processable gas; or
+(g) any tanks, reservoirs, machinery, plant, facility or equipment used to remove or add components to or change covered gas (other than odourisation facilities) such as a gas processing plant or blend processing facility; or
+(h) anything downstream of a point on a pipeline from which a person takes covered gas for consumption purposes;
+(i) in relation to a blend processing facility—anything from the point on a pipeline from which covered gas is taken for blend processing to the point where the gas blend is injected into the pipeline or another pipeline;
 Note—
 See also sections 18 and 19.
-pipeline capacity right means a right under a contract with a service provider to be provided with a pipeline service, by means of a pipeline, for a given quantity of natural gas over a given period of time;
+pipeline capacity right means a right under a contract with a service provider to be provided with a pipeline service, by means of a pipeline, for a given quantity of covered gas over a given period of time;
 pipeline classification criterion has the meaning given by section 13;
 pipeline interconnection principles has the meaning given by section 136;
-pipeline reliability standard means a standard imposed by or under an Act of a participating jurisdiction, or any instrument made or issued under or for the purposes of that Act, relating to the reliable haulage of natural gas in that jurisdiction;
+pipeline reliability standard means a standard imposed by or under an Act of a participating jurisdiction, or any instrument made or issued under or for the purposes of that Act, relating to the reliable haulage of covered gas in that jurisdiction;
 pipeline safety duty means a duty or requirement under an Act of a participating jurisdiction, or any instrument made or issued under or for the purposes of that Act, relating to—
-(a) the safe haulage of natural gas in that jurisdiction; or
+(a) the safe haulage of covered gas in that jurisdiction; or
 (b) the safe operation of a pipeline in that jurisdiction;
 pipeline service means—
 (a) a service provided by means of a pipeline, including—
 (i) a haulage service (such as firm haulage, interruptible haulage, spot haulage and backhaul); and
 (ii) a service providing for, or facilitating, the interconnection of pipelines; or
 (b) a service ancillary to the provision of a service referred to in paragraph (a),
-but does not include the production, sale or purchase of natural gas or processable gas;
-pipeline service standard means a standard relating to the standard of the pipeline services provided by a service provider by means of a covered pipeline imposed—
+but does not include—
+(c) the production of a primary gas, a processable gas or biogas; or
+(d) the sale or purchase of a covered gas, a processable gas or biogas; or
+(e) a blend processing service;
+pipeline service standard means a standard relating to the standard of the pipeline services provided by a service provider imposed—
 (a) by or under jurisdictional gas legislation; or
 (b) by the AER—
 (i) under an access arrangement decision; or
 (ii) in accordance with the Rules;
 price information order has the meaning given by section 46A;
+primary gas means the following:
+(a) natural gas;
+(b) hydrogen;
+(c) biomethane;
+(d) synthetic methane;
+(e) a substance prescribed by the Regulations for the purpose of this definition;
+(f) a substance prescribed as a primary gas in a participating jurisdiction by a local regulation of the participating jurisdiction;
 prescribed transparency information has the meaning given by section 136C;
 processable gas means a substance that—
 (a) is in a gaseous state at standard temperature and pressure; and
 (b) consists of naturally occurring hydrocarbons, or a naturally occurring mixture of hydrocarbons and non-hydrocarbons, the principal constituent of which is methane;
-producer means a person who carries on a business of producing natural gas;
+producer means a person who carries on a business of producing 1 or more primary gases;
 prospective user has the meaning given by section 5;
 protected information has the meaning given by section 91G;
 queuing requirements means terms and conditions providing for the priority that a prospective user has, as against any other prospective user, to obtain access to spare capacity and developable capacity;
@@ -351,7 +382,7 @@ relevant adjudicator means—
 relevant entity, for Part 6 Division 1A—see section 91AF(8);
 relevant Regulator has the same meaning as in section 2 of the old access law;
 REMCo means the Retail Energy Market Company Limited (ACN 103 318 556);
-retail customer means a person to whom natural gas is sold for premises by a retailer;
+retail customer means a person to whom covered gas is sold for premises by a retailer;
 retailer means a person who is the holder of a retailer authorisation issued under the National Energy Retail Law in respect of the sale of gas;
 retail gas market has the meaning given by section 91L(1);
 Retail Market Procedures means Procedures directed at regulating a retail gas market;
@@ -374,7 +405,7 @@ scheme pipeline revocation determination means a determination made under sectio
 scheme pipeline service provider means a service provider who provides or intends to provide pipeline services by means of a scheme pipeline;
 service provider has the meaning given by section 8;
 service provider performance report means a report prepared by the AER under section 64;
-short term trading market means a market for the supply of natural gas that—
+short term trading market means a market for the supply of covered gas that—
 (a) operates in an adoptive jurisdiction; and
 (b) is defined in a Rule made for the purposes of Chapter 2 Part 6 Division 2A to be a short term trading market of that adoptive jurisdiction;
 Note—
@@ -388,7 +419,7 @@ standard OTSA means an operational transportation service agreement within the m
 statutory functions, in relation to AEMO, means functions or powers conferred under—
 (a) this Law, the Rules or the Procedures; or
 (b) the National Electricity Law or the National Electricity Rules;
-storage facility means a facility for storing processable gas or natural gas (including liquefied natural gas) before or after processing;
+storage facility means a facility for storing processable gas, biogas or covered gas (including liquefied natural gas) before or after processing, blending or separating;
 storage provider means any person who owns, controls or operates a storage facility;
 STTM amendments means—
 (a) the amendments to this Law made by the National Gas (South Australia) (Short Term Trading Market) Amendment Act 2009 of South Australia; and
@@ -423,12 +454,17 @@ Examples—
 supply includes—
 (a) in relation to goods—supply (including re-supply) by way of sale, exchange, lease, hire or hire purchase; and
 (b) in relation to services—provide, grant or confer;
+synthetic methane means a substance—
+(a) that is in a gaseous state at standard temperature and pressure; and
+(b) the principal constituent of which is methane; and
+(c) that is produced by the methanation of carbon dioxide; and
+(d) that is suitable for consumption;
 tariff means a rate by which a charge for a pipeline service is calculated;
 Territory means the Australian Capital Territory or the Northern Territory;
 trader means a person who—
-(a) buys or sells natural gas; and
+(a) buys or sells covered gas; and
 (b) in doing so is not acting in some other registrable capacity; and
-(c) where the person is the purchaser of natural gas, is not buying the natural gas for the purchaser's own use;
+(c) where the person is the purchaser of covered gas, is not buying the covered gas for the purchaser's own use;
 transaction support arrangements means arrangements to facilitate transactions with respect to transportation capacity and related goods and services concluded or to be concluded through a gas trading exchange or a capacity auction;
 transfer, in relation to transportation capacity, includes a reduction in a person's right to the transportation capacity and a corresponding increase in another person's right to transportation capacity, whether or not on the same terms and conditions;
 transmission pipeline means a pipeline that—
@@ -437,7 +473,7 @@ transmission pipeline means a pipeline that—
 and includes a pipeline that is reclassified by the AER as a transmission pipeline;
 Note—
 See Chapter 3 Part 6 in relation to the classification and reclassification of pipelines. See also sections 18 and 19.
-transportation capacity means a right under a contract with a transportation service provider to be provided with a transportation service by means of a transportation facility, for a given quantity of natural gas over a given period of time;
+transportation capacity means a right under a contract with a transportation service provider to be provided with a transportation service by means of a transportation facility, for a given quantity of covered gas over a given period of time;
 transportation facility means—
 (a) a pipeline; or
 (b) a compression service facility; or
@@ -452,18 +488,23 @@ trial project means a project—
 (a) that—
 (i) the AER is satisfied is genuinely innovative taking into account the innovative trial principles (in relation to a trial waiver for a trial project); or
 (ii) the AEMC is satisfied is genuinely innovative taking into account the innovative trial principles (in relation to a trial Rule for the purposes of a trial project); and
-(b) tests an approach in relation to natural gas services;
+(b) tests an approach in relation to covered gas services;
 trial Rule—see section 290;
 trial waiver—see section 30W;
 Tribunal means the Australian Competition Tribunal referred to in the Competition and Consumer Act 2010 of the Commonwealth and includes a member of the Tribunal or a Division of the Tribunal performing functions of the Tribunal;
 user means a person who—
 (a) is a party to a contract with a service provider under which the service provider provides or intends to provide a pipeline service to that person by means of a pipeline; or
 (b) has a right under an access determination to be provided with a pipeline service by means of a pipeline;
-user facility means a facility by means of which natural gas is consumed (including by transformation of the gas into a new form) and which is not any other form of natural gas industry facility;
+user facility means a facility by means of which covered gas is consumed (including by transformation of the gas into a new form) and which is not any other form of covered gas industry facility;
 VENCorp means the Victorian Energy Networks Corporation continued under Part 8 of the Gas Industry Act 2001 of Victoria until the AEMO amendments come into force;
 Wholesale Market Procedures means Procedures directed at regulating the declared wholesale gas market of an adoptive jurisdiction.
 (2) A reference in this Law to an end user includes a reference to a prospective end user.
 (3) A reference in this Law to the east coast gas system includes a reference to part of the east coast gas system.
+(4) The Minister responsible for the administration of an application Act under which a regulation is made for paragraph (f) of the definition of primary gas must publish notice of the making of the regulation in the South Australian Government Gazette.
+2A—Additives and impurities
+The nature of a substance as a primary gas or a gas blend is not changed by the presence in the substance of the following:
+(a) an additive required for safety;
+(b) an impurity.
 3—Meaning of civil penalty provision
 A civil penalty provision is—
 (a) a provision of this Law specified in an item in the Table at the foot of this section; or
@@ -593,7 +634,7 @@ See also section 19A in relation to related bodies corporate.
 (3) In this section—
 nameplate rating, in relation to a pipeline, means the maximum daily capacity of the pipeline under normal operating conditions.
 8A—Nominated distributors
-(1) The regulations under the application Act of a participating jurisdiction (a local regulation) may—
+(1) A local regulation may—
 (a) nominate an entity, being an entity that is licensed or otherwise authorised under the jurisdictional gas legislation of that jurisdiction to operate a distribution pipeline that is not a scheme pipeline, as an entity to which this section applies (the nominated distributor); and
 (b) apply to the nominated distributor specified provisions of the Rules that relate to the following matters:
 (i) the connection of premises of retail customers;
@@ -613,15 +654,15 @@ or for both.
 (2) The person is, for the purposes of this Law, deemed to provide or intend to provide pipeline services by means of that pipeline even if the person does not, in fact, do so.
 10—Things done by 1 service provider to be treated as being done by all of service provider group
 (1) This section applies if—
-(a) more than 1 person (a group) carries out a controlling facility activity in respect of a natural gas industry facility (or part of a natural gas industry facility); and
+(a) more than 1 person (a group) carries out a controlling facility activity in respect of a covered gas industry facility (or part of a covered gas industry facility); and
 (b) under this Law or the Rules a person who carries out a controlling facility activity in respect of the facility (or part of the facility) mentioned in paragraph (a) is required or allowed to do a thing.
 (2) A member of the group (the complying member) may do that thing on behalf of the other members of the group if the complying member has the written permission of all of the members of that group to do that thing on behalf of the group.
 (3) Unless this Law or the Rules otherwise provide, on the doing of a thing referred to in subsection (2) by a complying member, the members of the group on whose behalf the complying member does that thing must, for the purposes of this Law and the Rules, each be taken to have done the thing done by the complying member.
-(4) This section does not apply to a thing required or allowed to be done under section 131, Chapter 4 Part 2 or section 228K or 228L.
+(4) This section does not apply to a thing required or allowed to be done under section 131, Chapter 4 Part 2 or section 201, 202, 204, 228K or 228L.
 (5) In this section—
 controlling facility activity means—
 (a) in relation to a pipeline—own, control or operate, or intend to own, control or operate, the pipeline (or part of the pipeline); or
-(b) in relation to any other natural gas industry facility—own, control or operate the natural gas industry facility (or part of the facility).
+(b) in relation to any other natural gas industry facility—own, control or operate the covered gas industry facility (or part of the facility).
 11—Local agents of foreign service providers
 (1) This section applies if—
 (a) a service provider is a foreign company; and
@@ -630,7 +671,7 @@ controlling facility activity means—
 (a) is answerable for the doing of all acts, matters and things the service provider is required by or under this Law to do; and
 (b) is personally liable to a penalty imposed on the service provider for a breach of a provision of this Law or the Rules if a court hearing the matter is satisfied that the local agent should be so liable.
 12—Commissioning of a pipeline
-A pipeline is commissioned when the pipeline is first used for the haulage of natural gas, on a commercial basis.
+A pipeline is commissioned when the pipeline is first used for the haulage of covered gas, on a commercial basis.
 13—Pipeline classification criterion
 (1) The pipeline classification criterion is whether the primary function of the pipeline is to—
 (a) reticulate gas within a market (which is the primary function of a distribution pipeline); or
@@ -645,11 +686,27 @@ A pipeline is commissioned when the pipeline is first used for the haulage of na
 (g) the extent of the area served or to be served by the pipeline;
 (h) the pipeline's linear or dendritic configuration;
 (i) the type of pipeline licence or authorisation that has been obtained in respect of the pipeline under jurisdictional gas legislation.
+14—Local regulations may exempt pipeline
+(1) A local regulation may declare a pipeline, or a proposed pipeline, to be a remote pipeline if the pipeline—
+(a) is, or will be, hauling covered gas other than natural gas or a natural gas equivalent, as defined in the National Energy Retail Law; and
+(b) is, or will be, wholly within the jurisdiction for which the regulation is made; and
+(c) is not, or will not be, interconnected in any way with the system of transmission pipelines and distribution pipelines used to convey gas within and between participating jurisdictions.
+(2) A remote pipeline, and the service provider for the pipeline (but only in respect of the remote pipeline) is exempt from the following:
+(a) section 91DB;
+(b) Chapter 3;
+(c) Chapter 4;
+(d) Chapter 5;
+(e) section 223;
+(f) Chapter 7A.
+(3) Before recommending the making of a local regulation declaring a pipeline or a proposed pipeline to be a remote pipeline, the responsible Minister of the participating jurisdiction must have regard to the national gas objective.
+(4) A pipeline or a proposed pipeline ceases, with immediate effect, to be a remote pipeline if—
+(a) 1 or more of the requirements in subsection (1) ceases to apply to the pipeline; or
+(b) the local regulation declaring the pipeline to be a remote pipeline is repealed.
 16—Form of regulation factors
 The form of regulation factors are—
 (a) the presence and extent of any barriers to entry in a market for pipeline services;
-(b) the presence and extent of any network externalities (that is, interdependencies) between a natural gas service provided by a service provider and any other natural gas service provided by the service provider;
-(c) the presence and extent of any network externalities (that is, interdependencies) between a natural gas service provided by a service provider and any other service provided by the service provider in any other market;
+(b) the presence and extent of any network externalities (that is, interdependencies) between a covered gas service provided by a service provider and any other covered gas service provided by the service provider;
+(c) the presence and extent of any network externalities (that is, interdependencies) between a covered gas service provided by a service provider and any other service provided by the service provider in any other market;
 (d) the extent to which any market power possessed by a service provider is, or is likely to be, mitigated by any countervailing market power possessed by a user or prospective user;
 (e) the presence and extent of any substitute, and the elasticity of demand, in a market for a pipeline service in which a service provider provides that service;
 (f) the presence and extent of any substitute for, and the elasticity of demand in a market for, electricity or gas (as the case may be).
@@ -689,8 +746,8 @@ The Ministers of the participating jurisdictions are—
 Part 3—National gas objective and principles
 Division 1—National gas objective
 23—National gas objective
-The objective of this Law is to promote efficient investment in, and efficient operation and use of, natural gas services for the long term interests of consumers of natural gas with respect to—
-(a) price, quality, safety, reliability and security of supply of natural gas; and
+The objective of this Law is to promote efficient investment in, and efficient operation and use of, covered gas services for the long term interests of consumers of covered gas with respect to—
+(a) price, quality, safety, reliability and security of supply of covered gas; and
 (b) the achievement of targets set by a participating jurisdiction—
 (i) for reducing Australia's greenhouse gas emissions; or
 (ii) that are likely to contribute to reducing Australia's greenhouse gas emissions.
@@ -719,14 +776,15 @@ Division 2—Revenue and pricing principles relating to scheme pipelines
 Division 2A—Innovative trial principles
 24A—Innovative trial principles
 The following principles (the innovative trial principles) must be taken into account in determining whether a trial project is genuinely innovative in connection with granting a trial waiver or making a trial Rule relating to a trial project:
-(a) whether the trial project is focused on developing new or materially improved natural gas services;
+(a) whether the trial project is focused on developing new or materially improved covered gas services;
 (b) whether the trial project is likely to contribute to the achievement of the national gas objective;
-(c) whether the trial project is able to demonstrate a reasonable prospect of giving rise to materially improved services and outcomes for consumers of natural gas;
+(c) whether the trial project is able to demonstrate a reasonable prospect of giving rise to materially improved services and outcomes for consumers of covered gas;
 (d) whether the trial project maintains adequate consumer protections, including whether the trial project may involve risks to consumers and (if so), how those risks might be mitigated;
 (e) whether the trial project is unable to proceed under the existing regulatory framework;
 (f) whether the trial project has moved beyond research and development stages but is not yet established, or of sufficient maturity, size or otherwise commercially ready, to attract investment;
-(g) whether the trial project may negatively impact AEMO's operation of systems relating to natural gas (including AEMO's performance of its declared system functions), and markets and auctions for natural gas and, if there are impacts, how those impacts can be mitigated;
-(h) whether the trial project may impact on competition in a competitive sector of a market for natural gas;
+(g) whether the trial project may negatively impact AEMO's operation of systems relating to covered gas (including AEMO's performance of its declared system functions), and markets and auctions for covered gas and, if there are impacts, how those impacts can be mitigated;
+(h) whether the trial project may impact on competition in a competitive sector of a market for covered gas;
+(ha) whether the licences, authorisations and consents required for the trial project under jurisdictional gas legislation have been obtained or will be obtained;
 (i) any other principle prescribed by the Regulations.
 Division 3—MCE policy principles
 25—MCE statements of policy principles
@@ -771,7 +829,7 @@ Division 1—General
 (ea) to make and amend the Operational Transportation Service Code in accordance with this Law and the Rules; and
 (eb) the AER trial waiver functions; and
 (f) to prepare and publish reports on the financial and operational performance of service providers in providing pipeline services by means of scheme pipelines; and
-(fa) in relation to goods or services in the natural gas industry—
+(fa) in relation to goods or services in the covered gas industry—
 (i) to prepare and publish, in accordance with the Rules, aggregated and anonymised information or data about prices for those goods or services; and
 (ii) other monitoring, analysing or reporting functions that relate to prices for those goods or services conferred on the AER by this Law or the Rules; and
 (iii) for the purposes of subparagraph (i) or (ii)—to collect and analyse information or data about prices from sources determined by the AER or specified in the Rules; and
@@ -806,9 +864,9 @@ are, in accordance with the Rules—
 (4) In this section—
 user or consumer association means an association or body (whether incorporated or unincorporated)—
 (a) the members of which include more than 1 user, prospective user or end user; and
-(b) that represents and promotes the interests of those members in relation to the provision of natural gas services;
+(b) that represents and promotes the interests of those members in relation to the provision of covered gas services;
 user or consumer interest group means an association or body (whether incorporated or unincorporated)—
-(a) that has, as an object or purpose, the object or purpose of representing and promoting the interests of users, prospective users or end users of natural gas services; but
+(a) that has, as an object or purpose, the object or purpose of representing and promoting the interests of users, prospective users or end users of covered gas services; but
 (b) the members of which need not include a user, prospective user or end user.
 29—Delegations
 Any delegation by the AER under section 44AAH of the Competition and Consumer Act 2010 of the Commonwealth extends to, and has effect for the purposes of, this Law, the Regulations and the Rules.
@@ -896,7 +954,7 @@ Finance, economics, law, consumer affairs, institutional investment.
 (a) is to consist of the members appointed by the AER; and
 (b) may carry out its activities, including giving advice or recommendations to the AER about the instrument, in the way it considers appropriate.
 (2) Without limiting subsection (1)(b), the consumer reference group may—
-(a) consult with consumers of natural gas; and
+(a) consult with consumers of covered gas; and
 (b) facilitate consumer engagement in the process for making the instrument; and
 (c) make written submissions to the AER about the content of the instrument and the process for making it.
 (3) The AER must publish on its website any written advice, recommendations or submissions given to it by the consumer reference group.
@@ -978,7 +1036,7 @@ information includes advice, recommendations, submissions and reports.
 Division 1B—AER trial waiver functions
 30U—Definitions
 In this Division—
-proponent—section 30W(1).
+proponent—see section 30W(1).
 30V—Interpretative matters
 (1) The functions of the AER under this Division are the AER trial waiver functions.
 (2) This Division does not limit any other provision of this Law or the Rules that provides for an exemption from, or for the waiver of, compliance with this Law or the Rules.
@@ -991,6 +1049,7 @@ proponent—section 30W(1).
 (e) the Rules, or a provision of the Rules.
 (2) Before making a determination to grant a trial waiver, the AER must have regard to the innovative trial principles and any matter required by the Rules.
 (3) An application for a trial waiver must be made in accordance with the Rules.
+(4) Nothing in this section operates to prevent the granting of an exemption in accordance with a rule made under section 148A.
 30X—Conditions of trial waiver
 (1) A trial waiver must be in writing and—
 (a) must be subject to any conditions required by the Rules; and
@@ -1296,7 +1355,7 @@ Subdivision 3—Form and content of regulatory information instruments
 (a) historic, current and forecast information (including financial information);
 (b) information that is or may be derived from other information in the possession or control of the person to whom the instrument applies;
 (c) information to enable the AER to verify whether the service provider to whom the instrument applies is or has been complying with Chapter 4;
-(d) information to enable the AER to verify compliance with any requirements for the allocation of costs between natural gas services under—
+(d) information to enable the AER to verify compliance with any requirements for the allocation of costs between covered gas services under—
 (i) the Rules; or
 (ii) an applicable access arrangement.
 (2) Subsection (1)(c) and (d) do not apply in relation to a price information order.
@@ -1525,13 +1584,13 @@ Division 2—Rule making functions and powers of the AEMC
 (a) regulating—
 (i) access to pipeline services; and
 (ii) the provision of pipeline services; and
-(iii) the collection, use, disclosure, copying, recording, management and publication of information in relation to the natural gas industry; and
+(iii) the collection, use, disclosure, copying, recording, management and publication of information in relation to the covered gas industry; and
 (iv) the operation of a regulated retail gas market; and
 (v) AEMO's declared system functions and the operation of a declared wholesale gas market; and
 (va) AEMO's STTM functions and the operation of a short term trading market of an adoptive jurisdiction; and
 (vi) the activities of Registered participants, users, end users and other persons in a regulated gas market; and
 (vii) the safety, security and reliability of pipelines; and
-(viia) the reliability or adequacy of the supply of natural gas within the east coast gas system; and
+(viia) the reliability or adequacy of the supply of covered gas within the east coast gas system; and
 (viii) the connection of premises of retail customers; and
 (aaa) AEMO's gas trading exchange functions and the operation of a gas trading exchange; and
 (aab) the capacity auction functions of AEMO, the operation of a capacity auction and the activities of transportation service providers and transportation facility users in connection with a capacity auction; and
@@ -1539,7 +1598,7 @@ Division 2—Rule making functions and powers of the AEMC
 (aad) access to and the provision of operational transportation services; and
 (aa) facilitating and supporting the provision of services to retail customers; and
 (ab) any matter or thing related to, or necessary or expedient for, the purposes of a trial Rule, trial project or trial waiver; and
-(ab) the AER gas price reporting functions; and
+(aba) the AER gas price reporting functions; and
 (ac) AEMO′s east coast gas system reliability and supply adequacy functions; and
 (b) any matter or thing contemplated by this Law, or necessary or expedient for the purposes of this Law.
 Note—
@@ -1651,35 +1710,22 @@ Division 5—Other reviews
 (a) give a copy of the report to the MCE; and
 (b) publish a report or a version of a report from which confidential information has been omitted in accordance with section 331.
 Division 6—Miscellaneous matters
-83A—Information and transparency requirements relating to compression service facilities and storage facilities
-(1) Without limiting any other provision, the Rules may provide for such things as—
-(a) the collection, disclosure, verification, management and publication of information in relation to services that may be provided by means of a compression service facility or a storage facility; and
-(b) without limiting paragraph (a), requirements about the information that must be provided by a compression service provider or a storage provider (each a relevant provider) in relation to access (or potential access) to services provided by means of any compression service facility or storage facility, including information about—
-(i) the terms and conditions on which the relevant provider is prepared to make the facility available for use by others; and
-(ii) the procedures that the relevant provider will apply in determining a proposal for access to the facility; and
-(iii) relevant prices, costs and methodologies associated with gaining access to (and using) a facility and relevant or related services; and
-(iv) access contracts and arrangements used (or required to be used) by the relevant provider; and
-(c) without limiting paragraphs (a) and (b), information to be provided by a relevant provider in response to a request for access to services provided by means of a compression service facility or a storage facility; and
-(d) requirements to ensure that information is accurate and complete; and
-(e) the imposition or recovery of costs associated with any matter referred to in a preceding paragraph or otherwise associated with facilitating access (or potential access) to services provided by means of a compression service facility or a storage facility.
-(2) Nothing in subsection (1) limits any power to grant an exemption from complying with a provision, or part of a provision, of the Rules.
-83AA—Publication of information relating to compression service facilities and storage facilities
-A person required by the Rules made under section 83A to publish information must do so in accordance with the Rules.
 83B—Standard market timetable
 (1) Without limiting any other provision, the Rules may provide for a standard market timetable.
 (2) The standard market timetable may do the following:
 (a) specify the start time of a standard gas day;
-(b) provide for the times for nominations and renominations for the use of transportation services and deliveries or receipts of natural gas;
+(b) provide for the times for nominations and renominations for the use of transportation services and deliveries or receipts of covered gas;
 (c) provide for the circumstances in which the standard market timetable must be used, which may include provision in relation to any of the following:
 (i) transportation services;
-(ii) the supply, production or storage of natural gas;
-(iii) the measurement and allocation of deliveries or receipts of natural gas;
+(ii) the supply, production, blending or storage of covered gas;
+(iii) the measurement and allocation of deliveries or receipts of covered gas;
 (iv) a regulated gas market, a gas trading exchange and a capacity auction.
 (3) Without limiting any other provision, the Rules may require a person of the following kind to use the standard market timetable in accordance with the Rules:
 (a) a transportation service provider;
 (b) a transportation facility user;
-(c) a person who measures, or determines the allocation of, deliveries or receipts of natural gas;
+(c) a person who measures, or determines the allocation of, deliveries or receipts of covered gas;
 (d) a producer;
+(da) a blend processing service provider;
 (e) a storage provider;
 (f) any other person of a kind prescribed by the Regulations for the purposes of this subsection.
 83C—Use of the standard market timetable
@@ -1688,8 +1734,9 @@ A person required by the Rules to use the standard market timetable must do so i
 A person of the following kind must not, in connection with the supply or possible supply of goods and services, make a false or misleading representation concerning the effect of a requirement for the person to use the standard market timetable on the price for the supply of the goods or services:
 (a) a transportation service provider;
 (b) a transportation facility user;
-(c) a person who measures, or determines the allocation of, deliveries or receipts of natural gas;
+(c) a person who measures, or determines the allocation of, deliveries or receipts of covered gas;
 (d) a producer;
+(da) a blend processing service provider;
 (e) a storage provider;
 (f) any other person of a kind prescribed by the Regulations for the purposes of section 83B(3)(f).
 Maximum penalty:
@@ -1726,9 +1773,9 @@ Part 6—Role of AEMO under National Gas Law
 Division 1—General
 91A—AEMO's statutory functions
 (1) AEMO has the following functions:
-(a) to operate and administer markets for natural gas in accordance with this Law, the Rules and the Procedures;
+(a) to operate and administer gas markets in accordance with this Law, the Rules and the Procedures;
 (b) to promote the development, and improve the effectiveness of the operation and administration of, gas markets;
-(ba) conduct trials relating to the operation and administration of markets, or parts of markets, capacity auctions and transaction support arrangements for natural gas that are or will be governed by this Law, the Rules and the Procedures;
+(ba) conduct trials relating to the operation and administration of markets, or parts of markets, capacity auctions and transaction support arrangements that are or will be governed by this Law, the Rules and the Procedures;
 (c) to register persons as Registered participants;
 (d) to exempt certain persons from being registered as Registered participants;
 (e) to facilitate retail customer transfer, metering and retail competition (including balancing, allocation and reconciliation of gas deliveries and withdrawals to and from subnetworks);
@@ -1738,7 +1785,7 @@ Division 1—General
 (ga) the gas trading exchange functions;
 (gb) the capacity auction functions;
 (gc) to establish, operate and administer transaction support arrangements;
-(h) to operate and maintain the Natural Gas Services Bulletin Board;
+(h) to operate and maintain the Gas Bulletin Board;
 (i) to prepare, periodically review, revise, and publish the gas statement of opportunities;
 (j) to investigate breaches or possible breaches of the Procedures;
 (k) any functions conferred by jurisdictional gas legislation or an application Act;
@@ -1761,12 +1808,12 @@ AEMO has the power to do all things necessary or convenient for or in connection
 Division 1A—AEMO's east coast gas system reliability and supply adequacy functions
 91AD—AEMO's east coast gas system reliability and supply adequacy functions
 (1) AEMO's east coast gas system reliability and supply adequacy functions are as follows:
-(a) to monitor trends in the supply of, and demand for, natural gas in the east coast gas system and factors affecting, or that may potentially affect, the reliability or adequacy of the supply of gas within that system;
-(b) to identify and communicate actual or potential risks or threats to the reliability or adequacy of the supply of natural gas within the east coast gas system;
-(c) to report to and advise the MCE, including a member of the MCE, on matters relating to the reliability or adequacy of the supply of natural gas within the east coast gas system;
-(d) to publish information relating to the reliability or adequacy of the supply of natural gas within the east coast gas system;
-(e) to give directions to relevant entities to the extent AEMO considers necessary to maintain and improve the reliability or adequacy of the supply of natural gas within the east coast gas system;
-(f) to trade in natural gas or to purchase pipeline services or services provided by a compression service provider or a storage provider to the extent AEMO considers necessary to maintain and improve the reliability or adequacy of the supply of natural gas within the east coast gas system;
+(a) to monitor trends in the supply of, and demand for, covered gas in the east coast gas system and factors affecting, or that may potentially affect, the reliability or adequacy of the supply of gas within that system;
+(b) to identify and communicate actual or potential risks or threats to the reliability or adequacy of the supply of covered gas within the east coast gas system;
+(c) to report to and advise the MCE, including a member of the MCE, on matters relating to the reliability or adequacy of the supply of covered gas within the east coast gas system;
+(d) to publish information relating to the reliability or adequacy of the supply of covered gas within the east coast gas system;
+(e) to give directions to relevant entities to the extent AEMO considers necessary to maintain and improve the reliability or adequacy of the supply of covered gas within the east coast gas system;
+(f) to trade in covered gas or to purchase pipeline services or services provided by a compression service provider, blend processing service provider or a storage provider to the extent AEMO considers necessary to maintain and improve the reliability or adequacy of the supply of covered gas within the east coast gas system;
 (g) other functions conferred on AEMO by the Rules for the purposes of this section;
 (h) to make, amend or revoke Procedures (East Coast Gas System Procedures) relating to a function specified in paragraphs (a) to (g).
 (2) AEMO must not exercise the function specified in subsection (1)(f) unless AEMO is of the opinion that the trade or purchase is necessary to prevent, reduce or mitigate an actual or potential threat identified by AEMO in the exercise of the function specified in subsection (1)(b).
@@ -1778,7 +1825,7 @@ Division 1A—AEMO's east coast gas system reliability and supply adequacy funct
 (b) the extent to which a relevant entity is or is not required to comply with an east coast gas system direction in circumstances where the direction is inconsistent with a law of a participating jurisdiction;
 (c) the extent to which an east coast gas system direction is not valid in circumstances where the direction is inconsistent with a law of a participating jurisdiction.
 (5) The Rules may specify the following:
-(a) the matters that AEMO may or must consider in determining there is or is not an actual or potential threat to the reliability or adequacy of the supply of natural gas within the east coast gas system;
+(a) the matters that AEMO may or must consider in determining there is or is not an actual or potential threat to the reliability or adequacy of the supply of covered gas within the east coast gas system;
 (b) the kinds of directions that AEMO may or may not give under this section;
 (c) the matters that AEMO may or must consider in determining whether to exercise a function specified in subsection (1)(e) or (f).
 91AE—AEMO to account to relevant Minister for performance of east coast gas system reliability and supply adequacy functions
@@ -1788,13 +1835,13 @@ Division 1A—AEMO's east coast gas system reliability and supply adequacy funct
 (4) No fee is to be charged for the provision of information under this section.
 91AF—AEMO's power of direction—east coast gas system reliability and supply adequacy
 (1) AEMO may give a written direction (an east coast gas system direction) to a relevant entity for 1 or more of the following purposes:
-(a) to maintain and improve the reliability of the supply of natural gas within the east coast gas system;
-(b) to maintain and improve the adequacy of the supply of natural gas within the east coast gas system.
+(a) to maintain and improve the reliability of the supply of covered gas within the east coast gas system;
+(b) to maintain and improve the adequacy of the supply of covered gas within the east coast gas system.
 (2) A direction must not be given under subsection (1) unless AEMO is of the opinion that the giving of the direction is necessary to prevent, reduce or mitigate an actual or potential threat identified by AEMO in the exercise of the function specified in section 91AD(1)(b).
 (3) Without limiting subsection (1), an east coast gas system direction may relate to 1 or more of the following:
 (a) the operation, maintenance or use of any equipment or installation;
-(b) the control of the flow of natural gas;
-(c) any other matter that may affect the reliability or adequacy of the supply of natural gas within the east coast gas system.
+(b) the control of the flow of covered gas;
+(c) any other matter that may affect the reliability or adequacy of the supply of covered gas within the east coast gas system.
 (4) An east coast gas system direction may apply, adopt or incorporate (with or without modification) a relevant code of practice or standard (made in or outside Australia) as in force or existing when the direction is made or as in force or existing from time to time.
 (5) A prohibition imposed by an east coast gas system direction may be either unconditional or subject to conditions stated in the direction.
 (6) A person to whom an east coast gas system direction applies must comply with the direction to the extent to which compliance is consistent with a law of a participating jurisdiction applying to the person.
@@ -1803,8 +1850,8 @@ Division 1A—AEMO's east coast gas system reliability and supply adequacy funct
 relevant entity means the following, excluding a small customer:
 (a) a Registered participant;
 (b) an exempted participant;
-(c) a producer who injects natural gas into the east coast gas system;
-(d) a person who buys or sells natural gas in the east coast gas system;
+(c) a producer who injects covered gas into the east coast gas system;
+(d) a person who buys or sells covered gas in the east coast gas system;
 (e) a gas powered generator;
 (f) a storage provider whose storage facility is connected to the east coast gas system;
 (g) a person who provides pipeline, transport, compression or other related services in, into or out of the east coast gas system;
@@ -1862,11 +1909,11 @@ Subdivision 1—Preliminary
 (a) to determine security standards for the declared transmission system;
 (b) to control the operation and security of the declared transmission system;
 (c) to monitor and review the capacity of the declared transmission system and the trends in demand for the injection of gas into, and the withdrawal of gas from, that system;
-(d) to provide information and other services to facilitate decisions for economically efficient investment in markets for natural gas;
-(e) to coordinate the interaction of producers, storage providers and service providers for ensuring a safe, secure, reliable and efficient declared transmission system;
+(d) to provide information and other services to facilitate decisions for economically efficient investment in the covered gas industry in the adoptive jurisdiction;
+(e) to coordinate the interaction of producers, blend processing service providers, storage providers and service providers for ensuring a safe, secure, reliable and efficient declared transmission system;
 (f) to operate and administer the declared wholesale gas market;
 (g) to make, amend or revoke Procedures governing the operation and administration of the declared wholesale gas market.
-(2) AEMO may trade in natural gas or purchase pipeline services or services provided by a compression service provider or a storage provider—
+(2) AEMO may trade in covered gas or purchase pipeline services or services provided by a compression service provider, blend processing service provider or a storage provider—
 (a) to the extent necessary or desirable for the safety, security or reliability of a declared transmission system; or
 (b) in an emergency.
 (3) AEMO may, subject to the Rules, suspend a declared wholesale gas market.
@@ -1877,13 +1924,13 @@ Subdivision 1—Preliminary
 Subdivision 2—Power of direction
 91BC—AEMO's power of direction
 (1) AEMO may give written directions to a Registered participant (or an exempted participant) with respect to the declared transmission system or a declared distribution system for 1 or more of the following purposes:
-(a) to maintain and improve the reliability of the supply of natural gas;
+(a) to maintain and improve the reliability of the supply of covered gas;
 (b) to maintain and improve the security of the declared transmission system or a declared distribution system;
 (c) in the interests of public safety.
 (2) A direction under this section—
 (a) may relate to—
 (i) the operation or use of any equipment or installation; or
-(ii) the control of the flow of natural gas; or
+(ii) the control of the flow of covered gas; or
 (iii) any other matter that may affect the safety, security or reliability of the declared transmission system or a declared distribution system; but
 (b) must be consistent with other legislation (including subordinate legislation) relevant to safety in the adoptive jurisdiction but may be contrary to a provision of the Rules or the Procedures.
 (3) A direction under this section may apply, adopt or incorporate (with or without modification) a relevant code of practice or standard (made in or outside Australia) as in force or existing when the direction is made or as in force or existing from time to time.
@@ -1920,7 +1967,8 @@ Subdivision 3—AEMO's relationship with transmission system service providers a
 (b) is authorised to do so by an access determination.
 (2) A facility includes—
 (a) a pipeline;
-(b) a facility for storing natural gas, processable gas or LNG;
+(aa) a blend processing facility;
+(b) a storage facility;
 (c) a gas fired electricity generator;
 (d) any other plant or equipment that could have a material impact on the operation of the declared transmission system.
 91BG—Operating agreement between AEMO and facility owner
@@ -1957,9 +2005,9 @@ Subdivision 4—Declared wholesale gas market
 91BI—Market participation
 A person participates in a declared wholesale gas market in a registrable capacity if the person is—
 (a) a service provider for the declared transmission system or for a declared distribution system; or
-(b) a producer that injects natural gas into the declared transmission system; or
-(c) a storage provider whose storage facility is connected to the declared transmission system; or
-(d) a person who buys or sells natural gas in the declared wholesale gas market; or
+(b) a producer or blend processing service provider who injects covered gas into a declared transmission system or a declared distribution system; or
+(c) a storage provider whose storage facility is connected to the declared transmission system or a declared distribution system; or
+(d) a person who buys or sells covered gas in the declared wholesale gas market; or
 (e) a person classified by the Rules as a participant in the declared wholesale gas market.
 91BJ—Registration required for market participation
 (1) A person must not participate in a declared wholesale gas market in a registrable capacity unless registered (or exempted from registration) in accordance with the Rules.
@@ -2017,14 +2065,15 @@ Subdivision 6—Ownership of gas in declared transmission system
 (3) Subject to the ownership rules, gas injected into the declared transmission system remains the property of the person that injected it or, if that person was acting as an agent, that person's principal.
 (4) A dispute about the ownership of gas in the declared transmission system is to be determined in accordance with the Rules.
 91BP—Title to gas
-A Registered participant or an exempted participant must not inject gas into, or tender gas for injection into, the declared transmission system unless—
+A Registered participant or an exempted participant must not inject gas into, or tender gas for injection into, the declared transmission system or a declared distribution system unless—
 (a) the participant has title to the gas, or authority to dispose of title to the gas; and
-(b) the gas will, at the point of injection into the declared transmission system, be free from any mortgage, charge or encumbrance.
+(b) the gas will, at the point of injection, be free from any mortgage, charge or encumbrance.
 Subdivision 7—Immunity
 91BQ—Immunity
 (1) A protected person incurs no civil monetary liability—
 (a) for failing to accept gas for injection into, or to make gas available for withdrawal from, the declared transmission system; or
-(b) for failing to make the declared transmission system available to accept the injection of gas into it, or the withdrawal of gas from it,
+(b) for failing to make the declared transmission system available to accept the injection of gas into it, or the withdrawal of gas from it; or
+(c) in the case of AEMO—for failing to accept gas for injection into, or to make gas available for withdrawal from, a declared distribution system,
 if the failure arises out of an accident or cause beyond the protected person's control.
 (2) A protected person may, by written agreement with another person, limit or exclude the operation of subsection (1) in relation to the parties to the agreement.
 (3) In this section—
@@ -2042,13 +2091,13 @@ Subdivision 1—Preliminary
 (1) AEMO's STTM functions are as follows:
 (a) to operate and administer a short term trading market;
 (b) to make, amend or revoke Procedures governing the operation and administration of a short term trading market.
-(2) AEMO may trade in natural gas to the extent necessary or desirable to provide market operator services.
+(2) AEMO may trade in covered gas to the extent necessary or desirable to provide market operator services.
 (3) AEMO may, subject to the Rules, suspend a short term trading market.
 Subdivision 2—Short term trading markets
 91BRC—Market participation
 A person participates in a short term trading market in a registrable capacity if the person is—
-(a) a person who supplies natural gas to an STTM hub; or
-(b) a person who withdraws natural gas from an STTM hub; or
+(a) a person who supplies covered gas to an STTM hub; or
+(b) a person who withdraws covered gas from an STTM hub; or
 (c) a person classified by the Rules as a participant in a short term trading market.
 91BRD—Registration required for market participation
 (1) A person must not participate in a short term trading market in a registrable capacity unless registered (or exempted from registration) in accordance with the Rules.
@@ -2058,11 +2107,11 @@ A person participates in a short term trading market in a registrable capacity i
 (1) A certificate signed by an authorised officer certifying that a person named in the certificate is registered, or exempted from registration, is evidence of the registration or exemption.
 (2) For this section, an authorised officer is AEMO's CEO or a person authorised by the CEO to issue certificates under this section.
 91BRF—Title to gas
-An STTM trading participant must not supply natural gas to an STTM hub unless—
+An STTM trading participant must not supply gas to an STTM hub unless—
 (a) the participant has title to the gas, or authority to dispose of title to the gas; and
 (b) the gas will, at the point of supply, be free from any mortgage, charge or encumbrance.
 91BRG—Gas supplied to STTM hub must meet quality specifications specified in the Rules
-An STTM trading participant must not supply natural gas to an STTM hub that does not comply with the gas quality specifications specified in the Rules for that STTM hub.
+An STTM trading participant must not supply gas to an STTM hub that does not comply with the gas quality specifications specified in the Rules for that STTM hub and gas.
 Subdivision 3—STTM Procedures
 91BRH—STTM Procedures
 AEMO may, in accordance with the Rules, make STTM Procedures.
@@ -2109,7 +2158,7 @@ Division 2B—Gas trading exchanges
 (a) to establish, operate and administer 1 or more gas trading exchanges;
 (b) to appoint, in accordance with the Rules, another person to operate a gas trading exchange;
 (c) in relation to a gas trading exchange, to make and administer a gas trading exchange agreement for the purposes of the exchange.
-(2) AEMO may trade in natural gas to the extent necessary or desirable for the efficient operation of a gas trading exchange after taking into account any provision made by or under the gas trading exchange agreement that applies in relation to the exchange.
+(2) AEMO may trade in covered gas to the extent necessary or desirable for the efficient operation of a gas trading exchange after taking into account any provision made by or under the gas trading exchange agreement that applies in relation to the exchange.
 (3) AEMO may, subject to the Rules and the relevant gas trading exchange agreement, suspend trading on a gas trading exchange.
 91BRL—Gas trading exchange not to constitute a regulated gas market
 A gas trading exchange is not a regulated gas market.
@@ -2201,21 +2250,23 @@ The Minister of an adoptive jurisdiction may be entitled to certain protected in
 (b) state by whom each request was made.
 Division 4—Gas statement of opportunities
 91D—Object and content of gas statement of opportunities
-(1) The purpose of the gas statement of opportunities is to provide information to assist Registered participants and other persons in making informed decisions about investment in the natural gas industry.
-(2) The gas statement of opportunities—
-(a) must contain an assessment of medium to long term demand (including export demand) for natural gas and for pipeline services; and
-(b) must contain an assessment of supply and pipeline capacity to meet existing and foreseeable demand for natural gas and pipeline services; and
-(c) must include forecasts of the outlook for the natural gas industry over a 20 year planning horizon; and
-(d) must point out likely long term shortfalls in natural gas reserves, and production or transmission constraints; and
-(e) must contain any other information required by the Rules.
+(1) The purpose of the gas statement of opportunities is to provide information to assist Registered participants and other persons in making informed decisions about investment in the covered gas industry.
+(2) The gas statement of opportunities must include the following:
+(a) for each covered gas specified in the Rules, an assessment of—
+(i) medium to long term demand (including export demand) for the gas and for pipeline services; and
+(ii) supply and pipeline capacity to meet existing and foreseeable demand for the gas and pipeline services; and
+(iii) likely long term production or transmission constraints;
+(b) forecasts of the outlook for the covered gas industry over a 20 year planning horizon;
+(c) an assessment of likely long term shortfalls in natural gas reserves;
+(d) any other information required by the Rules.
 91DA—AEMO's obligation in regard to gas statement of opportunities
 (1) AEMO must prepare, periodically review, revise, and publish the gas statement of opportunities in accordance with the Rules.
 (2) AEMO also has the following functions in relation to the gas statement of opportunities:
 (a) to collect and collate GSOO information;
-(b) to collect and collate other information in relation to the natural gas industry;
+(b) to collect and collate other information in relation to the covered gas industry;
 (c) to derive from information of the type mentioned in paragraph (a) or (b) information for inclusion in the gas statement of opportunities.
 91DB—Information for the gas statement of opportunities
-(1) A person who has possession or control of information in relation to the natural gas industry must give the information to AEMO for use by AEMO in the preparation, review, revision or publication of the gas statement of opportunities if the person is required to do so under the Rules.
+(1) A person who has possession or control of information in relation to the covered gas industry must give the information to AEMO for use by AEMO in the preparation, review, revision or publication of the gas statement of opportunities if the person is required to do so under the Rules.
 (2) The information must be given to AEMO in accordance with the Rules.
 (3) Subsection (1) does not apply if the person is exempt under the Rules from giving the information.
 (4) Subsection (1) does not require—
@@ -2351,6 +2402,7 @@ Subdivision 2—STTM information
 (b) a service provider;
 (c) a storage provider;
 (d) a producer;
+(da) a blend processing service provider;
 (e) another person who is prescribed by the Regulations for the purposes of this paragraph.
 (2) The information must be given to AEMO in accordance with the Procedures or Rules.
 (3) Subsection (1) does not apply if the person is exempt under the Rules from giving the information.
@@ -2411,6 +2463,29 @@ Maximum penalty:
 (b) in the case of a body corporate—$17 000.
 Note—
 See Schedule 2 clause 47B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
+Subdivision 5—Declared wholesale gas market information
+91FEJ—Information required to be given to AEMO
+(1) A person who has possession or control of information must give the information to AEMO if—
+(a) the information relates to the operation and administration of the covered gas industry; and
+(b) the information is necessary for AEMO to perform a declared system function under section 91BA(1)(c) or (d); and
+(c) the person is required by the Rules to give the information to AEMO.
+(2) The information must be given to AEMO in accordance with the Wholesale Market Procedures or the Rules.
+(3) Subsection (1) does not apply if the person is exempt under the Rules from giving the information.
+(4) Subsection (1) does not require—
+(a) a person to disclose information that is the subject of legal professional privilege; or
+(b) a natural person to disclose information that would incriminate the person or make the person liable to a criminal penalty under the law of an Australian jurisdiction, whether or not the jurisdiction is a participating jurisdiction.
+91FEK—Person cannot rely on duty of confidence to avoid compliance with obligation
+A person must not refuse to comply with the requirement in section 91FEJ on the ground of any duty of confidence.
+91FEL—Giving AEMO false or misleading information
+A person must not give information to AEMO under this Subdivision that the person knows is false or misleading in a material particular.
+91FEM—Immunity of persons giving information to AEMO
+(1) A person who gives information to AEMO under this Subdivision does not incur any civil monetary liability for an act or omission in giving that information unless the act or omission is done or made in bad faith or through negligence.
+(2) The civil monetary liability for an act or omission of a kind referred to in subsection (1) done or made through negligence may not exceed the maximum amount prescribed by the Regulations.
+(3) The Regulations may, for the purposes of subsection (2), without limitation do all or any of the following:
+(a) prescribe a maximum amount that is limited in its application to persons, events, circumstances, losses or periods specified in the Regulations;
+(b) prescribe maximum amounts that vary in their application according to the persons to whom, or the events, circumstances, losses or periods to which, they are expressed to apply;
+(c) prescribe the manner in which a maximum amount is to be divided amongst claimants.
+(4) A person mentioned in subsection (1) may enter into an agreement with another person varying or excluding the operation of a provision of this section and, to the extent of that agreement, that provision does not apply.
 Division 7—Protected information
 Subdivision 1—AEMO's obligation to protect information
 91G—Protected information
@@ -2461,7 +2536,7 @@ AEMO is authorised to disclose information given to it in confidence, in complia
 91GG—Disclosure of protected information for safety, proper operation of the market etc
 (1) AEMO is authorised to disclose protected information if—
 (a) the disclosure is necessary for—
-(i) the safety, reliability, adequacy or security of the supply of natural gas; or
+(i) the safety, reliability, adequacy or security of the supply of covered gas; or
 (ii) the safety, reliability, adequacy or security of a pipeline; or
 (b) the disclosure is necessary for the proper operation of a regulated gas market, a capacity auction or the Capacity Transfer and Auction Procedures; or
 (c) the information is in the public domain.
@@ -2572,7 +2647,7 @@ Division 10—Immunity
 (4) AEMO may enter into an agreement with a person varying or excluding the operation of a provision of this section and this section will then apply to that person subject to that agreement.
 (5) This section does not apply to any liability of an officer or employee of a body corporate to the body corporate.
 91KA—Supply interruption or disconnection in compliance with AEMO's direction
-(1) A distributor incurs no civil monetary liability for interrupting or disconnecting the supply of natural gas to an end user in compliance or purported compliance with a direction given by AEMO under Rules related to user exit from a regulated retail gas market.
+(1) A distributor incurs no civil monetary liability for interrupting or disconnecting the supply of covered gas to an end user in compliance or purported compliance with a direction given by AEMO under Rules related to user exit from a regulated retail gas market.
 (2) The immunity does not extend to an act or omission done or made in bad faith or through negligence.
 (3) The civil monetary liability for an act or omission of a kind referred to in subsection (1) done or made through negligence may not exceed the maximum amount prescribed by the Regulations.
 (4) The Regulations may, for the purposes of subsection (3)—
@@ -2598,20 +2673,21 @@ protected person means—
 Division 11—Other matters
 91KD—Disclosure of information for purpose of market trials
 (1) This section applies if AEMO—
-(a) conducts a trial relating to the operation and administration of a market, or a part of a market, for natural gas; and
+(a) conducts a trial relating to the operation and administration of a market, or a part of a market, for covered gas; and
 (b) under, or for the purpose of, that trial is given information by another person (the discloser) that relates to another person.
 (2) The discloser, by giving the information to AEMO, incurs no liability for breach of contract, breach of confidence or any other civil wrong.
 (3) AEMO, by giving or disclosing the information to a person, or publicly releasing the information, incurs no liability for breach of contract, breach of confidence or any other civil wrong.
 Part 7—Regulation of retail gas markets
 Division 1—Registration
 91L—Retail gas markets
-(1) The retail market for natural gas in each participating jurisdiction constitutes a retail gas market.
+(1) A retail market for 1 or more covered gases in each participating jurisdiction constitutes a retail gas market.
 (2) A regulated retail gas market is a retail gas market the operation of which is governed under the Rules or Procedures (or both).
 91LA—Retail market participation
 (1) A person participates in a regulated retail gas market in a registrable capacity if the person is classified under the Rules as a participant in the relevant market.
 (2) A person cannot be classified under the Rules as a participant in a regulated retail gas market unless the person falls within 1 or more of the following classes:
 (a) service providers;
 (b) users;
+(c) blend processing service providers;
 (d) producers;
 (e) storage providers;
 (f) traders;
@@ -2972,9 +3048,12 @@ Division 1—Interpretation
 In this Part—
 additional ring fencing requirement has the meaning given by section 143(1);
 marketing staff has the meaning given by section 138;
-related business means the business of producing, purchasing or selling natural gas or processable gas, but does not include purchasing or selling of natural gas or processable gas to the extent necessary—
-(a) for the safe and reliable operation of a pipeline; or
-(b) to enable a service provider to provide balancing services in connection with a pipeline.
+related business means the following:
+(a) the provision of a blend processing service;
+(b) the business of producing primary gas, processable gas or biogas;
+(c) the business of purchasing or selling covered gas, processable gas or biogas, but does not include purchasing or selling covered gas, processable gas or biogas to the extent necessary—
+(i) for the safe and reliable operation of a pipeline; or
+(ii) to enable a service provider to provide balancing services in connection with a pipeline.
 138—Meaning of marketing staff
 (1) A person is marketing staff of—
 (a) a service provider, if the person—
@@ -3032,7 +3111,7 @@ A service provider must not—
 (a) enter into an associate contract that has; or
 (b) vary an associate contract so that contract, as varied, has; or
 (c) give effect to a provision of an associate contract that has,
-the purpose, or would have or be likely to have the effect, of substantially lessening competition in a market for natural gas services unless—
+the purpose, or would have or be likely to have the effect, of substantially lessening competition in a market for covered gas services unless—
 (d) that associate contract is an approved associate contract; or
 (e) that provision is contained in an approved associate contract.
 148—Service provider must not enter into or give effect to associate contracts inconsistent with competitive parity rule
@@ -3045,8 +3124,26 @@ inconsistent with the competitive parity rule unless—
 (e) that provision is contained in an approved associate contract.
 (2) For the purposes of subsection (1), and any Rules made for the purposes of that subsection, the competitive parity rule is the rule that a service provider must ensure that any pipeline services that the service provider provides to an associate of the service provider are provided to that associate as if that associate were a separate unrelated entity.
 Division 5—Exemptions from particular requirements
+148AA—Exemptions from section 147(c)
+(1) Section 147(c) does not prevent a service provider from giving effect to a provision of an associate contract if the contract is for an associate pipeline service, and—
+(a) if the associate pipeline service relates to 1 or more types of relevant covered gas—the provision was entered into before the commencement of the Statutes Amendment (National Energy Laws) (Other Gases) Act 2023; or
+(b) if the associate pipeline service relates to 1 or more types of prescribed primary gas—the provision was entered into before the gas became a prescribed primary gas; or
+(c) if the associate pipeline service relates to a blend of prescribed primary gases—the provision was entered into before any of the gases became a prescribed primary gas.
+(2) In this section—
+prescribed primary gas means a gas—
+(a) prescribed by the Regulations for the purpose of paragraph (e) of the definition of primary gas; or
+(b) prescribed by a local regulation for the purpose of paragraph (f) of the definition of primary gas;
+relevant covered gas means the following:
+(a) biomethane;
+(b) hydrogen;
+(c) synthetic methane;
+(d) a gas blend.
 148A—Exemptions from particular requirements
-The Rules may make provisions with respect to exemptions from the requirements under section 139, 140, 141, 147 or 148.
+(1) The Rules may provide for exemptions from the requirements under section 139, 140, 141, 147 or 148.
+(2) An exemption may be given subject to conditions.
+(3) Without limiting the conditions that may be imposed under subsection (2), an exemption may be given subject to conditions requiring a service provider to—
+(a) ensure that its business and business activities are conducted, structured and arranged in the particular manner specified in the exemption; or
+(b) disclose, in the manner specified in the exemption, to the AER and to the public, specified information about its business activities, operations, structure and arrangements.
 Part 3—Negotiation of access
 148B—Definition
 In this Part—
@@ -3438,36 +3535,117 @@ Part 12—Miscellaneous matters
 (2) Subject to the Rules, the relevant adjudicator for the access dispute the subject of the dispute hearing may correct the determination.
 196—User's existing capacity rights during an access dispute
 A service provider who is in an access dispute with a user must not, without the consent of the user, alter the rights that the user has to use the capacity of the pipeline during the period of the dispute.
-Chapter 7—The Natural Gas Services Bulletin Board
+Chapter 5A—Third‑party access obligations for non‑pipeline facilities
+Part 1—Information transparency
+197—Definitions
+In this Part—
+facility means the following:
+(a) a blend processing facility;
+(b) a compression service facility;
+(c) a storage facility;
+(d) a facility, other than a pipeline, prescribed by the Regulations for the purpose of this definition;
+provider means the following:
+(a) a blend processing service provider;
+(b) a compression service provider;
+(c) a storage provider;
+(d) the owner, operator or controller of a facility prescribed for the purpose of paragraph (d) of the definition of facility.
+198—Information and transparency requirements relating to facilities
+(1) Without limiting any other provision, the Rules may provide for—
+(a) the collection, disclosure, verification, management and publication of information in relation to services that may be provided by means of a facility; and
+(b) without limiting paragraph (a), requirements about the information that must be provided by a provider in relation to access, or potential access, to services provided by means of a facility, including information about the following:
+(i) the terms and conditions on which the provider is prepared to make the facility available for use by others;
+(ii) the procedures that the provider will apply in determining a proposal for access to the facility;
+(iii) relevant prices, costs and methodologies associated with gaining access to, and using, a facility and relevant or related services;
+(iv) access contracts and arrangements used, or required to be used, by the relevant provider; and
+(c) without limiting paragraphs (a) and (b), information to be provided by a provider in response to a request for access to services provided by means of a facility; and
+(d) requirements to ensure that information is accurate and complete; and
+(e) the imposition or recovery of costs associated with any matter referred to in a preceding paragraph or otherwise associated with facilitating access, or potential access, to services provided by means of a facility.
+(2) Nothing in subsection (1) limits any power to grant an exemption from complying with a provision, or part of a provision, of the Rules.
+199—Publication of information relating to facilities
+A person required by the Rules made under section 198 to publish information must do so in accordance with the Rules.
+Part 2—Access to certain facilities
+200—Definitions
+In this Part—
+relevant facility means—
+(a) a blend processing facility; or
+(b) a facility of a type prescribed by the Regulations for the purposes of this paragraph.
+201—Preventing or hindering access to relevant facilities
+(1) A person who owns, operates or controls a relevant facility, or an associate of the person, must not engage in conduct for the purpose of preventing or hindering the access of another person to a service provided by a relevant facility.
+(2) For the purposes of subsection (1), a person is taken to engage in conduct for a particular purpose if—
+(a) the conduct is, or was, engaged in for that purpose or for a purpose that includes, or included, that purpose; and
+(b) that purpose is, or was, a substantial purpose.
+(3) A person may be taken to have engaged in conduct for the purpose referred to in subsection (1) even though, after all the evidence has been considered, the existence of that purpose is ascertainable only by inference from the conduct of the person or another person or from other relevant circumstances.
+(4) Subsection (3) does not limit the manner in which the purpose of a person may be established for the purpose of subsection (1).
+(5) In this section—
+(a) a reference to engaging in conduct is a reference to doing, or refusing to do, any act, including the following:
+(i) refusing to supply a service provided by means of a relevant facility;
+(ii) without reasonable grounds, limiting or disrupting a service provided by means of a relevant facility;
+(iii) making, or giving effect to, a provision of a contract or arrangement;
+(iv) arriving at, or giving effect to, a provision of an understanding;
+(v) requiring the giving of, or giving, a covenant; and
+(b) a reference to refusing to do an act includes a reference to—
+(i) refraining, otherwise than inadvertently, from doing the act; or
+(ii) making it known the act will not be done.
+(6) Subsection (1) does not apply to conduct engaged in under an agreement, other than conduct in breach of this Law, the Regulations, the Rules or the Procedures, if—
+(a) for conduct relating to a blend processing facility—the agreement was in force immediately before the Statutes Amendment (National Energy Laws) (Other Gases) Act 2023 commenced; and
+(b) for conduct relating to any other type of facility—the agreement was in force immediately before the facility was prescribed as a relevant facility.
+202—Terms and conditions must not discriminate
+(1) A person who owns, operates or controls a relevant facility must not set terms and conditions for the use of a service provided by means of the facility that discriminate in favour of the following:
+(a) the person's own operations, whether upstream or downstream; or
+(b) the operations of an associate of the person.
+(2) Subsection (1) does not apply to the extent that the cost of providing a service to another person is higher.
+(3) This section does not apply if the agreement setting the terms and conditions was in force immediately before—
+(a) for a blend processing facility—the commencement of the Statutes Amendment (National Energy Laws) (Other Gases) Act 2023; or
+(b) otherwise—the facility became a relevant facility.
+203—Duty to negotiate in good faith
+(1) A user or prospective user seeking access to a service provided by means of a relevant facility and a person who owns, operates or controls the facility must negotiate in good faith with each other about—
+(a) whether access can be granted to the user or prospective user; and
+(b) if access is to be granted—the terms and conditions for the provision of access to the user or prospective user.
+(2) Without limiting any other provision, the Rules may make provision for or with respect to the following:
+(a) making and responding to a request for access;
+(b) the negotiation framework;
+(c) the resolution of disputes between the person who owns, operates or controls a relevant facility and a user or prospective user of the service provided by means of the relevant facility about 1 or more aspects of access to the service.
+(3) Where provided for in the Rules, the decision of a dispute resolution body, made in accordance with a rule under subsection (2)(c), has effect as a contract between the parties to the dispute.
+(4) Rules made under subsection (2) are not required to adopt, either in whole or in part, an existing dispute resolution mechanism in this Law or the Regulations.
+204—Rules about ring fencing
+(1) The Rules may make provision for matters relating to ring fencing the activities of providers, including the following:
+(a) requirements for the structural and operational separation of the activities of providers;
+(b) separate accounting requirements for the activities of providers;
+(c) dealings by providers with associates.
+(2) In this section—
+provider means the following:
+(a) a blend processing service provider;
+(b) the owner, operator or controller of a class of facility prescribed by the Regulations.
+Chapter 7—The Gas Bulletin Board
 Part 1—AEMO to be Bulletin Board operator
 217—AEMO to be Bulletin Board operator
-AEMO is responsible for the operation of the Natural Gas Services Bulletin Board.
+AEMO is responsible for the operation of the Gas Bulletin Board.
 218—AEMO's obligation to maintain Bulletin Board
-(1) AEMO must maintain the Natural Gas Services Bulletin Board.
-(2) The Natural Gas Services Bulletin Board—
+(1) AEMO must maintain the Gas Bulletin Board.
+(2) The Gas Bulletin Board—
 (a) must be maintained as a website; and
-(b) must contain information of the kind specified in the Rules in relation to the natural gas industry.
-(3) AEMO may replace the website with another website containing information of the kind specified in the Rules in relation to the natural gas industry.
-219—AEMO's other functions as operator of Natural Gas Services Bulletin Board
-AEMO also has, in its capacity as operator of the Natural Gas Services Bulletin Board, the following functions:
+(b) must contain information of the kind specified in the Rules in relation to the covered gas industry.
+(3) AEMO may replace the website with another website containing information of the kind specified in the Rules in relation to the covered gas industry.
+219—AEMO's other functions as operator of Gas Bulletin Board
+AEMO also has, in its capacity as operator of the Gas Bulletin Board, the following functions:
 (a) to collect and collate Bulletin Board information;
-(b) to collect and collate other information in relation to the natural gas industry for inclusion on the Natural Gas Services Bulletin Board;
-(c) to derive from information of the type mentioned in paragraphs (a) and (b) information for inclusion on the Natural Gas Services Bulletin Board;
-(d) subject to the Rules, to publish information on the Natural Gas Services Bulletin Board of the kinds that may or must be included on the Natural Gas Services Bulletin Board under the Rules;
+(b) to collect and collate other information in relation to the covered gas industry for inclusion on the Gas Bulletin Board;
+(c) to derive from information of the type mentioned in paragraphs (a) and (b) information for inclusion on the Gas Bulletin Board;
+(d) subject to the Rules, to publish information on the Gas Bulletin Board of the kinds that may or must be included on the Gas Bulletin Board under the Rules;
 (e) to manage information of the type mentioned in paragraphs (a), (b) and (c);
-(f) the other functions conferred on AEMO in its capacity as the operator of the Natural Gas Services Bulletin Board by this Law, the Rules or any other law prescribed by the Regulations for the purposes of this paragraph.
+(f) the other functions conferred on AEMO in its capacity as the operator of the Gas Bulletin Board by this Law, the Rules or any other law prescribed by the Regulations for the purposes of this paragraph.
 222—Fees for services provided
 (1) AEMO may charge a fee specified, or a fee calculated in accordance with a formula or methodology specified, in the Rules for access by a person to—
-(a) the Natural Gas Services Bulletin Board; or
+(a) the Gas Bulletin Board; or
 (b) Bulletin Board information.
 (2) The fee must not be such as to amount to taxation.
 Part 2—Bulletin Board information
 223—Obligation to give information to AEMO
-(1) A person who has possession or control of information in relation to the natural gas industry must give the information to AEMO for use by AEMO in connection with the Natural Gas Services Bulletin Board if the person is required to do so under the Rules.
+(1) A person who has possession or control of information in relation to the covered gas industry must give the information to AEMO for use by AEMO in connection with the Gas Bulletin Board if the person is required to do so under the Rules.
 (2) The information must be given to AEMO in accordance with the Rules.
 (3) Subsection (1) does not apply if the person is exempt under the Rules from giving the information.
 (4) Subsection (1) applies subject to any provision made by the Regulations as to any person, transaction or activity that is not to be the subject of any Rules made under this section.
-(5) AEMO must make available for the operation of the Bulletin Board information about natural gas, natural gas services or the use of natural gas that it acquires in its capacity as the operator or administrator of a regulated gas market.
+(5) AEMO must make available for the operation of the Bulletin Board information about covered gas, covered gas services or the use of covered gas that it acquires in its capacity as the operator or administrator of a regulated gas market.
 (6) Subsection (1) does not require—
 (a) a person to disclose information that is the subject of legal professional privilege; or
 (b) a natural person to disclose information that would incriminate the person or make the person liable to a criminal penalty under the law of an Australian jurisdiction (whether or not the jurisdiction is a participating jurisdiction).
@@ -3485,7 +3663,7 @@ A person must not give Bulletin Board information to AEMO or the AER that the pe
 (4) A person mentioned in subsection (1) may enter into an agreement with another person varying or excluding the operation of a provision of this section and, to the extent of that agreement, that provision does not apply.
 226A—Provision of certain information to AER
 (1) Without limiting any other provision, the Rules may provide for—
-(a) requirements for persons subject to the operation of this Chapter to give to the AER gas price assumptions and forecasts connected with estimates of reserves and resources; and
+(a) requirements for persons subject to the operation of this Chapter to give to the AER gas price assumptions and forecasts connected with estimates of natural gas reserves and resources; and
 (b) requirements to ensure that information satisfies the requirements of the Rules; and
 (c) requirements for the AER to publish information obtained under paragraph (a) on an anonymised basis.
 (2) The AER, in relation to information given to the AER in compliance with a requirement under subsection (1), is to treat the information as having been given to it in confidence and is authorised to disclose the information in accordance with Chapter 10 Part 2 Division 1.
@@ -3493,10 +3671,10 @@ Part 3—BB Procedures
 227—BB Procedures
 AEMO may, in accordance with the Rules, make BB Procedures.
 228—Nature of BB Procedures
-(1) BB Procedures are a form of statutory instrument directed at the regulation of the Natural Gas Services Bulletin Board.
+(1) BB Procedures are a form of statutory instrument directed at the regulation of the Gas Bulletin Board.
 (2) The BB Procedures may deal with the following matters:
 (a) the matters specified by the Rules;
-(b) any other matter relevant to the Natural Gas Services Bulletin Board on which this Law or the Rules contemplate the making of Procedures.
+(b) any other matter relevant to the Gas Bulletin Board on which this Law or the Rules contemplate the making of Procedures.
 (3) The BB Procedures—
 (a) may vary according to the persons, times, places or circumstances to which they are expressed to apply; and
 (b) may confer functions or powers on, or leave any matter or thing to be decided by, AEMO; and
@@ -3582,7 +3760,7 @@ Without limiting any other provision, the Rules may make provision for or with r
 (d) the allocation to zones of points on a transportation facility where transportation services are provided and the provision and use of transportation services using zones;
 (e) the obligations of transportation service providers with respect to facilitating the operational transfer of transportation capacity;
 (f) the use of an operational transportation service after termination or suspension of the contract from which the transportation capacity was first derived;
-(g) requests by a transportation facility user for changes to the point on a transportation facility where natural gas may be injected or withdrawn;
+(g) requests by a transportation facility user for changes to the point on a transportation facility where covered gas may be injected or withdrawn;
 (h) the collection, recording and use of information about nominations and renominations for use of transportation services and the scheduling of that use.
 228J—When operational transfer must be offered
 (1) If a transportation facility user states terms and conditions (the first terms) on which the user offers to grant to another person a right to use, directly or indirectly, the transportation capacity of the user without arranging for its transfer to the other person, the user must, on request by the person, state the terms and conditions on which the user will arrange for a transfer of the transportation capacity to the person for use under an operational transportation service agreement (the second terms).
@@ -4174,6 +4352,25 @@ Gas Pipelines amendments means the amendments made by the Statutes Amendment (Na
 (7) If the South Australian Minister makes Rules under subsection (1), the Minister cannot make another Rule under that subsection.
 (8) In this section—
 amended objective means the national gas objective as in force on the commencement of this section.
+294FD—South Australian Minister to make initial Rules relating to other gases
+(1) The South Australian Minister may make Rules—
+(a) for or with respect to—
+(i) the other gas amendments; and
+(ii) any other subject contemplated by, or necessary or expedient for, the other gas amendments; and
+(b) that revoke or amend a Rule as a consequence of the enactment of the other gas amendments.
+(2) Rules may only be made under this section on the recommendation of the MCE.
+(3) Section 74(3) applies to Rules made under this section in the same way as it applies to a Rule made by the AEMC.
+(4) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish a notice of the making of the Rules and the date the Rules commence in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(6) The Minister may, by a later notice published in the South Australian Government Gazette, vary a commencement date fixed under subsection (5).
+(7) Once the first Rules have been made, no further Rules can be made under this section.
+(8) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
+(9) In this section—
+other gas amendments means the amendments made to this Law by the Statutes Amendment (National Energy Laws) (Other Gases) Act 2023.
 Division 2—Rules made by Minister from time to time
 294G—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The South Australian Minister may make Rules recommended by the MCE in accordance with subsection (2).
@@ -4183,7 +4380,7 @@ Division 2—Rules made by Minister from time to time
 (3) The Energy Security Board may only make a recommendation for the purposes of subsection (2)(b) in relation to Rules if—
 (a) the Rules are in connection with energy security and reliability of the NEM or long‑term planning—
 (i) for the NEM; or
-(ii) in relation to investment in, and operation and use of, natural gas services; and
+(ii) in relation to investment in, and operation and use of, covered gas services; and
 (b) the Energy Security Board is satisfied that the Rules are consistent with the national gas objective; and
 (c) the Energy Security Board has undertaken consultation on the Rules in accordance with any requirements determined by the MCE.
 (4) Rules in the nature of a derogation may be made under this section even though there may not have been a request for a derogation.
@@ -4194,26 +4391,6 @@ Division 2—Rules made by Minister from time to time
 (7) The notice referred to in subsection (6)(a) must state—
 (a) the date on which the Rules commence operation; or
 (b) if different Rules will commence operation on different dates, those dates.
-294H—South Australian Minister may make Rules relating to AEMO′s east coast gas system reliability and supply adequacy functions
-(1) The South Australian Minister may make Rules on any 1 or more of the following subjects:
-(a) AEMO′s east coast gas system reliability and supply adequacy functions;
-(b) the subject matter of the heads of power specified in items 55W, 55ZA and 55ZC to 55ZF (inclusive) under the heading "East coast gas system reliability and supply adequacy functions", as inserted into Schedule 1 by the east coast gas system amendments;
-(c) any other subject contemplated by, or consequential on, the east coast gas system amendments.
-(2) Rules may only be made under subsection (1) on the recommendation of the MCE.
-(3) Section 74(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
-(4) As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
-(a) publish notice of the making of the Rules in the South Australian Government Gazette stating the date of commencement or, if they commence at different times, various dates of commencement; and
-(b) make the Rules publicly available.
-(5) The South Australian Minister may, by a later notice published in the South Australian Government Gazette, vary a commencement date fixed under subsection (4)(a).
-(6) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
-(7) This section expires on the day occurring 6 calendar months after it commences.
-(8) In this section—
-east coast gas system amendments means the amendments to—
-(a) this Law made by the National Gas (South Australia) (East Coast Gas System) Amendment Act 2023; and
-(b) the National Gas (South Australia) Regulations by regulations that are expressed to be made in connection with the National Gas (South Australia) (East Coast Gas System) Amendment Act 2023;
-South Australian Minister means the Minister in right of the Crown of South Australia administering Part 2 of the National Gas (South Australia) Act 2008 of South Australia.
-Editorial note—
-Section 294H has expired.
 Part 3—Procedure for the making of a Rule by the AEMC
 295—Initiation of making of a Rule
 (1) The AEMC may make a Rule at the request of any person or the MCE.
@@ -4410,7 +4587,7 @@ A Rule made under section 313 commences operation on the day the relevant notice
 (2) Before extending the expiry date of a trial Rule, the AEMC—
 (a) must have regard to the innovative trial principles; and
 (b) must consult with the AER; and
-(c) if the AEMC considers that the trial Rule, or the trial project to which the trial Rule relates, may impact on AEMO's operation of systems relating to natural gas and markets for natural gas—must consult with AEMO; and
+(c) if the AEMC considers that the trial Rule, or the trial project to which the trial Rule relates, may impact on AEMO's operation of systems relating to covered gas and markets for covered gas—must consult with AEMO; and
 (d) may consult with AEMO or any other person.
 (3) A request under subsection (1) must—
 (a) be made to the AEMC at least 60 days before the expiry date; and
@@ -4736,7 +4913,7 @@ Access disputes │
 41 │ Allocation of costs of an arbitration between parties to a non‑scheme pipeline access dispute. │
 42 │ Procedures for correcting errors in an access determination. │
 Sale and supply of gas to customers │
-43 │ Credit support arrangements between service providers and retailers, including the financial obligations of service providers and retailers to support the sale and supply of natural gas to retail customers. │
+43 │ Credit support arrangements between service providers and retailers, including the financial obligations of service providers and retailers to support the sale and supply of covered gas to retail customers. │
 44 │ Charges for the connection of premises of retail customers. │
 Regulatory economic methodologies │
 45 │ The regulatory economic methodologies (including the use of the methodology known as the "building block approach") to be applied by— │
@@ -4773,13 +4950,13 @@ East coast gas system reliability and supply adequacy functions │
 55T │ The development of reliability standards, including standards applying to specified geographical zones, location, markets, infrastructure or entities. │
 55U │ The obligations and functions of AEMO, the AEMC or the AER in relation to the reliability standards, including determining the standards, or the manner or process for determining the standards. │
 55V │ The way in which AEMO must use or consider the reliability standards in the exercise of its east coast gas system reliability and supply adequacy functions. │
-55W │ The way in which AEMO must exercise or perform its east coast gas system reliability and supply adequacy functions. │
-55X │ Arrangements to enable AEMO to contract with other parties to reduce or curtail natural gas demand. │
+55W │ The way in which AEMO must or, without limitation, may exercise or perform its east coast gas system reliability and supply adequacy functions. │
+55X │ Arrangements to enable AEMO to contract with other parties to reduce or curtail covered gas demand. │
 55Y │ Obligations on relevant entities to contract with each other for certain purposes and on certain terms and conditions. │
-55Z │ Arrangements to procure, by or on behalf of AEMO, the supply or storage of natural gas, transport capacity and other services for the purposes of AEMO′s east coast gas system reliability and supply adequacy functions, including the terms and conditions of the procurement. │
-55ZA │ Measures or mechanisms that must or may be implemented in response to actual or potential threats to the reliability or adequacy of the supply of natural gas within the east coast gas system. │
+55Z │ Arrangements to procure, by or on behalf of AEMO, the supply or storage of covered gas, transport capacity and other services for the purposes of AEMO′s east coast gas system reliability and supply adequacy functions, including the terms and conditions of the procurement. │
+55ZA │ Measures or mechanisms that must or may be implemented in response to actual or potential threats to the reliability or adequacy of the supply of covered gas within the east coast gas system. │
 55ZB │ Obligations on retailers, gas powered generators and other large gas users to develop plans to manage peak or other demand scenarios, including the form, content and implementation of those plans. │
-55ZC │ Arrangements to enable AEMO to, publicly or otherwise, signal or communicate actual or potential threats to the reliability or adequacy of the supply of natural gas within the east coast gas system, including the convening of conferences and requiring particular participants to attend those conferences. │
+55ZC │ Arrangements to enable AEMO to, publicly or otherwise, signal or communicate actual or potential threats to the reliability or adequacy of the supply of covered gas within the east coast gas system, including the convening of conferences and requiring particular participants to attend those conferences. │
 55ZD │ The payment of fees and charges under section 91E to enable AEMO to recover costs relating to its east coast gas system reliability and supply adequacy functions. │
 55ZE │ The provision of information to AEMO in relation to its east coast gas system reliability and supply adequacy functions, who must give AEMO the information, the circumstances in which the information may or must be given and the way in which the information may or must be given, including a way set out in the Procedures. │
 55ZF │ Arrangements to pay compensation to relevant entities adversely affected by AEMO′s exercise or performance of its east coast gas system reliability and supply adequacy functions, and to recover the compensation paid from relevant entities. │
@@ -4791,11 +4968,11 @@ AEMO │ │
 58 │ The operation and administration of a regulated gas market. │
 59 │ The declared system functions or STTM functions. │
 60 │ AEMO's functions, powers and duties, and the duties and obligations of Registered participants, exempted participants and others, in regard to the operation of a declared transmission system or a regulated gas market. │
-61 │ The setting of prices (including maximum and minimum prices) for natural gas and services purchased through the declared wholesale gas market or short term trading market operated and administered by AEMO. │
+61 │ The setting of prices (including maximum and minimum prices) for covered gas and services purchased through the declared wholesale gas market or short term trading market operated and administered by AEMO. │
 62 │ The regulation of a declared LNG storage provider and liquefied natural gas stored by the provider. │
-63 │ The metering of natural gas to record the production or consumption of natural gas. │
-64 │ The registration of metering installations used to meter natural gas. │
-65 │ The regulation of persons providing metering services relating to the metering of natural gas. │
+63 │ The metering of covered gas to record the production, consumption or quality of covered gas. │
+64 │ The registration of metering installations used to meter covered gas. │
+65 │ The regulation of persons providing metering services relating to the metering of covered gas. │
 66 │ The matters to be dealt with in the gas statement of opportunities and the obligations of AEMO and other persons in regard to its preparation, review, revision and publication. │
 67 │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the gas statement of opportunities. │
 68 │ In relation to the gas statement of opportunities— │
@@ -4805,28 +4982,28 @@ AEMO │ │
 │ (d) the procedure for giving the information. │
 69 │ Fees payable to AEMO for services provided, or statutory functions performed, under this Law, the Rules or the Procedures. │
 70 │ The payment of money (including the payment of interest and the provision of related security)— │
-│ (a) for the settlement of transactions for natural gas or services purchased or supplied through a regulated gas market operated and administered by AEMO; or │
+│ (a) for the settlement of transactions for covered gas or services purchased or supplied through a regulated gas market operated and administered by AEMO; or │
 │ (b) to or from a Rule fund; or │
 │ (c) for any service provided, or statutory function performed, for which the Rules require payment. │
-71 │ Rules for determining the ownership of, and the transfer of title to, natural gas supplied at an STTM hub and for resolving disputes about ownership. │
-72 │ The terms and conditions on which service providers, or classes of service providers, may recover costs for allocating quantities of natural gas relating to market operator services. │
+71 │ Rules for determining the ownership of, and the transfer of title to, covered gas supplied at an STTM hub and for resolving disputes about ownership. │
+72 │ The terms and conditions on which service providers, or classes of service providers, may recover costs for allocating quantities of covered gas relating to market operator services. │
 73 │ The operation and administration of a gas trading exchange. │
 74 │ The content, operation and administration of a gas trading exchange agreement. │
 75 │ The duties and obligations of members of a gas trading exchange. │
 76 │ Other rules relating to the conduct (including suspension) of the members of a gas trading exchange. │
 77 │ The determination and settlement of payments in relation to a gas trading exchange. │
-Natural Gas Services Bulletin Board │
-78 │ The establishment and maintenance of a website that contains information in relation to the natural gas industry. │
-79 │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the Natural Gas Services Bulletin Board. │
+Gas Bulletin Board │
+78 │ The establishment and maintenance of a website that contains information in relation to the covered gas industry. │
+79 │ Principles to be applied, and procedures to be followed, by AEMO in exercising a power or performing a function in relation to the Gas Bulletin Board. │
 80 │ The kinds of information that may or must be given to AEMO, who must give AEMO the information, the circumstances in which the information may or must be given, and the procedure for giving the information. │
-81 │ The kinds of information that may or must be included on the Natural Gas Services Bulletin Board and the manner in which information is to be dealt with before being put on the Natural Gas Services Bulletin Board, including, but not limited to, the removal of information that would identify the person who gave the information. │
+81 │ The kinds of information that may or must be included on the Gas Bulletin Board and the manner in which information is to be dealt with before being put on the Gas Bulletin Board, including, but not limited to, the removal of information that would identify the person who gave the information. │
 82 │ Persons, or classes of persons, to whom the requirement to give information does not apply and the circumstances in which the requirement does not apply, including, but not limited to, the grant of power to AEMO to exempt persons, or classes of persons, from that requirement. │
 83 │ The circumstances in which the requirement to give information may start to apply again to the persons, or classes of persons, mentioned in item 82. │
-84 │ Persons, or classes of persons, who may access the Natural Gas Services Bulletin Board and the class, or classes, of information to which they may have access. │
-85 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 84 may access the Natural Gas Services Bulletin Board. │
-86 │ The procedure for dealing with information that was, but is no longer, on the Natural Gas Services Bulletin Board. │
-87 │ Persons, or classes of persons, who may have access to information that was, but is no longer on the Natural Gas Services Bulletin Board and the class, or classes, of information to which they may have access. │
-88 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 87 may have access to information that was, but is no longer on the Natural Gas Services Bulletin Board. │
+84 │ Persons, or classes of persons, who may access the Gas Bulletin Board and the class, or classes, of information to which they may have access. │
+85 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 84 may access the Gas Bulletin Board. │
+86 │ The procedure for dealing with information that was, but is no longer, on the Gas Bulletin Board. │
+87 │ Persons, or classes of persons, who may have access to information that was, but is no longer on the Gas Bulletin Board and the class, or classes, of information to which they may have access. │
+88 │ The terms and conditions on which the persons, or classes of persons, mentioned in item 87 may have access to information that was, but is no longer on the Gas Bulletin Board. │
 89 │ The terms and conditions on which service providers, or classes of service providers, may recover amounts from AEMO for aggregating Bulletin Board information for the Bulletin Board operator. │
 90 │ Matters mentioned in items 78 to 89, in so far as they relate to emergency situations. │
 Facilitating capacity trades and the capacity auction │
@@ -4872,6 +5049,9 @@ Miscellaneous │
 │ (a) all previous and current determinations and decisions made in relation to a pipeline under Chapter 3; and │
 │ (b) all previous and current exemptions from publishing prescribed transparency information under section 136C; and │
 │ (c) all previous and current determinations and decisions made in relation to a pipeline under Chapters 3 and 5 as in force from time to time before the commencement of Part 19 of Schedule 3. │
+121A │ The establishment and maintenance of a register by the AEMC of the following actions under this Law or the Rules by the AER or a dispute resolution body: │
+│ (a) determinations in relation to covered gas other than determinations recorded on the register kept under item 121; │
+│ (b) decisions in relation to covered gas. │
 122 │ Time periods within which the AER must make a decision (including an AER economic regulatory decision). │
 123 │ Extensions to periods of time referred to in item 122. │
 124 │ Reports into failures to make decisions within a specified period of time and the publication of such reports. │
@@ -4882,6 +5062,7 @@ Miscellaneous │
 │ (c) the appointment of a person to manage and facilitate the dispute resolution process (without however derogating from that person's power to act personally as an arbitrator or mediator in a particular dispute); and │
 │ (d) the dispute resolution process; and │
 │ (e) rights of appeal on questions of law against decisions made in the course of the dispute resolution process. │
+126A │ Schemes dealing with the transition of 1 or more types of covered gas facility from a facility that handles natural gas to a facility that handles another covered gas. │
 127 │ Energy Consumers Australia (including provisions for its funding). │
 128 │ The modification of section 3, 8 or 10.8 of the Gas Code as those sections apply to a transitioned access arrangement (as defined in clause 1 of Schedule 3 to this Law). Note— See also clause 30 of Schedule 3 to this Law. │
 129 │ Any other matter or thing that is the subject of, or is of a kind dealt with by, a provision of the Gas Code as in operation and effect immediately before the commencement of section 20 of the National Gas (South Australia) Act 2008 of South Australia. │
@@ -6423,3 +6604,29 @@ MCE statement means a statement issued by the MCE that states the value, or a me
 (2) On the commencement of this clause—
 (a) the thing is taken to have been validly done under Chapter 9; and
 (b) the AEMC is taken to have satisfied a requirement under the Law to apply the national gas objective in relation to the thing.
+Part 21—Transitional provisions related to other gas amendments
+Division 1—Preliminary
+139—Definitions
+In this Part—
+commencement day means the day on which this Part comes into operation;
+transition period means the period—
+(a) commencing on 1 November 2022; and
+(b) ending on the commencement day.
+Division 2—Gas Bulletin Board
+140—Gas Bulletin Board
+The website maintained by AEMO as the Natural Gas Services Bulletin Board immediately before the commencement day is taken to be the Gas Bulletin Board.
+141—References to Natural Gas Services Bulletin Board
+A reference in a legislative instrument, a policy, a contract, an agreement or another document in force immediately before the commencement day, to the Natural Gas Services Bulletin Board or to the NGSBB, is taken to be a reference to the Gas Bulletin Board.
+Division 3—Other matters
+142—Greenfields incentive determinations
+(1) Despite section 100(2)(a) an application for a greenfields incentive determination may be made after a pipeline is commissioned if—
+(a) the pipeline was commissioned during the transition period; and
+(b) the application is made within 90 days after the commencement day.
+(2) This clause does not apply to a pipeline for natural gas.
+143—Greenfields price protection determinations
+(1) Despite section 109(2)(a) an application for a greenfields price protection determination may be made after a pipeline is commissioned if—
+(a) the pipeline was commissioned during the transition period; and
+(b) the application is made within 90 days after the commencement day.
+(2) This clause does not apply to a pipeline for natural gas.
+144—Information transparency rules
+A rule made for the purposes of section 83A and that was in effect immediately before the commencement day is taken to be a rule made under section 198.
