@@ -1,2 +1,2 @@
-Schedule 1—Related amendments, repeals and transitional provisions
-Part 1—Amendment of Adelaide Cemeteries Authority Act 2001
+Schedule 1—Transitional provisions
+Part 24—Transitional provision
