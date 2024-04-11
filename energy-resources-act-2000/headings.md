@@ -6,6 +6,7 @@ Division 4—Rights of the Crown
 Part 2—Administration
 Division 1—The Minister
 Division 2—Authorised officers
+Division 3—Authorised investigation or survey
 Part 3—Licensing regulated activities
 Division 1—Requirement for licence
 Division 1A—Hydraulic Fracturing
@@ -18,6 +19,7 @@ Division 3—Exploration licences
 Part 5—Retention
 Part 6—Production
 Part 7—Royalty
+Part 7A—Rental
 Part 8—Transmission pipelines
 Division 1—Pipeline licence
 Division 2—Access to pipeline
@@ -39,14 +41,17 @@ Division 9A—Change in control of holder of licence
 Division 10—General requirements for operations
 Division 11—Minister's power to carry out work
 Division 12—Surrender, suspension or cancellation of licence
+Division 12A—Extension of term or reinstatement of licence
 Division 13—Notice of grant etc of licence
 Division 14—Interference with regulated activities
 Division 15—Safety net
 Part 12—Environment protection
 Division 1—Objects
 Division 2—Environmental prerequisites
-Division 3—Environmental impact report and classification of regulated activities
+Division 2A—Environmental impact assessment criteria
+Division 3—Environmental impact report
 Division 4—Statements of environmental objectives
+Division 4A—Consultation by Minister
 Division 5—The environmental register
 Division 6—General provisions for environmental protection
 Part 13—Registrable dealings
