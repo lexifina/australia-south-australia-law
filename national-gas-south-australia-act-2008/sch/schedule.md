@@ -31,6 +31,8 @@ The application of a rate of return instrument under this Law is an AER economic
 AER gas price reporting functions means the functions of the AER performed under section 27(1)(fa);
 AER ring fencing determination means a determination of the AER under section 143(1);
 AER trial waiver functions means the functions conferred on the AER under Chapter 2 Part 1 Division 1B;
+AER wholesale market monitoring functions—the AER wholesale market monitoring functions are set out in section 30AC(1);
+AER wholesale market reporting functions—the AER wholesale market reporting functions are set out in section 30AC(2);
 annual turnover has the same meaning as in section 2(1) of Schedule 2 to the Competition and Consumer Act 2010 of the Commonwealth;
 applicable access arrangement means an access arrangement that has taken effect after being approved or made by the AER under the Rules and includes an applicable access arrangement as varied—
 (a) under the Rules; or
@@ -54,6 +56,7 @@ associate contract means—
 associate contract decision means a decision of the AER under the Rules that approves or does not approve an associate contract for the purposes of Chapter 4 Part 2 Division 4;
 associate pipeline service means a pipeline service provided by means of a pipeline other than a pipeline to which a greenfields incentive determination applies;
 Australian Energy Market Operator or AEMO means Australian Energy Market Operator Limited (ACN 072 010 327);
+bilateral trading agreement, for Chapter 2 Part 1 Division 1AA—see section 30AA;
 BB Procedures means Procedures directed at regulating the Gas Bulletin Board;
 biogas means a gas derived or recovered from organic matter other than fossilised organic matter;
 biomethane means a substance—
@@ -164,6 +167,7 @@ East Coast Gas System Procedures, for Part 6 Division 1A—see section 91AD(1)(h
 east coast gas system reliability and supply adequacy functions of AEMO are set out in section 91AD;
 east coast jurisdiction means a participating jurisdiction other than Western Australia;
 ECA amendments means the amendments to this Law made by the Statutes Amendment (Energy Consumers Australia) Act 2014 of South Australia;
+effective competition, for Chapter 2 Part 1 Division 1AA—see section 30AB;
 end user means a person who acquires covered gas for consumption purposes, and includes a retail customer;
 Energy Consumers Australia or ECA means the company incorporated, or to be incorporated, by the name Energy Consumers Australia Limited;
 energy ombudsman has the same meaning as in the National Energy Retail Law;
@@ -180,6 +184,7 @@ extension and expansion requirements means—
 Note—
 See also sections 18 and 19.
 final Rule determination means a determination of the AEMC under section 311;
+financial risk management product, for Chapter 2 Part 1 Division 1AA—see section 30AA;
 foreign company has the same meaning as in the Corporations Act 2001 of the Commonwealth;
 foreign source means—
 (a) a source beyond the outer limits of all of the following:
@@ -195,6 +200,7 @@ form of regulation factors has the meaning given by section 16;
 gas blend means primary gases that have been blended together;
 Gas Bulletin Board means the website maintained by AEMO that contains information of the kind specified in the Rules for the covered gas industry;
 Gas Code means the National Third Party Access Code for Natural Gas Pipeline Systems set out in Schedule 2 to the Gas Pipelines Access (South Australia) Act 1997 of South Australia as in force from time to time before the commencement of section 20 of the National Gas (South Australia) Act 2008 of South Australia;
+gas contract, for Chapter 2 Part 1 Division 1AA—see section 30AA;
 gas powered generator means the owner, controller or operator of a generating system, within the meaning of the National Electricity Rules, that is powered by covered gas;
 gas statement of opportunities means the statement published under Chapter 2 Part 6 Division 4;
 gas trading exchange means a facility through which persons may elect to buy and sell covered gas or related goods or services, including a pipeline capacity right;
@@ -379,6 +385,7 @@ regulatory payment has the meaning given by section 7;
 relevant adjudicator means—
 (a) for a scheme pipeline access dispute—the dispute resolution body; or
 (b) for a non‑scheme pipeline access dispute—the arbitrator for the dispute;
+relevant agreement, for Chapter 2 Part 1 Division 1AA—see section 30AA;
 relevant entity, for Part 6 Division 1A—see section 91AF(8);
 relevant Regulator has the same meaning as in section 2 of the old access law;
 REMCo means the Retail Energy Market Company Limited (ACN 103 318 556);
@@ -497,6 +504,9 @@ user means a person who—
 (b) has a right under an access determination to be provided with a pipeline service by means of a pipeline;
 user facility means a facility by means of which covered gas is consumed (including by transformation of the gas into a new form) and which is not any other form of covered gas industry facility;
 VENCorp means the Victorian Energy Networks Corporation continued under Part 8 of the Gas Industry Act 2001 of Victoria until the AEMO amendments come into force;
+wholesale gas market, for Chapter 2 Part 1 Division 1AA—see section 30AA;
+wholesale gas market participant, for Chapter 2 Part 1 Division 1AA—see section 30AA;
+wholesale market monitoring guidelines, for Chapter 2 Part 1 Division 1AA—see section 30AA;
 Wholesale Market Procedures means Procedures directed at regulating the declared wholesale gas market of an adoptive jurisdiction.
 (2) A reference in this Law to an end user includes a reference to a prospective end user.
 (3) A reference in this Law to the east coast gas system includes a reference to part of the east coast gas system.
@@ -834,6 +844,7 @@ Division 1—General
 (ii) other monitoring, analysing or reporting functions that relate to prices for those goods or services conferred on the AER by this Law or the Rules; and
 (iii) for the purposes of subparagraph (i) or (ii)—to collect and analyse information or data about prices from sources determined by the AER or specified in the Rules; and
 (g) to approve compliance programs of service providers relating to compliance by service providers with this Law or the Rules; and
+(ga) AER wholesale market monitoring functions and AER wholesale market reporting functions; and
 (h) any other functions and powers conferred on it under this Law or the Rules.
 (1a) The AER has the following functions and powers in relation to the Procedures:
 (a) to investigate breaches or possible breaches of the Procedures referred to the AER by AEMO; and
@@ -874,6 +885,215 @@ Any delegation by the AER under section 44AAH of the Competition and Consumer Ac
 Section 44AAF of the Competition and Consumer Act 2010 of the Commonwealth has effect for the purposes of this Law, the Regulations and the Rules as if it formed part of this Law.
 Note—
 See also Chapter 10 Part 2 Division 1.
+Division 1AA—Wholesale gas markets—AER monitoring and reporting functions
+Subdivision 1—Preliminary
+30AA—Definitions
+In this Division—
+bilateral trading agreement means an agreement, entered into outside a wholesale gas market, to supply covered gas—
+(a) to a wholesale gas market participant; or
+(b) to an end user—
+(i) other than by a retailer; or
+(ii) by a retailer in a quantity exceeding the amount prescribed by the wholesale market monitoring guidelines;
+effective competition has the meaning given by section 30AB;
+financial risk management product means a contract or other arrangement, entered into by a wholesale gas market participant, to manage financial risk including, without limitation, risks associated with the following:
+(a) volatility in the price for 1 or more covered gases in a wholesale gas market;
+(b) volatility in supply and demand in a wholesale gas market;
+(c) volatility in the price of services involved in the extraction, refinement or processing, transportation or storage of 1 or more covered gases;
+gas contract means an agreement, entered into by a wholesale gas market participant, however described and whether coming into existence before or after the commencement of this section that relates to 1 or more of the following:
+(a) the supply of covered gas;
+(b) the purchase of covered gas;
+(c) the transportation of covered gas;
+(d) the storage of covered gas;
+(e) the refining or processing, including compression and blending, of covered gas;
+(f) relating to emissions produced or avoided in the extraction, refining or processing, supply or use of covered gas;
+(g) a function or process prescribed by the Regulations or the Rules;
+relevant agreement means the following:
+(a) a bilateral trading agreement;
+(b) a financial risk management product;
+(c) a gas contract;
+wholesale gas market means—
+(a) a wholesale market for covered gas, regulated under this Law and the Rules, including the following:
+(i) a declared wholesale gas market;
+(ii) a short term trading market;
+(iii) a gas trading exchange; or
+(b) a wholesale market for the transportation or storage of covered gas including a capacity auction; or
+(c) a wholesale market prescribed by the Regulations;
+wholesale gas market participant means a person who is 1 or more of the following:
+(a) a person who is registered on the Gas Bulletin Board;
+(b) a person who supplies covered gas to or withdraws covered gas from a gas trading exchange administered by AEMO;
+(c) a Registered participant;
+(d) a member of a class of persons prescribed by the Regulations or the Rules;
+wholesale market monitoring guidelines means the guidelines prepared under section 30AT.
+30AB—Meaning of effective competition
+For the purposes of this Division, the AER must, in assessing whether there is effective competition within a wholesale gas market, have regard to—
+(a) whether—
+(i) there are active competitors in the market and whether those competitors hold a reasonably sustainable position in the market; or
+(ii) there is merely the threat of competition in the market; and
+(b) whether prices are determined on a long term basis by underlying costs rather than the existence of market power, even though a wholesale gas market participant may hold a substantial degree of market power from time to time; and
+(c) whether barriers to entry into the market are sufficiently low so that a substantial degree of market power may only be held by a wholesale gas market participant on a temporary basis; and
+(d) whether there is independent rivalry in all dimensions of the price, product or service offered in the market; and
+(e) other matters the AER considers relevant.
+30AC—AER wholesale market monitoring and reporting functions
+(1) The AER wholesale market monitoring functions are as follows:
+(a) to, in accordance with this Law and the Rules, regularly and systematically monitor and review—
+(i) the performance of wholesale gas markets; and
+(ii) the operation and effect on wholesale gas markets of financial risk management products; and
+(iii) whether the availability of financial risk management products has an effect on competition within, and the efficient functioning of, wholesale gas markets; and
+(iv) bilateral trading agreements, including their effect on wholesale gas markets;
+(b) in connection with paragraph (a)—to identify and analyse whether, for a particular wholesale gas market—
+(i) there is effective competition within the market; and
+(ii) there are features of the market that may be detrimental to effective competition within the market; and
+(iii) there are features of the market that may be impacting detrimentally on the efficient functioning of the market and, if so, the extent of the inefficiency; and
+(iv) there are features of the market that may be impacting detrimentally on the achievement of the national gas objective; and
+(v) bilateral trading agreements have an impact on the efficient functioning of the market;
+(c) other monitoring or analysing functions, conferred on the AER by the Rules, relating to the following matters within a wholesale gas market:
+(i) offers;
+(ii) prices, including forecast and actual prices and bidding.
+(2) The AER wholesale market reporting functions are as follows:
+(a) to prepare, at least once every 2 years, a report on the performance of the AER wholesale market monitoring functions (a monitoring report);
+(b) to provide, as the AER thinks fit, advice to the MCE on the results of the performance of the AER wholesale market monitoring functions, including advice as to—
+(i) whether the results identify a need for a legislative, regulatory or other response to address systemic or other features of a wholesale gas market that may—
+(A) be detrimental to effective competition within the market; or
+(B) detrimentally impact on the efficient functioning of the market; and
+(ii) limitations on the AER's ability to communicate with relevant persons about the performance of the AER wholesale market monitoring functions;
+(c) other reporting requirements, conferred on the AER by the Rules, relating to the AER wholesale market monitoring functions.
+(3) A monitoring report must, for a wholesale gas market monitored during the period to which the report relates—
+(a) be for a monitoring period of at least 5 years; and
+(b) contain a discussion and analysis of—
+(i) the results of the performance of the AER wholesale market monitoring functions for the relevant period; and
+(ii) features of the market with a detrimental impact on the efficient functioning of the market and the achievement of the national gas objective, including, but not limited to, significant barriers to entry; and
+(iii) the effect of bilateral trading agreements on the efficient functioning of the market; and
+(iv) structural features of the covered gas industry that generate concerns that there may not be effective competition within the market; and
+(v) inefficiencies in the market, their causes and whether conditions in the market are such that the inefficiencies are likely to impact detrimentally, in the long term, on the efficient functioning of the market; and
+(vi) the monitoring methodology applied and the results of indicators, tests and calculations performed; and
+(vii) other matters of a long term nature relevant to effective competition within the market, including, for example—
+(A) observations relating to planned increases in pipeline capacity; and
+(B) trends in demand for covered gases; and
+(C) trends in the uptake of alternative sources of energy.
+(4) The AER must publish a monitoring report on its website.
+(5) Before publishing a monitoring report the AER must consult with relevant stakeholders.
+(6) Despite subsection (3)(a), a report prepared within the 5 years after the commencement of this section must relate to the period commencing on the day this section commences.
+30AD—Information to be treated as confidential
+Information obtained by the AER under this Division is taken to have been given to the AER in confidence, whether or not a claim of confidentiality is made.
+30AE—Redaction of information
+(1) When obtaining a relevant agreement or information about a relevant agreement for the purposes of a function under this Division, the AER must consider a request to omit information that would identify a party to the agreement who is not a wholesale gas market participant.
+(2) The AER must grant the request unless satisfied that omitting the information is likely to materially affect the AER's ability to undertake 1 or more functions under this Division.
+Subdivision 2—Use of general information gathering powers
+30AF—Limits on use of section 42 information gathering powers
+(1) In undertaking a function under this Division the AER must not use the powers under section 42 in respect of a relevant agreement that ceased to have effect more than 5 years before the commencement of this section.
+(2) The Regulations or the Rules may provide that the powers under section 42 must not be used for a function under this Division for 1 or more classes of relevant agreement.
+30AG—Matters to be considered before using section 42 information gathering powers
+Before using the powers under section 42 for a function under this Division, the AER must—
+(a) be satisfied the information is reasonably required for the AER to carry out the function; and
+(b) consider whether the information—
+(i) is publicly available; or
+(ii) can be obtained by the AER in another way.
+Subdivision 3—Market monitoring information notices and market monitoring information orders
+30AH—Definitions
+In this Subdivision—
+market monitoring information notice means a notice prepared and served by the AER in accordance with this Subdivision requiring the person named in the notice to do 1 or more of the following:
+(a) give the AER the information or a relevant agreement specified in the notice;
+(b) prepare, maintain and keep information specified in the notice in a manner and form specified in the notice;
+market monitoring information order means an order made by the AER in accordance with this Subdivision requiring each person of a class specified in the order to do 1 or more of the following:
+(a) give the AER the information or a relevant agreement specified in the order;
+(b) prepare, maintain and keep information specified in the order in a manner and form specified in the order.
+30AI—Urgent notices and urgent orders
+The AER may specify a market monitoring information notice or a market monitoring information order as urgent if the AER reasonably believes that access to the relevant information is time critical.
+30AJ—Content of notices and orders
+(1) A market monitoring information notice or a market monitoring information order must specify the following:
+(a) the information that must be prepared, maintained and kept;
+(b) the information or agreement that must be given to the AER;
+(c) if the notice or order requires information to be prepared, maintained and kept—the AER's reasons for requiring information to be prepared, maintained and kept;
+(d) if the notice or order requires information or an agreement to be given to the AER—
+(i) the reasons the AER requires the information or agreement; and
+(ii) the date by which the information or agreement must be given to the AER;
+(e) the period in which the notice or order operates.
+(2) A market monitoring information notice or a market monitoring information order may specify the following:
+(a) the form in which information or an agreement is to be given to the AER;
+(b) the way the information or agreement is to be given to the AER.
+30AK—Notices and orders may be made for both past and future information
+(1) A market monitoring information notice or a market monitoring information order may apply to 1 or more of the following:
+(a) a period before the notice was served or the order was made;
+(b) a period after the notice was served or the order was made.
+(2) A market monitoring information notice or a market monitoring information order must not be used to obtain a relevant agreement, or information about a relevant agreement, that ceased to have effect more than 5 years before the commencement of this section.
+30AL—Making and serving notices and orders
+(1) The AER may, if it considers it reasonably necessary for the performance of its functions under this Division—
+(a) serve a market monitoring information notice on a person named in the notice; and
+(b) make a market monitoring information order.
+(2) The AER must, when considering if it is reasonably necessary to serve a market monitoring information notice or make a market monitoring information order—
+(a) be satisfied the AER requires the information or agreement to carry out a wholesale market monitoring function; and
+(b) consider the costs that are likely to be incurred by a person responding to the notice or order; and
+(c) consider whether the information—
+(i) is publicly available; or
+(ii) can be obtained by the AER in another way.
+(3) A market monitoring information notice or a market monitoring information order must not be used for the purpose of—
+(a) investigating a breach or possible breach of this Law, the Regulations or the Rules; or
+(b) commencing or conducting proceedings for a breach or possible breach of this Law, the Regulations or the Rules; or
+(c) commencing or conducting an appeal from a decision in proceedings for a breach or possible breach of this Law, the Regulations or the Rules; or
+(d) responding to an application for review of a decision of the AER under Chapter 8 Part 5.
+(4) A market monitoring information order must be made in accordance with the Rules.
+(5) The Regulations or the Rules may provide that a market monitoring information notice or a market monitoring information order must not be used to obtain the following:
+(a) 1 or more classes of relevant agreement;
+(b) information about 1 or more classes of relevant agreement.
+30AM—AER must consult before making order
+(1) Before making a market monitoring information order, the AER must consult the public.
+(2) Consultation must be undertaken in accordance with the Rules.
+30AN—Publication of orders
+The AER must publish a market monitoring information order on the AER's website as soon as practicable after the order is made.
+30AO—Opportunity to be heard before notice served
+(1) Before serving a market monitoring information notice, the AER must give the person on whom the AER intends to serve the notice a draft of the notice and an opportunity to make a submission on the draft notice.
+(2) A draft notice must state—
+(a) whether the notice is to be issued as a standard notice or an urgent notice; and
+(b) for an urgent notice—the reasons the AER believes access to the relevant information is time critical.
+(3) A submission must be made—
+(a) for a standard notice—within the longer of the following:
+(i) 20 business days after the draft notice is given to the person;
+(ii) the period stated in the notice; or
+(b) for an urgent notice—within the period stated in the draft notice, being at least 5 business days and not more than 10 business days after the draft notice is given to the person.
+(4) A submission made within the time periods provided for in subsection (3) must be considered by the AER before serving a market monitoring information notice on a person.
+30AP—Compliance with notice
+(1) A person who is named in and served with a market monitoring information notice must comply with the notice.
+Note—
+This section is a civil penalty provision.
+(2) If a market monitoring information notice names 2 or more related bodies corporate, a notice served on the holding company is taken to have been served on each of the named related bodies corporate.
+30AQ—Compliance with order
+(1) A person who is a member of a class of persons specified in a market monitoring information order must comply with the order.
+Note—
+This section is a civil penalty provision.
+(2) The AER may, by written notice, exempt a person from compliance with an order—
+(a) in whole or part; and
+(b) conditionally or unconditionally.
+30AR—Certification of compliance by statutory declaration
+(1) The AER may direct the recipient of a market monitoring information notice or market monitoring information order to verify that the recipient's response to the notice or order is accurate and comprehensive by way of a statutory declaration.
+(2) A direction may require the statutory declaration to be given by a named officer of the recipient or the holder of a specified office for the recipient.
+(3) A direction must be given in the relevant market monitoring information notice or market monitoring information order.
+(4) A failure to comply with a direction given under this section is taken to be a failure to comply with the relevant market monitoring information notice or market monitoring information order.
+30AS—Subdivision does not limit powers under Division 3
+This Subdivision does not limit the operation of Division 3.
+Subdivision 4—Miscellaneous
+30AT—Wholesale market monitoring guidelines
+(1) The AER must prepare guidelines about the following:
+(a) the scope of the AER wholesale market monitoring functions;
+(b) the collection of information for the purposes of this Division;
+(c) the publication and reporting of information under this Division.
+(2) Without limiting what may be included in wholesale market monitoring guidelines, the guidelines must include the following:
+(a) information about the things the AER proposes to consider in assessing—
+(i) effective competition in wholesale gas markets; and
+(ii) the effective functioning of wholesale gas markets;
+(b) a summary of the compliance obligations of persons who hold information;
+(c) the processes the AER proposes to adopt in requesting information, including processes designed to minimise the time and resources wholesale gas market participants will devote to responding to a request;
+(d) the type of information the AER expects to routinely request and how frequently it will request that information;
+(e) the type of information the AER does not expect to request;
+(f) classes of relevant agreements the AER does not expect to request;
+(g) the formats in which the AER expects information to be submitted;
+(h) a general outline of the way the AER will ensure that commercially sensitive information obtained for wholesale market monitoring functions is kept securely;
+(i) other matters prescribed by the Regulations or the Rules.
+(3) Before making wholesale market monitoring guidelines the AER must consult in accordance with the Rules.
+(4) Wholesale market monitoring guidelines must be—
+(a) made in accordance with the Rules; and
+(b) published on the AER website within 6 months after commencement of this section.
+30AU—Review of wholesale market monitoring powers
+The MCE is to review the operation of this Division as soon as possible after the period of 4 years and 6 months after the commencement of this section.
 Division 1A—Rate of return instrument
 Subdivision 1—Preliminary
 30A—Definitions
@@ -1223,6 +1443,7 @@ See Schedule 2 clause 47B, which provides for criminal penalty amounts to be adj
 (15) Any information, evidence or document obtained under subsection (14)(b) may be used in any proceedings if it is found to be relevant to those proceedings.
 (16) The Regulations may make any other provision in relation to the form, content or service of a notice under this section.
 (17) An annual report for the AER must include the following information relating to the relevant reporting period for that report:
+(aa) the number of notices given under this section for the purposes of a function under Division 1AA;
 (a) the number of notices (if any) given under subsection (2)(c) during the reporting period to appear to provide information or to give evidence orally;
 (b) in relation to a notice under paragraph (a)—a general description of the nature of the matter or matters in respect of which the notice was given;
 (c) the number of proceedings (if any) commenced during the reporting period to challenge a notice given under subsection (2)(c) to appear to provide information or to give evidence orally.
@@ -4371,6 +4592,23 @@ amended objective means the national gas objective as in force on the commenceme
 (8) Rules in the nature of a derogation may be made under this section even though no request has been made for the derogation.
 (9) In this section—
 other gas amendments means the amendments made to this Law by the Statutes Amendment (National Energy Laws) (Other Gases) Act 2023.
+294FE—South Australian Minister to make initial Rules relating to wholesale market monitoring matters
+(1) The South Australian Minister may make Rules for the following:
+(a) the making of—
+(i) market monitoring information orders; and
+(ii) wholesale market monitoring guidelines;
+(b) the way the AER consults—
+(i) on the wholesale market monitoring guidelines under section 30AT(3); and
+(ii) the public, under section 30AM, before making a market monitoring information order.
+(2) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
+(3) Section 74(3) applies to Rules made under subsection (1) in the same way as it applies to Rules being made by the AEMC.
+(4) As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
 Division 2—Rules made by Minister from time to time
 294G—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The South Australian Minister may make Rules recommended by the MCE in accordance with subsection (2).
