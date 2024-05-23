@@ -29,13 +29,6 @@ Division 2—Functions of Committee
 Part 5E—Crime and Public Integrity Policy Committee
 Division 1—Establishment and membership of Committee
 Division 2—Functions of Crime and Public Integrity Policy Committee
-Part 5F—COVID-19 Direction Accountability and Oversight Committee
-Editorial note—
-Part 5F has expired.
-Division 1—Preliminary
-Division 2—Establishment and membership of Committee
-Division 3—Functions of COVID-19 Direction Accountability and Oversight Committee
-Division 4—Expiry of Part
 Part 6—General provisions
 Division 1—References, reports and Ministerial response
 Division 2—Term of office, proceedings and powers of Committees
