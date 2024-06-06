@@ -720,6 +720,7 @@ Typical triple road train
 road transport means transport by road;
 Road Vehicle Standards Act 2018 means the Road Vehicle Standards Act 2018 of the Commonwealth;
 route assessment, for the purposes of Chapter 4 Part 7, has the meaning given by section 154;
+safer freight vehicle has the meaning given by section 153A(2);
 safety duty means a duty imposed under any of the following provisions:
 (a) section 26C;
 (b) section 26E(1) or (2);
@@ -2209,6 +2210,8 @@ restricted access vehicle means a heavy vehicle that (together with its load) is
 (i) if a single vehicle other than an articulated bus—12.5m; or
 (ii) if an articulated bus—18m; or
 (iii) if a combination—19m;
+safer freight vehicle means a single heavy motor vehicle that meets the requirements prescribed for the purposes of this definition by the national regulations, but does not include a bus;
+single heavy motor vehicle means a motor vehicle that, on its own, is a heavy vehicle;
 specified semitrailer means a semitrailer that—
 (a) is not a PBS vehicle; and
 (b) has an air suspension system with effective dampers fitted; and
@@ -2226,7 +2229,12 @@ Although this section does not apply to certain combinations, a combination that
 (b) a specified PBS vehicle as defined in section 136(2); or
 Note—
 All other PBS vehicles are class 2 heavy vehicles (see section 136).
-(c) a specified semitrailer.
+(c) a specified semitrailer; or
+(d) a safer freight vehicle; or
+(e) a combination that—
+(i) includes a safer freight vehicle, together with its load, that is the only component vehicle wider than 2.5m; and
+(ii) is not higher than 4.3m; and
+(iii) is not longer than 19m.
 Part 7—Particular provisions about mass or dimension authorities
 Division 1—Preliminary
 154—Definitions for Chapter 4 Part 7
