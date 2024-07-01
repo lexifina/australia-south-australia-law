@@ -136,10 +136,11 @@ impairment, in relation to a person, means the person has a physical or mental i
 (b) for a student, the student's capacity to undertake clinical training—
 (i) as part of the approved program of study in which the student is enrolled; or
 (ii) arranged by an education provider.
+interim prohibition order, for Division 7A of Part 8, see section 159B.
 local registration authority means an entity having functions under a law of a State or Territory that include the registration of persons as health practitioners.
 mandatory notification means a notification an entity is required to make to the National Agency under Division 2 of Part 8.
 medical practitioner means a person who is registered under this Law in the medical profession.
-Ministerial Council means the COAG Health Council, or a successor of the Council by whatever name called, constituted by Ministers of the governments of the participating jurisdictions and the Commonwealth with portfolio responsibility for health.
+Ministerial Council means a body, however described, that consists of the Minister of each participating jurisdiction, and the Commonwealth, who is responsible, or principally responsible, for matters relating to health.
 National Agency means the Australian Health Practitioner Regulation Agency established by section 23.
 National Board means a National Health Practitioner Board continued or established by regulations made under section 31.
 National Register means the Register kept by a National Board under section 222.
@@ -218,6 +219,7 @@ specialist title, in relation to a recognised specialty, means a title that is a
 State or Territory Board has the meaning given by section 36.
 student means a person whose name is entered in a student register as being currently registered under this Law.
 student register, for a health profession, means a register kept under section 229 by the National Board established for the profession.
+suspension period, in relation to a person's registration in a health profession, for Subdivision 2 of Division 9 of Part 7, see section 112A.
 unprofessional conduct, of a registered health practitioner, means professional conduct that is of a lesser standard than that which might reasonably be expected of the health practitioner by the public or the practitioner's professional peers, and includes—
 (a) a contravention by the practitioner of this Law, whether or not the practitioner has been prosecuted for, or convicted of, an offence in relation to the contravention; and
 (b) a contravention by the practitioner of—
@@ -282,6 +284,7 @@ Part 2—Ministerial Council
 Note—
 An accreditation standard for a health profession is a standard used to assess whether a program of study, and the education provider that provides the program, provide persons who complete the program with the knowledge, skills and professional attributes to practise the profession in Australia. Accreditation standards are developed and approved under Division 3 of Part 6.
 (3) The Ministerial Council may, at any time, ask a National Board to review an approved or proposed registration standard for the health profession for which the National Board is established.
+(4) The Ministerial Council may delegate any of the Council's powers under subsection (1) to an entity it considers appropriate to exercise the power.
 13—Approvals in relation to specialist registration
 (1) The following health professions, or divisions of health professions, are health professions for which specialist recognition operates under this Law—
 (a) the medical profession;
@@ -677,8 +680,8 @@ relevant law means—
 (1) The period of registration that is to apply to a health practitioner granted general registration in a health profession is the period (the registration period), not more than 12 months, decided by the National Board established for the profession and published on the Board's website.
 (2) If the National Board decides to register a health practitioner in the health profession during a registration period, the registration—
 (a) starts—
-(i) when the Board makes the decision; or
-(ii) on the later day stated by the Board, not more than 90 days after the day the Board makes the decision; and
+(i) if the Board specifies a day, not more than 90 days after the day the Board makes the decision—on that day; or
+(ii) otherwise—when the Board makes the decision; and
 (b) expires at the end of the last day of the registration period.
 Division 2—Specialist registration
 57—Eligibility for specialist registration
@@ -711,7 +714,9 @@ For the purposes of section 57(1)(b)(ii), if the National Board requires an indi
 61—Period of specialist registration
 (1) The period of registration that is to apply to a health practitioner granted specialist registration in a recognised specialty in a health profession is the period (the registration period), not more than 12 months, decided by the National Board established for the profession and published on the Board's website.
 (2) If the National Board decides to register a health practitioner in a recognised specialty for the health profession during a registration period, the specialist registration—
-(a) starts when the Board makes the decision; and
+(a) starts—
+(i) if the Board specifies a day, not more than 90 days after the day the Board makes the decision—on that day; or
+(ii) otherwise—when the Board makes the decision; and
 (b) expires at the end of the last day of the registration period.
 Division 3—Provisional registration
 62—Eligibility for provisional registration
@@ -731,7 +736,9 @@ Division 3—Provisional registration
 (a) the period decided by the National Board established for the profession, but not more than 12 months, and published on the Board's website; or
 (b) the longer period prescribed by a regulation.
 (2) If the National Board decides to register a health practitioner in the health profession during a registration period, the registration—
-(a) starts when the Board makes the decision; and
+(a) starts—
+(i) if the Board specifies a day, not more than 90 days after the day the Board makes the decision—on that day; or
+(ii) otherwise—when the Board makes the decision; and
 (b) expires at the end of the last day of the registration period.
 (3) Provisional registration may not be renewed more than twice.
 Note—
@@ -784,7 +791,9 @@ health services means the provision of services by health practitioners in a par
 72—Period of limited registration
 (1) The period of registration that is to apply to a health practitioner granted limited registration in a health profession is the period (the registration period), not more than 12 months, decided by the National Board established for the profession and published on the Board's website.
 (2) If the National Board decides to register a health practitioner in the health profession during a registration period, the registration—
-(a) starts when the Board makes the decision; and
+(a) starts—
+(i) if the Board specifies a day, not more than 90 days after the day the Board makes the decision—on that day; or
+(ii) otherwise—when the Board makes the decision; and
 (b) expires at the end of the last day of the registration period.
 (3) Limited registration may not be renewed more than 3 times.
 Note—
@@ -808,7 +817,9 @@ A National Board may decide an individual is not a suitable person to hold non�
 76—Period of non‑practising registration
 (1) The period of registration that is to apply to a health practitioner granted non‑practising registration in a health profession is the period (the registration period), not more than 12 months, decided by the National Board established for the profession and published on the Board's website.
 (2) If the National Board decides to register a health practitioner in the health profession during a registration period, the registration—
-(a) starts when the Board makes the decision; and
+(a) starts—
+(i) if the Board specifies a day, not more than 90 days after the day the Board makes the decision—on that day; or
+(ii) otherwise—when the Board makes the decision; and
 (b) expires at the end of the last day of the registration period.
 Division 6—Application for registration
 77—Application for registration
@@ -1102,6 +1113,7 @@ If a National Board decides to endorse a registered health practitioner's regist
 106—Failure to decide application for endorsement
 If a National Board fails to decide an application for endorsement within 90 days after its receipt, or the longer period agreed between the Board and the applicant, the failure by the Board to make a decision is taken to be a decision to refuse to endorse the applicant's registration.
 Division 9—Renewal of registration
+Subdivision 1—Renewal of registration of registered health practitioner
 107—Application for renewal of registration or endorsement
 (1) A registered health practitioner may apply to the National Board established for the practitioner's health profession for renewal of the health practitioner's registration.
 (2) An application for renewal of a registered health practitioner's registration must be made not later than one month after the practitioner's period of registration ends.
@@ -1169,9 +1181,34 @@ A failure by a registered health practitioner to comply with a condition of the 
 (b) the reasons for the decision; and
 (c) that the applicant may appeal against the decision; and
 (d) how an application for appeal may be made and the period within which the application must be made.
-(6) A registration, including any endorsement of the registration, renewed under this Division—
+(6) A registration, including any endorsement of the registration, renewed under this Subdivision—
 (a) starts on the day immediately after the applicant's previous period of registration ends or ended; and
 (b) expires at the end of the day that is 12 months after the day it starts.
+Subdivision 2—Renewal of registration after suspension period
+112A—Application of Subdivision
+(1) This Subdivision applies if, during a period (the suspension period) in which a person's registration in a health profession is suspended under this Law, the person's registration would have ended if the person were not suspended.
+(2) Section 108(2) does not apply to a registration to which this Subdivision applies.
+112B—Application for renewal of registration
+(1) The person's registration as a registered health practitioner is reinstated on the day the suspension period ends.
+(2) If the registered health practitioner intends to renew the practitioner's registration in the profession, the practitioner must apply to the National Board established for the practitioner's health profession within one month after the suspension period ends.
+(3) If the practitioner's registration has been endorsed by the National Board, the application for renewal of the practitioner's registration is taken to also be an application for a renewal of the endorsement.
+(4) The application for renewal of registration must be—
+(a) in the form approved by the National Board; and
+(b) accompanied by the relevant fee; and
+(c) accompanied by the annual statement required under section 109, as applied by section 112D; and
+(d) accompanied by any other information reasonably required by the Board.
+112C—End of registration
+(1) If a registered health practitioner applies to renew the practitioner's registration under section 112B, the applicant's registration, including any endorsement of the registration, continues in force from the day the suspension period ends until—
+(a) if the National Board decides to renew the applicant's registration—the day a new certificate of registration is issued to the applicant; or
+(b) if the National Board decides to refuse to renew the applicant's registration—the day the applicant is given notice of the decision.
+(2) If a registered health practitioner does not apply to renew the practitioner's registration under section 112B, the practitioner's registration, including any endorsement of the registration, continues in force from the day the suspension period ends until the end of the day that is one month after the day on which the suspension period ends.
+112D—Sections 109 to 112 apply to application for renewal under this Subdivision
+(1) Sections 109 to 112 apply to an application for renewal of registration made under this Subdivision as if the application had been made under section 107 for renewal of registration under Subdivision 1.
+(2) For the purposes of subsection (1)—
+(a) section 109 applies as if a reference in that section to the applicant's preceding period of registration were a reference to both the applicant's period of registration preceding the suspension period and the suspension period; and
+(b) section 112(2)(c) applies as if a reference in that paragraph to the applicant's previous period of registration were a reference to both the applicant's period of registration preceding the suspension period and the suspension period; and
+(c) section 112(3)(a) applies as if a reference in that paragraph to immediately before the renewal were a reference to immediately before the start of the suspension period; and
+(d) section 112(6) applies as if a reference in that subsection to this Subdivision were a reference to Subdivision 2.
 Division 10—Title and practice protections
 Subdivision 1—Title protections
 113—Restriction on use of protected titles
@@ -1405,6 +1442,9 @@ Subdivision 1—Certificates of registration
 (2) The National Board must, as soon as practicable after the decision is made, give the registered health practitioner a certificate of registration in the form decided by the Board.
 (3) A certificate of registration must include the following—
 (a) the name of the registered health practitioner;
+(aa) any alternative name for the practitioner that has been notified to the National Board under section 131A, unless—
+(i) the alternative name is a prohibited name; and
+(ii) the National Board has decided under section 131A(2)(b) to refuse to include the name on the registered health practitioner's certificate of registration;
 (b) the type of registration granted and, if the registration is endorsed, the type of endorsement granted;
 (c) the date the registration or endorsement was granted;
 (d) the division of the register, if any, in which the practitioner is registered;
@@ -1533,7 +1573,37 @@ scheduled medicine offence means an offence against a law of a participating jur
 (1) A registered health practitioner must, within 30 days of any of the following changes happening, give the National Board established for the practitioner's health profession written notice of the change and any evidence providing proof of the change required by the Board—
 (a) a change in the practitioner's principal place of practice;
 (b) a change in the address provided by the registered health practitioner as the address the Board should use in corresponding with the practitioner;
-(c) a change in the practitioner's name.
+(c) a change in—
+(i) the practitioner's name; or
+(ii) an alternative name for the practitioner notified to the Board under section 131A.
+(2) A contravention of subsection (1) by a registered health practitioner does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
+131A—Nomination of an alternative name
+(1) A registered health practitioner registered in a health profession, or an applicant for registration in a health profession, may, by written notice given to the National Board for the health profession, nominate an alternative name.
+(2) If the alternative name nominated by a registered health practitioner is a prohibited name, the National Board may decide to—
+(a) refuse to record the name in a National Register or Specialists Register; and
+(b) refuse to include the name on the registered health practitioner's certificate of registration.
+(3) If the National Board makes a decision under subsection (2), it must give written notice of the decision, including the reasons for the decision, to the registered health practitioner.
+(4) In this section—
+prohibited name means a name that—
+(a) is obscene or offensive; or
+(b) could not practicably be established by repute or usage—
+(i) because it is too long; or
+(ii) because it consists of or includes symbols without phonetic significance; or
+(iii) because it is or includes a statement or phrase; or
+(iv) for another reason; or
+(c) includes or resembles—
+(i) an official title or rank; or
+(ii) a protected title specified in the Table to section 113; or
+(iii) a specialist title; or
+(iv) the title "dental specialist"; or
+(v) the title "medical specialist"; or
+(d) is contrary to the public interest for another reason.
+131B—Use of names
+(1) A registered health practitioner must not use a name in connection with the practitioner's provision of a health service, including advertising the provision of a health service, other than—
+(a) either or both of the following names recorded in a National Register or Specialists Register under section 225—
+(i) the practitioner's name;
+(ii) an alternative name for the practitioner notified to the Board under section 131A; or
+(b) a business name.
 (2) A contravention of subsection (1) by a registered health practitioner does not constitute an offence but may constitute behaviour for which health, conduct or performance action may be taken.
 132—National Board may ask registered health practitioner for practice information
 (1) A National Board may, at any time by written notice given to a health practitioner registered in a health profession for which the Board is established, ask the practitioner to give the Board a written notice containing practice information for the practitioner.
@@ -1899,6 +1969,190 @@ A registered health practitioner is charged with a serious criminal offence, unr
 159A—Board may give information to notifier about immediate action
 (1) This section applies if a notification about a registered health practitioner or student results in immediate action by a National Board under this division in relation to the practitioner or student.
 (2) After deciding to take the immediate action, the National Board may inform the notifier who made the notification of the decision and the reasons for the decision.
+Division 7A—Interim prohibition orders
+159B—Definitions
+In this Division—
+interim prohibition order, in relation to an individual named in the order, means an order in relation to any or all of the following—
+(a) prohibiting the individual from doing either or both of the following—
+(i) providing a specified health service or all health services;
+(ii) taking or using a specified title or any title protected under Subdivision 1 of Division 10 of Part 7;
+(b) imposing restrictions on the provision of a specified health service or all health services by the individual.
+relevant provision means any of the following provisions—
+(a) section 113;
+(b) sections 115 to 119;
+(c) sections 121 to 123;
+(d) section 133;
+(e) section 136.
+159C—Issuing of interim prohibition order
+(1) A regulatory body may issue an interim prohibition order to an unregistered person if—
+(a) the person—
+(i) has, in the regulatory body's reasonable belief, contravened a relevant provision; or
+(ii) is the subject of an assessment, investigation or other proceedings under this Part; and
+(b) the regulatory body reasonably believes that—
+(i) the person poses a serious risk to persons; and
+(ii) it is necessary that the person be subject to an interim prohibition order to protect public health or safety.
+(2) Subsection (1)(a) extends to an unregistered person who—
+(a) contravened a relevant provision while the person was a registered health practitioner; or
+(b) is the subject of an assessment, investigation or other proceedings under this Part in relation to the person's conduct while the person was a registered health practitioner.
+159D—Show cause process for interim prohibition orders
+(1) If a regulatory body proposes to issue an interim prohibition order to an unregistered person, the body must give the person notice of the proposed order.
+(2) Notice under subsection (1)—
+(a) may be given in writing or verbally; and
+(b) must invite the unregistered person to make written or verbal submissions to the regulatory body, within the stated time, about the proposed interim prohibition order.
+(3) After considering any submission made by the unregistered person in accordance with the notice, the regulatory body must—
+(a) decide whether or not to issue the interim prohibition order; and
+(b) immediately after making the decision, give the unregistered person written notice of the body's decision.
+(4) The notice of the regulatory body's decision must include the following—
+(a) the decision made by the body;
+(b) the reasons for the body's decision;
+(c) if the decision is to issue the interim prohibition order—
+(i) that the unregistered person may appeal against the decision; and
+(ii) how an application for an appeal may be made; and
+(iii) the period within which the application must be made.
+159E—Decision to take urgent action to issue interim prohibition order
+(1) This section applies if a regulatory body—
+(a) proposes to issue an interim prohibition order to an unregistered person under section 159C; and
+(b) reasonably believes it is necessary to take urgent action to issue the interim prohibition order to protect public health or safety.
+(2) Despite section 159D, the regulatory body may issue the unregistered person with an interim prohibition order without complying with the requirements of that section.
+(3) The interim prohibition order must be accompanied by a notice inviting the unregistered person to make a written or verbal submission to the regulatory body, within the time stated in the notice, about the interim prohibition order.
+(4) The time stated in the notice for the making of the submission must not be less than 7 days after the notice is given to the unregistered person.
+(5) The regulatory body must consider any submissions made by the unregistered person within a reasonable time.
+(6) After considering any submission made by the unregistered person in accordance with the notice, the regulatory body must—
+(a) decide to confirm the issue of the interim prohibition order or revoke it; and
+(b) give the unregistered person written notice of the body's decision.
+(7) The notice of the regulatory body's decision must include the following—
+(a) the decision made by the body;
+(b) the reasons for the body's decision;
+(c) if the decision is to confirm the issue of the interim prohibition order—
+(i) that the unregistered person may appeal against the decision; and
+(ii) how an application for an appeal may be made; and
+(iii) the period within which the application must be made.
+159F—Duration of interim prohibition order
+(1) An interim prohibition order starts on the later of the following days—
+(a) the day the order is issued to the unregistered person the subject of the order;
+(b) the day, if any, stated in the order.
+(2) Subject to section 159J(3), an interim prohibition order ends on—
+(a) unless the order is revoked or extended by a regulatory body—
+(i) the day that is 60 days after the day on which the order starts; or
+(ii) the day stated in the order, which cannot be more than 60 days after the day on which the order starts; or
+(b) the day the order is revoked under section 159G; or
+(c) if the order is extended by a regulatory body under section 159H—the day decided by the regulatory body.
+159G—Revocation or variation of interim prohibition order
+(1) A regulatory body must, as soon as practicable, revoke an interim prohibition order issued by the regulatory body to an unregistered person if the regulatory body is satisfied the grounds on which the order was issued—
+(a) no longer exist in relation to the person; or
+(b) did not exist at the time the interim prohibition order was issued to the person.
+(2) Despite subsection (1), a regulatory body may vary the grounds on which an interim prohibition order was issued to an unregistered person (a varied interim prohibition order) if the regulatory body—
+(a) is satisfied a different or additional ground specified in section 159C(1)(a) exists in relation to the person; and
+(b) continues to reasonably believe the ground specified in section 159C(1)(b) exists in relation to the person.
+(3) Section 159E(3) to (7) applies to the varied interim prohibition order, with any necessary modifications, as if it were the issue of an interim prohibition order.
+(4) Despite subsections (1) and (2), an interim prohibition order that has been extended or substituted by a responsible tribunal may only be revoked or varied by the tribunal.
+Note—
+See sections 159L and 159M.
+159H—Extension of interim prohibition order by regulatory body
+(1) A regulatory body may extend an interim prohibition order, by a period of not more than 60 days, if the body reasonably believes it is necessary in the circumstances.
+(2) Sections 159C to 159E apply to the proposed extension of an interim prohibition order, with any necessary modifications, as if it were the proposed issue of an interim prohibition order.
+(3) A regulatory body may extend an interim prohibition order under this section only once.
+159I—Regulatory body may give information to notifier about interim prohibition order
+(1) This section applies if either of the following results in the issue of an interim prohibition order to an unregistered person—
+(a) a notification about an unregistered person who was, but is no longer, a registered health practitioner;
+(b) a complaint about an unregistered person.
+(2) After issuing or extending the interim prohibition order, the regulatory body may inform the following persons of the decision to issue or extend the order and the reasons for the decision—
+(a) the notifier who made the notification;
+(b) the person who made the complaint.
+159J—Application for extension of interim prohibition order by regulatory body
+(1) This section applies if a regulatory body reasonably believes either of the following grounds still exist and will continue to exist beyond the day on which the interim prohibition order will expire—
+(a) the grounds on which the order was issued;
+(b) the grounds on which the order was varied.
+(2) The regulatory body may, before the interim prohibition order expires, apply to a responsible tribunal to extend the order.
+(3) If the regulatory body applies to a responsible tribunal for an extension of the interim prohibition order, the order continues until—
+(a) if the tribunal confirms the order—the day the order would have ended under section 159F; or
+(b) if the tribunal extends the order—the day the tribunal decides the order will end; or
+(c) if the tribunal substitutes another interim prohibition order for the order issued by the regulatory body—the day the substituted order starts; or
+(d) if the order is set aside—the day the order is set aside.
+159K—Decision about extension of interim prohibition order
+(1) After hearing an application under section 159J about an interim prohibition order, the responsible tribunal may decide—
+(a) an interim prohibition order is necessary; or
+(b) an interim prohibition order is not necessary.
+(2) Without limiting subsection (1), in deciding whether an interim prohibition order is necessary, the responsible tribunal must have regard to—
+(a) the nature and extent of the risk the unregistered person, because of the person's health, conduct or performance, poses to—
+(i) persons; or
+(ii) public health or safety; and
+(b) whether the regulatory body has acted, and is continuing to act, as quickly as practicable in the circumstances to deal with the matter that forms the grounds for issuing the interim prohibition order.
+(3) If the responsible tribunal decides an interim prohibition order is necessary, it may—
+(a) confirm the interim prohibition order issued by the regulatory body; or
+(b) extend the interim prohibition order issued by the regulatory body, with or without amendment, for the period the tribunal considers appropriate in the circumstances; or
+(c) substitute another interim prohibition order for the order issued by the regulatory body.
+(4) If the responsible tribunal substitutes another interim prohibition order for the order issued by the regulatory body, the substituted order continues for the period the tribunal considers appropriate in the circumstances.
+(5) If the responsible tribunal decides an interim prohibition order is not necessary, the interim prohibition order is set aside.
+159L—Revocation of extended or substituted interim prohibition order by responsible tribunal
+(1) This section applies if—
+(a) a responsible tribunal has extended or substituted an interim prohibition order under section 159K(3) (an extended or substituted interim prohibition order); and
+(b) a regulatory body is satisfied the grounds on which the interim prohibition order was issued—
+(i) no longer exist in relation to the person; or
+(ii) did not exist at the time the interim prohibition order was issued.
+(2) A regulatory body may, before the extended or substituted interim prohibition order ends, apply to the responsible tribunal to revoke the order.
+(3) If the regulatory body applies to the responsible tribunal for the revocation of the extended or substituted interim prohibition order, the order continues until—
+(a) if the responsible tribunal decides the order is necessary—the day on which the order ends; or
+(b) the day the order is revoked under subsection (5).
+(4) After hearing a matter about an extended or substituted interim prohibition order, the responsible tribunal may decide—
+(a) an interim prohibition order is necessary; or
+(b) an interim prohibition order is not necessary.
+(5) If the responsible tribunal decides an interim prohibition order is not necessary, the order is revoked.
+159M—Variation of interim prohibition order by responsible tribunal
+(1) This section applies if—
+(a) a responsible tribunal has extended or substituted an interim prohibition order under section 159K(3) (an extended or substituted interim prohibition order); and
+(b) a regulatory body—
+(i) is satisfied a different or additional ground specified in section 159C(1)(a) exists in relation to the person; and
+(ii) continues to reasonably believe the ground specified in section 159C(1)(b) exists in relation to the person.
+(2) A regulatory body may, before the extended or substituted interim prohibition order ends, apply to the responsible tribunal to vary the order.
+(3) After hearing an application under subsection (2), the responsible tribunal may decide—
+(a) not to vary the extended or substituted interim prohibition order if the tribunal is not satisfied a different or additional ground specified in section 159C(1)(a) exists in relation to the person; or
+(b) to vary the extended or substituted interim prohibition order if the tribunal is satisfied—
+(i) a different or additional ground specified in section 159C(1)(a) exists in relation to the person; and
+(ii) the ground specified in section 159C(1)(b) continues to exist in relation to the person; or
+(c) an interim prohibition order is not necessary.
+(4) If the responsible tribunal decides an interim prohibition order is not necessary, the order is revoked.
+159N—Publication of information about interim prohibition orders
+(1) The National Agency must publish the following information about a person subject to an interim prohibition order on its website—
+(a) the person's name;
+(b) the day the order starts;
+(c) the action prohibited or restrictions imposed by the order.
+(2) If the name of the person subject to an interim prohibition order is included in a National Register or Specialists Register, the requirement in subsection (1) is satisfied if the information specified in that subsection is included in the register.
+(3) The requirement to publish the information does not apply if—
+(a) the regulatory body that issued the order—
+(i) issued the order without complying with the requirements of section 159D; and
+(ii) reasonably believes there is no overriding public interest in the publication of the information; or
+(b) the person subject to the order asks the regulatory body that issued the order not to publish the information and the regulatory body reasonably believes the publication of the information would present a serious risk to the health or safety of—
+(i) the person; or
+(ii) a member of the person's family or an associate of the person.
+(4) If a regulatory body decides to confirm the issue of the interim prohibition order after considering any submission made by the unregistered person under section 159E(5), the regulatory body must publish the information specified in subsection (1).
+(5) Despite subsection (4), a regulatory body may decide not to publish the information specified in subsection (1) if—
+(a) the person subject to the order asks the regulatory body not to publish the information; and
+(b) the regulatory body reasonably believes the publication of the information would present a serious risk to the health or safety of—
+(i) the person; or
+(ii) a member of the person's family or an associate of the person.
+(6) If an interim prohibition order is revoked or set aside—
+(a) a regulatory body must remove the information specified in subsection (1) from its website; and
+(b) for information included in a National Register or Specialists Register—the National Board must remove the information specified in subsection (1) from the register.
+(7) In this section—
+associate, of a person, includes a friend, neighbour or colleague of the person.
+family, of a person, includes—
+(a) other persons related to the person by blood, marriage or adoption, for example, the person's spouse, children and parents; and
+(b) other persons in a de facto relationship with the person; and
+(c) other persons connected to the person through Aboriginal and Torres Strait Islander kinship ties.
+159O—Offences relating to interim prohibition orders
+(1) A person must not contravene an interim prohibition order.
+Maximum penalty: $60 000 or 3 years imprisonment or both.
+(2) A person who is subject to an interim prohibition order (the prohibited person) must, before providing a health service, give written notice of the order to the following persons—
+(a) the person to whom the prohibited person intends to provide the health service or, if that person is under 16 years of age or under guardianship, a parent or guardian of the person;
+(b) if the health service is to be provided by the prohibited person as an employee—the person's employer;
+(c) if the health service is to be provided by the prohibited person under a contract for services or any other arrangement with an entity—that entity;
+(d) if the health service is to be provided by the prohibited person as a volunteer for or on behalf of an entity—that entity.
+Maximum penalty: $5 000.
+(3) A person must not advertise a health service to be provided by a prohibited person unless the advertisement states that the prohibited person is subject to an interim prohibition order.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
 Division 7B—Public statements
 159P—Definition
 In this Division—
@@ -2056,7 +2310,7 @@ The registered health practitioner's principal place of practice.
 (a) inspect the document; and
 (b) make a copy of, or take an extract from, the document; and
 (c) keep the document while it is necessary for the assessment.
-(2) If the assessor keeps the document, the assessor must permit a person otherwise entitled to possession of the document to inspect, make a copy of, or take an extract from, the document at the reasonable time and place decided by the assessor.
+(2) If the assessor keeps the document, the assessor must permit a person otherwise entitled to possession of the document to inspect, make a copy of, or take an extract from, the document at the reasonable time and in the reasonable way decided by the assessor.
 175—Report from assessor
 The assessor must, as soon as practicable after carrying out the assessment, give to the National Board a report about the assessment.
 176—Copy of report to be given to health practitioner or student
@@ -2336,6 +2590,7 @@ Division 13—Appeals
 (f) a decision by a National Board to refuse to change or remove a condition imposed on the person's registration or the endorsement of the person's registration;
 (g) a decision by a National Board to refuse to change or revoke an undertaking given by the person to the Board;
 (h) a decision by a National Board to suspend the person's registration;
+(ha) a decision by a regulatory body to issue or extend an interim prohibition order under Division 7A;
 (hb) a decision by a regulatory body to make or revise a public statement under Division 7B;
 (i) a decision by a panel to impose a condition on the person's registration;
 (j) a decision by a health panel to suspend the person's registration;
@@ -2589,7 +2844,8 @@ Division 3—Registers in relation to registered health practitioner
 (3) If divisions are listed beside the public national register in column 2 of the table, the register is to be kept in a way that ensures it includes those divisions.
 (4) In addition, a public national register for a health profession is to include—
 (a) the names of all health practitioners (other than specialist health practitioners) whose registration has been cancelled by an adjudication body; and
-(b) the names of all persons (other than specialist health practitioners or persons who were previously specialist health practitioners) subject to a prohibition order.
+(b) the names of all persons (other than specialist health practitioners or persons who were previously specialist health practitioners) subject to a prohibition order; and
+(c) the names of all persons who were previously registered health practitioners (other than persons who were previously specialist health practitioners) who are subject to an interim prohibition order.
 (5) A public national register required to be kept under this section is to be kept by the National Board prescribed by the regulations for the register, in conjunction with the National Agency.
 Table—Public national registers
 Name of public national register │ Divisions of public national register │
@@ -2614,14 +2870,18 @@ The National Board established for a health profession for which specialist reco
 (a) a public national specialists register that includes the names of all specialist health practitioners currently registered in a health profession for which the Board is established; and
 (b) a public national register that includes the names of all—
 (i) specialist health practitioners whose registration has been cancelled by an adjudication body; and
-(ii) persons who are subject to a prohibition order.
+(ii) persons who are subject to a prohibition order; and
+(iii) persons who were previously specialist health practitioners who are subject to an interim prohibition order.
 224—Way registers are to be kept
 Subject to this Division, a register a National Board is required to keep under this Division must be kept—
 (a) in a way that ensures it is up-to-date and accurate; and
 (b) otherwise in the way the National Agency considers appropriate.
-225—Information to be recorded in National Register
+225—Information to be recorded in National Register or Specialists Register
 A National Register or Specialists Register must include the following information for each registered health practitioner whose name is included in the register—
 (a) the practitioner's sex;
+(aa) any alternative name for the practitioner that has been notified to the National Board under section 131A, unless—
+(i) the alternative name is a prohibited name; and
+(ii) the National Board has decided under section 131A(2)(a) to refuse to record the name in a National Register or Specialists Register;
 (b) the suburb and postcode of the practitioner's principal place of practice;
 (c) the registration number or code given to the practitioner by the National Board;
 (d) the date on which the practitioner was first registered in the health profession in Australia, whether under this Law or a corresponding prior Act;
@@ -2645,8 +2905,17 @@ A National Register or Specialists Register must include the following informati
 (b) there is no overriding public interest for the condition or the details of the undertaking to be recorded.
 (2) A National Board may decide that information relating to a registered health practitioner is not to be recorded in a National Register or Specialists Register in which the practitioner's name is included if—
 (a) the practitioner asks the Board not to include the information in the register; and
-(b) the Board reasonably believes the inclusion of the information in the register would present a serious risk to the health or safety of the practitioner.
+(b) the Board reasonably believes the inclusion of the information in the register would present a serious risk to the health or safety of—
+(i) the practitioner; or
+(ii) a member of the practitioner's family or an associate of the practitioner.
+(2A) A National Board may decide to record information, which it previously excluded under subsection (2), in a National Register or Specialists Register if the Board reasonably believes the circumstances on which the previous exclusion was based have changed.
 (3) A National Board may decide to remove information that a registered health practitioner has been reprimanded from a National Register or Specialists Register in which the practitioner's name is included if it considers it is no longer necessary or appropriate for the information to be recorded on the Register.
+(4) In this section—
+associate, of a registered health practitioner, includes a friend, neighbour or colleague of the practitioner.
+family, of a registered health practitioner, includes—
+(a) persons related to the practitioner by blood, marriage or adoption, for example, the practitioner's spouse, children and parents; and
+(b) persons in a de facto relationship with the practitioner; and
+(c) persons connected to the practitioner through Aboriginal and Torres Strait Islander kinship ties.
 227—Register about former registered health practitioners
 A register kept by a National Board under section 222 or 223(b) must include the following—
 (a) for each health practitioner whose registration was cancelled by an adjudication body—
@@ -2784,8 +3053,11 @@ Division 2—Inspectors
 (2) However, if for any reason it is not practicable to comply with subsection (1) before exercising the power, the inspector must produce the identity card for the other person's inspection at the first reasonable opportunity.
 Division 3—Legal proceedings
 241A—Proceedings for indictable offences
-(1) An offence against Part 7 Division 10 or section 196A(1) is an indictable offence.
-(2) Despite subsection (1), an offence against Part 7 Division 10 or section 196A(1) may be prosecuted as an indictable offence or a summary offence at the discretion of the prosecutor but, if prosecuted as a summary offence, the maximum penalty that may be imposed is a fine not exceeding $60 000 or imprisonment for 2 years.
+(1) An offence against any of the following provisions is an indictable offence—
+(a) Division 10 of Part 7;
+(b) section 159O(1);
+(c) section 196A(1).
+(2) Despite subsection (1), an offence against Division 10 of Part 7, section 159O(1) or section 196A(1) may be prosecuted as an indictable offence or a summary offence at the discretion of the prosecutor but, if prosecuted as a summary offence, the maximum penalty that may be imposed is a fine not exceeding $60 000 or imprisonment for 2 years.
 242—Proceedings for other offences
 A proceeding for an offence against this Law, other than an offence mentioned in section 241A(1), is to be by way of a summary proceeding before a court of summary jurisdiction.
 243—Conduct may constitute offence and be subject of disciplinary proceedings
@@ -3570,7 +3842,7 @@ Maximum penalty:
 (a) inspect the document; and
 (b) make a copy of, or take an extract from, the document; and
 (c) keep the document while it is necessary for the investigation.
-(2) If the investigator keeps the document, the investigator must permit a person otherwise entitled to possession of the document to inspect, make a copy of, or take an extract from, the document at the reasonable time and place decided by the investigator.
+(2) If the investigator keeps the document, the investigator must permit a person otherwise entitled to possession of the document to inspect, make a copy of, or take an extract from, the document at the reasonable time and in the reasonable way decided by the investigator.
 Part 2—Power to enter places
 4—Entering places
 For the purposes of conducting an investigation, an investigator may enter a place if—
@@ -3758,7 +4030,7 @@ Maximum penalty:
 (a) inspect the document; and
 (b) make a copy of, or take an extract from, the document; and
 (c) keep the document while it is necessary for the investigation.
-(2) If the inspector keeps the document, the inspector must permit a person otherwise entitled to possession of the document to inspect, make a copy of, or take an extract from, the document at the reasonable time and place decided by the inspector.
+(2) If the inspector keeps the document, the inspector must permit a person otherwise entitled to possession of the document to inspect, make a copy of, or take an extract from, the document at the reasonable time and in the reasonable way decided by the inspector.
 Part 2—Power to enter places
 4—Entering places
 An inspector may enter a place if—
