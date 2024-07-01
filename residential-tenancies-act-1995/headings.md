@@ -13,6 +13,7 @@ Division 3—Rent
 Division 4—Bonds
 Division 5—Tenant's entitlement to possession and quiet enjoyment
 Division 6—Security of premises
+Division 6A—Keeping of pets on premises
 Division 7—Landlord's obligation in regard to condition of the premises
 Division 8—Tenant's obligations in relation to the premises and ancillary property
 Division 9—Tenant's conduct on the premises
@@ -21,14 +22,17 @@ Division 10—Landlord's right of entry
 Division 11—Statutory charges
 Division 12—Assignment and sub-letting
 Division 13—Tenant's vicarious liability
+Division 13A—Maximum liability for rent payable following tenant's termination of fixed term tenancy
 Division 14—Harsh or unconscionable terms
 Division 14A—Tenant information
 Division 15—Miscellaneous
 Part 5—Termination of residential tenancy agreements
 Division 1—Termination generally
+Division 1A—Termination following death of sole tenant
 Division 2—Termination by the landlord
 Division 3—Termination by tenant
 Division 4—Termination by the Tribunal
+Division 4A—Tribunal may make orders in relation to retaliatory behaviour and circumstances of domestic abuse
 Division 5—Notices of termination
 Division 6—Repossession of premises
 Division 7—Abandoned property
@@ -37,6 +41,7 @@ Part 5A—Residential tenancy databases
 Part 6—Residential Tenancies Fund
 Part 7—Rooming houses
 Division 1—Interpretation
+Division 1A—Registration of proprietors of designated rooming houses
 Division 2—Rooming house agreements
 Division 3—House rules
 Division 4—Mutual rights and obligations of proprietors and residents
@@ -54,4 +59,5 @@ Subdivision 4—Duties and procedure
 Division 2—Intervention
 Division 3—Powers of the Tribunal
 Division 4—Representation
+Division 5—Other matters
 Part 9—Miscellaneous
