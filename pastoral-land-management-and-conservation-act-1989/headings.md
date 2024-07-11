@@ -10,7 +10,6 @@ Division 1—Public access routes and stock routes
 Division 2—Travelling stock
 Division 2A—Indigenous land use agreements
 Division 3—Public access
-Division 4—Wind farms
 Part 7—Reviews
 Division 1—Reviews by Tribunal
 Division 2—Review of valuation and review by Tribunal

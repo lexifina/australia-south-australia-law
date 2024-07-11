@@ -65,7 +65,7 @@ Division 4—Classification and occupation of buildings
 Division 5—Emergency orders
 Division 6—Swimming pool and building safety
 Division 7—Liability
-Part 12—Mining—special provisions
+Part 12—Mining and renewable energy—special provisions
 Part 13—Infrastructure frameworks
 Division 1—Infrastructure delivery schemes
 Subdivision 1—Interpretation
