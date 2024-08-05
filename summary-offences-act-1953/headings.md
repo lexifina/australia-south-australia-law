@@ -7,6 +7,7 @@ Part 4—Tattooing, body piercing and body modification
 Part 5—Offences against decency and morality
 Part 5A—Filming and sexting offences
 Part 6—Brothels
+Part 6A—Nazi salute or symbols
 Part 7—Indecent or offensive material
 Part 7A—Extremist material
 Part 8—Fraud, unlawful possession etc
