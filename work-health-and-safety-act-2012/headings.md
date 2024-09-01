@@ -5,6 +5,7 @@ Division 3—Interpretation
 Subdivision 1—Definitions
 Subdivision 2—Other important terms
 Division 4—Application of Act
+Division 5—SafeWork SA Advisory Committee
 Part 2—Health and safety duties
 Division 1—Introductory
 Subdivision 1—Principles that apply to duties
@@ -29,6 +30,7 @@ Division 4—Health and safety committees
 Division 5—Issue resolution
 Division 6—Right to cease or direct cessation of unsafe work
 Division 7—Provisional improvement notices
+Division 7A—Work health and safety disputes
 Division 8—Part not to apply to prisoners
 Part 6—Discriminatory, coercive and misleading conduct
 Division 1—Prohibition of discriminatory, coercive or misleading conduct
