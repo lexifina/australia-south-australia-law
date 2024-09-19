@@ -51,6 +51,7 @@ Part 9—Development assessment—Crown development
 Part 10—Development assessment and approval—related provisions
 Division 1—General principles
 Division 2—Buildings
+Division 2A—Protection of Crown and Anchor Hotel as live music venue and development of surrounding land
 Division 3—Trees
 Division 4—Land division certificate
 Division 5—Access to land
