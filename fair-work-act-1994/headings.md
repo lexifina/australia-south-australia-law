@@ -2,10 +2,13 @@ Chapter 1—Preliminary
 Chapter 2—Jurisdiction of SAET—special provisions
 Part 1—Conferral of jurisdiction, declarations and orders
 Part 2—Processes associated with industrial matters and disputes
+Division 1—Processes generally
+Division 2—Processes when constituted as an industrial relations commission
 Part 3—Representation
 Part 4—Concurrent appointments—other industrial authorities
 Part 5—Special provisions relating to monetary claims
 Chapter 3—Employment
+Part A1—Interpretation
 Part 1—General conditions of employment
 Division 1—Basic contractual features
 Division 2—Contracts to be construed subject to relevant minimum standards
@@ -43,6 +46,7 @@ Part 3—Federally based associations
 Division 1—Application for registration
 Division 2—Registration and de-registration
 Division 3—Federations
+Part 3A—Extension of Federal administration of CFMEU
 Part 4—Provisions generally applicable to associations
 Division 1—Purpose of association
 Division 2—Powers of entry and inspection
