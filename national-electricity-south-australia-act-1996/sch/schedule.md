@@ -1822,6 +1822,7 @@ Division 2—Rule making functions and powers of the AEMC
 (aa) facilitating and supporting the provision of services to retail customers; and
 (ab) any matter or thing related to, or necessary or expedient for, the purposes of the Retailer Reliability Obligation; and
 (ac) any matter or thing related to, or necessary or expedient for, the purposes of a trial Rule, trial project or trial waiver; and
+(ad) any matter or thing related to, or necessary or expedient for, the purposes of orderly exit management under Part 8AA; and
 (b) any matter or thing contemplated by this Law, or is necessary or expedient for the purposes of this Law.
 Note—
 The procedure for the making of a Rule by the AEMC is set out in Division 3 of Part 7.
@@ -2916,6 +2917,23 @@ amended objective means the national electricity objective as in force on the co
 (b) if different Rules will commence operation on different dates, those dates.
 (5) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+90EG—South Australian Minister to make initial Rules relating to orderly exit management
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia may make Rules for matters or things necessary or expedient for the following:
+(a) the making of mandatory operation directions under Part 8AA Division 2;
+(b) the information that must be given to the AER, or otherwise disclosed, under Part 8AA Division 3;
+(c) the functions of the financial vehicle under section 118AS;
+(d) the administration of the OEM fund under Part 8AA Division 4 Subdivision 2;
+(e) payments to and by MOD generators under section 118AY;
+(f) the orderly exit management cost recovery mechanism under Part 8AA Division 4 Subdivision 4.
+(2) Section 34(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(3) As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(4) The notice referred to in subsection (3)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(5) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
+(6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
 Subdivision 2—Rules made by Minister from time to time
 90F—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2).
@@ -3362,6 +3380,356 @@ Maximum penalty:
 (b) in the case of a body corporate—$170 000.
 Note—
 See Schedule 2 clause 37B, which provides for criminal penalty amounts to be adjusted every 3 years to reflect movements in the consumer price index. The adjusted amounts are published on the AER's website.
+Part 8AA—Orderly exit management
+Division 1—Preliminary
+118AA—Definitions
+In this Part—
+affiliate, of a Registered participant, means the following:
+(a) a related body corporate of the Registered participant;
+(b) a related entity of the Registered participant;
+(c) a person involved in a joint venture with—
+(i) the Registered participant; or
+(ii) another affiliate of the Registered participant;
+authorised deposit‑taking institution means an authorised deposit-taking institution within the meaning of the Banking Act 1959 of the Commonwealth;
+contribution determination—see section 118AZB(1);
+contribution order—see section 118AZC(1);
+distribution network service provider has the meaning given by the Rules;
+early closure proposal means—
+(a) a notice given to AEMO, after 31 December 2020, in accordance with the Rules that a Registered participant, registered as a Generator, expects a relevant generating unit to cease supplying electricity—
+(i) earlier than the expected closure date previously notified to AEMO; and
+(ii) within 7 years of the date of the notice to AEMO; or
+(b) an application by a Registered participant for a notice exemption for a relevant generating unit;
+financial vehicle means the entity established by the Minister under section 118AS;
+generator payment instrument means a payment order made under section 118AY(1)(b);
+mandatory operation direction—see section 118AD(1);
+mandatory operation period—see section 118AD(2)(e);
+Minister means the Minister of the participating jurisdiction in which the relevant generating unit, to which an early closure proposal applies, is located;
+MOD generating unit means a relevant generating unit subject to a mandatory operation direction;
+notice exemption means an exemption given to a Registered participant by the AER, in accordance with the Rules, from the requirement to notify AEMO of the intended closure date of a relevant generating unit at least 42 months before the intended closure date;
+OEM payments—see section 118AZC(1);
+orderly exit management fund means the fund established by the financial vehicle in accordance with section 118AT;
+payment order means an order made under section 118AY(1);
+related body corporate has the same meaning as in the Corporations Act 2001 of the Commonwealth;
+related entity has the same meaning as in the Corporations Act 2001 of the Commonwealth;
+relevant generating unit means a thermal power turbine and related plant used in the production of electricity that, in accordance with the Rules, is classified as a scheduled generating unit;
+Rules obligations means the obligations imposed on a Registered participant by a Rule made under section 118AD(3)(c);
+voluntary agreement means a voluntary agreement under section 118AH.
+118AB—Application of Part to jurisdiction
+(1) This Part does not apply in a participating jurisdiction unless a regulation, made by the Governor of the participating jurisdiction acting on the recommendation of the Minister, is in force specifying for the jurisdiction—
+(a) the date from which this Part applies; and
+(b) the extent to which this Part applies; and
+(c) the way the financial vehicle is to be established.
+(2) An agreement made between the Minister and a Registered participant before this Part applies in the participating jurisdiction may be prescribed by a regulation made under this section as a voluntary agreement.
+Division 2—Mandatory operation direction
+118AC—Generating units that may be subject to mandatory operation direction
+The Minister may issue a mandatory operation direction for a relevant generating unit if the relevant Registered participant has submitted an early closure proposal for the unit.
+118AD—Mandatory operation direction
+(1) The Minister may issue a mandatory operation direction requiring a Registered participant to operate 1 or more relevant generating units if the Minister is satisfied that giving the direction is necessary—
+(a) for the national electricity system or a region within the national electricity system—
+(i) to maintain power system security; or
+(ii) to maintain system reliability; or
+(b) for reasons of public safety.
+(2) A mandatory operation direction must be given in writing and include the following:
+(a) the Registered participant to whom the direction applies;
+(b) the relevant generating units to which the direction applies;
+(c) the way the relevant generating units must be operated;
+(d) the generating capacity that must be supplied by a relevant generating unit or a group of specified units;
+(e) the period (a mandatory operation period) for which a relevant generating unit must be operated, being—
+(i) if the Registered participant submitted an early closure proposal for the generating unit prior to the commencement of this Part—a period of not more than 3 years after the closure date specified in the early closure proposal; or
+(ii) if the Registered participant submitted an early closure proposal for the generating unit after the commencement of this Part—a period ending no later than the expected closure date previously notified to AEMO;
+(f) the date the mandatory operation period commences;
+(g) the circumstances in which the Minister must consider amending the direction.
+(3) The Rules may—
+(a) prescribe additional matters that must be included in a mandatory operation direction; and
+(b) prescribe the circumstances, or the types of circumstance, that may be specified under subsection (2)(g); and
+(c) prescribe obligations that must be complied with by a Registered participant who receives a mandatory operation direction; and
+(d) make provision for the insurances that must be maintained in respect of a MOD generating unit; and
+(e) make provision for the advice the Minister obtains from AEMO, including the following:
+(i) the scope of advice;
+(ii) matters that must be included in the advice;
+(iii) the way the advice must be given.
+(4) Before issuing a mandatory operation direction, the Minister—
+(a) must obtain advice from AEMO on the following:
+(i) the impact, or likely impact, of the closure of the relevant generating unit on—
+(A) the security of the power system; and
+(B) the reliability of the national electricity system;
+(ii) alternatives to issuing the direction; and
+(b) must be satisfied there are no reasonably practicable alternatives to issuing the direction; and
+(c) may obtain advice from the AER in accordance with the Rules; and
+(d) may obtain and consider other information the Minister considers to be relevant; and
+(e) must give the Registered participant to whom the direction applies and the AER a draft of the proposed direction and an opportunity to comment on the proposed direction.
+(5) The Minister is not required to consider a comment made more than the prescribed number of days after a draft of the proposed direction is given to the Registered participant and the AER under subsection (4)(e).
+(6) In this section—
+maintenance of system reliability includes managing the risk of low probability events that may have a high impact;
+prescribed number of days means—
+(a) 20 business days; or
+(b) the number of business days prescribed by the Rules.
+118AE—Registered participant must comply with mandatory operation direction
+(1) A Registered participant who receives a mandatory operation direction must comply with—
+(a) the direction; and
+(b) the Rules obligations.
+Note—
+This subsection is a civil penalty provision: See the definition of civil penalty provision in section 2AA(1).
+(2) A Registered participant does not incur liability for breach of contract, breach of confidence or another civil wrong by complying with a mandatory operation direction, including the Rules obligations.
+(3) Despite subsection (1), the Rules may prescribe—
+(a) circumstances in which a Registered participant is not required to comply with a mandatory operation direction; and
+(b) the information a Registered participant who is not required to comply with a mandatory operation direction must give the AER.
+118AF—Minister to make information public
+(1) The Minister must, when issuing a mandatory operation direction, make the following information publicly available in accordance with the Rules:
+(a) the reasons the Minister is satisfied, under section 118AD(1), that giving the direction is necessary;
+(b) a list of the energy projects considered before making the direction.
+(2) The Minister must make the following information available in the way and at the time prescribed by the Rules:
+(a) the advice received from AEMO under section 118AD(4)(a)(ii);
+(b) other information prescribed by the Rules.
+(3) In this section—
+energy project includes the following:
+(a) energy generation projects;
+(b) energy storage projects;
+(c) energy transmission projects.
+118AG—AEMO to make information public
+AEMO must make the advice given to the Minister under section 118AD(4)(a)(i) publicly available within 60 days after the advice is given to the Minister.
+118AH—Voluntary agreement
+(1) Before issuing a mandatory operation direction, the Minister must negotiate in good faith to seek agreement with the Registered participant for continued operation of the relevant generating units.
+(2) If the Minister is satisfied, on reasonable grounds, that a Registered participant is not negotiating in good faith, the Minister may terminate the negotiations and issue a mandatory operation direction.
+(3) The Minister does not fail to negotiate in good faith with a Registered participant only because the Minister takes 1 or more steps under section 118AD(4)—
+(a) before or during the negotiations; or
+(b) without the knowledge of the Registered participant.
+(4) The Minister must, within 28 days after entering into a voluntary agreement, make publicly available the Minister's reasons for entering into the agreement.
+Note—
+Section 118AO requires a Registered participant to give certain information to the Minister and the AER at certain times, including at the direction of the Minister or the AER.
+118AI—Mandatory operation direction applies to affiliates
+(1) A mandatory operation direction, including the Rules obligations, applies to an affiliate of a Registered participant in the same way as the direction applies to the Registered participant if the affiliate provides services for 1 or more relevant generating units subject to the mandatory operation direction.
+Note—
+This subsection is a civil penalty provision: See the definition of civil penalty provision in section 2AA(1).
+(2) An affiliate of a Registered participant provides services for a relevant generating unit if the affiliate supplies, contracts for or otherwise arranges the supply of the following for the operation or maintenance of the relevant generating unit:
+(a) fuel, equipment and other goods;
+(b) labour, labour hire and other services.
+(3) An affiliate of a Registered participant does not incur liability for breach of contract, breach of confidence or any other civil wrong, by complying with a mandatory operation direction, including the Rules obligations.
+118AJ—Amendment of mandatory operation direction
+(1) The Minister may amend a mandatory operation direction by revoking the direction and issuing a new direction in accordance with section 118AD.
+(2) When issuing a new mandatory operation direction under this section, the Minister is not required to comply with section 118AD(4)(a) to (d), 118AF(1)(b) or (2) or 118AG.
+(3) The Rules may make provision for matters to be included in a mandatory operation direction reissued under this section.
+118AK—Termination of mandatory operation direction
+(1) The Minister may terminate a mandatory operation direction by giving the Registered participant subject to the direction and the AER written notice specifying—
+(a) that the direction is terminated; and
+(b) the date, not less than 3 months after the date of the notice, on which the termination takes effect.
+(2) The Minister may terminate a mandatory operation direction—
+(a) by agreement with the Registered participant subject to the direction; or
+(b) if the Minister is satisfied, in accordance with the Rules, that effective compliance with the direction is no longer possible; or
+(c) if the Minister otherwise determines on reasonable grounds that the direction should be terminated; or
+(d) in circumstances prescribed by the Rules.
+(3) The AER must, as soon as practicable after receiving a notice under subsection (1), publish the notice on its website.
+(4) A Registered participant is not entitled to compensation, other than as provided for in the Rules, because of the termination of a mandatory operation direction.
+118AL—Closure of generating unit after mandatory operation period
+Immediately after the mandatory operation period applying to a MOD generating unit ends or is terminated under section 118AK—
+(a) the Registered participant that operates the generating unit must cease operating the generating unit; and
+(b) the Registered participant's registration under section 12 in relation to the generating unit ends.
+118AM—Compliance with obligations after closure of generating unit
+A Registered participant who is or was subject to a mandatory operation direction must, in accordance with the Rules, keep in place arrangements to ensure the Registered participant can, on the closure of a MOD generating unit—
+(a) comply with all of the Registered participant's obligations associated with the generating unit; and
+(b) meet all liabilities associated with the generating unit including liabilities arising from closing the unit.
+Division 3—Information and reporting
+118AN—AEMO and AER may disclose information
+(1) The Minister may, for the purposes of this Part, direct AEMO and the AER to provide information and reports to the following:
+(a) the Minister;
+(b) each other.
+(2) The Minister may disclose information obtained under this Part to the AER.
+(3) AEMO and the AER are authorised to disclose information for the purposes of this Part.
+(4) AEMO may disclose information to the AER about the technical performance and reliability of a relevant generating unit subject to a mandatory operation direction.
+118AO—Information must be given to AER
+(1) A Registered participant must give the AER prescribed information as follows:
+(a) for a Registered participant who submits an early closure proposal after the commencement of this Part—when submitting the early closure proposal;
+(b) for a Registered participant who submitted an early closure proposal after 31 December 2020 and before the commencement of this Part—within 28 days after being directed by the Minister or the AER to provide the information.
+(2) Subsection (1)(a) does not apply to an early closure proposal for which the closure date is no more than 30 days earlier than the expected closure date previously notified to AEMO.
+(3) The AER must—
+(a) give a copy of the information received under this section to the Minister; and
+(b) in accordance with the Rules, give a copy of the information received under this section to AEMO.
+(4) The Minister or the AER may direct a Registered participant to provide—
+(a) additional prescribed information; or
+(b) an update of prescribed information previously provided to the AER.
+(5) A Registered participant who receives a direction under subsection (4) must provide the information to—
+(a) the Minister; and
+(b) the AER.
+(6) The Rules may make provision for the way information must be provided under this section.
+(7) In this section—
+prescribed information means information prescribed by the Rules.
+Note—
+Subsections (1) and (5) are civil penalty provisions: See the definition of civil penalty provision in section 2AA(1).
+118AP—AER may request other information
+(1) The AER may, by written notice, request a Registered participant to give the AER the following information:
+(a) information the AER reasonably requires for its functions under this Part;
+(b) other information prescribed by the Rules.
+(2) A notice under this section may—
+(a) be given in the form determined by the AER; and
+(b) specify the way in which the information must be given.
+(3) A Registered participant who receives a request under this section must comply with the request.
+Note—
+Subsection (3) is a civil penalty provision: See the definition of civil penalty provision in section 2AA(1).
+118AQ—Information disclosure
+(1) When the Minister issues a mandatory operation direction, the Minister must publish a notice that includes the following information:
+(a) the Registered participant to whom the direction was issued;
+(b) the relevant generating units to which the notice applies;
+(c) the way the relevant generating units must be operated;
+(d) the generating capacity that must be supplied by the relevant generating units;
+(e) the period for which the relevant generating units must be operated;
+(f) the circumstances in which the Minister must consider amending the direction;
+(g) information prescribed by the Rules.
+(2) If the Minister enters into a voluntary agreement the Minister must publish a notice containing information prescribed by the Rules.
+(3) A notice under this section must be published as follows:
+(a) in the Gazette;
+(b) in the other ways determined by the Minister.
+118AR—Annual performance report
+(1) A Registered participant subject to a mandatory operation direction must, in accordance with the Rules, prepare an annual report setting out the following:
+(a) the Registered participant's compliance with the direction;
+(b) the technical condition of each relevant generating unit to which the direction applies;
+(c) the duration, scope and cost of forecast maintenance for each relevant generating unit to which the direction applies;
+(d) financial information prescribed by the Rules;
+(e) information, prescribed by the Rules, about the fuel used in each relevant generating unit;
+(f) other information prescribed by the Rules.
+(2) The annual report prepared under this section must, as provided for in the Rules, be given to the following:
+(a) the Minister;
+(b) the AER;
+(c) the financial vehicle.
+Note—
+Subsections (1) and (2) are civil penalty provisions: See the definition of civil penalty provision in section 2AA(1).
+Division 4—Financial matters
+Subdivision 1—Financial vehicle
+118AS—Establishment and functions of financial vehicle
+(1) The Minister must, within a reasonable time after a regulation is made under section 118AB, establish the financial vehicle in the way prescribed by the regulation.
+(2) The financial vehicle has the following functions:
+(a) functions set out in this Division;
+(b) functions prescribed by the Rules.
+(3) The financial vehicle must act in a commercially reasonable and prudent way.
+Subdivision 2—Orderly exit management fund
+118AT—Establishment of orderly exit management fund
+(1) The financial vehicle must establish a fund called the orderly exit management fund.
+(2) Money in the orderly exit management fund must be paid into an account kept with an authorised deposit-taking institution.
+(3) The Rules may make provision for or with respect to the administration of the orderly exit management fund.
+118AU—Payments into orderly exit management fund
+The following money must be paid into the orderly exit management fund:
+(a) all money received by the financial vehicle under a contribution order or a generator payment instrument;
+(b) interest paid on money in the fund;
+(c) all money appropriated by the Parliament of a participating jurisdiction, or advanced by the Treasurer of a participating jurisdiction, for payment into the fund;
+(d) all money borrowed by the financial vehicle;
+(e) other money required to be paid into the fund under the Regulations, the Rules or another law of a participating jurisdiction.
+118AV—Payments from orderly exit management fund
+(1) The following payments may be made from the orderly exit management fund:
+(a) money required for the functions and obligations of the financial vehicle under this Part;
+(b) money required for the functions and obligations of AEMO and the AER under this Part;
+(c) money required to be paid from the fund by the Regulations, the Rules or another law of a participating jurisdiction.
+(2) If, in the opinion of the financial vehicle, the orderly exit management fund contains more money than is required to make reasonably anticipated payments under subsection (1), the excess money in the fund must be—
+(a) held as a credit against future OEM payments; or
+(b) on the expiry of a mandatory operation direction—be returned to electricity consumers in the way provided for by the Rules.
+118AW—Payments where mandatory operation direction not made
+(1) This section applies if the Minister is satisfied there is a reasonably practicable alternative to issuing a mandatory operation direction.
+(2) The Minister may direct the financial vehicle to make payments from the orderly exit management fund to meet reasonable costs associated with the reasonably practicable alternative.
+(3) The Rules may make provision for payments under this section.
+(4) In this section—
+reasonably practicable alternative means the reasonably practicable alternative on which the Minister bases a decision to not issue a mandatory operation direction to a Registered participant.
+118AX—Payments where voluntary agreement made
+If the Minister makes a voluntary agreement, the Minister may direct the financial vehicle to make payments from the orderly exit management fund in accordance with the agreement.
+Subdivision 3—Payments to and by MOD generators
+118AY—Ministerial order
+(1) Following the making of a mandatory operation direction, the Minister must, by 1 or more written orders made in accordance with the Rules, direct that the payments set out in the order—
+(a) be made by the financial vehicle to a MOD generator; or
+(b) be made—
+(i) by the financial vehicle to a MOD generator; and
+(ii) by a MOD generator to the financial vehicle.
+(2) A payment order may specify the payments a MOD generator is to receive for the following:
+(a) the reasonable costs directly related to operating and maintaining the relevant MOD generating unit and, in accordance with the Rules, a fair margin on those costs;
+(b) a risk management margin, including risks associated with the relevant MOD generating unit being inoperable for 1 or more periods of time;
+(c) other costs prescribed by the Rules.
+(3) Payments for subsection (2) must be determined by the AER in accordance with the Rules.
+(4) The Rules may make provision for the following:
+(a) the period of time in which payments under a payment order must be made, including periods before or after the applicable mandatory operation period;
+(b) additional matters to be dealt with in a payment order;
+(c) circumstances in which the Minister must amend a payment order;
+(d) other matters that may be addressed in a generator payment instrument.
+(5) A MOD generator does not, by complying with a payment order, incur liability for breach of contract, breach of confidence or any other civil wrong.
+(6) A person subject to a payment order must comply with the order.
+Note—
+This subsection is a civil penalty provision: See the definition of civil penalty provision in section 2AA(1).
+(7) The Minister may amend a payment order by revoking the order and making a new order.
+(8) In this section—
+MOD generator means a Registered participant subject to a mandatory operation direction.
+118AZ—Excluded matter
+A generator payment instrument is, under the Corporations Act 2001 of the Commonwealth, section 5F(1)(d), declared, for that Act, Chapter 7, to be an excluded matter.
+Subdivision 4—Orderly exit management cost recovery mechanism
+118AZA—Orderly exit management contributions
+(1) The orderly exit management contributions to be made by a distribution network service provider comprise—
+(a) amounts determined by the AER for payments under a payment order; and
+(b) amounts determined by the Minister for payments made—
+(i) to a Registered participant under a voluntary agreement; and
+(ii) under section 118AW; and
+(c) amounts determined by the Minister to meet—
+(i) costs incurred by AEMO and the AER for advice, assessments, determinations, information and reports and other functions under this Part; and
+(ii) the financial vehicle's reasonable exercise of functions under this Part; and
+(d) amounts provided for in the Rules.
+(2) The Rules may make provision for—
+(a) the process the AER must follow when determining amounts for payments under a payment order; and
+(b) the process the Minister must follow when determining amounts under subsection (1)(c).
+118AZB—Public notice of orderly exit management contributions
+(1) The AER must, in accordance with section 118AZA, determine the orderly exit management contribution to be paid by a distribution network service provider (a contribution determination) for a financial year and make the determination publicly available—
+(a) by no later than the date prescribed by the Rules; or
+(b) if the Rules do not prescribe a date for paragraph (a)—at least 5 months before the beginning of the financial year for which the contribution is due.
+(2) The Rules may provide for the process to be followed by the AER when making a contribution determination.
+(3) If the AER does not make a contribution determination as required by subsection (1) the Minister may make the contribution determination and make it publicly available.
+(4) A contribution determination must be made publicly available as follows:
+(a) by publication in the Gazette;
+(b) in the other ways determined by the AER or the Minister.
+118AZC—Orderly exit management payments by distribution network service providers
+(1) The financial vehicle may, by written order (a contribution order), direct a distribution network service provider to make payments to the orderly exit management fund (OEM payments) in accordance with the contribution determination applying to the distribution network service provider.
+(2) A contribution order must specify the following:
+(a) the distribution network service provider required to make the OEM payments;
+(b) the amount of each OEM payment;
+(c) the date by which each OEM payment must be made;
+(d) the way each OEM payment must be made;
+(e) that each OEM payment must be made to the financial vehicle for payment into the orderly exit management fund;
+(f) matters prescribed by the Rules.
+(3) The Rules may provide for the way an OEM payment may be recovered by the financial vehicle from a distribution network service provider, including the period of time over which the payment may be recovered.
+(4) An OEM payment is recoverable by the financial vehicle as a debt in a court of competent jurisdiction.
+118AZD—Cost recovery by distribution network service providers
+The Rules may make provision for a distribution network service provider to—
+(a) recover the following from electricity consumers:
+(i) an amount equivalent to the OEM payments made by the distribution network service provider under section 118AZC;
+(ii) an amount payable under another law of a participating jurisdiction;
+(iii) an amount payable as a condition of a licence or authority held in a participating jurisdiction; and
+(b) refund an amount, or part of an amount, paid by electricity consumers.
+Division 5—Miscellaneous
+118AZE—Minister not required to take certain actions before making mandatory operation direction
+(1) The Minister is not required to comply with sections 118AD(4)(a) to (d), 118AF(2)(a) and 118AH before issuing a mandatory operation direction for a relevant generating unit if, on the application of this Part in the participating jurisdiction, there are less than 30 months before the expected early closure date of the generating unit.
+(2) The Minister is not required to comply with section 118AH before issuing a mandatory operation direction for a relevant generating unit if—
+(a) there are less than 30 months before the expected early closure date of the generating unit; and
+(b) the Minister is of the opinion that the anticipated closure of the relevant generating unit represents an unacceptable risk to—
+(i) power system security; or
+(ii) national electricity system reliability.
+(3) In this section—
+expected early closure date, of a generating unit, means the early closure date for the generating unit as previously notified to AEMO in an early closure proposal.
+118AZF—No liability for enactment or operation of Part
+No action, claim or demand lies, or may be made or allowed by or in favour of a person, against the Crown, the Minister or another person exercising functions under this Part, including a rule made under this Part, for or in relation to any damage, loss or injury sustained or alleged to be sustained because of—
+(a) the enactment of this Part or its operation; or
+(b) anything done, or purporting to be done, under this Part or a rule made under this Part.
+118AZG—Review of Part
+(1) The AEMC must periodically review this Part to determine whether the policy objectives of the Part remain valid and whether the terms of the Part remain appropriate for securing those objectives.
+(2) Reviews under this section must consider the following matters:
+(a) the contribution of the OEM framework to the orderly exit of generating units from the market;
+(b) the contribution of the OEM framework to mitigating disruption in the market from the early exit of generating units from the market;
+(c) options for improving the administrative efficiency of the OEM framework;
+(d) the cost of the OEM framework;
+(e) matters prescribed by the Rules.
+(3) Reviews under this section are to be undertaken as follows:
+(a) the first review must be undertaken as soon as possible after the period of 5 years from the commencement of this Part;
+(b) each subsequent review must commence 5 years after the commencement of the immediately preceding review.
+(4) A report on the outcome of each review is to be given to the MCE within 12 months after the commencement of the review.
+(5) Each member of the MCE from a mandatory operation jurisdiction must table a report under this section in each House of the jurisdiction's Parliament within 3 months after the report is given to the MCE.
+(6) With the prior approval of the MCE, the AEMC may postpone a review, for a period of up to 5 years, if it is satisfied the review is unlikely to be of value.
+(7) In this section—
+mandatory operation jurisdiction means a participating jurisdiction to which this Part applies;
+OEM framework means this Part and Rules made under this Part.
+118AZH—Consultation between NSW and ACT
+The relevant Minister of New South Wales must consult with the relevant Minister of the Australian Capital Territory—
+(a) before seeking advice from AEMO under section 118AD(4)(a); and
+(b) before entering into a voluntary agreement or issuing a mandatory operation direction.
 Part 8A—Smart metering services
 Division 1—Interpretation
 118A—Definitions
