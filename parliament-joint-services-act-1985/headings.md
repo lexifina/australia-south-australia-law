@@ -1,6 +1,7 @@
 Part 1—Preliminary
 Part 2—Administration of the Joint Parliamentary Service
 Division 1—The Joint Parliamentary Service Committee
+Division 1A—Executive Officer for the joint parliamentary service
 Division 2—Divisions of the Joint Parliamentary Service
 Division 3—Duties of chief officers
 Division 4—Delegation
