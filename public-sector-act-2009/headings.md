@@ -1,6 +1,7 @@
 Part 1—Preliminary
 Part 2—Objects of Act
 Part 3—Public sector principles and practices
+Part 3A—Reporting on certain official travel
 Part 4—Commissioner for Public Sector Employment
 Part 5—South Australian Executive Service
 Part 6—Public Service
