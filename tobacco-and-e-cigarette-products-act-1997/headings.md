@@ -8,4 +8,8 @@ Division 4—Offences relating to children
 Division 5—Offences relating to promotion of tobacco products and e‑cigarette products
 Part 4—Restrictions on smoking
 Part 5—Investigations
+Part 6—Controlled purchase operations
+Part 6AA—Closure orders
+Part 6A—Disciplinary action against holder of licence
+Part 6B—Review
 Part 7—Miscellaneous
