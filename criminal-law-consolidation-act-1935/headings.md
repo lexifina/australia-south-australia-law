@@ -69,6 +69,7 @@ Division 8—Offences limited in relation to industrial disputes and restraint o
 Part 7A—Goods contamination and comparable offences
 Part 7B—Accessories
 Part 7C—Derivative liability for certain offences
+Part 7D—Recruiting etc children to engage in certain criminal activities
 Part 8—Intoxication
 Part 8A—Mental impairment
 Division 1—Preliminary
