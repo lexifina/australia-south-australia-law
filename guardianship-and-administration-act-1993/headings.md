@@ -4,7 +4,8 @@ Division 3—The Public Advocate
 Part 4—Orders for guardianship or administration
 Division 1—Investigations
 Division 2—Guardianship orders
-Division 3—Administration orders
+Division 3—Administration orders (general)
+Division 3A—Administration orders (missing persons)
 Division 4—Provisions applicable to guardians and administrators appointed under this Part
 Part 5—Consent to prescribed medical treatment of mentally incapacitated persons
 Part 6—Reviews and appeals
