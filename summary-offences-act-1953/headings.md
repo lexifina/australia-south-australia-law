@@ -23,6 +23,15 @@ Part 14B—Declared public precincts
 Division 1—Declared public precincts
 Division 2—Maintaining public order and safety in declared public precinct
 Division 3—Power to remove children from dangerous situations
+Part 14C—Searches of persons to prevent and detect certain offences
+Division 1—Preliminary
+Division 2—Special search powers to prevent serious violence
+Division 3—Metal detector searches etc for prevention and deterrence of violence or disorder in public places
+Division 4—Metal detector searches etc of certain persons
+Division 5—Metal detector searches etc at certain events and places
+Division 6—Maintaining public order and safety
+Division 7—General provisions relating to operation of Part
+Division 8—Miscellaneous
 Part 15—Police powers of entry, search etc
 Part 16—Fortifications
 Part 16A—Access to data held electronically
