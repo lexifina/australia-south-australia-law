@@ -5,6 +5,7 @@ Division 2—Information and subsequent proceedings
 Division 3—Hearing of summary offence
 Division 4—Judgment
 Division 5—Non‑association and place restriction orders
+Division 6—Identity theft certificates
 Division 7—Restraining orders
 Division 8—Bushfire offender monitoring orders
 Part 5—Indictable offences
