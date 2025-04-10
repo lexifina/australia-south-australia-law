@@ -1619,7 +1619,7 @@ The AER is authorised to disclose information given to it in confidence in, or i
 (a) this Division; or
 (b) section 146.
 Note—
-See also section 29 of this Law and section 44AAF of the Competition and Consumer Act 2010 of the Commonwealth.
+See also section 18 of this Law and section 44AAF of the Competition and Consumer Act 2010 of the Commonwealth.
 28X—Disclosure with prior written consent is authorised
 The AER is authorised to disclose information given to it in confidence if the AER has the written consent to do so of—
 (a) the person who gave the information; or
@@ -1966,6 +1966,8 @@ Division 1—General
 (d) to exempt certain persons from being registered as Registered participants;
 (e) to maintain and improve power system security;
 (f) to facilitate retail customer transfer, metering and retail competition;
+(faa) to disclose information held by AEMO to other persons or bodies in accordance with this Law, the Rules and the Regulations;
+(fab) to provide advisory and support services related to information held by, or otherwise available to, AEMO;
 (fa) any functions of a data holder under the Competition and Consumer Act 2010 of the Commonwealth for CDR data relating to a designated energy sector;
 (g) for an adoptive jurisdiction—the additional advisory functions or declared network functions (as the case requires);
 (h) any functions conferred by jurisdictional electricity legislation or an application Act;
@@ -2189,7 +2191,7 @@ Subsection (4) is a civil penalty provision.
 (b) a natural person cannot be required by a market information instrument to disclose information that would incriminate the person or make the person liable to a criminal penalty under the law of an Australian jurisdiction (whether or not the jurisdiction is a participating jurisdiction).
 (7) A person incurs no liability, by complying with a market information instrument, for breach of contract, breach of confidence or any other civil wrong.
 53D—Use of information
-Subject to this Law, the Rules and the Regulations, AEMO may use information obtained by market information instrument or in any other way for any purpose connected with the exercise of any of its statutory functions.
+Subject to anything to the contrary in this Law, AEMO may use information obtained by a market information instrument or in any other way for any purpose connected with the performance of any of its statutory functions.
 53E—Providing false or misleading information
 A person must not, in purported compliance with a market information instrument, provide information to AEMO that the person knows is false or misleading in a material particular.
 Maximum penalty:
@@ -2200,13 +2202,14 @@ See Schedule 2 clause 37B, which provides for criminal penalty amounts to be adj
 Division 6—Protected information
 Subdivision 1—AEMO's obligation to protect information
 54—Protected information
-(1) AEMO must take all reasonable measures to protect from unauthorised use or disclosure information (protected information)—
+(1) AEMO must take all reasonable measures to ensure it does not make unauthorised use, or an unauthorised disclosure, of information (protected information)—
 (a) given to it in confidence; or
 (b) given to it in connection with the performance of its statutory functions and classified under the Rules or the Regulations as confidential information.
-(2) AEMO makes unauthorised use of protected information if (and only if) it uses the information contrary to this Law, the Rules or the Regulations.
+(2) AEMO makes unauthorised use of protected information if (and only if) it uses the information contrary to this Law.
 Note—
-Section 53D authorises AEMO (subject to the Law, the Rules and the Regulations) to use information (whether obtained by market information instrument or in any other way) for any purpose connected with the exercise of any of its statutory functions.
-(3) AEMO makes an unauthorised disclosure of protected information if the disclosure is not authorised under this Law, the Rules or the Regulations.
+Section 53D authorises AEMO (subject to anything to the contrary in this Law) to use information (whether obtained by a market information instrument or in any other way) for any purpose connected with the performance of any of its statutory functions.
+(3) AEMO makes an unauthorised disclosure of protected information if the disclosure is not authorised under this Law.
+(4) To avoid doubt, nothing in the Rules or the Regulations prevents AEMO using or disclosing information for any purpose connected with the performance of any of its statutory functions.
 Subdivision 2—Disclosure of protected information held by AEMO
 54A—Authorised disclosure of protected information
 (1) AEMO is authorised to disclose protected information in accordance with this Subdivision.
@@ -2222,12 +2225,88 @@ AEMO is authorised to disclose protected information if it has the written conse
 (ca) the Energy Security Board;
 (d) the Economic Regulation Authority of Western Australia;
 (e) a jurisdictional regulator;
+(ea) the Australian Bureau of Statistics;
+(eb) the Clean Energy Regulator;
+(ec) each department responsible for the administration of the application Act of a participating jurisdiction;
+(ed) the Minister of a participating jurisdiction;
 (f) if the information is reasonably required by an energy ombudsman to resolve a dispute between a Registered participant and a retail customer but the information is not end-use consumer information—the energy ombudsman;
 (g) a prescribed body;
+(ga) a person or body who—
+(i) satisfies any requirements or criteria prescribed for the purposes of this paragraph; or
+(ii) is a member of a class of persons or bodies prescribed for the purposes of this paragraph;
 (h) any staff or consultant assisting a body mentioned above in performing its functions or exercising its powers.
-(3) A person or body to whom protected information is disclosed under subsection (2) may use the information for any purpose connected with the performance of the functions, or the exercise of the powers, of the person or body.
+(3) Subject to any conditions imposed under subsection (4), a person or body to whom protected information is disclosed under subsection (2) may use the information for any purpose connected with the performance of the functions, or the exercise of the powers, of the person or body.
 (4) AEMO may impose conditions to be complied with in relation to protected information disclosed under subsection (2).
-(5) The disclosure of protected information by a person in the ordinary course of carrying out functions as an officer or employee of, or consultant to, AEMO or a body mentioned in subsection (2) is authorised.
+(5) Subject to any conditions imposed under subsection (4), the disclosure of protected information by a person in the ordinary course of carrying out functions as an officer or employee of, or consultant to, a body mentioned in subsection (2) is authorised.
+54CA—Authorised disclosure to particular entities for data sharing purposes
+(1) AEMO may disclose protected information to the following entities (each a relevant entity) if the disclosure is for a data sharing purpose:
+(a) any of the following:
+(i) an Australian university;
+(ii) a research facility that is part of an Australian university and conducting research in relation to energy;
+(iii) an Australian university researcher who is conducting research in relation to energy;
+(b) Energy Consumers Australia;
+(c) the Australian Renewable Energy Agency;
+(d) the Clean Energy Finance Corporation;
+(e) a prescribed body;
+(f) a person or body who—
+(i) satisfies any requirements or criteria prescribed for the purposes of this paragraph; or
+(ii) is a member of a class of persons or bodies prescribed for the purposes of this paragraph;
+(g) any staff assisting a person or body mentioned above in performing its functions or exercising its powers.
+(2) For the purposes of this section, each of the following is a data sharing purpose:
+(a) the delivery of government services;
+(b) informing government planning, policy or programs;
+(c) research in relation to energy.
+(3) However, AEMO must not disclose protected information under this section for any of the following purposes:
+(a) detecting, investigating, prosecuting or punishing—
+(i) an offence; or
+(ii) a contravention of a law punishable by a pecuniary penalty;
+(b) detecting, investigating or addressing acts or practices detrimental to public revenue;
+(c) detecting, investigating or addressing serious misconduct;
+(d) conducting surveillance or monitoring, or intelligence-gathering activities;
+(e) conducting protective or custodial activities;
+(f) enforcing a law relating to the confiscation of proceeds of crime;
+(g) preparing for, or conducting, proceedings before a court or tribunal or implementing a court or tribunal order.
+(4) AEMO may impose conditions to be complied with in relation to protected information disclosed under subsection (1).
+(5) Subject to the requirements of subsections (7), (8) and (10) and any conditions imposed under subsection (4), a relevant entity to which protected information is disclosed under subsection (1) may use the information for the data sharing purpose for which it was disclosed.
+(6) Subject to the requirements of subsections (7), (8) and (10) and any conditions imposed under subsection (4), a person to whom protected information is disclosed under subsection (1) may use the information in the ordinary course of carrying out functions as an officer or employee of a relevant entity.
+(7) A relevant entity to which protected information is disclosed for a data sharing purpose under subsection (1) must not use or disclose the information for another purpose (a secondary purpose) unless—
+(a) AEMO has given written consent for the use or disclosure of the information for the secondary purpose; or
+(b) the entity is authorised by or under another Act or law to use or disclose the information for the secondary purpose.
+(8) A relevant entity to which protected information is disclosed under subsection (1)—
+(a) must take reasonable steps to protect the information from—
+(i) misuse, interference or loss; and
+(ii) unauthorised use, access, modification or disclosure; and
+(b) must ensure that the information is de-identified or destroyed when the information is no longer required.
+(9) Subsection (10) applies if a relevant entity to which protected information is disclosed under subsection (1) reasonably suspects or becomes aware that a requirement under subsection (7) or (8) has not been complied with.
+(10) The entity must make a report to the AER about the non-compliance—
+(a) as soon as practicable, but not later than 5 business days, after the entity reasonably suspects or becomes aware that the requirement has not been complied with; and
+(b) in the form (if any) approved and published by the AER.
+(11) In this section—
+Australian university means a registered higher education provider—
+(a) that, for the purposes of the Tertiary Education Quality and Standards Agency Act 2011 of the Commonwealth, is registered in the "Australian University" provider category; and
+(b) that is established by or under a law of the Commonwealth or a State or Territory;
+Australian university researcher means—
+(a) a member of staff of an Australian university; or
+(b) an undergraduate or postgraduate student of an Australian university; or
+(c) a consultant to an Australian university;
+court or tribunal order—
+(a) means an order, direction or other instrument made by—
+(i) a court; or
+(ii) a judge (including a judge acting in a personal capacity) or a person acting as a judge; or
+(iii) a magistrate (including a magistrate acting in a personal capacity) or a person acting as a magistrate; or
+(iv) any other person or body that has the power to act judicially under a law of the Commonwealth or a State or Territory; or
+(v) a tribunal; or
+(vi) a member or an officer of a tribunal; and
+(b) includes an order, direction or other instrument that is of an interim or interlocutory nature;
+delivery of government services means the delivery of any of the following services by the Commonwealth or a State or Territory:
+(a) providing information;
+(b) providing services, other than services relating to a payment, entitlement or benefit;
+(c) determining eligibility for a payment, entitlement or benefit;
+(d) paying a payment, entitlement or benefit.
+Note—
+Subsections (7), (8) and (10) are civil penalty provisions: see the definition of civil penalty provision in section 2AA(1).
+54CB—Disclosure of protected information by officer or employee of, or consultant to, AEMO
+The disclosure of protected information by a person in the ordinary course of carrying out functions as an officer or employee of, or consultant to, AEMO is authorised.
 54D—Disclosure for purposes of court and tribunal proceedings
 AEMO is authorised to disclose protected information for the purposes of—
 (a) civil or criminal proceedings; or
@@ -2900,6 +2979,22 @@ Ministerial reliability instrument amendments means the amendments made to this 
 (7) If the Minister referred to in subsection (1) makes Rules under that subsection, the Minister cannot make another Rule under that subsection.
 (8) In this section—
 amended objective means the national electricity objective as in force on the commencement of this section.
+90EE—South Australian Minister to make initial Rules relating to data access
+(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules—
+(a) for or with respect to the data access amendments; and
+(b) that revoke or amend a Rule as a consequence of the enactment of the data access amendments.
+(2) Section 34(3) applies to Rules made under subsection (1) in the same way as it applies to Rules made by the AEMC.
+(3) Rules in the nature of a derogation may be made under subsection (1) even though there may not have been a request for a derogation.
+(4) As soon as practicable after making Rules under subsection (1), the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(5) The notice referred to in subsection (4)(a) must state—
+(a) the date on which the Rules commence operation; or
+(b) if different Rules will commence operation on different dates, those dates.
+(6) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
+(7) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+(8) In this section—
+data access amendments means the amendments made to this Law by the Statutes Amendment (National Energy Laws) (Data Access) Act 2025.
 90EF—South Australian Minister to make initial Rules relating to wholesale market monitoring matters
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia may make Rules for the following:
 (a) the making of—
