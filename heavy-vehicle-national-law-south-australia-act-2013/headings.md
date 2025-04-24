@@ -8,7 +8,6 @@ Division 5—Supplementary powers relating to enforcement in this jurisdiction
 Division 6—Miscellaneous
 Part 3—Regulations
 Part 4—Savings and transitional provisions
-Division 1—Special transitional arrangements relating to Chapter 2 of Heavy Vehicle National Law
 Division 2—Provisions relating to section 748 of Heavy Vehicle National Law
 Division 3—Interpretative provision
 Division 4—Savings and transitional provisions—general
