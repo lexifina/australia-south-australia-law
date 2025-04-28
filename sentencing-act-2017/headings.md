@@ -11,6 +11,14 @@ Subdivision 4—Sentencing reductions
 Part 3—Custodial sentences
 Division 1—Imprisonment
 Division 2—Non‑parole periods
+Division 2A—Sentencing of serious child sex offenders
+Subdivision 1—Preliminary
+Subdivision 2—Serious child sex offenders
+Subdivision 3—Sentencing of serious child sex offenders for triggering child sex offences
+Subdivision 4—Court may declare that Subdivision 3 does not apply to certain serious child sex offenders
+Subdivision 5—Release of serious child sex offenders on licence
+Subdivision 6—Extinguishment of sentence
+Subdivision 7—Miscellaneous
 Division 3—Serious firearm offenders
 Division 4—Serious repeat adult offenders and recidivist young offenders
 Division 5—Offenders incapable of controlling, or unwilling to control, sexual instincts
