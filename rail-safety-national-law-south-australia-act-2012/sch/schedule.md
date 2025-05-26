@@ -89,7 +89,6 @@ private siding means a siding that is owned, controlled or managed by a person, 
 (a) a marshalling yard; or
 (b) a crossing loop; or
 (c) a passenger terminal; or
-(d) a freight terminal; or
 (e) a siding under the control and management of an accredited rail infrastructure manager; or
 (f) a siding, or a siding of a class, prescribed by the national regulations not to be a private siding;
 prohibition notice means a notice under Part 5 Division 2;
@@ -512,6 +511,7 @@ Division 6—Miscellaneous
 (2) The Regulator must ensure that the following matters are recorded in the Register:
 (a) the accreditation of a rail transport operator under Part 3 Division 4;
 (b) the variation, cancellation, suspension or expiry of the accreditation of a rail transport operator under Part 3 Division 4;
+(ba) the rail transport operators determined by the Regulator to be tourist and heritage railway operators for the purposes of section 76(1a)(a) (Annual fees) and section 95(1a)(b) (Annual fees) of the Law;
 (c) the registration of a rail infrastructure manager of a private siding under Part 3 Division 5;
 (d) the variation, cancellation, suspension or expiry of the registration of a rail infrastructure manager of a private siding under Part 3 Division 5;
 (e) an exemption from this Law or specified provisions of this Law granted under Part 6 and details of the exemption;
@@ -820,8 +820,7 @@ Subdivision 3—Variation of accreditation
 (c) any other variation is proposed in respect of the railway operations in respect of which the applicant is accredited that should be reflected in the accreditation.
 (3) An application for variation must be made in the manner and form approved by the Regulator and—
 (a) must specify the details of the variation being sought; and
-(b) must contain the prescribed information; and
-(c) must be accompanied by the prescribed application fee.
+(b) must contain the prescribed information.
 (4) The Regulator may require an accredited person who has applied for a variation—
 (a) to supply further information requested by the Regulator; and
 (b) to verify by statutory declaration any information supplied to the Regulator.
@@ -920,6 +919,9 @@ and, if the Regulator cancels the accreditation, the Regulator may declare that 
 Subdivision 5—Miscellaneous
 76—Annual fees
 (1) An accredited person must pay the annual fee prescribed by the national regulations.
+(1a) Subsection (1) does not apply to or in respect of—
+(a) an accredited person determined by the Regulator to be a tourist and heritage railway operator, as recorded in the Register; or
+(b) an accredited person, or an accredited person of a class, prescribed by the national regulations.
 (2) The annual fee must be paid by an accredited person at the time accreditation is granted and thereafter on an annual basis on or before the prescribed date.
 (3) However, the Regulator may accept payment of an annual fee in accordance with an agreement (that provides, for example, for the payment of fees by instalments) made with the person who is liable to pay the fee.
 (3a) The Regulator may, by written notice given to an accredited person, suspend the accreditation of the person for failure to pay the annual fee on or before the prescribed date, or in accordance with an agreement under subsection (3), until the fee is paid.
@@ -937,6 +939,15 @@ Subdivision 5—Miscellaneous
 (c) fix fees which may be differential, varying according to any factor determined by the Regulator; and
 (d) impose additional fees for the late payment of fees under this section; and
 (e) make provision for the decision of the Regulator to charge a particular fee according to a factor determined by the Regulator to be a reviewable decision under Part 7.
+76A—Increase in fee amounts
+(1) Without limiting section 76(4), the national regulations may provide that the amount of any fee payable under this Division may be increased from the amount that applied in relation to the period immediately prior to the period in respect of which the fee is payable in accordance with a method prescribed by the national regulations for the purposes of this section.
+(2) A method prescribed by the national regulations for the purposes of subsection (1)—
+(a) may operate to increase a fee whose amount has already been increased by a previous application or applications of that method; and
+(b) may operate such that it results in no increase occurring in relation to a particular period in respect of which the fee is payable.
+(3) As soon as practicable, but before 1 July of each year, the Regulator must publish the amounts of each fee that apply following the application of the prescribed method as from that date—
+(a) by notice in the South Australian Government Gazette; and
+(b) on the ONRSR's website; and
+(c) if the Regulator considers it appropriate—in such other manner as determined by the Regulator.
 77—Waiver of fees
 The Regulator may waive, or refund, the whole or part of any fee payable under this Division.
 78—Penalty for breach of condition or restriction
@@ -1042,8 +1053,7 @@ Subdivision 3—Variation of registration
 (c) any other variation is proposed in relation to the private siding in respect of which the applicant is registered that should be reflected in the registration.
 (3) An application for variation must be made in the manner and form approved by the Regulator and—
 (a) must specify the details of the variation being sought; and
-(b) must contain the prescribed information; and
-(c) must be accompanied by the prescribed application fee.
+(b) must contain the prescribed information.
 (4) The Regulator may require a registered person who has applied for a variation under this section—
 (a) to supply further information requested by the Regulator; and
 (b) to verify by statutory declaration any information supplied to the Regulator.
@@ -1133,6 +1143,10 @@ Subdivision 4—Cancellation, suspension or surrender of registration
 Subdivision 5—Miscellaneous
 95—Annual fees
 (1) A registered person must pay the annual fee prescribed by the national regulations.
+(1a) Subsection (1) does not apply to or in respect of—
+(a) a registered person who is also an accredited person; or
+(b) a registered person determined by the Regulator to be a tourist and heritage operator, as recorded in the Register; or
+(c) a registered person, or a registered person of a class, prescribed by the national regulations.
 (2) The annual fee must be paid by a registered person at the time registration is granted and thereafter on an annual basis on or before the prescribed date.
 (3) However, the Regulator may accept payment of an annual fee in accordance with an agreement (that provides, for example, for the payment of fees by instalments) made with the person who is liable to pay the fee.
 (4) The national regulations may—
@@ -1140,6 +1154,15 @@ Subdivision 5—Miscellaneous
 (b) fix various methods for the calculation of various fees; and
 (c) fix fees which may be differential, varying according to any factor determined by the Regulator; and
 (d) impose additional fees for the late payment of fees under this section.
+95A—Increase in fee amounts
+(1) Without limiting section 95(4), the national regulations may provide that the amount of any fee payable under this Division may be increased from the amount that applied in relation to the period immediately prior to the period in respect of which the fee is payable in accordance with a method prescribed by the national regulations for the purposes of this section.
+(2) A method prescribed by the national regulations for the purposes of subsection (1)—
+(a) may operate to increase a fee whose amount has already been increased by a previous application or applications of that method; and
+(b) may operate such that it results in no increase occurring in relation to a particular period in respect of which the fee is payable.
+(3) As soon as practicable, but before 1 July of each year, the Regulator must publish the amounts of each fee that apply following the application of the prescribed method as from that date—
+(a) by notice in the South Australian Government Gazette; and
+(b) on the ONRSR's website; and
+(c) if the Regulator considers it appropriate—in such other manner as determined by the Regulator.
 96—Waiver of fees
 The Regulator may waive, or refund, the whole or part of any fee payable under this Division.
 96A—Annual activity statements
@@ -2383,7 +2406,16 @@ A rail transport operator who has been granted an exemption under this Division 
 Maximum penalty:
 (a) in the case of an individual—$20 000;
 (b) in the case of a body corporate—$100 000.
-Subdivision 6—Waiver of fees
+Subdivision 6—Increase in fee amounts and waiver of fees
+214AA—Increase in fee amounts
+(1) The national regulations may provide that the amount of any fee payable under this Division may be increased from the amount that applied in relation to the period immediately prior to the period in respect of which the fee is payable in accordance with a method prescribed by the national regulations for the purposes of this section.
+(2) A method prescribed by the national regulations for the purposes of subsection (1)—
+(a) may operate to increase a fee whose amount has already been increased by a previous application or applications of that method; and
+(b) may operate such that it results in no increase occurring in relation to a particular period in respect of which the fee is payable.
+(3) As soon as practicable, but before 1 July of each year, the Regulator must publish the amounts of each fee that apply following the application of the prescribed method as from that date—
+(a) by notice in the South Australian Government Gazette; and
+(b) on the ONRSR's website; and
+(c) if the Regulator considers it appropriate—in such other manner as determined by the Regulator.
 214A—Waiver of fees
 The Regulator may waive, or refund, the whole or part of any fee payable under this Division.
 Part 7—Review of decisions
