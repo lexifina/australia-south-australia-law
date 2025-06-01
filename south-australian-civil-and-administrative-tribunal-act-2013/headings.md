@@ -15,7 +15,7 @@ Part 3—Jurisdiction
 Division 1—Preliminary
 Division 2—Original jurisdiction
 Division 3—Review jurisdiction
-Part 3A—Diversity proceedings
+Part 3A—Federal jurisdiction proceedings
 Part 4—Principles, powers and procedures
 Division 1—Principles governing hearings
 Division 2—Evidentiary powers
