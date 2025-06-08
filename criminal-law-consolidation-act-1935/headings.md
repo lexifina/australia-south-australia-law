@@ -7,7 +7,7 @@ Division 1A—Criminal neglect etc
 Division 2—Defences
 Division 3—Miscellaneous
 Division 4—Unlawful threats
-Division 5—Stalking
+Division 5—Stalking and harassment
 Division 6—Serious vehicle and vessel offences
 Division 7—Assault
 Division 7AA—Choking etc in a domestic setting
