@@ -16,7 +16,9 @@ Part 6—Alterations and other interference with the shop
 Part 7—Assignment and termination
 Part 8—Additional requirements for retail shopping centres
 Part 9—Dispute resolution
-Division 1—Mediation
+Division 1—Alternative dispute resolution—general
+Division 1A—Court referred alternative dispute resolution
+Division 1B—Designated alternative dispute resolution
 Division 2—Intervention
 Division 3—Jurisdiction of the Magistrates Court
 Part 10—Retail Leases Fund
