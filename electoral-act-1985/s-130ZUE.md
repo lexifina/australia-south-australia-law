@@ -1,0 +1,2 @@
+130ZUE—Third party must notify Electoral Commissioner of change in particulars
+If a change occurs in any of the particulars stated in the register in relation to a third party (being particulars of the kind required to be stated in an application for registration of the third party), the agent of the third party must, within 30 days after the date of the change, notify the Electoral Commissioner of the change in the manner and form approved by the Electoral Commissioner.

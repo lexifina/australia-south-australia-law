@@ -1,19 +1,15 @@
 130ZZB—Investigation etc
 (1) In this section—
-authorised officer means a person authorised by the Electoral Commissioner under subsection (2).
+authorised officer means a person authorised by the Electoral Commissioner under subsection (2);
+designated entity means a candidate, group, registered political party, third party or associated entity.
 (2) The Electoral Commissioner may, by instrument in writing signed by the Electoral Commissioner, authorise a person or a person included in a class of persons to perform duties under this section.
-(3) An authorised officer may, for the purpose of finding out whether the financial controller of an associated entity or the agent of a registered political party or third party has complied with this Part, by notice served personally or by post on—
-(a) the agent or any officer of the—
-(i) registered political party; or
-(ii) third party; or
-(b) the financial controller or any officer of the associated entity,
-as the case may be, require the agent, financial controller or officer—
-(c) to produce, within the period and in the manner specified in the notice, the documents or other things referred to in the notice; or
-(d) to appear, at a time and place specified in the notice, before the authorised officer to give evidence, either orally or in writing, and to produce the documents or other things referred to in the notice.
-(4) If a notice under subsection (3)(a) requires an officer of a registered political party or third party (other than the agent) to appear before an authorised officer under subsection (3)(d), then the agent of the registered political party or third party (as the case may be) is entitled—
-(a) to attend at the proceeding under subsection (3)(d); or
+(3) An authorised officer may, for the purpose of finding out whether the agent of a designated entity has complied with this Part, by notice served personally or by post on the agent or (in the case of a registered political party, third party or associated entity) any officer of the registered political party, third party or associated entity (as the case may be), require the agent or officer—
+(a) to produce, within the period and in the manner specified in the notice, the documents or other things referred to in the notice; or
+(b) to appear, at a time and place specified in the notice, before the authorised officer to give evidence, either orally or in writing, and to produce the documents or other things referred to in the notice.
+(4) If a notice under subsection (3) requires an officer of a registered political party, third party or associated entity (other than the agent) to appear before an authorised officer under subsection (3)(b), then the agent of the registered political party, third party or associated entity (as the case may be) is entitled—
+(a) to attend at the proceeding under subsection (3)(b); or
 (b) to nominate another person in writing to attend on behalf of the agent.
-(5) Failure of the agent or nominee to attend under subsection (4) does not affect the powers of the authorised officer to conduct the proceeding under subsection (3)(d).
+(5) Failure of the agent or nominee to attend under subsection (4) does not affect the powers of the authorised officer to conduct the proceeding under subsection (3)(b).
 (6) If an authorised officer has reasonable grounds to believe that a person is capable of producing documents or other things or giving evidence relating to a contravention, or possible contravention, of this Part, or relating to matters that are set out in, or are required to be set out in, a return under this Part, the authorised officer may, by notice served personally or by post on that person, require that person—
 (a) to produce, within the period and in the manner specified in the notice, such documents or other things as are referred to in the notice;
 (b) to appear, at a time and place specified in the notice, before the authorised officer to give evidence, either orally or in writing, and to produce such documents or other things as are referred to in the notice.
@@ -35,9 +31,9 @@ the authorised officer may, by notice served personally or by post on the person
 (12) If a person requests a review of a decision, the person is not taken to have refused or failed to comply with the notice to which the review relates at any time before the Electoral Commissioner has notified the person of his or her decision on the review.
 (13) An authorised officer may require any evidence that is to be given to him or her in compliance with a notice under subsection (3), (6) or (7) to be given on oath or affirmation and for that purpose the authorised officer may administer an oath or affirmation.
 (14) A person must not, without reasonable excuse, refuse or fail to comply with a notice under this section to the extent that the person is capable of complying with the notice.
-Maximum penalty: $5 000.
+Maximum penalty: $10 000.
 (15) A person must not, in purported compliance with a notice under this section, give evidence that is, to the knowledge of the person, false or misleading in a material particular.
-Maximum penalty: $5 000.
+Maximum penalty: $10 000.
 (16) If—
 (a) an authorised officer has reasonable grounds for suspecting that there may be, at any time within the next following 24 hours, on any land or on or in any premises, vessel, aircraft or vehicle, a document or other thing that may afford evidence relating to a contravention of this Part; and
 (b) the authorised officer has reasonable grounds to believe that, if a notice under this section were issued for the production of the document or other thing, the document or other thing might be concealed, lost, mutilated or destroyed,

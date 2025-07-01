@@ -1,0 +1,5 @@
+130ZCK—Prohibition on electoral loans that exceed individual cap
+(1) Subject to this section, it is unlawful for a regulated designated participant or a person acting on their behalf to receive an electoral loan to or for the benefit of the regulated designated participant if the loan exceeds the regulated designated participant's individual cap on an electoral loan.
+Note—
+The effect of this provision and section 130ZCJ is that a regulated designated participant can receive an electoral loan (or loans) from a person of up to $5 000 in a financial year. The definition of loan does not include a loan from a financial institution.
+(2) It is not unlawful for a regulated designated participant or a person acting on their behalf to receive an electoral loan to or for the benefit of the regulated designated participant that exceeds the individual cap if the money lent is to be paid into a federal account kept by the regulated designated participant in accordance with the Commonwealth Electoral Act 1918.

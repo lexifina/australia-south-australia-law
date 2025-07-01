@@ -1,0 +1,3 @@
+130ZWB—Registered political party to provide details of associated entities
+(1) The agent of each registered political party must, within 30 days after 30 June in each year, furnish to the Electoral Commissioner, in a form approved by the Electoral Commissioner, details of each entity that the agent knows, or ought reasonably to know, is an associated entity in relation to the registered political party.
+(2) Without limiting subsection (1), the agent of each registered political party must, as soon as is reasonably practicable after an entity becomes an associated entity of the party (and in any event within 30 days of the start of the association), furnish to the Electoral Commissioner, in a form approved by the Electoral Commissioner, details of the entity.

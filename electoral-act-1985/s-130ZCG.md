@@ -1,0 +1,3 @@
+130ZCG—Individual cap on electoral donations
+(1) The individual cap on an electoral donation for a regulated designated participant is $5 000 (2026 indexed).
+(2) For the purposes of this section, an electoral donation of or less than the amount specified in subsection (1) made by a person or body is to be treated as a donation that exceeds the individual cap on electoral donations if that and other separate electoral donations made by that person or body to the same regulated designated participant within the same financial year would, if aggregated, exceed the regulated designated participant's individual cap on electoral donations.

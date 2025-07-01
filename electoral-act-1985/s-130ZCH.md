@@ -1,0 +1,8 @@
+130ZCH—Prohibition on electoral donations that exceed individual cap
+(1) Subject to this section, it is unlawful for a regulated designated participant or a person acting on their behalf to receive an electoral donation to or for the benefit of the regulated designated participant if the donation exceeds the regulated designated participant's individual cap on an electoral donation.
+Note—
+The effect of this provision and section 130ZCG is that a regulated designated participant can receive an electoral donation (or donations) from a person of up to $5 000 in a financial year.
+(2) A regulated designated participant or person acting on their behalf who receives an electoral donation to or for the benefit of the regulated designated participant that exceeds the individual cap does not contravene subsection (1) if, on becoming aware of the receipt of the electoral donation, the regulated designated participant or person (as the case requires)—
+(a) takes all reasonable steps to return the electoral donation to the person from whom it was received; or
+(b) in the case of an electoral donation that cannot be so returned—gives the electoral donation to the Electoral Commissioner for payment into the Consolidated Account.
+(3) It is not unlawful for a regulated designated participant or a person acting on their behalf to receive an electoral donation to or for the benefit of the regulated designated participant that exceeds the individual cap if the donation is to be paid into (or held as an asset of) a federal account kept by the regulated designated participant in accordance with the Commonwealth Electoral Act 1918.

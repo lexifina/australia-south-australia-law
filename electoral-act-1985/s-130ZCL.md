@@ -1,0 +1,10 @@
+130ZCL—General caps on electoral loans
+(1) The agent of a relevant regulated designated participant must ensure that the relevant regulated designated participant or a person acting on their behalf does not receive electoral loans to or for the benefit of the relevant regulated designated participant that, in total, are in excess of the general loans cap during the capped expenditure period in relation to an election.
+(2) If a relevant regulated designated participant or a person acting on their behalf receives electoral loans that, in total, are in excess of the general loans cap during the capped expenditure period in relation to an election, the amount that is equal to twice the excess may be recovered from the agent of the relevant regulated designated participant by the Crown as a debt due to the Crown.
+(3) No offence is committed against subsection (1) by, and subsection (2) doesn't apply to, a relevant regulated designated participant or person acting on their behalf who receives an electoral loan to or for the benefit of the relevant regulated designated participant that results in the relevant regulated designated participant exceeding their general loans cap during the capped expenditure period in relation to an election if, on becoming aware of the receipt of the electoral loan, the relevant regulated designated participant or person (as the case requires) takes all reasonable steps to return the proceeds of the electoral loan (or that part of it that results in the relevant regulated designated participant exceeding their general loans cap) to the person from whom it was received.
+(4) In this section—
+general loans cap, for a relevant regulated designated participant in relation to an election, is the amount equal to the relevant regulated designated participant's applicable expenditure cap for the election;
+relevant regulated designated participant means—
+(a) an entitled registered political party; or
+(b) an entitled candidate; or
+(c) an entitled group.
