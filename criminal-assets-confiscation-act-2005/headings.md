@@ -33,6 +33,7 @@ Subdivision 3—Reducing pecuniary penalty amount or literary proceeds amount
 Subdivision 4—Enforcement
 Subdivision 5—Effect of acquittals and quashing of convictions
 Part 6—Information gathering
+Division A1—Duty to provide information
 Division 1—Examinations
 Subdivision 1—Examination orders
 Subdivision 2—Examination notices
