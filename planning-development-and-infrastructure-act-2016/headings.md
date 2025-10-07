@@ -70,7 +70,7 @@ Part 12—Mining and renewable energy—special provisions
 Part 13—Infrastructure frameworks
 Division 1—Infrastructure delivery schemes
 Subdivision 1—Interpretation
-Subdivision 2—Establishment of schemes—basic infrastructure
+Subdivision 2—Establishment of schemes—basic and primary infrastructure
 Subdivision 3—Establishment of general schemes
 Subdivision 4—Scheme coordinator
 Subdivision 5—Adoption of proposed scheme and related operational matters

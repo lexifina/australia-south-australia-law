@@ -1,9 +1,13 @@
 Part 1—Preliminary
 Part 2—Coordinator General's Office
+Editorial note—
+Part 2 had not come into operation at the date of the publication of this version.
 Division 1—Coordinator General's Office
 Division 2—Functions etc
 Division 3—Related matters
 Part 3—Project coordination and facilitation
+Editorial note—
+Part 3 had not come into operation at the date of the publication of this version.
 Division 1—Preliminary
 Division 2—Project declarations and establishment of State development areas
 Division 3—Functions—projects generally
