@@ -36,8 +36,8 @@ Division 6—Registration of student exchange programs
 Part 8—Protections for teachers, staff and students etc at schools, preschools and children's services centres
 Division 1—Preliminary
 Division 2—Offences
-Division 3—Barring orders
-Division 4—Power to restrain etc persons acting unlawfully on premises to which Part applies
+Division 3—Barring notices
+Division 4—Power to restrain etc persons acting unlawfully on premises to which Part applies or related premises
 Part 9—The teaching service
 Division 1—Preliminary
 Division 2—Appointment to the teaching service
