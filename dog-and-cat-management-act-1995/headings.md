@@ -14,6 +14,7 @@ Part 5—Management of dogs
 Division 1—Offences relating to duties of owners and others responsible for control of dog
 Division 1A—Provisions relating to certain breeds etc of dogs
 Division 1B—Court's power to make orders in criminal proceedings
+Division 2—Directions relating to management of dogs
 Division 3—Destruction and control orders
 Division 3A—Prohibition orders
 Part 5A—Destruction, seizure and detention etc of dogs and cats
