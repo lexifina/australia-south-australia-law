@@ -1,2 +1,2 @@
-Schedule 2—Related amendments and transitional provisions
+Schedule 2—Transitional provisions
 Part 1—Preliminary
