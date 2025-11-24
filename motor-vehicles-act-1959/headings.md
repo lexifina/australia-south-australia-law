@@ -17,7 +17,7 @@ Part 3—Drivers' licences
 Part 3A—Motor driving instructors' licences
 Part 3B—Demerit points scheme
 Part 3C—Towtrucks
-Part 3D—Disabled persons' parking permits
+Part 3D—Disability parking permits
 Part 3E—Rights of review and appeal
 Part 4—Third party insurance
 Part 4A—Trials of automotive technologies
