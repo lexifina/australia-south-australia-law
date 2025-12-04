@@ -3023,6 +3023,34 @@ protected person means any of the following—
 (4) The protection given to the person by this section extends to—
 (a) a person who, in good faith, provided the person with any information on the basis of which the notification was made or the information was given; and
 (b) a person who, in good faith, was otherwise concerned in the making of the notification or giving of the information.
+237A—Protection from reprisals for persons making notifications or otherwise providing information, documents or assistance
+(1) A person must not—
+(a) use threats or intimidation to attempt to persuade another person not to take protected action; or
+(b) dismiss, or refuse to employ, another person because, or in the belief that, the other person has taken, or intends to take, protected action; or
+(c) subject another person to other detriment or reprisal because, or in the belief that, the other person has taken, or intends to take, protected action.
+Maximum penalty:
+(a) in the case of an individual—$60 000;
+(b) in the case of a body corporate—$120 000.
+(2) In this section—
+protected action means—
+(a) making a notification, in good faith, under this Law; or
+(b) giving information, documents or other assistance in the course of an investigation or for another purpose under this Law to a person exercising functions under this Law.
+237B—Non‑disclosure agreements
+(1) A provision of a non‑disclosure agreement is void to the extent it prevents or limits a person from—
+(a) making a notification, in good faith, under this Law; or
+(b) giving information, documents or other assistance in the course of an investigation or for another purpose under this Law to a person exercising functions under this Law.
+(2) A relevant person must not enter into a non‑disclosure agreement unless the agreement sets out, clearly and in writing, that the agreement does not limit a person from—
+(a) making a notification, in good faith, under this Law; or
+(b) giving information, documents or other assistance in the course of an investigation or for another purpose under this Law to a person exercising functions under this Law.
+Maximum penalty:
+(a) in the case of an individual—$5 000; or
+(b) in the case of a body corporate—$10 000.
+(3) In this section—
+non‑disclosure agreement means a contract or other agreement that prohibits or restricts the disclosure of information or documents by a person in relation to the health, conduct or performance of a registered health practitioner or former registered practitioner;
+relevant person means the following—
+(a) an employer or former employer of a registered health practitioner or a person who was registered under this Law;
+(b) a health service provider whose services are provided by registered health practitioners;
+(c) a registered health practitioner.
 Division 2—Inspectors
 238—Functions and powers of inspectors
 (1) An inspector has the function of conducting investigations to enforce compliance with this Law.
@@ -3597,6 +3625,24 @@ Part 15—Transitional provision for Health Practitioner Regulation National Law
 (a) a decision by a responsible tribunal of this jurisdiction under section 196(4)(c); or
 (b) a decision by a responsible tribunal of another jurisdiction under section 196(4)(c) as it applies in the other jurisdiction.
 (2) Sections 196A, 222, 223 and 227 apply in relation to the prohibition order even if the order was made before the commencement.
+Part 16—Transitional provisions for Health Practitioner Regulation National Law (South Australia) (Amendment of Law) Regulations 2025
+327—Application of section 77A
+Section 77A—
+(a) does not apply in relation to an application for registration made before the commencement of this section; but
+(b) applies to a disqualified person who makes an application for registration after the commencement of this section, regardless of when a responsible tribunal made the decision that resulted in the person becoming a disqualified person.
+Editorial note—
+Section 327 had not come into operation at the date of the publication of this version.
+328—Application for reinstatement order
+(1) This section applies if, immediately before the commencement of this section—
+(a) a person was disqualified from applying for registration as a registered practitioner for a specified period; and
+(b) the period has not yet ended.
+(2) The person cannot apply under section 198A for a reinstatement order until the specified period has ended.
+Editorial note—
+Section 328 had not come into operation at the date of the publication of this version.
+329—Application of section 237B
+Section 237B applies—
+(a) to a non‑disclosure agreement, within the meaning of section 237B(3), whether entered into before or after the commencement of this section; and
+(b) in relation to the health, conduct or performance of a registered health practitioner or former registered health practitioner (the relevant issue), whether the relevant issue occurred before or after the commencement of this section.
 Schedule 2—Agency Board
 (Section 29)
 Part 1—General
