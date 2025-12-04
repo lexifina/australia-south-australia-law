@@ -11,6 +11,7 @@ Part 4—Pension and benefits for former members
 Division 1—Entitlement to pension
 Division 2—Commutation of pension
 Division 2A—Superannuation benefits for PSS 3 members
+Division 2B—Income protection for PSS 3 members
 Division 3—Related matters
 Part 4A—Family Law Act provisions
 Part 5—Pension for spouse and child benefit
