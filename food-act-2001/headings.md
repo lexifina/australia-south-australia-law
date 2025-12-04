@@ -12,7 +12,6 @@ Part 6—Taking and analysis of samples
 Division 1—Taking of samples
 Division 2—Procedures relating to analyses
 Division 3—Approval of laboratories
-Division 4—Approval of analysts
 Part 7—Auditing
 Division 1—Approval of food safety auditors
 Division 2—Auditing and reporting requirements
