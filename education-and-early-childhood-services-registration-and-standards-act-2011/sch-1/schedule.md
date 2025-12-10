@@ -46,6 +46,7 @@ children's services regulator, in relation to a participating jurisdiction, mean
 Commonwealth Minister means the Minister of the Commonwealth who is responsible for policies and programs relating to education and care services;
 compliance direction means a compliance direction under section 176;
 compliance notice means a compliance notice under section 177;
+education and care related work means work in or as part of an education and care service involving the provision of education and care;
 education and care service means any service providing or intended to provide education and care on a regular basis to children under 13 years of age other than—
 (a) a school providing full‑time education to children, including children attending in the year before grade 1 but not including a preschool program delivered in a school or a preschool that is registered as a school; or
 (b) a preschool program delivered in a school if—
@@ -150,6 +151,7 @@ public sector law, in relation to a participating jurisdiction, means a law decl
 rating assessment means an assessment or reassessment of an approved education and care service under Part 5;
 Ratings Review Panel means a Ratings Review Panel established under section 146;
 receiving approved provider has the meaning set out in section 58;
+recruitment agency means a person that carries on (whether or not with a view to profit and whether or not in conjunction with any other business) the business of procuring education and care related work for individuals seeking such work, whether or not the business includes procuring any other kind of work for those individuals or any other individuals;
 Regulatory Authority means a person declared by a law of a participating jurisdiction to be the Regulatory Authority for that jurisdiction or for a class of education and care services for that jurisdiction;
 relevant Commonwealth Department means the government department administered by the Commonwealth Minister;
 relevant tribunal or court, in relation to a participating jurisdiction, means the tribunal or court declared by a law of that jurisdiction to be the relevant tribunal or court for the purposes of this Law or a provision of this Law;
@@ -1770,7 +1772,7 @@ Penalty:
 Penalty:
 (a) $22 900, in the case of an individual.
 (b) $114 900, in any other case.
-188A—False or misleading information about prohibition notice
+188A—Offence to give false or misleading information to approved provider about prohibition notice
 A person who is subject to a prohibition notice under this Law as applying in any participating jurisdiction must not give an approved provider any information about the content or existence of the prohibition notice that is false or misleading in any material particular.
 Penalty: $6 800.
 Division 4—Emergency removal of children
@@ -1963,7 +1965,7 @@ Division 3—Other powers
 (4) The authorised officer may require the person to state the person's name and residential address if—
 (a) the person refuses or is unable to comply with a requirement under subsection (2) or (3); or
 (b) according to the date of birth the person states, or the evidence of the person's age the person gives, the person has not attained the prescribed minimum age.
-206—Power of authorised officers to obtain information documents and evidence
+206—Power of authorised officers to obtain information, documents and evidence from approved providers, nominated supervisors, staff members and volunteers
 (1) An authorised officer may exercise a power under this section for any of the following purposes:
 (a) monitoring compliance with this Law;
 (b) a rating assessment of an approved education and care service under Part 5;
@@ -1974,6 +1976,9 @@ Division 3—Other powers
 specified person means a person who is or has been—
 (a) an approved provider, a nominated supervisor or a staff member of, or a volunteer at, an approved education and care service; or
 (b) a family day care educator.
+206A—Power of authorised officers to obtain information, documents and evidence from recruitment agencies
+(1) An authorised officer, by written notice, may require a recruitment agency to provide to the authorised officer, by writing signed by a competent officer of that agency and within the time and in the manner specified in the notice, any relevant information specified in the notice for the purposes of monitoring compliance with this Law.
+(2) The time specified in the notice must not be less than 14 days from the date the notice is issued.
 Division 4—Offences relating to enforcement
 207—Offence to obstruct authorised officer
 A person must not obstruct an authorised officer in exercising his or her powers under this Law.
@@ -2029,7 +2034,10 @@ The Regulatory Authority may, for the purpose of a rating assessment—
 (b) warn the person about the effect of sections 217, 218 and 219.
 (4) The Regulatory Authority or the person specified in the notice acting on the Regulatory Authority's behalf may require the evidence referred to in subsection (2)(c) to be given on oath or affirmation and for that purpose may administer an oath or affirmation.
 (5) The person may give evidence under subsection (2)(c) by telephone or video conference or other electronic means unless the Regulatory Authority, on reasonable grounds, requires the person to give that evidence in person.
-(6) In this section, specified person has the meaning given in section 206(4).
+(6) In this section, specified person means—
+(a) a person who is or has been an approved provider, a nominated supervisor or a staff member of, or a volunteer at, an approved education and care service; or
+(b) a person who is or has been a family day care educator; or
+(c) a recruitment agency.
 216—Power of Regulatory Authority to obtain information, documents and evidence at education and care service
 (1) This section applies if the Regulatory Authority reasonably suspects that an offence has or may have been committed against this Law.
 (2) The Regulatory Authority may require a specified person at an education and care service—
@@ -2531,12 +2539,29 @@ Division 6—Disclosure of information
 (c) a person to whom a prohibition notice applies; or
 (d) a person who is being prosecuted for an offence against this Law.
 272—Disclosure of information to approved providers
-(1) At the request of an approved provider, the National Authority or the Regulatory Authority may disclose the following information to the provider, if the National Authority or Regulatory Authority considers on reasonable grounds that the provider requires the information to comply with the provider's obligations under this Law—
-(a) whether a person named in the request is subject to a prohibition notice given under section 182;
-(b) whether a family day care educator named in the request has been suspended from providing education and care to children as part of a family day care service under section 178.
+(1) The National Authority or the Regulatory Authority may disclose the following information to an approved provider if the National Authority or Regulatory Authority considers on reasonable grounds that the information may assist the provider to comply with this Law:
+(a) whether an individual who is employed, appointed or engaged by the approved provider has given an enforceable undertaking under section 179A that is in force, including information about the following:
+(i) the provisions of this Law that the individual has contravened or is alleged to have contravened;
+(ii) the actions that the individual must take or refrain from taking to comply with the enforceable undertaking;
+(iii) whether the individual is complying with the enforceable undertaking;
+(b) whether an individual who is employed, appointed or engaged by the approved provider is subject to a prohibition notice that is in force under this Law as applying in any participating jurisdiction;
+(c) whether a family day care educator employed, appointed or engaged by the approved provider has been suspended from providing education and care to children under section 178.
 (2) A disclosure of information under this section is subject to Division 1 and any protocol agreed for the purposes of this section by—
 (a) the National Authority, all participating jurisdictions and the Commonwealth; and
 (b) subject to any protocol referred to in paragraph (a), the National Authority and the Regulatory Authority, or the National Authority, the Regulatory Authority and any Regulatory Authority of another participating jurisdiction.
+272A—Disclosure of information to recruitment agencies
+(1) The National Authority or the Regulatory Authority may disclose the following information to a recruitment agency for the purposes of promoting the objectives of the National Quality Framework:
+(a) whether a specified person has given an enforceable undertaking under section 179A that is in force, including information about the following:
+(i) the provisions of this Law that the specified person has contravened or is alleged to have contravened;
+(ii) the actions that the specified person must take or refrain from taking to comply with the enforceable undertaking;
+(iii) whether the specified person is complying with the enforceable undertaking;
+(b) whether a specified person is subject to a prohibition notice that is in force under this Law as applying in any participating jurisdiction;
+(c) whether a specified person has been suspended from providing education and care to children as part of a family day care service under section 178.
+(2) A disclosure of information under this section is subject to Division 1 and any protocol agreed for the purposes of this section by—
+(a) the National Authority, all participating jurisdictions and the Commonwealth; and
+(b) subject to any protocol referred to in paragraph (a), the National Authority and the Regulatory Authority, or the National Authority, the Regulatory Authority and any Regulatory Authority of another participating jurisdiction.
+(3) In this section—
+specified person means an individual who has entered into an agreement with a recruitment agency for the agency to procure for that individual education and care related work.
 273—Duty of confidentiality
 (1) An individual who is, or who has been, a person exercising functions under this Law must not disclose to another person protected information.
 Penalty: $5 700.
@@ -2631,8 +2656,10 @@ Division 4—Legal proceedings
 (b) a person authorised by the Regulatory Authority;
 (c) a police officer.
 (2) In a proceeding for an offence against this Law or the regulations it must be presumed, in the absence of evidence to the contrary, that the person bringing the proceeding was authorised to bring it.
-284—When proceedings may be brought
-Subject to section 181(6), proceedings for an offence under this Law must be commenced within 2 years of the date of the alleged offence.
+284—When proceedings may be commenced
+(1) Subject to section 181(6) and subsection (3), proceedings for an offence under this Law must be commenced by a person referred to in section 283(1) within 2 years after the date on which the person becomes aware of the alleged offence.
+(2) Subsection (1) applies whether the date on which the person referred to in section 283(1) becomes aware of the alleged offence is before, on or after the commencement of section 11 of the Early Childhood Legislation Amendment (Child Safety) Act 2025 of Victoria.
+(3) If the Regulatory Authority becomes aware of an alleged offence but is required to suspend taking action under this Law in relation to the alleged offence because of a concurrent investigation or proceeding in relation to the same conduct under another Act, proceedings for the offence against this Law must be commenced within 2 years after any investigation or proceeding (as the case requires) in relation to the conduct under the other Act have been finalised.
 285—Offences by bodies corporate
 (1) If a body corporate commits an offence against this Law, any person with management or control of the body corporate who failed to exercise due diligence to prevent the contravention that is the subject of the offence also commits that offence and is liable to the penalty for that offence.
 (2) The penalty for an offence referred to in this section is the penalty applicable to an individual.
@@ -2921,6 +2948,15 @@ A declared approved learning framework is taken to be an approved learning frame
 (a) consequential on the enactment of this Law in a participating jurisdiction; or
 (b) to otherwise allow or facilitate the change from the operation of a former education and care services law of a participating jurisdiction to the operation of this Law.
 (2) Savings and transitional regulations may have retrospective operation to a day not earlier than the day on which section 1 of this Law commences.
+324A—Regulations dealing with transitional matters—Early Childhood Legislation Amendment (Child Safety) Act 2025 of Victoria
+(1) The Ministerial Council may make regulations containing provisions of a transitional nature, including matters of an application or savings nature, arising as a result of the enactment of the Early Childhood Legislation Amendment (Child Safety) Act 2025 of Victoria, including any repeals and amendments made by, or as a result of, the enactment of that Act.
+(2) Regulations made under this section may—
+(a) have a retrospective effect to the day on which the Early Childhood Legislation Amendment (Child Safety) Act 2025 of Victoria receives the Royal Assent; and
+(b) be of limited or general application; and
+(c) differ according to time, place or circumstances; and
+(d) leave any matter or thing to be decided by a specified person or class of person.
+(3) Regulations under this section have effect despite anything to the contrary in any Act (other than this Law) or in any subordinate instrument.
+(4) This section is repealed on the second anniversary of its commencement.
 Division 5—Transitional provisions—Education and Care Services National Law Amendment Act 2017
 325—Definitions
 In this Division—
