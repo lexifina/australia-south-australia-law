@@ -1,6 +1,4 @@
 Schedule 1—Designated Acts
-Editorial note—
-Schedule 1 had not come into operation at the date of the publication of this version.
 The Acts set out in the list below are designated Acts for the purposes of this Act:
 Aquaculture Act 2001;
 Coast Protection Act 1972;
