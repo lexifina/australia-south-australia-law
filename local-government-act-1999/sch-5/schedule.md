@@ -24,7 +24,7 @@ Policy and administrative documents
 • Audited financial statements
 • Annual report
 • List of fees and charges
-• Public consultation policies
+• Community engagement policies
 • Behavioural management policies
 • Behavioural support policies
 • Employee behavioural standards
