@@ -20,7 +20,7 @@ Division 5—Principal office
 Part 2—Commercial activities and restrictions
 Part 3—Prudential requirements for certain activities
 Part 4—Contracts and tenders policies
-Part 5—Public consultation policies
+Part 5—Community engagement
 Chapter 5—Members of council
 Part 1—Membership
 Part 2—Term of office and related issues
