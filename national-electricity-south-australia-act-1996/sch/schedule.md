@@ -7,7 +7,7 @@ This Law may be referred to as the National Electricity Law.
 access determination means a determination of the AER under Part 10;
 access dispute has the meaning given by section 2A;
 additional advisory functions—AEMO's additional advisory functions are as set out in section 50B(1);
-additional Minister initiated Rules means Rules made under Part 7 Division 2 (other than section 90) by the Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia;
+additional Minister initiated Rules means Rules made under Part 7, Division 2 (other than section 90) by the South Australian Minister;
 adoptive jurisdiction means (according to context)—
 (a) a participating jurisdiction for which AEMO is authorised to exercise its additional advisory functions; or
 (b) a participating jurisdiction for which AEMO is authorised to exercise its declared network functions;
@@ -229,6 +229,7 @@ Rule dispute means a dispute between persons in relation to a matter or thing ar
 shared network capability service means a service described in section 50D(1) as a shared network capability service;
 shared transmission service means a service classified under the Rules as a shared transmission service;
 smart meter amendments means the amendments to this Law made by section 5 of the National Electricity (South Australia) (Smart Meters) Amendment Act 2009 of South Australia;
+South Australian Minister means the Minister of the Crown in right of South Australia who administers Part 2 of the National Electricity (South Australia) Act 1996 of South Australia;
 statutory functions, in relation to AEMO, means functions or powers conferred under—
 (a) this Law or the Rules; or
 (b) the National Gas Law, the National Gas Rules, or related subordinate legislation;
@@ -390,7 +391,7 @@ Schedule 3 to this Law has effect.
 (6) A jurisdiction ceases to be a participating jurisdiction on publication in the South Australian Government Gazette of a declaration made by the Ministers of the other participating jurisdictions in accordance with subsection (5).
 6—Ministers of participating jurisdictions
 (1) The Ministers of the participating jurisdictions are—
-(a) the Minister of the Crown in right of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia; and
+(a) the South Australian Minister; and
 (b) the Ministers of the Crown in right of the other participating jurisdictions administering the laws of those jurisdictions that apply this Law or any part of this Law (whether by a law that corresponds to Part 2 of the National Electricity (South Australia) Act 1996 of South Australia or by some other law).
 6A—Nominated distributors
 (1) The regulations under the application Act of a participating jurisdiction (a local regulation) may—
@@ -2766,7 +2767,7 @@ In making a jurisdictional derogation, the AEMC must have regard to whether—
 (b) the derogation continues existing regulatory arrangements applying to the electricity industry in a participating jurisdiction and the Minister of the participating jurisdiction requesting the derogation has notified, in writing, the AEMC that he or she considers it necessary and appropriate that the existing regulatory arrangements continue; or
 (c) the derogation is necessary to exempt, on an ongoing basis, generating, transmission or distribution systems or other facilities owned, controlled or operated in the participating jurisdiction to which the derogation relates from complying with technical standards relating to connection to the national electricity system set out in the Rules because those systems or facilities, by reason of their design or construction, are unable to comply with those standards.
 Division 2—Minister initiated National Electricity Rules
-Subdivision 1—Initial Rules made by Minister
+Subdivision 1—Initial Rules made by South Australian Minister
 90—South Australian Minister to make initial National Electricity Rules
 (1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia may make Rules for or with respect to any matter or thing referred to in section 34 and Schedule 1 to this Law.
 (2) As soon as practicable after making Rules under subsection (1), the Minister referred to in that subsection must—
@@ -3029,9 +3030,22 @@ data access amendments means the amendments made to this Law by the Statutes Ame
 (b) if different Rules will commence operation on different dates, those dates.
 (5) The Rules made under subsection (1) may only be made on the recommendation of the MCE.
 (6) Once the first Rules have been made under subsection (1), no further Rules can be made under that subsection.
+90EH—South Australian Minister to make initial Rules relating to credit support for RoLR events
+(1) The South Australian Minister may make Rules for or with respect to AEMO credit support requirements in relation to RoLR events.
+(2) Section 34(3) applies to Rules made under this section in the same way it applies to Rules made by the AEMC.
+(3) As soon as practicable after making Rules under this section, the South Australian Minister must—
+(a) publish notice of the making of the Rules in the South Australian Government Gazette; and
+(b) make the Rules publicly available.
+(4) The notice must state—
+(a) the date on which the Rules commence operation; and
+(b) if different Rules will commence operation on different dates, those dates.
+(5) Rules under this section may only be made on the recommendation of the MCE.
+(6) Once the first Rules have been made under this section, no further Rules can be made under this section.
+(7) In this section—
+RoLR event has the same meaning as in Part 6 of the National Energy Retail Law.
 Subdivision 2—Rules made by Minister from time to time
 90F—South Australian Minister may make Rules on recommendation of MCE and Energy Security Board
-(1) The Minister in right of the Crown of South Australia administering Part 2 of the National Electricity (South Australia) Act 1996 of South Australia (the South Australian Minister) may make Rules recommended by the MCE in accordance with subsection (2).
+(1) The South Australian Minister may make Rules recommended by the MCE in accordance with subsection (2).
 (2) The MCE may only recommend the making of Rules under subsection (1) if—
 (a) the Rules are for or with respect to any matter or thing referred to in section 34 and Schedule 1 to this Law; and
 (b) the Energy Security Board has recommended to the MCE that it recommend the making of the Rules under subsection (1).

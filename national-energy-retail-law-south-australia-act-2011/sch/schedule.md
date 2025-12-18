@@ -1554,12 +1554,19 @@ except to the extent that—
 (5) The matters and financial information referred to in subsection (3) are taken to be protected information for the purposes of the provisions of the NEL and NGL referred to in that subsection.
 Division 4—Appointment of designated RoLRs
 132—Designation of registered RoLR for RoLR event
-(1) If a RoLR event occurs the default RoLR is taken to be appointed as the designated RoLR in respect of that event.
-(2) Despite subsection (1), the AER may, by notice in writing, appoint a registered RoLR as a designated RoLR in respect of a RoLR event before the event actually occurs. If such an appointment is made and the AER gives a copy of the notice to AEMO before the transfer date, the registered RoLR is taken to be the designated RoLR in respect of that event instead of the default RoLR.
-(3) Appointment as a designated RoLR takes effect immediately or from an earlier or later time specified in or fixed in accordance with the RoLR notice for the RoLR event.
-(3a) The appointment of the default RoLR as the designated RoLR under subsection (1) also operates subject to—
+(1) The AER may appoint 1 or more registered RoLRs as designated RoLRs for a RoLR event—
+(a) before the RoLR event; or
+(b) within 72 hours after the RoLR event.
+(2) The appointment is made by the AER giving written notice of the appointment to the registered RoLR and AEMO.
+(2a) The appointment takes effect—
+(a) immediately; or
+(b) from an earlier or later time specified in or fixed in accordance with the RoLR notice.
+(2b) If no registered RoLR is appointed for a RoLR event before the RoLR event occurs, the default RoLR is taken to be appointed as the designated RoLR for the RoLR event—
+(a) on the occurrence of the event; or
+(b) from an earlier or later time specified in or fixed in accordance with the RoLR notice for the RoLR event.
+(3a) The appointment of the default RoLR as the designated RoLR under subsection (2b) also operates subject to—
 (a) any other provision made in the RoLR notice for the RoLR event; and
-(b) any determination by the AER in the circumstances of the particular case (including a determination that has the effect of over‑riding the operation of subsection (1) so that an appointment under that subsection will be taken not to have been made).
+(b) any determination by the AER in the circumstances of the particular case (including a determination that has the effect of over‑riding the operation of subsection (2b) so that an appointment under that subsection will be taken not to have been made).
 (4) The AER must notify a registered RoLR before appointing it as a designated RoLR, but the registered RoLR's consent is not required for appointment.
 (5) If—
 (a) the AER includes a direction under section 137 in a RoLR notice; and
@@ -1582,6 +1589,7 @@ only the same designated RoLR may, despite any other provision of this Part, be 
 (2) The guidelines must—
 (a) specify the circumstances in which the appointment of more than one designated RoLR for a RoLR event may occur; and
 (b) specify the manner of determining the allocation of the designated RoLRs to particular customers or classes of customers; and
+(ba) specify how compliance with the requirements of section 148A(3) will be assessed; and
 (c) provide for any other matter that the AER considers necessary in the circumstances.
 (3) The guidelines may (without limitation) make different provision for the failure of large retailers, small retailers and retailers that are default RoLRs.
 (4) The manner of determining the allocation of designated RoLRs referred to in subsection (2) must involve the use of meter identifiers alone or the use of a combination of meter identifiers and other means acceptable to AEMO, and must be determined by the AER in consultation with AEMO.
@@ -1602,6 +1610,9 @@ Division 5—Declaration of RoLR event
 (e) specify the date, or the manner of fixing the date, (either of which is the transfer date) on which the customers of the failed retailer are transferred to the relevant designated RoLR under section 140; and
 (f) contain the endorsement revoking the failed retailer's retailer authorisation, where applicable, under section 142; and
 (g) include any other information or matters the AER considers necessary or desirable.
+(2a) If information required under subsection (2)(c) or (d) is not known by the AER when the notice is issued—
+(a) the notice must be amended to include the information as soon as practicable after the information becomes known by the AER; and
+(b) customers of the failed retailer must not be transferred before the information required under subsection (2)(c) and (d) is included in the notice.
 (3) A RoLR notice may contain requirements (not inconsistent with this Law or the RoLR Procedures) to be complied with by—
 (a) the failed retailer; and
 (b) a designated RoLR; and
@@ -1623,6 +1634,7 @@ the transfer date is taken to be the date of the revocation or suspension (as th
 (b) a service provider for a transmission pipeline must make available to a designated RoLR the capacity that was available, immediately before the transfer date, to the failed retailer on the provider's transmission pipeline;
 (c) a producer or any other person that has contracted to sell gas to the failed retailer must make available to a designated RoLR the gas that was contracted to the failed retailer;
 (d) a blend processing service provider must make available to a designated RoLR the capacity in its blend processing facility that, immediately before the transfer date, was available to the failed retailer.
+(1a) The pipeline capacity or gas supply must be made available to the designated RoLR under subsection (1) within 24 hours after the RoLR notice containing the direction is given.
 (2) In forming its opinion under subsection (1) as to whether or not sufficient gas is available in a short term trading market, the AER may proceed on the assumption that there is not sufficient gas unless, before the issue of a RoLR notice, AEMO notifies the AER in writing that there is sufficient gas.
 (3) The following subsections of this section apply if the AER includes a direction under subsection (1).
 (4) The designated RoLR may, but is not obliged to, use any or all of the capacity or take any or all of the gas made available to it by a person who received a direction under subsection (1).
@@ -1804,6 +1816,65 @@ Division 6—Arrangements for sale of energy to transferred customers
 (3) The designated RoLR and the large customer may agree to terminate the deemed large customer retail arrangement at any time.
 (4) The designated RoLR may, at any time, serve a notice on the large customer stating that the RoLR deemed large customer retail arrangement will be terminated after the period of 6 months after the transfer date unless a retail contract is negotiated and formed in relation to the premises before the end of that period. The designated RoLR is, however, under no obligation to initiate negotiations with the large customer.
 (5) The designated RoLR may terminate the arrangement in accordance with the terms and conditions of the deemed large customer retail arrangement after the end of that period.
+148A—Designated contract for RoLR
+(1) A registered RoLR must give written notice to the AER if—
+(a) the registered RoLR is willing to transfer all the small customers of a failed retailer that are transferred to it on to a contract (a designated contract); and
+(b) the designated contract complies with this section.
+(2) The notice must be given in accordance with the AER RoLR Guidelines.
+(3) The designated contract must—
+(a) contain the same terms and conditions as a market retail contract; and
+(b) ensure a small customer under the contract will not be in a worse position than the customer would have been had the customer been transferred to the registered RoLR's standard retail contract; and
+(c) ensure the prices payable by the customer are not more than the registered RoLR's standing offer prices; and
+(d) ensure the prices payable by the customer cannot be increased during the period of 3 months after the relevant transfer date (the initial period); and
+(e) ensure the customer will not be required to pay a fee for breaking the contract during the initial period; and
+(f) comply with—
+(i) requirements of this Law or the Rules that apply to a market retail contract; and
+(ii) the AER RoLR Guidelines; and
+(g) be published on the website of the registered RoLR.
+(4) The registered RoLR must, as soon as practicable after it varies the designated contract—
+(a) give written notice to the AER about the variation; and
+Note—
+This paragraph is a civil penalty provision.
+(b) publish the designated contract as varied on the website of the registered RoLR.
+(5) If the AER forms the view that the designated contract requires review—
+(a) the AER may direct the registered RoLR to review the contract and make variations in accordance with the requirements of subsection (3); and
+(b) the registered RoLR must—
+(i) vary the contract in accordance with the AER's requirements; and
+(ii) submit the varied contract to the AER for approval; and
+(iii) as soon as practicable after the varied contract is approved by the AER—publish the varied contract on the registered RoLR's website.
+Note—
+Subsection (5)(b) is a civil penalty provision.
+148B—Transfer of customers to designated RoLR with designated contract
+(1) This section applies if—
+(a) customers are transferred to a designated RoLR as a result of a RoLR event; and
+(b) the designated RoLR has a designated contract under section 148A.
+(2) The designated RoLR must, for the transferred customers who are small customers—
+(a) make all the customers subject to the designated contract; or
+(b) make none of the customers subject to the designated contract.
+(3) The explicit informed consent of the small customers is not required to make the small customers subject to the designated contract.
+(4) If the transferred customers become subject to the designated contract—
+(a) any RoLR deemed small customer retail arrangement under this Division ceases to be in operation between the designated RoLR and the transferred customers; and
+(b) the designated contract—
+(i) is taken to be a market retail contract for the purposes of this Law and the Rules; and
+(ii) must continue to meet the requirements of section 148A(3); and
+(iii) continues in force until it is terminated or replaced in accordance with this Law and the Rules.
+(5) A fee must not be imposed on a transferred customer under the designated contract for terminating the contract—
+(a) at any time during the initial period; or
+(b) after the initial period unless the transferred customer has been given notice of the fee.
+(6) The transferred customer is taken to have been given notice of the fee if—
+(a) the transferred customer acknowledges receipt of the notice; or
+(b) the RoLR has used its best endeavours to give the transferred customer the notice.
+(7) This section does not prevent a price increasing under the designated contract.
+(8) In this section—
+initial period has the same meaning as in section 148A.
+148C—Keeping records about, and giving information to, transferred customers
+(1) A designated RoLR to which customers are transferred as a result of a RoLR event must—
+(a) keep records of the transfer for at least 2 years after the transfer; and
+(b) give information to the transferred customers in accordance with the RoLR plan for the designated RoLR.
+(2) In this section—
+RoLR plan for a designated RoLR means a RoLR plan—
+(a) prepared by the AER under section 162; and
+(b) for which the designated RoLR is a participant.
 Division 7—Information requirements
 Subdivision 1—Preliminary
 149—Operation of this Division
@@ -1924,8 +1995,8 @@ Division 8—RoLR plans
 (7) A RoLR plan must be published on the AER's website.
 (8) The AER must ensure that a RoLR plan is reviewed at such times as it considers appropriate and kept up to date to accord with the review outcomes.
 163—Contents of RoLR plans
-Without limitation, a RoLR plan must—
-(a) provide that exercises are to be held at such times as the AER considers appropriate and that a report on the conduct of each exercise be published on the AER's website; and
+Without limitation, a RoLR plan may—
+(a) provide that external exercises are to be held at such times as the AER considers appropriate and that a report on the conduct of each exercise be published on the AER's website; and
 (b) include, in the event of a RoLR event, strategies to quickly and effectively communicate—
 (i) to the affected community—general details of the event; and
 (ii) to affected small customers—details of the event and available options; and
@@ -1940,6 +2011,7 @@ Without limitation, a RoLR plan must—
 (c) include, in the event of a RoLR event, strategies for the designated RoLR to quickly and effectively communicate to affected small customers—
 (i) details of what happens with their existing contracts with the failed retailer, which must include details of the effect of sections 140 and 141 as to hardship customers, customers on life support, feed‑in arrangements, termination of direct debits (including Centrepay), refunds of advance payments, security deposits, credits on prepayment meter system accounts and uncompleted service orders; and
 (ii) details as to the designated RoLR and the arrangements that apply for the sale of energy; and
+(iii) details of any relevant designated contract under section 148B; and
 (d) include a mechanism whereby—
 (i) details of customers that are hardship customers; and
 (ii) details of premises registered as having life support equipment,
@@ -1960,24 +2032,42 @@ A registered RoLR (including but not limited to a designated RoLR) cannot recove
 (a) in the case of a default RoLR only—costs incurred in preparing for RoLR events; and
 (b) in the case of a designated RoLR only—costs incurred on and after a RoLR event, including—
 (i) costs paid to an insolvency official of a failed retailer in respect of anything done under this Part; and
-(ii) costs paid to a distributor by the RoLR for service orders and not recoverable from the customers concerned or from the failed retailer.
+(ii) costs paid to a distributor by the RoLR for service orders and not recoverable from the customers concerned or from the failed retailer; and
+(iii) other administration costs associated with the RoLR event; and
+(iv) additional energy costs in respect of customers acquired as a result of the RoLR event; and
+(v) financing costs for additional credit support provided to AEMO for the acquired customers; and
+(vi) financing costs to cover the period between a cost being incurred by the designated RoLR and the cost being recovered under the designated RoLR's cost recovery scheme.
 Notes—
 1 Regarding subparagraph (i) above, see section 171.
 2 Regarding subparagraph (ii) above, section 141(7) deals with the case where a customer has paid the failed retailer for a service order and the order has not been completed as at the transfer date.
 (4) The AER may, after receipt of an application made under subsection (1), request from the retailer such additional information as the AER considers reasonably necessary for it to determine the application. The retailer must comply with any such request.
-(5) The AER must publish on its website a notice of the application. A notice published pursuant to this subsection must invite submissions on the application within a specified period of at least 20 business days.
+(4a) A registered RoLR may give an undertaking that the RoLR, under its cost recovery scheme—
+(a) will not seek to recover a particular category of cost; or
+(b) will seek to recover only a specified percentage of its incurred costs; or
+(c) will seek to recover its incurred costs only up to a specified amount.
+(4b) The undertaking may be given by the RoLR to the AER—
+(a) at the same time as it makes its application under subsection (1); or
+(b) at another time for the purposes of including the undertaking as part of its cost recovery scheme.
+(4c) On the acceptance by the AER of an undertaking given under subsection (4b)(b), the undertaking becomes part of the RoLR cost recovery scheme and the scheme must be updated by the AER to reflect this.
+(5) The AER must publish on its website a notice of the application.
+(5a) The notice must invite submissions on the application.
+(5b) The notice must specify a period for making submissions of at least 20 business days.
+(5c) The AER may, if it is satisfied that the costs are clearly identifiable and quantifiable—
+(a) not include in the notice the invitation to make submissions on the application; or
+(b) specify a period of less than 20 business days in the notice.
+(5d) Subsections (5) to (5c) (inclusive) do not apply to an undertaking given under subsection (4b)(b).
 (6) The AER must decide whether to grant or refuse the application.
 (7) The AER must, when making its decision on the application, be guided by the following principles:
 (a) the registered RoLR should be provided with a reasonable opportunity to recover the reasonable costs that it incurs with respect to the RoLR scheme;
 (b) the recovery of costs should allow for a return commensurate with the regulatory and commercial risks with respect to the RoLR scheme;
-(c) the registered RoLR will itself bear some of the costs, in proportion to its customer base.
+(c) costs not prudently incurred by the registered RoLR in meeting its obligations should not be recoverable.
 Note—
 The AER must also have regard to the national energy retail objective.
 (8) The AER may, in determining a RoLR cost recovery scheme, limit either generally or in particular cases or classes of cases the costs (and the amount of those costs) that are recoverable.
 (9) Without limitation, the AER's determination of a RoLR cost recovery scheme may, so far as it relates to or affects tariffs payable by customers, differ between customers and classes of customers.
 (10) The AER must publish a copy of its decision on its website.
 167—RoLR cost recovery scheme distributor payment determination
-(1) The AER must, as part of its determination with respect to a RoLR cost recovery scheme under this Division and after consultation with the distributor or distributors concerned, make a determination (a RoLR cost recovery scheme distributor payment determination) that one or more distributors are to make payments towards the costs of the scheme.
+(1) The AER must, as part of its determination with respect to a RoLR cost recovery scheme under this Division and after consultation with the distributor or distributors concerned, make a determination (a RoLR cost recovery scheme distributor payment determination) that one or more distributors are to make payments to satisfy the full costs determined to be recoverable under the scheme.
 (2) A RoLR cost recovery scheme distributor payment determination is taken to be both a regulatory change event and a positive change event for the purposes of the NER.
 (3) Distributors are required to make payments to a RoLR in accordance with their liability under a RoLR cost recovery scheme distributor payment determination.
 (4) The distribution determination or applicable access arrangement (as the case may be) of each distributor who is to make payments under a RoLR cost recovery scheme distributor payment determination is taken to be amended so that any payments the distributor so makes are taken to be—
@@ -1988,9 +2078,14 @@ Note—
 See also section 133(2).
 (6) Section 23(5) does not apply to a retailer in respect of a variation of its standing offer prices as a result of a RoLR cost recovery scheme.
 168—Amendment of schemes and determinations
-A RoLR cost recovery scheme or a RoLR cost recovery scheme distributor payment determination may be amended by determination of the AER—
+(1) A cost recovery scheme, including a RoLR cost recovery scheme, or a RoLR cost recovery scheme distributor payment determination may be amended by determination of the AER—
 (a) on application by, or after consultation with, the registered RoLR and after consultation with the distributors who are or will be affected; or
 (b) on application by a distributor who is or will be affected and after consultation with the registered RoLR and other distributors who are or will be affected.
+(2) The AER may make a determination to amend the scheme or determination if the AER—
+(a) is satisfied that there is—
+(i) a material error in the scheme or determination; or
+(ii) the scheme or determination is deficient because of false or misleading information given to the AER; and
+(b) has consulted with the registered RoLR and any distributor who may be affected by the change.
 Division 10—Miscellaneous
 169—Information to be included in customer retail contracts
 All customer retail contracts for small customers must include a notice explaining what will happen to the customer's arrangements for the purchase of energy if a RoLR event occurs.
@@ -3539,3 +3634,9 @@ exempt seller means a person who is exempt, under Part 5, Division 6 of this Law
 (3) A retailer who immediately before the commencement day was appointed as a designated RoLR for a gas distribution system continues to be the designated RoLR for that distribution system whether the distribution system is used for natural gas or a natural gas equivalent.
 (4) Nothing in this clause limits the power of the AER to terminate the appointment and registration of a retailer as a default RoLR in accordance with section 125(9) of this Law.
 (5) Nothing in this clause limits the power of the AER to terminate the registration of a retailer as a RoLR in accordance with section 128 of this Law.
+Part 6—Savings and transitional provisions related to RoLR
+17—Amendment of RoLR Guidelines and RoLR plan
+(1) The AER must update the following to take account of the amendments made to this Law by the National Energy Retail Law (Retailer of Last Resort) Amendment Act 2025 (the amending Act)—
+(a) the AER RoLR Guidelines under section 135;
+(b) the RoLR plan under section 162.
+(2) The AER must ensure the updates are completed within 6 months after the commencement of the amending Act.
