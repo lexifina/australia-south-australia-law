@@ -1775,6 +1775,13 @@ Penalty:
 188A—Offence to give false or misleading information to approved provider about prohibition notice
 A person who is subject to a prohibition notice under this Law as applying in any participating jurisdiction must not give an approved provider any information about the content or existence of the prohibition notice that is false or misleading in any material particular.
 Penalty: $6 800.
+188B—Offence to make false or misleading statement to recruitment agency about prohibition notice
+(1) A specified person who is subject to a prohibition notice that is in force under this Law as applying in any participating jurisdiction must not make a statement to a recruitment agency about the content or existence of the prohibition notice that is false or misleading in any material particular because of—
+(a) the inclusion in the statement of a false or misleading matter; or
+(b) the omission from the statement of a material matter.
+Penalty: $20 400.
+(2) In this section—
+specified person means an individual who has entered into an agreement with a recruitment agency for the agency to procure for that individual education and care related work.
 Division 4—Emergency removal of children
 189—Emergency removal of children
 (1) This section applies if the Regulatory Authority considers, on reasonable grounds, that there is an immediate danger to the safety or health of a child or children being educated and cared for by an education and care service.
