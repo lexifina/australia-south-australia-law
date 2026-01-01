@@ -6,7 +6,7 @@ Division 1—Processes generally
 Division 2—Processes when constituted as an industrial relations commission
 Part 3—Representation
 Part 4—Concurrent appointments—other industrial authorities
-Part 5—Special provisions relating to monetary claims
+Part 5—Special provisions relating to monetary claims etc
 Chapter 3—Employment
 Part A1—Interpretation
 Part 1—General conditions of employment
@@ -25,6 +25,7 @@ Division 3—Recovery of unpaid remuneration
 Part 4—General principles affecting determination of working conditions
 Part 5—Enforcement of obligations arising from employment
 Division 1—Records to be kept by employers
+Division 2—Civil penalty provisions
 Part 6—Unfair dismissal
 Division 1—Preliminary
 Division 2—Application for relief
