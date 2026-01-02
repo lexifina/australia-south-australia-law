@@ -302,8 +302,8 @@ A provider approval authorises the approved provider to operate an approved educ
 (3) A condition of a provider approval applies to the provider as the operator of any education and care service or associated children's service, unless the condition expressly provides otherwise.
 (4) An approved provider must comply with the conditions of the provider approval.
 Penalty:
-(a) $11 400, in the case of an individual.
-(b) $57 400, in any other case.
+(a) $34 200, in the case of an individual.
+(b) $172 200, in any other case.
 20—Copy of provider approval
 If the Regulatory Authority grants a provider approval under this Part, the Regulatory Authority must provide a copy of the provider approval to the approved provider stating—
 (a) the name of the approved provider; and
@@ -436,8 +436,8 @@ The Regulatory Authority must refuse to approve a provider if the Regulatory Aut
 (2) The Regulatory Authority may require the person who is or was the approved provider to give written notice of the suspension or cancellation and its effect to the parents of children enrolled at all or any of the education and care services operated by that person.
 (3) A person must comply with a requirement made of that person under subsection (2).
 Penalty:
-(a) $3 400, in the case of an individual.
-(b) $17 200, in any other case.
+(a) $10 200, in the case of an individual.
+(b) $51 600, in any other case.
 37—Voluntary suspension of provider approval
 (1) An approved provider may apply to the Regulatory Authority for a suspension of the provider approval for a period of not more than 12 months.
 (2) The application must—
@@ -620,8 +620,8 @@ An emergency under this subsection would include circumstances where a child is 
 (7) A condition of a service approval may be expressed to apply solely to an associated children's service only if the Regulatory Authority has first consulted with the children's services regulator.
 (8) An approved provider must comply with the conditions of a service approval held by the approved provider.
 Penalty:
-(a) $11 400, in the case of an individual.
-(b) $57 400, in any other case.
+(a) $34 200, in the case of an individual.
+(b) $172 200, in any other case.
 52—Copy of service approval to be provided
 If the Regulatory Authority grants a service approval under this Part, the Regulatory Authority must provide a copy of the service approval to the approved provider stating—
 (a) the name of the education and care service; and
@@ -758,16 +758,16 @@ A transfer of a service approval is void if—
 68—Confirmation of transfer
 (1) The transferring approved provider and the receiving approved provider must give written notice to the Regulatory Authority within 2 days after the transfer takes effect specifying the date of the transfer.
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 (2) On receipt of a notice under this section, the Regulatory Authority must amend the service approval and provide an amended copy of the service approval to the receiving approved provider.
 (3) The amendment to the service approval is taken to take effect on the date of the transfer.
 (4) An approved provider who gives notice under this section is not guilty of an offence for a failure of any other person to give that notice.
 69—Notice to parents
 (1) The receiving approved provider must give written notice to the parents of children enrolled at an education and care service of the transfer of the service approval for that service to that provider.
 Penalty:
-(a) $3 400, in the case of an individual.
-(b) $17 200, in any other case.
+(a) $10 200, in the case of an individual.
+(b) $51 600, in any other case.
 (2) The notice must be given at least 7 days before the date on which the transfer of the service approval takes effect.
 Division 4—Suspension or cancellation of service approval
 70—Grounds for suspension of service approval
@@ -867,8 +867,8 @@ A Regulatory Authority may cancel a service approval if—
 (2) The Regulatory Authority may require the approved provider to give written notice of the suspension or cancellation and its effect to the parents of children enrolled at the education and care service to which the approval relates and any associated children's service.
 (3) The approved provider must comply with a requirement made under subsection (2).
 Penalty:
-(a) $3 400, in the case of an individual.
-(b) $17 200, in any other case.
+(a) $10 200, in the case of an individual.
+(b) $51 600, in any other case.
 85—Voluntary suspension of service approval
 (1) An approved provider may apply to the Regulatory Authority for the suspension of a service approval for a period of not more than 12 months.
 (2) The application must—
@@ -970,19 +970,19 @@ Division 9—Offences
 (a) the person is an approved provider in respect of that service; and
 (b) the education and care service is an approved education and care service.
 Penalty:
-(a) $22 900, in the case of an individual.
-(b) $114 900, in any other case.
+(a) $68 700, in the case of an individual.
+(b) $344 700, in any other case.
 (2) Subsection (1) does not apply to a family day care educator providing education and care to children as part of an approved family day care service.
 103A—Offence relating to places where education and care is provided as part of a family day care service
 An approved provider of a family day care service must ensure that education and care is not provided to children, as part of the service, from a place that is not a family day care residence or an approved family day care venue unless otherwise permitted by this Law.
 Penalty:
-(a) $22 900, in the case of an individual.
-(b) $114 900, in any other case.
+(a) $68 700, in the case of an individual.
+(b) $344 700, in any other case.
 104—Offence to advertise education and care service without service approval
 (1) A person must not knowingly publish or cause to be published an advertisement for an education and care service unless it is an approved education and care service.
 Penalty:
-(a) $6 800, in the case of an individual.
-(b) $34 400, in any other case.
+(a) $20 400, in the case of an individual.
+(b) $103 200, in any other case.
 (2) Subsection (1) does not apply if an application for a service approval in respect of the education and care service has been made under this Law but has not been decided.
 Part 4—Approval in principle for education and care service premises located in certain types of buildings
 Division 1—Application of this Part
@@ -1370,21 +1370,21 @@ Part 6—Operating an education and care service
 161—Offence to operate education and care service without nominated supervisor
 The approved provider of an education and care service must not operate the service unless there is at least one nominated supervisor for that service.
 Penalty:
-(a) $5 700, in the case of an individual.
-(b) $28 700, in any other case.
+(a) $17 100, in the case of an individual.
+(b) $86 100, in any other case.
 161A—Offence for nominated supervisor not to meet prescribed minimum requirements
 The approved provider of an education and care service must not nominate an individual to be a nominated supervisor of that service unless that individual meets the prescribed minimum requirements for nomination as a nominated supervisor.
 Penalty:
-(a) $5 700, in the case of an individual.
-(b) $28 700, in any other case.
+(a) $17 100, in the case of an individual.
+(b) $86 100, in any other case.
 162—Offence to operate education and care service unless responsible person is present
 (1) The approved provider of an education and care service must ensure that one of the following persons is present at all times that the service is educating and caring for children:
 (a) the approved provider, if the approved provider is an individual or, in any other case, a person with management or control of an education and care service operated by the approved provider;
 (b) a nominated supervisor of the service;
 (c) a person in day-to-day charge of the service.
 Penalty:
-(a) $5 700, in the case of an individual.
-(b) $28 700, in any other case.
+(a) $17 100, in the case of an individual.
+(b) $86 100, in any other case.
 (2) This section does not apply to an approved family day care service.
 162A—Child protection training
 The approved provider of an education and care service must ensure that each of the following persons have completed the child protection training (if any) required by or under the law of this jurisdiction, by government protocol applying to the approved provider in this jurisdiction or as otherwise required in this jurisdiction:
@@ -1396,8 +1396,8 @@ The approved provider of an education and care service must ensure that each of 
 (a) to assist with the operation of the family day care service; and
 (b) to support, monitor and train the family day care educators of that service.
 Penalty:
-(a) $5 700, in the case of an individual.
-(b) $28 700, in any other case.
+(a) $17 100, in the case of an individual.
+(b) $86 100, in any other case.
 (2) A person is a qualified person under this section if the person has the qualifications prescribed by the national regulations.
 164—Offence relating to assistance to family day care educators
 (1) The approved provider of a family day care service must ensure that, at all times that a family day care educator is educating and caring for a child as part of the service, one of the following persons is available to provide support to the family day care educator:
@@ -1405,53 +1405,53 @@ Penalty:
 (b) a nominated supervisor of the service;
 (c) a person in day-to-day charge of the service.
 Penalty:
-(a) $5 700, in the case of an individual.
-(b) $28 700, in any other case.
+(a) $17 100, in the case of an individual.
+(b) $86 100, in any other case.
 (2) For the purposes of this section, the requirement to be available to provide support to a family day care educator includes being available to be contacted by telephone to provide advice and assistance to the family day care educator.
 164A—Offence relating to the education and care of children by family day care service
 (1) The approved provider of a family day care service must ensure that any child being educated and cared for as part of the service is not educated and cared for by a person other than a family day care educator, except in the circumstances prescribed by the national regulations.
 Penalty:
-(a) $11 400, in the case of an individual.
-(b) $57 400, in any other case.
+(a) $34 200, in the case of an individual.
+(b) $172 200, in any other case.
 (2) A family day care educator must ensure that any child being educated and cared for by the educator as part of a family day care service is not educated or cared for by any other person at the family day care residence or approved family day care venue, except in the circumstances prescribed by the national regulations.
-Penalty: $2 200.
+Penalty: $6 600.
 165—Offence to inadequately supervise children
 (1) The approved provider of an education and care service must ensure that all children being educated and cared for by the service are adequately supervised at all times that the children are in the care of that service.
 Penalty:
-(a) $11 400, in the case of an individual.
-(b) $57 400, in any other case.
+(a) $34 200, in the case of an individual.
+(b) $172 200, in any other case.
 (2) A nominated supervisor of an education and care service must ensure that all children being educated and cared for by the service are adequately supervised at all times that the children are in the care of that service.
-Penalty: $11 400.
+Penalty: $34 200.
 (3) A family day care educator must ensure that any child being educated and cared for by the educator as a part of a family day care service is adequately supervised.
-Penalty: $11 400.
+Penalty: $34 200.
 166—Offence to use inappropriate discipline
 (1) The approved provider of an education and care service must ensure that no child being educated and cared for by the service is subjected to—
 (a) any form of corporal punishment; or
 (b) any discipline that is unreasonable in the circumstances.
 Penalty:
-(a) $11 400, in the case of an individual.
-(b) $57 400, in any other case.
+(a) $34 200, in the case of an individual.
+(b) $172 200, in any other case.
 (2) A nominated supervisor of an education and care service must ensure that no child being educated and cared for by the service is subjected to—
 (a) any form of corporal punishment; or
 (b) any discipline that is unreasonable in the circumstances.
-Penalty: $11 400.
+Penalty: $34 200.
 (3) A staff member of, or a volunteer at, an education and care service must not subject any child being educated and cared for by the service to—
 (a) any form of corporal punishment; or
 (b) any discipline that is unreasonable in the circumstances.
-Penalty: $11 400.
+Penalty: $34 200.
 (4) A family day care educator must not subject any child being educated and cared for by the educator as part of a family day care service to—
 (a) any form of corporal punishment; or
 (b) any discipline that is unreasonable in the circumstances.
-Penalty: $11 400.
+Penalty: $34 200.
 167—Offence relating to protection of children from harm and hazards
 (1) The approved provider of an education and care service must ensure that every reasonable precaution is taken to protect children being educated and cared for by the service from harm and from any hazard likely to cause injury.
 Penalty:
-(a) $11 400, in the case of an individual.
-(b) $57 400, in any other case.
+(a) $34 200, in the case of an individual.
+(b) $172 200, in any other case.
 (2) A nominated supervisor of an education and care service must ensure that every reasonable precaution is taken to protect children being educated and cared for by the service from harm and from any hazard likely to cause injury.
-Penalty: $11 400.
+Penalty: $34 200.
 (3) A family day care educator must ensure that every reasonable precaution is taken to protect a child being educated and cared for as part of a family day care service from harm and from any hazard likely to cause injury.
-Penalty: $11 400.
+Penalty: $34 200.
 168—Offence relating to required programs
 (1) The approved provider of an education and care service must ensure that a program is delivered to all children being educated and cared for by the service that—
 (a) is based on an approved learning framework; and
@@ -1459,29 +1459,29 @@ Penalty: $11 400.
 (c) is based on the developmental needs, interests and experiences of each child; and
 (d) is designed to take into account the individual differences of each child.
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 (2) A nominated supervisor of an education and care service must ensure that a program is delivered to all children being educated and cared for by the service that—
 (a) is based on an approved learning framework; and
 (b) is delivered in a manner that accords with the approved learning framework; and
 (c) is based on the developmental needs, interests and experiences of each child; and
 (d) is designed to take into account the individual differences of each child.
-Penalty: $4 500.
+Penalty: $13 500.
 169—Offence relating to staffing arrangements
 (1) An approved provider of an education and care service must ensure that, whenever children are being educated and cared for by the service, the relevant number of educators educating and caring for the children is no less than the number prescribed for this purpose.
 Penalty:
-(a) $11 400, in the case of an individual.
-(b) $57 400, in any other case.
+(a) $34 200, in the case of an individual.
+(b) $172 200, in any other case.
 (2) An approved provider of an education and care service must ensure that each educator educating and caring for children for the service meets the qualification requirements relevant to the educator's role as prescribed by the national regulations.
 Penalty:
-(a) $11 400, in the case of an individual.
-(b) $57 400, in any other case.
+(a) $34 200, in the case of an individual.
+(b) $172 200, in any other case.
 (3) A nominated supervisor of an education and care service must ensure that, whenever children are being educated and cared for by the service, the relevant number of educators educating and caring for the children is no less than the number prescribed for this purpose.
-Penalty: $11 400.
+Penalty: $34 200.
 (4) A nominated supervisor of an education and care service must ensure that each educator educating and caring for children for the service meets the qualification requirements relevant to the educator's role as prescribed by the national regulations.
-Penalty: $11 400.
+Penalty: $34 200.
 (5) A family day care educator must ensure that the number of children being educated and cared for by the family day care educator at any one time is no more than the number prescribed for this purpose.
-Penalty: $11 400.
+Penalty: $34 200.
 (6) Subsections (1), (2), (3), (4) and (5) do not apply in respect of an education and care service—
 (a) to the extent that it holds a temporary waiver under Division 6 of Part 3 in respect of this requirement; or
 (b) to the extent that it holds a service waiver under Division 5 of Part 3 in respect of this requirement.
@@ -1493,16 +1493,16 @@ Penalty: $11 400.
 (a) the person is an authorised person; or
 (b) the person is under the direct supervision of an educator or other staff member of the service.
 Penalty:
-(a) $1 100, in the case of an individual.
-(b) $5 700, in any other case.
+(a) $3 300, in the case of an individual.
+(b) $17 100, in any other case.
 (3) A nominated supervisor of the education and care service must ensure that a person does not remain at the education and care service premises while children are being educated and cared for at the premises, unless—
 (a) the person is an authorised person; or
 (b) the person is under the direct supervision of an educator or other staff member of the service.
-Penalty: $1 100.
+Penalty: $3 300.
 (4) A family day care educator must ensure that a person does not remain at the family day care residence or approved family day care venue at which the educator is educating and caring for children, unless—
 (a) the person is an authorised person; or
 (b) the person is under the direct supervision of the educator.
-Penalty: $1 100.
+Penalty: $3 300.
 (5) In this section—
 authorised nominee, in relation to a child, means a person who has been given permission by a parent or family member of the child to collect the child from the education and care service or the family day care educator;
 authorised person means a person who is—
@@ -1518,8 +1518,8 @@ authorised person means a person who is—
 (1) The Regulatory Authority may direct an approved provider, a nominated supervisor or a family day care educator to exclude a person whom the Authority is satisfied is an inappropriate person from the education and care service premises while children are being educated and cared for at the premises for such time as the Authority considers appropriate.
 (2) A person to whom a direction is given under subsection (1) must comply with the direction.
 Penalty:
-(a) $11 400, in the case of an individual.
-(b) $57 400, in any other case.
+(a) $34 200, in the case of an individual.
+(b) $172 200, in any other case.
 (3) In this section—
 inappropriate person means a person—
 (a) who may pose a risk to the safety, health or wellbeing of any child or children being educated and cared for by the education and care service; or
@@ -1535,8 +1535,8 @@ A person who is under the influence of drugs or alcohol.
 (e) any service waivers or temporary waivers held by the service;
 (f) any other prescribed matters.
 Penalty:
-(a) $3 400, in the case of an individual.
-(b) $17 200, in any other case.
+(a) $10 200, in the case of an individual.
+(b) $51 600, in any other case.
 (2) An approved provider of a family day care service must ensure that the prescribed information about the following is displayed at the education and care service premises of the family day care service in accordance with the national regulations:
 (a) the provider approval;
 (b) the service approval;
@@ -1545,16 +1545,16 @@ Penalty:
 (e) any service waivers or temporary waivers held by the service;
 (f) any other prescribed matters.
 Penalty:
-(a) $3 400, in the case of an individual.
-(b) $17 200, in any other case.
+(a) $10 200, in the case of an individual.
+(b) $51 600, in any other case.
 173—Offence to fail to notify certain circumstances to Regulatory Authority
 (1) An approved provider must notify the Regulatory Authority of the following in relation to the approved provider or each approved education and care service operated by the approved provider:
 (a) a change in the name of the approved provider;
 (b) any appointment or removal of a person with management or control of an education and care service operated by the approved provider;
 (c) a failure to commence operating an education and care service within 6 months (or within the time agreed with the Regulatory Authority) after being granted a service approval for the service.
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 (2) An approved provider must notify the Regulatory Authority of the following in relation to an approved education and care service operated by the approved provider:
 (a) if the approved provider is notified of the suspension or cancellation of a working with children card or teacher registration of, or disciplinary proceedings under an education law of a participating jurisdiction in respect of, a nominated supervisor engaged by the service;
 (b) if a nominated supervisor of an approved education and care service—
@@ -1566,8 +1566,8 @@ Penalty:
 (e) in the case of an approved family day care service, a change in the location of the principal office of the service;
 (f) an intention to transfer a service approval, as required under section 59.
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 (3) A notice under subsection (1) or (2) must—
 (a) be in writing; and
 (b) include any prescribed information.
@@ -1578,8 +1578,8 @@ Penalty:
 (a) any change relevant to whether the approved provider is a fit and proper person to be involved in the provision of an education and care service;
 (b) information in respect of any other prescribed matters.
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 (2) An approved provider must notify the Regulatory Authority of the following information in relation to an approved education and care service operated by the approved provider:
 (a) any serious incident at the approved education and care service;
 (b) any complaints alleging—
@@ -1587,8 +1587,8 @@ Penalty:
 (ii) that this Law has been contravened;
 (c) information in respect of any other prescribed matters.
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 (3) A notice under subsection (1) must be in writing and be provided within the relevant prescribed time to the Regulatory Authority that granted the provider approval.
 (4) A notice under subsection (2) must be in writing and be provided within the relevant prescribed time to—
 (a) the Regulatory Authority that granted the service approval for the education and care service to which the notice relates; and
@@ -1600,12 +1600,12 @@ A family day care educator who educates and cares for children as part of a fami
 (i) that a serious incident has occurred or is occurring while a child was or is being educated and cared for by the educator; or
 (ii) that this Law has been contravened;
 (c) information in respect of any other prescribed matters.
-Penalty: $2 200.
+Penalty: $6 600.
 175—Offence relating to requirement to keep enrolment and other documents
 (1) An approved provider of an education and care service must keep the prescribed documents available for inspection by an authorised officer in accordance with this section.
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 (2) Documents referred to in subsection (1)—
 (a) must, to the extent practicable, be kept at the education and care service premises if they relate to—
 (i) the operation of the service; or
@@ -1614,7 +1614,7 @@ Penalty:
 in the previous 12 months; and
 (b) in any other case, must be kept at a place, and in a manner, that they are readily accessible by an authorised officer.
 (3) A family day care educator who educates and cares for a child at a residence or approved family day care venue, as part of a family day care service, must keep the prescribed documents available for inspection by an authorised officer at that residence or venue.
-Penalty: $4 500.
+Penalty: $13 500.
 Part 7—Compliance with this Law
 Division 1—Notices
 176—Compliance directions
@@ -1622,15 +1622,15 @@ Division 1—Notices
 (2) The Regulatory Authority may give the approved provider a written direction (a compliance direction) requiring the approved provider to take the steps specified in the direction to comply with that provision.
 (3) An approved provider must comply with a direction under subsection (2) within the period (being not less than 14 days) specified in the direction.
 Penalty:
-(a) $2 200, in the case of an individual.
-(b) $11 400, in any other case.
+(a) $6 600, in the case of an individual.
+(b) $34 200, in any other case.
 177—Compliance notices
 (1) This section applies if the Regulatory Authority is satisfied that an education and care service is not complying with any provision of this Law.
 (2) The Regulatory Authority may give the approved provider a notice (a compliance notice) requiring the approved provider to take the steps specified in the notice to comply with that provision.
 (3) An approved provider must comply with a compliance notice under subsection (2) within the period (being not less than 14 days) specified in the notice.
 Penalty:
-(a) $6 800, in the case of an individual.
-(b) $34 400, in any other case.
+(a) $20 400, in the case of an individual.
+(b) $103 200, in any other case.
 178—Notice to suspend education and care by a family day care educator
 (1) This section applies if the Regulatory Authority is satisfied that because of the conduct of, or the inadequacy of the service provided by, a family day care educator engaged by or registered with a family day care service—
 (a) the approved provider or a nominated supervisor of an approved family day care service is not complying with any provision of this Law; or
@@ -1650,15 +1650,15 @@ Penalty:
 (6) If the Regulatory Authority decides not to give the direction to suspend, the Regulatory Authority must give the approved provider notice of the decision.
 (7) A person must comply with a direction under subsection (4).
 Penalty:
-(a) $6 800, in the case of an individual.
-(b) $34 400, in any other case.
+(a) $20 400, in the case of an individual.
+(b) $103 200, in any other case.
 179—Emergency action notices
 (1) This section applies if the Regulatory Authority is satisfied that an education and care service is operating in a manner that poses, or is likely to pose, an immediate risk to the safety, health or wellbeing of a child or children being educated and cared for by the service.
 (2) The Regulatory Authority may, by written notice, direct the approved provider of the education and care service to take the steps specified in the notice to remove or reduce the risk within the time (not more than 14 days) specified in the notice.
 (3) An approved provider must comply with a direction given under subsection (2).
 Penalty:
-(a) $6 800, in the case of an individual.
-(b) $34 400, in any other case.
+(a) $20 400, in the case of an individual.
+(b) $103 200, in any other case.
 Division 2—Enforceable undertakings
 179A—Enforceable undertakings
 (1) This section applies—
@@ -1754,27 +1754,27 @@ or in any other capacity.
 (a) provide education and care to children for an education and care service; or
 (b) be engaged as an educator, family day care educator, employee, contractor or staff member of, or perform volunteer services for, an education and care service; or
 (c) carry out any other activity relating to education and care services.
-Penalty: $22 900.
+Penalty: $68 700.
 (2) While a prohibition notice under section 182(3) is in force under this Law as applying in any participating jurisdiction for a person, the person must not—
 (a) in the case of a prohibition notice under section 182(3)(a), consent to a nomination of that person as a nominated supervisor of an education and care service; or
 (b) in the case of a prohibition notice under section 182(3)(b), consent to a nomination of that person as a nominated supervisor of an education and care service in contravention of a condition or conditions stated in the prohibition notice.
-Penalty: $22 900.
+Penalty: $68 700.
 188—Offence to engage person to whom prohibition notice applies
 (1) An approved provider must not engage a person as an educator, family day care educator, employee, contractor or staff member of, or allow a person to perform volunteer services for, an education and care service if the provider knows, or ought reasonably to know, a prohibition notice is in force under this Law as applying in any participating jurisdiction in respect of the person.
 Penalty:
-(a) $22 900, in the case of an individual.
-(b) $114 900, in any other case.
+(a) $68 700, in the case of an individual.
+(b) $344 700, in any other case.
 (2) An approved provider must not nominate a person as a nominated supervisor of an education and care service if the approved provider knows, or ought reasonably to know, that a prohibition notice is in force under this Law as applying in any participating jurisdiction prohibiting the nomination of that person as a nominated supervisor of an education and care service.
 Penalty:
-(a) $22 900, in the case of an individual.
-(b) $114 900, in any other case.
+(a) $68 700, in the case of an individual.
+(b) $344 700, in any other case.
 (3) An approved provider must not nominate a person as a nominated supervisor of an education and care service if the approved provider knows, or ought reasonably to know, that the nomination would place the person in contravention of a condition of a prohibition notice in force under this Law as applying in any participating jurisdiction.
 Penalty:
-(a) $22 900, in the case of an individual.
-(b) $114 900, in any other case.
+(a) $68 700, in the case of an individual.
+(b) $344 700, in any other case.
 188A—Offence to give false or misleading information to approved provider about prohibition notice
 A person who is subject to a prohibition notice under this Law as applying in any participating jurisdiction must not give an approved provider any information about the content or existence of the prohibition notice that is false or misleading in any material particular.
-Penalty: $6 800.
+Penalty: $20 400.
 188B—Offence to make false or misleading statement to recruitment agency about prohibition notice
 (1) A specified person who is subject to a prohibition notice that is in force under this Law as applying in any participating jurisdiction must not make a statement to a recruitment agency about the content or existence of the prohibition notice that is false or misleading in any material particular because of—
 (a) the inclusion in the statement of a false or misleading matter; or
@@ -1867,10 +1867,10 @@ Division 1—Authorised officers
 (b) show the identity card—
 (i) before exercising a power of entry under this Law; and
 (ii) at any time during the exercise of a power under this Law when asked to do so.
-Penalty: $1 100.
+Penalty: $3 300.
 (4) An authorised officer who fails to comply with subsection (3)(b) in relation to the exercise of a power ceases to be authorised to exercise the power in relation to the matter.
 (5) An authorised officer must return his or her identity card to the Regulatory Authority on ceasing to be authorised as an authorised officer for the purposes of this Law.
-Penalty: $1 100.
+Penalty: $3 300.
 Division 2—Powers of entry
 197—Powers of entry for assessing and monitoring approved education and care service
 (1) An authorised officer may exercise a power under this section for any of the following purposes:
@@ -1990,24 +1990,24 @@ Division 4—Offences relating to enforcement
 207—Offence to obstruct authorised officer
 A person must not obstruct an authorised officer in exercising his or her powers under this Law.
 Penalty:
-(a) $9 100, in the case of an individual.
-(b) $45 900, in any other case.
+(a) $27 300, in the case of an individual.
+(b) $137 700, in any other case.
 208—Offence to fail to assist authorised officer
 A person must not, without reasonable excuse—
 (a) refuse to answer a question lawfully asked by an authorised officer (other than a question asked under section 197(2)(e)); or
 (b) refuse to provide information or produce a document lawfully required by an authorised officer; or
 (c) fail to comply with a requirement made by an authorised officer under clause 5(2)(f) or (g) of Schedule 2.
 Penalty:
-(a) $9 100, in the case of an individual.
-(b) $45 900, in any other case.
+(a) $27 300, in the case of an individual.
+(b) $137 700, in any other case.
 209—Offence to destroy or damage notices or documents
 A person must not, without lawful authority, destroy or damage any notice or document given or prepared or kept under this Law.
 Penalty:
-(a) $9 100, in the case of an individual.
-(b) $45 900, in any other case.
+(a) $27 300, in the case of an individual.
+(b) $137 700, in any other case.
 210—Offence to impersonate authorised officer
 A person must not impersonate an authorised officer.
-Penalty: $9 100.
+Penalty: $27 300.
 211—Protection against self incrimination
 (1) An individual may refuse or fail to give information or do any other thing that the individual is required to do by or under this Law if giving the information or doing the thing might incriminate the individual.
 (2) However, subsection (1) does not apply to—
@@ -2058,13 +2058,13 @@ The Regulatory Authority may, for the purpose of a rating assessment—
 217—Offence to fail to comply with notice or requirement
 A person must not refuse or fail to comply with a requirement under section 215 or 216 to the extent that the person is capable of complying with that requirement.
 Penalty:
-(a) $9 100, in the case of an individual.
-(b) $45 900, in any other case.
+(a) $27 300, in the case of an individual.
+(b) $137 700, in any other case.
 218—Offence to hinder or obstruct Regulatory Authority
 A person must not obstruct or hinder the Regulatory Authority in exercising a power under section 215 or 216.
 Penalty:
-(a) $9 100, in the case of an individual.
-(b) $45 900, in any other case.
+(a) $27 300, in the case of an individual.
+(b) $137 700, in any other case.
 219—Self incrimination not an excuse
 (1) A person is not excused from complying with a notice or requirement under section 215 or 216 on the ground that complying with the notice or requirement may result in information being provided that might tend to incriminate the person.
 (2) Subject to subsection (3), disclosed information is not admissible in evidence against the individual in any criminal proceedings (other than proceedings under section 218 or 295) or in any civil proceedings.
@@ -2480,20 +2480,20 @@ Division 4—Registers
 (b) each family day care co-ordinator employed or engaged by the service;
 (c) each family day care educator assistant engaged by or registered with the service.
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 (2) The approved provider must take reasonable steps to ensure that the information contained in the register is accurate.
 Penalty:
-(a) $2 200, in the case of an individual.
-(b) $11 400, in any other case.
+(a) $6 600, in the case of an individual.
+(b) $34 200, in any other case.
 (3) The approved provider must provide any information on the register and any changes to the information on the register to the Regulatory Authority on request within 24 hours of the Regulatory Authority's request.
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 (4) The approved provider must keep the register in accordance with the prescribed requirements (if any).
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 Division 5—Publication of information
 270—Publication of information
 (1) The National Authority and the Regulatory Authority may publish the following information about approved providers, approved education and care services and nominated supervisors:
@@ -2571,7 +2571,7 @@ Division 6—Disclosure of information
 specified person means an individual who has entered into an agreement with a recruitment agency for the agency to procure for that individual education and care related work.
 273—Duty of confidentiality
 (1) An individual who is, or who has been, a person exercising functions under this Law must not disclose to another person protected information.
-Penalty: $5 700.
+Penalty: $17 100.
 (2) However, subsection (1) does not apply if—
 (a) the information is disclosed in the exercise of a function under, or for the purposes of, or in accordance with, this Law; or
 (b) the disclosure is authorised or required by any law of a participating jurisdiction, or is otherwise required or permitted by law; or
@@ -2697,7 +2697,7 @@ If a person has been convicted or found guilty in another participating jurisdic
 (3) If the Regulatory Authority refers a matter under subsection (2), a prosecution cannot be brought under this Law for an offence in relation to that matter.
 291—Infringement offences
 (1) An authorised officer or other person authorised by the Regulatory Authority may serve an infringement notice on a person for a contravention of—
-(a) section 172, 173, 176 or 269; or
+(a) section 36(3), 68(1), 69(1), 84(3), 161, 161A, 162(1), 163(1), 170(2), (3) or (4), 172, 173, 174(1) or (2), 175(1) or (3), 176(3), 177(3), 178(7), 179(3), 217 or 269; or
 (b) offences against the national regulations that are prescribed for the purposes of this section.
 (2) The infringement penalty for an offence for which an infringement notice may be served on a person is the amount which is 10 per cent of the maximum penalty that could be imposed on the person in respect of that offence.
 (3) An infringement notice must be in the form prescribed or contain the information prescribed by the infringements law of this jurisdiction.
@@ -2744,8 +2744,8 @@ Division 6—False or misleading information
 295—False or misleading information or documents
 (1) A person must not give the Regulatory Authority or an authorised officer under this Law any information or document that the person knows is false or misleading in a material particular.
 Penalty:
-(a) $6 800, in the case of an individual.
-(b) $34 400, in any other case.
+(a) $20 400, in the case of an individual.
+(b) $103 200, in any other case.
 (2) Subsection (1) does not apply in respect of the giving of a document, if the person when giving the document—
 (a) informs the Regulatory Authority or authorised officer, to the best of the person's ability, how it is false or misleading; and
 (b) gives the correct information to the Regulatory Authority or authorised officer if the person has, or can reasonably obtain, the correct information.
@@ -2761,8 +2761,8 @@ serious detrimental action includes dismissal, involuntary transfer, loss of pro
 297—Protection from reprisal
 (1) A person must not take serious detrimental action against a person in reprisal for a protected disclosure.
 Penalty:
-(a) $11 400, in the case of an individual.
-(b) $57 400, in any other case.
+(a) $34 200, in the case of an individual.
+(b) $172 200, in any other case.
 (2) A person takes serious detrimental action in reprisal for a protected disclosure if—
 (a) the person takes or threatens to take the action because—
 (i) a person has made, or intends to make, a protected disclosure; or
@@ -2820,7 +2820,7 @@ Division 8—National regulations
 (f) may apply, adopt or incorporate by reference any document either—
 (i) as in force at the date the national regulations come into operation or at any date before then; or
 (ii) wholly or in part or as amended by the national regulations; and
-(g) may impose penalties not exceeding $2 200 for offences against the national regulations.
+(g) may impose penalties not exceeding $6 600 for offences against the national regulations.
 302—Publication of national regulations
 (1) The national regulations are to be published on the NSW Legislation website in accordance with Part 6A of the Interpretation Act 1987 of New South Wales.
 (2) A regulation commences on the day or days specified in the regulation for its commencement (being not earlier than the date it is published).
@@ -2946,8 +2946,8 @@ Division 4—General
 (a) continue to keep all documents required under the former education and care services law to be kept in respect of the service; and
 (b) make those documents available to the Regulatory Authority on request.
 Penalty:
-(a) $4 500, in the case of an individual.
-(b) $22 900, in any other case.
+(a) $13 500, in the case of an individual.
+(b) $68 700, in any other case.
 323—Approved learning framework
 A declared approved learning framework is taken to be an approved learning framework under this Law.
 324—Savings and transitional regulations
