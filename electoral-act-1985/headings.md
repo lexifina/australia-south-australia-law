@@ -39,6 +39,7 @@ Division 3—Indication of vote
 Division 4—Voting at polling booths
 Division 5—Declaration voting
 Division 5A—Electronically assisted voting for sight‑impaired electors
+Division 5B—Voting for eligible electors using telecommunications technology
 Division 6—Compulsory voting
 Division 7—Miscellaneous
 Part 10—The scrutiny
