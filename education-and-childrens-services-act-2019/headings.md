@@ -22,6 +22,7 @@ Part 6—Special purpose schools
 Part 7—Provision of education in schools
 Division 1—Enrolment
 Subdivision 1—Compulsory enrolment in school or approved learning program
+Subdivision 1A—Enrolment of children or students with disability
 Subdivision 2—Enrolment of adult students
 Subdivision 3—Information gathering
 Division 2—Attendance at school and participation in approved learning programs
