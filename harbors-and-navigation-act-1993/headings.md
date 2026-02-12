@@ -18,8 +18,10 @@ Division 1—Navigational aids
 Division 2—Clearance of wrecks
 Division 3—Restrictions on use of waters
 Part 5—Harbors and ports
+Division A1—Declaration and constitution of harbors and ports
 Division 1—Control and management of harbors and ports
 Division 2—Port management officers
+Division 2AA—Harbor rules
 Division 2A—Operational powers
 Division 3—Harbor improvement work
 Division 4—Harbor charges etc
