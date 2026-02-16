@@ -1,0 +1,3 @@
+83GZI—Evidence in other proceedings
+(1) If, in any criminal proceedings, the court is satisfied beyond reasonable doubt that a particular group was, at a particular time, a street gang within the meaning of paragraph (a) of the definition of street gang in section 83GH(1), the court may, on the application of the Director of Public Prosecutions, make a declaration to that effect.
+(2) If a declaration is made in relation to a group under subsection (1), then that group will, for the purposes of any subsequent criminal proceedings, be taken to be a street gang (within the meaning of paragraph (a) of the definition of street gang in section 83GH(1)) in the absence of proof to the contrary.

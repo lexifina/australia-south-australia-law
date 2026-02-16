@@ -1,0 +1,4 @@
+83GZM—Presumption as to participation
+For the purposes of any proceedings under this Part, a person is presumed, in the absence of proof to the contrary, to be a participant in a street gang at a particular time if the person is, at that time, displaying (whether on an article of clothing, as a tattoo or otherwise) a logo, sign, identifier, mark or symbol that identifies and is distinctive to the group.
+Note—
+It is intended that a flag referred to in or appointed under the Flags Act 1953 of the Commonwealth, the national flag of another country or the flag of a State or Territory of the Commonwealth, is not to be distinctive to a street gang or other group for the purposes of this section unless it is displayed with modification, or in a particular manner or context, so as to be distinctive to the group.
