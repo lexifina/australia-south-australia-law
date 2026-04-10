@@ -81,6 +81,9 @@ criminal history, of a person, means the following—
 (b) every plea of guilty or finding of guilt by a court of the person for an offence, in a participating jurisdiction or elsewhere, and whether before or after the commencement of this Law and whether or not a conviction is recorded for the offence;
 (c) every charge made against the person for an offence, in a participating jurisdiction or elsewhere, and whether before or after the commencement of this Law.
 criminal history law means a law of a participating jurisdiction that provides that spent or other convictions do not form part of a person's criminal history and prevents or does not require the disclosure of those convictions.
+disqualified person means a person—
+(a) whose registration has been cancelled by a responsible tribunal; or
+(b) who has been disqualified by a responsible tribunal from applying for registration, or being registered, in a health profession.
 division, of a health profession, means a part of a health profession for which a Division is included in the National Register kept for the profession.
 education provider means—
 (a) a university; or
@@ -200,6 +203,7 @@ registration status, in relation to an applicant for registration, includes—
 regulatory body, in relation to a person, means any of the following—
 (a) the National Agency;
 (b) for a person who is or was a registered health practitioner—a National Board for a health profession in which the person is or was registered.
+reinstatement order means an order of a responsible tribunal that a disqualified person is eligible to apply to a National Board for registration under Part 7.
 relevant action, for Division 10 of Part 8, see section 178.
 relevant fee, for a service provided by a National Board, means the fee—
 (a) set under a health profession agreement between the Board and the National Agency for the service; and
@@ -840,6 +844,8 @@ Note—
 See the definition of criminal history which applies to offences in participating jurisdictions and elsewhere, including outside Australia.
 (4) A criminal history law does not apply to the requirement under subsection (3)(c) for the applicant to disclose the applicant's criminal history.
 (5) Information in the application must, if the approved form requires, be verified by a statutory declaration.
+77A—Restriction on disqualified persons applying for registration
+Despite any other provision of this Law, a disqualified person cannot apply for registration under this Law unless a responsible tribunal has made a reinstatement order under this Law in relation to the disqualified person.
 78—Power to check applicant's proof of identity
 (1) If an applicant for registration gives a National Board a document as evidence of the applicant's identity under this section, the Board may, by written notice, ask the entity that issued the document—
 (a) to confirm the validity of the document; or
@@ -2549,7 +2555,8 @@ The responsible tribunal may make any order about costs it considers appropriate
 (e) cancel the practitioner's registration.
 (3) If the responsible tribunal decides to impose a condition on the practitioner's registration, the tribunal must also decide a review period for the condition.
 (4) If the tribunal decides to cancel a person's registration under this Law or the person does not hold registration under this Law, the tribunal may also decide to do one or more of the following—
-(a) disqualify the person from applying for registration as a registered health practitioner for a specified period;
+(a) disqualify the person from applying for registration as a registered health practitioner;
+(aa) impose a period during which the person may not apply to a responsible tribunal for a reinstatement order;
 (b) prohibit the person, either permanently or for a stated period, from doing either or both of the following—
 (i) providing any health service or a specified health service;
 (ii) using any title or a specified title;
@@ -2571,11 +2578,36 @@ Maximum penalty:
 (1) After hearing a matter about a student, a responsible tribunal may decide—
 (a) the student has an impairment; or
 (b) the student has no case to answer and no further action is to be taken in relation to the matter.
-(2) If the responsible tribunal decides the student has an impairment, the tribunal may decide—
+(2) If the responsible tribunal decides the student has an impairment, the tribunal may decide to—
 (a) impose a condition on the student's registration; or
 (b) suspend the student's registration.
 198—Relationship with Act establishing responsible tribunal
 This Division applies despite any provision to the contrary of the Act that establishes the responsible tribunal but does not otherwise limit that Act.
+Division 12A—Reinstatement orders
+198A—Application for reinstatement order
+(1) A disqualified person may apply to a responsible tribunal for a reinstatement order.
+(2) For the purposes of subsection (1), the appropriate responsible tribunal for an application for a reinstatement order is the responsible tribunal for the participating jurisdiction in which the decision that resulted in the person becoming a disqualified person was made.
+198B—Hearing of application for reinstatement order
+(1) At a hearing of an application for a reinstatement order, the responsible tribunal must determine whether, at the time of the hearing, the making of a reinstatement order is appropriate.
+(2) Without limiting subsection (1), in determining whether it is appropriate to make the reinstatement order, the tribunal may consider whether the person is—
+(a) a fit and proper person to hold registration in the health profession; and
+(b) able to practise the health profession competently and safely.
+(3) The responsible tribunal must take into account a complaint or notification made about the person, whether the complaint or notification was made before or after the decision that resulted in the person becoming a disqualified person.
+198C—Parties to proceedings
+The parties to proceedings relating to the hearing of an application for a reinstatement order are—
+(a) the disqualified person; and
+(b) the National Board that registered the person before the decision that resulted in the person becoming a disqualified person.
+198D—Costs
+The responsible tribunal may make any order about costs the tribunal considers appropriate for the proceedings.
+198E—Decision about application for reinstatement order
+(1) A responsible tribunal that hears an application for a reinstatement order may—
+(a) make an order dismissing the application; or
+(b) grant the reinstatement order.
+(2) If the responsible tribunal grants the reinstatement order, the tribunal may decide conditions to which the person's registration must be subject if a National Board decides to re‑register the person under this Law.
+(3) If the responsible tribunal decides to impose a condition on the person’s registration, the tribunal must also decide a review period for the condition, commencing from the date of re‑registration.
+(4) Any condition imposed on a person's registration by the National Board under Part 7 applies, but only to the extent it is not inconsistent with conditions imposed or changed by the responsible tribunal.
+(5) If the responsible tribunal makes an order dismissing the application, the tribunal may impose a period during which the person cannot make another application for a reinstatement order.
+(6) A person must not make an application for a reinstatement order in contravention of an order by the responsible tribunal under subsection (5).
 Division 13—Appeals
 199—Appellable decisions
 (1) A person who is the subject of any of the following decisions (an appellable decision) may appeal against the decision to the appropriate responsible tribunal for the appellable decision—
@@ -2899,6 +2931,46 @@ A National Register or Specialists Register must include the following informati
 (n) details of any qualifications relied on by the practitioner to obtain registration or to have the practitioner's registration endorsed;
 (o) if the practitioner has advised the National Board the practitioner fluently speaks a language other than English, details of the other language spoken;
 (p) any other information the National Board considers appropriate.
+225A—Requirement for additional information to be recorded in National and Specialists Registers in certain circumstances
+(1) This section applies if a National Board is satisfied that, in relation to a health practitioner whose name is recorded in a National Register or Specialists Register kept by the Board—
+(a) a responsible tribunal decided, on or after the participation day for the health profession, that the practitioner behaved in a way that constitutes professional misconduct; and
+(b) a basis for the tribunal's decision was that the practitioner engaged in sexual misconduct, whether occurring in connection with the practice of the practitioner's profession or not.
+(2) For the purposes of subsection (1)(b), it is immaterial that—
+(a) sexual misconduct was not the sole or main basis for the tribunal's decision; or
+(b) if the matter involved other types of conduct—the tribunal did not consider or decide whether the sexual misconduct alone constituted professional misconduct.
+Note—
+See paragraph (b) of the definition of professional misconduct, which provides that professional misconduct may include more than one instance of unprofessional conduct in particular circumstances.
+(3) The National Board may be satisfied for the purposes of subregulation (1)(b)—
+(a) by necessary inference, taking into account the tribunal's decision and the reasons for the decision; and
+(b) regardless of whether or not the tribunal's reasons for the decision expressly provide that sexual misconduct was a basis for the decision.
+(4) The National Board must record the information (the additional information) mentioned in section 225B in the National Register or Specialists Register.
+(5) However, the additional information must not be recorded in the National Register or Specialists Register, or must be removed from the register, if, on appeal, the responsible tribunal's decision regarding professional misconduct is—
+(a) stayed or overturned; or
+(b) modified to the extent it is no longer a decision to which this section applies.
+(6) Also, if recording the additional information in the National Register or Specialists Register would contravene an order of a court or tribunal, the National Board must not include, or must remove, the additional information to the extent the recording of the information in the register would contravene the order.
+(7) Section 226(1) and (2) apply to the requirement to record information under this section.
+(8) The additional information must remain on the National Register or Specialists Register permanently, unless otherwise authorised to be removed by this Law.
+(9) To the extent of any inconsistency between the requirements of this section and section 225B (the relevant sections) and section 232(2), the relevant sections prevail.
+225B—Additional information to be recorded in National and Specialists Registers for section 225A
+(1) For the purposes of section 225A(4), the additional information is—
+(a) a statement of the following—
+(i) the date of the tribunal's decision;
+(ii) the name of the tribunal;
+(iii) that the tribunal decided the person behaved in a way that constitutes professional misconduct;
+(iv) that the professional misconduct included sexual misconduct;
+(v) any sanction imposed by the tribunal that—
+(A) relates solely to the sexual misconduct; or
+(B) if the sanction relates to more than one type of conduct—relates to the sexual misconduct and other types of conduct; and
+(b) if the tribunal decision has been published—a copy of the decision or a link to the decision.
+(2) For the purposes of section 225A(4), if the tribunal decided to cancel the person's registration on the grounds of the professional misconduct, or if the health practitioner no longer holds registration, the additional information is also a statement of the following—
+(a) if the tribunal decided to disqualify the person from applying for registration under section 196(4)(a)—
+(i) that the tribunal decided to disqualify the person; and
+(ii) that the person may apply to the tribunal for a reinstatement order;
+(b) if the tribunal decided to set a period for which the person may not apply for a reinstatement order—the period for which the person may not apply for the order;
+(c) if the tribunal decided to prohibit the person from providing a health service or using a title under section 196(4)(b)—that the tribunal has prohibited the person from providing the service or using the title for a specified time or permanently;
+(d) if the tribunal decided to restrict the person from providing a health service under section 196(4)(c)—
+(i) that the tribunal has restricted the person from providing the service; and
+(ii) the period of the restriction or that the restriction is permanent.
 226—National Board may decide not to include or to remove certain information in register
 (1) A National Board may decide that a condition imposed on a registered health practitioner's registration, or the details of an undertaking accepted from a registered health practitioner, because the practitioner has an impairment is not to be recorded in a National Register or Specialists Register in which the practitioner's name is included if—
 (a) it is necessary to protect the practitioner's privacy; and
@@ -3630,15 +3702,11 @@ Part 16—Transitional provisions for Health Practitioner Regulation National La
 Section 77A—
 (a) does not apply in relation to an application for registration made before the commencement of this section; but
 (b) applies to a disqualified person who makes an application for registration after the commencement of this section, regardless of when a responsible tribunal made the decision that resulted in the person becoming a disqualified person.
-Editorial note—
-Section 327 had not come into operation at the date of the publication of this version.
 328—Application for reinstatement order
 (1) This section applies if, immediately before the commencement of this section—
 (a) a person was disqualified from applying for registration as a registered practitioner for a specified period; and
 (b) the period has not yet ended.
 (2) The person cannot apply under section 198A for a reinstatement order until the specified period has ended.
-Editorial note—
-Section 328 had not come into operation at the date of the publication of this version.
 329—Application of section 237B
 Section 237B applies—
 (a) to a non‑disclosure agreement, within the meaning of section 237B(3), whether entered into before or after the commencement of this section; and
