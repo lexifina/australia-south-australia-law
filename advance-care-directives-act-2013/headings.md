@@ -8,6 +8,7 @@ Subdivision 1—Revoking advance care directive where person competent
 Subdivision 2—Revoking advance care directive where person not competent
 Part 4—Recognition of advance care directives from other jurisdictions
 Part 5—Giving effect to advance care directives
+Part 5A—Powers of substitute decision-makers to place certain persons in residential aged care facility
 Part 6—Validity and limitation of liability
 Part 7—Dispute resolution, reviews and appeals
 Division 1—Preliminary
