@@ -1,4 +1,4 @@
 South Australia
-Petroleum Products Regulation Act 1995
+Petroleum Products Management and Emergencies Act 1995
 An Act to regulate the sale of petroleum products; and for other purposes.
 The Parliament of South Australia enacts as follows:
