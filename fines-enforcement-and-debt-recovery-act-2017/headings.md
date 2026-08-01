@@ -11,6 +11,7 @@ Division 1—Enforcement action
 Division 2—Failure of enforcement process
 Part 8—Civil debt recovery
 Division 1—Preliminary
+Division 1A—Recovery of civil judgment sum
 Division 2—Recovery of civil debt
 Division 3—Payment arrangements
 Division 4—Investigation powers
@@ -18,5 +19,7 @@ Division 5—Enforcement action
 Subdivision 1—Preliminary
 Subdivision 2—Action requiring formal determination
 Subdivision 3—Appointment of receiver
+Subdivision 4—Failure of enforcement process
+Subdivision 5—Costs
 Part 9—Authorised officers
 Part 10—Miscellaneous
