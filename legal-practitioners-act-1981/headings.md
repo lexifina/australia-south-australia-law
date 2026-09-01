@@ -33,15 +33,17 @@ Division 2—The statutory interest account
 Division 3—Legal Practitioners Fidelity Fund
 Division 4—Miscellaneous
 Part 5—Claims against Fidelity Fund
-Part 6—Investigations, inquiries and disciplinary proceedings
+Part 6—Investigations and disciplinary proceedings
 Division 1—Preliminary
 Division 2—Legal Profession Conduct Commissioner
 Subdivision 1—Legal Profession Conduct Commissioner
+Subdivision 1A—Assessment of fitness to practise
 Subdivision 2—Investigation of unsatisfactory professional conduct and professional misconduct
 Subdivision 3—Action following investigation
 Subdivision 4—Complaints of overcharging
 Subdivision 5—Conciliation
-Division 3—The Legal Practitioners Disciplinary Tribunal
+Subdivision 6—Review of certain decisions by Tribunal
+Division 3—Constitution of Tribunal
 Division 4—Proceedings before the Tribunal
 Division 5—Disciplinary proceedings before the Supreme Court
 Division 6—Publicising disciplinary action
