@@ -1,0 +1,38 @@
+{
+  "corpus": "au/south-australia/acts",
+  "parent": "au/federal/acts",
+  "name": "South Australian law: the Acts in force, every consolidated version in RTF",
+  "label": "South Australia",
+  "language": "en",
+  "acts": 267,
+  "history_from": "1917-10-25",
+  "record_to": "2026-09-24",
+  "record_note": "267 South Australian Acts in force, each from its earliest RTF version on the South Australian Legislation website through every later version (1805 versions) to 2026-09-24; data retrieved 2026-10-29. Commits between versions are dated by the commencement in the legislative history; only version days are checked against official text. Older versions published only as PDF (505) and ceased Acts are not included.",
+  "in_force_trailer": "In-force",
+  "built": "2026-10-29",
+  "checked_on": "2026-10-29",
+  "history": "in-force",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Assented"
+    ],
+    "time": "12:00 Adelaide (ACST, UTC+9:30; ACDT, UTC+10:30, in daylight saving time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "presumption against retrospective operation; repeal or amendment does not affect what was done or accrued before",
+      "meaning": "an Act is presumed not to operate retrospectively on substantive rights unless it says so; the repeal or amendment of an Act does not affect its previous operation or any right, liability or penalty acquired or incurred under it, unless the contrary intention appears",
+      "authority": "Acts Interpretation Act 1915 (SA) s 16 (effect of repeal or amendment); Maxwell v Murphy (1957) 96 CLR 261 (common-law presumption); not checked in this corpus",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/in_force_on.py",
+  "citation": {
+    "file": "([a-z0-9-]+)/s-0*([0-9]+[A-Z]*)\\.md",
+    "cites": "(section|s\\.?) ?{n}([^0-9A-Za-z]|$)"
+  },
+  "verification": "Every RTF version of every Act is checked against its official RTF on its version tag (file by file, and letters and digits against the raw RTF)."
+}

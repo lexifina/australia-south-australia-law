@@ -1,0 +1,17 @@
+The legal text in this repository
+
+Based on content from the South Australian Legislation website at 29 October 2026. For the latest information on South Australian Government legislation, please go to www.legislation.sa.gov.au/ .
+
+Despite any headers, footers or other markings, this legislation is NOT published under the Legislation Revision and Publication Act 2002. To access legislation that is published under the Legislation Revision and Publication Act 2002, please go to www.legislation.sa.gov.au/ .
+
+Copyright in the content of www.legislation.sa.gov.au is owned by the State of South Australia, which licenses it under
+the Creative Commons Attribution 4.0 International Licence (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+(Copyright Notice, https://www.legislation.sa.gov.au/copyright, paragraphs 3, 4, 7 and 9). The State's emblems
+(Piping Shrike, Royal Arms) are not reproduced. Changes made: each consolidated version (RTF) of each Act has been split
+into one file per provision, with white space, soft hyphens and footnote markers normalised, and the history between
+versions reconstructed into commits from the versions' legislative history tables. Neither the State of South
+Australia nor the Commissioner for Legislation Revision and Publication endorses this repository.
+
+The code, documentation and arrangement
+
+Copyright Lexifina. The tools in tools/ and the documentation may be used under CC BY 4.0 as well.
