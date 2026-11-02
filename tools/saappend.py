@@ -168,6 +168,12 @@ def state_on(rows: list[tuple[str, str]], day: str) -> str | None:
 
 # ---------------------------------------------------------------- the plan
 
+# Acts left out for now, with the reason (read by hand)
+HOLD = {'whyalla-steel-works-act-1958': 'its 2017 version is RTF, whose reader (sartf.py, shared with the Acts first '
+         'published) leaves out a subheading the XML prints (APPENDIX D, LAND TO BE DISPOSED); the change of reader would '
+         'show as a change of law'}
+
+
 def tkey(title: str) -> str:
     """A title's letters and digits: "Children's" and "Childrens", or a dash and a space, match."""
     return re.sub(r'[^a-z0-9]', '', norm_title(title).lower())
@@ -187,7 +193,7 @@ def make_plan(repo: Path, docs_date: str, workers: int) -> dict:
     # the Acts of the first build, by their A-Z titles and folders
     first = B.select_acts(acts_file=str(sacache.CACHE / 'pinned-acts.json'))
     first_keys = {tkey(x['title']) for x in first}
-    plan, published, notcurrent = [], [], []
+    plan, published, notcurrent, held_acts = [], [], [], []
     for a in acts:
         keys = {tkey(t) for t in a['titles']}
         folders = {folder_of(t) for t in a['titles']} | {B.slug(t) for t in a['titles']}
@@ -199,6 +205,9 @@ def make_plan(repo: Path, docs_date: str, workers: int) -> dict:
             notcurrent.append({'key': a['key'], 'title': a['title'], 'ceased': ceased.get(a['title'])})
             continue
         slug = folder_of(a['title'])
+        if slug in HOLD:
+            held_acts.append({'slug': slug, 'title': a['title'], 'why': HOLD[slug]})
+            continue
         vs = [v for v in a['versions'] if v['from'] <= docs_date]
         later = [v['from'] for v in a['versions'] if v['from'] > docs_date]
         plan.append({'key': list(a['key']), 'slug': slug, 'title': a['title'], 'titles': a['titles'],
@@ -209,7 +218,8 @@ def make_plan(repo: Path, docs_date: str, workers: int) -> dict:
     dup = sorted({p['slug'] for p in plan if sum(1 for q in plan if q['slug'] == p['slug']) > 1})
     if dup:
         raise SystemExit(f'two Acts share a folder: {dup[:5]}')
-    out = {'docs_date': docs_date, 'acts': plan, 'published': published, 'not_current': notcurrent}
+    out = {'docs_date': docs_date, 'acts': plan, 'published': published, 'not_current': notcurrent,
+           'held': held_acts}
     PLAN.write_text(json.dumps(out, indent=0, sort_keys=True) + '\n', 'utf-8')
     return out
 
@@ -299,7 +309,8 @@ def titles_for(entries: list[dict], workers: int) -> list[dict]:
     return out
 
 
-def append(repo: Path, docs_date: str, n: int, workers: int, docs=None, dry_run: bool = False) -> dict:
+def append(repo: Path, docs_date: str, n: int, workers: int, docs=None, dry_run: bool = False,
+           layered: bool = False) -> dict:
     plan = json.loads(PLAN.read_text('utf-8'))
     if plan['docs_date'] != docs_date:
         raise SystemExit(f'the plan is for {plan["docs_date"]}; run plan again')
@@ -312,6 +323,10 @@ def append(repo: Path, docs_date: str, n: int, workers: int, docs=None, dry_run:
     titles = titles_for(todo, workers)
     names = B.names_of(titles)
     groups = B.plan(titles)
+    if layered:
+        # breadth first: every Act's first version (A-Z), then every later change of all of them, in day order
+        starts = sorted((g for g in groups if g['kind'] == 'start'), key=lambda g: min(g['titles']))
+        groups = starts + [g for g in groups if g['kind'] != 'start']
     head = B.git(repo, 'rev-parse', 'main').strip()
     ct, tz = B.git(repo, 'log', '-1', '--format=%ct %ci', 'main').split()[0::3]
     ct = int(ct)
@@ -325,7 +340,7 @@ def append(repo: Path, docs_date: str, n: int, workers: int, docs=None, dry_run:
     seq = [0]
     mark = 0
     parent = head
-    day_mark = []
+    act_marks: dict[str, list] = {}
     kinds = {}
     for g in groups:
         author, msg, files = message(g, names)
@@ -344,19 +359,22 @@ def append(repo: Path, docs_date: str, n: int, workers: int, docs=None, dry_run:
                 out.write(b'M 100644 inline ' + p.encode('utf-8') + b'\n')
                 data(txt.encode('utf-8'))
         out.write(b'\n')
-        day_mark.append((g['day'], mark))
+        for s in g['titles']:
+            act_marks.setdefault(s, []).append((g['day'], mark))
         kinds[g['kind']] = kinds.get(g['kind'], 0) + 1
-    # a version's tag: the last appended commit in force on or before its first day (this block is in day order, and
-    # holds only the Acts it adds, so that commit holds the Act as it stood that day)
+    # a version's tag: of the commits that touch the Act, the one tools/in_force_on.py reads for the version's first
+    # day (the latest In-force day on or before it; the later commit if two share it)
     tags = {}
-    import bisect
-    days = [d for d, _m in day_mark]
     for t in titles:
+        ms = act_marks.get(t['slug'], [])
         for v in t['versions']:
-            i = bisect.bisect_right(days, v['from'])
+            best = None
+            for d, m in ms:
+                if d <= v['from'] and (best is None or (d, m) > best):
+                    best = (d, m)
             name = f'{t["slug"]}/{v["from"]}'
-            if i and name not in existing:
-                tags[name] = day_mark[i - 1][1]
+            if best and name not in existing:
+                tags[name] = best[1]
     for name, m in sorted(tags.items()):
         out.write(f'reset refs/tags/{name}\nfrom :{m}\n\n'.encode('utf-8'))
     out.write(b'done\n')
@@ -395,6 +413,7 @@ def main():
     ap.add_argument('--workers', type=int, default=2)
     ap.add_argument('--dry-run', action='store_true')
     ap.add_argument('--no-docs', action='store_true')
+    ap.add_argument('--layered', action='store_true', help='first versions of all the Acts, then all their changes')
     a = ap.parse_args()
     if a.what == 'plan':
         p = make_plan(Path(a.repo), a.docs_date, a.workers)
@@ -405,7 +424,7 @@ def main():
     if not a.no_docs:
         from saopen_docs import write_docs
         docs = write_docs
-    print(json.dumps(append(Path(a.repo), a.docs_date, a.acts, a.workers, docs, a.dry_run), sort_keys=True))
+    print(json.dumps(append(Path(a.repo), a.docs_date, a.acts, a.workers, docs, a.dry_run, a.layered), sort_keys=True))
 
 
 if __name__ == '__main__':

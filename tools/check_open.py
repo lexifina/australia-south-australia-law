@@ -32,6 +32,13 @@ import check_words as W  # noqa: E402
 import saappend as AP  # noqa: E402
 import saopen  # noqa: E402
 import sacache  # noqa: E402
+import in_force_on as IFO  # noqa: E402
+import hashlib  # noqa: E402
+
+
+def blob_oid(text: str) -> str:
+    b = text.encode('utf-8')
+    return hashlib.sha1(('blob %d' % len(b)).encode() + bytes(1) + b).hexdigest()
 
 
 # ---------------------------------------------------------------- the separate XML reader (letters and digits)
@@ -138,33 +145,52 @@ def main():
     titles += opened
     known = {t['slug'] for t in titles}
     cat = Cat(repo)
+    # corrections (Kind: correction): the corrected files of a published version, from the official XML
+    cp = sacache.CACHE / 'open-corrections.json'
+    fixes_want = {}
+    if cp.exists():
+        for c in json.loads(cp.read_text('utf-8'))['corrections']:
+            fixes_want[f'{c["act"]}/{c["from"]}'] = c['files']
     bad, words = [], []
-    nver = nfiles = between = 0
+    nver = nfiles = between = ncorr = 0
+
+    def ids(units: dict, slug: str, label: str | None = None) -> dict[str, str]:
+        out = {f'{slug}/{B.file_name(k)}': blob_oid(txt) for k, txt in units.items()}
+        for p, txt in (fixes_want.get(label) or {}).items():
+            if txt is None:
+                out.pop(p, None)
+            else:
+                out[p] = blob_oid(txt)
+        return out
     for t in titles:
-        r = rows.get(t['slug'], [])
+        slug = t['slug']
+        hist = IFO.history(slug, repo=repo)
+        fixes = IFO.corrections(slug, repo=repo) if any(c for _h, _d, c in hist) else []
+        ordinary = [d for _h, d, c in hist if not c]
         vs = [v for v in t['versions'] if v['from'] <= a.today]
         for i, v in enumerate(vs):
-            label = f'{t["slug"]}/{v["from"]}'
-            want = {f'{t["slug"]}/{B.file_name(k)}': txt.encode('utf-8') for k, txt in v['doc']['units'].items()}
+            label = f'{slug}/{v["from"]}'
+            want = ids(v['doc']['units'], slug, label)
+            ncorr += label in fixes_want
             nver += 1
             nfiles += len(want)
-            rev = AP.state_on(r, v['from'])
-            if rev is None or tree(cat, rev, t['slug']) != want:
+            have, rev, _used = IFO.state_on(v['from'], slug, repo=repo, rows=hist, fixes=fixes)
+            if have != want:
                 bad.append(f'{label}: the text on its first day differs')
                 continue
-            before = AP.state_on(r, prev_day(v['from']))
+            before, _r, _u = IFO.state_on(prev_day(v['from']), slug, repo=repo, rows=hist, fixes=fixes)
             if i == 0:
                 if before is not None:
                     bad.append(f'{label}: the Act reads as in force the day before its first version')
-            elif any(vs[i - 1]['from'] < d < v['from'] for _h, d in r):
+            elif any(vs[i - 1]['from'] < d < v['from'] for d in ordinary):
                 between += 1   # changes dated by their commencement between the two versions: no version to compare
             else:
-                pw = {f'{t["slug"]}/{B.file_name(k)}': txt.encode('utf-8') for k, txt in vs[i - 1]['doc']['units'].items()}
-                if before is None or tree(cat, before, t['slug']) != pw:
+                pl = f'{slug}/{vs[i - 1]["from"]}'
+                if before != ids(vs[i - 1]['doc']['units'], slug, pl):
                     bad.append(f'{label}: the day before does not read as the version of {vs[i - 1]["from"]}')
             if label not in tags:
                 bad.append(f'{label}: no tag')
-            elif tags[label] != rev and tree(cat, tags[label], t['slug']) != want:
+            elif label not in fixes_want and tags[label] != rev and IFO.tree_ids(tags[label], slug, repo) != want:
                 bad.append(f'{label}: the tag holds other text')
             if t['source'] == 'open':
                 files = {k: txt for k, txt in v['doc']['units'].items()}
@@ -181,7 +207,8 @@ def main():
     back = sum(1 for x, y in zip(cts, cts[1:]) if y < x)
     rec = {'acts': len(titles), 'open_acts': len(opened), 'versions': nver, 'files': nfiles, 'mismatches': len(bad), 'day_before_skipped': between,
            'examples': bad[:12], 'words_checked': len(words), 'words_failed': len(wbad), 'words_examples': wbad[:8],
-           'unknown_folders': unknown[:10], 'merges': len(merges), 'committer_dates_backwards': back}
+           'unknown_folders': unknown[:10], 'merges': len(merges), 'committer_dates_backwards': back,
+           'corrected_versions_checked': ncorr}
     print(json.dumps(rec, indent=1))
     p = HERE / 'verification.json'
     ver = json.loads(p.read_text('utf-8')) if p.exists() else {}

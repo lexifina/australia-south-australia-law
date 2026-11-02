@@ -16,7 +16,7 @@ import build as B
 # elements whose content is a paragraph of their own (structure, not inline text)
 STRUCT = {'level', 'tier', 'block', 'list', 'li', 'deflist', 'head', 'table', 'tgroup', 'tbody', 'thead', 'row',
           'entry', 'note', 'content', 'graphicblock', 'formulablock', 'metadata', 'colspec', 'fragment'}
-SKIP = {'metadata', 'colspec', 'graphic', 'parentattributes', 'attrib', 'field'}
+SKIP = {'metadata', 'colspec', 'graphic', 'parentattributes', 'attrib'}   # <field> is text ("$10 000.")
 PREFIX_TIERS = {'penalty', 'expiationfees'}
 LEVEL_WORD = {'chapter': 'Chapter', 'part': 'Part', 'division': 'Division', 'subdivision': 'Subdivision'}
 
@@ -154,6 +154,11 @@ class Reader:
                 self.prefix.append(no)
             elif no or hd:
                 self.para(f'{no}\u2014{hd}' if no and hd else (no or hd))
+            for more in e.findall('heading')[1:]:
+                self.para(inline(more))  # a second heading ("ANNEX", then "UNIFORM LAW ..."): a line of its own
+            sub = e.find('subheading')
+            if sub is not None:
+                self.para(inline(sub))   # "(Convention of October 26, 1973)": a line of its own
             return
         if tag == 'no':
             self.prefix.append(clean(inline(e)))
@@ -262,6 +267,8 @@ def read(raw: bytes) -> dict:
                 # a schedule with no heading (forms only, or an appendix): the RTF prints its number as a plain
                 # paragraph of the unit before, and so does this reader
                 r.para(no or word)
+                if e.find('head') is not None and e.find('head').find('subheading') is not None:
+                    r.para(inline(e.find('head').find('subheading')))
                 for c in e:
                     if c.tag == 'head':
                         continue
@@ -273,6 +280,8 @@ def read(raw: bytes) -> dict:
             base = ('sch' if word == 'Schedule' else 'app') + (f'-{num}' if num else '')
             r.cur = d.add(f'{base}/schedule')
             r.para(f'{no or word}\u2014{hd}')
+            if e.find('head') is not None and e.find('head').find('subheading') is not None:
+                r.para(inline(e.find('head').find('subheading')))
             for c in e:
                 if c.tag == 'head':
                     continue

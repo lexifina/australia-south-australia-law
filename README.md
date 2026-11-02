@@ -1,13 +1,13 @@
 # South Australia law, change by change
 
-The Acts of South Australia as a git repository: 292 Acts in force, 1935 versions. 267 of them have every
+The Acts of South Australia as a git repository: 581 Acts in force, 2851 versions. 267 of them have every
 consolidated version the [South Australian Legislation website](https://www.legislation.sa.gov.au) publishes as RTF
-(1805 versions); 25 more come from the South Australian Government's open data on
-[data.sa.gov.au](https://data.sa.gov.au/data/dataset/database-update-package-xml), from 2017 on (130 versions;
+(1805 versions); 314 more come from the South Australian Government's open data on
+[data.sa.gov.au](https://data.sa.gov.au/data/dataset/database-update-package-xml), from 2017 on (1046 versions;
 see "Acts added from the open data"). Each amending Act is one commit, credited to that Act and dated the day it took
 effect, at noon in Adelaide.
 
-**This record is partial.** It holds 292 of the 1,390 Acts on the A-Z list of Acts in force (many of the rest are
+**This record is partial.** It holds 581 of the 1,390 Acts on the A-Z list of Acts in force (many of the rest are
 Acts of limited application, repealing Acts and old titles with no consolidated text). More Acts are appended as they
 are checked; nothing already published is rewritten.
 
@@ -30,7 +30,7 @@ are checked; nothing already published is rewritten.
 
 ## Acts added from the open data
 
-25 Acts were added after the first 267, from the open data of the Office of Parliamentary Counsel on
+314 Acts were added after the first 267, from the open data of the Office of Parliamentary Counsel on
 data.sa.gov.au: the Legislative Database of 17 November 2017 (every Act then in operation, as RTF) and every
 fortnightly Legislative Database Update Package (XML) since (each Act substituted or added in the fortnight, as a whole
 version with the day it took effect). They are read and credited as the first 267: each version's legislative
@@ -47,8 +47,9 @@ history names the Act that changed each provision, with its commencement. For th
 - the 2017 versions are RTF and the later ones XML. Where a provision differs between two versions only in white space,
   table bars or a non-breaking hyphen for a hyphen (the two formats print a few spaces differently), it keeps the earlier version's text, so a change of
   format is never recorded as a change of law;
-- each Act is appended whole, in A-Z order, a few dozen at a time; the version tags `<act>/<first day>` point at the
-  commit that holds that version.
+- the first 25 of them were appended Act by Act; the rest as one block: the first version of every Act (A-Z), then
+  every later change of all of them, in day order. The version tags `<act>/<first day>` point at the commit that
+  holds that version.
 
 `tools/saopen.py` reads the open data, `tools/saxml.py` the XML versions (written to print what `tools/sartf.py` prints
 for the same version's RTF), `tools/saappend.py` appends, and `tools/check_open.py` checks every version of every Act

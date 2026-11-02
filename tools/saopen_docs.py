@@ -120,8 +120,9 @@ history names the Act that changed each provision, with its commencement. For th
 - the 2017 versions are RTF and the later ones XML. Where a provision differs between two versions only in white space,
   table bars or a non-breaking hyphen for a hyphen (the two formats print a few spaces differently), it keeps the earlier version's text, so a change of
   format is never recorded as a change of law;
-- each Act is appended whole, in A-Z order, a few dozen at a time; the version tags `<act>/<first day>` point at the
-  commit that holds that version.
+- the first 25 of them were appended Act by Act; the rest as one block: the first version of every Act (A-Z), then
+  every later change of all of them, in day order. The version tags `<act>/<first day>` point at the commit that
+  holds that version.
 
 `tools/saopen.py` reads the open data, `tools/saxml.py` the XML versions (written to print what `tools/sartf.py` prints
 for the same version's RTF), `tools/saappend.py` appends, and `tools/check_open.py` checks every version of every Act
