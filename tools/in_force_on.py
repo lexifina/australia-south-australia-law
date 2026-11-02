@@ -4,9 +4,11 @@
     python tools/in_force_on.py 2015-06-01 constitution-act-1934          (the whole Act)
     python tools/in_force_on.py 2015-06-01 constitution-act-1934 --commit (the commit that holds that day's text)
 
-It reads the In-force trailer of every commit on main, takes the last commit in force on or before the day (commits
-are in the order they took effect), and prints the files from that commit. A provision may be given as a file name
-(s-028, sch-1/cl-003) or as "s 28".
+It reads the In-force trailer of every commit on main that touches the Act's folder and takes, of those in force on
+or before the day, the one with the latest In-force day (the newest such commit if two share it); then it prints the
+Act's files from that commit. The commits are not all in date order: Acts added later from the open data were
+appended after the Acts first published, so the trailer, not the position, gives each commit's day. A provision may
+be given as a file name (s-028, sch-1/cl-003) or as "s 28".
 """
 import re
 import subprocess
@@ -17,19 +19,18 @@ def git(*args: str) -> str:
     return subprocess.run(['git', *args], capture_output=True, check=True).stdout.decode('utf-8')
 
 
-def commit_on(day: str, ref: str = 'main') -> str | None:
-    out = git('log', '--first-parent', '--reverse', '--format=%H%x00%(trailers:key=In-force,valueonly,separator=,)', ref)
+def commit_on(day: str, act: str, ref: str = 'main') -> str | None:
+    out = git('log', '--no-merges', '--format=%H%x00%(trailers:key=In-force,valueonly,separator=,)', ref, '--',
+              act + '/')
     best = None
-    for line in out.splitlines():
+    for line in out.splitlines():   # newest commit first
         if '\x00' not in line:
             continue
         h, d = line.split('\x00', 1)
         d = d.strip()
-        if d and d <= day:
-            best = h
-        elif d and d > day:
-            break
-    return best
+        if d and d <= day and (best is None or d > best[1]):
+            best = (h, d)
+    return best[0] if best else None
 
 
 def key_of(p: str) -> str:
@@ -46,9 +47,9 @@ def main():
     if len(a) < 2:
         raise SystemExit(__doc__)
     day, act = a[0], a[1].strip('/')
-    c = commit_on(day)
+    c = commit_on(day, act)
     if c is None:
-        raise SystemExit(f'nothing in force on {day}')
+        raise SystemExit(f'{act}: not in force on {day} in this record')
     if '--commit' in sys.argv:
         print(git('show', '-s', '--format=%H%n%an%n%n%B', c))
         return

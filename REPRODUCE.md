@@ -37,3 +37,18 @@ the `current` file of an Act when a new version is published, so files retrieved
 
 The RTF reader, builder and checks were written by an AI coding agent (Claude, model claude-opus-5-5) for
 Lexifina. No model reads or writes legal text at build time: every word comes from the RTF files.
+
+## Acts appended from the open data
+
+The Acts after the first 267 are appended to main, never rebuilt (`tools/saappend.py`):
+
+1. Put the open-data files where `tools/saopen.py` reads them (SA_OPENDATA: `base/2017-11-17-a-p-pol.zip`, the
+   update packages in `xml/` as `<publication day>_<resource id>.zip`, and `xml/resources.json`, the dataset's CKAN
+   resource list), each matching its SHA-256 in `DATA-SHA256SUMS`; then `python -X utf8 tools/saopen.py index`.
+2. `python -X utf8 tools/saappend.py plan --docs-date D`, then `python -X utf8 tools/saappend.py append --docs-date D
+   --acts N` on a clone whose main is the published main: the next N Acts (A-Z) not on main yet. The same main and
+   the same files give the same commits.
+3. `python -X utf8 tools/check_open.py` checks every version of every Act on main.
+
+Runs so far:
+- 2026-11-02: 25 Acts (energy-resources-act-2000 .. limitation-of-actions-act-1936), 130 versions, 134 commits, 130 tags, appended to c974b4b3470b.

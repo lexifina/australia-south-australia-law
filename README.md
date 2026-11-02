@@ -1,13 +1,15 @@
 # South Australia law, change by change
 
-The Acts of South Australia as a git repository: 267 Acts in force, each with every consolidated version the
-[South Australian Legislation website](https://www.legislation.sa.gov.au) publishes as RTF (1805 versions). Each
-amending Act is one commit, credited to that Act and dated the day it took effect, at noon in Adelaide.
+The Acts of South Australia as a git repository: 292 Acts in force, 1935 versions. 267 of them have every
+consolidated version the [South Australian Legislation website](https://www.legislation.sa.gov.au) publishes as RTF
+(1805 versions); 25 more come from the South Australian Government's open data on
+[data.sa.gov.au](https://data.sa.gov.au/data/dataset/database-update-package-xml), from 2017 on (130 versions;
+see "Acts added from the open data"). Each amending Act is one commit, credited to that Act and dated the day it took
+effect, at noon in Adelaide.
 
-This build covers the first 445 of the 1390 Acts in force on the site's A-Z list: 267 have consolidated text; 169 have none on the site (Acts of limited
-application, repealing Acts and old titles, whose pages list no version); 3 could not be read.
-
-**This record is partial.** It covers the first 445 of the 1,390 current Acts (267 with text). Later rebuilds will add the other Acts and re-date the history, so commit hashes and tags will change.
+**This record is partial.** It holds 292 of the 1,390 Acts on the A-Z list of Acts in force (many of the rest are
+Acts of limited application, repealing Acts and old titles with no consolidated text). More Acts are appended as they
+are checked; nothing already published is rewritten.
 
 ## The questions, as git commands
 
@@ -25,6 +27,32 @@ application, repealing Acts and old titles, whose pages list no version); 3 coul
 | Changes two Acts could have made (credited to neither) | `git log --grep="Kind: two or more Acts"` |
 | Changes credited by date only | `git log --grep="by date only"` |
 | Changes no Act explains | `git log --grep="Kind: no Act named"` |
+
+## Acts added from the open data
+
+25 Acts were added after the first 267, from the open data of the Office of Parliamentary Counsel on
+data.sa.gov.au: the Legislative Database of 17 November 2017 (every Act then in operation, as RTF) and every
+fortnightly Legislative Database Update Package (XML) since (each Act substituted or added in the fortnight, as a whole
+version with the day it took effect). They are read and credited as the first 267: each version's legislative
+history names the Act that changed each provision, with its commencement. For these Acts:
+
+- the history starts with the version in force on 17 November 2017 (for an Act passed later, its first version in the
+  packages); amendments before it are in that text and not separated out;
+- a version replaced within a fortnight, before the next package, is not in the packages: its changes fall into the
+  next version;
+- the commits were appended to main after those of the first 267 Acts, because main only grows: they come after
+  commits with later dates. Each commit's day is in its `In-force:` trailer, and `tools/in_force_on.py` reads an Act's
+  text on a day from the commits that touch that Act. `git rev-list --before` (committer dates) answers for the first
+  267 Acts only; for the others use the tool, or `git log -- <act>/` and the trailers;
+- the 2017 versions are RTF and the later ones XML. Where a provision differs between two versions only in white space,
+  table bars or a non-breaking hyphen for a hyphen (the two formats print a few spaces differently), it keeps the earlier version's text, so a change of
+  format is never recorded as a change of law;
+- each Act is appended whole, in A-Z order, a few dozen at a time; the version tags `<act>/<first day>` point at the
+  commit that holds that version.
+
+`tools/saopen.py` reads the open data, `tools/saxml.py` the XML versions (written to print what `tools/sartf.py` prints
+for the same version's RTF), `tools/saappend.py` appends, and `tools/check_open.py` checks every version of every Act
+on main, file by file and, with a separate reader, letter by letter.
 
 ## The dates, and which one we use
 
@@ -64,7 +92,7 @@ Counts in this build: 1159 law commits (act: 761, candidates: 31, editorial: 69,
 `tools/check_repo.py` reads every version of every Act back from git (its tag) and compares it with the official RTF,
 file by file; `tools/check_words.py` compares the letters and digits of every version with the raw RTF read by a
 separate minimal extractor; `tools/test_repo.py` checks that the commands above work. Results are in
-[`REPRODUCE.md`](REPRODUCE.md).
+[`REPRODUCE.md`](REPRODUCE.md). Since Acts were appended, `tools/check_open.py` does the same for every Act on main, choosing each version's commit by the Act's own commits and In-force trailers.
 
 ## Files
 
@@ -77,6 +105,7 @@ is removed.
 
 ## What it does not show
 
+- Acts appended from the open data: versions before the one in force on 17 November 2017, and versions replaced within a fortnight.
 - Versions published only as PDF (505 older versions of these Acts, mostly before 2003), Acts that have ceased,
   Acts with no consolidated version on the site, and regulations.
 - The text on a day between two versions other than as rebuilt from the Acts' commencements (above).
@@ -96,6 +125,8 @@ and [`corpus.json`](corpus.json). After a rebuild, `git fetch --force --tags` re
 Based on content from the South Australian Legislation website at 29 October 2026. For the latest information on South Australian Government legislation, please go to www.legislation.sa.gov.au/ .
 
 Despite any headers, footers or other markings, this legislation is NOT published under the Legislation Revision and Publication Act 2002. To access legislation that is published under the Legislation Revision and Publication Act 2002, please go to www.legislation.sa.gov.au/ .
+
+The Acts added from the open data: Office of Parliamentary Counsel, Government of South Australia, Legislative Database Update Package (XML) and Legislative Database, sourced on 2026-11-02, https://data.sa.gov.au/data/dataset/database-update-package-xml and https://data.sa.gov.au/data/dataset/legislative-database. Licensed under the Creative Commons Attribution 4.0 Licence (data.sa.gov.au/copyright); the dataset is published under CC BY 4.0. The South Australian Government does not endorse this repository.
 
 The content is licensed by the State of South Australia under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/);
 it has been changed (split into files by provision, white space normalised, history reconstructed). See

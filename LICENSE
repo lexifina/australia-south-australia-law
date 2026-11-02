@@ -12,6 +12,14 @@ into one file per provision, with white space, soft hyphens and footnote markers
 versions reconstructed into commits from the versions' legislative history tables. Neither the State of South
 Australia nor the Commissioner for Legislation Revision and Publication endorses this repository.
 
+The Acts added from the open data
+
+Office of Parliamentary Counsel, Government of South Australia, Legislative Database Update Package (XML) and Legislative Database, sourced on 2026-11-02, https://data.sa.gov.au/data/dataset/database-update-package-xml and https://data.sa.gov.au/data/dataset/legislative-database. The datasets are licensed by the Government of South Australia under the Creative
+Commons Attribution 4.0 Licence (https://creativecommons.org/licenses/by/4.0/; https://data.sa.gov.au/copyright).
+Changes made: each version split into one file per provision, white space normalised, and the history between versions
+reconstructed into commits from the versions' legislative history tables. The South Australian Government does not
+endorse this repository.
+
 The code, documentation and arrangement
 
 Copyright Lexifina. The tools in tools/ and the documentation may be used under CC BY 4.0 as well.
