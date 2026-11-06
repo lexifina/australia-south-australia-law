@@ -1,5 +1,7 @@
 # South Australia law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of South Australia, Australia, which global-law reads at `australia/south-australia/acts/`.
+
 The Acts of South Australia as a git repository: 581 Acts in force, 2851 versions. 267 of them have every
 consolidated version the [South Australian Legislation website](https://www.legislation.sa.gov.au) publishes as RTF
 (1805 versions); 314 more come from the South Australian Government's open data on
